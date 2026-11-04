@@ -169,8 +169,6 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 **Porque para eso no basta con saber programar: ocupan muchos pantalones.** No es un proyecto de fin de semana, y el que lo agarre a medias **va a tener un sistema que produce sin poder decir por qué**, que es exactamente el bloc de notas del que salió todo esto.
 
-**Y una advertencia que va en serio:** **trabajar con hardware no es como equivocarse en un archivo .md. La electricidad mata con cualquier cantidad de voltaje.** Un error en un repositorio se corrige; uno en un montaje se paga.
+**Y una advertencia que va en serio:** **trabajar con hardware no es como equivocarse en un archivo .md. La electricidad, o lo que sea que descubras, mata con cualquier cantidad de voltaje.** Un error en un repositorio se corrige; uno en un montaje se paga.
 
 **Yo no quiero sentirme responsable del pobre loco que meta las manos en algo así por lo que leyó aquí.** Este trabajo da una forma y una documentación, **no da la seguridad de que tu montaje esté bien hecho.** Eso **lo revisa otro**, con la corriente desconectada, y con alguien al lado.
-
-**Dicho eso: si lo haces bien, bienvenido a la carrera. Y trae el rastro.**
