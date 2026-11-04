@@ -21,7 +21,7 @@
 | Archivo | Qué es | Para quién |
 |---|---|---|
 | **`GUIA.md`** | **el ente mínimo, con SQLite.** Quince minutos. | el que quiere construir hoy |
-| **`testigo/CRITERIO.md`** | **las doce fricciones, el desenlace, y cómo heredarlas** | el que no quiere empezar de cero |
+| **`testigo/CRITERIO.md`** | **las quince fricciones, el desenlace, y cómo heredarlas** | el que no quiere empezar de cero |
 | **`testigo/ESCARBAR.md`** | **el mapa de `Máscara vs Circuitos`**, y el DOI del proyecto anterior | el que quiere ir al original |
 | **`testigo/QUE NO SALGA MAL.md`** | **las cinco trampas**, y el falsificador de todo esto | el que ya construyó |
 

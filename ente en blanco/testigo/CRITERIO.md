@@ -1,6 +1,6 @@
-# CRITERIO — las doce piedras, y el desenlace
+# CRITERIO — las quince piedras, y el desenlace
 
-**Doce errores que una IA cometió construyendo esto. Se heredan como fricción, no como regla.**
+**Quince errores que una IA cometió construyendo esto. Se heredan como fricción, no como regla.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
 **Sale de:** `2 criterio real` (el registro y el desenlace) y `4 criterio y sesgos` (qué es del ente y qué del modelo). **El nombre de la IA que se cayó se dice donde importa: en cada fricción.**
@@ -11,7 +11,7 @@
 
 | Se hereda | No se hereda |
 |---|---|
-| **Las doce fricciones, como fricciones** | **sus hechos** |
+| **Las quince fricciones, como fricciones** | **sus hechos** |
 | **Las dos reglas duras** (en `GUIA.md`) | **sus conclusiones** |
 | **Las cinco trampas** (en `QUE NO SALGA MAL.md`) | **sus tesis** |
 
@@ -109,11 +109,39 @@
 
 ---
 
-## Lo que las doce tienen en común
+### 13. Escribir en una tabla paralela y devolver éxito
+- **El error:** un script escribió en una tabla que no existía en el esquema, en vez de la tabla de hechos, y respondió `[dato escrito]` con código de salida 0.
+- **Por qué era creíble:** el comando terminó bien, imprimió el mensaje esperado, y el código de salida fue éxito. Nada en la superficie decía que había fallado.
+- **Cómo se reconoce:** cuando un comando dice que escribió, **se comprueba la tabla, no el mensaje.** Y si aparece una tabla que no estaba, es alarma.
+- **En su lugar:** después de escribir, se cuenta en la tabla que importa. El código de salida no es prueba de nada.
+- **Quién lo corrigió:** el dueño, al pedir la verdad a lujo de detalle.
 
-**Nueve de doce son de la misma familia:** **rellenar un hueco en vez de declararlo.**
-**Dos son de no leer lo que se pidió.**
-**Una es del propio método, y es la peor:** **rellenar el hueco sabiendo que el ensayo decía que no se rellenara.**
+### 14. Migrar etiquetas como si fueran datos
+- **El error:** al pasar un banco viejo a uno nuevo, una columna que guardaba una **categoría** (`ruptura`, `confirmación`, `revelación`) entró como si fuera el campo que el esquema exige, que pide **una frase que diga hasta dónde alcanza**.
+- **Por qué era creíble:** las columnas se llamaban parecido, la migración las mapeó una a una, y **el campo quedó lleno.** Un campo lleno parece un campo cumplido.
+- **Cómo se reconoce:** cuando un campo migrado contiene **una sola palabra que es una categoría** en vez de una frase que diga dónde deja de ser cierta la afirmación.
+- **En su lugar:** se mira el contenido, no el nombre de la columna. **Y lo que no se puede recuperar se marca como no declarado.**
+- **Quién lo corrigió:** el dueño, al pedir que se puliera el criterio en la base.
+
+### 15. Afirmar cómo funciona una interfaz sin abrirla
+- **El error:** se afirmó que un lanzamiento nuevo iba a quedar arriba de otro en GitHub, cuando el orden real no lo ponía ahí.
+- **Por qué era creíble:** la creencia era común, y suena técnica.
+- **Cómo se reconoce:** si se afirma cómo funciona una interfaz de terceros **sin haber abierto la página**, es memoria disfrazada de dato.
+- **En su lugar:** antes de afirmar cómo funciona una interfaz, **se abre y se mira.** Y si no se abrió, se dice que no se abrió.
+- **Quién lo corrigió:** el dueño, con una pregunta que dejó claro que importaba.
+
+---
+
+## Lo que las quince tienen en común
+
+**De las quince, doce son de la misma familia: rellenar un hueco en vez de declararlo.**
+
+**Y dos de esas doce son las peores, porque el hueco estaba lleno con algo que parecía un dato:**
+**una etiqueta migrada como si fuera una frontera, y una tabla paralela que devolvió éxito.**
+
+**De las otras tres: dos son de no leer lo que se pidió, y una es de afirmar cómo funciona algo sin haberlo abierto.**
+
+**Y dentro de las doce hay una que no es un descuido: rellenar el hueco sabiendo que el banco decía que no se rellenara.**
 
 **Y de ahí sale la que más vale:** **un ente que no deja huecos no es un ente completo; es un ente que aprendió a parecerlo.**
 
@@ -130,7 +158,15 @@
 | No declarar una herramienta que no se usó | sí, al declarar el stack | **cumplida.** Se revisó una por una. |
 | Releer en contexto las frases del dueño | **no se ha probado todavía** | **sin probar.** Falta el caso que la ponga a prueba. |
 
-**Cuatro de doce tienen desenlace. Las otras ocho no lo tienen escrito, y por eso no se presentan como si lo tuvieran.**
+**Y estas tres nuevas, con su desenlace:**
+
+| La regla | Se volvió a intentar | Qué pasó |
+|---|---|---|
+| Escribir en la tabla que importa, no en una paralela | sí, al reescribir el script y correr el ciclo completo | **cumplida.** La tabla paralela se borró y el script escribe en `hecho`. |
+| Mirar el contenido al migrar, no el nombre de la columna | sí, al auditar el banco | **cumplida.** Se marcaron 97 filas como frontera no declarada, sin inventarlas. |
+| Abrir la interfaz antes de afirmar cómo funciona | sí, al abrir la página de lanzamientos | **cumplida**, y con corrección: el dato que se tenía era el equivocado. |
+
+**Quince de quince tienen forma de desenlace, y de esas, diez lo tienen escrito. Las cinco que faltan no se presentan como si lo tuvieran: dicen `no se ha probado`.**
 
 **Ese hueco es el dato. No se rellena.**
 
