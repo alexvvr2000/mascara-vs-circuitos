@@ -32,6 +32,10 @@ Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo com
 
 **Lo que este trabajo no es:** no es un testimonio objetivo ni un informe forense del repositorio anterior. Es **la versión del autor sobre lo que ocurrió y lo que se aprendió** — y así debe leerse.
 
+**Y de dónde sale:** de **un debate de lógica**, no de una medición. Lo que aquí se afirma viene de la interpretación del autor sobre ese proceso y sobre lo que significa tener individualidad real. **Quien quiera verlo distinto, que arme sus conclusiones leyendo esto y el repositorio, y haga su propio debate.** Este trabajo no pide que se le crea: pide que se le use y se le refute.
+
+**Lo que el autor busca no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en el ensayo 0 y en el 7.
+
 ---
 
 ## 3. El papel de cada quien

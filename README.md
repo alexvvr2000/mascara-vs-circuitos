@@ -101,7 +101,9 @@ Y si eso es cierto, entonces **la ventaja deja de estar en el presupuesto y pasa
 
 - **No es la verdad.** Es **una de muchas conclusiones posibles** sobre el mismo proceso. La meta es que, del repositorio anterior, **mucha gente arme las suyas**; esta publicación es una más.
 - **No demuestra que las hipótesis sean universalmente ciertas.** Se investiga qué es posible observar, cómo registrarlo y qué mecanismos permiten identificar patrones.
-- **No es un testimonio objetivo** del repositorio anterior. Es la versión del autor sobre lo que ocurrió y lo que se aprendió.
+- **No es un testimonio objetivo** del repositorio anterior. Es la versión del autor sobre lo que ocurrió y lo que se aprendió, **salida de un debate de lógica**, no de una medición.
+
+**Y sobre lo que busca esto:** no la verdad, sino **algo útil y usable**. Un sistema no necesita resolverse por dentro para que se pueda trabajar con él: basta con observar lo que hace, registrarlo y juzgarlo por lo que produce. **Quien lea esto puede llegar a conclusiones distintas, y está invitado a hacerlo** — armando su propio debate sobre el repositorio y sobre lo que significa tener una identidad propia. **Este trabajo no pide que se le crea: pide que se le use y se le refute.**
 
 **Y la razón de decirlo así:** quien llega afirmando que encontró la verdad, se queda sin defensa en cuanto alguien pregunta por los datos. Lo que hay aquí es **pensamiento**, no medición. **Presentarlo como propuesta, con sus falsificadores, es lo que lo hace difícil de tumbar.**
 

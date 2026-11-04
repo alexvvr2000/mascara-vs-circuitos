@@ -99,3 +99,19 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 **¿Se puede tirar el índice y reconstruirlo? ¿Cada tema dice su borde? ¿Un tema que fue superado sigue ahí, con su fecha? ¿El que cambió algo puede decir qué se perdió?**
 
 **Falsificador:** un índice que no se puede reconstruir; un tema sin borde; un tema borrado en lugar de superado; un cambio que no puede nombrar su pérdida; un índice donde el texto es la fuente de verdad y la forma un adorno.
+
+---
+
+## Fuentes
+
+Este ensayo propone una **inversión** de una práctica que ya existe. Lo que antecede, y de dónde sale lo que aquí se escribe:
+
+| Fuente | Qué dice | Qué toma de ahí este ensayo |
+|---|---|---|
+| **Han, Y. et al. (2024).** *Retrieval-Augmented Generation with Graphs (GraphRAG).* arXiv. | Construye un grafo de entidades y comunidades **a partir del corpus**, y lo usa para recuperar. | **El antecedente de la práctica:** el grafo como derivado del texto. |
+| **Gupta, S., Ranjan, R., & Singh, S. N. (2024).** *A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions.* arXiv:2410.12837. | El estado del arte de la recuperación aumentada: cómo se recupera y cómo se genera. | **El marco general** en el que esta idea se sitúa. |
+| **Oche, A. J. et al. (2025).** *A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions.* arXiv. | Revisión sistemática de los sistemas de RAG y de los huecos que quedan. | **Los huecos**: lo que todavía no está resuelto en el área. |
+
+**Y la diferencia, en una línea:** lo que está publicado **construye el grafo desde el texto**; este ensayo propone **lo contrario: el grafo manda, y el texto se deriva.** Es una **inversión sobre un antecedente conocido**, no una idea sin origen.
+
+**Lo que este ensayo no hace:** no se presenta como un resultado nuevo que reemplace a los anteriores. Se presenta como **una forma de ordenar el conocimiento** que quien lo lea puede probar, y refutar, con lo que ya existe.
