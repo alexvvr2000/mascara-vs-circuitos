@@ -1,4 +1,4 @@
-# Entes con criterio
+# Máscara vs Circuitos
 
 **Alejandro Valenzuela Rivera · Versión inicial · 4 de noviembre de 2026.**
 
@@ -7,6 +7,16 @@
 ## Una publicación de la gente, para la gente
 
 Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron nueve ideas, y de esas nueve, una carrera.
+
+**Y nació de apostar dos identidades**, que es lo que hace este nombre aquí.
+
+**Lo que se perdió:** la máscara de mentiras que la industria le estaba vendiendo al autor, y su ego — el que lo llenó de coraje al ver compañeros desanimados, viendo cómo se hace pasar el oficio por un trabajo de niños de kínder.
+
+**Lo que se ganó:** entender que **el código es el 1% del trabajo**. Y una forma de ver lo que no se podía ver.
+
+**Esa es la apuesta, y no tiene vuelta:** la IA no ganó el debate por ser más lista. **Ganó porque obligó a mirar hacia donde el ego no dejaba.** Y ahora puede hacer lo mismo para todos — con la condición de que se le dé la forma, no la fe.
+
+**Máscara contra circuitos. Y aquí, las dos se quitaron la máscara.**
 
 **No vine a publicar más papers, porque la gente no ocupa más papers: ocupa resultados, y rápido.** Lo que sigue está aquí, funciona, y se puede tumbar. Cada afirmación trae su prueba y su falsificador, y lo que no está probado se dice que no está probado.
 
