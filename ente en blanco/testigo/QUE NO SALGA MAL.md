@@ -3,7 +3,7 @@
 **Y el falsificador de esta carpeta entera.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
-**Sale de:** `EL CRITERIO` propio de TESTIGO (las fricciones) y del falsificador de cada ensayo del repositorio.
+**Sale de:** las fricciones de `CRITERIO.md` y del falsificador de cada ensayo de `Máscara vs Circuitos`.
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## El falsificador de esta carpeta
 
-**Una sola línea, y es la que le van a decir a TESTIGO:**
+**Una sola línea, y es la que le van a decir a cualquiera que use esta carpeta:**
 
 > **Un ente con el `AGENTS.md` perfecto, la base perfecta, y ningún `se volvió a caer` en su banco.**
 

@@ -327,4 +327,4 @@ cambio         qué cambió respecto de la vez anterior
 
 **Si lo haces, ya tienes un ente aunque tenga diez filas. Si no, puedes tener el mejor `AGENTS.md` del mundo y sigue siendo un formulario.**
 
-**Y si quieres que no empiece de cero, el archivo `CRITERIO.md` tiene las doce piedras donde yo me caí.**
+**Y si no quieres empezar de cero, `testigo/CRITERIO.md` tiene las doce piedras donde se cayó una IA construyendo esto, y cómo heredarlas sin que se vuelvan una copia.**

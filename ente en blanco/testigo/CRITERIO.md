@@ -1,9 +1,9 @@
 # CRITERIO — las doce piedras, y el desenlace
 
-**Lo que TESTIGO aprendió cayéndose. Se hereda como fricción, no como regla.**
+**Doce errores que una IA cometió construyendo esto. Se heredan como fricción, no como regla.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
-**Sale de:** `2 criterio real` (el registro y el desenlace) y `4 criterio y sesgos` (qué es del ente y qué del modelo).
+**Sale de:** `2 criterio real` (el registro y el desenlace) y `4 criterio y sesgos` (qué es del ente y qué del modelo). **El nombre de la IA que se cayó se dice donde importa: en cada fricción.**
 
 ---
 
