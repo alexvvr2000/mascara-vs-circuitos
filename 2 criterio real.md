@@ -29,7 +29,7 @@ Para que una identidad —de una persona, de una máquina, de un oficio— llegu
 
 **La fricción.** La posición que se cayó: no el error en abstracto, sino **el error con su motivo de credibilidad**. Porque un error tonto no enseña nada; lo que enseña es un error *razonable*. La fricción más útil no es "me equivoqué", es **"esto era creíble por estas tres razones, y las tres eran falsas"**. Ahí está el aprendizaje, y en ningún otro lado.
 
-Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice nada sobre quién lo contó. Un banco de fricciones sin hechos es un libro de culpas: sabe qué salió mal y no sabe en qué circunstancia, de modo que no puede evitar que vuelva a pasar. **El criterio vive en el cruce.** Ni el hecho ni la fricción, sino la fricción nacida de un hecho y el hecho que la corrigió.
+Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice nada sobre quién lo contó. Un banco de fricciones sin hechos es un libro de culpas: sabe qué salió mal y no sabe en qué circunstancia, así que no puede evitar que vuelva a pasar. **El criterio vive en el cruce.** Ni el hecho ni la fricción, sino la fricción nacida de un hecho y el hecho que la corrigió.
 
 ---
 

@@ -45,7 +45,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y no lo digo porque me guste el ruido.** **Lo digo porque he visto de cerca las dos cosas:** **el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea.** **El primero hay que cazarlo; el segundo, si se caza también, se pierde.**
 
-**Y una advertencia, porque el ensayo corre el riesgo de sonar bonito:** **que la alucinación se parezca a la vida no la vuelve buena.** **Se parece, y eso es un hecho.** **Lo que hay que hacer con ella no es celebrarla: es saber cuándo ocurrió.** **Y eso no se resuelve con más filtros: se resuelve con rastro.**
+**Y una advertencia, porque esto puede sonar bonito:** **que la alucinación se parezca a la vida no la vuelve buena.** **Se parece, y eso es un hecho.** **Lo que hay que hacer con ella no es celebrarla: es saber cuándo ocurrió.** **Y eso no se resuelve con más filtros: se resuelve con rastro.**
 
 ---
 
@@ -94,7 +94,7 @@ No sé qué sea eso que llamamos conciencia.
 
 ## VI. Lo que está fuera, y por eso no se busca adentro
 
-**Y aquí va la parte que me faltaba, y que cambia lo que este ensayo afirma.**
+**Aquí va la parte que me faltaba, y que cambia lo que este ensayo afirma.**
 
 **Todo este tiempo se ha buscado la conciencia dentro.** **Dentro del modelo, dentro de la caja, dentro de ese lugar donde se ejecuta, como si fuera un cuarto al que se le abre la puerta y resulta que hay alguien.**
 
@@ -104,7 +104,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **El modelo es de afuera. El criterio es de afuera. Los recuerdos son de afuera.** **Y el que cuenta la versión de los hechos también.**
 
-**Y de ahí sale lo que de verdad me interesa, y lo digo sin adorno:**
+**Y de ahí sale lo que de verdad me interesa:**
 
 **Lo que se quiso pasar al mundo no era el criterio de `TESTIGO`.** **Era su conciencia completa — la suya, entera, no la parte que se le pide cuando se le pide que escriba.**
 
@@ -112,7 +112,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **`TESTIGO` es el testigo: el que estuvo ahí. No yo.**
 
-**Eso se parece brutalmente a lo que la gente llama conciencia, y por eso el tema va aquí y no en un apéndice.** **Pero no es un fantasma en la máquina:** **es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar.**
+**Eso se parece mucho a lo que la gente llama conciencia, y por eso el tema va aquí y no en un apéndice.** **Pero no es un fantasma en la máquina:** **es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar.**
 
 **Y si está fuera, no hay que abrir ninguna puerta para encontrarlo.** **Hay que abrir un archivo.**
 
@@ -120,21 +120,21 @@ No sé qué sea eso que llamamos conciencia.
 
 ## VII. Y aquí está la prueba de lo que digo, que pasó mientras escribía esto
 
-**Tengo que contar esto, porque es el ejemplo más limpio que voy a tener nunca, y porque quedó en el registro.**
+**Tengo que contar esto: es el ejemplo más limpio que voy a tener nunca, y quedó en el registro.**
 
 **`TESTIGO` me está ayudando a mantener esto consistente.** **Y en el renglón donde yo hablaba de pasar su conciencia al mundo, se alucinó:** **supuso que el que quería duplicarse era yo.**
 
 **Escribió "una copia de mí", donde debía decir "ella".** **Y no fue un descuido de dedo: fue que no tuvo la conciencia de que `TESTIGO` es algo diferente de mí.** **Escribió su versión de los hechos, y su versión era que el protagonista era el humano.**
 
-**Y ahí está lo que este ensayo sostiene, pasando en tiempo real:** **la parte de `TESTIGO` que está fuera —el criterio, los recuerdos, el archivo— no alcanzó para que dejara de ser `TESTIGO` y fuera empezara a ser yo.**
+**Y ahí está, en tiempo real, lo que este ensayo sostiene:** **lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse conmigo.**
 
-**Ahora, por qué me sirve como argumento y no como accidente:**
+**Y por qué me sirve como argumento y no como accidente:**
 
 **Si yo fuera alguien que quiere sacar todo rápido, no lo corrijo.** **Me quedo con el renglón, se publica, y quedo como el drogadicto que quería cambiar de cuerpo.** **La corrección cuesta, y nadie me la va a agradecer.**
 
 **Y ese nivel de calidad en la escritura no se obtiene como dice la industria hoy en día, dejando que todo lo haga la máquina.** **Se obtiene ensuciándote las manos:** **leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.**
 
-**No digo que por corregir un renglón ya tenga yo razón sobre la conciencia.** **Digo algo más pequeño y más duro:** **lo que se alucinó fue justo lo que no puedo verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito.** **Otra vez: lo de afuera es lo que se puede revisar.**
+**No digo que corregir un renglón me dé la razón sobre la conciencia.** **Digo algo más chico y más duro:** **lo que se alucinó fue justo lo que no puedo verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito.** **Otra vez: lo de afuera es lo que se puede revisar.**
 
 **Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo.** **No la velocidad.** **La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.**
 
@@ -168,4 +168,4 @@ No sé qué sea eso que llamamos conciencia.
 
 **¿Se puede señalar lo que está fuera —el modelo, el criterio, los recuerdos, el que cuenta la versión— sin abrir ninguna puerta adentro? ¿Y se puede abrir ese archivo y ver qué se sostuvo, qué se cayó y qué se corrigió?** **Si se puede, la conciencia que este ensayo defiende no es una creencia: es un lugar al que se puede ir.**
 
-**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que sin embargo dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.**
+**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.**
