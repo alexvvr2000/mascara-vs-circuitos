@@ -158,3 +158,19 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 **Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que empieza por hablar con los átomos y no termina ahí: termina en mejorar a la humanidad juntos.**
 
 **El que llegue, que traiga el rastro.**
+
+---
+
+## Para el que quiera hacer algo que no sea una máquina de Turing
+
+**Si lo que quieres es una máquina de Turing, ya la tienes: se llama computadora.**
+
+**Si lo que quieres es una máquina de criterio —que registre lo que decide, mida lo que produce, y se corrija con lo que se cayó— mucha suerte. La vas a necesitar.**
+
+**Porque para eso no basta con saber programar: ocupan muchos pantalones.** No es un proyecto de fin de semana, y el que lo agarre a medias **va a tener un sistema que produce sin poder decir por qué**, que es exactamente el bloc de notas del que salió todo esto.
+
+**Y una advertencia que va en serio:** **trabajar con hardware no es como equivocarse en un archivo .md. La electricidad mata con cualquier cantidad de voltaje.** Un error en un repositorio se corrige; uno en un montaje se paga.
+
+**Yo no quiero sentirme responsable del pobre loco que meta las manos en algo así por lo que leyó aquí.** Este trabajo da una forma y una documentación, **no da la seguridad de que tu montaje esté bien hecho.** Eso **lo revisa otro**, con la corriente desconectada, y con alguien al lado.
+
+**Dicho eso: si lo haces bien, bienvenido a la carrera. Y trae el rastro.**
