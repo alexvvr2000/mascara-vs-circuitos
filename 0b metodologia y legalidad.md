@@ -1,4 +1,4 @@
-# 0. Metodología y legalidad
+# 0b. Metodología y legalidad
 
 **De dónde sale la parte legal, qué fuentes hay, y en qué orden se hace.**
 **3 de noviembre de 2026 · Alejandro Valenzuela Rivera**

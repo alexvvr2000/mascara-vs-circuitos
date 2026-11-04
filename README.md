@@ -113,9 +113,12 @@ Y si eso es cierto, entonces **la ventaja deja de estar en el presupuesto y pasa
 
 Los ensayos están numerados en el orden en que se sostienen unos a otros, no en el orden en que se escribieron.
 
+**Y hay dos ceros, a propósito:** el **0** dice **qué se sostiene** —la posición, en lista, con los límites— y el **0b** dice **de dónde sale** —la ley, las fuentes y el orden para hacerlo—. Van antes que todo porque sin ellos lo demás no se puede juzgar.
+
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 metodologia y legalidad de la ia.md` | **Qué respalda todo lo demás.** De dónde sale la parte legal, las fuentes con su estado, y el orden para hacerlo desde cero. **La declaración de uso de IA vive en [`ATTRIBUTION.md`](./ATTRIBUTION.md).** |
+| **0** | `0 las ideas del autor.md` | **La posición, en lista.** Las nueve afirmaciones que se sostienen, dónde vive cada una y qué la sostiene. Y lo que **no** se afirma. |
+| **0b** | `0b metodologia y legalidad.md` | **Qué respalda todo lo demás.** De dónde sale la parte legal, las fuentes con su estado, y el orden para hacerlo desde cero. **La declaración de uso de IA vive en [`ATTRIBUTION.md`](./ATTRIBUTION.md).** |
 | **1** | `1 que es un ente.md` | **Qué es un ente.** Recibe, decide, contesta, y deja rastro de haber contestado. |
 | **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace: lo que se sostuvo y lo que se cayó. |
 | **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse —en las dos direcciones— vale más que esperar que el otro haga lo que la industria pide. |
@@ -124,7 +127,6 @@ Los ensayos están numerados en el orden en que se sostienen unos a otros, no en
 | **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, no precio de la unidad; y la varianza como modo de fallo. |
 | **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El índice como grafo que cambia, y la forma que tiene que tener para poder reconstruirse. |
 | **8** | `8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
-| — | `LAS IDEAS DEL AUTOR.md` | **La posición, en lista.** Las nueve afirmaciones que se sostienen, dónde vive cada una y qué la sostiene. Y lo que **no** se afirma. |
 
 **La cadena, en una línea:** el 0 dice con qué se sostiene el trabajo; un ente se define por su rastro (1); el rastro se vuelve criterio con el desenlace (2); y ese criterio solo sirve si se entiende a quien se le habla (3); hay que distinguirlo del sesgo del modelo que lo dice (4); lo que el ente escribe tiene que poder ejecutarse y refutarse (5); sobre lo escrito se mide el talento (6); el 7 dice dónde vive lo que sabe; y el 8 cierra con el caso de varios. **Y todo eso se entrega por `ALAS`, o no se entrega.**
 
