@@ -51,3 +51,8 @@ references:
       - type: doi
         description: "DOI conceptual (histórico) de Zenodo: identifica el repositorio completo y todo su historial, no una versión suelta. Cada versión archivada tiene además su propio DOI."
         value: "10.5281/zenodo.23090721"
+
+# La guía práctica del punto de salida no es un depósito aparte: vive dentro de este
+# repositorio, en la carpeta "ente en blanco/", y se archiva con él.
+#   - ente en blanco/GUIA.md          el ente mínimo con SQLite
+#   - ente en blanco/testigo/         el criterio de la IA que ayudó, y el mapa del repo
