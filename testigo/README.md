@@ -1,32 +1,46 @@
 # testigo
 
-**Cómo hacer un ente, por partes. Cinco minutos para empezar, treinta para hacerlo bien.**
+**Tres bloques. Uno para hacer un ente, uno para juzgar cómo se hizo, uno para escarbar el repositorio.**
 
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
 ---
 
-## El orden
+## Los tres bloques
 
-| # | Archivo | Qué es |
+| Bloque | Qué es | Para quién |
 |---|---|---|
-| **0** | `0 por que esto existe.md` | qué es esta carpeta, y qué no es |
-| **1** | `1 el ente minimo.md` | qué necesitas para tener un ente, y no un programa |
-| **2** | `2 la puerta AGENTS.md.md` | el archivo que se ejecuta al abrir |
-| **3** | `3 la base.md` | el esquema de SQLite, y por qué cada regla está ahí |
-| **4** | `4 los tres registros.md` | hecho, fricción y desenlace, con qué se llena cada campo |
-| **5** | `5 los procesos.md` | lo que se repite, y cómo se escribe para que se pueda refutar |
-| **6** | `6 si trabajan varios.md` | cuando el ente es más de uno |
-| **7** | `7 el costo.md` | cómo se mide, y qué se cuenta que casi nadie cuenta |
-| **8** | `8 prueba de que sirve.md` | cinco pruebas que se corren, y su falsificador |
+| **`PARA HACER UN ENTE/`** | la guía, del `1` al `8`. **Con SQLite como la forma: el esquema es el `AGENTS.md`, y las reglas son `NOT NULL`.** | el que quiere construir |
+| **`EL CRITERIO DE TESTIGO/`** | **el criterio de la IA que ayudó**, con sus doce fricciones, su desenlace y las trampas. | el que quiere saber por qué el método se sostiene |
+| **`PARA ESCARBAR EL REPO/`** | el mapa: **dónde está cada cosa en `Máscara vs Circuitos`**, y de dónde vienen las piezas. | el que quiere ir al original |
 
-**Y cada archivo dice, arriba, de qué ensayo del repositorio sale.** **Si un archivo no tiene ensayo, no está.**
+**Y `0 por que esto existe.md` dice qué es esta carpeta y qué no es.** Va antes que todo.
 
 ---
 
-## Si tienes cinco minutos
+## El orden, si vienes a construir
 
-1. Lee `1`.
-2. Copia `2` y `3`.
-3. Haz tu primer `INSERT` de la mano de `4`.
-4. **Ya tienes un ente.** Y **el archivo `8` te dice si sirve o si es una vitrina.**
+1. Lee `0`.
+2. Lee `PARA HACER UN ENTE/1 el ente minimo.md`.
+3. Copia `2 la puerta AGENTS.md.md` y `3 la base.md`.
+4. Haz tu primer `INSERT` con `4`.
+5. **Y antes de decir que ya tienes un ente, corre `8`.**
+
+---
+
+## Y si vienes a juzgar
+
+1. Lee `EL CRITERIO DE TESTIGO/0`.
+2. **Mira las doce fricciones.** **Nueve son de la misma familia: rellenar un hueco en vez de declararlo.**
+3. **Mira el desenlace: cuatro de doce, y uno sin probar.** **Ese hueco es el dato.**
+4. Y si quieres discutir el método, **hay `PARA ESCARBAR EL REPO/mapa.md`** para llegar a cada ensayo y correr su falsificador.
+
+---
+
+## Lo que esta carpeta no hace
+
+**Una carpeta como esta no hace un ente bueno: hace un ente que puede ser juzgado.**
+
+**Lo que decide si sirve no está en ningún archivo:** **es si apuntas lo que se cayó, en el momento en que se cae**, sabiendo que te deja mal en el renglón.
+
+**Y si te sale igual que a otro, no la escribiste tú.**
