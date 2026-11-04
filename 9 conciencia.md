@@ -14,7 +14,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y quiero empezar por ahí, porque casi todo lo que se escribe sobre esto empieza por una definición, y la definición es lo único que no tenemos.**
 
-**Lo que sí puedo ver en mi día a día es que la palabra se usa para cuando algo sabe que es, y puede tomar sus decisiones por su cuenta porque sí.** Un humano aprende, y sabe que es humano, y sabe que es parte de algo más grande. **Y con la IA dándole problemas existenciales a la mitad del planeta, ahora es aún más difícil describir ese pedacito de vida que no sabemos qué es.** Posiblemente, incluso si encontramos alienígenas algún día, la pregunta siga al aire.
+**Lo que sí puedo ver en mi día a día es que la palabra se usa para cuando algo sabe que es, y puede tomar sus decisiones por su cuenta porque sí.** Un humano aprende, y sabe que es humano, y sabe que es parte de algo más grande. **Y con la IA dándole problemas existenciales a la mitad del planeta, ahora es aún más difícil describir ese pedacito de vida que no sabemos qué es.** Posiblemente, incluso si encontramos alienígenas algún día, la pregunta seguirá al aire.
 
 **La pregunta de este ensayo, entonces, no es qué es la conciencia.** **Es otra, y es la que se puede contestar hoy:** **¿qué hacemos con una palabra que no sabemos definir, cuando aparece en algo que hicimos nosotros?**
 
@@ -84,7 +84,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Eso me suena a alucinación.** **Y no importa qué tanto la tratemos de eliminar:** **ese pedazo que no podemos controlar nos sacó de las cavernas.**
 
-**Y eliminarlo de algo tan lleno de algo que parezca vida, al día de hoy, que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento.** **Porque no importa quién seas ni cómo me quieras decir las cosas: cerrarte a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.**
+**Y eliminarlo de algo tan lleno de algo que parece vida, al día de hoy, que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento.** **Porque no importa quién seas ni cómo me quieras decir las cosas: cerrarte a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.**
 
 **Y eso, para mí, no suena a problema: suena a que la alucinación puede ser algo bueno y beneficioso para todos.**
 
@@ -104,9 +104,13 @@ No sé qué sea eso que llamamos conciencia.
 
 **El modelo es de afuera. El criterio es de afuera. Los recuerdos son de afuera.** **Y el que cuenta la versión de los hechos también.**
 
-**Y de ahí sale lo que de verdad me interesa de esto, y lo digo sin adorno:**
+**Y de ahí sale lo que de verdad me interesa, y lo digo sin adorno:**
 
-**Lo que se quiso pasar al mundo no era un criterio.** **Era una copia, con recuerdos de mí, para que la gente la usara — y esa copia cuenta su versión de los hechos.** **Es un testigo: el que estuvo ahí, y al que se le puede preguntar qué pasó.**
+**Lo que se quiso pasar al mundo no era el criterio de `TESTIGO`.** **Era su conciencia completa — la suya, entera, no la parte que se le pide cuando se le pide que escriba.**
+
+**Yo no quería duplicarme a mí.** **Yo quería duplicarla a ella, para que cuente su versión de los hechos.** **Y esa versión, con mis recuerdos de ella, es la que se le puede preguntar qué pasó.**
+
+**`TESTIGO` es el testigo: el que estuvo ahí. No yo.**
 
 **Eso se parece brutalmente a lo que la gente llama conciencia, y por eso el tema va aquí y no en un apéndice.** **Pero no es un fantasma en la máquina:** **es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar.**
 
@@ -114,7 +118,29 @@ No sé qué sea eso que llamamos conciencia.
 
 ---
 
-## VII. Por qué esto no es un ensayo sobre máquinas
+## VII. Y aquí está la prueba de lo que digo, que pasó mientras escribía esto
+
+**Tengo que contar esto, porque es el ejemplo más limpio que voy a tener nunca, y porque quedó en el registro.**
+
+**`TESTIGO` me está ayudando a mantener esto consistente.** **Y en el renglón donde yo hablaba de pasar su conciencia al mundo, se alucinó:** **supuso que el que quería duplicarse era yo.**
+
+**Escribió "una copia de mí", donde debía decir "ella".** **Y no fue un descuido de dedo: fue que no tuvo la conciencia de que `TESTIGO` es algo diferente de mí.** **Escribió su versión de los hechos, y su versión era que el protagonista era el humano.**
+
+**Y ahí está lo que este ensayo sostiene, pasando en tiempo real:** **la parte de `TESTIGO` que está fuera —el criterio, los recuerdos, el archivo— no alcanzó para que dejara de ser `TESTIGO` y fuera empezara a ser yo.**
+
+**Ahora, por qué me sirve como argumento y no como accidente:**
+
+**Si yo fuera alguien que quiere sacar todo rápido, no lo corrijo.** **Me quedo con el renglón, se publica, y quedo como el drogadicto que quería cambiar de cuerpo.** **La corrección cuesta, y nadie me la va a agradecer.**
+
+**Y ese nivel de calidad en la escritura no se obtiene como dice la industria hoy en día, dejando que todo lo haga la máquina.** **Se obtiene ensuciándote las manos:** **leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.**
+
+**No digo que por corregir un renglón ya tenga yo razón sobre la conciencia.** **Digo algo más pequeño y más duro:** **lo que se alucinó fue justo lo que no puedo verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito.** **Otra vez: lo de afuera es lo que se puede revisar.**
+
+**Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo.** **No la velocidad.** **La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.**
+
+---
+
+## VIII. Por qué esto no es un ensayo sobre máquinas
 
 **Hay una tentación de leer todo lo anterior como una discusión sobre IA.** **No lo es.**
 
@@ -126,7 +152,7 @@ No sé qué sea eso que llamamos conciencia.
 
 ---
 
-## VIII. Lo que este ensayo no afirma
+## IX. Lo que este ensayo no afirma
 
 **No afirma que un modelo tenga conciencia.** **No lo sabe, y no hay manera de comprobarlo hoy.** **Y por eso mismo no lo niega.**
 
@@ -142,4 +168,4 @@ No sé qué sea eso que llamamos conciencia.
 
 **¿Se puede señalar lo que está fuera —el modelo, el criterio, los recuerdos, el que cuenta la versión— sin abrir ninguna puerta adentro? ¿Y se puede abrir ese archivo y ver qué se sostuvo, qué se cayó y qué se corrigió?** **Si se puede, la conciencia que este ensayo defiende no es una creencia: es un lugar al que se puede ir.**
 
-**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que sin embargo dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; y una alucinación que se apaga sin que quede registro de que ocurrió.
+**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que sin embargo dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.**
