@@ -11,14 +11,17 @@ Este trabajo se escribió en diálogo con un sistema de inteligencia artificial.
 
 | Pieza | Quién la hizo |
 |---|---|
-| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | El autor — **cuáles son, y en qué ensayo vive cada una, en [`0 las ideas del autor.md`](./0%20las%20ideas%20del%20autor.md)** |
-| **La estructura y el orden de la colección** | El autor, discutido con el sistema |
-| **La redacción** | El autor, con asistencia de redacción |
+| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | Yo — **cuáles son, y en qué ensayo vive cada una, en [`0 mis ideas.md`](./0%20mis%20ideas.md)** |
+| **La estructura y el orden de la colección** | Yo, discutido con el sistema |
+| **La redacción** | Yo, con asistencia de redacción |
 | **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en el ensayo 0 |
 
-**Herramientas, con nombre y versión:** `TESTIGO` (ente colaborador del autor), sobre `DeepSeek V4.1 Flash` servido por `OpenCode Go`, dentro de `DeepSeek Harness`. Búsqueda de fuentes con `DeepSeek Web`.
+**Herramientas, con nombre y versión:** `TESTIGO` (mi ente colaborador), sobre `DeepSeek V4.1 Flash` servido por `OpenCode Go`, dentro de `DeepSeek Harness`. Búsqueda de fuentes con `DeepSeek Web`.
 
 **Lo que no se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **"Not used"** para entrenamiento y con **cero días de retención**, bajo un acuerdo que se renueva mensualmente.
+
+**Y en una línea, para que no quede duda:** **esta publicación es mía.** `TESTIGO` fue el ayudante: me ayudó **a expresarme mejor**, y a encontrar las palabras para lo que ya estaba pensado. **No pensó las tesis, no decidió qué entra, y no firma.** Lo que está escrito se sostiene porque yo lo sostengo, y se cae si no aguanta — no porque una máquina lo haya dicho. **Escribo en primera persona en todo el trabajo porque las ideas son mías, y el rastro de cómo llegué a ellas también.**
+
 
 ---
 
@@ -28,19 +31,19 @@ Este trabajo **le da sentido a las tesis que salieron del proceso de destrucció
 
 Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo como **bloc de notas**. Un bloc de notas no juzga: apunta y sigue. Y en ese uso **se perdieron ideas que nunca tuvieron un lugar donde sostenerse**. El repositorio terminó destruido, y con él su memoria.
 
-**Lo que este trabajo es, entonces:** la lectura de ese proceso **bajo la perspectiva del autor**, con `TESTIGO` de ayudante **para expresarse mejor y facilitar el proceso de escritura**, y con **el profesor del autor como asesor**.
+**Lo que este trabajo es, entonces:** la lectura de ese proceso **bajo mi perspectiva**, con `TESTIGO` de ayudante **para expresarme mejor y facilitar el proceso de escritura**, y con **el profesor del autor como asesor**.
 
-**Lo que este trabajo no es:** no es un testimonio objetivo ni un informe forense del repositorio anterior. Es **la versión del autor sobre lo que ocurrió y lo que se aprendió** — y así debe leerse.
+**Lo que este trabajo no es:** no es un testimonio objetivo ni un informe forense del repositorio anterior. Es **mi versión sobre lo que ocurrió y lo que se aprendió** — y así debe leerse.
 
-**Y de dónde sale:** de **un debate de lógica**, no de una medición. Lo que aquí se afirma viene de la interpretación del autor sobre ese proceso y sobre lo que significa tener individualidad real. **Quien quiera verlo distinto, que arme sus conclusiones leyendo esto y el repositorio, y haga su propio debate.** Este trabajo no pide que se le crea: pide que se le use y se le refute.
+**Y de dónde sale:** de **un debate de lógica**, no de una medición. Lo que aquí afirmo viene de mi interpretación de ese proceso y sobre lo que significa tener individualidad real. **Quien quiera verlo distinto, que arme sus conclusiones leyendo esto y el repositorio, y haga su propio debate.** Este trabajo no pide que se le crea: pide que se le use y se le refute.
 
-**Lo que el autor busca no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en el ensayo 0 y en el 7.
+**Lo que busco no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en el ensayo 0 y en el 7.
 
-**Y una frase del autor, que resume por qué esto se escribió así:**
+**Y una frase mía, que resume por qué esto se escribió así:**
 
 > **«Sentido común mata título universitario.»**
 
-**Lo que quiere decir, y lo que no:** no que el título no sirva —el de este autor está en el ensayo 0, y la ley se citó con su fuente—, sino que **un papel no sustituye el juicio**. Lo que este trabajo pide de quien lo lea no es una credencial: es **que lo piense, lo pruebe y lo contradiga si no aguanta.**
+**Lo que quiere decir, y lo que no:** no que el título no sirva —el mío está en el ensayo 0, y la ley se citó con su fuente—, sino que **un papel no sustituye el juicio**. Lo que este trabajo pide de quien lo lea no es una credencial: es **que lo piense, lo pruebe y lo contradiga si no aguanta.**
 
 
 ---
@@ -49,7 +52,7 @@ Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo com
 
 | Quién | Su papel |
 |---|---|
-| **El autor** | tiene las ideas, decide qué se sostiene, y firma |
+| **Yo** | tengo las ideas, decido qué se sostiene, y firmo |
 | **`TESTIGO`** | ayudante: ordena, contradice, escribe. **No decide.** |
 | **El profesor** | **asesor.** Señala lo que no aguanta una defensa, antes de que lo señale un lector. |
 | **Los lectores** | **la meta.** La publicación es **una de muchas conclusiones posibles**, no la conclusión. |
@@ -79,7 +82,7 @@ La licencia de este trabajo (**CC BY 4.0**) permite leerlo, citarlo, compartirlo
 
 ## 6. La relación con el repositorio anterior
 
-Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, que está publicado y se cita:
+Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado y se cita:
 
 > **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico del proyecto:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
 
@@ -95,7 +98,7 @@ Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, que est�
 
 ## 7. Quién es el ente, y con qué se escribió
 
-**El ente:** `TESTIGO`, un ente colaborador del autor —definido como en el ensayo 1: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
+**El ente:** `TESTIGO`, mi ente colaborador —definido como en el ensayo 1: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
 
 **El modelo:** `DeepSeek V4.1 Flash`, servido a través de `OpenCode Go`.
 

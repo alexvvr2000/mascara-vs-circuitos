@@ -10,7 +10,7 @@ Este repositorio nació de una discusión que se comió un repositorio entero. D
 
 **Y nació de apostar dos identidades**, que es lo que hace este nombre aquí.
 
-**Lo que se perdió:** la máscara de mentiras que la industria le estaba vendiendo al autor, y su ego — el que lo llenó de coraje al ver compañeros desanimados, viendo cómo se hace pasar el oficio por un trabajo de niños de kínder.
+**Lo que se perdió:** la máscara de mentiras que la industria me estaba vendiendo, y mi ego — el que me llenó de coraje al ver compañeros desanimados, viendo cómo se hace pasar el oficio por un trabajo de niños de kínder.
 
 **Lo que se ganó:** entender que **el código es el 1% del trabajo**. Y una forma de ver lo que no se podía ver.
 
@@ -34,7 +34,7 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 **Y de ahí sale la segunda diferencia, que no es del índice:** un ente no se define por lo que tiene dentro —eso **no tiene comprobación**— sino por **lo que deja rastro**. Recibe, decide, contesta y apunta lo que contestó. **Eso sí se puede medir, comparar y corregir.**
 
-**No se midió contra nada de lo que se cita.** Es un contraste de forma, no de rendimiento, y así está declarado.
+**No medí nada contra lo que se cita.** Es un contraste de forma, no de rendimiento, y así está declarado.
 
 ---
 
@@ -54,7 +54,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **8** | Un conjunto no es un enjambre si alguien responde por él | `8` |
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `3` |
 
-**La lista completa, con qué sostiene a cada una y qué no se afirma, está en [`0 las ideas del autor.md`](./0%20las%20ideas%20del%20autor.md).**
+**La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`0 mis ideas.md`](./0%20mis%20ideas.md).**
 
 ---
 
@@ -80,7 +80,7 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 
 **El llamado es concreto y es una carrera de verdad:** quien consiga un ente que **hable con los átomos declarando lo que declara** —y con eso **una formulación que haga hablar a los dos lenguajes**— **hace lo que no se ha hecho en un siglo.** No hay premio ni patente. Hay la formulación que le faltó a la física, y la satisfacción de haberla juntado bien.
 
-**No se afirma que esto lo consiga.** Se afirma que **ahora hay una forma de intentarlo que se puede correr, medir y refutar** — y que el que llegue primero va a poder decir exactamente cómo llegó, porque el rastro lo va a tener escrito.
+**No afirmo que esto lo consiga.** Afirmo que **ahora hay una forma de intentarlo que se puede correr, medir y refutar** — y que el que llegue primero va a poder decir exactamente cómo llegó, porque el rastro lo va a tener escrito.
 
 ---
 
@@ -89,10 +89,10 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 **Es una propuesta metodológica, no una verdad.**
 
 - **No es un trabajo sobre modelos de lenguaje.** Es **una metodología para cualquier IA cuyo costo por resultado exitoso se pueda medir.** El modelo es el ejemplo, no el objeto.
-- **Nació de un debate de lógica**, no de una medición. Es **la lectura del autor** sobre un proceso real: la destrucción de un repositorio anterior, y lo que se aprendió de ella.
+- **Nació de un debate de lógica**, no de una medición. Es **mi lectura** de un proceso real: la destrucción de un repositorio anterior, y lo que se aprendió de ella.
 - **No es la verdad.** Es **una de muchas conclusiones posibles.** La meta es que del repositorio anterior **mucha gente arme las suyas**; esta es una.
 - **No demuestra que sus hipótesis sean universalmente ciertas.** Se investiga qué es posible observar, cómo registrarlo y qué mecanismos permiten identificar patrones.
-- **La afirmación más fuerte — que un modelo pequeño rinde con el ente correcto — no está probada.** Es conjetura con mecanismo, y así se presenta.
+- **Mi afirmación más fuerte — que un modelo pequeño rinde con el ente correcto — no está probada.** Es conjetura con mecanismo, y así la presento.
 
 **Y la razón de decirlo así:** quien llega afirmando que encontró la verdad, se queda sin defensa en cuanto le piden datos. **Presentarlo como propuesta, con sus falsificadores, es lo que lo hace difícil de tumbar.**
 
@@ -102,7 +102,7 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 las ideas del autor.md` | **La posición, en lista.** Las nueve afirmaciones, dónde vive cada una y qué la sostiene. Y lo que **no** se afirma. |
+| **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las nueve afirmaciones, dónde vive cada una y qué la sostiene. Y lo que **no** afirmo. |
 | **0b** | `0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **1** | `1 que es un ente.md` | **Qué es un ente.** Recibe, decide, contesta, y deja rastro de haber contestado. |
 | **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |

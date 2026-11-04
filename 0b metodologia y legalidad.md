@@ -48,7 +48,7 @@ Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, y ese pr
 >
 > **Forma abreviada para el cuerpo del texto:** (Valenzuela Rivera, 2026, v2).
 
-> **Qué se cita, y por qué así:** la **etiqueta `v2`** del repositorio, con su fecha del 2 de noviembre de 2026, que es la referencia de versión que el autor fijó. **El archivo de metadatos que está dentro de esa misma etiqueta declara todavía una versión anterior**: es una discrepancia del propio repositorio, no de esta cita, y **no se copia como si fuera la vigente**. Quien cite desde aquí cita la `v2`.
+> **Qué se cita, y por qué así:** la **etiqueta `v2`** del repositorio, con su fecha del 2 de noviembre de 2026, que es la referencia de versión que yo fijé. **El archivo de metadatos que está dentro de esa misma etiqueta declara todavía una versión anterior**: es una discrepancia del propio repositorio, no de esta cita, y **no se copia como si fuera la vigente**. Quien cite desde aquí cita la `v2`.
 
 **Lo que se hace con esa fuente, y por qué:**
 

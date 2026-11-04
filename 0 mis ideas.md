@@ -1,9 +1,9 @@
-# 0. Las ideas del autor
+# 0. Mis ideas
 
 **Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
-> **Para qué sirve este archivo.** Un lector —o un asesor— tiene derecho a preguntar **cuál es la posición del autor y por qué es suya**, sin tener que reconstruirla leyendo dieciocho mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
+> **Para qué sirve este archivo.** Quien lea —o mi asesor— tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
 
 ---
 
