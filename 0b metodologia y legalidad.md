@@ -1,7 +1,7 @@
 # 0b. Metodología y legalidad
 
 **De dónde sale la parte legal, qué fuentes hay, y en qué orden se hace.**
-**3 de noviembre de 2026 · Alejandro Valenzuela Rivera**
+**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
 
 > Nada de lo legal aquí es asesoría legal. Es lo que se puede verificar hoy, con su fuente al lado, y lo que no se pudo abrir se dice que no se abrió.
 

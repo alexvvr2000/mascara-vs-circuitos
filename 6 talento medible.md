@@ -1,7 +1,7 @@
 # 6. Talento medible
 
 **Un protocolo para decidir con qué recurso trabajar, en qué posición, y a qué costo.**
-**3 de noviembre de 2026 · Alejandro Valenzuela Rivera**
+**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 

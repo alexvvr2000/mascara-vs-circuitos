@@ -124,3 +124,7 @@ Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado
 **No se usó para:** decidir qué se sostiene, inventar una fuente, ni completar lo que faltaba.
 
 ---
+
+---
+
+**Contacto:** Alejandro Valenzuela Rivera · `alejandrovalenzuela051@gmail.com`
