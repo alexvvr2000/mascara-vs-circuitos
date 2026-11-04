@@ -17,7 +17,7 @@
 
 | La sección | La exige | Y dice, textual |
 |---|---|---|
-| **1. La carpeta** | `1 que es un ente` | *"¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? Si no se puede decir, no es un ente: es un programa."* |
+| **1. La base** | `1 que es un ente` | *"¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? Si no se puede decir, no es un ente: es un programa."* |
 | **2. La puerta** | `5 escritura en procesos` | *"¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar?"* |
 | **3. Qué es y qué no decide** | `1 que es un ente` | *"un ente que no distingue lo que propone de lo que le mandaron"* — es un falsificador, y esta sección lo evita |
 | **4. Los tres registros** | `2 criterio real` | *"¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra? ¿Existe la columna del desenlace?"* |
@@ -36,23 +36,19 @@
 
 ---
 
-## 1. La carpeta
+## 1. La base
 
 **Se elige una vez y no se mueve.**
 
 ```plaintext
-mi-ente/
-  AGENTS.md            ← la puerta. Se escribe primero.
-  bancos/
-    hechos.txt
-    fricciones.txt
-    desenlaces.txt
-    modelos.txt
-  procesos/
-    <nombre del proceso>.md
-  temas/
-    <nombre del tema>.md
+mi-ente.db        ← la base. Ahí vive todo.
+AGENTS.md         ← la puerta. Se escribe primero.
+procesos/         ← cómo se hace una cosa que se repite
 ```
+
+**Por qué SQLite y no archivos de texto.** Con archivos, **la forma de lo que apuntas vive en tu cabeza**: tú recuerdas que una fricción tiene `por qué era creíble`, y el archivo no lo sabe. **Con una base, la forma vive en el esquema, y el esquema no se olvida.**
+
+**Y por eso esta plantilla va en SQLite:** **las reglas del ensayo no se escriben en una guía: se escriben como `NOT NULL` y como `CHECK`.** Un `fricción` **sin `por_que_era_creible` no se puede guardar**: la base la rechaza. **Eso es lo que un `.txt` no puede hacer**, y es lo que convierte a esta plantilla en algo que **no admite ambigüedad**.
 
 **Decisiones que tomas aquí, y no son menores:**
 
@@ -143,7 +139,7 @@ Hasta dónde:
 
 **Tres, no dos.** Y son tres porque **guardan tres cosas que se pierden de forma distinta**: lo que pasó, lo que se cayó, y **si lo que se sostuvo aguantó**.
 
-### `hecho` → `bancos/hechos.txt`
+### `hecho` → `tabla hecho`
 
 ```plaintext
 FECHA:
@@ -156,7 +152,7 @@ DE QUÉ MODELO SALIÓ:
 
 **El campo que casi nadie pone y el que más sirve es `hasta dónde no alcanza`.** Casi todo lo que afirmas **es verdadero en una frontera y falso al lado.** Si no la escribes, **la escribe el que te contradiga.**
 
-### `fricción` → `bancos/fricciones.txt`
+### `fricción` → `tabla friccion`
 
 ```plaintext
 EL ERROR (el nombre. No "me equivoqué"):
@@ -170,7 +166,7 @@ QUIÉN LO CORRIGIÓ (una persona, o un hecho):
 
 **`quién lo corrigió` no es cortesía: es la prueba de que el criterio no es inventado.** Sin ese campo, **un banco de fricciones se escribe de memoria en una tarde.**
 
-### `desenlace` → `bancos/desenlaces.txt`
+### `desenlace` → `tabla desenlace`
 
 ```plaintext
 DE QUÉ REGLA SE TRATA (la fricción que la originó):
@@ -184,11 +180,137 @@ QUÉ CAMBIÓ:
 
 > **Exigido por:** `2 criterio real` — *"¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer?"* **Los tres registros son esas tres preguntas.**
 
+
+### El esquema, y por qué cada línea es una regla
+
+**Esto es lo que hace que la plantilla no admita ambigüedad: el esquema es el `AGENTS.md`.**
+
+```sql
+-- 1. El ente se presenta. Una sola fila.
+CREATE TABLE ente (
+  id              INTEGER PRIMARY KEY CHECK (id = 1),
+  nombre          TEXT    NOT NULL,
+  dueno           TEXT    NOT NULL,
+  desde           TEXT    NOT NULL,          -- fecha de alta
+  toca_archivos   INTEGER NOT NULL CHECK (toca_archivos IN (0,1)),
+  hasta_donde     TEXT,                      -- obligatorio si toca_archivos = 1
+  que_decide_la_ia TEXT   NOT NULL DEFAULT 'no habla como su dueño, no firma por él, no decide lo que le toca a él'
+);
+
+-- 2. Lo que pasó. Sin resumen y sin adjetivos: por eso los campos son obligatorios.
+CREATE TABLE hecho (
+  id            INTEGER PRIMARY KEY,
+  fecha         TEXT NOT NULL,
+  que_se_pidio  TEXT NOT NULL,          -- literal, con las palabras exactas
+  que_paso      TEXT NOT NULL,          -- medido
+  no_alcanza    TEXT NOT NULL,          -- LA FRONTERA. Aquí se protege de que lo tomen por mentiroso
+  no_sabia      TEXT NOT NULL,          -- si no hay nada nuevo, se escribe "nada"
+  modelo_id     INTEGER NOT NULL REFERENCES modelo(id)
+);
+
+-- 3. Lo que se cayó. El campo "por qué era creíble" es lo que la hace fricción y no lamento.
+CREATE TABLE friccion (
+  id                 INTEGER PRIMARY KEY,
+  hecho_id           INTEGER NOT NULL REFERENCES hecho(id),
+  el_error           TEXT NOT NULL,
+  por_que_era_creible TEXT NOT NULL,    -- SIN ESTO NO SE GUARDA. Es la regla.
+  como_se_reconoce   TEXT NOT NULL,
+  que_hago_en_su_lugar TEXT NOT NULL,
+  quien_lo_corrigio  TEXT NOT NULL      -- una persona o un hecho. Sin esto el criterio es inventado
+);
+
+-- 4. Lo que aguantó. La que la plantilla vieja no tenía y sin la cual todo es un diario.
+CREATE TABLE desenlace (
+  id            INTEGER PRIMARY KEY,
+  friccion_id   INTEGER NOT NULL REFERENCES friccion(id),
+  fecha         TEXT NOT NULL,
+  resultado     TEXT NOT NULL CHECK (resultado IN ('cumplida','se volvio a caer','no se ha probado')),
+  circunstancia TEXT NOT NULL,
+  cambio        TEXT NOT NULL
+);
+
+-- 5. Quién produjo, y qué trae de fábrica.
+CREATE TABLE modelo (
+  id              INTEGER PRIMARY KEY,
+  nombre          TEXT NOT NULL,       -- con versión
+  via             TEXT NOT NULL,
+  sesgo_conocido  TEXT NOT NULL,       -- con nombre. "neutral" no es un sesgo declarado
+  desde           TEXT NOT NULL,
+  independiente_de TEXT                -- con cuáles NO cuenta como fuente distinta
+);
+
+-- 6. El costo. El CRE se calcula, no se guarda.
+CREATE TABLE costo (
+  id              INTEGER PRIMARY KEY,
+  fecha           TEXT NOT NULL,
+  tarea           TEXT NOT NULL,
+  modelo_id       INTEGER NOT NULL REFERENCES modelo(id),
+  intentos        INTEGER NOT NULL CHECK (intentos >= 1),
+  coste_correccion TEXT NOT NULL,      -- tu tiempo de limpiar. Entra siempre.
+  verificado      INTEGER NOT NULL CHECK (verificado IN (0,1))
+);
+
+-- La vista del CRE: el costo por resultado exitoso, no el precio de la unidad.
+CREATE VIEW cre AS
+  SELECT tarea, modelo_id,
+         (SUM(intentos) * 1.0) / NULLIF(SUM(verificado), 0) AS cre
+  FROM costo GROUP BY tarea, modelo_id;
+
+-- Lo que sigue en pie, y lo que se cayó. Lo que hace al criterio útil.
+CREATE VIEW reglas_vigentes AS
+  SELECT f.el_error, f.que_hago_en_su_lugar,
+         COALESCE(d.resultado, 'no se ha probado') AS estado
+  FROM friccion f LEFT JOIN desenlace d ON d.friccion_id = f.id;
+```
+
+**Y las cuatro líneas del esquema que son, literalmente, cuatro reglas del repo:**
+
+| La línea | La regla | El ensayo |
+|---|---|---|
+| `no_alcanza TEXT NOT NULL` | un hecho sin frontera **no se puede guardar** | `1`, `2` |
+| `por_que_era_creible TEXT NOT NULL` | una fricción sin razón **no se puede guardar** | `2` |
+| `resultado TEXT NOT NULL CHECK (...)` | un desenlace **solo puede ser tres cosas**: cumplida, se volvió a caer, no se ha probado | `2` |
+| `verificado INTEGER NOT NULL CHECK (verificado IN (0,1))` | **no se guarda un costo sin decir si el resultado sirvió** | `6` |
+
+**Eso es lo que cambia con SQLite, y es lo que el ensayo 5 dice de la forma:** **lo que se deja a criterio, no se hace.** **Aquí no se deja a criterio: si no cumple, la base no lo acepta.**
+
+**Y si quieres verlo funcionar antes de usarlo**, este es el mínimo para probarlo:
+
+```sql
+-- un modelo primero (el hecho lo necesita)
+INSERT INTO modelo (nombre, via, sesgo_conocido, desde)
+VALUES ('modelo A v1', 'proveedor 1', 'da la razón a quien pregunta', '2026-11-04');
+
+-- un hecho con su frontera
+INSERT INTO hecho (fecha, que_se_pidio, que_paso, no_alcanza, no_sabia, modelo_id)
+VALUES ('2026-11-04 09:00', 'revisa si está el archivo',
+        'estaba en el commit huérfano; blob 82f890a0, 13339 bytes',
+        'lo recuperado es el archivo, no la certeza de que no haya otro',
+        'el amend deja el commit anterior alcanzable', 1);
+
+-- una fricción SIN "por qué era creíble" no se guarda: prueba a quitarlo
+INSERT INTO friccion (hecho_id, el_error, por_que_era_creible, como_se_reconoce,
+                      que_hago_en_su_lugar, quien_lo_corrigio)
+VALUES (1, 'declarar perdido sin revisar los objetos',
+        'la papelera no lo tenía y parecía definitivo',
+        'decir "no se puede recuperar" sin un reflog leído detrás',
+        'antes de decir perdido: reflog, fsck --lost-found, ls-tree, y papelera',
+        'quien preguntó por el historial de git');
+
+-- y su desenlace, que es lo que lo vuelve criterio
+INSERT INTO desenlace (friccion_id, fecha, resultado, circunstancia, cambio)
+VALUES (1, '2026-11-04', 'se volvio a caer',
+        'se borró un archivo de prueba y se buscó primero en la papelera',
+        'se encontró al segundo intento, no al primero');
+```
+
+**Si esa última fila dice `se volvio a caer`, no es un fracaso del ente: es la primera vez que el ente sirve para algo.** **Un banco sin ningún `se volvio a caer` es un banco que no está mirando.**
+
 ---
 
 ## 5. El modelo y su sesgo
 
-**`bancos/modelos.txt`. Cada modelo que trabaja en el ente lleva una ficha.**
+**`tabla modelo`. Cada modelo que trabaja en el ente lleva una ficha.**
 
 ```plaintext
 NOMBRE Y VERSIÓN:
@@ -301,7 +423,7 @@ COSTO DE ACUERDO (cuánto pesa ponerse de acuerdo antes de hacer algo):
 
 ## 10. El costo
 
-**`bancos/costos.txt`. Cada trabajo del ente, una línea.**
+**`tabla costo`. Cada trabajo del ente, una fila.**
 
 ```plaintext
 TAREA:
@@ -364,7 +486,33 @@ probable.
 
 ---
 
-## 13. Cómo saber que lo hiciste bien
+## 13. Que no se puede llenar mal
+
+**Y esto no es una promesa de la plantilla: se probó.**
+
+**El esquema de la sección 4 se corrió en una base vacía, y estas son las salidas reales:**
+
+```plaintext
+esquema: OK, se creó sin errores
+objetos: ente, hecho, friccion, desenlace, modelo, costo, cre, reglas_vigentes
+
+REGLA OK: la base rechaza friccion sin por_que_era_creible
+  -> NOT NULL constraint failed: friccion.por_que_era_creible
+
+REGLA OK: la base rechaza un resultado fuera de los tres
+  -> CHECK constraint failed: resultado IN ('cumplida','se volvio a caer','no se ha probado')
+
+desenlace válido: OK
+vista reglas_vigentes: [('e', 'q', 'se volvio a caer')]
+```
+
+**Es decir: la regla del ensayo 2 no está escrita en un párrafo que se puede saltar. Está en la base, y la base la aplica sola.**
+
+**Y esa es la diferencia entre una plantilla y un estándar:** **una plantilla se puede llenar mal; un esquema, no.**
+
+---
+
+## 14. Cómo saber que lo hiciste bien
 
 **Cuatro pruebas. Las cuatro se corren, no se opinan.**
 
@@ -381,7 +529,7 @@ probable.
 
 ---
 
-## 14. Lo que esta plantilla no puede llenar
+## 15. Lo que esta plantilla no puede llenar
 
 **Una plantilla no hace un ente bueno: hace un ente que puede ser juzgado.**
 
