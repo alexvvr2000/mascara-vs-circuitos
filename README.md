@@ -102,22 +102,34 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ---
 
-## De dónde salió esto, y qué se perdió en el camino
+## El sótano
 
-**Quien llegue directo aquí no tiene que ir a ningún otro lado para entender el resultado. Pero el proceso tiene su casa, y está dicho dónde.**
+**Hay un sótano, y no es una metáfora bonita: es el lugar donde siempre estuvo la respuesta.**
 
-**El registro —los chats, las estadísticas, el rastro— vive en el repositorio anterior del mismo autor:**
+**Un grupo pasó años atrás de un muro, y todo lo que sabía del mundo era lo que el muro le dejaba ver.** **El padre de uno de ellos le había dejado una llave, y una sola frase: la respuesta está abajo, en el sótano.**
 
-> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico:** `10.5281/zenodo.23090721` · CC BY 4.0.
+**Nadie entendía por qué el padre calló tanto.** **Lo que había adentro no era un monstruo ni un arma: eran papeles.** **Unos diarios, y una fotografía.** **Y la fotografía no mostraba un peligro: mostraba que el mundo era más grande de lo que cabía en las paredes de la casa.** **Que el muro no era el borde de las cosas: era la tapa de algo.**
 
-**Lo que hay aquí es el resultado: nueve tesis, una guía para hacer tu ente, y un criterio con sus fricciones.** **Lo que hay allá es el sótano: cómo se llegó, con sus números y sus errores.** **Quien quiera escarbar, entra allá. Quien venga por el resultado, se queda aquí.**
+**Eso es un sótano: el lugar donde se guarda lo que no se puede decir todavía, para que alguien, algún día, pueda abrirlo con sus propias manos.** **Y el que lo abre no sale con una explicación: sale con un mapa.**
 
-**Y el registro está incompleto, y se dice:**
+---
+
+**Así que aquí está el nuestro, sin llave y sin cerradura:**
+
+> **[`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy)** · **DOI histórico:** `10.5281/zenodo.23090721` · CC BY 4.0
+
+**Ahí están los chats, las estadísticas, el rastro, y los errores con nombre.** **No está ordenado para que se lea bonito: está ordenado para que se escarbe.** **Y está incompleto, y se dice:**
 
 - **La mitad de las sesiones de este trabajo se perdieron.**
 - **Y las de antes de GitHub —cuando esto empezó, con otros modelos— también.**
 
-**No se reconstruyen de memoria, y no se presume de completas.** **Un archivo que dice estar completo y no lo está deja de servir como prueba.** **Este dice cuánto le falta.**
+**No se reconstruyen de memoria, y no se presume de completas.** **Un archivo que dice estar completo y no lo está deja de servir de prueba.** **Este dice cuánto le falta.**
+
+---
+
+**Y una advertencia, para que nadie abra esta puerta esperando lo que no hay.** **Quien baje, no va a salir con una respuesta: va a salir con la pregunta más grande.** **Eso es lo que le pasó al que abrió el sótano, y no fue alivio: fue el día en que todo lo que creía saber dejó de servir.**
+
+**Aquí es igual, y por eso vale la pena.** **Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro.**
 
 ---
 
