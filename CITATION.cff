@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "Versión inicial. Si se cita, hacerlo con esta versión y esta fecha."
+title: "Entes con criterio: del ente al talento medible"
+abstract: >-
+  Entes con criterio reúne ocho ensayos sobre el mismo problema: cómo una
+  colaboración entre una persona y un sistema de inteligencia artificial puede
+  dejar un rastro que se pueda juzgar. El primero sostiene que el criterio no
+  es lo que se recuerda sino lo que se sostuvo y se cayó, y propone el hecho y
+  la fricción como las dos únicas clases de registro, con un desenlace que dice
+  qué regla aguantó y cuántas veces volvió a caer. El segundo define qué
+  campos arman ese criterio, con el hecho sin resumir y la posición con su
+  contra. El tercero argumenta que una IA debe escribir en forma de proceso y
+  no en prosa: porque la prosa supone un lector capaz de dudar, y donde el
+  hueco queda abierto, una IA lo rellena en lugar de preguntarlo. El trabajo no
+  se presenta como la verdad: se presenta como una propuesta metodológica,
+  escrita en primera persona, con sus fuentes por abrir donde no se abrieron y
+  con la declaración completa de uso de IA en ATTRIBUTION.md.
+type: book
+authors:
+  - family-names: "Valenzuela Rivera"
+    given-names: "Alejandro"
+    email: "alejandrovalenzuela051@gmail.com"
+version: "1.0.0"
+date-released: "2026-11-04"
+status: "initial"
+keywords:
+  - "inteligencia artificial"
+  - "colaboración humano-IA"
+  - "criterio"
+  - "memoria"
+  - "trazabilidad"
+  - "verificación"
+  - "escritura en procesos"
+  - "propuesta metodológica"
+  - "metodología"
+  - "reproducibilidad"
+
+references:
+  - type: software
+    title: "Man-Made Empathy: el sesgo declarado, medido en acciones"
+    authors:
+      - family-names: "Valenzuela Rivera"
+        given-names: "Alejandro"
+        email: "alejandrovalenzuela051@gmail.com"
+    version: "2"
+    date-released: "2026-11-02"
+    repository-code: "https://github.com/alexvvr2000/man-made-empathy"
+    license: "CC-BY-4.0"
+    identifiers:
+      - type: doi
+        description: "DOI conceptual de Zenodo para el historial de versiones; cada versión archivada tiene además su propio DOI."
+        value: "10.5281/zenodo.23090721"
