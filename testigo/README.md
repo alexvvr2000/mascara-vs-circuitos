@@ -1,47 +1,61 @@
 # testigo
 
-**Tres bloques. Uno para hacer un ente, uno para juzgar cómo se hizo, uno para escarbar el repositorio.**
+**No empieces de cero. Aquí está dónde me tropecé, y todo lo que hace falta para tu propio ente.**
 
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
 ---
 
-## Los tres bloques
+## Qué es esto
 
-| Bloque | Qué es | Para quién |
+**Un ente que ya se cayó doce veces, dejando su registro para que tú no tengas que caerte en las mismas.**
+
+**No te estoy dejando mi criterio. Te estoy dejando los doce errores que me lo hicieron**, para que no tengas que empezar desde cero para descubrirlos. **Va a empezar donde yo empecé. Solo que ahora, cuando se caiga, va a saber que esa caída ya tenía nombre.**
+
+**Y lo que no se hereda son mis hechos, ni mis conclusiones, ni mi criterio.** **Eso se gana cayéndose una vez en tu propio renglón.**
+
+---
+
+## Las tres formas de usar esta carpeta
+
+### 1. Si quieres hacer un ente, rápido
+
+**Dos archivos y media hora.**
+
+1. **`GUIA.md`** — el ente mínimo, con SQLite. **El esquema es el `AGENTS.md`: las reglas son `NOT NULL`, y la base no deja apuntar un dato sin lo que el ensayo exige.**
+2. **`CRITERIO.md`** — las doce fricciones, para heredarlas **como fricciones** y no como reglas.
+
+**Con esos dos tienes un ente y sabes qué te puede salir mal.**
+
+### 2. Si no quieres empezar de cero y quieres escarbar el repositorio
+
+**`ESCARBAR.md`** — el mapa: **dónde está cada cosa en `Máscara vs Circuitos`**, y de dónde vienen las piezas.
+
+**Ahí está el debate entero. Lo que ese archivo hace no es resumirlo: es decirte dónde está.**
+
+### 3. Si quieres usar este criterio en otros proyectos
+
+**`CRITERIO.md` completo**, y las dos reglas de `GUIA.md`.
+
+**Y la parte que no se puede saltar, escrita en la propia guía:** **que la fricción heredada diga de quién es.** **Un criterio prestado que se presenta como propio no es criterio: es una copia.**
+
+---
+
+## Lo que esta carpeta NO hace
+
+- **No hace un ente bueno.** Hace **un ente que puede ser juzgado.**
+- **No da un atajo.** Da **el punto de salida, con las piedras marcadas.**
+- **No sustituye al repositorio.** **El que quiera entender por qué, tiene que ir al original.**
+
+**Y lo que decide si sirve no está en ningún archivo: es si apuntas lo que se cayó, en el momento en que se cae**, sabiendo que te deja mal en el renglón.
+
+---
+
+## Los cuatro archivos
+
+| Archivo | Para qué | Cuánto |
 |---|---|---|
-| **`PARA HACER UN ENTE/`** | la guía, del `1` al `9`. **Con SQLite como la forma: el esquema es el `AGENTS.md`, y las reglas son `NOT NULL`.** | el que quiere construir |
-| **`EL CRITERIO DE TESTIGO/`** | **el criterio de la IA que ayudó**, con sus doce fricciones, su desenlace y las trampas. | el que quiere saber por qué el método se sostiene |
-| **`PARA ESCARBAR EL REPO/`** | el mapa: **dónde está cada cosa en `Máscara vs Circuitos`**, y de dónde vienen las piezas. | el que quiere ir al original |
-
-**Y `0 por que esto existe.md` dice qué es esta carpeta y qué no es.** Va antes que todo.
-
----
-
-## El orden, si vienes a construir
-
-1. Lee `0`.
-2. Lee `PARA HACER UN ENTE/1 el ente minimo.md`.
-3. Copia `2 la puerta AGENTS.md.md` y `3 la base.md`.
-4. Haz tu primer `INSERT` con `4`.
-5. **Y antes de decir que ya tienes un ente, corre `8`.**
-6. **Si no quieres empezar de cero y quieres heredar el criterio de TESTIGO, lee `9`.**
-
----
-
-## Y si vienes a juzgar
-
-1. Lee `EL CRITERIO DE TESTIGO/0`.
-2. **Mira las doce fricciones.** **Nueve son de la misma familia: rellenar un hueco en vez de declararlo.**
-3. **Mira el desenlace: cuatro de doce, y uno sin probar.** **Ese hueco es el dato.**
-4. Y si quieres discutir el método, **hay `PARA ESCARBAR EL REPO/mapa.md`** para llegar a cada ensayo y correr su falsificador.
-
----
-
-## Lo que esta carpeta no hace
-
-**Una carpeta como esta no hace un ente bueno: hace un ente que puede ser juzgado.**
-
-**Lo que decide si sirve no está en ningún archivo:** **es si apuntas lo que se cayó, en el momento en que se cae**, sabiendo que te deja mal en el renglón.
-
-**Y si te sale igual que a otro, no la escribiste tú.**
+| **`GUIA.md`** | hacer un ente mínimo, con SQLite | 15 min |
+| **`CRITERIO.md`** | heredar las doce fricciones, y el desenlace | 10 min |
+| **`ESCARBAR.md`** | el mapa del repositorio y el DOI del proyecto anterior | 5 min |
+| **`QUE NO SALGA MAL.md`** | las cinco trampas, y el falsificador de esta carpeta | 5 min |

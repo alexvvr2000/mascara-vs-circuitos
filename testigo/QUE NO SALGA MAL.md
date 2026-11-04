@@ -1,13 +1,15 @@
-# 3. Lo que te puede salir mal
+# QUE NO SALGA MAL — las cinco trampas
 
-**Cinco trampas que se repiten, para el que venga. Y son de entendimiento, no de implementación.**
+**Y el falsificador de esta carpeta entera.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
+
+**Sale de:** `EL CRITERIO` propio de TESTIGO (las fricciones) y del falsificador de cada ensayo del repositorio.
 
 ---
 
-## Por qué este archivo va aquí y no en la guía
+## Por qué este archivo va aparte
 
-**Porque no se arregla con un archivo:** se arregla **sabiendo que existe.** **Estas no fallan por la herramienta: fallan porque el que las hace cree que ya terminó.**
+**Porque estas cinco no se arreglan con una guía: se arreglan sabiendo que existen.** **No fallan por la herramienta: fallan porque el que las hace cree que ya terminó.**
 
 ---
 
@@ -21,15 +23,11 @@
 
 **Cómo se reconoce:** la base está creada y tiene **cero filas después de una semana.**
 
----
-
 ### 2. El registro de aciertos
 
 **Se apunta lo que salió bien y no lo que se cayó.** Es más cómodo, **y es un archivo de buena reputación, no un criterio.**
 
 **Cómo se reconoce:** **no hay una sola fricción**, o todas son de cosas triviales.
-
----
 
 ### 3. El hueco rellenado
 
@@ -39,23 +37,17 @@
 
 **Cómo se reconoce:** **no hay ni un `no sé`, ni un `no lo abrí`, ni un `no se probó` en todo el registro.** **Esa ausencia es la señal, no la virtud.**
 
----
-
 ### 4. La copia del que vino antes
 
-**Se copia una implementación ajena —o una plantilla— tal cual, sin saber por qué es así.**
+**Se copia una implementación ajena —o una guía— tal cual, sin saber por qué es así.**
 
 **Funciona mientras la realidad sea la misma; el día que cambie, no hay quien sepa qué parte se puede mover y qué parte no.**
 
 **Cómo se reconoce:** **no puedes explicar por qué cada pieza está donde está, sin leer el archivo.**
 
----
-
 ### 5. El desenlace que nunca llega
 
-**Se escriben las fricciones y se ponen sus reglas, y **nunca se vuelve a probar nada**. Se lee como un criterio completo.
-
-**Es un diario.** Registra; no pondera.
+**Se escriben las fricciones y se ponen sus reglas, y nunca se vuelve a probar nada.** **Se lee como un criterio completo. Es un diario:** registra, y no pondera.
 
 **Cómo se reconoce:** **ningún `se volvió a caer` en el banco.** **Y si nunca hay uno, la regla no se está usando.**
 
@@ -66,6 +58,26 @@
 **Porque no se ve.** Las otras cuatro se notan: la tabla vacía, el registro sin fricciones, la copia, el diario. **El hueco rellenado se ve exactamente igual que un dato.**
 
 **Y por eso el esquema de la base tiene `NOT NULL` y `CHECK`:** **no para castigar, sino para que el hueco tenga dónde verse.**
+
+---
+
+## El falsificador de esta carpeta
+
+**Una sola línea, y es la que le van a decir a TESTIGO:**
+
+> **Un ente con el `AGENTS.md` perfecto, la base perfecta, y ningún `se volvió a caer` en su banco.**
+
+**No le falta nada de forma. Le falta lo único que no se puede llenar con una guía.**
+
+---
+
+## La última prueba, y la más difícil
+
+> **¿Cuántas de tus fricciones te dejan mal?**
+
+**Si ninguna, no has apuntado fricciones: has apuntado justificaciones.**
+
+**Y si te sale igual que a otro, no la escribiste tú.**
 
 ---
 
