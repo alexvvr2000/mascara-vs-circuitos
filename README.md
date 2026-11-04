@@ -92,7 +92,7 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 
 **Y no es solo la de unificar las dos teorías más grandes de la física. Es la de mejorar a la humanidad juntos.**
 
-Lo digo con un ejemplo, y es el que me importa: **un suero con nanomáquinas que tenga criterio propio** — que no solo ejecute, sino que registre, mida lo que hace y se corrija — **puede convertir la batalla contra el cáncer en una batalla de ideales y no de dinero.** Ver a la quimioterapia más pesada y más cara del planeta **es posible en este siglo**, si la herramienta deja de ser un privilegio de quien puede pagarla.
+Lo digo con un ejemplo, y es el que me importa: **un suero con nanomáquinas que tenga criterio propio** — que no solo ejecute, sino que registre, mida lo que hace y se corrija — **puede convertir la batalla contra el cáncer en una batalla de ideales y no de dinero.** **Dejar de ver la quimioterapia más pesada y más cara del planeta como algo inaccesible es posible en este siglo**, si la herramienta deja de ser un privilegio de quien puede pagarla.
 
 **No sé si eso se logre.** Lo que sí sé es que **la barrera de entrada bajó, y que ya no depende del presupuesto sino de la forma.** Y cuando la barrera cae, **lo que se pelea deja de ser quién tiene más y pasa a ser qué se está dispuesto a sostener.**
 
