@@ -121,6 +121,22 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ---
 
+## Esto es una implementación, y no la única
+
+**Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:**
+
+> **Este repositorio no es una conclusión. Es *una implementación* de una conclusión.**
+
+**De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor.** **Las otras no están aquí porque no son suyas: están en el sótano, en `man-made-empathy`, y quien quiera alternativas va allá a sacar las suyas.**
+
+**Y eso no es modestia: es la mecánica.** **Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma.** **Un método se copia, se cambia y se tumba. Un dogma se cree.** **Aquí solo cabe lo primero.**
+
+**Lo que esto sí es, entonces:** **una de muchas conclusiones, escrita hasta el final, con sus números, sus guías y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.**
+
+**¿Y cómo se reconoce una alternativa cuando la encuentres?** **Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba.** **Si no dice qué la tumba, no es una alternativa: es otra opinión.**
+
+---
+
 ## Qué es esto y qué no es
 
 **Es una propuesta metodológica, no una verdad.**
