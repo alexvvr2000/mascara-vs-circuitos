@@ -81,7 +81,9 @@ La licencia de este trabajo (**CC BY 4.0**) permite leerlo, citarlo, compartirlo
 
 Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, que está publicado y se cita:
 
-> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
+> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico del proyecto:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
+
+**El DOI histórico identifica el repositorio completo y todo su historial**, no una versión suelta: **cada commit contó para llegar hasta aquí**, porque el debate fue el trabajo, y el historial es donde queda quién decidió qué y cuándo.
 
 **Las piezas están ahí; aquí está el porqué.** Este texto no repite cómo se juntan: dice **por qué cada una es así y qué se perdería si faltara.** El que quiera construir va por las piezas; el que quiera entenderse a sí mismo mientras construye, lee esto.
 

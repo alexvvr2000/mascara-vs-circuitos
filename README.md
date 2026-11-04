@@ -35,7 +35,9 @@ Esto no nació de una idea feliz. Nació de un destrozo.
 
 **Las piezas están en el proyecto anterior del mismo autor**, que está publicado y se cita:
 
-> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
+> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico del proyecto:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
+>
+> **Y el DOI histórico cita el repositorio entero, no solo la v2:** cada commit cuenta, porque **el debate fue el trabajo** y el historial de git es donde se ve quién decidió qué, y cuándo.
 
 **Este texto no lo repite.** Lo que añade es otra cosa: **por qué cada pieza es así y qué se perdería si faltara.** Quien quiera construir, va allá por las piezas. Quien quiera saber qué está sosteniendo, lee esto. **Y lo mejor es hacer las dos cosas, en ese orden.**
 

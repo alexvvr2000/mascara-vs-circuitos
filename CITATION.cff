@@ -48,5 +48,5 @@ references:
     license: "CC-BY-4.0"
     identifiers:
       - type: doi
-        description: "DOI conceptual de Zenodo para el historial de versiones; cada versión archivada tiene además su propio DOI."
+        description: "DOI conceptual (histórico) de Zenodo: identifica el repositorio completo y todo su historial, no una versión suelta. Cada versión archivada tiene además su propio DOI."
         value: "10.5281/zenodo.23090721"
