@@ -112,6 +112,12 @@ Este ensayo propone una **inversión** de una práctica que ya existe. Lo que an
 | **Gupta, S., Ranjan, R., & Singh, S. N. (2024).** *A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions.* arXiv:2410.12837. | El estado del arte de la recuperación aumentada: cómo se recupera y cómo se genera. | **El marco general** en el que esta idea se sitúa. |
 | **Oche, A. J. et al. (2025).** *A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions.* arXiv. | Revisión sistemática de los sistemas de RAG y de los huecos que quedan. | **Los huecos**: lo que todavía no está resuelto en el área. |
 
-**Y la diferencia, en una línea:** lo que está publicado **construye el grafo desde el texto**; este ensayo propone **lo contrario: el grafo manda, y el texto se deriva.** Es una **inversión sobre un antecedente conocido**, no una idea sin origen.
+**Y la diferencia, que es lo que este ensayo aporta:** lo que está publicado **construye el grafo desde el texto**; este ensayo propone **lo contrario: el grafo manda, y el texto se deriva.**
 
-**Lo que este ensayo no hace:** no se presenta como un resultado nuevo que reemplace a los anteriores. Se presenta como **una forma de ordenar el conocimiento** que quien lo lea puede probar, y refutar, con lo que ya existe.
+**Por qué esa inversión no es un detalle de orden, sino la pieza entera.** Si el texto es la fuente, el grafo es una interpretación de los datos: puede estar mejor o peor construido, pero siempre depende de lo que el texto diga. Si el grafo es la fuente, entonces **la forma del conocimiento es un dato propio**, y el texto es el que se adapta. Y de ahí salen tres cosas que con el orden habitual no se pueden hacer:
+
+1. **Se puede tirar y reconstruir.** Si el índice derivado sale mal, se bota y se vuelve a armar; **no se perdió nada**, porque la forma vive aparte.
+2. **El cambio queda dicho en la estructura, no en la costumbre.** Cuando un tema se divide o se supera, **el acto queda registrado y fechado**, y no en el hecho de que alguien renombró una carpeta.
+3. **Se puede preguntar por lo que se dejó de sostener.** Un tema superado sigue ahí, con su fecha y su motivo. **Con el grafo derivado del texto, lo que ya no se usa desaparece sin dejar rastro.**
+
+**Lo que este ensayo NO hace:** no se presenta como un resultado que reemplace a los anteriores, ni como una mejora medida de nada. **No se midió contra GraphRAG.** Se presenta como **una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer, no en lo que demuestra ser mejor**, y que quien lo lea puede probar y refutar con lo que ya existe.

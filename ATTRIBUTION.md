@@ -11,7 +11,7 @@ Este trabajo se escribió en diálogo con un sistema de inteligencia artificial.
 
 | Pieza | Quién la hizo |
 |---|---|
-| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | El autor |
+| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | El autor — **cuáles son, y en qué ensayo vive cada una, en [`LAS IDEAS DEL AUTOR.md`](./LAS%20IDEAS%20DEL%20AUTOR.md)** |
 | **La estructura y el orden de la colección** | El autor, discutido con el sistema |
 | **La redacción** | El autor, con asistencia de redacción |
 | **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en el ensayo 0 |

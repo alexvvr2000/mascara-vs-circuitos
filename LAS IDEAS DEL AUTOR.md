@@ -1,0 +1,90 @@
+# Las ideas del autor
+
+**Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.**
+**Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
+
+> **Para qué sirve este archivo.** Un lector —o un asesor— tiene derecho a preguntar **cuál es la posición del autor y por qué es suya**, sin tener que reconstruirla leyendo dieciocho mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
+
+---
+
+## Las nueve afirmaciones
+
+### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
+
+**Vive en:** `1 que es un ente.md`.
+**Qué sostiene:** un ente es una unidad que **recibe, decide, contesta y deja rastro de haber contestado**. No dice nada de conciencia ni de interioridad, porque **son preguntas sin comprobación**: no hay manera de abrir a alguien para ver si por dentro hay alguien, y sí hay manera de ver qué entró, qué salió y qué quedó escrito.
+**Qué lo sostiene:** el borde. Lo que descalifica a un ente está escrito — sin rastro, sin distinguir lo que propone de lo que le mandaron, o apuntando para nadie — y eso lo hace comprobable.
+
+### 2. El criterio no se recuerda: se arma, y su pieza que falta es el desenlace
+
+**Vive en:** `2 criterio real.md`.
+**Qué sostiene:** tener criterio no es tener convicciones firmes, sino **saber qué de lo sostenido se cayó y qué se hizo después**. De ahí salen tres registros: **el hecho, la fricción y el desenlace.**
+**Qué lo sostiene:** la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
+
+### 3. Un ente con varios modelos tiene un criterio y varios sesgos
+
+**Vive en:** `4 criterio y sesgos.md`.
+**Qué sostiene:** la identidad puede vivir en un lado —reglas, registro, memoria— y los modelos pasar. **Lo que se conserva es el criterio; lo que cambia con cada modelo es el sesgo.** Y el riesgo concreto: **un sesgo registrado sin nombre se vuelve criterio por la puerta atrás.**
+**Qué lo sostiene:** si el sesgo no se ve desde dentro, **la comparación entre modelos distintos es el único instrumento que lo revela.** Y de ahí una regla: **repetición no es verificación.**
+
+### 4. Una IA debe escribir en forma de proceso, no en prosa
+
+**Vive en:** `5 escritura en procesos.md`.
+**Qué sostiene:** la prosa supone **un lector capaz de dudar**; una IA no duda de un texto, **lo rellena**. Donde falta el `Falla si`, el `Cuándo se corre` o el `Falsificador`, la IA no se detiene: inventa.
+**Qué lo sostiene:** la prosa **protege al que escribe y le cobra al que ejecuta.** Un texto que solo se puede creer no es una instrucción: es una apuesta con la palabra "hazlo" encima.
+
+### 5. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
+
+**Vive en:** `6 talento medible.md`.
+**Qué sostiene:** un modelo barato que falla tres veces **es más caro que el caro que acierta**. Se decide por **CRE**, no por precio de la unidad; se **presupuesta con la cola alta**, no con la media; y el costo de corrección **entra siempre** en la cuenta.
+**Qué lo sostiene:** es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, **sin saber nada de su interior.**
+
+### 6. Y de ahí, la apuesta: esto hace accesible la IA con modelos pequeños
+
+**Vive en:** el `README`, sección *Por qué esto abre una carrera*.
+**Qué sostiene:** si el ente correcto hace que un modelo pequeño llegue al resultado, **la ventaja deja de estar en el presupuesto y pasa a estar en la forma.**
+**Qué lo sostiene:** **nada todavía.** Es una hipótesis con mecanismo y sin medición, y así está escrita. **Es la afirmación más fuerte de todo el trabajo y la menos probada**, y por eso se declara como conjetura y no como resultado.
+
+### 7. En el índice, la forma es la fuente y el texto es el derivado
+
+**Vive en:** `7 indexador de temas.md`.
+**Qué sostiene:** la **inversión** de la práctica habitual. Lo publicado construye el grafo **desde** el corpus; aquí **el grafo manda y el texto se deriva**, y eso permite tres cosas que con el orden habitual no se pueden: **tirar y reconstruir, dejar el cambio escrito en la estructura, y preguntar por lo que se dejó de sostener.**
+**Qué lo sostiene:** no es una mejora medida —**no se midió contra nada**— sino **una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer.** Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
+
+### 8. Un conjunto de entes no es un enjambre si alguien responde por él
+
+**Vive en:** `8 colmena.md`.
+**Qué sostiene:** **un enjambre produce; una colmena responde.** Lo que la vuelve contestable no es el número: es que **el conjunto declare su sesgo, firme con un nombre, y dé a cada ente el derecho a decir que no.**
+**Qué lo sostiene:** el costo de acuerdo. Medir la velocidad de cada parte y llamarlo rendimiento del conjunto es esconder el término que más pesa.
+
+### 9. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
+
+**Vive en:** `3 empatía.md`.
+**Qué sostiene:** **la empatía no es amabilidad: es instrumentación.** Averiguar cómo está hecha la otra parte **antes** de pedirle algo. Y un resultado coherente con la letra puede ser **ajeno al propósito**: eso solo se detecta entendiendo el pedido, no revisando la salida.
+**Qué lo sostiene:** el costo no desaparece, **se transfiere** a quien herede el trabajo. Y lo malentendido **no se ve desde el resultado.**
+
+---
+
+## Lo que NO se afirma
+
+Esto importa tanto como lo anterior, y es lo que evita que el trabajo se caiga en un debate:
+
+- **No se afirma que exista una conciencia dentro de un modelo**, ni dentro de un ente. Se trabaja **sobre el rastro**, y el rastro no requiere resolver esa pregunta.
+- **No se afirma que esto sea la verdad.** Es **una versión**, con sus límites dichos, y la meta es que otros armen las suyas.
+- **No hay ninguna comparación medida** con los trabajos que se citan en `7`. La relación con ellos es de **contraste de forma**, no de rendimiento.
+- **La afirmación 6 no está probada.** Es conjetura.
+- **El experimento es uno**, y una corrida es una prueba, no una muestra. No se presenta como validado con terceros independientes.
+
+---
+
+## Cómo se discute esto
+
+Este trabajo **no pide que se le crea.** Pide que se le use y se le refute.
+
+Cada afirmación de arriba tiene, en su ensayo, **una `Prueba` y un `Falsificador`**. Quien quiera discutirla tiene tres caminos, y los tres sirven:
+
+1. **Correr el falsificador.** Si lo que describe se cumple, la afirmación se cayó, y se dice dónde.
+2. **Mostrar una afirmación que falte** — algo que este trabajo sostiene sin decirlo, y que no aguanta.
+3. **Probar el método en otro dominio** y traer el resultado.
+
+Lo que no sirve es discutir el ánimo: **si el trabajo se cae, se cae por su prueba o por su falsificador, y no por su tono.**

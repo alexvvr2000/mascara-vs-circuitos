@@ -124,6 +124,7 @@ Los ensayos están numerados en el orden en que se sostienen unos a otros, no en
 | **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, no precio de la unidad; y la varianza como modo de fallo. |
 | **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El índice como grafo que cambia, y la forma que tiene que tener para poder reconstruirse. |
 | **8** | `8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
+| — | `LAS IDEAS DEL AUTOR.md` | **La posición, en lista.** Las nueve afirmaciones que se sostienen, dónde vive cada una y qué la sostiene. Y lo que **no** se afirma. |
 
 **La cadena, en una línea:** el 0 dice con qué se sostiene el trabajo; un ente se define por su rastro (1); el rastro se vuelve criterio con el desenlace (2); y ese criterio solo sirve si se entiende a quien se le habla (3); hay que distinguirlo del sesgo del modelo que lo dice (4); lo que el ente escribe tiene que poder ejecutarse y refutarse (5); sobre lo escrito se mide el talento (6); el 7 dice dónde vive lo que sabe; y el 8 cierra con el caso de varios. **Y todo eso se entrega por `ALAS`, o no se entrega.**
 
