@@ -36,6 +36,13 @@ Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo com
 
 **Lo que el autor busca no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en el ensayo 0 y en el 7.
 
+**Y una frase del autor, que resume por qué esto se escribió así:**
+
+> **«Sentido común mata título universitario.»**
+
+**Lo que quiere decir, y lo que no:** no que el título no sirva —el de este autor está en el ensayo 0, y la ley se citó con su fuente—, sino que **un papel no sustituye el juicio**. Lo que este trabajo pide de quien lo lea no es una credencial: es **que lo piense, lo pruebe y lo contradiga si no aguanta.**
+
+
 ---
 
 ## 3. El papel de cada quien
