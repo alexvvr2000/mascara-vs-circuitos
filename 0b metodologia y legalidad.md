@@ -125,7 +125,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 | Pendiente | Depende de |
 |---|---|
-| Nombre y reglas del journal | tu profesor |
+| Nombre y reglas del journal | **su auditor, Luis Ángel Gutiérrez Rodríguez** |
 | Formato de citas y licencia | el journal |
 | Cerrar las fuentes 2 a 5 | que se pueda leer completo |
 | Revisar el acuerdo de retención del modelo | antes del 30 de noviembre de 2026 |

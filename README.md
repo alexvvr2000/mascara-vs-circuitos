@@ -165,7 +165,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ## Estado de esta versión
 
-> **Este trabajo todavía no se publica.** Está en revisión con el asesor del autor, el repositorio sigue **privado**, y **no hay depósito en Zenodo ni DOI de esta versión**. La publicación y el depósito se hacen **cuando el asesor lo autorice**, y no antes.
+> **Este trabajo todavía no se publica.** Está en revisión con su asesor, **Luis Ángel Gutiérrez Rodríguez**, que actúa como **auditor** de este trabajo. El repositorio sigue **privado**, y **no hay depósito en Zenodo ni DOI de esta versión**. La publicación y el depósito se hacen **cuando él lo autorice**, y no antes.
 
 ---
 
