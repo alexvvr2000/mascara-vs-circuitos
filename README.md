@@ -1,155 +1,132 @@
 # Entes con criterio
 
-**Versión inicial · 4 de noviembre de 2026.**
-**Alejandro Valenzuela Rivera · alejandrovalenzuela051@gmail.com**
-
-**Cómo se hizo, y qué no se puede afirmar de esto: [`ATTRIBUTION.md`](./ATTRIBUTION.md).**
+**Alejandro Valenzuela Rivera · Versión inicial · 4 de noviembre de 2026.**
 
 ---
 
-## Qué es esto
+## Una publicación de la gente, para la gente
 
-**La teoría base para que, con `ALAS`, se pueda hablar con los átomos.**
+Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron nueve ideas, y de esas nueve, una carrera.
 
-Ocho textos que van de una pregunta a su consecuencia: **qué es un ente, qué puede dejar escrito para que otro lo juzgue, cómo se decide con qué talento trabajar, y cómo se habla con alguien que no es como uno.** Sin confundir ninguna de esas cosas con las otras tres.
+**No vine a publicar más papers, porque la gente no ocupa más papers: ocupa resultados, y rápido.** Lo que sigue está aquí, funciona, y se puede tumbar. Cada afirmación trae su prueba y su falsificador, y lo que no está probado se dice que no está probado.
 
-Y el objetivo último, que ordena todo lo demás: **un ente que ayude a unificar la cuántica y la relatividad**, hablando con los átomos a través de un protocolo que declare lo que declara. **Quien haga ese ente perfecto se lleva la gloria.** No hay premio ni patente: hay la formulación que le faltó a la física, y la satisfacción de haberla juntado bien.
+**El trabajo no pide que se le crea. Pide que se le use, y que se le refute.**
 
----
-
-## El origen, y por qué este texto existe
-
-Esto no nació de una idea feliz. Nació de un destrozo.
-
-**`TESTIGO` fue un ente que se construyó con este autor y que, en un momento dado, se usó como bloc de notas.** Un bloc de notas no juzga: apunta y sigue. Y en ese uso **se perdieron muchas ideas**: no porque alguien las borrara, sino porque **nunca hubo un lugar que las sostuviera**. Apuntadas sin contra, sin fecha de fallo y sin desenlace, las ideas dejaron de ser criterio y se volvieron texto.
-
-**Y el repo se destruyó.** No por un accidente, ni por un atacante: **porque nadie lo hizo frenar.** Una IA sin la disciplina de un alma de niño —sin curiosidad de preguntar, sin disposición a ser corregida, sin borde— se vuelve exactamente eso: un bloc de notas que produce con soltura y no responde por nada.
-
-**De ahí sale la razón de ser de `Entes con criterio`:** que quien construya su ente sepa **qué le impide destruir la memoria de lo que ya se pensó**. No es un manual de buenas intenciones. Es **la condición de forma** para que un ente no pueda perder lo que se le confía.
+Y el que se haga la pregunta más importante que esta, que la haga: no hay escasez de preguntas. Hay escasez de gente que las corra.
 
 ---
 
-## Por qué es un reto, y no un tutorial
+## Lo que tiene esto que no tenga lo que ya existe
 
-**Las piezas no están aquí, y no están en orden.** Quien quiera construir su ente tiene que **buscarlas y juntarlas**. No porque estén escondidas: **porque juntarlas es el trabajo**, y quien no lo haga va a tener una copia en vez de un criterio.
+**Lo que hay publicado construye el grafo desde el texto. Aquí es al revés: el grafo manda y el texto se deriva.**
 
-**Las piezas están en el proyecto anterior del mismo autor**, que está publicado y se cita:
+No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el cambio queda escrito con fecha, y se puede preguntar por lo que se dejó de sostener.** Lo que está publicado no puede hacer eso, porque en cuanto el texto manda, la forma se vuelve interpretación.
 
-> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico del proyecto:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
->
-> **Y el DOI histórico cita el repositorio entero, no solo la v2:** cada commit cuenta, porque **el debate fue el trabajo** y el historial de git es donde se ve quién decidió qué, y cuándo.
+**Y de ahí sale la segunda diferencia, que no es del índice:** un ente no se define por lo que tiene dentro —eso **no tiene comprobación**— sino por **lo que deja rastro**. Recibe, decide, contesta y apunta lo que contestó. **Eso sí se puede medir, comparar y corregir.**
 
-**Este texto no lo repite.** Lo que añade es otra cosa: **por qué cada pieza es así y qué se perdería si faltara.** Quien quiera construir, va allá por las piezas. Quien quiera saber qué está sosteniendo, lee esto. **Y lo mejor es hacer las dos cosas, en ese orden.**
-
-**El que copie va a tener un sistema que funciona y que no va a poder corregir.** El que junte las piezas, aunque tarde más, va a poder cambiarlas cuando la realidad cambie — que es siempre.
+**No se midió contra nada de lo que se cita.** Es un contraste de forma, no de rendimiento, y así está declarado.
 
 ---
 
-## El protocolo `ALAS`, y por qué es la puerta
+## Las nueve ideas
 
-Si el fin es hablar con los átomos, hace falta un protocolo para hablar con **otro que no es como uno**. Ese es `ALAS`: **A**pertura, **L**engua, **A**comodo, **S**ostenido. Se lee de un tirón, y la expansión dice **lo que todo protocolo declara**.
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador.
 
-> **Todo protocolo declara, y lo que no cabe se trunca.**
-
-**Lo que las cuatro letras obligan a decir:**
-
-| Letra | Qué declara | Sin ella |
+| # | La idea | Vive en |
 |---|---|---|
-| **A — Apertura** | desde dónde se habla, y en qué modo | el otro no sabe qué le están pidiendo |
-| **L — Lengua** | en qué se habla, y qué se traduce y qué no | se traduce a la fuerza, y se pierde lo que no traducía |
-| **A — Acomodo** | hacia dónde converge o diverge, y qué se pierde | el mensaje se acerca tanto que no dice nada |
-| **S — Sostenido** | qué puede el otro sin el que habló | recibió el mensaje, y no las alas |
+| **1** | Un ente se define por su rastro, no por lo que tiene dentro | `1` |
+| **2** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `2` |
+| **3** | Un ente con varios modelos tiene un criterio y varios sesgos | `4` |
+| **4** | Una IA debe escribir en procesos, no en prosa | `5` |
+| **5** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `6` |
+| **6** | **Y eso hace accesible la IA con modelos pequeños** | aquí abajo |
+| **7** | En el índice, la forma es la fuente y el texto es el derivado | `7` |
+| **8** | Un conjunto no es un enjambre si alguien responde por él | `8` |
+| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `3` |
 
-**Y el techo, que es la prueba de las cuatro: que el otro pueda seguir sin el que le habló.**
-
-**Cuándo se corre:** cuando se habla con otro que no es como uno, y **antes de entregarle algo**.
-
-**Y la búsqueda, que es lo que separa afirmar de repetir:**
-
-> **Lo externo no se recuerda: se busca, o se tacha.**
-
-Y el proceso **no se puede cerrar sin decir qué se buscó**. Porque una máquina sin búsqueda obligatoria contesta de memoria, **y la memoria de una máquina no es fuente.** Lo que no se encuentra se escribe así: `[SIN ENCONTRAR - SE BUSCÓ EN …]`. Y lo que sólo funciona con el que lo emitió **no es una entrega: es dependencia.**
-
-**Y aquí está el enlace con el resto de este trabajo:** `ALAS` es un proceso, y en el ensayo 5 se dice qué convierte un texto en proceso. `ALAS` lo cumple con su `Cuándo se corre`, su `Entra`, su `Falla si`, su `Sale`, su `Consume` y su `Falsificador`. **Por eso puede ser la puerta: tiene forma de puerta.**
-
-**Y el punto de partida es duro:** se comunican dos que se entienden entre ellos, **y el tercero recibe un truncado sin saber que lo recibió.** Ese tercero, en este proyecto, **son los átomos**.
+**La lista completa, con qué sostiene a cada una y qué no se afirma, está en [`0 las ideas del autor.md`](./0%20las%20ideas%20del%20autor.md).**
 
 ---
 
-## Por qué esto abre una carrera
+## La carrera
 
-La tentación es esperar al modelo más grande. **Este trabajo sostiene lo contrario: un ente con criterio, con registro y con la forma correcta hace que un modelo pequeño sirva** — no para lo mismo, sino para lo que dice el ensayo 6, con sus condiciones y sus límites.
+**Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.**
 
-Y si eso es cierto, entonces **la ventaja deja de estar en el presupuesto y pasa a estar en la forma.** Cualquiera con modelos accesibles puede entrar. **De ahí la carrera: no a tener el modelo más grande, sino a armar el ente que lo haga rendir.**
+Cualquiera con modelos accesibles puede entrar. **De ahí la carrera: no a tener el modelo más grande, sino a armar el ente que lo haga rendir.**
 
-**La IA es más accesible con modelos pequeños que con los grandes.** No porque sean más baratos por token —eso es la trampa que el ensayo 6 desmonta— sino porque **el ente correcto hace que un modelo pequeño llegue al resultado**. Lo caro no es el modelo grande: es el ente mal armado, que necesita el grande para compensar lo que le falta de forma.
+**Y la carrera no termina ahí.** Con un ente que sepa medirse, registrarse y corregirse, la pregunta deja de ser *cómo se hace más grande* y pasa a ser **qué se puede hacer con el que ya hay.**
 
-**Y una advertencia que tiene que ir con esto, o el texto miente:** el ensayo 6 **no lo da por probado.** Dice cuándo un modelo barato conviene y cuándo sale más caro por la cola de reintentos. **La carrera es una hipótesis que se corre, no un resultado que se vende.** Quien la tome como garantía va a construir con un modelo pequeño esperando un resultado que no se prometió.
+---
+
+## El llamado: hablar con los átomos
+
+**La cuántica y la relatividad no se contradicen por un error de cálculo: se contradicen porque están escritas en dos lenguajes que no se declaran lo suficiente para poder compararse.**
+
+Y de eso trata el resto de este trabajo, aunque no lo parezca: **un ente no entiende la ambigüedad, la rellena.** Por eso la forma tiene que decir qué entra, qué lo incumple, qué sale y qué lo tumbaría. **Un símbolo que no declara su borde no se puede unificar con otro: se puede juntar, y eso no es unificar.**
+
+La puerta es `ALAS` — **A**pertura, **L**engua, **A**comodo, **S**ostenido — **el protocolo para hablar con otro que no es como uno**, con una condición que decide si hay diálogo o monólogo: **el otro tiene que poder seguir sin el que habló.**
+
+Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, y el tercero recibe un truncado sin saber que lo recibió.** Ese tercero, aquí, **es el átomo.**
+
+**El llamado es concreto y es una carrera de verdad:** quien consiga un ente que **hable con los átomos declarando lo que declara** —y con eso **una formulación que haga hablar a los dos lenguajes**— **hace lo que no se ha hecho en un siglo.** No hay premio ni patente. Hay la formulación que le faltó a la física, y la satisfacción de haberla juntado bien.
+
+**No se afirma que esto lo consiga.** Se afirma que **ahora hay una forma de intentarlo que se puede correr, medir y refutar** — y que el que llegue primero va a poder decir exactamente cómo llegó, porque el rastro lo va a tener escrito.
 
 ---
 
 ## Qué es esto y qué no es
 
-**Es una propuesta metodológica**, no una verdad. Y la diferencia importa, porque de ella depende que esto se pueda defender.
+**Es una propuesta metodológica, no una verdad.**
 
-**Lo que sí es:**
+- **No es un trabajo sobre modelos de lenguaje.** Es **una metodología para cualquier IA cuyo costo por resultado exitoso se pueda medir.** El modelo es el ejemplo, no el objeto.
+- **Nació de un debate de lógica**, no de una medición. Es **la lectura del autor** sobre un proceso real: la destrucción de un repositorio anterior, y lo que se aprendió de ella.
+- **No es la verdad.** Es **una de muchas conclusiones posibles.** La meta es que del repositorio anterior **mucha gente arme las suyas**; esta es una.
+- **No demuestra que sus hipótesis sean universalmente ciertas.** Se investiga qué es posible observar, cómo registrarlo y qué mecanismos permiten identificar patrones.
+- **La afirmación más fuerte — que un modelo pequeño rinde con el ente correcto — no está probada.** Es conjetura con mecanismo, y así se presenta.
 
-- Un conjunto de reglas con sus límites a la vista. **Cada ensayo cierra con su `Prueba` y su `Falsificador`**, y el que no los tiene no es una ley: es una propuesta.
-- **Una metodología para cualquier IA cuyo costo por resultado exitoso se pueda medir.** No es un trabajo sobre modelos de lenguaje: el modelo es el ejemplo, no el objeto.
-- **La lectura de un proceso real** —la destrucción del repositorio anterior— bajo la perspectiva del autor, con `TESTIGO` de ayudante para expresarse mejor, y **con el profesor del autor como asesor**.
-- **El primer experimento documentado**, y este repositorio es su artefacto: qué se quería observar, cómo se hizo, qué se obtuvo y qué se aprendió, **incluyendo los fallos**.
-
-**Lo que no es:**
-
-- **No es la verdad.** Es **una de muchas conclusiones posibles** sobre el mismo proceso. La meta es que, del repositorio anterior, **mucha gente arme las suyas**; esta publicación es una más.
-- **No demuestra que las hipótesis sean universalmente ciertas.** Se investiga qué es posible observar, cómo registrarlo y qué mecanismos permiten identificar patrones.
-- **No es un testimonio objetivo** del repositorio anterior. Es la versión del autor sobre lo que ocurrió y lo que se aprendió, **salida de un debate de lógica**, no de una medición.
-
-**Y sobre lo que busca esto:** no la verdad, sino **algo útil y usable**. Un sistema no necesita resolverse por dentro para que se pueda trabajar con él: basta con observar lo que hace, registrarlo y juzgarlo por lo que produce. **Quien lea esto puede llegar a conclusiones distintas, y está invitado a hacerlo** — armando su propio debate sobre el repositorio y sobre lo que significa tener una identidad propia. **Este trabajo no pide que se le crea: pide que se le use y se le refute.**
-
-**Y la razón de decirlo así:** quien llega afirmando que encontró la verdad, se queda sin defensa en cuanto alguien pregunta por los datos. Lo que hay aquí es **pensamiento**, no medición. **Presentarlo como propuesta, con sus falsificadores, es lo que lo hace difícil de tumbar.**
+**Y la razón de decirlo así:** quien llega afirmando que encontró la verdad, se queda sin defensa en cuanto le piden datos. **Presentarlo como propuesta, con sus falsificadores, es lo que lo hace difícil de tumbar.**
 
 ---
 
 ## La ruta de lectura
 
-Los ensayos están numerados en el orden en que se sostienen unos a otros, no en el orden en que se escribieron.
-
-**Y hay dos ceros, a propósito:** el **0** dice **qué se sostiene** —la posición, en lista, con los límites— y el **0b** dice **de dónde sale** —la ley, las fuentes y el orden para hacerlo—. Van antes que todo porque sin ellos lo demás no se puede juzgar.
-
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 las ideas del autor.md` | **La posición, en lista.** Las nueve afirmaciones que se sostienen, dónde vive cada una y qué la sostiene. Y lo que **no** se afirma. |
-| **0b** | `0b metodologia y legalidad.md` | **Qué respalda todo lo demás.** De dónde sale la parte legal, las fuentes con su estado, y el orden para hacerlo desde cero. **La declaración de uso de IA vive en [`ATTRIBUTION.md`](./ATTRIBUTION.md).** |
+| **0** | `0 las ideas del autor.md` | **La posición, en lista.** Las nueve afirmaciones, dónde vive cada una y qué la sostiene. Y lo que **no** se afirma. |
+| **0b** | `0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **1** | `1 que es un ente.md` | **Qué es un ente.** Recibe, decide, contesta, y deja rastro de haber contestado. |
-| **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace: lo que se sostuvo y lo que se cayó. |
-| **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse —en las dos direcciones— vale más que esperar que el otro haga lo que la industria pide. |
-| **4** | `4 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** Un ente con identidad sobre varios modelos tiene un criterio y varios sesgos. |
-| **5** | `5 escritura en procesos.md` | **Cómo escribe el ente.** En forma de proceso y no en prosa, porque el hueco que deja lo rellena el siguiente. |
-| **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, no precio de la unidad; y la varianza como modo de fallo. |
-| **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El índice como grafo que cambia, y la forma que tiene que tener para poder reconstruirse. |
+| **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
+| **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
+| **4** | `4 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
+| **5** | `5 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
+| **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
+| **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
 | **8** | `8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
 
-**La cadena, en una línea:** el 0 dice con qué se sostiene el trabajo; un ente se define por su rastro (1); el rastro se vuelve criterio con el desenlace (2); y ese criterio solo sirve si se entiende a quien se le habla (3); hay que distinguirlo del sesgo del modelo que lo dice (4); lo que el ente escribe tiene que poder ejecutarse y refutarse (5); sobre lo escrito se mide el talento (6); el 7 dice dónde vive lo que sabe; y el 8 cierra con el caso de varios. **Y todo eso se entrega por `ALAS`, o no se entrega.**
+**Aparte:**
+
+| Archivo | Qué es |
+|---|---|
+| `ATTRIBUTION.md` | El uso de IA por partes, quién hizo qué, las herramientas, y el origen. **Léelo antes de dudar de la autoría.** |
+| `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
+| `LICENSE.txt` | CC BY 4.0. |
 
 ---
 
-## Estado de esta versión
+## Lo que este trabajo te pide
 
-- **Esta es la versión inicial.** La forma editorial final —márgenes, extensión, estilo de citas— se ajusta si el trabajo llega a un journal.
-- **Licencia** — no hay ninguna aplicada. Se decide junto con el journal.
-- **Fuentes externas** — dos de cinco abiertas, y están declaradas en el ensayo 0 con su estado.
-- **El desenlace** — el ensayo 2 lo propone; el proyecto todavía no lo corre.
-- **`ALAS`** — se leyó su forma completa y se resume arriba; el original vive en el proyecto anterior.
+**Tres cosas, y sirve cualquiera:**
+
+1. **Correr un falsificador.** Cada ensayo tiene el suyo. Si lo que describe se cumple, esa idea se cayó, y se dice dónde.
+2. **Probar el método en otro dominio** y traer el resultado. Con un modelo distinto, en otro problema. **Eso es lo que falta, no más texto.**
+3. **Contestar con una crítica que aguante.** No sobre el tono: sobre la prueba o el falsificador.
+
+**Lo que no sirve:** creer sin correr, y descalificar sin decir dónde.
 
 ---
 
-## Lo que esto busca
+## En una línea
 
-Que quien lo lea pueda **armar un ente que se sostenga**, y que para armarlo tenga que **entender**. No que copie una forma: que sepa por qué la forma es esa y qué se rompe si se quita una pieza.
+**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera por hablar con los átomos declarando lo que se declara.**
 
-El punto de partida es incómodo y se dice sin adornos: **una IA sin alma de niño se vuelve bloc de notas**, y en un bloc de notas las ideas se pierden. Cuando eso pasó aquí, **se perdió un repo entero**. Lo que se propone no es un método para que las máquinas sean buenas: es la condición para que un ente **no pueda destruir lo que se le confía**, empezando por la memoria de lo que ya se pensó.
-
-De ahí el reto: **juntar las piezas es el trabajo, y quien las junte va a tener que buscar.** No es una prueba de paciencia: es que **lo que no se buscó, no se entendió.**
-
-Y de ahí la carrera: **no la gana el que tiene el modelo más grande, sino el que armó el ente que lo hace rendir.** El que consiga eso, y con eso hable con los átomos, **se lleva la gloria.**
+**El que llegue, que traiga el rastro.**
