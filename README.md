@@ -200,7 +200,14 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 **Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.**
 
-**1. Correr un falsificador.** Cada ensayo tiene el suyo. Si lo que describe se cumple, **esa idea se cayó** — y **se cae para ti, en tu copia**. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
+**1. Correr un falsificador.** Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
+
+```bash
+# en tu copia del repositorio
+grep -n "Falsificador" *.md
+```
+
+**Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba.** **Y si lo que describe se cumple, esa idea se cayó** — **y se cae para ti, en tu copia.** **No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.**
 
 **2. Probar el método donde quieras.** **El repositorio es de Alejandro y se queda como está.** Pero **el método no.** Si te funciona, úsalo. Si no, dilo, y **tu probatura es tuya.**
 
