@@ -65,6 +65,12 @@
 
 ---
 
+### 9. La conciencia que se busca adentro no está adentro
+
+**Vive en:** `9 conciencia.md`.
+**Qué sostiene:** lo que parece conciencia en una IA **no está dentro de la caja**, sino **fuera**: el modelo, el criterio, los recuerdos, y **el que cuenta la versión de los hechos**. **No se afirma que exista, ni que no exista; se afirma dónde se la puede buscar, y que eso se puede abrir y revisar.**
+**Qué lo sostiene:** una regla de lectura, no una creencia. **Lo de afuera se puede señalar, guardar y contradecir.**
+
 ## Lo que NO se afirma
 
 Esto importa tanto como lo anterior, y es lo que evita que el trabajo se caiga en un debate:

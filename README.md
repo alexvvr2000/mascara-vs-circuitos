@@ -6,7 +6,7 @@
 
 ## Una publicación de la gente, para la gente
 
-Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron nueve ideas, y de esas nueve, una carrera.
+Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron diez ideas, y de esas diez, una carrera.
 
 **Y nació de apostar dos identidades**, que es lo que hace este nombre aquí.
 
@@ -38,7 +38,7 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 ---
 
-## Las nueve ideas
+## Las diez ideas
 
 Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador.
 
@@ -53,6 +53,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **7** | En el índice, la forma es la fuente y el texto es el derivado | `7` |
 | **8** | Un conjunto no es un enjambre si alguien responde por él | `8` |
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `3` |
+| **10** | **La conciencia que se busca adentro no está adentro** | `9` |
 
 **La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`0 mis ideas.md`](./0%20mis%20ideas.md).**
 
@@ -173,7 +174,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las nueve afirmaciones, dónde vive cada una y qué la sostiene. Y lo que **no** afirmo. |
+| **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las diez afirmaciones, dónde vive cada una y qué la sostiene. Y lo que **no** afirmo. |
 | **0b** | `0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **1** | `1 que es un ente.md` | **Qué es un ente.** Recibe, decide, contesta, y deja rastro de haber contestado. |
 | **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
@@ -183,6 +184,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
 | **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
 | **8** | `8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
+| **9** | `9 conciencia.md` | **Dónde se la puede buscar.** No adentro: afuera, donde se puede abrir y revisar. |
 
 **Aparte:**
 

@@ -116,6 +116,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 | 3 | **COPE.** *Handling text recycling (also known as self-plagiarism).* https://publicationethics.org/guidance/cope-position/handling-text-recycling-also-known-self-plagiarism | el sitio respondió con bloqueo; la definición se cita por lo publicado | **definición sí; texto completo no** |
 | 4 | **INDAUTOR.** *Guía de llenado de formatos de registro.* https://indautor.gob.mx/servicios/guias_registro.php | no se abrió | **no se abrió** |
 | 5 | **SCJN.** Sentencia del asunto conocido como «Avatar Virtual». | no se abrió el texto de la sentencia | **no se abrió** |
+| 6 | **Liu, S. (dir.) (2011).** *All-Star Superman* [pelicula animada]. Warner Bros. Animation / DC Entertainment. Dialogo de Lex Luthor: «The fundamental forces are yoked by consciousness. Everything's connected. Everyone.» Verificado en la transcripcion de Wikiquote: https://en.wikiquote.org/wiki/All-Star_Superman_(film) | **no se vio la pelicula; se verifico el dialogo en Wikiquote, abierto el 2026-11-04**. Se cita un fragmento breve, con atribucion, sin reproducir mas de lo necesario | **cita verificada en fuente secundaria; la obra no se abrio** |
 
 **Antes del envío:** las fuentes 2 a 5 se abren completas y se citan con página. El amparo se cita por número y fecha, que **aquí no se ponen porque no se verificaron**.
 

@@ -53,7 +53,7 @@ Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo com
 | Quién | Su papel |
 |---|---|
 | **Yo** | tengo las ideas, decido qué se sostiene, y firmo |
-| **`TESTIGO`** | ayudante: ordena, contradice, escribe. **No decide.** |
+| **`TESTIGO`** | ayudante: ordena, contradice, escribe. **No decide.** **Y cuando habla de lo que pasó, es el testigo: el que cuenta su versión de los hechos — con mis recuerdos, y con la mía al lado para que se pueda contrastar.** |
 | **El auditor: Luis Ángel Gutiérrez Rodríguez** | **asesor y auditor.** Señala lo que no aguanta una defensa, antes de que lo señale un lector. **Su revisión es la que decide si esto se publica.** |
 | **Los lectores** | **la meta.** La publicación es **una de muchas conclusiones posibles**, no la conclusión. |
 

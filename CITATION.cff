@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Versión inicial. Si se cita, hacerlo con esta versión y esta fecha."
 title: "Máscara vs Circuitos: del ente al talento medible"
 abstract: >-
-  Máscara vs Circuitos reúne ocho ensayos sobre el mismo problema: cómo una
+  Máscara vs Circuitos reúne nueve ensayos sobre el mismo problema: cómo una
   colaboración entre una persona y un sistema de inteligencia artificial puede
   dejar un rastro que se pueda juzgar. El primero sostiene que el criterio no
   es lo que se recuerda sino lo que se sostuvo y se cayó, y propone el hecho y
@@ -11,11 +11,22 @@ abstract: >-
   campos arman ese criterio, con el hecho sin resumir y la posición con su
   contra. El tercero argumenta que una IA debe escribir en forma de proceso y
   no en prosa: porque la prosa supone un lector capaz de dudar, y donde el
-  hueco queda abierto, una IA lo rellena en lugar de preguntarlo. El trabajo no
-  se presenta como la verdad: se presenta como una propuesta metodológica,
-  escrita en primera persona, con sus fuentes por abrir donde no se abrieron y
-  con la declaración completa de uso de IA en ATTRIBUTION.md.
+  hueco queda abierto, una IA lo rellena en lugar de preguntarlo. El noveno
+  cierra con la pregunta que el resto deja abierta: qué es esa palabra que
+  usamos sin saber qué es. No afirma que haya conciencia dentro de una IA, ni
+  lo niega: sostiene que lo que se puede ver de ella está fuera —el modelo, el
+  criterio, los recuerdos, y el que cuenta la versión de los hechos— y que por
+  estar fuera se puede abrir y revisar. El trabajo no se presenta como la
+  verdad: se presenta como una propuesta metodológica, escrita en primera
+  persona, con sus fuentes por abrir donde no se abrieron y con la declaración
+  completa de uso de IA en ATTRIBUTION.md.
 type: book
+  El noveno cierra con la pregunta que el resto deja abierta: qué es esa
+  palabra que usamos sin saber qué es. No afirma que haya conciencia dentro de
+  una IA, ni lo niega: sostiene que lo que se puede ver de ella está fuera —el
+  modelo, el criterio, los recuerdos, y el que cuenta la versión de los hechos—
+  y que por estar fuera se puede abrir y revisar.
+
 authors:
   - family-names: "Valenzuela Rivera"
     given-names: "Alejandro"
