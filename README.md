@@ -102,6 +102,25 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ---
 
+## De dónde salió esto, y qué se perdió en el camino
+
+**Quien llegue directo aquí no tiene que ir a ningún otro lado para entender el resultado. Pero el proceso tiene su casa, y está dicho dónde.**
+
+**El registro —los chats, las estadísticas, el rastro— vive en el repositorio anterior del mismo autor:**
+
+> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico:** `10.5281/zenodo.23090721` · CC BY 4.0.
+
+**Lo que hay aquí es el resultado: nueve tesis, una guía para hacer tu ente, y un criterio con sus fricciones.** **Lo que hay allá es el sótano: cómo se llegó, con sus números y sus errores.** **Quien quiera escarbar, entra allá. Quien venga por el resultado, se queda aquí.**
+
+**Y el registro está incompleto, y se dice:**
+
+- **La mitad de las sesiones de este trabajo se perdieron.**
+- **Y las de antes de GitHub —cuando esto empezó, con otros modelos— también.**
+
+**No se reconstruyen de memoria, y no se presume de completas.** **Un archivo que dice estar completo y no lo está deja de servir como prueba.** **Este dice cuánto le falta.**
+
+---
+
 ## Qué es esto y qué no es
 
 **Es una propuesta metodológica, no una verdad.**

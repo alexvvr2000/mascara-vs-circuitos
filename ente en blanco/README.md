@@ -44,3 +44,7 @@
 - **No sustituye al repositorio.** **El que quiera entender por qué, tiene que ir al original.**
 
 **Y lo que decide si sirve no está en ningún archivo: es si apuntas lo que se cayó, en el momento en que se cae**, sabiendo que te deja mal en el renglón.
+
+---
+
+**Lo que salió de aquí está en [`../README.md`](../README.md): las nueve tesis, la carrera, y el llamado.** **Y el registro del proceso, con lo que se perdió, está en el repositorio anterior — citado ahí.**
