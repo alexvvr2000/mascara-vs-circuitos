@@ -88,3 +88,34 @@ Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, que est�
 ---
 
 **Lo que este documento no cubre:** no verifica que el texto esté libre de errores. Eso lo hace el lector, y lo hace el autor al firmarlo.
+
+---
+
+## 7. Quién es el ente, y con qué se escribió
+
+**El ente:** `TESTIGO`, un ente colaborador del autor —definido como en el ensayo 1: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
+
+**El modelo:** `DeepSeek V4.1 Flash`, servido a través de `OpenCode Go`.
+
+**El stack, y qué papel juega cada pieza:**
+
+| Pieza | Qué es | Qué hizo aquí |
+|---|---|---|
+| **`OpenCode Go`** | proveedor que sirve modelos de varios fabricantes bajo un acuerdo de privacidad por modelo | la ruta por la que viajaron los modelos |
+| **`DeepSeek V4.1 Flash`** | el modelo que escribió y discutió | redacción y diálogo sobre ideas |
+| **`DeepSeek Harness`** | el entorno que hospeda al ente, sus reglas y su memoria | donde vive el ente y su registro |
+| **`DeepSeek Web`** | el buscador y lector de la web del propio proveedor | la búsqueda de ideas y de fuentes |
+
+**Y qué NO se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **«Not used» para entrenamiento y con cero días de retención**, bajo un acuerdo que se renueva cada mes y que **hay que revisar antes del 30 de noviembre de 2026**.
+
+---
+
+---
+
+## 8. Para qué se usó, y para qué no
+
+**Se usó para:** discutir ideas, escribir el texto, y buscar material y abrir fuentes con `DeepSeek Web`.
+
+**No se usó para:** decidir qué se sostiene, inventar una fuente, ni completar lo que faltaba.
+
+---

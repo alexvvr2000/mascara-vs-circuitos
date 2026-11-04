@@ -1,76 +1,46 @@
-# 0. Metodología y declaración del uso de inteligencia artificial
+# 0. Metodología y legalidad
 
-**Cómo se hizo este trabajo, quién decidió qué, y qué se puede comprobar.**
+**De dónde sale la parte legal, qué fuentes hay, y en qué orden se hace.**
 **3 de noviembre de 2026 · Alejandro Valenzuela Rivera**
 
 > Nada de lo legal aquí es asesoría legal. Es lo que se puede verificar hoy, con su fuente al lado, y lo que no se pudo abrir se dice que no se abrió.
 
 ---
 
-## 1. La declaración, por partes
+## Lo que esta serie prueba, y de dónde salen sus límites
 
-Declarar el uso de IA no es poner una línea que diga "generado por IA". Esa línea no protege a nadie y le quita la autoría a quien la escribe. Lo que se declara es **el reparto**, y se declara por partes.
+**Este ensayo es la parte legal y metodológica de la colección.** Lo que aquí vive:
 
-| Qué | Quién lo hizo | Cómo se puede comprobar |
-|---|---|---|
-| **Las tesis y los argumentos** | El autor | son suyos, y se sostienen por su propio razonamiento en cada ensayo |
-| **La estructura y el orden** | El autor, discutido | este archivo y el historial de la carpeta |
-| **La redacción** | El autor con asistencia | asistida: el texto se escribió en diálogo con una IA, y el autor lo revisó y lo firmó |
-| **Las ideas que se discuten** | El autor y la IA, en diálogo | no se pueden separar, y no hace falta: la idea discutida no es de nadie hasta que alguien la sostiene |
-| **El código y las herramientas** | El autor | no forma parte de este trabajo |
+- **De dónde viene la parte legal** — la jurisdicción, el criterio mexicano sobre obras con IA, y la referencia del otro lado de la frontera.
+- **Las fuentes**, cada una abierta o declarada como no abierta, con su estado.
+- **El orden para hacerlo desde cero**, si alguien quiere publicarlo por su cuenta.
+- **Lo que no se hace**, que es corto y no se negocia.
 
-**La regla que lo hace verificable:** si la contribución humana se declara, tiene que sostenerse en algo más que la palabra. **Lo que no está fechado no se puede defender años después.**
+**Y lo que NO vive aquí, porque tiene su propio lugar:** la declaración de quién hizo qué, qué herramientas se usaron y con qué garantías. **Eso está en [`ATTRIBUTION.md`](./ATTRIBUTION.md)**, y ahí está porque es donde lo busca quien sospecha de un texto hecho con IA. **Un solo lugar, y el correcto.**
 
 ---
 
-## 2. Quién es el ente, y con qué se escribió
-
-**El ente:** `TESTIGO`, un ente colaborador del autor —definido como en el ensayo 1: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
-
-**El modelo:** `DeepSeek V4.1 Flash`, servido a través de `OpenCode Go`.
-
-**El stack, y qué papel juega cada pieza:**
-
-| Pieza | Qué es | Qué hizo aquí |
-|---|---|---|
-| **`OpenCode Go`** | proveedor que sirve modelos de varios fabricantes bajo un acuerdo de privacidad por modelo | la ruta por la que viajaron los modelos |
-| **`DeepSeek V4.1 Flash`** | el modelo que escribió y discutió | redacción y diálogo sobre ideas |
-| **`DeepSeek Harness`** | el entorno que hospeda al ente, sus reglas y su memoria | donde vive el ente y su registro |
-| **`DeepSeek Web`** | el buscador y lector de la web del propio proveedor | la búsqueda de ideas y de fuentes |
-
-**Y qué NO se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **«Not used» para entrenamiento y con cero días de retención**, bajo un acuerdo que se renueva cada mes y que **hay que revisar antes del 30 de noviembre de 2026**.
-
----
-
-## 3. Para qué se usó, y para qué no
-
-**Se usó para:** discutir ideas, escribir el texto, y buscar material y abrir fuentes con `DeepSeek Web`.
-
-**No se usó para:** decidir qué se sostiene, inventar una fuente, ni completar lo que faltaba.
-
----
-
-## 4. De dónde viene la parte legal
+## 1. De dónde viene la parte legal
 
 **Jurisdicción: Nuevo León, México. Federal: `INDAUTOR` en derecho de autor, `IMPI` en marcas, y `Zenodo` como repositorio de depósito con `DOI`.**
 
-**4.1. `SCJN` — el criterio mexicano: sin intervención creativa humana no hay obra.**
+**1.1. `SCJN` — el criterio mexicano: sin intervención creativa humana no hay obra.**
 
 En 2024 se pidió registrar en `INDAUTOR` un avatar virtual creado con IA, atribuyendo los derechos morales a la IA y los patrimoniales a su creador. `INDAUTOR` negó el registro; el `TFJA` confirmó la negativa; el asunto fue atraído por la `SCJN`, que negó el amparo. La versión final de la sentencia **se limitó a resolver el caso concreto y no estableció una regla general** para toda obra creada con IA.
 
 Lo que sí quedó firme: la ley mexicana **exige autor persona física**, y la originalidad se apoya en la creatividad humana. Y lo que la fuente distingue con cuidado: **no es lo mismo una obra creada por una persona con la IA como herramienta, que un producto generado exclusivamente por IA.** Cuando hay participación humana sustancial y demostrable, la elegibilidad se puede evaluar.
 
-**4.2. `INDAUTOR` — cómo se aplica hoy.**
+**1.2. `INDAUTOR` — cómo se aplica hoy.**
 
 `INDAUTOR` ha rechazado solicitudes cuando detecta que una obra se produjo íntegramente por IA. **Su política sobre IA no está formalizada como lineamiento general**: aplica criterios **caso por caso**, sin reglamento público uniforme. Eso es precisamente lo que obliga a que este trabajo se defienda con su propio rastro.
 
 Y los tres requisitos de protección no cambian: **original, susceptible de divulgación o reproducción, y constar en un soporte material.**
 
-**4.3. `USCO` — la referencia del otro lado.**
+**1.3. `USCO` — la referencia del otro lado.**
 
 El *Copyright and Artificial Intelligence, Part 2: Copyrightability Report*, publicado el **29 de enero de 2025**, sostiene que **sin autor humano no hay obra**, y que la protección alcanza lo que la persona **seleccionó, arregló o modificó** — no lo puramente generado por la máquina.
 
-**4.4. El origen de este trabajo, y cómo se cita.**
+**1.4. El origen de este trabajo, y cómo se cita.**
 
 Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, y ese proyecto está publicado y es citable:
 
@@ -88,7 +58,7 @@ Este trabajo **rescata ideas de un proyecto anterior del mismo autor**, y ese pr
 
 **Lo que se cuida de verdad, y sin eso la declaración no vale:** ninguna frase de este trabajo es copia literal del anterior; las ideas están reformuladas con palabras de aquí; y el origen está dicho en el `README` y en cada ensayo. **La declaración no sustituye la reescritura: la acompaña.**
 
-**4.5. Plagio con uno mismo: el riesgo que sí existe.**
+**1.5. Plagio con uno mismo: el riesgo que sí existe.**
 
 No es una figura legal: **es una norma editorial.** La `COPE` define el reciclaje de texto —el «autoplagio»— como *reutilizar escritos previos propios sin ser transparente al respecto, o sin referenciarlos o citarlos de la forma adecuada.* Y el caso de la publicación redundante es más estricto: dos trabajos que comparten de forma sustancial las mismas hipótesis, datos o conclusiones, **sin referencia clara entre ellos ni mención de la publicación anterior.**
 
@@ -96,7 +66,7 @@ No es una figura legal: **es una norma editorial.** La `COPE` define el reciclaj
 
 ---
 
-## 5. Lo que da autoría en este trabajo
+## 2. Lo que da autoría en este trabajo
 
 Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propone en el ensayo 2, se arma con el hecho, la fricción y el desenlace. **Esas dos piezas son la prueba de autoría**, y no el texto: el texto puede estar asistido; lo que no lo está es el registro de lo que se sostuvo y lo que se cayó.
 
@@ -104,7 +74,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 ---
 
-## 6. El orden para hacerlo desde cero
+## 3. El orden para hacerlo desde cero
 
 **Paso 1 — Saber qué es un ente.** Sin la definición, no hay nada que medir ni que registrar.
 
@@ -124,7 +94,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 ---
 
-## 7. Lo que no se hace
+## 4. Lo que no se hace
 
 ```plaintext
 - no se deja el uso de IA en una línea suelta: se declara por partes
@@ -137,7 +107,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 ---
 
-## 8. Fuentes
+## 5. Fuentes
 
 | # | Fuente | Cómo se abrió | Estado |
 |---|---|---|---|
@@ -151,7 +121,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 ---
 
-## 9. Lo que sigue pendiente
+## 6. Lo que sigue pendiente
 
 | Pendiente | Depende de |
 |---|---|

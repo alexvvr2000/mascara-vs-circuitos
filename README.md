@@ -115,7 +115,7 @@ Los ensayos están numerados en el orden en que se sostienen unos a otros, no en
 
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 metodologia y legalidad de la ia.md` | **Qué respalda todo lo demás.** La declaración de uso de IA por partes, las fuentes con su estado, y el orden para hacerlo desde cero. |
+| **0** | `0 metodologia y legalidad de la ia.md` | **Qué respalda todo lo demás.** De dónde sale la parte legal, las fuentes con su estado, y el orden para hacerlo desde cero. **La declaración de uso de IA vive en [`ATTRIBUTION.md`](./ATTRIBUTION.md).** |
 | **1** | `1 que es un ente.md` | **Qué es un ente.** Recibe, decide, contesta, y deja rastro de haber contestado. |
 | **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace: lo que se sostuvo y lo que se cayó. |
 | **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse —en las dos direcciones— vale más que esperar que el otro haga lo que la industria pide. |
