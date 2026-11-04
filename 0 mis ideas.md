@@ -88,3 +88,11 @@ Cada afirmación de arriba tiene, en su ensayo, **una `Prueba` y un `Falsificado
 3. **Probar el método en otro dominio** y traer el resultado.
 
 Lo que no sirve es discutir el ánimo: **si el trabajo se cae, se cae por su prueba o por su falsificador, y no por su tono.**
+
+---
+
+## Prueba
+
+**¿Cada afirmación de esta lista vive en un ensayo que tiene su `Prueba` y su `Falsificador`? ¿Se puede decir, de cada una, qué la sostiene sin leer el ensayo completo? ¿Está dicho lo que NO se afirma, o hay que deducirlo?**
+
+**Falsificador:** una afirmación que se sostiene sin ensayo que la respalde; una que no dice qué la sostiene; una presentada como probada sin serlo; una lista que omite los límites para verse más fuerte.

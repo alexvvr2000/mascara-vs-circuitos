@@ -133,3 +133,11 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 ---
 
 *Lo que se abrió, se cita. Lo que no, se dice. Y lo que se afirma, se fecha.*
+
+---
+
+## Prueba
+
+**¿Cada fuente dice si se abrió o no? ¿Se distingue lo que es una ley de lo que es una cobertura periodística? ¿La declaración de uso de IA está por partes, y en un solo lugar? ¿Lo pendiente está dicho, y no inventado?**
+
+**Falsificador:** una fuente citada sin decir si se abrió; una discrepancia callada; un número de amparo o una fecha que no se verificaron y se presentan como ciertos; una declaración de uso de IA en una línea suelta; un pendiente que se rellena con lo probable.
