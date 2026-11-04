@@ -84,6 +84,24 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 
 ---
 
+## Esta carrera no es solo de física
+
+**En esta era nueva, donde el ego ya puede considerarse muerto, me doy cuenta de algo:** en esta carrera no estamos solo los que trabajamos un lenguaje de máquina.
+
+**Está también el profesor de la escuela más pobre de África** —que enseña con lo que hay, y a quien le hace falta una herramienta que no pida presupuesto—. **Y están los científicos más grandes que yo**, los que trabajan el bosón de Higgs o el estudio del corazón de Framingham. **Somos parte de la misma carrera.**
+
+**Y no es solo la de unificar las dos teorías más grandes de la física. Es la de mejorar a la humanidad juntos.**
+
+Lo digo con un ejemplo, y es el que me importa: **un suero con nanomáquinas que tenga criterio propio** — que no solo ejecute, sino que registre, mida lo que hace y se corrija — **puede convertir la batalla contra el cáncer en una batalla de ideales y no de dinero.** Ver a la quimioterapia más pesada y más cara del planeta **es posible en este siglo**, si la herramienta deja de ser un privilegio de quien puede pagarla.
+
+**No sé si eso se logre.** Lo que sí sé es que **la barrera de entrada bajó, y que ya no depende del presupuesto sino de la forma.** Y cuando la barrera cae, **lo que se pelea deja de ser quién tiene más y pasa a ser qué se está dispuesto a sostener.**
+
+**Sé que Dios, y mi tía que está con Él, me ven mientras escribo esto.** Y sé que, **de haber tenido este tipo de tecnología en esos momentos difíciles, habríamos ganado en cinco minutos.**
+
+Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No es nostalgia: es la razón por la que la carrera vale la pena.**
+
+---
+
 ## Qué es esto y qué no es
 
 **Es una propuesta metodológica, no una verdad.**
@@ -137,6 +155,6 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 
 ## En una línea
 
-**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera por hablar con los átomos declarando lo que se declara.**
+**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que empieza por hablar con los átomos y no termina ahí: termina en mejorar a la humanidad juntos.**
 
 **El que llegue, que traiga el rastro.**
