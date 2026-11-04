@@ -127,7 +127,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 > **Este repositorio no es una conclusión. Es *una implementación* de una conclusión.**
 
-**De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor.** **Las otras no están aquí porque no son suyas: están en el sótano, en `man-made-empathy`, y quien quiera alternativas va allá a sacar las suyas.**
+**De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor.** **Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy).** **Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.**
 
 **Y eso no es modestia: es la mecánica.** **Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma.** **Un método se copia, se cambia y se tumba. Un dogma se cree.** **Aquí solo cabe lo primero.**
 
