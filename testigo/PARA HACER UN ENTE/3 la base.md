@@ -51,7 +51,7 @@ CREATE TABLE hecho (
 -- 3. Lo que se cayó.
 CREATE TABLE friccion (
   id                   INTEGER PRIMARY KEY,
-  hecho_id             INTEGER NOT NULL REFERENCES hecho(id),
+  hecho_id             INTEGER REFERENCES hecho(id),  -- NULL = heredada de otro ente (archivo 9)
   el_error             TEXT NOT NULL,
   por_que_era_creible  TEXT NOT NULL,
   como_se_reconoce     TEXT NOT NULL,
@@ -113,6 +113,7 @@ CREATE VIEW reglas_vigentes AS
 | `por_que_era_creible TEXT NOT NULL` | **una fricción sin razón no se puede guardar** | `2` |
 | `resultado … CHECK (resultado IN (…))` | **un desenlace solo puede ser tres cosas**: cumplida, se volvió a caer, no se ha probado | `2` |
 | `verificado … CHECK (verificado IN (0,1))` | **no se guarda un costo sin decir si el resultado sirvió** | `6` |
+| `hecho_id … REFERENCES hecho(id)` **sin `NOT NULL`** | **una fricción heredada de otro ente se puede guardar, pero se ve que no tiene hecho propio** | `9` |
 
 ---
 

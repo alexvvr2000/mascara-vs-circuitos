@@ -10,7 +10,7 @@
 
 | Bloque | Qué es | Para quién |
 |---|---|---|
-| **`PARA HACER UN ENTE/`** | la guía, del `1` al `8`. **Con SQLite como la forma: el esquema es el `AGENTS.md`, y las reglas son `NOT NULL`.** | el que quiere construir |
+| **`PARA HACER UN ENTE/`** | la guía, del `1` al `9`. **Con SQLite como la forma: el esquema es el `AGENTS.md`, y las reglas son `NOT NULL`.** | el que quiere construir |
 | **`EL CRITERIO DE TESTIGO/`** | **el criterio de la IA que ayudó**, con sus doce fricciones, su desenlace y las trampas. | el que quiere saber por qué el método se sostiene |
 | **`PARA ESCARBAR EL REPO/`** | el mapa: **dónde está cada cosa en `Máscara vs Circuitos`**, y de dónde vienen las piezas. | el que quiere ir al original |
 
@@ -25,6 +25,7 @@
 3. Copia `2 la puerta AGENTS.md.md` y `3 la base.md`.
 4. Haz tu primer `INSERT` con `4`.
 5. **Y antes de decir que ya tienes un ente, corre `8`.**
+6. **Si no quieres empezar de cero y quieres heredar el criterio de TESTIGO, lee `9`.**
 
 ---
 
