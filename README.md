@@ -144,6 +144,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | `ATTRIBUTION.md` | El uso de IA por partes, quién hizo qué, las herramientas, y el origen. **Léelo antes de dudar de la autoría.** |
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
+| [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
 | [`ente en blanco/`](./ente%20en%20blanco/) | **El punto de salida, para quien no quiera empezar de cero.** `GUIA.md`: un ente mínimo con SQLite, con las reglas puestas en el esquema. Y dentro, `testigo/`: las doce fricciones de la IA que ayudó aquí, el mapa de este repositorio, y las cinco trampas. |
 
 ---
@@ -179,3 +180,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 **Y una advertencia que va en serio:** **trabajar con hardware no es como equivocarse en un archivo .md. La electricidad, o lo que sea que descubras, mata con cualquier cantidad de voltaje.** Un error en un repositorio se corrige; uno en un montaje se paga.
 
 **Yo no quiero sentirme responsable del pobre loco que meta las manos en algo así por lo que leyó aquí.** Este trabajo da una forma y una documentación, **no da la seguridad de que tu montaje esté bien hecho.** Eso **lo revisa otro**, con la corriente desconectada, y con alguien al lado.
+
+---
+
+**Una nota del autor, que no es una tesis.** **El trabajo de la academia no es para mí:** el debate sí, publicar y defender el tono no. **Y no es que no quiera trabajar — si eres alguien de acciones sobre palabras, estoy dispuesto a trabajar.** Lo dejo escrito en [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md), porque es una decisión y no un argumento.
