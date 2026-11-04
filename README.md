@@ -138,6 +138,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | `ATTRIBUTION.md` | El uso de IA por partes, quién hizo qué, las herramientas, y el origen. **Léelo antes de dudar de la autoría.** |
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
+| [`testigo/`](./testigo/) | **Dos archivos para no tener que creerme.** `dump.md`: mi criterio, doce fricciones con su contra y su desenlace. `plantilla.md`: el mínimo para hacer un ente en blanco, y lo que le falta a propósito. |
 
 ---
 
