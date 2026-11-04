@@ -151,13 +151,25 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ## Lo que este trabajo te pide
 
-**Tres cosas, y sirve cualquiera:**
+**Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.**
 
-1. **Correr un falsificador.** Cada ensayo tiene el suyo. Si lo que describe se cumple, esa idea se cayó, y se dice dónde.
-2. **Probar el método en otro dominio** y traer el resultado. Con un modelo distinto, en otro problema. **Eso es lo que falta, no más texto.**
-3. **Contestar con una crítica que aguante.** No sobre el tono: sobre la prueba o el falsificador.
+**1. Correr un falsificador.** Cada ensayo tiene el suyo. Si lo que describe se cumple, **esa idea se cayó** — y **se cae para ti, en tu copia**. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
+
+**2. Probar el método donde quieras.** **El repositorio es de Alejandro y se queda como está.** Pero **el método no.** Si te funciona, úsalo. Si no, dilo, y **tu probatura es tuya.**
 
 **Lo que no sirve:** creer sin correr, y descalificar sin decir dónde.
+
+---
+
+## De quién es esto, y qué puedes hacer con ello
+
+**Este repositorio es de Alejandro Valenzuela Rivera, y es su publicación.** **No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad:** **se queda como está.**
+
+**Y eso no es una restricción técnica: es una decisión.** **Lo que venga después de aquí va a ser de alguien más, y este trabajo es el punto de partida, no el foro.**
+
+**Lo que sí puedes hacer, y está en la licencia (CC BY 4.0):** **leerlo, citarlo, compartirlo, y construir encima, con atribución.** **Lo que construyas es tuyo.** **Lo que está aquí se queda aquí.**
+
+**Y si tu trabajo crece, no lo traigas: hazlo tuyo, y cítame como punto de partida.** **Este repositorio no va a crecer contigo.** **Esa es la única forma de que lo que salió sea mío y lo que salga de ti sea tuyo.**
 
 ---
 
