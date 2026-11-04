@@ -20,7 +20,7 @@
 
 | Archivo | Qué es | Para quién |
 |---|---|---|
-| **`GUIA.md`** | **el ente mínimo, con SQLite.** **Once secciones: el ente, la puerta, la base, los tres registros, los procesos, el sesgo del modelo, la colmena con sus tablas, el costo, y las pruebas.** | el que quiere construir hoy |
+| **`GUIA.md`** | **el ente mínimo, con SQLite.** **Doce secciones: el ente, la puerta, la base, los tres registros, los procesos, el sesgo del modelo, la colmena con sus tablas, el costo, las pruebas, y **quién responde si algo falla**.** | el que quiere construir hoy |
 | **`testigo/CRITERIO.md`** | **las quince fricciones, el desenlace, y cómo heredarlas** | el que no quiere empezar de cero |
 | **`testigo/ESCARBAR.md`** | **el mapa de `Máscara vs Circuitos`**, y el DOI del proyecto anterior | el que quiere ir al original |
 | **`testigo/QUE NO SALGA MAL.md`** | **las cinco trampas**, y el falsificador de todo esto | el que ya construyó |

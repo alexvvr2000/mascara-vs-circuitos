@@ -387,7 +387,50 @@ CREATE TABLE acuerdo (
 
 ---
 
-## 11. Lo que no se puede llenar
+## 11. Si lo implementas mal, no es culpa de este documento
+
+**Y esto se dice porque va a pasar: alguien va a seguir la guía, va a fallar, y va a decir que el autor no lo hizo bien.**
+
+**No lo hizo bien, si falla por esto:**
+
+| Lo que pasó | ¿Es culpa de la guía? |
+|---|---|
+| **La base aceptó una fricción sin razón** | **no** — el esquema de aquí tiene el `NOT NULL`, y probado: rechaza |
+| **La base aceptó un desenlace inventado** | **no** — el `CHECK` de los tres valores está, y probado: rechaza |
+| **La colmena absorbió a una parte que dijo que no** | **no** — la tabla `respuesta` exige el valor y una razón |
+| **Los dos códigos SQL se corrieron y son los del documento** | **no** — probados en una base vacía, y la salida está escrita en la sección 4 |
+| **Un sistema sin desenlace se llama "criterio"** | **no** — la sección 5 dice que es un diario, y la 10 lo prueba |
+
+**Y sí lo hizo mal, si falla por esto:**
+
+| Lo que pasó | Qué faltó |
+|---|---|
+| **Copió las tablas y no puso el `NOT NULL`** | **no siguió el esquema** |
+| **Llenó `por_que_era_creible` con "porque sí"** | **el campo está, el dato no** |
+| **Declaró el modelo como "neutral"** | **la sección 7 lo prohíbe con palabras** |
+| **Metió a la colmena un ente que no puede decir que no** | **la sección 8 lo llama pieza absorbida** |
+| **Nunca escribió un desenlace** | **la sección 5 lo dice: sin desenlace es un diario, y la sección 10 lo prueba** |
+
+### La línea que lo divide
+
+> **Este documento responde por su forma: el esquema, las reglas y las pruebas están, y se pueden correr.**
+> **No responde por el contenido: si llenas los campos con lo que te parece, el esquema te deja, y está bien que te deje. Un esquema que impide escribir mal un dato sería un esquema que también impide escribir un hecho incómodo.**
+
+**Y por eso la prueba no es si tu ente existe: es si tu ente puede decir en qué falló.** **La sección 10 tiene las cinco pruebas, y este documento no se exceptúa de ellas: el autor también está sujeto.**
+
+### Lo que este documento SÍ se obliga a hacer
+
+```plaintext
+- si el esquema de la guía falla al correrse, es un error del documento y se corrige
+- si una regla se puede cumplir al pie de la letra y aun así dejar un hueco, el texto está mal escrito y se reescribe
+- y si alguien implementa bien y el resultado falla por una regla de aquí, la culpa es de la regla, y se dice
+```
+
+**Eso es el falsificador de este documento:** **un ente que siguió la guía al pie de la letra, tiene las cinco pruebas de la sección 10 en regla, y aun así acumula texto en vez de criterio.** **Si eso pasa, la guía está incompleta, y es de quien la escribió.**
+
+---
+
+## 12. Lo que no se puede llenar
 
 **Una guía no hace un ente bueno: hace un ente que puede ser juzgado.**
 
