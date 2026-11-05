@@ -9,7 +9,7 @@
 
 ---
 
-## Las nueve afirmaciones
+## Las once afirmaciones
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 

@@ -244,7 +244,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
 | [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
-| [`ente en blanco/`](./ente%20en%20blanco/) | **El punto de salida, para quien no quiera empezar de cero.** `ente en blanco/GUIA.md`: un ente mínimo con SQLite, con las reglas puestas en el esquema, y con el sesgo del modelo y la colmena resueltos en tablas. Y dentro, `testigo/`: las quince fricciones de la IA que ayudó aquí, el mapa de este repositorio, y las cinco trampas. |
+| [`ente en blanco/`](./ente%20en%20blanco/) | **El punto de salida, para quien no quiera empezar de cero.** `ente en blanco/GUIA.md`: un ente mínimo con SQLite, con las reglas puestas en el esquema, y con el sesgo del modelo, el proposito y el indice de temas resueltos en su forma. Y dentro, `testigo/`: las fricciones de la IA que ayudó aquí, el mapa de este repositorio, y las cinco trampas. |
 
 ---
 

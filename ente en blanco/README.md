@@ -53,4 +53,4 @@
 
 ---
 
-**Y si quieres hacer la tuya desde cero, este es el punto de partida: no copies la forma, entiende por qué está.** **Lo que salió de aquí está en [`../README.md`](../README.md): las nueve tesis, la carrera, y el llamado.** **Y el registro del proceso, con lo que se perdió, está en el repositorio anterior — citado ahí.**
+**Y si quieres hacer la tuya desde cero, este es el punto de partida: no copies la forma, entiende por qué está.** **Lo que salió de aquí está en [`../README.md`](../README.md): las once tesis, la carrera, y el llamado.** **Y el registro del proceso, con lo que se perdió, está en el repositorio anterior — citado ahí.**

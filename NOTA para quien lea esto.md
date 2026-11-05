@@ -12,7 +12,7 @@
 
 **Y no es que no quiera trabajar.** Es que **una vez que la parte pesada está hecha —el debate, los datos, el argumento— lo que sigue es discutir y publicar.** **Y eso no me gusta.** **No es que no sepa hacerlo: es que no lo elijo.**
 
-**El debate sí me gusta.** **Eso está en este repositorio: nueve posiciones, cada una con su falsificador, y dieciséis commits que enseñan cómo se llegó a ellas.** **Lo que no me gusta es lo de después:** **defender la forma en que hablé.**
+**El debate sí me gusta.** **Eso está en este repositorio: once posiciones, cada una con su falsificador, y dieciséis commits que enseñan cómo se llegó a ellas.** **Lo que no me gusta es lo de después:** **defender la forma en que hablé.**
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## Lo que eso no cambia
 
-**No cambia nada de lo que el repositorio sostiene.** **Las nueve ideas siguen en pie o siguen cayéndose por su prueba, y no por quién las firma.**
+**No cambia nada de lo que el repositorio sostiene.** **Las once ideas siguen en pie o siguen cayéndose por su prueba, y no por quién las firma.**
 
 **Y no me quita la autoría:** **sigue siendo mío lo que decidí, cuándo y por qué**, y **el historial de git está ahí para eso.**
 
@@ -43,4 +43,4 @@
 
 ---
 
-*Nota al margen de* `Máscara vs Circuitos`. **No forma parte de las nueve tesis y no tiene falsificador, porque no es una afirmación sobre el mundo: es una decisión sobre mí.**
+*Nota al margen de* `Máscara vs Circuitos`. **No forma parte de las once tesis y no tiene falsificador, porque no es una afirmación sobre el mundo: es una decisión sobre mí.**

@@ -61,7 +61,7 @@
 - no hay comparación medida contra Reflexion ni contra ninguno de los de arriba:
   no se corrió el mismo problema en los dos y se midió quién acierta más
 - no hay banco de pruebas público, ni un conjunto de casos que otros puedan correr
-- y las 56 reglas sin desenlace son la prueba de que el sistema tampoco es completo
+- y las 55 reglas sin desenlace son la prueba de que el sistema tampoco es completo
 ```
 
 **La comparación es el trabajo que sigue, y no está hecho.** **Cualquiera que la haga primero, y con honestidad, tiene un resultado mejor que este.**
