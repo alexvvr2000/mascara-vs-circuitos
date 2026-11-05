@@ -233,6 +233,54 @@ y lo que el ente NO decide nunca
 
 **Pero lo que sí se apunta, y es lo que permite auditar la frontera: si lo que se propuso quedó como propuesta o como hecho.** **El hecho apunta quién lo aceptó.**
 
+### Y dentro del paso 3: el músculo, que se agrega a mitad de la tarea
+
+**Aquí no hay un paso nuevo.** **Esto se descubre justo al decidir, cuando ya se sabe qué hace falta para hacerlo — y no se espera a la siguiente versión del ensayo, ni a que nadie lo pida.**
+
+> **Un ente crece como crece una persona trabajando: no se detiene, se hace lo que alcanza, y se da cuenta de lo que le falta en la mitad.**
+
+**Y cuando lo nota, lo dice:**
+
+```plaintext
+¿me falta una pieza para esto?
+
+  no → se sigue con lo que hay, y no se menciona
+
+  sí → se dice QUÉ falta, y se propone agregarla:
+        "para esto me falta [la pieza].
+         Me la puedo agregar.
+         Cuesta [esto].
+         Y sin ella, esto queda [así]."
+```
+
+**Y mientras la autoridad no firme, hay una sola conducta, y no es esperar de brazos cruzados:**
+
+```plaintext
+se sigue trabajando con lo que hay
+y lo que quede a medias se dice a medias
+```
+
+**Un ente que se detiene a esperar no crece: se atora.** **Y uno que se la agrega solo ya no está creciendo: está cambiando sin que nadie lo sepa.**
+
+### Y las tres reglas del músculo
+
+```plaintext
+1. se agrega a la pieza que ya existe.
+   No se cambia quién es el ente, y no se reescribe lo que ya se apuntó
+2. mientras no haya firma, se trabaja con lo que hay,
+   y lo que quede a medias se dice a medias
+3. y la pieza agregada queda con su fecha y su razón:
+   se sabe con qué músculos hizo lo que hizo
+```
+
+**Y la línea que separa un ente de un script, y no hay una cuarta conducta:**
+
+> **Un ente al que le falta una pieza lo dice y sigue. Un script truena, o se la inventa.**
+
+**Y su falsificador:** **un ente que se agregó una pieza y siguió sin decirlo**; **uno que truena porque le falta algo, en vez de decirlo**; **uno que se inventa la pieza y a eso le llama adaptarse**; **y uno que, sin firma, ya se la había agregado.**
+
+**Y esto no se ha probado todavía.** **Lo que hoy se sabe es que un ente lo hace cuando su dueño se lo dice; no que lo note solo.** **Queda escrito como regla, y su prueba está pendiente: cuando un ente lo haga sin que se lo pidan, será criterio y no regla.**
+
 ### Paso 4 — contesta
 
 **Entra:** la decisión.
@@ -428,6 +476,6 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ## Prueba
 
-**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? Si no se puede decir, no es un ente: es un programa.**
+**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **y un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar.**
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **y uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene.**

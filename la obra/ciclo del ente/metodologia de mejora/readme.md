@@ -19,9 +19,8 @@
 ```plaintext
 1. metodo.md          el método: el ciclo entero, con los cuatro pasos
                       que no están en el repo; qué se apunta; los
-                      defectos que se repiten; cuándo se para; cómo
-                      pregunta el ente a quien no sabe; y cómo opina
-                      de su propio código
+                      defectos que se repiten; cuándo se para; y cómo
+                      pregunta el ente a quien no sabe
 2. corridas/          las cuatro veces que se corrió, en orden
 ```
 
@@ -80,8 +79,6 @@ corridas/ente N - NOMBRE/
 5. el ente se queda aquí, y el hueco se cierra en el ensayo
 6. se repite. Y no se para en "no encontré nada": ver el §VI del método
 ```
-
-**Y hay un paso más, el del §IX del método:** **después de las corridas, el ente mira su propio código y PROPONE qué le falta — y la autoridad firma o rechaza.** **No es una corrida más: es lo que sigue cuando los ensayos ya no tienen huecos.**
 
 **Y faltan cuatro pasos que no están en este repo, y son de quien corre:**
 
