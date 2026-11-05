@@ -29,7 +29,7 @@
 | **Las ideas, el método, la guía y el rastro** | **están aquí, publicados como borrador, y se pueden usar** |
 | **El paper, el journal y la defensa del tono** | **no es lo mío** |
 
-**Quien quiera llevar esto a un journal, tiene todo lo necesario en este repositorio.** **Quien quiera usarlo para construir, tiene `ente en blanco/`.** **Quien quiera discutirlo, tiene los falsificadores.**
+**Quien quiera llevar esto a un journal, tiene todo lo necesario en este repositorio.** **Quien quiera usarlo para construir, tiene los ensayos y los cuatro entes de prueba: `busqueda de huecos automatico/`, donde se ve qué funcionó y qué no.** **Quien quiera discutirlo, tiene los falsificadores.**
 
 ---
 

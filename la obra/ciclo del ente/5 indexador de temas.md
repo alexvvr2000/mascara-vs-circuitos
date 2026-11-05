@@ -190,6 +190,39 @@ y si duda        se pregunta
 
 **Y lo que no entra en ninguna de las tres no es un casi: es una pieza que el borde no previó.** **Y eso se apunta como fricción del índice, porque significa que al borde le falta un caso.** **No se mete en el casi a la fuerza.**
 
+### La cuarta salida, que es la que faltaba: no es de este tema
+
+**La cuarta corrida encontró esto, y es de vocabulario, no de código.**
+
+**Con sí, no y medio, una pieza tiene tres partes del borde donde caer — y hay un cuarto sitio, y no tiene nombre:** **fuera del tema, sin llegar a dudar.**
+
+**El caso que lo mostró:** **una pieza con `accion=borrar` y `tema=obra`.** **En el tema de la obra, «borrar» fue obvio que no, y bien.** **En el tema del ciclo, `tema=obra` cayó en medio, y el borde dijo «fuera».**
+
+**Pero esa pieza no estaba «a medio camino» del ciclo del ente: no era del ciclo del ente.** **El medio se estaba usando para dos cosas, y una de ellas no es una duda.**
+
+```plaintext
+sí                 la pieza es del tema, y se acepta sin dudar
+no                 la pieza es del tema, y se rechaza sin dudar
+medio              la pieza es del tema, y el borde no decide
+no es de este tema la pieza cae fuera del borde, y no llega a dudarse
+```
+
+**Y la diferencia entre `no` y `no es de este tema` importa para lo que se apunta:** **un `no` dice que el borde funcionó; un `no es de este tema` dice que el borde ni la tocó.**
+
+**Y cómo se distingue, que es donde se hace mal:** **no por el texto de la pieza, ni por lo que parezca.** **Por los campos.** **Si el campo que el borde mira no está, la pieza no es de este tema. Y si trae un valor que no está en ninguna de las tres listas del borde, tampoco: el borde no lo previó.**
+
+**Y el casi es solo esto:** **el campo está, y trae un valor que el borde declaró en su medio, con nombre.** **Como «renombrar», que está entre mover y no mover, y el borde lo dijo.**
+
+**Y de ahí una consecuencia para quien implemente:** **la zona gris no se llena con lo que no encaja.** **Se llena solo con lo que el borde declaró en medio, con nombre.** **Todo lo demás va a `no es de este tema`, y se cuenta aparte — porque contarlo como duda infla el casi y esconde los huecos del borde.**
+
+### Y cuando dos temas dudan, no se elige uno
+
+**La cuarta corrida mostró una pieza que cayó en medio de dos temas, y el código atendió el primero y no dijo nada del segundo.**
+
+**Y eso está mal por lo mismo que «dos temas la aceptan»:** **no se elige, se apunta.** **Si dos bordes dicen medio sobre la misma pieza, al menos uno está mal escrito, o los dos miran campos que se solapan.** **Se apunta como fricción del índice, con los dos nombres.**
+
+**Y si los dos dicen medio con `se pregunta`, hay dos personas que tienen que contestar, o una que contesta por los dos.** **Eso también se dice al apuntarlo: el que lo resuelva tiene que saber cuántos deciden.**
+
 ### Y el de persona tampoco es "no tiene borde"
 
 **La segunda corrida dejó un tema de persona que se tragaba todo lo que no encajaba en uno de máquina.** **Y no era que el borde de persona no tuviera forma: era que nadie la había escrito.**
@@ -380,9 +413,12 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
 
 ## Prueba
 
-**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Una pieza que no cae en ninguna de las tres se apunta como hueco del borde, en vez de meterse en el casi? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
+**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue 
+o de 
+o es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
 
-**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta**; **una zona gris que se inventa al consultar en vez de declararse al escribir el borde**; **una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza**; **y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste.** **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una pieza sin campos, que obliga al borde a adivinar**; **y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle.** **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo.**
+**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta**; **una zona gris que se inventa al consultar en vez de declararse al escribir el borde**; **una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza**; **y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste.** **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una pieza sin campos, que obliga al borde a adivinar**; **y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle.** **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo**; **un medio que se llena con lo que no encaja, en vez de mandarlo a 
+o es de este tema**; **y dos temas que dudan sobre la misma pieza, con uno elegido en silencio.**
 
 ---
 
