@@ -245,6 +245,32 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ---
 
+## Cómo se comprueba, y en qué orden se lee
+
+**Cinco puertas, y este es el orden que yo seguiría:**
+
+```plaintext
+1. esta entrada          qué es, y qué se está apostando
+2. 1 que es un ente.md   la definición de la que cuelga todo
+3. 0 mis ideas.md        las once tesis, con qué las tumba
+4. ente en blanco/       la guía, para hacer el tuyo
+5. testigo/              el testigo, y cómo se le pregunta
+```
+
+**Y para verificar, sin creerme:**
+
+| Lo que quiero ver | Dónde está |
+|---|---|
+| **el acta de lo que pasó** | **`testigo/banco.json`** — 212 hechos, 69 fricciones, 13 desenlaces |
+| **lo que no se ha probado** | **`testigo/LO QUE NO SE PROBO.md`** — 56 reglas sin desenlace, con nombre |
+| **levantar el testigo** | **`cd testigo` y `python hablar.py`** — sin instalar nada |
+| **que los commits son míos** | **`git log --show-signature`** — la firma `OpenPGP` está dentro de cada commit |
+| **qué no se abrió** | **`0b metodologia y legalidad.md`** — cada fuente con su estado |
+
+**Y si algo de esto no cuadra, ese es el hallazgo.** **No pido confianza: pido una corrida.**
+
+---
+
 ## Lo que este trabajo te pide
 
 **Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.**
