@@ -43,6 +43,7 @@ corridas/ente N - NOMBRE/
 | **[2 · VARA](corridas/ente%202%20-%20VARA/documentacion.md)** | el borde sobre campos de la pieza | **3** |
 | **[3 · PIEDRA](corridas/ente%203%20-%20PIEDRA/documentacion.md)** | el «casi»: que llegue a usarse | **2** |
 | **[4 · CANTERA](corridas/ente%204%20-%20CANTERA/documentacion.md)** | la zona gris: lo obvio y lo que no | **3** |
+| **[5 · 2026-11-05_153210](corridas/ente%205%20-%202026-11-05_153210/documentacion.md)** | la cuarta salida: «no es de este tema» | **2 cerrados** |
 
 ---
 

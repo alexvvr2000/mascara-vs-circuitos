@@ -329,22 +329,16 @@ el ciclo de la autonomía    no se acaba. Se regula
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          4
-huecos encontrados 5 · 3 · 2 · 3  = 12
+corridas          5
+huecos encontrados 5 · 3 · 2 · 3 · 0  = 12
 cerrados en el ensayo   los 12
-entidad perfecta         ninguna corrida se ha cerrado sin encontrar nada
-la quinta               está por hacerse
-su trampa               el "no es de este tema", que está cerrado
-                        en el ensayo y no se ha vuelto a correr
+la quinta         cerró los dos de la cuarta, sin huecos nuevos
+lo que sigue sin correr   la autoridad que contesta "se pregunta",
+                          y la reconstrucción del índice
+la sexta          probará la §VIII: la pregunta al que no es técnico
 ```
 
-**Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.**
-
----
-
----
-
----
+**Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.** **La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.**
 
 ---
 
@@ -353,6 +347,5 @@ su trampa               el "no es de este tema", que está cerrado
 **¿Cada hueco encontrado tiene su corrida, su ente y su registro? ¿Se puede abrir el ente de una corrida vieja y correrlo? ¿Se distingue un hueco del ensayo de un defecto del código o del entorno? ¿Y hay alguna corrida que dijera «no encontré nada», con las trampas puestas?**
 
 **Y la del compañero, que se corre con una frase de alguien sin formación en el área:** **¿la pregunta que devuelve el ente la puede contestar esa persona, sola, sin que nadie le explique cómo está hecho el sistema?**
-
 
 **Falsificador:** un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA**.
