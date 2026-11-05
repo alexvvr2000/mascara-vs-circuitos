@@ -294,7 +294,103 @@ y decir    cuándo no sabe, sin rellenar el hueco
 
 ---
 
-## IX. Lo que este método no es
+## IX. El ente que opina de su propio código
+
+**Hasta aquí, el ente se mejora por fuera: se le muda el esquema, se le corrige la puerta.** **Y eso es reparar, no evolucionar.**
+
+**Lo que sigue es otra cosa, y es lo que separa a un ente que se mantiene de uno que participa:** **que mire su propio código, y diga qué le falta.**
+
+**Y se puede, con lo que ya hay. No hace falta inventar una pieza nueva:**
+
+```plaintext
+el hueco del ensayo        →  lo cierra el que corrió, en el ensayo
+el hueco de su código      →  lo PROPONE el ente, y lo firma la autoridad
+```
+
+**La forma es la misma que la de los propósitos, y por el mismo motivo:** **el ente propone, el dueño firma, o no vale.**
+
+### Qué se propone, y qué no
+
+**Se propone lo que el ente puede ver de sí mismo, y no lo que decide de su dueño:**
+
+```plaintext
+se puede proponer
+  una función que creció y ya hace dos cosas
+  un campo que se guarda y el flujo no usa
+  un caso que el código no cubre, y ya se rompió
+  una comprobación que falta porque algo pasó sin avisar
+  un script que se repite tres veces
+
+no se propone
+  cambiar el para qué
+  cambiar lo que es del dueño o de su gente
+  saltarse la firma porque "es obvio que mejora"
+  y nada que toque el banco para reescribir lo que ya se apuntó
+```
+
+**La propuesta lleva lo mismo que una fricción, porque es el mismo tipo de cosa:**
+
+```plaintext
+qué propone     en una línea, no en un ensayo
+por qué         qué pasó que lo hizo ver
+cómo se prueba  qué se corre para saber si aguantó
+qué cuesta      tiempo, riesgo, y qué se deja de hacer por esto
+y qué pasa si no se hace
+```
+
+**Y la última línea es la que casi nunca se escribe, y es la que decide:** **sin ella, toda propuesta parece urgente.**
+
+### Y dónde vive el peligro, que no es donde parece
+
+**El peligro no está en que el ente se mejore.** **Está en que se mejore sin que nadie pueda decir que se salió.**
+
+**Y para eso no hay que inventar candados: ya están los tres del repo.**
+
+```plaintext
+la autoridad   firma. Sin firma no hay cambio en el código
+el borde       el ente no toca lo que no es suyo, y se sabe si se sale
+el rastro      lo que propuso, lo que se rechazó, y por qué
+```
+
+**Un ente que propone y espera firma no es un peligro: es uno con iniciativa.** **El peligro empieza exactamente cuando alguien le quita la firma, y entonces ya no es un ente: es un proceso que se gobierna solo.**
+
+### El punto en que se puede decir «ya tiene criterio sobre sí mismo»
+
+**No es una sensación, y no es «propone cosas buenas».** **Son tres, y las tres se corren:**
+
+```plaintext
+1. propone una mejora a su propio código, con la razón,
+   el cómo se prueba, y lo que cuesta
+
+2. y se puede equivocar y se nota: la propuesta se rechaza,
+   y el rechazo queda apuntado como fricción, no se borra
+
+3. y la segunda propuesta de la misma clase ya no la hace igual,
+   porque tiene el rechazo de la primera
+```
+
+**Si solo pasa la primera, tiene iniciativa.** **La iniciativa no es criterio: es hablar antes de que le pregunten.**
+
+**Y si pasan las tres, tiene criterio sobre sí mismo — y sigue sin poder firmar, que es lo que lo hace usable.**
+
+### Ahora, lo que este método no promete: que el ciclo se acabe
+
+**Hay dos ciclos aquí, y se ven como uno, y por eso cansa.**
+
+```plaintext
+el ciclo de los ensayos     se acaba. Tiene su criterio en el §VI
+el ciclo de la autonomía    no se acaba. Se regula
+```
+
+**El primero para cuando el ensayo está completo.** **El segundo es continuo, y su freno no es un criterio de parada: es la firma.**
+
+**Así que no hay un punto en el que el ente deje de proponer.** **Hay un punto en el que tú dejas de necesitar revisar los ensayos, y sigues firmando las propuestas.**
+
+**Y esperar el otro punto —el que no existe— es lo que hace que esto canse.**
+
+---
+
+## X. Lo que este método no es
 
 **No es que el ensayo esté mal por cada hueco.** **Un ensayo completo a la primera, corrido cuatro veces sin cambio, es sospechoso: o no se probó, o la prueba no exigía nada.**
 
@@ -303,7 +399,7 @@ y decir    cuándo no sabe, sin rellenar el hueco
 **Y no se hace solo.** **En las cuatro corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
 
 ---
-## X. Lo que se dice hoy, con los números de hoy
+## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
 corridas          4
@@ -321,10 +417,14 @@ su trampa               el "no es de este tema", que está cerrado
 
 ---
 
+---
+
 ## Prueba
 
 **¿Cada hueco encontrado tiene su corrida, su ente y su registro? ¿Se puede abrir el ente de una corrida vieja y correrlo? ¿Se distingue un hueco del ensayo de un defecto del código o del entorno? ¿Y hay alguna corrida que dijera «no encontré nada», con las trampas puestas?**
 
 **Y la del compañero, que se corre con una frase de alguien sin formación en el área:** **¿la pregunta que devuelve el ente la puede contestar esa persona, sola, sin que nadie le explique cómo está hecho el sistema?**
 
-**Falsificador:** un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **y una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA.**
+**Y la del ente que opina de su código:** **¿propone con su razón, su cómo se prueba y su costo? ¿Su propuesta se puede rechazar y queda apuntado el rechazo? ¿La segunda propuesta de la misma clase ya no la hace igual?**
+
+**Falsificador:** un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA**; **un ente que cambia su propio código sin que la autoridad firme**; **y un ente cuyas propuestas no se pueden rechazar sin que se pierda el registro de que se rechazaron.**
