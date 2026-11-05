@@ -41,7 +41,7 @@
 
 ### 5. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
 
-**Vive en:** `la obra/ciclo de la colmena/2 talento medible.md`.
+**Vive en:** `la obra/humanidad/3 medicion de talentos.md`.
 **Qué sostiene:** un modelo barato que falla tres veces **es más caro que el caro que acierta**. Se decide por **CRE**, no por precio de la unidad; se **presupuesta con la cola alta**, no con la media; y el costo de corrección **entra siempre** en la cuenta.
 **Qué lo sostiene:** es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, **sin saber nada de su interior.**
 **Qué la tumba:** ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.

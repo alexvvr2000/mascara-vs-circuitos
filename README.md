@@ -230,9 +230,10 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | **E4** | `la obra/ciclo del ente/4 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
 | **E5** | `la obra/ciclo del ente/5 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
 | **C1** | `la obra/ciclo de la colmena/1 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
-| **C2** | `la obra/ciclo de la colmena/2 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
+| **C2** | — | **Cómo se le mide el talento al conjunto.** **Sin escribir: el talento del conjunto no está medido, y lo que se sabe es que no se obtiene sumando a sus partes.** **El talento de un ente solo se mide en `H3`.** |
 | **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
 | **H2** | `la obra/humanidad/2 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
+| **H3** | `la obra/humanidad/3 medicion de talentos.md` | **Cómo se sabe si un ente está haciendo trabajo de verdad.** Con números, sin preguntarle al modelo qué tan bueno es. Costo real, varianza, y la caída contada por su puerta. |
 
 **E es el ciclo del ente; C, el de la colmena; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
@@ -265,10 +266,10 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
        E5  indexador de temas   dónde vive lo que sabe
      ciclo de la colmena/   la autoridad: varios entes, y quién responde
        C1  colmena              qué hace que un conjunto responda
-       C2  talento medible        con qué recurso decidir, y a qué costo
      humanidad/             lo que no es maquinaria
        H1  empatía              cómo se entiende antes de pedir
        H2  conciencia           qué hacemos con una palabra que no sabemos definir
+       H3  medicion de talentos cómo se sabe si el trabajo es de verdad
    y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las cuatro corridas
 ```
 
