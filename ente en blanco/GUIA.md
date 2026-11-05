@@ -3,7 +3,9 @@
 **En media hora tienes un ente. Y sabes qué le falta si no lo tienes.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
-**Sale de:** `1 que es un ente`, `2 criterio real`, `3 empatía`, `4 criterio y sesgos`, `5 escritura en procesos`, `6 talento medible`, `7 indexador de temas` y `8 colmena`. **Cada pieza dice su ensayo.**
+**Sale de:** `1 que es un ente`, `2 criterio real`, `3 empatía`, `4 criterio y sesgos` y `5 escritura en procesos`. **Cada pieza dice su ensayo.**
+
+**Y no sale del 6 (talento medible) ni del 8 (colmena):** **el costo por resultado exitoso y la colmena tienen su ensayo, y aquí no se implementan.** **Un ente solo, con su criterio y su rastro, está completo sin los dos.**
 
 ---
 
@@ -167,21 +169,6 @@ CREATE TABLE proposito (
   CHECK (hasta IS NULL OR cerrado_por IS NOT NULL)
 );
 
-CREATE TABLE costo (
-  id               INTEGER PRIMARY KEY,
-  fecha            TEXT NOT NULL,
-  tarea            TEXT NOT NULL,
-  modelo_id        INTEGER NOT NULL REFERENCES modelo(id),
-  intentos         INTEGER NOT NULL CHECK (intentos >= 1),
-  coste_correccion TEXT NOT NULL,
-  verificado       INTEGER NOT NULL CHECK (verificado IN (0,1))
-);
-
--- El costo por resultado exitoso. Se calcula, no se guarda.
-CREATE VIEW cre AS
-  SELECT tarea, modelo_id, (SUM(intentos) * 1.0) / NULLIF(SUM(verificado), 0) AS cre
-  FROM costo GROUP BY tarea, modelo_id;
-
 -- Lo que sigue en pie, y lo que se cayó.
 CREATE VIEW reglas_vigentes AS
   SELECT f.el_error, f.que_hago_en_su_lugar,
@@ -196,7 +183,6 @@ CREATE VIEW reglas_vigentes AS
 | `no_alcanza TEXT NOT NULL` | un hecho sin frontera **no se puede guardar** | `1`, `2` |
 | `por_que_era_creible TEXT NOT NULL` | una fricción sin razón **no se puede guardar** | `2` |
 | `resultado … CHECK (IN (…))` | un desenlace solo puede ser **tres cosas** | `2` |
-| `verificado … CHECK (IN (0,1))` | no se guarda un costo **sin decir si sirvió** | `6` |
 | `hasta … CHECK (cerrado_por NOT NULL)` | un propósito **no se cierra sin decir por qué** | `1` |
 
 ### Y esta es la salida real, no una promesa
@@ -294,7 +280,7 @@ cambio         qué cambió respecto de la vez anterior
 
 ## 7. El sesgo: lo que es del modelo y lo que es del ente
 
-**Y esto va antes que la colmena, porque sin esto la colmena es un enjambre.**
+
 
 > **El criterio es del ente. El sesgo es del modelo.** **Y si no se separan, el sesgo se vuelve criterio por la puerta de atrás.**
 
@@ -318,82 +304,7 @@ cambio         qué cambió respecto de la vez anterior
 
 ---
 
-## 8. Si son varios
-
-**Solo si tu ente es más de uno.**
-
-> **Un enjambre produce; una colmena responde.**
-
-**Sin estas tres tablas, la colmena es un enjambre con buena presentación.** **Y si alguien dice que ya tiene una colmena sin tenerlas, no la tiene.**
-
-```sql
--- el uno: el conjunto cuando se presenta como una sola cosa
-CREATE TABLE conjunto (
-  id          INTEGER PRIMARY KEY CHECK (id = 1),
-  nombre      TEXT NOT NULL,
-  sesgo       TEXT NOT NULL,   -- qué le corresponde, y QUÉ NO
-  firma       TEXT NOT NULL,   -- una persona, con nombre
-  desde       TEXT NOT NULL
-);
-
--- las partes: cada ente, y qué posición ocupa
-CREATE TABLE parte (
-  id            INTEGER PRIMARY KEY,
-  conjunto_id   INTEGER NOT NULL REFERENCES conjunto(id),
-  nombre        TEXT NOT NULL,
-  maquina       TEXT NOT NULL,   -- qué máquina o modelo la corre
-  desde         TEXT NOT NULL
-);
-
--- lo que cada parte respondió al leer el sesgo del conjunto
-CREATE TABLE respuesta (
-  id           INTEGER PRIMARY KEY,
-  parte_id     INTEGER NOT NULL REFERENCES parte(id),
-  fecha        TEXT NOT NULL,
-  respuesta    TEXT NOT NULL CHECK (respuesta IN ('dentro','se salio','contradice')),
-  razon        TEXT NOT NULL     -- si dice 'dentro', por qué; si no, qué sostiene en contra
-);
-
--- el costo de acuerdo: sin esto, se presume de la velocidad de las partes
-CREATE TABLE acuerdo (
-  id            INTEGER PRIMARY KEY,
-  fecha         TEXT NOT NULL,
-  que_se_acordo TEXT NOT NULL,
-  partes        INTEGER NOT NULL CHECK (partes >= 2),
-  costo         TEXT NOT NULL    -- el tiempo de ponerse de acuerdo, antes de hacer nada
-);
-```
-
-**Y las tres reglas de la colmena, que son las mismas del repo:**
-
-```plaintext
-- si una parte no puede responder 'se salio' o 'contradice', no es parte: es una pieza absorbida
-- lo que contradice queda nombrado, con su razón: no se absorbe ni se borra
-- y el costo de acuerdo no se omite: en un conjunto no es cero, y es el que más pesa
-```
-
-**El `costo de acuerdo` es el término que se esconde:** **en un ente solo es cero, y medirlo es lo que evita presumir de la velocidad de las partes.**
-
-**Y lo que una colmena NO hace, aunque tenga las tablas:** **no garantiza que funcione con muchos** (se ha corrido con pocos), **ni que el acuerdo se sostenga cuando las partes no se conocen entre sí**, **ni pone a nadie a salvo.** **Pone a alguien a contestar.**
-
-> **De dónde sale:** `8 colmena`.
-
----
-
-## 9. El costo, cuando elijas con qué trabajar
-
-> **CRE = (coste de todos los intentos + coste de corrección + coste de verificación) ÷ resultados exitosos verificados**
-
-**Y dos cuentas que se hacen mal casi siempre:**
-
-1. **El coste de corrección no entra.** **Si hay que limpiar el output, la limpieza es parte del precio.**
-2. **La media miente.** **Se decide con la mediana; se presupuesta con la cola alta.**
-
-> **De dónde sale:** `6 talento medible`, sección IV.
-
----
-
-## 10. Si ya tienes el ente, ¿sirve?
+## 8. Si ya tienes el ente, ¿sirve?
 
 **Seis pruebas. Se corren, no se opinan.**
 
@@ -414,7 +325,7 @@ CREATE TABLE acuerdo (
 
 ---
 
-## 11. Si lo implementas mal, no es culpa de este documento
+## 9. Si lo implementas mal, no es culpa de este documento
 
 **Y esto se dice porque va a pasar: alguien va a seguir la guía, va a fallar, y va a decir que el autor no lo hizo bien.**
 
@@ -424,7 +335,6 @@ CREATE TABLE acuerdo (
 |---|---|
 | **La base aceptó una fricción sin razón** | **no** — el esquema de aquí tiene el `NOT NULL`, y probado: rechaza |
 | **La base aceptó un desenlace inventado** | **no** — el `CHECK` de los tres valores está, y probado: rechaza |
-| **La colmena absorbió a una parte que dijo que no** | **no** — la tabla `respuesta` exige el valor y una razón |
 | **Los dos códigos SQL se corrieron y son los del documento** | **no** — probados en una base vacía, y la salida está escrita en la sección 4 |
 | **Un sistema sin desenlace se llama "criterio"** | **no** — la sección 5 dice que es un diario, y la 10 lo prueba |
 
@@ -435,15 +345,14 @@ CREATE TABLE acuerdo (
 | **Copió las tablas y no puso el `NOT NULL`** | **no siguió el esquema** |
 | **Llenó `por_que_era_creible` con "porque sí"** | **el campo está, el dato no** |
 | **Declaró el modelo como "neutral"** | **la sección 7 lo prohíbe con palabras** |
-| **Metió a la colmena un ente que no puede decir que no** | **la sección 8 lo llama pieza absorbida** |
-| **Nunca escribió un desenlace** | **la sección 5 lo dice: sin desenlace es un diario, y la sección 10 lo prueba** |
+| **Nunca escribió un desenlace** | **la sección 5 lo dice: sin desenlace es un diario, y la sección 8 lo prueba** |
 
 ### La línea que lo divide
 
 > **Este documento responde por su forma: el esquema, las reglas y las pruebas están, y se pueden correr.**
 > **No responde por el contenido: si llenas los campos con lo que te parece, el esquema te deja, y está bien que te deje. Un esquema que impide escribir mal un dato sería un esquema que también impide escribir un hecho incómodo.**
 
-**Y por eso la prueba no es si tu ente existe: es si tu ente puede decir en qué falló.** **La sección 10 tiene las seis pruebas, y este documento no se exceptúa de ellas: el autor también está sujeto.**
+**Y por eso la prueba no es si tu ente existe: es si tu ente puede decir en qué falló.** **La sección 8 tiene las seis pruebas, y este documento no se exceptúa de ellas: el autor también está sujeto.**
 
 ### Lo que este documento SÍ se obliga a hacer
 
@@ -457,7 +366,7 @@ CREATE TABLE acuerdo (
 
 ---
 
-## 12. Lo que no se puede llenar
+## 10. Lo que no se puede llenar
 
 **Una guía no hace un ente bueno: hace un ente que puede ser juzgado.**
 

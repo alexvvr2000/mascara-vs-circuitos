@@ -26,7 +26,7 @@
 
 | Archivo | Qué es | Para quién |
 |---|---|---|
-| **`GUIA.md`** | **el ente mínimo, con SQLite.** **Doce secciones: el ente, la puerta, la base, los tres registros, los procesos, el sesgo del modelo, la colmena con sus tablas, el costo, las pruebas, y **quién responde si algo falla**.** | el que quiere construir hoy |
+| **`GUIA.md`** | **el ente mínimo, con SQLite.** **Diez secciones: el ente, la puerta, la base, los tres registros, los procesos, el sesgo del modelo, las seis pruebas, y **quién responde si algo falla**.** | el que quiere construir hoy |
 | **`testigo/GUIA.md`** | **los seis pasos para hacer tu ente y pasarle la herencia** | el que no quiere empezar de cero |
 | **`testigo/banco.json`** | **la herencia: 205 hechos, 68 fricciones, 13 desenlaces** | el que quiera cargarla en su ente |
 | **`testigo/hablar.py`** | **el camino corto: le preguntas y contesta** | el que solo quiere saber qué pasó |

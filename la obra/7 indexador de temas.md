@@ -82,9 +82,96 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 ---
 
-## VII. Lo que este ensayo no da
+## VII. El borde como dato, no como idea
+
+**Decir que el borde se escribe no basta: hay que decir en qué forma se escribe para que se pueda auditar.** Un borde que solo describe en prosa **se puede leer de dos maneras**, y ahí se pierde lo que el §IV exigía.
+
+**El borde tiene dos mitades, y cada una se escribe de una manera:**
+
+**Lo que entra, por criterio.** Una condición que se puede probar sobre cada pieza: **si la cumple, entra; si no, no.** Se escribe como un predicado, no como un párrafo.
+
+**Lo que no entra, por nombre.** Los casos que alguien ya intentó meter y no eran del tema. **Esta mitad es la que casi nunca se escribe, y es la que evita la discusión de cada vez:** si el borde dice lo que *no* entra, el que llega con una pieza que casi aplica tiene el contra sin tener que preguntar.
+
+**Y la prueba del borde, que es la única que vale:**
+
+> **Si dos personas leen el borde y clasifican distinto, el borde está mal escrito.**
+
+**El problema es del texto, no del que lo lee.** Y eso se puede correr: se le da la misma pieza a dos criterios distintos, y se ve si coinciden. **No hace falta que la pieza sea real.**
+
+---
+
+## VIII. La supersesión, y dónde se guarda su pérdida
+
+**El ensayo 7 dice — y lo dice también el §V — que el que cambia el índice tiene que decir qué se pierde con el cambio.** **Falta decir dónde se guarda eso, porque un "qué se pierde" que vive en la cabeza no es una pérdida: es un comentario.**
+
+**En la supersesión son tres datos, y van con la relación, no con el tema:**
+
+```plaintext
+cuándo      la fecha en que el nuevo empezó a mandar
+por qué     qué cambió que obligó a cambiar
+qué se pierde   qué deja de caber cuando el nuevo entra
+```
+
+**Y los tres son obligatorios.** **Una supersesión sin "qué se pierde" no es una decisión: es una sustitución** — y la diferencia entre las dos es la que permite auditar dentro de un año.
+
+**Y el tema viejo no se borra.** **Queda marcado como superado, con la fecha de cuándo dejó de mandar, y con la razón.** **La supersesión es, en el fondo, una afirmación sobre el tiempo: esto vino después de aquello.** **Sin fecha no existe; y sin razón, no se puede distinguir de un accidente.**
+
+**Por qué la pérdida es el dato que manda:** **un cambio que no puede nombrar lo que deja atrás no sabía qué estaba cambiando.** Se puede sustituir por moda, por aburrimiento, o por no acordarse de por qué estaba así. **Y ninguno de los tres es un cambio: son tres maneras de no haber entendido el anterior.**
+
+---
+
+## IX. Cuándo se consulta, que es lo que lo vuelve un ciclo
+
+**Un índice que no dice cuándo se abre no es un paso del ciclo: es un apéndice.** **Y el ensayo 5 ya lo dijo para los procesos: lo que no dice cuándo ocurre, no ocurre.**
+
+**Se consulta en un momento exacto, y no antes ni después: antes de concluir.**
+
+```plaintext
+1. entra la pregunta
+2. se recorre el grafo: ¿a qué tema corresponde?
+3. si hay tema, se entra por él, y se apunta cuál se usó
+4. si no hay tema, se declara el hueco: "esto no tiene tema todavía"
+5. y solo entonces se contesta
+```
+
+**El paso 4 es el que se salta casi siempre, y es el único que no se puede saltar.** **Un ente que contesta algo que no está en su índice está contestando de memoria, y la memoria no se puede auditar.** **"No tengo tema para esto" no es una falla: es el dato que dice que el índice va a crecer.**
+
+**Y el paso 3 deja rastro:** **cada hecho apunta a qué tema sirvió**, igual que apunta a qué propósito y a qué modelo. **Con eso se puede preguntar qué temas se usan de verdad y cuáles están criando polvo** — y un tema que nunca se consultó no está probado.
+
+**Y cuando se consulta, se consulta el grafo, no el texto.** **El texto es el que se deriva; por eso, buscar por palabras en los archivos es buscar en el índice equivocado.**
+
+---
+
+## X. La reconstrucción, y de qué piezas se rehace
+
+**El §VI dice que el índice se puede tirar y volver a armar, y el §II dice que el grafo manda y el texto se deriva.** **Falta decir de qué se rehace, porque "las piezas" no dice nada.**
+
+**Las piezas son tres, y ninguna se puede inventar al reconstruir:**
+
+```plaintext
+el tema           su nombre, su borde, y su fecha de nacimiento
+la relación        quién contiene a quién, y quién se asocia con quién
+la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
+                  y qué se perdió en el cambio
+```
+
+**Y la prueba de la reconstrucción, corriéndola, no opinándola:**
+
+1. **Se tira lo derivado** — el texto, la lista, la vista, lo que se haya generado.
+2. **Se rehace solo con las tres piezas.**
+3. **Y el resultado tiene que ser el mismo, pieza por pieza.**
+
+**Si falta una relación, la reconstrucción no se nota:** se obtiene un grafo más pobre, y **parece correcto.** **Por eso la prueba no es "se rehízo", es "se rehízo y coincide".**
+
+**Y lo que hace que esto no sea ceremonia: si el texto fuera la fuente, un índice mal armado sería una pérdida.** **Como la forma vive aparte, se bota sin miedo.** **Un índice que da miedo tirar ya dejó de ser un derivado: se volvió la única copia de algo.**
+
+---
+
+## XI. Lo que este ensayo no da
 
 **No da una herramienta.** Lo que aquí se propone es una forma, y la forma no presupone ninguna tecnología: se puede llevar en archivos de texto con una convención de anotaciones, en una base de datos relacional, o en un grafo dedicado. La elección depende de cuántas piezas hay, de quién las toca y de qué tan rápido cambian.
+
+**Y sí da la forma de la herramienta, que es otra cosa:** **la del borde como predicado y como lista de lo que no entra (§VII); la de la supersesión con sus tres datos y su pérdida (§VIII); el momento exacto en que se consulta (§IX); y de qué piezas se rehace (§X).** **Con eso, quien lo implemente no está inventando: está copiando.**
 
 **No da los temas.** Qué temas tiene un ente es cosa de ese ente. Lo único que se puede decir es que **un tema que no se ha usado nunca no está probado**, y que un tema que lleva mucho sin cambiar en una época de cambio no está quieto: está abandonado.
 
@@ -96,9 +183,9 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 ## Prueba
 
-**¿Se puede tirar el índice y reconstruirlo? ¿Cada tema dice su borde? ¿Un tema que fue superado sigue ahí, con su fecha? ¿El que cambió algo puede decir qué se perdió?**
+**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema?**
 
-**Falsificador:** un índice que no se puede reconstruir; un tema sin borde; un tema borrado en lugar de superado; un cambio que no puede nombrar su pérdida; un índice donde el texto es la fuente de verdad y la forma un adorno.
+**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno.
 
 ---
 
