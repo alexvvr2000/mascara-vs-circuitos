@@ -143,6 +143,49 @@ se pregunta  el casi no lo decide el borde: lo decide la autoridad,
 
 **`se pregunta` es el que hace que el casi no se resuelva a gusto del que consulta.** **Y es el único de los tres que necesita que alguien esté del otro lado: si la autoridad no está, el casi se queda fuera, no dentro.**
 
+### Y el casi hay que alcanzarlo, que es lo que se descubre en la segunda corrida
+
+**Un `y si duda` que se guarda y nunca se consulta no es un borde: es un campo bonito.** **Y eso pasa cuando el borde solo tiene dos salidas —entra o no entra— y el casi no tiene por dónde llegar.**
+
+**Un borde de máquina con `es` y `contiene` solo da sí o no.** **La pieza cae dentro o fuera, y el casi nunca ocurre.** **El casi aparece cuando el borde puede decir "no lo sé", y eso pide una tercera forma de evaluar:**
+
+```plaintext
+sí       la condición se cumple sin duda
+no       la condición no se cumple, y se sabe por qué
+no sé    a la pieza le faltan los campos que el borde necesita,
+         o los trae con un valor que el borde no previó
+```
+
+**Y el «no sé» es el que da la vuelta por `y si duda`.** **Sin él, el caso del medio no existe, y el campo que lo gobierna tampoco sirve.**
+
+**Y la pieza a la que le faltan campos es el caso más común, y el más peligroso:** **el ente la quiere clasificar, no tiene con qué, y la clasifica igual con lo primero que se le parece.** **Ahí no se decide: se declara que falta el campo, y el borde no la toca.**
+
+### Y el de persona tampoco es "no tiene borde"
+
+**La segunda corrida dejó un tema de persona que se tragaba todo lo que no encajaba en uno de máquina.** **Y no era que el borde de persona no tuviera forma: era que nadie la había escrito.**
+
+**Un tema de persona necesita las mismas cuatro partes que uno de máquina.** **Lo único que cambia es quién decide, no qué decide:**
+
+```plaintext
+quién evalúa  una persona, con nombre
+entra_si      el criterio, con sus palabras. Y las palabras son lo que
+              la persona va a mirar: si no se dicen, decide a ojo
+no_entra      lo que ya se rechazó, por nombre
+y si duda     fuera / dentro / se pregunta
+```
+
+**Y la diferencia con el de máquina es una sola, y hay que decirla:** **el de máquina decide con los campos; el de persona decide leyendo la pieza.** **Por eso el de persona no lleva campo, operador ni valor — y sí lleva `entra_si` escrito, porque el criterio que no está escrito no es un borde: es el humor del que pase.**
+
+**Y sin `entra_si`, un tema de persona no se puede distinguir de un cajón de sastre.** **Y un cajón de sastre en el índice es peor que no tenerlo: se traga lo que no encaja, y lo que se traga ya no se ve como hueco.**
+
+### Y una cosa que no es del ente, pero se para
+
+**El comando se corre desde una terminal, y una terminal tiene sus reglas.** **En PowerShell, un JSON pasado como argumento pierde las comillas dobles y llega roto.**
+
+**Eso no es un hueco del ciclo: es un hueco de cómo se llama.** **Y se dice aquí porque quien implemente va a tropezar con lo mismo, y va a culpar al esquema.**
+
+**La salida es una de dos, y las dos valen:** **pasar los campos por un archivo, o decir en la puerta cómo se escapan en la terminal donde se corre.** **Lo que no vale es dejar que el ente reciba campos rotos y se caiga sin decir por qué: un error que no se explica se lee como un error del esquema.**
+
 
 ### Quién evalúa, que es la parte que se descubre al correrlo
 
