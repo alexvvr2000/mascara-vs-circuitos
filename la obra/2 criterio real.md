@@ -64,7 +64,7 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 
 **Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** **Y entonces la consulta que importa no es "¿qué sé?", sino "¿qué de lo que sostengo ya se cayó, y cuántas veces?".** **Esa pregunta, y no otra, es la que forma criterio.**
 
-**Los números no van aquí, y no es descuido.** **Un conteo de hechos y fricciones dentro de un ensayo envejece el ensayo el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números de hoy están en el registro, fechados, y ahí se consultan: en `testigo/CRITERIO.md`, que se actualiza con el banco, no con la prosa.**
+**Los números no van aquí, y no es descuido.** **Un conteo de hechos y fricciones dentro de un ensayo envejece el ensayo el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números de hoy están en el registro, fechados, y ahí se consultan: en `ente en blanco/testigo/LO QUE NO SE PROBO.md`, que se actualiza con el banco, no con la prosa.**
 
 ---
 

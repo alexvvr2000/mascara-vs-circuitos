@@ -102,7 +102,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **10** | **La conciencia que se busca adentro no está adentro** | `9` |
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `9`, VII |
 
-**La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`0 mis ideas.md`](./0%20mis%20ideas.md).**
+**La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).**
 
 ---
 
@@ -221,28 +221,28 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las once afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
-| **0b** | `0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
-| **0c** | `0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
-| **1** | `1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
-| **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
-| **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
-| **4** | `4 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
-| **5** | `5 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
-| **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
-| **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
-| **8** | `8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
-| **9** | `9 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
+| **0** | `la obra/0 mis ideas.md` | **Mi posición, en lista.** Las once afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
+| **0b** | `los papeles/0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
+| **0c** | `los papeles/0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
+| **1** | `la obra/1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
+| **2** | `la obra/2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
+| **3** | `la obra/3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
+| **4** | `la obra/4 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
+| **5** | `la obra/5 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
+| **6** | `la obra/6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
+| **7** | `la obra/7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
+| **8** | `la obra/8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
+| **9** | `la obra/9 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
 
 **Aparte:**
 
 | Archivo | Qué es |
 |---|---|
-| `ATTRIBUTION.md` | El uso de IA por partes, quién hizo qué, las herramientas, y el origen. **Léelo antes de dudar de la autoría.** |
+| `los papeles/ATTRIBUTION.md` | El uso de IA por partes, quién hizo qué, las herramientas, y el origen. **Léelo antes de dudar de la autoría.** |
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
 | [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
-| [`ente en blanco/`](./ente%20en%20blanco/) | **El punto de salida, para quien no quiera empezar de cero.** `GUIA.md`: un ente mínimo con SQLite, con las reglas puestas en el esquema, y con el sesgo del modelo y la colmena resueltos en tablas. Y dentro, `testigo/`: las quince fricciones de la IA que ayudó aquí, el mapa de este repositorio, y las cinco trampas. |
+| [`ente en blanco/`](./ente%20en%20blanco/) | **El punto de salida, para quien no quiera empezar de cero.** `ente en blanco/GUIA.md`: un ente mínimo con SQLite, con las reglas puestas en el esquema, y con el sesgo del modelo y la colmena resueltos en tablas. Y dentro, `testigo/`: las quince fricciones de la IA que ayudó aquí, el mapa de este repositorio, y las cinco trampas. |
 
 ---
 
@@ -262,11 +262,11 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 | Lo que quiero ver | Dónde está |
 |---|---|
-| **el acta de lo que pasó** | **`testigo/banco.json`** — 212 hechos, 69 fricciones, 13 desenlaces |
-| **lo que no se ha probado** | **`testigo/LO QUE NO SE PROBO.md`** — 56 reglas sin desenlace, con nombre |
+| **el acta de lo que pasó** | **`ente en blanco/testigo/banco.json`** — 212 hechos, 69 fricciones, 13 desenlaces |
+| **lo que no se ha probado** | **`ente en blanco/testigo/LO QUE NO SE PROBO.md`** — 56 reglas sin desenlace, con nombre |
 | **levantar el testigo** | **`cd testigo` y `python hablar.py`** — sin instalar nada |
 | **que los commits son míos** | **`git log --show-signature`** — la firma `OpenPGP` está dentro de cada commit |
-| **qué no se abrió** | **`0b metodologia y legalidad.md`** — cada fuente con su estado |
+| **qué no se abrió** | **`los papeles/0b metodologia y legalidad.md`** — cada fuente con su estado |
 
 **Y si algo de esto no cuadra, ese es el hallazgo.** **No pido confianza: pido una corrida.**
 

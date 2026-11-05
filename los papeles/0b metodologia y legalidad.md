@@ -16,7 +16,7 @@
 - **El orden para hacerlo desde cero**, si alguien quiere publicarlo por su cuenta.
 - **Lo que no se hace**, que es corto y no se negocia.
 
-**Y lo que NO vive aquí, porque tiene su propio lugar:** la declaración de quién hizo qué, qué herramientas se usaron y con qué garantías. **Eso está en [`ATTRIBUTION.md`](./ATTRIBUTION.md)**, y ahí está porque es donde lo busca quien sospecha de un texto hecho con IA. **Un solo lugar, y el correcto.**
+**Y lo que NO vive aquí, porque tiene su propio lugar:** la declaración de quién hizo qué, qué herramientas se usaron y con qué garantías. **Eso está en [`los papeles/ATTRIBUTION.md`](./ATTRIBUTION.md)**, y ahí está porque es donde lo busca quien sospecha de un texto hecho con IA. **Un solo lugar, y el correcto.**
 
 ---
 
@@ -147,4 +147,4 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 ---
 
-**Y de dónde sale esto frente a lo que ya existe:** **[`0c estado del arte.md`](./0c%20estado%20del%20arte.md)** **dice qué guarda cada sistema anterior, y qué le falta.**
+**Y de dónde sale esto frente a lo que ya existe:** **[`los papeles/0c estado del arte.md`](./0c%20estado%20del%20arte.md)** **dice qué guarda cada sistema anterior, y qué le falta.**

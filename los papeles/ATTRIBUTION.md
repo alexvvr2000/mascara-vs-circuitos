@@ -11,7 +11,7 @@ Este trabajo se escribió en diálogo con un sistema de inteligencia artificial.
 
 | Pieza | Quién la hizo |
 |---|---|
-| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | Yo — **cuáles son, y en qué ensayo vive cada una, en [`0 mis ideas.md`](./0%20mis%20ideas.md)** |
+| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | Yo — **cuáles son, y en qué ensayo vive cada una, en [`la obra/0 mis ideas.md`](../la%20obra/0%20mis%20ideas.md)** |
 | **La estructura y el orden de la colección** | Yo, discutido con el sistema |
 | **La redacción** | Yo, con asistencia de redacción |
 | **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en el ensayo 0 |

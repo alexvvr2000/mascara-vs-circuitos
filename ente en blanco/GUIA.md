@@ -438,4 +438,4 @@ CREATE TABLE acuerdo (
 
 **Si lo haces, ya tienes un ente aunque tenga diez filas. Si no, puedes tener el mejor `AGENTS.md` del mundo y sigue siendo un formulario.**
 
-**Y si no quieres empezar de cero, `testigo/CRITERIO.md` tiene las quince piedras donde se cayó una IA construyendo esto, y cómo heredarlas sin que se vuelvan una copia.**
+**Y si no quieres empezar de cero, `testigo/LO QUE NO SE PROBO.md` tiene las quince piedras donde se cayó una IA construyendo esto, y cómo heredarlas sin que se vuelvan una copia.**

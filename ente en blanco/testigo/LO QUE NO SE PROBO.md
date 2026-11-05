@@ -88,6 +88,6 @@
 
 ---
 
-**Prueba:** ¿Cada renglón de la tabla tiene su desenlace en el banco, o dice que no? ¿Se puede ir de aquí al `testigo/banco.json` y confirmar que sigue sin desenlace?
+**Prueba:** ¿Cada renglón de la tabla tiene su desenlace en el banco, o dice que no? ¿Se puede ir de aquí al `banco.json` y confirmar que sigue sin desenlace?
 
 **Falsificador:** una regla que un lector busca en el banco y ya tiene desenlace, o una regla borrada sin que quede dicho por qué.
