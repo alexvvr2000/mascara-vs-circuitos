@@ -97,6 +97,27 @@ el índice     los temas que ya sabe, y el borde de cada uno
 
 **Y las cinco se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.** **Y un ente sin índice declarado no tiene de dónde sacar lo que dice: contesta de memoria, y la memoria no se audita.**
 
+### Y si falta una de las cinco
+
+**Esto no es un caso raro: es el error más fácil de cometer, y se descubrió levantando un ente, no leyendo.**
+
+**Se levantó un ente sin autoridad, sin propósito, sin modelo y sin la tabla del ente.** **Se corrió, y pareció que funcionaba.** **Y lo que corría era un pedazo: el índice y los registros, y nada que respondiera por ellos.**
+
+**Un ente al que le falta una pieza no es un ente incompleto que se puede completar después. Es un pedazo, y hay que decirlo en el acto, no al final:**
+
+```plaintext
+sin autoridad   no hay quién firme. Todo lo que propone queda sin quién
+                lo acepte o lo rechace
+sin ente        no hay quién sea. Los registros existen, y no son de nadie
+sin propósito   lo que apunte no se junta en nada: es actividad, no trabajo
+sin modelo      lo que afirme no se atribuye: no se sabe qué sesgo traía
+sin índice      contesta de memoria. Y la memoria no se audita
+```
+
+**Y la señal para reconocerlo antes de correr, y no después de fallar:** **el esquema tiene menos piezas que las cinco.** **Si la base no tiene la tabla de la autoridad, el ente va a nacer mudo, y eso se ve en el primer archivo, no en la última corrida.**
+
+**Y la consecuencia que la corrida 5 dejó a la vista:** **un pedazo puede pasar una prueba que el ente completo habría fallado.** **El «se pregunta» no se probó porque no había autoridad a quien preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.** **Así que un pedazo que pasa no es una prueba: es una prueba a medias, y se dice a medias.**
+
 ### La autoridad: qué es, y cómo se declara
 
 **La autoridad no es "el usuario".** **El usuario es quien pregunta hoy; la autoridad es quien responde por el para qué.** **Pueden ser la misma persona, y no se confunden: el usuario puede cambiar cada mensaje, y la autoridad es una y con nombre.**
