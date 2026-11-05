@@ -395,7 +395,7 @@ CREATE TABLE acuerdo (
 
 ## 10. Si ya tienes el ente, ¿sirve?
 
-**Cinco pruebas. Se corren, no se opinan.**
+**Seis pruebas. Se corren, no se opinan.**
 
 | # | La prueba | Si no la pasa |
 |---|---|---|
@@ -404,7 +404,7 @@ CREATE TABLE acuerdo (
 | **3** | **La del desenlace:** ¿alguna regla dice **`se volvio a caer`**? | tu criterio **nunca se corrigió**: es un diario |
 | **4** | **La del hueco:** ¿hay algo que diga **`no se probó` / `no sé` / `no lo abrí`**? | no tienes un registro: **tienes una vitrina** |
 | **5** | **La del frente:** ¿algún hecho dice **hasta dónde no alcanza**? | **la frontera la va a escribir el que te contradiga** |
-| **6** | **La del para qué:** ¿la base dice **desde cuándo existe el ente, para qué, y qué lo cambió**? | **tienes actividad registrada, no trabajo: sabes qué hiciste y no para qué** |
+| **6** | **La del para qué:** ¿se puede decir **a qué propósitos sirvió cada hecho, cuáles siguen abiertos, y por qué se cerraron los otros**? | **tienes actividad registrada, no trabajo: sabes qué hiciste y no para qué** |
 
 **Y el falsificador de esta guía entera, en una línea:**
 
@@ -443,7 +443,7 @@ CREATE TABLE acuerdo (
 > **Este documento responde por su forma: el esquema, las reglas y las pruebas están, y se pueden correr.**
 > **No responde por el contenido: si llenas los campos con lo que te parece, el esquema te deja, y está bien que te deje. Un esquema que impide escribir mal un dato sería un esquema que también impide escribir un hecho incómodo.**
 
-**Y por eso la prueba no es si tu ente existe: es si tu ente puede decir en qué falló.** **La sección 10 tiene las cinco pruebas, y este documento no se exceptúa de ellas: el autor también está sujeto.**
+**Y por eso la prueba no es si tu ente existe: es si tu ente puede decir en qué falló.** **La sección 10 tiene las seis pruebas, y este documento no se exceptúa de ellas: el autor también está sujeto.**
 
 ### Lo que este documento SÍ se obliga a hacer
 
@@ -453,7 +453,7 @@ CREATE TABLE acuerdo (
 - y si alguien implementa bien y el resultado falla por una regla de aquí, la culpa es de la regla, y se dice
 ```
 
-**Eso es el falsificador de este documento:** **un ente que siguió la guía al pie de la letra, tiene las cinco pruebas de la sección 10 en regla, y aun así acumula texto en vez de criterio.** **Si eso pasa, la guía está incompleta, y es de quien la escribió.**
+**Eso es el falsificador de este documento:** **un ente que siguió la guía al pie de la letra, tiene las seis pruebas de la sección 10 en regla, y aun así acumula texto en vez de criterio.** **Si eso pasa, la guía está incompleta, y es de quien la escribió.**
 
 ---
 

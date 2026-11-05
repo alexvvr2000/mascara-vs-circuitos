@@ -29,17 +29,19 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 **4. El rastro.** Qué dejó de haber hecho, con fecha.
 
-**5. El propósito.** Para qué existe mientras existe, desde cuándo, y hasta cuándo rigió.
+**5. El propósito.** Para qué existe, con fecha de cuándo se abrió y de cuándo se cerró.
 
 Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sostener**, porque es la única que sobrevive a la sesión que lo hizo. **Y la quinta es la que distingue un rastro de trabajo de un rastro de actividad.**
 
-### Por qué el propósito no es un campo, sino una historia
+### Por qué el propósito no es un campo, sino un checklist
 
 **El propósito no es del ente: es de quien lo usa.** Y por eso **no se escribe una vez y se olvida**, porque **quien lo usa cambia de objetivo sin avisarle al ente.**
 
 **Hoy puede ser un repositorio; mañana, una máquina.** **El ente no cambia: el para qué sí.** **Y si el propósito se guarda en un solo lugar, lo de hoy se borra cuando llegue lo de mañana** — y entonces no hay historia, hay estado.
 
-**Por eso el propósito lleva fecha desde cuándo rige, y fecha de hasta cuándo.** **Y cuando se sustituye, el anterior no se borra: queda como superado, con el motivo.** Un ente que cambió de propósito es más informativo que uno que siempre tuvo el mismo, porque **el cambio dice qué se aprendió y qué se dejó atrás.**
+**Por eso el propósito no es un campo: es una lista.** **Un ente puede sostener varios a la vez, como cualquiera lleva varias cosas entre manos en un día.** Cada uno se abre con su fecha, y se cierra con su fecha **y con el motivo** — porque **un propósito que se cierra en silencio no es una decisión: es un olvido.**
+
+**Y los cerrados se quedan.** **Un ente que cambió lo que tenía entre manos es más informativo que uno que nunca cambió nada**, porque lo que dejó atrás dice qué se aprendió y qué se perdió.
 
 ### Y de ahí la consecuencia, que es la que vale
 
@@ -47,7 +49,7 @@ Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sost
 
 **No porque acumule datos.** **Porque acumula historia:** qué se hizo, bajo qué propósito, con qué cuerpo, y qué se cayó. **La utilidad no está en la potencia: está en lo vivido, con su fecha.**
 
-**Y eso cambia qué se mide.** Un ente nuevo y potente tiene todo por delante y nada por detrás. **Uno que lleva tiempo tiene lo contrario, y es lo que se le puede preguntar: ¿cuándo cambiaste de para qué, y qué se perdió en el cambio?**
+**Y eso cambia qué se mide.** Un ente nuevo y potente tiene todo por delante y nada por detrás. **Uno que lleva tiempo tiene lo contrario, y es lo que se le puede preguntar: ¿a qué le dedicaste cada día, cuáles cerraste, y qué se quedó abierto?**
 
 ---
 

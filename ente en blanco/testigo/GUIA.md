@@ -120,9 +120,22 @@ CREATE TABLE desenlace (
   circunstancia TEXT NOT NULL,
   cambio        TEXT NOT NULL
 );
+
+-- El para qué. Muchos abiertos a la vez, como un checklist.
+CREATE TABLE proposito (
+  id          INTEGER PRIMARY KEY,
+  ente_id     INTEGER NOT NULL REFERENCES ente(id),
+  que         TEXT NOT NULL,
+  desde       TEXT NOT NULL,
+  hasta       TEXT,
+  cerrado_por TEXT,
+  CHECK (hasta IS NULL OR cerrado_por IS NOT NULL)
+);
 ```
 
 **Y una cosa que no se salta: el `desenlace`.** **Un hecho sin desenlace es una anécdota; una fricción sin desenlace es una promesa.** **Si lo dejas fuera, tienes un diario, no un criterio.**
+
+**Y la otra que no se salta: el `proposito`.** **Seis tablas, y `hecho` lleva además `proposito_id INTEGER REFERENCES proposito(id)`.** **Un ente que apunta lo que hizo y no para qué está registrando actividad, no trabajo.** **Y el propósito no se cierra en silencio: la base exige el motivo.**
 
 **Para crearla:** **`python -c "import sqlite3;sqlite3.connect('banco.db').executescript(open('esquema.sql').read())"`**, **guardando el bloque de arriba en `esquema.sql`.**
 
