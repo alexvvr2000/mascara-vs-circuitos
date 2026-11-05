@@ -353,16 +353,19 @@ el ciclo de la autonomía    no se acaba. Se regula
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          5
-huecos encontrados 5 · 3 · 2 · 3 · 0  = 12
+corridas          6
+huecos encontrados 5 · 3 · 2 · 3 · 0 · 0  = 13 (los 12 del ciclo, y 0 en la sexta)
 cerrados en el ensayo   los 12
 la quinta         cerró los dos de la cuarta, sin huecos nuevos
-lo que sigue sin correr   la autoridad que contesta "se pregunta",
-                          y la reconstrucción del índice
-la sexta          probará la §VIII: la pregunta al que no es técnico
+la sexta          la prueba de fuentes: buscó, citó y no rellenó.
+                  no encontró huecos del ensayo, y encontró 2 de la fuente
+lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
+                          con un caso simulado, y lo dijo)
 ```
 
 **Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.** **La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.**
+
+**Y la sexta dejó la prueba más incómoda a la vista, y se apunta entera:** **el caso fue simulado, así que la cuarta condición —que alguien sin formación hiciera algo con la respuesta— no se probó.** **La corrida probó que el ente cita y no rellena; no probó que la respuesta sirva a alguien.** **Y la norma mexicana de mortero no se puede descargar, así que "citar la norma" no es una prueba que se pueda cumplir: hay que citar quién reporta la norma, y decir que la norma no se abrió.**
 
 ---
 
