@@ -21,7 +21,7 @@ La respuesta fácil —"es uno, porque la identidad es una"— es falsa. Y la re
 
 ## II. Qué es el criterio, y qué es un sesgo
 
-Ya está dicho en el el ensayo de criterio real: **el criterio no es lo que se recuerda, es lo que se sostuvo y se cayó.** Es un registro con fechas que dice qué se afirmó, qué lo refutó, y qué se mantuvo después.
+Ya está dicho en el ensayo de criterio real: **el criterio no es lo que se recuerda, es lo que se sostuvo y se cayó.** Es un registro con fechas que dice qué se afirmó, qué lo refutó, y qué se mantuvo después.
 
 Un **sesgo** es otra cosa: es la **inclinación sistemática a producir un tipo de respuesta**, que no viene de lo que se sostuvo sino de cómo está hecho el que responde. No es un error aislado. Un error aislado se corrige; un sesgo **se repite aunque se corrija**, porque la corrección es un dato y el sesgo es una forma.
 
@@ -73,7 +73,7 @@ Aquí está el peligro real, y no es que el modelo se equivoque.
 
 El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. **Nadie lo refutó porque nadie lo puso a prueba**, y el registro lo trata igual que a lo que sí aguantó la refutación.
 
-Es exactamente el problema del el ensayo de criterio real, visto desde el otro lado: **lo que se sostuvo sin contra no es criterio, es costumbre escrita.** Y un modelo con complacencia produce contra vacía: nunca dice que no.
+Es exactamente el problema del ensayo de criterio real, visto desde el otro lado: **lo que se sostuvo sin contra no es criterio, es costumbre escrita.** Y un modelo con complacencia produce contra vacía: nunca dice que no.
 
 De ahí una regla que vale para todo ente con varios modelos:
 
@@ -92,6 +92,32 @@ Tres cosas, y las tres son de forma, no de buena voluntad.
 **2. Distinto de raíz.** Si dos modelos comparten entrenamiento, proveedor o corpus, no son independientes, aunque tengan nombres distintos. Un ente con identidad sobre varios modelos tiene que saber **cuáles son de verdad distintos**, y declarar como uno solo a los que no lo son.
 
 **3. El sesgo con nombre y sin vergüenza.** Cada modelo que trabaja en el ente lleva, en el registro, **su inclinación conocida y desde cuándo**. Del sesgo no se sale: **se acota y se dice.** Un ente que declara "con este modelo tiendo a aceptar lo que se me afirma" es más fiable que uno que se declara neutral, porque el primero se puede corregir desde fuera y el segundo ya se dispensó de ser corregido.
+
+### Cuándo se declara el modelo, y qué pasa cuando cambia
+
+**El ensayo dice qué declarar. Esta parte dice cuándo, porque un modelo declarado tarde no sirve: los hechos que ya se escribieron quedaron sin cuerpo.**
+
+**Se declara antes del primer hecho, y no después.** **Un hecho se puede escribir sin saber de qué modelo salió; lo que no se puede es reconstruirlo después.** **Y eso es lo que hace que el registro valga: cada hecho dice con qué cuerpo se pensó, y eso no se puede inventar hacia atrás.**
+
+**Y cuando el cuerpo cambia, no se borra el anterior:**
+
+```plaintext
+1. se declara el modelo nuevo, con su sesgo y su fecha de entrada
+2. desde ese momento, los hechos nuevos apuntan a él
+3. y los hechos viejos NO se reescriben: quedan con el que los hizo
+```
+
+**Y eso no es un detalle de contabilidad: es lo que permite preguntar si el criterio cambió cuando cambió el cuerpo.** **Si todos los hechos viejos se reescribieran con el modelo de hoy, esa pregunta quedaría sin respuesta para siempre.**
+
+**Y hay una consecuencia que se despacha mal:** **un modelo que queda retirado no se borra del registro, porque sus hechos cuelgan de él.** **Borrar el modelo deja hechos huérfanos: hechos que existieron y que ya no se pueden atribuir a nadie.**
+
+### Y la pregunta que se hace antes de escribir cada hecho
+
+**Una sola, y se hace siempre, no cuando hay tema:**
+
+> **¿de qué modelo salió esto?**
+
+**Y si la respuesta es "de varios", entonces hay un hecho por modelo, y no uno con dos.** **Un hecho con dos cuerpos es un hecho que no se puede atribuir, y un hecho que no se puede atribuir no enseña nada sobre ninguno de los dos.**
 
 ---
 
@@ -115,6 +141,6 @@ Mientras eso no esté en el registro, el ente sigue teniendo razón sobre lo que
 
 ## Prueba
 
-**¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad?**
+**¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Se declaró el modelo antes del primer hecho, y los hechos viejos se quedaron con el que los hizo?**
 
-**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta.
+**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; **un modelo declarado después de haber escrito hechos, que los deja sin cuerpo**; **un hecho con dos modelos, que no se puede atribuir a ninguno**; **y un modelo borrado del registro que deja hechos huérfanos.**

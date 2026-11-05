@@ -98,7 +98,7 @@ Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado
 
 ## 7. Quién es el ente, y con qué se escribió
 
-**El ente:** `TESTIGO`, mi ente colaborador —definido como en el el ensayo de que es un ente: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
+**El ente:** `TESTIGO`, mi ente colaborador —definido como en el ensayo de que es un ente: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
 
 **El modelo:** `DeepSeek V4.1 Flash`, servido a través de `OpenCode Go`.
 

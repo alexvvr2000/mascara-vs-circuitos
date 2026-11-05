@@ -54,6 +54,41 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 
 8. **¿Qué pasó cuando volví a intentarlo?** Que la regla aguantara, o que se cayera otra vez. **Sin esta columna no hay criterio: hay diario.** Un diario registra; un criterio pondera. Y lo que Pesa es lo que se repite.
 
+### Las tres preguntas que se olvidan, y por qué no son opcionales
+
+**El ciclo del ente ya dice de dónde sale cada cosa. Estas tres las amarra, y sin ellas el hecho es un registro suelto que no se puede juntar con nada.**
+
+**9. ¿De qué modelo salió?** **Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica.** **Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.**
+
+**10. ¿Para qué se hizo?** **Sin esto, el hecho dice qué pasó y no dónde fue a dar.** **Un ente puede tener varios propósitos abiertos a la vez, y sin la columna no se puede saber a cuál sirvió lo que se hizo, ni cuánto se trabajó en cosas que no eran de ninguno.**
+
+**11. ¿Por cuál tema entró?** **Sin esto, el registro dice qué se pensó y no de dónde salió la idea.** **Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.**
+
+**Y el que se puede dejar vacío, y decirlo:** **el tema.** **Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.** **Pero un hecho sin modelo o sin propósito no se puede dejar vacío: sin esos dos, el hecho no se puede juntar con nada.**
+
+### Las preguntas, y las columnas que las guardan
+
+**Esto es lo que convierte el criterio en algo que se puede correr.** **La columna no es un capricho de forma: es la pregunta puesta donde una máquina la pueda llenar sin inventarle el sentido.**
+
+| La pregunta | La columna |
+|---|---|
+| ¿Cuándo? | `fecha` |
+| ¿Quién lo pidió, con qué palabras? | `que_se_pidio` |
+| ¿Qué pasó, medido? | `que_paso` |
+| ¿Hasta dónde no alcanza? | `no_alcanza` |
+| ¿Qué no sabía? | `no_sabia` |
+| ¿De qué modelo salió? | `modelo_id` |
+| ¿Para qué se hizo? | `proposito_id` |
+| ¿Por cuál tema entró? | `tema_id` |
+| El error, su razón, su señal, su corrección | `el_error`, `por_que_era_creible`, `como_se_reconoce`, `que_hago_en_su_lugar` |
+| ¿Quién la corrigió? | `quien_lo_corrigio` |
+| ¿De qué hecho nació? | `hecho_id` |
+| ¿Qué pasó al reintentarlo? | `resultado` |
+| ¿En qué circunstancia se probó? | `circunstancia` |
+| ¿Qué cambió respecto de la vez anterior? | `cambio` |
+
+**Y la forma de la tabla no se impone, la fidelidad sí:** **lo que la columna tiene que poder contestar es la pregunta, y si un registro contesta una y no la otra, el registro está mal lleno aunque la base lo acepte.** **Por eso las reglas van en el esquema, y no en la buena voluntad de quien lo llena.**
+
 ---
 
 ## IV. Lo que falta y por qué importa
@@ -90,6 +125,16 @@ Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se
 
 **9. Se vuelve al paso uno.** Pero ya no con la misma persona. Esa es la única diferencia entre repetir y madurar.
 
+### Y el ciclo no empieza en el paso 1
+
+**Empieza antes: en entender qué se está pidiendo.** **La frase que llega casi nunca dice el para qué, y el criterio que se arma sobre una frase mal entendida no se corrige con desenlaces: se corrige rehaciendo todo.**
+
+**Por eso el paso 0 de este ciclo es el de la empatía:** **qué parte de lo que se pide es requisito, y qué parte es costumbre.** **Y si no se puede preguntar, se declara el supuesto: "entendí X; si era Y, esto no sirve".**
+
+**Y el ciclo tampoco termina en el paso 9: vuelve al índice.** **Un hecho que no encontró tema pide un tema; un borde que se rompió pide que se reescriba; un tema que nunca se consultó está abandonado.** **El criterio no crece dentro de la tabla: crece en el borde de la tabla con lo que la rodea.**
+
+**Y el que manda en el cierre es la autoridad, no el ente.** **Un propósito que el ente abrió para sí mismo se cierra en el vacío.** **El ente propone; el que abrió, cierra.** **Eso no debilita el criterio: lo hace posible, porque el criterio que se pone sus propias metas no se puede confrontar con nada.**
+
 ---
 
 ## VI. Por qué esto es una arquitectura y no una virtud
@@ -104,6 +149,6 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 
 ## Prueba
 
-**¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?**
+**¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?**
 
-**Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo.
+**Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo; **un hecho sin modelo, que no se puede separar de la inclinación del cuerpo que lo produjo**; **un hecho sin propósito, que no se puede juntar con nada de lo que el ente estaba haciendo**; **y un registro que dice qué se hizo y no de dónde salió la idea.**

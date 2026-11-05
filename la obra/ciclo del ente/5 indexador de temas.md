@@ -102,7 +102,7 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 ## VIII. La supersesión, y dónde se guarda su pérdida
 
-**El el ensayo del indexador de temas dice — y lo dice también el §V — que el que cambia el índice tiene que decir qué se pierde con el cambio.** **Falta decir dónde se guarda eso, porque un "qué se pierde" que vive en la cabeza no es una pérdida: es un comentario.**
+**Este mismo ensayo dice — y lo dice también el §V — que el que cambia el índice tiene que decir qué se pierde con el cambio.** **Falta decir dónde se guarda eso, porque un "qué se pierde" que vive en la cabeza no es una pérdida: es un comentario.**
 
 **En la supersesión son tres datos, y van con la relación, no con el tema:**
 
@@ -122,7 +122,7 @@ qué se pierde   qué deja de caber cuando el nuevo entra
 
 ## IX. Cuándo se consulta, que es lo que lo vuelve un ciclo
 
-**Un índice que no dice cuándo se abre no es un paso del ciclo: es un apéndice.** **Y el el ensayo de escritura en procesos ya lo dijo para los procesos: lo que no dice cuándo ocurre, no ocurre.**
+**Un índice que no dice cuándo se abre no es un paso del ciclo: es un apéndice.** **Y el ensayo de escritura en procesos ya lo dijo para los procesos: lo que no dice cuándo ocurre, no ocurre.**
 
 **Se consulta en un momento exacto, y no antes ni después: antes de concluir.**
 

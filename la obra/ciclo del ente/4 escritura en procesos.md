@@ -97,6 +97,34 @@ Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿d
 
 Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
 
+### La plantilla, para que no se rellene a gusto
+
+**Decir "las cinco partes" no basta: si la forma no está escrita, cada quien pone las que se acuerda, y el proceso se vuelve prosa con títulos.** **Esta es la forma, y va copiada, no interpretada:**
+
+```plaintext
+# <nombre del proceso>
+
+**Se corre:**      <el momento exacto. No "cuando haga falta">
+**Entra:**         <qué lo alimenta>
+**Sale:**          <qué produce>
+**Lo consume:**    <quién lo recibe>
+**La búsqueda:**   <cómo busca si le falta algo>
+**Y si no encuentra:** <qué hace. No se salta: este es el que se rellena inventando>
+**Falla si:**      <qué lo incumple>
+**Falsificador:**  <qué lo tumbaría>
+**Y qué se pierde si cambia:** <todo cambio pierde algo; si no lo puede nombrar, no fue un cambio>
+```
+
+**Y las dos últimas no son adornos.** **`Falla si` dice desde dónde se pueden romper las reglas; `Falsificador` dice qué prueba lo tumba.** **Sin las dos, el proceso no se puede juzgar: solo se puede obedecer.**
+
+**Y la línea de "qué se pierde" es la que casi nadie escribe, y es la que permite que dentro de un año alguien sepa por qué esto es así y no de otra forma.** **Un proceso que cambió sin dejar la pérdida es un proceso que nadie va a poder discutir, porque nadie va a saber qué había antes.**
+
+### Y la regla que lo hace servir, y no solo bonito
+
+**Si un paso no dice cuándo se corre, no es un proceso: es un consejo.** **Y si un proceso no dice qué lo incumple, no es un proceso: es una esperanza.**
+
+**El criterio, en una línea:** **se puede tomar el texto, dárselo a alguien que no estaba, y que lo corra sin preguntar nada.** **Si para correrlo hay que preguntarle al que lo escribió, el texto no era un proceso.**
+
 ---
 
 ## VIII. Lo que queda por decir

@@ -9,7 +9,7 @@
 
 ## I. La pregunta
 
-Un ente, como se definió en el el ensayo de que es un ente, es una unidad: recibe, decide, contesta y deja rastro. ¿Qué pasa cuando en vez de una unidad hay muchas, trabajando juntas sobre el mismo problema?
+Un ente, como se definió en el ensayo de que es un ente, es una unidad: recibe, decide, contesta y deja rastro. ¿Qué pasa cuando en vez de una unidad hay muchas, trabajando juntas sobre el mismo problema?
 
 La respuesta cómoda es "es un equipo". Y no sirve: un equipo no dice nada sobre **quién responde por el conjunto**. Cuando algo sale mal y hay diez partes, cada una puede estar en lo correcto y el conjunto equivocado, y nadie es el que se equivocó.
 
@@ -53,11 +53,11 @@ Y hay una tercera pieza que el uno tiene que saber leer: **la resonancia.** Dos 
 
 ## IV. Cómo se le mide el talento
 
-Aquí se junta lo que el el ensayo de talento medible propone para cualquier recurso, aplicado a lo que no es un recurso: **el conjunto**.
+Aquí se junta lo que el ensayo de talento medible propone para cualquier recurso, aplicado a lo que no es un recurso: **el conjunto**.
 
 **Lo primero es no medir a los entes por separado y llamarlo medición del conjunto.** Un ente puede ser rapidísimo y el conjunto lentísimo, porque el tiempo de acuerdo entre entes **no se divide: se multiplica** por cada relación que hay que sostener.
 
-**Lo segundo es medir el costo por resultado exitoso del uno**, con la misma fórmula del el ensayo de talento medible:
+**Lo segundo es medir el costo por resultado exitoso del uno**, con la misma fórmula del ensayo de talento medible:
 
 > **CRE del conjunto = (coste de todos los intentos + coste de acuerdo + coste de corrección) ÷ resultados exitosos verificados**
 
@@ -82,7 +82,7 @@ Es lo más importante de este ensayo, y es la parte que evita el error de creer 
 
 **Y la línea que hay que repetir:** el ente sin borde no fue un error de diseño. **Fue un diseño sin nadie que lo contestara.** Una colmena pone a alguien a contestar. **No pone a nadie a salvo.**
 
-**Una corrida es una prueba, y no es una muestra.** Presentar una colmena como probada porque corrió una vez es exactamente el mismo defecto que se critica en el el ensayo de criterio y sesgos: tomar la repetición de una forma por la verificación de un resultado.
+**Una corrida es una prueba, y no es una muestra.** Presentar una colmena como probada porque corrió una vez es exactamente el mismo defecto que se critica en el ensayo de criterio y sesgos: tomar la repetición de una forma por la verificación de un resultado.
 
 ---
 
@@ -94,12 +94,12 @@ Esta es la consecuencia práctica que hace que la colmena sea manejable, y es la
 
 Cada ente lee el sesgo del uno y dice si sigue dentro. **Diez mil criterios no se recorren; un sesgo sí.** El rastro que hay que guardar es **del conjunto**: qué se declaró, quiénes fueron sus partes, qué dijo cada una al leer el sesgo, y qué se hizo con la que contradijo.
 
-Y eso entra en el registro del el ensayo de criterio real de una manera concreta: **lo que se apunta como hecho es lo que dijo el uno**, y **lo que se apunta como fricción es lo que un ente contestó**. Ahí está el conjunto como una sola entidad registrable: un hecho, muchas fricciones, un desenlace.
+Y eso entra en el registro del ensayo de criterio real de una manera concreta: **lo que se apunta como hecho es lo que dijo el uno**, y **lo que se apunta como fricción es lo que un ente contestó**. Ahí está el conjunto como una sola entidad registrable: un hecho, muchas fricciones, un desenlace.
 
 **Y la forma del cambio**, que es lo que mantiene a la colmena fuera del ente sin borde:
 
 - Si la falta es de **una pieza**, cambia esa pieza, con su rastro.
-- Si la falta es **del conjunto**, cambia el uno, y las piezas se reacomodan dentro. **Ese cambio tiene que decir qué se pierde**, como cualquier otro en el el ensayo del indexador de temas.
+- Si la falta es **del conjunto**, cambia el uno, y las piezas se reacomodan dentro. **Ese cambio tiene que decir qué se pierde**, como cualquier otro en el ensayo del indexador de temas.
 - Si un ente **se sale del sesgo y lo dice**, el uno lo sabe y puede seguir.
 - Si un ente **contradice el sesgo**, se contesta o se retira, con su razón escrita.
 - Si **el sesgo ya no se sostiene**, se cambia el uno, o se declara la colmena desfasada.

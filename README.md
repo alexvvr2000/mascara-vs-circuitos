@@ -46,7 +46,7 @@
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer el el ensayo de que es un ente, correrle el falsificador a cualquiera de los once, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
+**Qué puedes hacer hoy:** leer el ensayo de que es un ente, correrle el falsificador a cualquiera de los once, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
 
 ---
 
