@@ -98,21 +98,51 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 **El problema es del texto, no del que lo lee.** Y eso se puede correr: se le da la misma pieza a dos criterios distintos, y se ve si coinciden. **No hace falta que la pieza sea real.**
 
-### El borde, en su forma, y la pieza contra la que se prueba
+### La pieza, que tiene que existir antes del borde
 
-**Un borde no se evalúa en el aire: se evalúa contra algo.** **Y ese algo es una pieza, que es cualquier cosa que se quiera meter en el tema: un hecho, un documento, una pregunta, una URL.** **Si no se dice qué es una pieza, el borde no se puede correr.**
+**Un borde no se evalúa en el aire: se evalúa contra algo.** **Y a ese algo se le llama pieza.** **Y si la pieza no tiene forma, el borde no se puede correr — por mucho que esté bien escrito.**
+
+**Esto se descubre levantando un ente, no escribiendo el ensayo:** **se escribe un borde perfecto, se va a consultar con una pieza, y no hay contra qué compararla.** **Así que la pieza va primero.**
+
+**Y una pieza tiene tres cosas, y ninguna sobra:**
+
+```plaintext
+su texto      lo que la pieza dice, tal cual. Sin resumir
+sus campos    los atributos que el borde puede mirar: de dónde viene,
+              de qué habla, qué produce. Y esto es lo que hace
+              evaluable un borde de máquina
+su origen     hecho, documento, pregunta, URL, o lo que sea.
+              Porque un borde no debería aceptar igual a un hecho
+              que a una pregunta: no pesan lo mismo
+```
+
+**Y el campo es el que resuelve todo:** **un borde de máquina no mira el texto, mira los campos.** **Un borde que dice "trata de mover algo" no se puede correr; uno que dice "el campo `accion` es `mover`" sí.**
+
+**Y cuando la pieza no trae los campos que el borde necesita, el borde no decide: la pieza está incompleta.** **Eso no es un hueco del índice: es un hueco de la pieza, y se apunta.** **Un ente que adivina los campos que faltan está rellenando, y lo que rellena se vuelve después un hecho que dice más de lo que sabe.**
 
 **El borde, en su forma mínima, son cuatro partes, y la cuarta es la que se olvida:**
 
 ```plaintext
 quién evalúa  una máquina o una persona. Y esto se declara, no se supone
-entra_si      la condición que la pieza tiene que cumplir
+entra_si      la condición que la pieza tiene que cumplir. Sobre sus campos,
+              no sobre su texto
 no_entra      los casos por nombre: los que alguien ya intentó meter
               y no eran del tema
-y si duda     qué se hace cuando la condición no da ni sí ni no
+y si duda     qué se hace cuando la condición no da ni sí ni no.
+              Y no es un consejo: es un valor, y son tres
 ```
 
-**Y `y si duda` no es un adorno.** **Es el caso que hace que dos lectores clasifiquen distinto:** **cuando la pieza es casi lo que el borde pide.** **Si el borde no dice qué hacer con el casi, el borde está incompleto, y no el lector.**
+**Y los tres valores de `y si duda`,` porque escribirlo en prosa es no haberlo escrito:**
+
+```plaintext
+fuera        el casi no entra. Se rechaza, y se apunta por qué
+dentro       el casi entra, y se apunta que entró por la duda
+se pregunta  el casi no lo decide el borde: lo decide la autoridad,
+              y se espera. Y mientras no conteste, la pieza no entra
+```
+
+**`se pregunta` es el que hace que el casi no se resuelva a gusto del que consulta.** **Y es el único de los tres que necesita que alguien esté del otro lado: si la autoridad no está, el casi se queda fuera, no dentro.**
+
 
 ### Quién evalúa, que es la parte que se descubre al correrlo
 
@@ -273,9 +303,9 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
 
 ## Prueba
 
-**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿El borde dice qué hacer cuando la pieza es 'casi'? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
+**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde dice qué hacer cuando la pieza es 'casi', con uno de los tres valores? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
 
-**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el casi, que obliga a decidir a gusto en cada pregunta**; **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo.**
+**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el casi, que obliga a decidir a gusto en cada pregunta**; **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una pieza sin campos, que obliga al borde a adivinar**; **y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle.** **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo.**
 
 ---
 

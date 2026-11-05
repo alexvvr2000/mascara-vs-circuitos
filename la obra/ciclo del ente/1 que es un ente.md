@@ -289,6 +289,28 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 
 **Por eso el cierre apunta a la autoridad declarada, y no a un texto libre.** **Es la diferencia entre decir "me autorizaron" y poder señalar quién, cuándo, y con qué.** **Lo apuntado tiene que poder contestarse; lo escrito a mano, no.**
 
+### Y el cerrar es hablar, no escribir
+
+**Esto se descubre levantando el ente, no escribiendo el ensayo: la tabla del propósito existe, el comando de cierre cuenta lo que hay, y el propósito sigue abierto.** **Porque cerrar no es un comando: es un acto entre dos.**
+
+**El ente hace una cosa, y solo una:**
+
+```plaintext
+propone el cierre     "entendí que esto se terminó, y la razón es esta"
+y lo apunta           como propuesta, con fecha, y con el hecho del que sale
+```
+
+**Y la autoridad hace la otra:**
+
+```plaintext
+contesta   sí → se cierra, y el cierre apunta a ella
+           no → sigue abierto, y lo que dijo el ente queda como propuesta rechazada
+```
+
+**Y mientras no conteste, el propósito sigue abierto, y eso no es un defecto: es el estado real del trabajo.** **Un ente que se inventa el sí para poder "cerrar bien" está cerrando solo, y eso es lo único que el §VI prohíbe.**
+
+**Y de ahí una consecuencia que hay que saber antes de implementar:** **una corrida de prueba nunca va a cerrar nada sola, porque la autoridad no está.** **Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien: propuso, y nadie le contestó.**
+
 **Y el cerrado no se borra.** **Se queda con su fecha de cierre y con la razón, porque un propósito que se cierra en silencio no es una decisión: es un olvido.**
 
 ### Y lo apuntado vuelve al índice, y a la autoridad
@@ -337,12 +359,12 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 | **0** | — | se declaran **la autoridad**, el ente, el propósito y el modelo | **antes del primer ciclo** |
 | **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
 | 1 | la frase | se guarda literal | **memoria** |
-| 2 | la frase | se recorre el índice, y se lee el borde | **se apunta qué tema, o el hueco** |
+| 2 | **la pieza**: texto, campos y origen | se recorre el índice; el borde mira los **campos**, no el texto | **se apunta qué tema, el hueco, o que el casi se pregunta** |
 | 3 | frase + tema + lo entendido | se decide, y se descarta; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
 | 4 | la decisión | se contesta, con su frontera | **la respuesta** |
 | 5 | todo lo anterior | **se escribe el hecho**, y **quién lo aceptó** | **la base: es lo único que sobrevive** |
 | 6 | el hecho, y lo que pasó | se vuelve a probar la regla | **el desenlace** |
-| cerrar | — | se PROPONE cerrar el propósito | **la autoridad declarada lo cierra: apunta a ella, no a un texto** |
+| cerrar | — | el ente PROPONE cerrar, y **espera** | **la autoridad contesta sí o no. Si no contesta, sigue abierto** |
 | vuelta | lo apuntado | se corrige el índice, **y se le dice a la autoridad lo que se salió** | **el grafo, y la autoridad** |
 
 **Y si hay una sola fila que no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco, y hay que decirlo antes de correrlo.**
