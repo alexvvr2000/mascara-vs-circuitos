@@ -236,7 +236,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 **E es el ciclo del ente; C, el de la colmena; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
-**Y hay una cuarta carpeta, que no es de ensayos sino del método:** **la obra/ciclo de mejora/ciclo del ente.md dice cómo se sabe si esos cinco ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.**
+**Y dentro de `ciclo del ente/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos cinco ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las cuatro corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
 
 **Aparte:**
 
@@ -246,7 +246,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
 | [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
-| [`busqueda de huecos automatico/`](./busqueda%20de%20huecos%20automatico/) | **Los cuatro entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los doce huecos, con el ente que los encontró.** |
+| [`la obra/ciclo del ente/metodologia de mejora/`](./la%20obra/ciclo%20del%20ente/metodologia%20de%20mejora/) | **Los cuatro entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los doce huecos, con el ente que los encontró.** |
 
 ---
 
@@ -269,7 +269,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
      humanidad/             lo que no es maquinaria
        H1  empatía              cómo se entiende antes de pedir
        H2  conciencia           qué hacemos con una palabra que no sabemos definir
-3. busqueda de huecos automatico/   los cuatro entes de prueba, y qué encontró cada uno
+   y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las cuatro corridas
 ```
 
 **El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de los tres.**
