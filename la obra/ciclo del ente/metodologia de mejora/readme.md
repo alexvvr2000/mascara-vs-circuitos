@@ -17,8 +17,9 @@
 ## Cómo se lee
 
 ```plaintext
-1. metodo.md          el método: dónde va el ciclo, qué se apunta,
-                      qué defectos se repiten, y cuándo se para
+1. metodo.md          el método: el ciclo entero, con los cuatro pasos
+                      que no están en el repo; qué se apunta; los
+                      defectos que se repiten; y cuándo se para
 2. corridas/          las cuatro veces que se corrió, en orden
 ```
 
@@ -75,7 +76,13 @@ corridas/ente N - NOMBRE/
    un desenlace, y se intenta cerrar un propósito
 4. todo lo que haya que inventar es un hueco: se anota, con su porqué
 5. el ente se queda aquí, y el hueco se cierra en el ensayo
-6. se repite. Y no se para en "no encontré nada": ver el §V del método
+6. se repite. Y no se para en "no encontré nada": ver el §VI del método
 ```
 
-**Y hasta que no quede huecos, no hay guía para levantar el ente.** **Los ensayos se prueban levantando entes, no escribiendo una guía para levantarlos.**
+**Y faltan cuatro pasos que no están en este repo, y son de quien corre:**
+
+**El que corre se mejora a sí mismo al final de cada corrida.** **Su puerta aprende la regla que la corrida cambió, y su banco se muda al esquema que la corrida dejó, sin reescribir los hechos viejos.**
+
+**Está en el §III del método, y se publica por un motivo:** **el que corra el ciclo tiene que saber que le toca a él, y no solo al papel.** **Si su ente no lo hace, ese es el hueco que no está en ningún ensayo: el de él.**
+
+**Y hasta que no queden huecos, no hay guía para levantar el ente.** **Los ensayos se prueban levantando entes, no escribiendo una guía para levantarlos.**

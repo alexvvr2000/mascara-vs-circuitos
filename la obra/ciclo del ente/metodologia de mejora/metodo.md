@@ -22,29 +22,65 @@
 
 ---
 
-## II. El ciclo, en cinco pasos
+## II. El ciclo, en siete pasos, y los cuatro que le siguen fuera del repo
 
 ```plaintext
 1. se leen los ensayos          sin mirar los entes anteriores
 2. se levanta un ente desde cero   en una carpeta nueva, con fecha y hora
 3. se corre                    índice, hecho, fricción, desenlace, cierre
 4. se anota lo que hubo que inventar   cada invención es un hueco
-5. se cierra el hueco en el ensayo    y se repite desde el 1
+5. se clasifica                hueco del ensayo / defecto del código /
+                               cosa del entorno
+6. se escribe la documentacion.md   con la voz del que corrió
+7. se cierra el hueco en el ensayo   y se repite desde el 1
 ```
-
-**Y el ente de cada corrida se queda, con su base y sus scripts.** **Porque el que quiera comprobarlo tiene que poder correrlo, no creerme.**
-
-### Por qué se empieza de cero cada vez
-
-**La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba.**
-
-**Porque el ente anterior ya tiene las piezas que se inventaron la vez pasada.** **Y si el ensayo no las dice, el ente nuevo las va a heredar igual — y ya no se ve el hueco.**
-
-**Empezar de cero es lo que hace visible lo que el ensayo no dice.** **Y es lo que permite ver la evolución: cuatro carpetas con fecha, y se ve qué cambió y en qué corrida.**
 
 ---
 
-## III. Qué se apunta cuando se corre
+## III. Los cuatro pasos que no están en este repo
+
+**Los siete de arriba son del repo.** **Y el ciclo no termina ahí.**
+
+**Porque el que corre el ciclo también aprende algo, y si esa enseñanza solo vive en la corrida que la produjo, la siguiente vuelve a caer en lo mismo.** **Y eso lo paga el que corra después, que va a leer un `documentacion.md` y repetir el tropiezo que ya estaba escrito.**
+
+**Así que el ciclo completo tiene once pasos, y los últimos cuatro son del ente que lo corre, no del papel.**
+
+```plaintext
+1  se leen los ensayos             de la obra
+2  se levanta un ente desde cero   solo con los ensayos
+3  se corre                        índice, hecho, fricción, desenlace, cierre
+4  se anota lo que hubo que inventar   cada invención es un hueco
+5  se clasifica                    ensayo / código / entorno
+6  se escribe la documentacion.md  con la voz del que corrió
+7  se cierra el hueco              en el ensayo, con su Falsificador
+8  commit y push                   uno por corrida, firmado
+────────── aquí termina lo que está en este repo ──────────
+9  el hueco se cierra TAMBIÉN en la puerta del ente
+   si el ensayo cambió una regla, su AGENTS.md tiene que decirla;
+   si no, mañana trabaja con la regla vieja
+10 su banco se muda al esquema que la corrida dejó
+   tablas y columnas nuevas, y los hechos viejos NO se reescriben:
+   se quedan con NULL donde no había columna, y eso es un dato
+11 lo que no se puede mudar se declara pendiente, con nombre y razón
+12 se apunta el hecho de la mejora, con su frontera
+   qué de esto está probado, y qué no
+```
+
+**Y los pasos 9 a 12 van al final de **cada** corrida, no cuando el trabajo se termine.** **Una corrida que mejoró el ensayo y dejó al que lo corre atrás no terminó.**
+
+**Esto se publica por un motivo, y no es vanidad:** **el que corra el ciclo tiene que saber que le toca a él, y no solo al papel.** **Si su ente no lo hace, ese es el hueco que no está en ningún ensayo: el de él.**
+
+### Lo que el paso 10 enseña, y no es obvio
+
+**Mudar el banco sin reescribir los hechos viejos.**
+
+**Porque reescribirlos con las columnas nuevas sería inventar un propósito que no tuvieron, un tema que no se consultó, y una pieza que no existía.**
+
+**Un hecho de antes de que hubiera propósitos no es un hecho incompleto: es un hecho de antes.** **Y se queda en `NULL`, que dice exactamente eso.**
+
+---
+
+## IV. Qué se apunta cuando se corre
 
 **Cada corrida deja dos cosas, y ninguna es un resumen:**
 
@@ -71,7 +107,7 @@ cosa del entorno        → se apunta, y NO se toca el ensayo
 
 ---
 
-## IV. Los cuatro defectos que se repiten
+## V. Los cuatro defectos que se repiten
 
 **De cuatro corridas salieron doce huecos, y casi todos son de cuatro familias.** **Reconocerlas es lo que ahorra corridas.**
 
@@ -89,7 +125,7 @@ cosa del entorno        → se apunta, y NO se toca el ensayo
 
 ---
 
-## V. Cuándo se para — y por qué «no encontré nada» no basta
+## VI. Cuándo se para — y por qué «no encontré nada» no basta
 
 **Lo que este método decía antes: «se para cuando una corrida no encuentre nada».**
 
@@ -137,7 +173,40 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 ---
 
-## VI. Lo que este método no es
+## VII. Cuándo se deja de correr, y por qué eso no lo decide el método
+
+**El §VI dice cuándo un ensayo está completo.** **No dice cuándo el que corre deja de correr.** **Y son dos cosas distintas, y confundirlas es lo que vuelve esto un vicio en vez de un método.**
+
+```plaintext
+cuándo el ensayo está completo   →  §VI, y se puede revisar
+cuándo se deja de correr         →  eso no está en el método
+```
+
+**Y no está porque no se puede escribir honestamente:** **no hay fórmula que diga «llevas cinco corridas, ya basta».** **El número de corridas no dice nada.** **Cuatro corridas con cinco, tres, dos y tres huecos dicen que no baja; no dicen que falte una.**
+
+**Lo que sí se puede decir, y se dice:**
+
+- **si la serie de huecos por corrida no baja, el problema no es que falten corridas: hay algo mal más arriba, en el ensayo o en la prueba.**
+- **si una corrida encuentra cero sin las trampas del §VI puestas, no es que terminó: es que la prueba dejó de exigir.**
+- **y si la misma clase de hueco sale en dos corridas seguidas, la corrección del ensayo no sirvió, y hay que mirar qué se arregló realmente.**
+
+**Y la decisión de parar es del dueño, con eso a la vista.** **El método no la toma: da la información para tomarla sin engañarse.**
+
+---
+
+**Y el ente de cada corrida se queda, con su base y sus scripts.** **Porque el que quiera comprobarlo tiene que poder correrlo, no creerme.**
+
+### Por qué se empieza de cero cada vez
+
+**La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba.**
+
+**Porque el ente anterior ya tiene las piezas que se inventaron la vez pasada.** **Y si el ensayo no las dice, el ente nuevo las va a heredar igual — y ya no se ve el hueco.**
+
+**Empezar de cero es lo que hace visible lo que el ensayo no dice.** **Y es lo que permite ver la evolución: cuatro carpetas con fecha, y se ve qué cambió y en qué corrida.**
+
+---
+
+## VIII. Lo que este método no es
 
 **No es que el ensayo esté mal por cada hueco.** **Un ensayo completo a la primera, corrido cuatro veces sin cambio, es sospechoso: o no se probó, o la prueba no exigía nada.**
 
@@ -147,7 +216,7 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 ---
 
-## VII. Lo que se dice hoy, con los números de hoy
+## IX. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
 corridas          4
@@ -160,6 +229,8 @@ su trampa               el "no es de este tema", que está cerrado
 ```
 
 **Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.**
+
+---
 
 ---
 
