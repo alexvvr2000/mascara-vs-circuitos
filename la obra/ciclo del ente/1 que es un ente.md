@@ -65,7 +65,174 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 
 ---
 
-## IV. Dónde vive, y qué es de quién
+## IV. El ciclo entero, paso por paso
+
+**El bucle de arriba dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo.** **Y lo que no está escrito, se rellena — y se rellena distinto cada vez.**
+
+**Este es el ciclo completo, y cada paso dice tres cosas: qué entra, qué se hace, y dónde queda.**
+
+### El ciclo, en una línea
+
+```plaintext
+recibe → consulta el índice → decide → contesta → apunta → se corrige
+            ↑                                                    │
+            └────────── lo apuntado vuelve al índice ─────────────┘
+```
+
+**Y la posición del índice no es un detalle:** **se consulta antes de decidir, no después.** **Quien decide primero y busca después no está consultando el índice: está buscando con qué justificar lo que ya quería hacer.**
+
+### Paso 0 — antes de nada: el ente ya tiene piezas
+
+**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez.**
+
+```plaintext
+el ente      quién es, desde cuándo, y hasta dónde toca
+el propósito qué está haciendo ahora. Puede haber varios, y abren y cierran
+el modelo    con qué cuerpo corre, y cómo falla ese cuerpo
+```
+
+**Y las tres se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.**
+
+### Paso 1 — recibe
+
+**Entra:** la frase, tal como se dijo.
+
+**Se hace:** se guarda **literal**. **No se parafrasea, y no se "arregla" la forma.**
+
+**Dónde queda:** en el hecho que se abre, y **todavía no se escribe nada:** el hecho no existe hasta que termina el ciclo. **Lo que se guarda aquí es la frase.**
+
+### Paso 2 — consulta el índice (antes de decidir)
+
+**Entra:** la frase del paso 1.
+
+**Se hace:** se recorre el grafo de temas, por sus relaciones y no por palabras sueltas.
+
+```plaintext
+¿a qué tema corresponde?
+  sí → se entra por él, y se apunta CUÁL se usó
+  no → se declara el hueco: "esto no tiene tema todavía"
+```
+
+**Y el «no» es una respuesta, no una falla.** **Un ente que contesta algo que no está en su índice está contestando de memoria, y la memoria no se puede auditar.** **Declarar el hueco es lo que dice que el índice va a crecer.**
+
+**Dónde queda:** **el tema que se usó va al hecho.** **Y si no había tema, también se apunta: el hecho queda sin tema, y eso se puede contar.** **Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.**
+
+**Y aquí hay una consecuencia que se salta:** **si el tema existe pero su borde no la cubre, tampoco entra.** **El borde se lee antes de usar el tema, no después de que salió mal.**
+
+### Paso 3 — decide
+
+**Entra:** la frase, y el tema por el que se entró (o el hueco declarado).
+
+**Se hace:** se elige qué hacer, **bajo las reglas que el ente aceptó**, y se descarta lo que no va.
+
+**Y lo que se decide no es solo la respuesta: es también qué se descartó.** **Un ente que solo apunta lo que hizo no puede explicar por qué no hizo lo otro.**
+
+**Dónde queda:** **se decide en memoria y no se apunta todavía.** **Lo que se apunta al final es el resultado del paso 4, no el razonamiento del 3.** **Y eso es una frontera conocida y se dice: la decisión se puede reconstruir desde el hecho, y no se registra entera.**
+
+### Paso 4 — contesta
+
+**Entra:** la decisión.
+
+**Se hace:** se produce la salida, y **se dice hasta dónde vale.** **La frontera va con la respuesta, no después.**
+
+**Dónde queda:** en la respuesta. **Y aquí no se ha escrito nada todavía.**
+
+### Paso 5 — apunta
+
+**Este es el paso que hace al ente, y es el único que tiene forma fija.**
+
+**Se abre un hecho, con su fecha, y se llena de lo que ya ocurrió:**
+
+```plaintext
+la frase literal           del paso 1
+qué se hizo, medido         del paso 4, con números y nombres
+hasta dónde no alcanza      la frontera, del paso 4
+qué no se sabía             lo que el ciclo añadió al mapa, o "nada"
+el tema por el que se entró del paso 2, o el hueco
+el propósito al que sirvió  del paso 0
+el modelo que lo produjo    del paso 0
+```
+
+**Y si algo de eso falta, no se rellena: se dice que falta.** **Un campo vacío con una frase que lo disimula es peor que el campo vacío.**
+
+**Dónde queda:** **aquí sí se escribe, y es lo primero que se escribe en el ciclo.** **Todo lo anterior existió en memoria; esto es lo único que sobrevive.**
+
+### Paso 6 — se corrige
+
+**Entra:** lo que se apuntó, y lo que la vida hizo con eso.
+
+**Se hace:** **se vuelve a probar la regla que se había caído, y se apunta qué pasó.**
+
+```plaintext
+aguantó                     → el desenlace dice «cumplida»
+se cayó otra vez            → el desenlace dice «se volvió a caer»
+no se ha podido probar      → el desenlace dice «no se ha probado»
+```
+
+**Y el tercero no es un hueco: es el dato más honesto del banco.** **Casi todo lo que un ente sostiene no se ha vuelto a probar, y decirlo es lo que permite que lo demás se crea.**
+
+**Dónde queda:** **en el desenlace, y el desenlace apunta a la fricción de la que nace.** **Y aquí está la regla que hace que esto no sea un diario: una fricción sin desenlace es una promesa.**
+
+### Y al cerrar: el propósito se revisa
+
+**No cada mensaje: cuando algo se terminó.**
+
+```plaintext
+¿se terminó lo que este propósito pedía?
+  sí → se cierra, con su fecha Y con el motivo
+  no → sigue abierto
+¿apareció algo nuevo que no estaba en ningún propósito?
+  sí → se abre uno nuevo
+```
+
+**Y el cerrado no se borra.** **Se queda con su fecha de cierre y con la razón, porque un propósito que se cierra en silencio no es una decisión: es un olvido.**
+
+### Y lo apuntado vuelve al índice
+
+**Esto es lo que hace que la flecha de vuelta exista, y es lo que casi nadie cierra.**
+
+**Después de apuntar, el índice no queda igual:**
+
+```plaintext
+un hecho sin tema           → dice que hace falta un tema nuevo
+un tema cuyo borde se rompió → dice que el borde está mal escrito
+dos temas que nunca se usan juntos → dice que quizá se asocian
+un tema que no se consulta nunca   → dice que está abandonado
+```
+
+**Un índice que no cambia con lo que el ente vive no es un índice: es un adorno.** **Y un índice que cambia sin la fecha y el motivo es peor: pierde la única cosa que lo hacía auditable.**
+
+### Lo que el ciclo no dice, y se dice
+
+**El paso 3 no se registra entero.** **La decisión se reconstruye desde el hecho, y esa reconstrucción es una inferencia, no un registro.**
+
+**Y no se apunta mientras se trabaja: se apunta al final.** **Un ciclo largo puede perder lo del medio.** **Los hechos intermedios se apuntan si hacen falta, y eso es una decisión del que corre el ciclo, no una propiedad del ciclo.**
+
+**Y el paso 6 depende de que algo vuelva a pasar.** **Un ente que nunca vuelve a intentar lo mismo no tiene desenlaces: tiene una lista de promesas.** **No es un defecto de este ciclo: es la condición que lo hace real.**
+
+---
+
+## V. El ciclo, en una tabla
+
+**Para que se pueda correr sin leer lo de arriba:**
+
+| Paso | Entra | Se hace | Queda en |
+|---|---|---|---|
+| 0 | — | se declaran el ente, el propósito y el modelo | **antes del primer ciclo** |
+| 1 | la frase | se guarda literal | **memoria** |
+| 2 | la frase | se recorre el índice, y se lee el borde | **se apunta qué tema, o el hueco** |
+| 3 | frase + tema | se decide, y se descarta | **memoria: no se apunta** |
+| 4 | la decisión | se contesta, con su frontera | **la respuesta** |
+| 5 | todo lo anterior | **se escribe el hecho** | **la base: es lo único que sobrevive** |
+| 6 | el hecho, y lo que pasó | se vuelve a probar la regla | **el desenlace** |
+| cerrar | — | se revisa el propósito | **el propósito, abierto o cerrado con motivo** |
+| vuelta | lo apuntado | se corrige el índice | **el grafo: temas, bordes, asociaciones** |
+
+**Y si hay una sola fila que no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco, y hay que decirlo antes de correrlo.**
+
+---
+
+## VI. Dónde vive, y qué es de quién
 
 Un ente vive en un entorno que se lo carga: una aplicación, un harness, una conversación. **Ese entorno no es el ente.** El entorno es el cuarto; el ente es lo que hace en el cuarto.
 
@@ -75,7 +242,7 @@ Esto no es un formalismo. **Un ente que no distingue lo que propone de lo que le
 
 ---
 
-## V. Por qué importa definirlo antes de medir
+## VII. Por qué importa definirlo antes de medir
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: **la superficie**.
 
@@ -83,7 +250,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-## VI. La parte de afuera, y por qué un ente no está solo
+## VIII. La parte de afuera, y por qué un ente no está solo
 
 **La definición dice que el ente es lo que hace en el cuarto, no el cuarto.** **Pero eso es del entorno, y hay otra cosa distinta: lo que el ente *es* y vive fuera de donde se ejecuta.**
 
@@ -93,7 +260,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-## VII. Un ente nunca trabaja solo, aunque esté en una ventana
+## IX. Un ente nunca trabaja solo, aunque esté en una ventana
 
 **Esto es lo que se pierde cuando se mide un ente como si fuera una máquina de un solo sentido.**
 
