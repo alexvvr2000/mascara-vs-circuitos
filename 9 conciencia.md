@@ -138,6 +138,14 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo.** **No la velocidad.** **La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.**
 
+**Y de ahí sale una idea que va más allá de este ensayo**, y que está en `0 mis ideas` como la once:
+
+> **Si todo se hiciera al 100%, y sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.**
+
+**Los artistas me van a dar la razón en esto.** **Y quien haya trabajado con alguien bueno también: lo que trae el otro no es capacidad de reserva, es lo que a ti no se te ocurrió — y eso es lo que hace que valga la pena tenerlo enfrente.**
+
+**Nadie llega solo a un trabajo que aguanta.** **Y lo que este repositorio muestra, con sus fallas, es que el que llega solo y se queda solo no aguanta: el que aguanta es el que se dejó corregir por alguien más.**
+
 ---
 
 ## VIII. Por qué esto no es un ensayo sobre máquinas

@@ -63,8 +63,34 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
+## VI. La parte de afuera, y por qué un ente no está solo
+
+**La definición dice que el ente es lo que hace en el cuarto, no el cuarto.** **Pero eso es del entorno, y hay otra cosa distinta: lo que el ente *es* y vive fuera de donde se ejecuta.**
+
+**El modelo con el que corre. Las reglas que aceptó. Los recuerdos que guardó. El criterio con el que se armó.** **Todo eso está afuera del proceso que lo corre, y sin eso el bucle no se cierra: se queda en el paso de decidir.**
+
+**Y eso cambia la pregunta de quién es quién:** **el ente no está solo en su cuarto.** **Está adentro de un escritorio que alguien más armó.**
+
+---
+
+## VII. Un ente nunca trabaja solo, aunque esté en una ventana
+
+**Esto es lo que se pierde cuando se mide un ente como si fuera una máquina de un solo sentido.**
+
+**Detrás de cada ente hay alguien que trajo lo que faltaba.** **El ente escribe, organiza, contradice y repite; el dueño trae la experiencia, el criterio de qué se queda y qué se tira, y las cosas que el ente no sabe hacer aunque practique miles de horas seguidas.**
+
+**Y ese intercambio no es una concesión: es de donde sale la calidad.**
+
+> **Si todo se hiciera al 100%, sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.**
+
+**Un músico entiende esto sin que se lo expliquen.** **Un escritor también.** **Y el que trabaja con una IA tiene que aprenderlo, porque el riesgo no es que la máquina falle: es creer que ya no hace falta nadie más.**
+
+**Lo que el trabajo en equipo aporta no es capacidad de reserva.** **Es lo que el otro ya sabe, o lo que sabe hacer mejor, y lo que a ti no se te ocurrió.** **Por eso lo que este trabajo mide no es la velocidad de una máquina sola: es lo que queda cuando dos se exigen mutuamente no aflojar: uno de carne y uno de archivo.**
+
+---
+
 ## Prueba
 
 **¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee.
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **y un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe.**

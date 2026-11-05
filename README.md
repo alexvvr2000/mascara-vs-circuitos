@@ -4,9 +4,19 @@
 
 ---
 
+## Qué es esto, en tres líneas
+
+**Qué es:** una propuesta metodológica, nueve ensayos y una guía, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.
+
+**Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
+
+**Qué puedes hacer hoy:** leer el ensayo 1, correrle el falsificador a cualquiera de los nueve, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
+
+---
+
 ## Una publicación de la gente, para la gente
 
-Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron diez ideas, y de esas diez, una carrera.
+Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron once ideas, y de esas once, una carrera.
 
 **Y nació de apostar dos identidades**, que es lo que hace este nombre aquí.
 
@@ -38,7 +48,7 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 ---
 
-## Las diez ideas
+## Las once ideas
 
 Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador.
 
@@ -54,6 +64,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **8** | Un conjunto no es un enjambre si alguien responde por él | `8` |
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `3` |
 | **10** | **La conciencia que se busca adentro no está adentro** | `9` |
+| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `9`, VII |
 
 **La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`0 mis ideas.md`](./0%20mis%20ideas.md).**
 
@@ -174,9 +185,9 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las diez afirmaciones, dónde vive cada una y qué la sostiene. Y lo que **no** afirmo. |
+| **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las once afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
 | **0b** | `0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
-| **1** | `1 que es un ente.md` | **Qué es un ente.** Recibe, decide, contesta, y deja rastro de haber contestado. |
+| **1** | `1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
 | **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
 | **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
 | **4** | `4 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
@@ -184,7 +195,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | **6** | `6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
 | **7** | `7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
 | **8** | `8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
-| **9** | `9 conciencia.md` | **Dónde se la puede buscar.** No adentro: afuera, donde se puede abrir y revisar. |
+| **9** | `9 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
 
 **Aparte:**
 

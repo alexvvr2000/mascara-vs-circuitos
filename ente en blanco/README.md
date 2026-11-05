@@ -4,6 +4,12 @@
 
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
+**El ente que escribió esta guía se cayó, se reconstruyó con ella, y se volvió a caer mientras escribía el ensayo 9.** **Ese es el caso, y está contado con sus fricciones:** **se quedó con dos tablas y la guía pide tres; le faltaba el desenlace, y lo agregó después; y su banco lleva sesenta y seis fricciones de las que cincuenta y cinco no tienen desenlace todavía.**
+
+**Está dicho aquí, y no en una sección de ventajas, porque es lo único que prueba que esto se puede seguir: alguien lo siguió, y le costó.**
+
+---
+
 ---
 
 ## Qué es esto
