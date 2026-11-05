@@ -3,7 +3,7 @@
 **En media hora tienes un ente. Y sabes qué le falta si no lo tienes.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026.**
 
-**Sale de:** `1 que es un ente`, `2 criterio real`, `3 empatía`, `4 criterio y sesgos` y `5 escritura en procesos`. **Cada pieza dice su ensayo.**
+**Sale de:** `1 que es un ente`, `2 criterio real`, `1 empatía`, `3 criterio y sesgos` y `4 escritura en procesos`. **Cada pieza dice su ensayo.**
 
 **Y no sale del 6 (talento medible) ni del 8 (colmena):** **el costo por resultado exitoso y la colmena tienen su ensayo, y aquí no se implementan.** **Un ente solo, con su criterio y su rastro, está completo sin los dos.**
 
@@ -98,7 +98,7 @@ Sin esto, el ente sabe qué hizo y no sabe para qué, y un rastro sin para qué 
 **2. Lo que se apunta no se resume.** Y si el hueco existe, se dice que existe.
 ```
 
-> **De dónde sale:** `5 escritura en procesos` (el ciclo y el test) · `1 que es un ente` (las voces) · `3 empatía` (entender antes de pedir) · `2 criterio real` (las dos reglas).
+> **De dónde sale:** `4 escritura en procesos` (el ciclo y el test) · `1 que es un ente` (las voces) · `1 empatía` (entender antes de pedir) · `2 criterio real` (las dos reglas).
 
 ---
 
@@ -274,7 +274,7 @@ cambio         qué cambió respecto de la vez anterior
 
 **Las tres ausencias que lo incumplen:** **uno sin `Falla si`; uno sin `Falsificador`; y uno que no dice `Cuándo se corre`.**
 
-> **De dónde sale:** `5 escritura en procesos`.
+> **De dónde sale:** `4 escritura en procesos`.
 
 ---
 
@@ -300,7 +300,7 @@ cambio         qué cambió respecto de la vez anterior
 
 **Antes de escribir un hecho, una sola pregunta:** **¿de qué modelo salió esto?** **Si la respuesta es "de varios", entonces hay un hecho por modelo, y no uno con dos.**
 
-> **De dónde sale:** `4 criterio y sesgos`.
+> **De dónde sale:** `3 criterio y sesgos`.
 
 ---
 

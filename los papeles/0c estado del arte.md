@@ -12,7 +12,7 @@
 
 **Y no se dice de memoria:** **cada renglón tiene su fuente, y las que no se abrieron se dicen.**
 
-**Sale de:** `2 criterio real`, `4 criterio y sesgos`, y `8 colmena`.
+**Sale de:** `2 criterio real`, `3 criterio y sesgos`, y `8 colmena`.
 
 ---
 

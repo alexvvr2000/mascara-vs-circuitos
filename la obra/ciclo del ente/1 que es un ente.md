@@ -79,7 +79,7 @@ Esto no es un formalismo. **Un ente que no distingue lo que propone de lo que le
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: **la superficie**.
 
-Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. **Eso es lo que se mide en `la obra/6 talento medible.md`**, y no se puede medir sin haber aceptado antes la definición y el rastro.
+Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. **Eso es lo que se mide en `la obra/ciclo de la colmena/1 talento medible.md`**, y no se puede medir sin haber aceptado antes la definición y el rastro.
 
 ---
 

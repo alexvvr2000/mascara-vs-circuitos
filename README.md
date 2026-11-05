@@ -221,18 +221,20 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 | # | Archivo | Qué responde |
 |---|---|---|
-| **0** | `la obra/0 mis ideas.md` | **Mi posición, en lista.** Las once afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
+| — | `la obra/0 mis ideas.md` | **Mi posición, en lista.** Las afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
 | **0b** | `los papeles/0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **0c** | `los papeles/0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
-| **1** | `la obra/1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
-| **2** | `la obra/2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
-| **3** | `la obra/3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
-| **4** | `la obra/4 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
-| **5** | `la obra/5 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
-| **6** | `la obra/6 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
-| **7** | `la obra/7 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
-| **8** | `la obra/8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
-| **9** | `la obra/9 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
+| **E1** | `la obra/ciclo del ente/1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
+| **E2** | `la obra/ciclo del ente/2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
+| **E3** | `la obra/ciclo del ente/3 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
+| **E4** | `la obra/ciclo del ente/4 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
+| **E5** | `la obra/ciclo del ente/5 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
+| **C1** | `la obra/ciclo de la colmena/1 talento medible.md` | **Cómo se decide con qué talento.** Costo por resultado exitoso, y la varianza. |
+| **C2** | `la obra/8 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
+| **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
+| **H2** | `la obra/humanidad/2 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
+
+**E es el ciclo del ente; C, el de la colmena; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
 **Aparte:**
 
@@ -252,20 +254,24 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ```plaintext
 1. esta entrada          qué es, y qué se está apostando
-2. la obra/              los diez ensayos, en este orden:
-     0 mis ideas            las afirmaciones, con lo que las tumba
-     1 que es un ente       la definición de la que cuelga todo
-     2 criterio real        cómo se arma el criterio
-     3 empatía              cómo se entiende antes de pedir
-     4 criterio y sesgos    qué es del ente y qué del modelo
-     5 escritura en procesos por qué proceso, y no prosa
-     6 talento medible      con qué recurso decidir, y a qué costo
-     7 indexador de temas   dónde vive lo que sabe
-     8 colmena              qué hace que un conjunto responda
-     9 conciencia           qué hacemos con una palabra que no sabemos definir
+2. la obra/              y dentro, tres carpetas:
+     ciclo del ente/        la unidad sola: su criterio, su índice, su rastro
+       E1  que es un ente       la definición de la que cuelga todo
+       E2  criterio real        cómo se arma el criterio
+       E3  criterio y sesgos    qué es del ente y qué del modelo
+       E4  escritura en procesos por qué proceso, y no prosa
+       E5  indexador de temas   dónde vive lo que sabe
+     ciclo de la colmena/   la autoridad: varios entes, y quién responde
+       C1  talento medible      con qué recurso decidir, y a qué costo
+       C2  colmena              qué hace que un conjunto responda
+     humanidad/             lo que no es maquinaria
+       H1  empatía              cómo se entiende antes de pedir
+       H2  conciencia           qué hacemos con una palabra que no sabemos definir
 3. ente en blanco/       la guía, para hacer el tuyo
 4. testigo/              el testigo, y cómo se le pregunta
 ```
+
+**El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de los tres.**
 
 **Y para verificar, sin creerme:**
 
