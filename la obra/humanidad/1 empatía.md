@@ -23,7 +23,7 @@ Hay una frase que parece una exigencia técnica y en realidad es una manera de n
 
 A veces es verdad, y entonces sirve. Pero muchas veces cubre otra cosa: la falta de disponibilidad para explicar el porqué. **Al decir "así se hace" se cierra la conversación**, y lo que queda es una instrucción sin contexto. Quien la ejecuta no sabe qué se quiere, solo qué se pidió.
 
-Y eso importa más con una máquina que con una persona, por una razón que ya se dijo en el ensayo 1: **un ente no pregunta lo que no entiende; lo rellena.** Si la instrucción llega sin el porqué, el ente no se detiene a buscarlo — produce algo coherente con la letra y ajeno al propósito.
+Y eso importa más con una máquina que con una persona, por una razón que ya se dijo en el el ensayo de que es un ente: **un ente no pregunta lo que no entiende; lo rellena.** Si la instrucción llega sin el porqué, el ente no se detiene a buscarlo — produce algo coherente con la letra y ajeno al propósito.
 
 De ahí que buscar el estándar antes que el entendimiento sea **más barato a corto plazo y más caro en la segunda versión**. El estándar dice cómo se hace una cosa; no dice si esa cosa era la que hacía falta.
 

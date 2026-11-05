@@ -68,7 +68,7 @@ No es una figura legal: **es una norma editorial.** La `COPE` define el reciclaj
 
 ## 2. Lo que da autoría en este trabajo
 
-Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propone en el ensayo 2, se arma con el hecho, la fricción y el desenlace. **Esas dos piezas son la prueba de autoría**, y no el texto: el texto puede estar asistido; lo que no lo está es el registro de lo que se sostuvo y lo que se cayó.
+Un ente, como se define en el el ensayo de que es un ente, deja rastro. El criterio, como se propone en el el ensayo de criterio real, se arma con el hecho, la fricción y el desenlace. **Esas dos piezas son la prueba de autoría**, y no el texto: el texto puede estar asistido; lo que no lo está es el registro de lo que se sostuvo y lo que se cayó.
 
 **Sin rastro, la autoría es una declaración de fe.**
 

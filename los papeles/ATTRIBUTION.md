@@ -14,7 +14,7 @@ Este trabajo se escribió en diálogo con un sistema de inteligencia artificial.
 | **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | Yo — **cuáles son, y en qué ensayo vive cada una, en [`la obra/0 mis ideas.md`](../la%20obra/0%20mis%20ideas.md)** |
 | **La estructura y el orden de la colección** | Yo, discutido con el sistema |
 | **La redacción** | Yo, con asistencia de redacción |
-| **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en el ensayo 0 |
+| **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en «0 mis ideas» |
 
 **Herramientas, con nombre y versión:** `TESTIGO` (mi ente colaborador), sobre `DeepSeek V4.1 Flash` servido por `OpenCode Go`, dentro de `DeepSeek Harness`. Búsqueda de fuentes con el plugin `free-search` de `DeepSeek Harness`.
 
@@ -37,13 +37,13 @@ Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo com
 
 **Y de dónde sale:** de **un debate de lógica**, no de una medición. Lo que aquí afirmo viene de mi interpretación de ese proceso y sobre lo que significa tener individualidad real. **Quien quiera verlo distinto, que arme sus conclusiones leyendo esto y el repositorio, y haga su propio debate.** Este trabajo no pide que se le crea: pide que se le use y se le refute.
 
-**Lo que busco no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en el ensayo 0 y en el 7.
+**Lo que busco no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en «0 mis ideas» y en el ensayo del indexador de temas.
 
 **Y una frase mía, que resume por qué esto se escribió así:**
 
 > **«Sentido común mata título universitario.»**
 
-**Lo que quiere decir, y lo que no:** no que el título no sirva —el mío está en el ensayo 0, y la ley se citó con su fuente—, sino que **un papel no sustituye el juicio**. Lo que este trabajo pide de quien lo lea no es una credencial: es **que lo piense, lo pruebe y lo contradiga si no aguanta.**
+**Lo que quiere decir, y lo que no:** no que el título no sirva —el mío está en «0 mis ideas», y la ley se citó con su fuente—, sino que **un papel no sustituye el juicio**. Lo que este trabajo pide de quien lo lea no es una credencial: es **que lo piense, lo pruebe y lo contradiga si no aguanta.**
 
 
 ---
@@ -98,7 +98,7 @@ Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado
 
 ## 7. Quién es el ente, y con qué se escribió
 
-**El ente:** `TESTIGO`, mi ente colaborador —definido como en el ensayo 1: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
+**El ente:** `TESTIGO`, mi ente colaborador —definido como en el el ensayo de que es un ente: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
 
 **El modelo:** `DeepSeek V4.1 Flash`, servido a través de `OpenCode Go`.
 

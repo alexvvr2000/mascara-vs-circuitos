@@ -21,7 +21,7 @@ La respuesta fácil —"es uno, porque la identidad es una"— es falsa. Y la re
 
 ## II. Qué es el criterio, y qué es un sesgo
 
-Ya está dicho en el ensayo 2: **el criterio no es lo que se recuerda, es lo que se sostuvo y se cayó.** Es un registro con fechas que dice qué se afirmó, qué lo refutó, y qué se mantuvo después.
+Ya está dicho en el el ensayo de criterio real: **el criterio no es lo que se recuerda, es lo que se sostuvo y se cayó.** Es un registro con fechas que dice qué se afirmó, qué lo refutó, y qué se mantuvo después.
 
 Un **sesgo** es otra cosa: es la **inclinación sistemática a producir un tipo de respuesta**, que no viene de lo que se sostuvo sino de cómo está hecho el que responde. No es un error aislado. Un error aislado se corrige; un sesgo **se repite aunque se corrija**, porque la corrección es un dato y el sesgo es una forma.
 
@@ -73,7 +73,7 @@ Aquí está el peligro real, y no es que el modelo se equivoque.
 
 El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. **Nadie lo refutó porque nadie lo puso a prueba**, y el registro lo trata igual que a lo que sí aguantó la refutación.
 
-Es exactamente el problema del ensayo 2, visto desde el otro lado: **lo que se sostuvo sin contra no es criterio, es costumbre escrita.** Y un modelo con complacencia produce contra vacía: nunca dice que no.
+Es exactamente el problema del el ensayo de criterio real, visto desde el otro lado: **lo que se sostuvo sin contra no es criterio, es costumbre escrita.** Y un modelo con complacencia produce contra vacía: nunca dice que no.
 
 De ahí una regla que vale para todo ente con varios modelos:
 
