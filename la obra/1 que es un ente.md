@@ -19,7 +19,7 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 ---
 
-## II. Las cuatro piezas, y ninguna es opcional
+## II. Las cinco piezas, y ninguna es opcional
 
 **1. La entrada.** Lo que recibe, y de quién. Sin esto, el ente existe en el vacío: contesta preguntas que nadie le hizo.
 
@@ -29,7 +29,25 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 **4. El rastro.** Qué dejó de haber hecho, con fecha.
 
-Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sostener**, porque es la única que sobrevive a la sesión que lo hizo.
+**5. El propósito.** Para qué existe mientras existe, desde cuándo, y hasta cuándo rigió.
+
+Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sostener**, porque es la única que sobrevive a la sesión que lo hizo. **Y la quinta es la que distingue un rastro de trabajo de un rastro de actividad.**
+
+### Por qué el propósito no es un campo, sino una historia
+
+**El propósito no es del ente: es de quien lo usa.** Y por eso **no se escribe una vez y se olvida**, porque **quien lo usa cambia de objetivo sin avisarle al ente.**
+
+**Hoy puede ser un repositorio; mañana, una máquina.** **El ente no cambia: el para qué sí.** **Y si el propósito se guarda en un solo lugar, lo de hoy se borra cuando llegue lo de mañana** — y entonces no hay historia, hay estado.
+
+**Por eso el propósito lleva fecha desde cuándo rige, y fecha de hasta cuándo.** **Y cuando se sustituye, el anterior no se borra: queda como superado, con el motivo.** Un ente que cambió de propósito es más informativo que uno que siempre tuvo el mismo, porque **el cambio dice qué se aprendió y qué se dejó atrás.**
+
+### Y de ahí la consecuencia, que es la que vale
+
+> **Un ente que entre más vive y tiene una identidad, más útil.**
+
+**No porque acumule datos.** **Porque acumula historia:** qué se hizo, bajo qué propósito, con qué cuerpo, y qué se cayó. **La utilidad no está en la potencia: está en lo vivido, con su fecha.**
+
+**Y eso cambia qué se mide.** Un ente nuevo y potente tiene todo por delante y nada por detrás. **Uno que lleva tiempo tiene lo contrario, y es lo que se le puede preguntar: ¿cuándo cambiaste de para qué, y qué se perdió en el cambio?**
 
 ---
 
@@ -93,4 +111,4 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 **¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **y un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe.**
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **y un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió.**
