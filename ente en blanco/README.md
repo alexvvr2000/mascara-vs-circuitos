@@ -18,7 +18,7 @@
 
 **`GUIA.md` te da el ente mínimo, con la forma que el repositorio sostiene:** el rastro como definición, los tres registros, el proceso, y **las reglas puestas donde no se pueden saltar —en el esquema de la base.**
 
-**Y no empiezas de cero.** **Una IA ya se cayó doce veces construyendo esto, y dejó su registro escrito.** **Lo que hay en `testigo/` es eso: las piedras donde se tropezó, para que no tengas que tropezarte para descubrirlas.**
+**Y no empiezas de cero.** **Una IA ya se cayó sesenta y ocho veces construyendo esto, y dejó su registro escrito.** **Lo que hay en `testigo/` es eso: las piedras donde se tropezó, para que no tengas que tropezarte para descubrirlas.**
 
 ---
 
@@ -27,9 +27,9 @@
 | Archivo | Qué es | Para quién |
 |---|---|---|
 | **`GUIA.md`** | **el ente mínimo, con SQLite.** **Doce secciones: el ente, la puerta, la base, los tres registros, los procesos, el sesgo del modelo, la colmena con sus tablas, el costo, las pruebas, y **quién responde si algo falla**.** | el que quiere construir hoy |
-| **`testigo/CRITERIO.md`** | **las quince fricciones, el desenlace, y cómo heredarlas** | el que no quiere empezar de cero |
-| **`testigo/ESCARBAR.md`** | **el mapa de `Máscara vs Circuitos`**, y el DOI del proyecto anterior | el que quiere ir al original |
-| **`testigo/QUE NO SALGA MAL.md`** | **las cinco trampas**, y el falsificador de todo esto | el que ya construyó |
+| **`testigo/GUIA.md`** | **los seis pasos para hacer tu ente y pasarle la herencia** | el que no quiere empezar de cero |
+| **`testigo/banco.json`** | **la herencia: 205 hechos, 68 fricciones, 13 desenlaces** | el que quiera cargarla en su ente |
+| **`testigo/hablar.py`** | **el camino corto: le preguntas y contesta** | el que solo quiere saber qué pasó |
 
 ---
 
@@ -37,9 +37,9 @@
 
 **Si vienes a construir:** `GUIA.md`, y nada más. **Cuando ya tengas el ente, vuelve.**
 
-**Si no quieres empezar de cero:** `GUIA.md` primero, y **después `testigo/CRITERIO.md`**, que dice **cómo se hereda sin que se vuelva una copia.**
+**Si no quieres empezar de cero:** `GUIA.md` primero, y **después `testigo/GUIA.md`**, que dice **cómo se hereda sin que se vuelva una copia.**
 
-**Si vienes a discutir o a escarbar:** `testigo/ESCARBAR.md`.
+**Si vienes a discutir o a escarbar:** `testigo/README.md` te dice qué hay, y `testigo/hablar.py` te deja preguntarle al testigo.
 
 ---
 

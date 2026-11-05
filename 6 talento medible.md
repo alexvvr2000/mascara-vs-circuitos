@@ -47,10 +47,12 @@ Si no puedes explicar la solución sin el recurso, la estás alquilando. Si dele
 
 ## Qué hay en esta carpeta
 
-| Archivo | Para qué | Cuándo |
+| Qué hace falta | Qué es | Cuándo |
 |---|---|---|
-| **`protocolo.md`** | Inventario, medición, clasificación, explotación, composición y auditoría | cuando vas a decidir o medir |
-| **`plantillas.md`** | Las plantillas de registro en blanco | mientras trabajas |
+| **El protocolo** | Inventario, medición, clasificación, explotación, composición y auditoría | cuando vas a decidir o medir |
+| **Las plantillas** | Las plantillas de registro en blanco | mientras trabajas |
+
+**Los dos existen como procedimiento en este ensayo, y no como archivos aparte.** **No se traen archivos que no se usan: si algún día hacen falta, se escriben aquí y se dice.**
 
 ---
 

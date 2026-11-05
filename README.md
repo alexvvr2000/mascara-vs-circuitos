@@ -6,11 +6,11 @@
 
 ## Qué es esto, en tres líneas
 
-**Qué es:** una propuesta metodológica, nueve ensayos y una guía, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.
+**Qué es:** una propuesta metodológica, once documentos y una guía, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer el ensayo 1, correrle el falsificador a cualquiera de los nueve, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
+**Qué puedes hacer hoy:** leer el ensayo 1, correrle el falsificador a cualquiera de los once, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
 
 ---
 
