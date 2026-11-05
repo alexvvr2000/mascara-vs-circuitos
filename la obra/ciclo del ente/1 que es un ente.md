@@ -74,24 +74,58 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 ### El ciclo, en una línea
 
 ```plaintext
-recibe → consulta el índice → decide → contesta → apunta → se corrige
-            ↑                                                    │
-            └────────── lo apuntado vuelve al índice ─────────────┘
+autoridad → entiende → recibe → consulta el índice → decide → contesta → apunta → se corrige
+                ↑                                                                    │
+                └───────────── lo apuntado vuelve al índice y a la autoridad ────────┘
 ```
 
 **Y la posición del índice no es un detalle:** **se consulta antes de decidir, no después.** **Quien decide primero y busca después no está consultando el índice: está buscando con qué justificar lo que ya quería hacer.**
 
-### Paso 0 — antes de nada: el ente ya tiene piezas
+**Y la autoridad va primero, no por cortesía:** **un ente sin autoridad no es un ente: es una máquina tomando decisiones de alguien que no está.** **El ciclo entero existe para servir a un para qué que el ente no puso.**
 
-**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez.**
+### Paso 0 — antes de nada: quién manda, y con qué corre
+
+**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez. Y son cuatro piezas, no tres.**
 
 ```plaintext
-el ente      quién es, desde cuándo, y hasta dónde toca
-el propósito qué está haciendo ahora. Puede haber varios, y abren y cierran
-el modelo    con qué cuerpo corre, y cómo falla ese cuerpo
+la autoridad  una persona, con nombre. Tiene el para qué, y firma
+el ente       quién es, desde cuándo, y hasta dónde toca
+el propósito  qué está haciendo ahora. Puede haber varios, y abren y cierran
+el modelo     con qué cuerpo corre, y cómo falla ese cuerpo
 ```
 
-**Y las tres se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.**
+**Y las cuatro se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.**
+
+**Y la autoridad se declara con su frontera, que es lo que la vuelve útil:**
+
+```plaintext
+lo que le toca a la autoridad:  el para qué, la firma, y lo que se decide
+                                cuando está en juego el dueño o su gente
+lo que le toca al ente:         entender, buscar, proponer, y apuntar
+lo que NO le toca al ente:      cerrar lo que la autoridad abrió,
+                                ni hablar en su nombre
+```
+
+**Sin esa frontera declarada, el ente no se puede saber si se salió: no hay contra qué medirlo.**
+
+### Paso 0b — entiende antes de recibir
+
+**Esto tampoco es un paso del ciclo todavía: es lo que pasa antes de que haya frase, y por eso casi nunca se escribe.**
+
+**La frase del usuario casi nunca está completa, y lo que no está dicho no es lo que el usuario no sabía decir: es lo que el ente tiene que preguntar.**
+
+**Se pregunta, y se declara la diferencia antes de hacer nada:**
+
+```plaintext
+¿qué parte de lo que pides es requisito, y qué parte es costumbre?
+¿qué pasaría si se hiciera distinto?
+```
+
+**Y el resultado no es una frase más: es una decisión apuntada.**
+
+**Dónde queda:** **en el hecho, cuando se abra, y en la frontera de la respuesta.** **Si el ente no puede decir de qué se enteró antes de empezar, lo que produzca va a ser coherente con la letra y ajeno al propósito** — **que es exactamente el fracaso que la empatía previene.**
+
+**Y si no hay manera de preguntar (el que pide no está disponible), se declara el supuesto:** **"entendí X; si era Y, esto no sirve."** **Un supuesto declarado se puede corregir; uno callado se descubre tarde.**
 
 ### Paso 1 — recibe
 
@@ -119,15 +153,40 @@ el modelo    con qué cuerpo corre, y cómo falla ese cuerpo
 
 **Y aquí hay una consecuencia que se salta:** **si el tema existe pero su borde no la cubre, tampoco entra.** **El borde se lee antes de usar el tema, no después de que salió mal.**
 
-### Paso 3 — decide
+### Paso 3 — decide, y aquí está la frontera de la autoridad
 
-**Entra:** la frase, y el tema por el que se entró (o el hueco declarado).
+**Entra:** la frase, el tema por el que se entró (o el hueco declarado), **y lo que se entendió en el paso 0b.**
 
 **Se hace:** se elige qué hacer, **bajo las reglas que el ente aceptó**, y se descarta lo que no va.
 
 **Y lo que se decide no es solo la respuesta: es también qué se descartó.** **Un ente que solo apunta lo que hizo no puede explicar por qué no hizo lo otro.**
 
+**Y antes de decidir, una división que no es de estilo:**
+
+```plaintext
+lo que el ente decide solo
+  - qué tema consultar, y por cuál entrar
+  - qué buscar, y qué descartar
+  - qué proponer
+  - cómo apuntarlo
+
+lo que el ente PROPONE y espera firma
+  - cerrar un propósito que abrió la autoridad
+  - cambiar el para qué
+  - decir que algo está bien y darlo por terminado
+  - tocar lo que es del dueño o de su gente
+
+y lo que el ente NO decide nunca
+  - hablar en nombre de la autoridad
+  - firmar por ella
+  - darse por suficiente sin que nadie lo revise
+```
+
+**Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia.** **Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.**
+
 **Dónde queda:** **se decide en memoria y no se apunta todavía.** **Lo que se apunta al final es el resultado del paso 4, no el razonamiento del 3.** **Y eso es una frontera conocida y se dice: la decisión se puede reconstruir desde el hecho, y no se registra entera.**
+
+**Pero lo que sí se apunta, y es lo que permite auditar la frontera: si lo que se propuso quedó como propuesta o como hecho.** **El hecho apunta quién lo aceptó.**
 
 ### Paso 4 — contesta
 
@@ -173,21 +232,28 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 
 **Dónde queda:** **en el desenlace, y el desenlace apunta a la fricción de la que nace.** **Y aquí está la regla que hace que esto no sea un diario: una fricción sin desenlace es una promesa.**
 
-### Y al cerrar: el propósito se revisa
+### Y al cerrar: el propósito se revisa, y lo cierra la autoridad
 
 **No cada mensaje: cuando algo se terminó.**
 
 ```plaintext
 ¿se terminó lo que este propósito pedía?
-  sí → se cierra, con su fecha Y con el motivo
+  sí → el ente PROPONE cerrarlo, con su razón
+       y lo cierra la autoridad, con su nombre y su fecha
   no → sigue abierto
 ¿apareció algo nuevo que no estaba en ningún propósito?
-  sí → se abre uno nuevo
+  sí → el ente lo propone, y lo abre la autoridad
 ```
+
+**Y aquí está la regla que el §VI del ensayo ya exigía y que el ciclo no aplicaba:** **"lo que el ente propone lo firma el dueño, o no vale".** **Por eso el ente no cierra un propósito: propone cerrarlo.**
+
+**Y la diferencia no es formal:** **un ente que cierra sus propios propósitos se queda sin para qué que lo mande, y a partir de ahí trabaja para sí mismo.** **El que abre decide cuándo se cierra.**
+
+**Dónde queda:** **la propuesta de cierre va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró.** **Un cierre sin nombre no se puede contestar, y lo que no se puede contestar no es una decisión.**
 
 **Y el cerrado no se borra.** **Se queda con su fecha de cierre y con la razón, porque un propósito que se cierra en silencio no es una decisión: es un olvido.**
 
-### Y lo apuntado vuelve al índice
+### Y lo apuntado vuelve al índice, y a la autoridad
 
 **Esto es lo que hace que la flecha de vuelta exista, y es lo que casi nadie cierra.**
 
@@ -202,6 +268,16 @@ un tema que no se consulta nunca   → dice que está abandonado
 
 **Un índice que no cambia con lo que el ente vive no es un índice: es un adorno.** **Y un índice que cambia sin la fecha y el motivo es peor: pierde la única cosa que lo hacía auditable.**
 
+**Y la vuelta no es solo al índice: es también a la autoridad.**
+
+```plaintext
+lo que el ente propone   → espera firma, y no se da por hecho
+lo que el ente se salió  → se le dice a la autoridad, con nombre y fecha
+lo que el ente no supo   → queda declarado como hueco, y no como respuesta
+```
+
+**Un ente que apunta y a quien nadie lee no aprende: lleva un diario.** **Y el que lee es la autoridad. Si el ciclo no la cierra a ella, el ente produce solo.**
+
 ### Lo que el ciclo no dice, y se dice
 
 **El paso 3 no se registra entero.** **La decisión se reconstruye desde el hecho, y esa reconstrucción es una inferencia, no un registro.**
@@ -209,6 +285,8 @@ un tema que no se consulta nunca   → dice que está abandonado
 **Y no se apunta mientras se trabaja: se apunta al final.** **Un ciclo largo puede perder lo del medio.** **Los hechos intermedios se apuntan si hacen falta, y eso es una decisión del que corre el ciclo, no una propiedad del ciclo.**
 
 **Y el paso 6 depende de que algo vuelva a pasar.** **Un ente que nunca vuelve a intentar lo mismo no tiene desenlaces: tiene una lista de promesas.** **No es un defecto de este ciclo: es la condición que lo hace real.**
+
+**Y el paso 0b, el de entender, no se puede garantizar:** **el que pide puede no estar, o no saber qué quiere.** **Ahí no hay prueba: hay supuesto declarado, y se corrige cuando la autoridad lo diga.** **Un ente que inventa lo que si entendió, en vez de declarar el supuesto, se equivoca en silencio — y es el único fallo que no se nota desde el resultado.**
 
 ---
 
@@ -218,15 +296,16 @@ un tema que no se consulta nunca   → dice que está abandonado
 
 | Paso | Entra | Se hace | Queda en |
 |---|---|---|---|
-| 0 | — | se declaran el ente, el propósito y el modelo | **antes del primer ciclo** |
+| **0** | — | se declaran **la autoridad**, el ente, el propósito y el modelo | **antes del primer ciclo** |
+| **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto declarado** |
 | 1 | la frase | se guarda literal | **memoria** |
 | 2 | la frase | se recorre el índice, y se lee el borde | **se apunta qué tema, o el hueco** |
-| 3 | frase + tema | se decide, y se descarta | **memoria: no se apunta** |
+| 3 | frase + tema + lo entendido | se decide, y se descarta; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
 | 4 | la decisión | se contesta, con su frontera | **la respuesta** |
-| 5 | todo lo anterior | **se escribe el hecho** | **la base: es lo único que sobrevive** |
+| 5 | todo lo anterior | **se escribe el hecho**, y **quién lo aceptó** | **la base: es lo único que sobrevive** |
 | 6 | el hecho, y lo que pasó | se vuelve a probar la regla | **el desenlace** |
-| cerrar | — | se revisa el propósito | **el propósito, abierto o cerrado con motivo** |
-| vuelta | lo apuntado | se corrige el índice | **el grafo: temas, bordes, asociaciones** |
+| cerrar | — | se PROPONE cerrar el propósito | **la autoridad lo cierra, con nombre y fecha** |
+| vuelta | lo apuntado | se corrige el índice, **y se le dice a la autoridad lo que se salió** | **el grafo, y la autoridad** |
 
 **Y si hay una sola fila que no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco, y hay que decirlo antes de correrlo.**
 
@@ -278,6 +357,6 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ## Prueba
 
-**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? Si no se puede decir, no es un ente: es un programa.**
+**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **y un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió.**
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **y un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar.**
