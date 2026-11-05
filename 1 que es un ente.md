@@ -11,7 +11,7 @@
 
 Un ente es **una unidad que recibe, decide y contesta, y que deja rastro de haber contestado.**
 
-Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si entiende, si siente, si es consciente. Esas son preguntas sin comprobación: no hay manera de abrir a nadie para ver si por dentro hay alguien. Lo que sí se puede ver es lo que entra, lo que sale, y la diferencia entre las dos cosas.
+Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si entiende, si siente, si es consciente. Eso no se puede comprobar: no hay manera de abrir a nadie para ver si por dentro hay alguien. Lo que sí se ve es lo que entra, lo que sale, y la diferencia entre las dos cosas.
 
 **La definición deja fuera a quien no contesta**, y deja fuera a quien contesta sin dejar marca. Un archivo estático no es un ente. Un modelo al que se le pregunta una vez y no conserva nada, tampoco: hay un intercambio, pero no hay rastro, y sin rastro no hay nada que sostener.
 
@@ -23,7 +23,7 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 **1. La entrada.** Lo que recibe, y de quién. Sin esto, el ente existe en el vacío: contesta preguntas que nadie le hizo.
 
-**2. La decisión.** Lo que hace con lo que recibe, bajo qué reglas, y qué descarta. Esta es la pieza que casi nunca se documenta, y es justo la que se puede examinar.
+**2. La decisión.** Lo que hace con lo que recibe, bajo qué reglas, y qué descarta. Casi nadie documenta esa pieza, y es la única que se puede examinar.
 
 **3. La salida.** Qué produce, y para quién. Un ente que produce algo que nadie consume no tiene salida: tiene basura con formato.
 
@@ -39,7 +39,7 @@ Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sost
 recibe → decide → contesta → apunta lo que hizo → se corrige
 ```
 
-**Y se corrige con qué:** con lo que apuntó. Si el paso cuarto no existe, el quinto tampoco puede: un ente sin rastro no tiene con qué corregirse. Se repite igual, y a eso se le llama constancia.
+**Y se corrige con qué:** con lo que apuntó. Si el paso cuarto no existe, el quinto tampoco puede: un ente sin rastro no tiene con qué corregirse. Se repite igual, y a eso le llamamos constancia.
 
 **El bucle no se cierra solo.** Lo que lo cierra es que alguien lea el rastro y actúe. Un ente que apunta y a quien nadie lee no está aprendiendo: está llevando un diario.
 

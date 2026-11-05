@@ -33,7 +33,7 @@ Un texto sin forma de proceso no puede ser refutado ni obedecido dos veces igual
 
 ## III. Lo que convierte un texto en proceso
 
-No se trata de que el proceso sea largo. Se trata de cinco cosas, y cada una existe para cerrar un hueco específico antes de que alguien lo llene.
+No es que el proceso tenga que ser largo. Son cinco cosas, y cada una cierra un hueco específico antes de que alguien lo llene.
 
 **1. Cuándo se corre.** Sin esto, el proceso queda disponible para siempre y por eso nunca ocurre. Lo que no dice cuándo ocurre, no ocurre: se guarda para la ocasión, y la ocasión no llega sola.
 

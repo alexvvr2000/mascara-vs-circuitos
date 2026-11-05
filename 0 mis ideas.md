@@ -84,7 +84,7 @@
 ### 11. El esfuerzo es lo único que no llegó con la máquina
 
 **Vive en:** `9 conciencia.md`, sección VII.
-**Qué sostiene:** lo que la máquina no trajo es el esfuerzo, y **lo que se destruye al quitar los seguros para ir más rápido es justo eso**. **La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos.** **Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.**
+**Qué sostiene:** lo que la máquina no trajo es el esfuerzo, y **lo que se destruye al quitar los seguros para ir más rápido es eso mismo**. **La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos.** **Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.**
 **Qué lo sostiene:** **el caso está en el propio repositorio.** **Una alucinación se escribió y se corrigió, cuando lo barato era dejarla pasar.** **Y ese renglón, corregido a mano, es la prueba de que el esfuerzo dejó marca.**
 **Qué la tumba:** ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 

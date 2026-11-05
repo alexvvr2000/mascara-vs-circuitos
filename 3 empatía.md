@@ -31,7 +31,7 @@ De ahí que buscar el estándar antes que el entendimiento sea **más barato a c
 
 ## III. La empatía no es amabilidad: es instrumentación
 
-Conviene quitarle a la palabra el tono de buena voluntad, porque aquí no se trata de buena voluntad.
+Hay que quitarle a la palabra el tono de buena voluntad, porque aquí no es eso.
 
 **La empatía, en este contexto, es la práctica de averiguar cómo está hecha la otra parte antes de pedirle algo.** No es sentir lo que siente. Es **modelar lo que puede y lo que no**, y ajustar el pedido a ese modelo en vez de ajustarlo al gusto propio.
 

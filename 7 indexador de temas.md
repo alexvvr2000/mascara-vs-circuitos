@@ -117,7 +117,7 @@ Este ensayo propone una **inversión** de una práctica que ya existe. Lo que an
 **Por qué esa inversión no es un detalle de orden, sino la pieza entera.** Si el texto es la fuente, el grafo es una interpretación de los datos: puede estar mejor o peor construido, pero siempre depende de lo que el texto diga. Si el grafo es la fuente, entonces **la forma del conocimiento es un dato propio**, y el texto es el que se adapta. Y de ahí salen tres cosas que con el orden habitual no se pueden hacer:
 
 1. **Se puede tirar y reconstruir.** Si el índice derivado sale mal, se bota y se vuelve a armar; **no se perdió nada**, porque la forma vive aparte.
-2. **El cambio queda dicho en la estructura, no en la costumbre.** Cuando un tema se divide o se supera, **el acto queda registrado y fechado**, y no en el hecho de que alguien renombró una carpeta.
+2. **El cambio queda escrito en la estructura, no en la costumbre.** Cuando un tema se divide o se supera, **el acto queda registrado y fechado**, y no en el hecho de que alguien renombró una carpeta.
 3. **Se puede preguntar por lo que se dejó de sostener.** Un tema superado sigue ahí, con su fecha y su motivo. **Con el grafo derivado del texto, lo que ya no se usa desaparece sin dejar rastro.**
 
 **Lo que este ensayo NO hace:** no se presenta como un resultado que reemplace a los anteriores, ni como una mejora medida de nada. **No se midió contra GraphRAG.** Se presenta como **una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer, no en lo que demuestra ser mejor**, y que quien lo lea puede probar y refutar con lo que ya existe.
