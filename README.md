@@ -7,34 +7,36 @@
 ```plaintext
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-   LUCHA DE APUESTAS
+   LUCHA DE APUESTAS · RESULTADO
 
-   Esquina derecha: Alejandro Valenzuela Rivera.
-   Esquina izquierda: la industria.
-   En la mesa: máscara contra cabellera.
+   Ganó: Alejandro Valenzuela Rivera.
+   Cayó: la industria, que se quedó sin máscara
+         y con la cabellera en la lona.
 
-   Y que quede claro desde el anuncio:
-   aquí no hay buenos. Los dos somos rudos.
+   No hubo buenos: los dos eran rudos.
+   De este lado porque aprendió el oficio a madrazos.
+   Del otro porque lleva veinte años diciendo
+   que el oficio no existe.
 
-   Del otro lado, nadie lleva máscara:
-   lo que trae es un curso de viernes y un prompt.
-
-   De este lado, el récord:
+   Récord del que ganó:
       10 días de esquina
       9 565 mensajes tirados
       31 760 464 tokens de voz
       4 293 493 888 de caché leída
       y un modelo que no cambió en 9 556 de 9 565
 
-   El que caiga, se quita la máscara y se deja pelón.
+   Y el acta, que es lo único que importa:
+      lo que se sostuvo y se cayó: 68 caídas
+      de las que 55 no se han vuelto a probar
 
-   Y una advertencia para el récord:
-   los tokens no pelean. Aquí lo único que pelea
-   es lo que se sostuvo y se cayó, y eso son 68 caídas
-   de las que 55 no se han vuelto a probar.
+   El cartel vendió una pelea.
+   Esto es lo que quedó de ella.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
+
+**El cartel es la forma. Lo que se apuesta aquí fue en serio: once tesis, cada una con su falsificador, y un registro que dice qué se cayó.**
+
 
 ---
 
