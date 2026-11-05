@@ -64,6 +64,8 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 
 **11. ¿Por cuál tema entró?** **Sin esto, el registro dice qué se pensó y no de dónde salió la idea.** **Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.**
 
+**12. ¿Qué se supuso, y en qué quedó?** **Sin esto, el hecho se apoya en algo que nadie confirmó, y no se puede saber cuánto.** **Y el estado tiene que existir, porque un supuesto que nunca se cierra se lee después como si estuviera confirmado.**
+
 **Y el que se puede dejar vacío, y decirlo:** **el tema.** **Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.** **Pero un hecho sin modelo o sin propósito no se puede dejar vacío: sin esos dos, el hecho no se puede juntar con nada.**
 
 ### Las preguntas, y las columnas que las guardan
@@ -80,6 +82,7 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 | ¿De qué modelo salió? | `modelo_id` |
 | ¿Para qué se hizo? | `proposito_id` |
 | ¿Por cuál tema entró? | `tema_id` |
+| ¿Qué se supuso, y en qué quedó? | `supuesto`, `supuesto_estado` |
 | El error, su razón, su señal, su corrección | `el_error`, `por_que_era_creible`, `como_se_reconoce`, `que_hago_en_su_lugar` |
 | ¿Quién la corrigió? | `quien_lo_corrigio` |
 | ¿De qué hecho nació? | `hecho_id` |
@@ -149,6 +152,6 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 
 ## Prueba
 
-**¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?**
+**¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Cada hecho dice qué se supuso, y en qué quedó ese supuesto? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?**
 
-**Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo; **un hecho sin modelo, que no se puede separar de la inclinación del cuerpo que lo produjo**; **un hecho sin propósito, que no se puede juntar con nada de lo que el ente estaba haciendo**; **y un registro que dice qué se hizo y no de dónde salió la idea.**
+**Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo; **un hecho sin modelo, que no se puede separar de la inclinación del cuerpo que lo produjo**; **un hecho sin propósito, que no se puede juntar con nada de lo que el ente estaba haciendo**; **un registro que dice qué se hizo y no de dónde salió la idea**; **y un supuesto que se escribió y nunca se cerró, que después se lee como si estuviera confirmado.**

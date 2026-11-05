@@ -102,20 +102,40 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 **Un borde no se evalúa en el aire: se evalúa contra algo.** **Y ese algo es una pieza, que es cualquier cosa que se quiera meter en el tema: un hecho, un documento, una pregunta, una URL.** **Si no se dice qué es una pieza, el borde no se puede correr.**
 
-**El borde, en su forma mínima, son tres partes:**
+**El borde, en su forma mínima, son cuatro partes, y la cuarta es la que se olvida:**
 
 ```plaintext
-entra_si      la condición que la pieza tiene que cumplir. Se evalúa
-              contra los atributos de la pieza, y da sí o no
-no_entra      la lista de casos por nombre: los que alguien ya intentó
-              meter y no eran del tema
-y si duda     qué se hace cuando la condición no da ni sí ni no.
-              No se deja a criterio del que consulta: se dice aquí
+quién evalúa  una máquina o una persona. Y esto se declara, no se supone
+entra_si      la condición que la pieza tiene que cumplir
+no_entra      los casos por nombre: los que alguien ya intentó meter
+              y no eran del tema
+y si duda     qué se hace cuando la condición no da ni sí ni no
 ```
 
 **Y `y si duda` no es un adorno.** **Es el caso que hace que dos lectores clasifiquen distinto:** **cuando la pieza es casi lo que el borde pide.** **Si el borde no dice qué hacer con el casi, el borde está incompleto, y no el lector.**
 
-**Y la prueba del borde, corriéndola:**
+### Quién evalúa, que es la parte que se descubre al correrlo
+
+**Aquí está la trampa que no se ve escribiendo el ensayo, y que sí se ve cuando el ciclo se corre de verdad.**
+
+**Un borde escrito en prosa no lo puede evaluar una máquina.** **"trata de mover, renombrar o reestructurar los ensayos" no es una condición: es una descripción.** **Una máquina no la puede correr, así que en la práctica lo evalúa una persona — o peor, lo evalúa el ente con la primera regla que se le ocurra, y a eso le llama "consultar el borde".**
+
+**Y ahí el borde deja de ser un borde: se vuelve la impresión del que consulta.** **Y la prueba de los dos lectores falla, no porque el borde esté mal escrito, sino porque nunca hubo borde.**
+
+**Por eso `quién evalúa` va en el borde y no en una nota al pie:**
+
+```plaintext
+lo evalúa una máquina   → se escribe como condición sobre los atributos
+                          de la pieza: campo, operador, valor
+lo evalúa una persona   → se escribe como criterio, y se dice QUIÉN lo
+                          evalúa, con nombre, y desde cuándo
+```
+
+**Las dos son legítimas.** **Lo que no es legítimo es la tercera: un borde en prosa que nadie sabe quién evaluó.** **Ese es el que produce discusiones eternas, porque cada quien lo leyó distinto y nadie puede señalar dónde.**
+
+**Y cuando lo evalúa una persona, su decisión se apunta como se apunta todo:** **qué pieza, dentro o fuera, quién la clasificó, y con qué razón.** **Sin eso, el borde humano es tan insondable como el que no existe.**
+
+### Y la prueba del borde, corriéndola
 
 ```plaintext
 1. se toma una pieza que el borde debería aceptar
@@ -126,6 +146,8 @@ y si duda     qué se hace cuando la condición no da ni sí ni no.
 ```
 
 **Sin el paso 3, la prueba pasa siempre y no dice nada: un borde que acepta todo y otro que rechaza todo también clasifican igual a los extremos.**
+
+**Y antes de los cuatro pasos, uno que se salta:** **el borde tiene que decir si lo evalúa una máquina o una persona.** **Un borde que no lo dice no se puede correr, y por eso no se puede probar.**
 
 ---
 

@@ -147,7 +147,19 @@ nunca                        por ella, ni darse por suficiente
 
 **Y si no hay manera de preguntar (el que pide no está disponible), se declara el supuesto:** **"entendí X; si era Y, esto no sirve."** **Un supuesto declarado se puede corregir; uno callado se descubre tarde.**
 
-**Y el supuesto no se queda en el aire: se guarda con el hecho, y con él se puede saber cuánto de lo que se hizo se apoyó en algo que nadie confirmó.** **Un supuesto que se cumplió se cierra diciéndolo; uno que no se cumplió se vuelve fricción, porque el ente entendió mal y actuó sobre eso.**
+**Y el supuesto no se queda en el aire: se guarda con el hecho, y tiene estado. Son tres, y el tercero es el que se olvida:**
+
+```plaintext
+pendiente  nadie lo confirmó ni lo negó todavía
+cumplido   se confirmó. Se apunta con qué
+roto       no se cumplió. Y entonces es una fricción, no una nota
+```
+
+**Un supuesto `pendiente` no es un hueco: es un dato, y de los honestos.** **El hecho quedó apoyado en algo que nadie confirmó, y eso se puede contar.**
+
+**Pero un supuesto que nunca se cierra no se queda olvidado: vuelve.** **Cuando aparece la misma clase de hecho otra vez, el supuesto pendiente se pregunta antes de repetir.** **Un supuesto que nadie volvió a mirar es peor que ninguno, porque se leyó como si estuviera confirmado.**
+
+**Y `roto` no se anota en el hecho: se anota en la fricción.** **Porque el error es del ente, que entendió mal, y no del que pidió.** **Y la fricción ya tiene su campo: por qué era creíble.** **"Lo supuse porque no había con quién confirmar" es un porqué perfectamente válido, y de los que más se repiten.**
 
 ### Paso 1 — recibe
 
@@ -273,6 +285,10 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 
 **Dónde queda:** **la propuesta de cierre va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró.** **Un cierre sin nombre no se puede contestar, y lo que no se puede contestar no es una decisión.**
 
+**Y el nombre no basta: tiene que ser la autoridad, y tiene que poder comprobarse.** **Si el cierre guarda un nombre escrito a mano, el ente puede escribir "lo cerró Alejandro" sin que Alejandro lo haya tocado, y el esquema lo va a dejar pasar.**
+
+**Por eso el cierre apunta a la autoridad declarada, y no a un texto libre.** **Es la diferencia entre decir "me autorizaron" y poder señalar quién, cuándo, y con qué.** **Lo apuntado tiene que poder contestarse; lo escrito a mano, no.**
+
 **Y el cerrado no se borra.** **Se queda con su fecha de cierre y con la razón, porque un propósito que se cierra en silencio no es una decisión: es un olvido.**
 
 ### Y lo apuntado vuelve al índice, y a la autoridad
@@ -319,14 +335,14 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 | Paso | Entra | Se hace | Queda en |
 |---|---|---|---|
 | **0** | — | se declaran **la autoridad**, el ente, el propósito y el modelo | **antes del primer ciclo** |
-| **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto declarado** |
+| **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
 | 1 | la frase | se guarda literal | **memoria** |
 | 2 | la frase | se recorre el índice, y se lee el borde | **se apunta qué tema, o el hueco** |
 | 3 | frase + tema + lo entendido | se decide, y se descarta; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
 | 4 | la decisión | se contesta, con su frontera | **la respuesta** |
 | 5 | todo lo anterior | **se escribe el hecho**, y **quién lo aceptó** | **la base: es lo único que sobrevive** |
 | 6 | el hecho, y lo que pasó | se vuelve a probar la regla | **el desenlace** |
-| cerrar | — | se PROPONE cerrar el propósito | **la autoridad lo cierra, con nombre y fecha** |
+| cerrar | — | se PROPONE cerrar el propósito | **la autoridad declarada lo cierra: apunta a ella, no a un texto** |
 | vuelta | lo apuntado | se corrige el índice, **y se le dice a la autoridad lo que se salió** | **el grafo, y la autoridad** |
 
 **Y si hay una sola fila que no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco, y hay que decirlo antes de correrlo.**
