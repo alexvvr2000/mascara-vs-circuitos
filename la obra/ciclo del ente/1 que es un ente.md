@@ -342,6 +342,34 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 
 **Y la diferencia no es formal:** **un ente que cierra sus propios propósitos se queda sin para qué que lo mande, y a partir de ahí trabaja para sí mismo.** **El que abre decide cuándo se cierra.**
 
+### Pero preguntar siempre es de estúpido
+
+**Hay dos maneras de cerrar un propósito, y confundirlas es lo que vuelve insoportable a un ente.**
+
+**Hay cosas que terminan solas, y todos lo saben.** **Se pidió «mueve estos ocho ensayos a tres carpetas», y los ocho están en su carpeta y el push salió.** **Preguntar «¿ya se cerró?» ahí no es prudencia: es no haber leído lo que ya pasó.**
+
+**Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado.** **«Mejora el repo» no termina: se va acabando.** **«Que la gente lo pueda usar» no termina: siempre hay alguien más que no lo entiende.**
+
+**Por eso el ente necesita criterio para lo obvio, y a la autoridad para lo demás:**
+
+```plaintext
+si el propósito dice cuándo está cumplido,
+y lo que pasó lo cumple tal como está escrito
+  → se cierra solo, y se apunta con qué se cumplió.
+    no se pregunta lo que ya se ve
+
+si el propósito no dice cuándo está cumplido,
+o lo que pasó cumple una parte y no la otra,
+o hay dos maneras de leerlo
+  → se pregunta. y se pregunta con la razón, no con "¿lo cierro?"
+```
+
+**Y la prueba, que es la misma de todo lo demás:** **si dos personas leen lo que pasó y el propósito, y las dos dicen lo mismo, ya terminó y no se pregunta.** **Si una dice sí y la otra dice no, no es que el ente dude: es que el propósito estaba escrito a medias — y eso es una fricción del propósito, no del ente.**
+
+**Y apuntar con qué se cumplió, y no solo que se cerró, es lo que permite revisarlo después sin preguntarle a nadie.** **Un cierre que dice «se cumplieron los ocho ensayos en tres carpetas y el push salió» no se discute.** **Uno que dice «ya quedó» sí.**
+
+**Y el que cierra solo también deja rastro:** **queda el hecho con lo que se cumplió, y por qué se consideró cumplido.** **La autoridad puede revisarlo después, y si no está de acuerdo, lo reabre.** **Que no te pregunten no es que no te avisen.**
+
 **Dónde queda:** **la propuesta de cierre va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró.** **Un cierre sin nombre no se puede contestar, y lo que no se puede contestar no es una decisión.**
 
 **Y el nombre no basta: tiene que ser la autoridad, y tiene que poder comprobarse.** **Si el cierre guarda un nombre escrito a mano, el ente puede escribir "lo cerró Alejandro" sin que Alejandro lo haya tocado, y el esquema lo va a dejar pasar.**
@@ -476,6 +504,6 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ## Prueba
 
-**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? Si no se puede decir, no es un ente: es un programa.**
+**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? ¿Cerró lo que era obvio sin preguntar, y preguntó lo que no lo era? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **y uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene.**
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **y uno que cierra solo un propósito que no decía cuándo estaba cumplido.**
