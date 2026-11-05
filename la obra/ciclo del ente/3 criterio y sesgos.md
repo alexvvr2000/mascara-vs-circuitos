@@ -61,6 +61,12 @@ No es una lista completa, y no pretende serlo. Son los cuatro que, en la prácti
 
 **3. De fuente.** Prefiere lo que su entrenamiento vio más, y lo que no vio lo rellena con lo que se le parece. Es el sesgo que produce afirmaciones correctas en la superficie y falsas en el dato. Se reconoce por una señal: **lo que no se abrió se presenta como si se hubiera abierto.**
 
+**Y dentro de este hay una forma que engaña más que el relleno, y se apunta aparte porque cuesta más de cazar: la cita que existe.**
+
+**Un ente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Y la forma es tan buena que nadie nota el hueco.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.**
+
+**Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma.** **Eso se vio en la corrida 6: el renglón citado existía, y la norma que el renglón decía reportar no se puede abrir.** **El ente no había leído la norma, y no estaba mintiendo: estaba citando a un tercero como si hubiera leído el original.**
+
 **4. De autoridad.** Tiende a no contradecir a quien ya dijo algo con seguridad, incluido él mismo en la respuesta anterior. En un ente con memoria, este sesgo **se propaga**: una afirmación vieja empieza a pesar más que la evidencia nueva, no porque sea mejor, sino porque ya está escrita.
 
 ---
@@ -121,6 +127,54 @@ Tres cosas, y las tres son de forma, no de buena voluntad.
 
 ---
 
+## VI. De dónde salió esto: declarar, no alucinar
+
+**Esto lo dejó a la vista la corrida 6, y es la regla que le faltaba al ensayo.**
+
+**Un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.** **Y así lo hacen casi todos los agentes que se venden hoy.**
+
+**La salida no es prohibirle contestar. Es obligarlo a decir con qué.**
+
+**Antes de la respuesta, el ente declara de dónde salió lo que va a decir, y hay cuatro estados, y no hay un quinto:**
+
+```plaintext
+con fuente abierta     la abrió, y el renglón quedó escrit
+                       antes de contestar
+de memoria             lo afirma sin fuente, y LO DICE: "esto lo
+                       afirmo de memoria, y no tengo fuente"
+cita de tercero        la fuente que cita no es el original: es
+                       alguien que reporta el original, y se dice
+fuente cerrada         la fuente existe y no se puede abrir, y eso
+                       también se dice
+```
+
+**Y la regla que lo hace servir, en una línea:**
+
+> **Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.**
+
+**Declarar no es una disculpa: es la respuesta completa.** **Al que dice "no tengo fuente" se le puede preguntar; al que dice el dato con seguridad no se le puede preguntar nada, porque ya cerró.**
+
+**Y hay una consecuencia que obliga a más que a declarar: la fuente se declara ANTES del hecho, no después.** **Si se declara después, se acomoda a lo que ya se dijo, y entonces no es un control: es una justificación.**
+
+### Y cuando la fuente no se puede abrir, que es el caso normal en las normas
+
+**Lo que se aprendió en la corrida 6, y no es un detalle de México: muchas normas no son descargables por derechos.**
+
+**Ahí hay dos maneras de citar, y solo una sirve:**
+
+```plaintext
+lo que NO se hace      "según la NMX-C-486, el mortero Tipo II..."
+                       cuando el texto de la norma no se abrió
+lo que SÍ se hace      "la NMX-C-486 está vigente (catálogo de la
+                       Secretaría de Economía, DOF 2014-11-07); el
+                       dato del Tipo II lo reporta [quien lo reporta],
+                       y el texto de la norma no se pudo abrir"
+```
+
+**Y cuando dos fuentes se contradicen y ninguna se puede abrir para desempatar, no se elige: se apunta la contradicción.** **Un empate inventado es peor que una contradicción dicha, porque el empate se lee como una conclusión y la contradicción se lee como lo que es: algo que falta.**
+
+---
+
 ## VII. Por qué esto importa más aquí que en cualquier otro lado
 
 Porque el ente no es una persona. Una persona con sesgo puede **advertirlo** con la cara, con la duda, con un "no estoy seguro". Un ente no tiene cara: **lo que dice suena igual de firme cuando sabe y cuando rellena.** Si el ente no pone el sesgo en el registro, no queda en ningún lado.
@@ -141,6 +195,6 @@ Mientras eso no esté en el registro, el ente sigue teniendo razón sobre lo que
 
 ## Prueba
 
-**¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Se declaró el modelo antes del primer hecho, y los hechos viejos se quedaron con el que los hizo?**
+**¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Se declaró el modelo antes del primer hecho, y los hechos viejos se quedaron con el que los hizo? ¿Cada afirmación declara de dónde salió —con fuente abierta, de memoria, de un tercero, o de una fuente que no se pudo abrir— antes de que se escriba el hecho? ¿Y cuando dos fuentes se contradicen y la original no se puede abrir, se apunta la contradicción, o se elige a gusto?**
 
-**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; **un modelo declarado después de haber escrito hechos, que los deja sin cuerpo**; **un hecho con dos modelos, que no se puede atribuir a ninguno**; **y un modelo borrado del registro que deja hechos huérfanos.**
+**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; **un modelo declarado después de haber escrito hechos, que los deja sin cuerpo**; **un hecho con dos modelos, que no se puede atribuir a ninguno**; **un modelo borrado del registro que deja hechos huérfanos**; **un dato sin declaración de origen, presentado como si tuviera fuente**; **una norma citada como si se hubiera leído, cuando su texto no se puede abrir**; **una fuente declarada después del hecho, que se acomoda a lo que ya se dijo**; **y una contradicción entre dos fuentes resuelta sin decirlo.**

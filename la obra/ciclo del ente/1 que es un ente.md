@@ -199,7 +199,22 @@ roto       no se cumplió. Y entonces es una fricción, no una nota
 
 **Se hace:** se guarda **literal**. **No se parafrasea, y no se "arregla" la forma.**
 
-**Dónde queda:** en el hecho que se abre, y **todavía no se escribe nada:** el hecho no existe hasta que termina el ciclo. **Lo que se guarda aquí es la frase.**
+**Y en el mismo paso, antes de contestar nada, se declara de dónde va a salir lo que se diga.** **Esto lo dejó a la vista la corrida 6, y es lo que separa a un ente de un agente:**
+
+```plaintext
+con fuente abierta   la abrió, y el renglón quedó escrito ANTES
+de memoria           lo afirma sin fuente, y LO DICE
+cita de tercero      quien lo reporta no es el original, y se dice
+fuente cerrada       existe y no se puede abrir, y se dice igual
+```
+
+> **Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.**
+
+**Porque un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Y la forma es tan buena que nadie nota el hueco.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.**
+
+**Y la declaración va antes del hecho, no después.** **Declarada después, se acomoda a lo que ya se dijo, y entonces no es un control: es una justificación.**
+
+**Dónde queda:** en el hecho que se abre, y **todavía no se escribe nada:** el hecho no existe hasta que termina el ciclo. **Lo que se guarda aquí es la frase, y lo que la acompaña es su origen.**
 
 ### Paso 2 — consulta el índice (antes de decidir)
 
@@ -324,9 +339,13 @@ qué no se sabía             lo que el ciclo añadió al mapa, o "nada"
 el tema por el que se entró del paso 2, o el hueco
 el propósito al que sirvió  del paso 0
 el modelo que lo produjo    del paso 0
+de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
+                            tercero, o de una fuente que no se abrió
 ```
 
 **Y si algo de eso falta, no se rellena: se dice que falta.** **Un campo vacío con una frase que lo disimula es peor que el campo vacío.**
+
+**Y la regla que la corrida 6 dejó y que aquí cambia el ciclo a la mitad: el hecho que dice haber salido de una fuente no se puede apuntar sin ella.** **Si el ente afirmó de memoria, el hecho lo dice; si afirmó de una fuente, la fuente se apunta antes, y el hecho cuelga de ella.** **Un hecho que dice "lo leí" y no deja dónde, es un hecho que no se puede revisar.**
 
 **Dónde queda:** **aquí sí se escribe, y es lo primero que se escribe en el ciclo.** **Todo lo anterior existió en memoria; esto es lo único que sobrevive.**
 
@@ -466,11 +485,11 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 |---|---|---|---|
 | **0** | — | se declaran **la autoridad**, el ente, el propósito y el modelo | **antes del primer ciclo** |
 | **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
-| 1 | la frase | se guarda literal | **memoria** |
+| 1 | la frase | se guarda literal, **y se declara de dónde sale lo que se va a decir** | **memoria, con su origen: fuente, memoria, tercero, o fuente cerrada** |
 | 2 | **la pieza**: texto, campos y origen | se recorre el índice; el borde mira los **campos**, no el texto | **se apunta qué tema, el hueco, o que el casi se pregunta** |
 | 3 | frase + tema + lo entendido | se decide, y se descarta; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
 | 4 | la decisión | se contesta, con su frontera | **la respuesta** |
-| 5 | todo lo anterior | **se escribe el hecho**, y **quién lo aceptó** | **la base: es lo único que sobrevive** |
+| 5 | todo lo anterior | **se escribe el hecho**, con su origen y **quién lo aceptó** | **la base: es lo único que sobrevive** |
 | 6 | el hecho, y lo que pasó | se vuelve a probar la regla | **el desenlace** |
 | cerrar | — | el ente PROPONE cerrar, y **espera** | **la autoridad contesta sí o no. Si no contesta, sigue abierto** |
 | vuelta | lo apuntado | se corrige el índice, **y se le dice a la autoridad lo que se salió** | **el grafo, y la autoridad** |
@@ -525,6 +544,6 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ## Prueba
 
-**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? ¿Cerró lo que era obvio sin preguntar, y preguntó lo que no lo era? Si no se puede decir, no es un ente: es un programa.**
+**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? ¿Cerró lo que era obvio sin preguntar, y preguntó lo que no lo era? ¿Y antes de contestar declaró de dónde salía lo que iba a decir? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **y uno que cierra solo un propósito que no decía cuándo estaba cumplido.**
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; **y uno que contesta con seguridad sin declarar que lo está diciendo de memoria**.
