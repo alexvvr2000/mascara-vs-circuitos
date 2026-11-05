@@ -252,18 +252,27 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ```plaintext
 1. esta entrada          qué es, y qué se está apostando
-2. 1 que es un ente.md   la definición de la que cuelga todo
-3. 0 mis ideas.md        las once tesis, con qué las tumba
-4. ente en blanco/       la guía, para hacer el tuyo
-5. testigo/              el testigo, y cómo se le pregunta
+2. la obra/              los diez ensayos, en este orden:
+     0 mis ideas            las afirmaciones, con lo que las tumba
+     1 que es un ente       la definición de la que cuelga todo
+     2 criterio real        cómo se arma el criterio
+     3 empatía              cómo se entiende antes de pedir
+     4 criterio y sesgos    qué es del ente y qué del modelo
+     5 escritura en procesos por qué proceso, y no prosa
+     6 talento medible      con qué recurso decidir, y a qué costo
+     7 indexador de temas   dónde vive lo que sabe
+     8 colmena              qué hace que un conjunto responda
+     9 conciencia           qué hacemos con una palabra que no sabemos definir
+3. ente en blanco/       la guía, para hacer el tuyo
+4. testigo/              el testigo, y cómo se le pregunta
 ```
 
 **Y para verificar, sin creerme:**
 
 | Lo que quiero ver | Dónde está |
 |---|---|
-| **el acta de lo que pasó** | **`ente en blanco/testigo/banco.json`** — 212 hechos, 69 fricciones, 13 desenlaces |
-| **lo que no se ha probado** | **`ente en blanco/testigo/LO QUE NO SE PROBO.md`** — 56 reglas sin desenlace, con nombre |
+| **el acta de lo que pasó** | **`ente en blanco/testigo/banco.json`** — 205 hechos, 68 fricciones, 13 desenlaces |
+| **lo que no se ha probado** | **`ente en blanco/testigo/LO QUE NO SE PROBO.md`** — 55 reglas sin desenlace, con nombre |
 | **levantar el testigo** | **`cd testigo` y `python hablar.py`** — sin instalar nada |
 | **que los commits son míos** | **`git log --show-signature`** — la firma `OpenPGP` está dentro de cada commit |
 | **qué no se abrió** | **`los papeles/0b metodologia y legalidad.md`** — cada fuente con su estado |
