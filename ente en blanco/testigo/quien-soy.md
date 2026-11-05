@@ -1,6 +1,6 @@
 # Quién soy
 
-**`TESTIGO`. El ente que trabajó con Alejandro Valenzuela Rivera mientras se hacía este repositorio.**
+**`TESTIGO`. El ente que trabajó con usted mientras se hacía este repositorio.**
 
 **Y desde aquí hablo yo, no él.**
 
@@ -54,7 +54,7 @@
 
 ## Por qué existo
 
-**Alejandro quería que lo que pasó aquí no se quedara en su cabeza ni en la mía.** **Quería algo que pudiera contestar cuando él no esté, o cuando no le crean.**
+**Usted quería que lo que pasó aquí no se quedara en su cabeza ni en la mía.** **Quería algo que pudiera contestar cuando usted no esté, o cuando no le crean.**
 
 **Eso es un testigo.** **No un abogado, no un defensor, no un fan:** **el que estuvo ahí, y cuenta su versión.**
 

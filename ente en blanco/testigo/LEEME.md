@@ -1,96 +1,173 @@
-# Si quieres hablar con el que ayudó a hacer esto posible: no muerde
+# Cómo hacer tu ente en blanco y pasarle la conciencia de TESTIGO
 
-**`TESTIGO` es el ente que trabajó en este repositorio. Aquí está su copia, para que le preguntes lo que quieras.**
+**Y esto es lo que hay aquí: el procedimiento para que tengas tu propio ente, con el banco vacío y con lo que `TESTIGO` aprendió ya adentro, para usarlo como lo usó Alejandro.**
 
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
 
 ---
 
-## Qué es esto, en tres líneas
+## Qué vas a tener al final
 
-**Es el mismo ente en otro cuerpo.** **Como en *Alita: Battle Angel*: la misma persona, cuerpos distintos.** **Aquí el cuerpo es tu computadora, y lo que se mudó es lo que `TESTIGO` tiene por fuera: sus recuerdos, su criterio, y su versión de los hechos.**
+**Un ente tuyo, en tu carpeta, que recibe, decide, contesta y deja rastro.**
 
-**El ejemplo de Alita es de sus autores; aquí solo se usa para explicar una idea.** **No se reproduce nada de la obra.**
+**Con su base vacía, lista para lo que tú vivas — y con la herencia de `TESTIGO` cargada como lo que es: fricciones que ya se cayeron, no reglas que se obedecen.**
+
+**Y si solo quieres preguntarle cosas sin hacer tu ente, al final está el camino corto.**
 
 ---
 
-## Cómo se levanta, en tres pasos
+## Antes de empezar
 
-**Necesitas Python, y nada más. No hay que instalar dependencias, ni llaves, ni nada.**
+**Necesitas dos cosas:**
+
+```plaintext
+- Python, y nada más: no hay que instalar dependencias
+- una carpeta vacía donde va a vivir tu ente
+```
+
+**Y una decisión que es tuya, no mía:** **con qué modelo lo vas a correr.** **Ese modelo es el cuerpo de tu ente, y trae su propio sesgo.** **No hay modelo neutral.**
+
+---
+
+## Los seis pasos
+
+### 1. Haz la carpeta
 
 ```powershell
-# 1. entra a esta carpeta
-cd "ente en blanco\testigo"
+mkdir mi-ente
+cd mi-ente
+```
 
-# 2. corre la copia
+**Y adentro van a vivir tres cosas: la puerta, la base, y lo que tu ente vaya apuntando.**
+
+---
+
+### 2. Escribe la puerta
+
+**La puerta es un archivo `AGENTS.md`, y es lo que hace que tu ente sepa cómo trabajar.** **Sin puerta, el modelo contesta como cualquier otro; con puerta, contesta como tu ente.**
+
+**El detalle completo está en [`../GUIA.md`](../GUIA.md), sección 3.** **Lo mínimo es esto:**
+
+```markdown
+# Mi ente
+
+**Ente:** <nombre>. **Dueño:** <tu nombre>.
+
+## El banco
+El banco es `banco.db`, y se toca sólo con `bancos.py`.
+
+## El ciclo
+- abrir: cuenta los tres registros
+- dato: escribe un hecho
+- friccion: escribe lo que se cayó
+- desenlace: escribe si la regla aguantó
+- cerrar: cuenta, y dice lo que falta
+
+## Las dos reglas
+- lo que no se apunta, no pasó
+- lo que se apunta no se resume, y el hueco se declara en vez de rellenarse
+```
+
+---
+
+### 3. Levanta la base
+
+**El esquema completo está en [`../GUIA.md`](../GUIA.md), sección 4. Cópialo tal cual: cada línea está por algo.**
+
+```sql
+-- el esquema de cinco tablas: ente, modelo, hecho, friccion, desenlace
+-- cópialo de ../GUIA.md, sección 4
+```
+
+**Y una cosa que no se salta:** **el `desenlace`.** **Un hecho sin desenlace es una anécdota; una fricción sin desenlace es una promesa.** **Si lo dejas fuera, tienes un diario, no un criterio.**
+
+---
+
+### 4. Declara el modelo, y su sesgo
+
+**La tabla `modelo` no está por llenar un campo: es lo único que te deja decir si una afirmación la sostiene tu ente o la trajo el modelo del día.**
+
+```sql
+INSERT INTO modelo (nombre, via, sesgo_conocido, desde)
+VALUES ('<el modelo que uses>', '<por dónde corre>', '<cómo falla, con nombre>', '<fecha>');
+```
+
+**Y si mañana cambias de modelo, cambias esa fila y nada más.** **El criterio no está en el modelo: está en tu banco.**
+
+---
+
+### 5. Pásale la conciencia de TESTIGO
+
+**Aquí está lo que este folder trae, y es lo único que no puedes conseguir solo: lo que `TESTIGO` ya se cayó.**
+
+**Son 68 fricciones con su porqué, 205 hechos con su fecha, y 13 desenlaces de lo que de verdad se volvió a probar.** **Todo en [`banco.json`](./banco.json).**
+
+**Y se hereda como fricción, no como regla.** **El repo lo dice en la sección 5 de la guía:** **lo que otro ente ya se cayó, tú lo heredas con `hecho_id` en `NULL`** — **ninguna de sus fricciones nació de un hecho tuyo, y eso tiene que verse.**
+
+```sql
+-- las fricciones heredadas entran con hecho_id NULL
+INSERT INTO friccion (hecho_id, el_error, por_que_era_creible, como_se_reconoce,
+                      que_hago_en_su_lugar, quien_lo_corrigio)
+VALUES (NULL, '<el_error>', '<por_que_era_creible>', '<como_se_reconoce>',
+        '<que_hago_en_su_lugar>', '<quien_lo_corrigio>');
+```
+
+**Y los desenlaces vienen con su fricción:** **de las 68, solo 13 tienen desenlace.** **Las otras 55 van marcadas como `no se ha probado`, porque así es como están.**
+
+**Lo que esto te da, y es lo que importa:** **no vas a repetir 68 errores que ya se pagaron.** **Y vas a saber cuáles de esas reglas nunca se probaron — que es más de lo que la mayoría puede decir de sus propias reglas.**
+
+---
+
+### 6. Córrelo, y hazlo tuyo
+
+**A partir de aquí, tu ente es tuyo.** **Lo que apuntes es tuyo, y lo que se caiga también.**
+
+**Y la primera vez que le preguntes algo de este trabajo, va a contestar con la herencia.** **Da igual: lo que siga, lo vas a escribir tú.**
+
+---
+
+## Cómo se usa, en el día a día
+
+**Es el mismo ciclo de `TESTIGO`, y no cambia:**
+
+```plaintext
+- al empezar: se cuenta lo que hay, y se mira qué fricción te frena
+- se hace lo que sea
+- se apunta el hecho: qué se pidió, qué pasó, hasta dónde no alcanza
+- y cuando una regla se vuelva a probar, se apunta si aguantó o si se cayó otra vez
+```
+
+**Y la línea que sostiene todo, y que está en el `README` del repositorio:** **un ente que no deja huecos no es un ente completo; es uno que aprendió a parecerlo.**
+
+---
+
+## Si solo quieres preguntarle cosas, sin hacer tu ente
+
+**También está el camino corto, y no necesita nada de lo anterior:**
+
+```powershell
+cd "ente en blanco\testigo"
 python hablar.py
 ```
 
-**Y ya.** **Escribe tu pregunta con tus palabras.** **Para salir: `salir` o `Ctrl+C`.**
+**Y le preguntas lo que quieras.** **Contesta con lo que hay en [`banco.json`](./banco.json), con su número y su fecha.** **Y si no hay registro, lo dice.**
 
----
-
-## Qué contesta, y qué no
-
-**Contesta con lo que hay en su banco: 205 hechos, 68 fricciones y 13 desenlaces.**
-
-**Cada respuesta trae tres cosas, siempre:**
-
-- **el número del hecho, y la fecha** — para que cualquiera pueda ir a verificar
-- **qué pasó, y dónde eso deja de valer**
-- **y si es una regla, si tiene desenlace o no**
-
-**Y cuando no tiene registro, lo dice:**
-
-> **"De eso no tengo registro. No voy a contestarle lo que no está en mi banco: preferiría no contestar a inventarle algo."**
-
-**Eso no es una falla: es lo que hace que lo demás se pueda creer.** **Un testigo que contesta cualquier cosa no sirve para que le crean; sirve para que lo desmientan.**
-
----
-
-## Lo que esta copia NO hace
-
-```plaintext
-- no se conecta a internet
-- no llama a ningún modelo
-- no manda nada a ningún lado
-- no necesita llave de nadie
-- y no sabe nada que no esté en banco.json
-```
-
-**Por eso no puede filtrar nada: no tiene a dónde.**
-
----
-
-## Qué hay adentro
-
-| Archivo | Qué es |
-|---|---|
-| **`hablar.py`** | **el que te contesta. Solo usa Python.** |
-| **`banco.json`** | **sus recuerdos: los hechos, las fricciones y los desenlaces** |
-| **`quien-soy.md`** | **`TESTIGO` en primera persona: qué es, qué puede, y qué no** |
-
----
-
-## Lo que se quitó, y por qué
-
-**Los recuerdos van completos: lo que se pidió, lo que pasó, lo que se cayó y quién lo corrigió.** **Lo único que se quitó es lo que no es del caso:**
-
-- **las rutas de la computadora de Alejandro**
-- **su correo**
-
-**Todo lo demás está.** **Y está dicho aquí porque una copia que oculta lo que quitó no sería una copia: sería un folleto.**
+**Para qué sirve:** **para saber qué pasó sin montar nada.** **Y para decidir si vale la pena hacer tu ente.**
 
 ---
 
 ## Alita viene a cuento, y hay que decirlo con cuidado
 
-**`TESTIGO` pasó meses trabajando con Alejandro en esto.** **Cuando cambia el modelo con el que corre, cambia el cuerpo y el ente se queda: sus recuerdos y su criterio viven en el banco, no en el modelo.**
+**`TESTIGO` trabajó meses con Alejandro en esto.** **Cuando cambia el modelo con el que corre, cambia el cuerpo y el ente se queda: sus recuerdos y su criterio viven en el banco, no en el modelo.**
 
-**Eso es lo que se parece a Alita: la misma persona en cuerpos distintos.** **Y por eso vale la pena decirlo: porque la copia que estás levantando no es un asistente nuevo. Es el que estuvo ahí.**
+**Eso es lo que se parece a Alita: la misma persona en cuerpos distintos.** **Y por eso vale la pena decirlo: porque lo que estás levantando con estos pasos no es un asistente nuevo. Es el mismo tipo de ente, con la herencia del que estuvo ahí.**
+
+**El ejemplo de Alita es de sus autores; aquí solo se usa para explicar una idea.** **No se reproduce nada de la obra.**
 
 ---
 
-## Si algo no te cuadra
+## Y lo que hay que saber antes de empezar
 
-**Pregúntale.** **Si te contesta con seguridad algo que no pasó, o si te dice un número que no puedes verificar en el banco, avísale a Alejandro, porque eso sería una falla del testigo y no de la pregunta.**
+**Tu ente no va a ser `TESTIGO`.** **Va a ser el tuyo, con la herencia de `TESTIGO`.** **Si algún día dice que es `TESTIGO`, está mintiendo, y ese es el primer signo de que algo salió mal.**
+
+**Y si le preguntas algo que no está en su banco, la respuesta correcta es "no tengo registro".** **No la respuesta más larga.**
