@@ -223,6 +223,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 |---|---|---|
 | **0** | `0 mis ideas.md` | **Mi posición, en lista.** Las once afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
 | **0b** | `0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
+| **0c** | `0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
 | **1** | `1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
 | **2** | `2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
 | **3** | `3 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |

@@ -144,3 +144,7 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 **¿Cada fuente dice si se abrió o no? ¿Se distingue lo que es una ley de lo que es una cobertura periodística? ¿La declaración de uso de IA está por partes, y en un solo lugar? ¿Lo pendiente está dicho, y no inventado?**
 
 **Falsificador:** una fuente citada sin decir si se abrió; una discrepancia callada; un número de amparo o una fecha que no se verificaron y se presentan como ciertos; una declaración de uso de IA en una línea suelta; un pendiente que se rellena con lo probable.
+
+---
+
+**Y de dónde sale esto frente a lo que ya existe:** **[`0c estado del arte.md`](./0c%20estado%20del%20arte.md)** **dice qué guarda cada sistema anterior, y qué le falta.**

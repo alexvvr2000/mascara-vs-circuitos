@@ -5,6 +5,8 @@
 
 > **Para qué sirve este archivo.** Quien lea —o mi asesor— tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
 
+**Y antes de las once, una advertencia:** **este trabajo no sale de la nada.** **Lo que ya existe, y qué le falta a cada uno, está en [`0c estado del arte.md`](./0c%20estado%20del%20arte.md).** **Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.**
+
 ---
 
 ## Las nueve afirmaciones
