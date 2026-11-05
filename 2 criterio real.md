@@ -58,11 +58,13 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 
 ## IV. Lo que falta y por qué importa
 
-Dos bases llenas —ciento veintiún hechos, cincuenta y tres fricciones— y ninguna columna que diga cuál de las cincuenta y tres volvió a ocurrir. **Se tiene el registro completo y el peso de nada.** Es como tener una biblioteca sin índice: los libros están y no se puede saber cuál está vigente.
+**Cuando se armó este ensayo, las bases con las que se trabajaba tenían el hecho y la fricción, y nada más.** **Ninguna columna decía cuál de las reglas volvió a ocurrir.** **Se tenía el registro completo y el peso de nada: como una biblioteca sin índice, donde los libros están y no se puede saber cuál está vigente.**
 
-Y hay una segunda falta, más sutil: **el vínculo**. Hoy la fricción no sabe de qué hecho nació. Se puede adivinar por la hora, y adivinar por la hora es lo que hace quien no quiere construir criterio sino justificarse. La fricción debe poder señalar su hecho, y el hecho debe poder señalar la regla que lo cerró.
+**Y hay una segunda falta, más sutil: el vínculo.** **La fricción no sabía de qué hecho nació.** **Se podía adivinar por la hora, y adivinar por la hora es lo que hace quien no quiere construir criterio sino justificarse.** **La fricción debe poder señalar su hecho, y el hecho debe poder señalar la regla que lo cerró.**
 
-Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve **órgano**. Y entonces la consulta que importa no es "¿qué sé?", sino **"¿qué de lo que sostengo ya se cayó, y cuántas veces?"**. Esa pregunta, y no otra, es la que forma criterio.
+**Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** **Y entonces la consulta que importa no es "¿qué sé?", sino "¿qué de lo que sostengo ya se cayó, y cuántas veces?".** **Esa pregunta, y no otra, es la que forma criterio.**
+
+**Los números no van aquí, y no es descuido.** **Un conteo de hechos y fricciones dentro de un ensayo envejece el ensayo el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números de hoy están en el registro, fechados, y ahí se consultan: en `testigo/CRITERIO.md`, que se actualiza con el banco, no con la prosa.**
 
 ---
 
