@@ -141,6 +141,17 @@ nunca                        por ella, ni darse por suficiente
 ¿qué pasaría si se hiciera distinto?
 ```
 
+**Y la pregunta no es para el que sabe: es para el otro.** **Quien pide casi nunca sabe cómo está hecho el sistema, y no tiene por qué.** **Así que la pregunta va en sus palabras, y no en las del oficio:**
+
+```plaintext
+y lo que NO es pregunta:
+  "¿qué tipo de dato es?"        ← eso es trasladarle el trabajo
+y lo que SÍ es pregunta:
+  "¿es un número o un nombre?"   ← eso lo puede contestar cualquiera
+```
+
+**Y si el otro no puede contestar porque no sabe, esa también es una respuesta:** **se apunta el supuesto con su estado, y queda a la vista para el que sí sepa.** **Lo que no se hace es suponer en silencio y llamarlo entendimiento.**
+
 **Y el resultado no es una frase más: es una decisión apuntada.**
 
 **Dónde queda:** **en el hecho, cuando se abra, y en la frontera de la respuesta.** **Si el ente no puede decir de qué se enteró antes de empezar, lo que produzca va a ser coherente con la letra y ajeno al propósito** — **que es exactamente el fracaso que la empatía previene.**

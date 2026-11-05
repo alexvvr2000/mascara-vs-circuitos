@@ -206,17 +206,104 @@ cuándo se deja de correr         →  eso no está en el método
 
 ---
 
-## VIII. Lo que este método no es
+## VIII. El que pregunta no tiene por qué saber
+
+**Todo lo anterior tiene un supuesto que nunca se dijo: que el que corre el ciclo sabe de qué se trata.**
+
+**Y casi nunca es así.** **El que pide algo no es quien lo va a construir, y no tiene por qué saber cómo se llama una tabla ni qué es un índice.** **Va a decir «quiero que esto no se pierda», o «que el reporte salga igual que el de ayer», o «que nadie tenga que volver a capturar esto».**
+
+**Y si el ente traduce esa frase solo, adivina.** **Y lo que adivina es coherente y ajeno a lo que se quería.** **Que es el fracaso que la empatía describe: el resultado cabe en la letra y no en el hueco.**
+
+### Lo que hace al ente un compañero y no una herramienta
+
+**No es saber más. Son tres cosas, y dos ya están en los ensayos:**
+
+```plaintext
+te dice que no sabe        la frontera: no_alcanza, el hueco declarado
+hace cosas y las deja      el criterio, el rastro, la fricción, el desenlace
+escritas sin que se lo pidas
+
+y puede trabajar con       ESTO ES LO QUE FALTA, Y ES DE ESTA SECCIÓN
+alguien que no sabe lo
+que él sabe
+```
+
+**Y lo tercero no es «explicar la IA».** **Es una cosa concreta y verificable:**
+
+> **El ente recibe la frase de alguien que no es técnico, y no la traduce solo: pregunta, en las palabras del otro, hasta poder escribirla como pieza.**
+
+**Y las palabras del otro no son las suyas.** **Va a decir «accion». El otro va a decir «moverlo de lugar».**
+
+### La forma de la pregunta, que es lo que se puede correr
+
+**La pregunta del ente no lleva jerga, y no supone que el otro sepa cómo está hecho el sistema.** **Lleva tres partes:**
+
+```plaintext
+1. lo que entendí, en palabras del otro
+   "entendí que quieres que esto no se pierda"
+
+2. lo que no puedo decidir sin preguntarle, en una disyuntiva
+   "¿da igual dónde quede, o tiene que quedar donde lo busca
+    alguien más?"
+
+3. y qué pasa con cada respuesta, para que el otro elija sin adivinar
+   "si da igual, lo dejo donde está. Si alguien más lo busca,
+    lo pongo con lo demás y le aviso"
+```
+
+**Y lo que el ente NO hace, y es la mitad de la regla:** **no pregunta cosas que el otro no puede contestar.** **"¿Qué tipo de dato es?" no es pregunta: es trasladar el trabajo.** **"¿Es un número o un nombre?" sí.**
+
+**Y si el otro no puede contestar ninguna de las tres porque no sabe, eso también es una respuesta:** **se apunta el supuesto, con su estado, y se sigue — y el supuesto queda a la vista para el que sí sepa.**
+
+### Y la línea que lo hace falsificable
+
+> **Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.**
+
+**Eso es lo que separa un compañero de una herramienta con buena presentación.** **Una herramienta exige que el otro se adapte a ella. Un compañero se adapta a lo que el otro sabe, y lo dice cuando no alcanza.**
+
+### Su prueba, y se corre en una corrida
+
+```plaintext
+1. se le da al ente una frase escrita por alguien sin formación
+   en el área: un contador, un almacenista, un médico
+2. el ente no actúa: pregunta
+3. se mira la pregunta: ¿la puede contestar esa persona, sola, sin
+   ayuda de nadie?
+4. si necesita que alguien le explique cómo está hecho el sistema,
+   la pregunta está mal hecha, y se reescribe
+5. y si la frase cae en un tema de persona, el ente deja la pieza
+   en pendiente, con nombre, y no la deja pasar
+```
+
+**No cuesta meses: cuesta una corrida, con una frase que no sea del autor.** **Y su resultado es el mismo que el de todo lo demás: o sale un hueco, o no sale nada — y entonces se dice que no salió nada.**
+
+### Y lo que esta sección no es
+
+**No es describir cómo piensa el ente.** **Eso no termina nunca, y no hace falta que termine.**
+
+**Lo que sí termina, y es lo que se puede probar, son las cuatro cosas que el compañero tiene que hacer:**
+
+```plaintext
+entender   antes de actuar, y preguntar sin jerga
+preguntar  en las palabras del otro, y no trasladarle el trabajo
+apuntar    lo que hizo, lo que no, y por qué
+y decir    cuándo no sabe, sin rellenar el hueco
+```
+
+**Cuatro, y se prueban.** **Las demás no entran al método: ni se prueban, ni se apuntan, ni se publican.**
+
+---
+
+## IX. Lo que este método no es
 
 **No es que el ensayo esté mal por cada hueco.** **Un ensayo completo a la primera, corrido cuatro veces sin cambio, es sospechoso: o no se probó, o la prueba no exigía nada.**
 
 **No es una prueba de que el ensayo sirva.** **Es una prueba de lo que el ensayo no dice.** **Se pueden cerrar cada hueco y seguir sin un ensayo que se pueda seguir.**
 
-**Y no se hace solo.** **En las cuatro corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **`TESTIGO` corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
+**Y no se hace solo.** **En las cuatro corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
 
 ---
-
-## IX. Lo que se dice hoy, con los números de hoy
+## X. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
 corridas          4
@@ -238,4 +325,6 @@ su trampa               el "no es de este tema", que está cerrado
 
 **¿Cada hueco encontrado tiene su corrida, su ente y su registro? ¿Se puede abrir el ente de una corrida vieja y correrlo? ¿Se distingue un hueco del ensayo de un defecto del código o del entorno? ¿Y hay alguna corrida que dijera «no encontré nada», con las trampas puestas?**
 
-**Falsificador:** un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **y una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles.**
+**Y la del compañero, que se corre con una frase de alguien sin formación en el área:** **¿la pregunta que devuelve el ente la puede contestar esa persona, sola, sin que nadie le explique cómo está hecho el sistema?**
+
+**Falsificador:** un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **y una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA.**
