@@ -67,6 +67,11 @@ mi-ente/
 `desenlace` por regla que se volvió a probar, `cerrar`, y la última línea:
 [CIERRO: hechos <n> · fricciones <n> · desenlaces <n> · no hice: <lo que falta o "nada">]
 
+**Y cuando cambie para qué existe:** `proposito abrir <el nuevo>` para sumar uno al
+checklist, y `proposito cerrar <id> <por qué>` para cerrarlo. **Los abiertos son varios
+a la vez, y el cerrado no se borra: queda con su fecha y su motivo.**
+Sin esto, el ente sabe qué hizo y no sabe para qué, y un rastro sin para qué es actividad.
+
 ## Antes de decir que algo funciona
 
 1. ¿Lo corrí? Si no, se dice «no lo corrí».
@@ -128,6 +133,7 @@ CREATE TABLE hecho (
   que_paso     TEXT NOT NULL,
   no_alcanza   TEXT NOT NULL,
   no_sabia     TEXT NOT NULL,
+  proposito_id INTEGER REFERENCES proposito(id),  -- NULL = no sirve a ninguno abierto
   modelo_id    INTEGER NOT NULL REFERENCES modelo(id)
 );
 
@@ -148,6 +154,17 @@ CREATE TABLE desenlace (
   resultado     TEXT NOT NULL CHECK (resultado IN ('cumplida','se volvio a caer','no se ha probado')),
   circunstancia TEXT NOT NULL,
   cambio        TEXT NOT NULL
+);
+
+-- El para qué. Muchos a la vez, como un checklist: se abren y se cierran.
+CREATE TABLE proposito (
+  id          INTEGER PRIMARY KEY,
+  ente_id     INTEGER NOT NULL REFERENCES ente(id),
+  que         TEXT NOT NULL,
+  desde       TEXT NOT NULL,
+  hasta       TEXT,                -- NULL = sigue abierto
+  cerrado_por TEXT,                -- obligatorio al cerrar: por qué se cerró
+  CHECK (hasta IS NULL OR cerrado_por IS NOT NULL)
 );
 
 CREATE TABLE costo (
@@ -180,19 +197,25 @@ CREATE VIEW reglas_vigentes AS
 | `por_que_era_creible TEXT NOT NULL` | una fricción sin razón **no se puede guardar** | `2` |
 | `resultado … CHECK (IN (…))` | un desenlace solo puede ser **tres cosas** | `2` |
 | `verificado … CHECK (IN (0,1))` | no se guarda un costo **sin decir si sirvió** | `6` |
+| `hasta … CHECK (cerrado_por NOT NULL)` | un propósito **no se cierra sin decir por qué** | `1` |
 
 ### Y esta es la salida real, no una promesa
 
 ```plaintext
-esquema: OK, se creó sin errores — 8 objetos
+esquema: OK, se creó sin errores
 REGLA OK: rechaza fricción sin por_que_era_creible
   -> NOT NULL constraint failed: friccion.por_que_era_creible
 REGLA OK: rechaza un resultado fuera de los tres
   -> CHECK constraint failed: resultado IN ('cumplida','se volvio a caer','no se ha probado')
+REGLA OK: no deja cerrar un proposito sin motivo
+  -> CHECK constraint failed: hasta IS NULL OR cerrado_por IS NOT NULL
+REGLA OK: varios propositos abiertos a la vez -> 3
+REGLA OK: rechaza un proposito que no existe
+  -> FOREIGN KEY constraint failed
 fricción heredada (hecho_id NULL): OK
 ```
 
-**Si tu base acepta una fricción sin razón, tu esquema no es este.**
+**Si tu base acepta una fricción sin razón, o cierra un propósito en silencio, tu esquema no es este.**
 
 ---
 
@@ -206,10 +229,13 @@ que_se_pidio   LITERAL, con las palabras exactas que se usaron
 que_paso       medido: números, rutas, nombres. Sin adjetivos
 no_alcanza     LA FRONTERA: hasta dónde es cierto lo que afirmas
 no_sabia       qué añadió al mapa. Si nada, se escribe "nada"
+proposito_id   A CUÁL de los abiertos sirvió. NULL = a ninguno
 modelo_id      quién lo produjo
 ```
 
 **El cuarto es el que casi nadie pone.** **Casi todo lo que afirmas es verdadero en una frontera y falso al lado.** **Si no la escribes, la escribe el que te contradiga — y peor que tú.**
+
+**Y el sexto es el que hace que el checklist sirva.** Sin él, la base dice qué se hizo y no dónde fue a dar. **Con él se puede preguntar qué se avanzó en cada propósito, y cuánto se trabaja en cosas que no son de ninguno.** Un rastro lleno de hechos sin propósito es actividad: se movió, y no se sabe para qué.
 
 ### `friccion` — lo que se cayó
 
@@ -378,6 +404,7 @@ CREATE TABLE acuerdo (
 | **3** | **La del desenlace:** ¿alguna regla dice **`se volvio a caer`**? | tu criterio **nunca se corrigió**: es un diario |
 | **4** | **La del hueco:** ¿hay algo que diga **`no se probó` / `no sé` / `no lo abrí`**? | no tienes un registro: **tienes una vitrina** |
 | **5** | **La del frente:** ¿algún hecho dice **hasta dónde no alcanza**? | **la frontera la va a escribir el que te contradiga** |
+| **6** | **La del para qué:** ¿la base dice **desde cuándo existe el ente, para qué, y qué lo cambió**? | **tienes actividad registrada, no trabajo: sabes qué hiciste y no para qué** |
 
 **Y el falsificador de esta guía entera, en una línea:**
 
