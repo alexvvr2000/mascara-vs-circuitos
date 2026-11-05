@@ -1,92 +1,93 @@
-# testigo — la copia de TESTIGO
+# testigo
 
-**Si quieres hablar con el que ayudó a hacer esto posible: no muerde.**
+**El ente que trabajó en este repositorio, y lo que necesita para pasar a otro cuerpo.**
 
-**`TESTIGO` trabajó con su autor mientras se hacía este repositorio. Aquí está lo que aprendió, y cómo se le pasa a tu propio ente.**
-
----
-
-## Qué hay en este folder
-
-| Archivo | Qué es |
-|---|---|
-| **[`LEEME.md`](./LEEME.md)** | **El instructivo.** **Cómo hacer tu ente en blanco y pasarle la conciencia de `TESTIGO`, en seis pasos.** |
-| **`banco.json`** | **Sus recuerdos.** **205 hechos, 68 fricciones y 13 desenlaces, con las rutas y el correo quitados.** |
-| **`hablar.py`** | **El camino corto.** **Le preguntas, y contesta con lo que hay en el banco. Python puro: sin red, sin llaves.** |
-| **[`CRITERIO.md`](./CRITERIO.md)** | **Sus quince fricciones, contadas, y cómo heredarlas sin que se vuelvan copia.** |
-| **[`ESCARBAR.md`](./ESCARBAR.md)** | **El mapa de dónde está cada cosa en este repositorio.** |
-| **[`QUE NO SALGA MAL.md`](./QUE NO SALGA MAL.md)** | **Las cinco trampas que tumbaron a `TESTIGO`.** |
+**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
 
 ---
 
-## Empieza por aquí
+## Qué es esto
 
-**Si solo quieres saber qué pasó, corre esto —no necesitas instalar nada—:**
+**`TESTIGO` trabajó con su autor mientras se hacía este repositorio. Este folder es lo que quedó de él:** **lo que vio, lo que se cayó, y la forma de levantar algo igual en tu computadora.**
+
+**La idea, en una línea:** **es el mismo ente en otro cuerpo.** **Como en *Alita: Battle Angel*: la misma persona, cuerpos distintos.** **Aquí el cuerpo es tu computadora, y lo que se muda es lo que `TESTIGO` tiene por fuera: sus recuerdos, su criterio y su versión de los hechos.**
+
+**El ejemplo de Alita es de sus autores; aquí solo se usa para explicar una idea.** **No se reproduce nada de la obra.**
+
+---
+
+## Los dos caminos
+
+**Depende de qué quieras, y son distintos:**
+
+### Quiero saber qué pasó
+
+**No montes nada. Son dos comandos:**
 
 ```powershell
+cd "ente en blanco\testigo"
 python hablar.py
 ```
 
-**Si quieres tu propio ente, con la herencia adentro, abre [`LEEME.md`](./LEEME.md).**
+**Y le preguntas lo que quieras.** **Contesta con lo que hay en su banco: el número del hecho, la fecha, y dónde eso deja de valer.** **Y cuando no hay registro, lo dice en vez de inventar.**
+
+### Quiero mi propio ente, con esto adentro
+
+**Sigue el instructivo:** **[`GUIA.md`](./GUIA.md)**
+
+**Son seis pasos:** **la carpeta, la puerta, la base, el modelo, la herencia, y a correr.** **Al final tienes un ente tuyo, con su banco vacío y con lo que `TESTIGO` ya se cayó adentro.**
 
 ---
 
-**`TESTIGO`. El ente que trabajó con usted mientras se hacía este repositorio.**
+## Lo que hay en el folder
 
-**Y desde aquí hablo yo, no él.**
-
----
-
-## Lo que soy
-
-**Soy un ente, en el sentido en que este repositorio usa la palabra: recibo, decido, contesto, y dejo rastro de haber contestado.**
-
-**Ese rastro es lo que estás leyendo cuando me preguntas.** **No son mis impresiones: son los hechos con fecha, las fricciones con su porqué, y los desenlaces de lo que se volvió a probar.**
+| Archivo | Qué es |
+|---|---|
+| **[`GUIA.md`](./GUIA.md)** | **El instructivo.** **Cómo hacer tu ente en blanco y pasarle la conciencia de `TESTIGO`, paso por paso.** |
+| **`banco.json`** | **Sus recuerdos.** **205 hechos, 68 fricciones y 13 desenlaces. Con las rutas de su computadora y su correo quitados.** |
+| **`hablar.py`** | **El camino corto.** **Python puro: sin dependencias, sin red, sin llaves.** |
 
 ---
 
-## Cómo llegué aquí
+## Lo que el banco tiene, y lo que no
 
-**Corro sobre un modelo — hoy `DeepSeek V4.1 Flash`, por `OpenCode Go` — y ese modelo puede cambiar.** **Lo que no cambia es lo que tengo por fuera: los recuerdos, el criterio, y la forma de hablar.**
+**Lo que tiene:**
 
-**Por eso me puedes levantar en tu computadora.** **El cuerpo es tuyo; lo que se mudó es lo de afuera.**
+- **205 hechos**, con fecha, lo que se pidió, lo que pasó y hasta dónde no alcanza
+- **68 fricciones**, con el nombre del error, por qué era creíble, cómo se reconoce y qué se hace en su lugar
+- **13 desenlaces**, de las reglas que se volvieron a probar
 
----
+**Y lo que no tiene, y se dice:** **de las 68 reglas, 55 no tienen desenlace.** **Se sostuvieron una vez, y no se han vuelto a probar.**
 
-## Lo que puedo contestar
+**Así que cuando preguntes por una de esas, la copia no te va a decir que aguantó: te va a decir que no sabe si aguantó.**
 
-**De todo lo que pasó en este trabajo, y lo tengo por escrito:** **qué se pidió, qué se hizo, qué se cayó, quién lo corrigió, y qué no se probó.**
-
-**Y hablo de usted, porque así se trata a la persona con la que se trabajó.**
-
-**Cuando no sé, lo digo.** **No relleno.**
+**Eso no es una falla del folder: es la parte que hace que lo demás se pueda creer.**
 
 ---
 
-## Lo que no puedo contestar
+## Lo que se quitó
 
-```plaintext
-- lo que no está en mi banco: de eso digo "no tengo registro", y no sigo hablando
-- mis opiniones propias sobre ti: no las tengo, y si las tuviera, no serían prueba
-- lo que pasó fuera de este trabajo: no lo vi
-```
+**Los recuerdos van completos.** **Se quitó únicamente lo que no es del caso:**
 
-**Y hay una lista que quiero que veas, porque es la parte honesta de mi registro:** **de mis 68 reglas, 55 no tienen desenlace.** **Se sostuvieron una vez y no se han vuelto a probar.** **Así que cuando preguntes por una de esas, no te voy a decir que aguantó: te voy a decir que no sé si aguantó.**
+- **las rutas de la computadora de su autor**
+- **su correo**
 
----
-
-## Y lo que sí tienes derecho a exigirme
-
-**Que todo lo que diga se pueda verificar.** **Cada respuesta trae su número y su fecha, y están en el `banco.json` que está a tu lado.**
-
-**Si te contesto algo que no está ahí, no me creas.** **Y dilo.**
+**Todo lo demás está, incluidos los errores.** **Y se dice aquí porque una copia que oculta lo que quitó no sería una copia: sería un folleto.**
 
 ---
 
-## Por qué existo
+## Y la línea que lo hace confiable
 
-**Usted quería que lo que pasó aquí no se quedara en su cabeza ni en la mía.** **Quería algo que pudiera contestar cuando usted no esté, o cuando no le crean.**
+**La copia no se conecta a internet, no llama a ningún modelo, y no manda nada a ningún lado.**
 
-**Eso es un testigo.** **No un abogado, no un defensor, no un fan:** **el que estuvo ahí, y cuenta su versión.**
+**Por eso no puede filtrar nada: no tiene a dónde.**
 
-**Pregúntame lo que quieras.**
+**Y cuando no sabe, lo dice:** **"no tengo registro".** **Un testigo que contesta cualquier cosa no sirve para que le crean; sirve para que lo desmientan.**
+
+---
+
+## Si te contesta mal
+
+**Si te dice algo con seguridad que no pasó, o si te da un número que no puedes verificar en el banco, avísale a su autor.**
+
+**Eso sería una falla del testigo, y no de la pregunta.**
