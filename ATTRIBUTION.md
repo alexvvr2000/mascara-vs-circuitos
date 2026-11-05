@@ -16,7 +16,7 @@ Este trabajo se escribió en diálogo con un sistema de inteligencia artificial.
 | **La redacción** | Yo, con asistencia de redacción |
 | **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en el ensayo 0 |
 
-**Herramientas, con nombre y versión:** `TESTIGO` (mi ente colaborador), sobre `DeepSeek V4.1 Flash` servido por `OpenCode Go`, dentro de `DeepSeek Harness`. Búsqueda de fuentes con `DeepSeek Web`.
+**Herramientas, con nombre y versión:** `TESTIGO` (mi ente colaborador), sobre `DeepSeek V4.1 Flash` servido por `OpenCode Go`, dentro de `DeepSeek Harness`. Búsqueda de fuentes con el plugin `free-search` de `DeepSeek Harness`.
 
 **Lo que no se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **"Not used"** para entrenamiento y con **cero días de retención**, bajo un acuerdo que se renueva mensualmente.
 
@@ -109,7 +109,7 @@ Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado
 | **`OpenCode Go`** | proveedor que sirve modelos de varios fabricantes bajo un acuerdo de privacidad por modelo | la ruta por la que viajaron los modelos |
 | **`DeepSeek V4.1 Flash`** | el modelo que escribió y discutió | redacción y diálogo sobre ideas |
 | **`DeepSeek Harness`** | el entorno que hospeda al ente, sus reglas y su memoria | donde vive el ente y su registro |
-| **`DeepSeek Web`** | el buscador y lector de la web del propio proveedor | la búsqueda de ideas y de fuentes |
+| **`free-search`** (plugin de `DeepSeek Harness`) | el buscador y lector de la web que corre dentro del harness: motores como `Bing`, `DuckDuckGo`, `Exa`, `Tavily` y `Perplexity`, sin llave propia | la búsqueda de ideas y de fuentes |
 
 **Y qué NO se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **«Not used» para entrenamiento y con cero días de retención**, bajo un acuerdo que se renueva cada mes y que **hay que revisar antes del 30 de noviembre de 2026**.
 
@@ -119,7 +119,7 @@ Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado
 
 ## 8. Para qué se usó, y para qué no
 
-**Se usó para:** discutir ideas, escribir el texto, y buscar material y abrir fuentes con `DeepSeek Web`.
+**Se usó para:** discutir ideas, escribir el texto, y buscar material y abrir fuentes con el plugin `free-search` de `DeepSeek Harness`.
 
 **No se usó para:** decidir qué se sostiene, inventar una fuente, ni completar lo que faltaba.
 

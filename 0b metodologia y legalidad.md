@@ -109,6 +109,8 @@ Un ente, como se define en el ensayo 1, deja rastro. El criterio, como se propon
 
 ## 5. Fuentes
 
+**Las búsquedas se hicieron con el plugin `free-search` de `DeepSeek Harness`, que corre motores como `Bing`, `DuckDuckGo`, `Exa`, `Tavily` y `Perplexity` dentro del harness.** **No se usó ningún buscador fuera de ahí, ni la web del proveedor del modelo.**
+
 | # | Fuente | Cómo se abrió | Estado |
 |---|---|---|---|
 | 1 | **Olguín Lacunza, M. (2025, 26 de septiembre).** *Obras generadas íntegramente por IA no obtienen derechos de autor en México.* UNAM Global. https://unamglobal.unam.mx/global_revista/scjn-obras-ia-derechos-autor-mexico/ | abierto el 2026-11-03, lectura completa | **abierto** |
