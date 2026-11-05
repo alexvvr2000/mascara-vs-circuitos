@@ -98,9 +98,77 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 **El problema es del texto, no del que lo lee.** Y eso se puede correr: se le da la misma pieza a dos criterios distintos, y se ve si coinciden. **No hace falta que la pieza sea real.**
 
+### El borde, en su forma, y la pieza contra la que se prueba
+
+**Un borde no se evalúa en el aire: se evalúa contra algo.** **Y ese algo es una pieza, que es cualquier cosa que se quiera meter en el tema: un hecho, un documento, una pregunta, una URL.** **Si no se dice qué es una pieza, el borde no se puede correr.**
+
+**El borde, en su forma mínima, son tres partes:**
+
+```plaintext
+entra_si      la condición que la pieza tiene que cumplir. Se evalúa
+              contra los atributos de la pieza, y da sí o no
+no_entra      la lista de casos por nombre: los que alguien ya intentó
+              meter y no eran del tema
+y si duda     qué se hace cuando la condición no da ni sí ni no.
+              No se deja a criterio del que consulta: se dice aquí
+```
+
+**Y `y si duda` no es un adorno.** **Es el caso que hace que dos lectores clasifiquen distinto:** **cuando la pieza es casi lo que el borde pide.** **Si el borde no dice qué hacer con el casi, el borde está incompleto, y no el lector.**
+
+**Y la prueba del borde, corriéndola:**
+
+```plaintext
+1. se toma una pieza que el borde debería aceptar
+2. se toma una que debería rechazar
+3. se toma una que es "casi", y se ve que la respuesta sea
+   la que el propio borde declara, y no la que a cada quien le parezca
+4. si dos criterios clasifican distinto la misma pieza, el borde se reescribe
+```
+
+**Sin el paso 3, la prueba pasa siempre y no dice nada: un borde que acepta todo y otro que rechaza todo también clasifican igual a los extremos.**
+
 ---
 
-## VIII. La supersesión, y dónde se guarda su pérdida
+## VIII. Las tablas del índice, y las operaciones que lo cambian
+
+**El §III dice las tres relaciones y el §IX los tres datos de la supersesión.** **Falta decir en qué se guardan, porque un grafo sin forma no se puede consultar.**
+
+**Son dos cosas, y el resto cuelga de ellas:**
+
+```plaintext
+el tema        nombre, borde (entra_si / no_entra / y si duda), desde,
+               y si fue superado: por quién, cuándo, y qué se perdió
+la relación    de un tema a otro, de qué tipo, y desde cuándo.
+               Tres tipos: contiene, asocia, supera
+```
+
+**Y las cuatro operaciones que cambian el índice, cada una con lo que tiene que dejar escrito:**
+
+| Operación | Qué tiene que quedar |
+|---|---|
+| **abrir** | el tema nace con su borde y su fecha. **Sin borde no se abre** |
+| **relacionar** | el tipo y la fecha. **No se relaciona un tema consigo mismo** |
+| **superar** | quién a quién, cuándo, por qué, y **qué se pierde**. El viejo no se borra |
+| **descartar** | la razón. **Se marca, no se borra: el descarte también es una decisión** |
+
+**Y lo que NO es una operación: borrar un tema.** **Un tema superado o descartado sigue ahí, con su fecha y su motivo, porque lo que ya no se usa es lo que dice qué se pensaba.**
+
+**Y la consulta que hace el ciclo, que es la de todo el ensayo:**
+
+```plaintext
+entra la pieza → se compara contra cada tema vigente
+  → el que la acepta por su entra_si, y no la rechaza por su no_entra,
+    es el tema por el que se entra
+  → si dos temas la aceptan, el borde de al menos uno está mal escrito:
+    se apunta como fricción, no se elige a gusto
+  → si ninguno la acepta, se declara el hueco
+```
+
+**Y el último renglón es el que evita la trampa más común:** **cuando dos temas aceptan la misma pieza, no se elige el que parece mejor: se apunta que dos bordes se solapan**, **y eso es una fricción del índice, no una decisión del ente.**
+
+---
+
+## IX. La supersesión, y dónde se guarda su pérdida
 
 **Este mismo ensayo dice — y lo dice también el §V — que el que cambia el índice tiene que decir qué se pierde con el cambio.** **Falta decir dónde se guarda eso, porque un "qué se pierde" que vive en la cabeza no es una pérdida: es un comentario.**
 
@@ -120,7 +188,7 @@ qué se pierde   qué deja de caber cuando el nuevo entra
 
 ---
 
-## IX. Cuándo se consulta, que es lo que lo vuelve un ciclo
+## X. Cuándo se consulta, que es lo que lo vuelve un ciclo
 
 **Un índice que no dice cuándo se abre no es un paso del ciclo: es un apéndice.** **Y el ensayo de escritura en procesos ya lo dijo para los procesos: lo que no dice cuándo ocurre, no ocurre.**
 
@@ -142,7 +210,7 @@ qué se pierde   qué deja de caber cuando el nuevo entra
 
 ---
 
-## X. La reconstrucción, y de qué piezas se rehace
+## XI. La reconstrucción, y de qué piezas se rehace
 
 **El §VI dice que el índice se puede tirar y volver a armar, y el §II dice que el grafo manda y el texto se deriva.** **Falta decir de qué se rehace, porque "las piezas" no dice nada.**
 
@@ -167,11 +235,11 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
 
 ---
 
-## XI. Lo que este ensayo no da
+## XII. Lo que este ensayo no da
 
 **No da una herramienta.** Lo que aquí se propone es una forma, y la forma no presupone ninguna tecnología: se puede llevar en archivos de texto con una convención de anotaciones, en una base de datos relacional, o en un grafo dedicado. La elección depende de cuántas piezas hay, de quién las toca y de qué tan rápido cambian.
 
-**Y sí da la forma de la herramienta, que es otra cosa:** **la del borde como predicado y como lista de lo que no entra (§VII); la de la supersesión con sus tres datos y su pérdida (§VIII); el momento exacto en que se consulta (§IX); y de qué piezas se rehace (§X).** **Con eso, quien lo implemente no está inventando: está copiando.**
+**Y sí da la forma de la herramienta, que es otra cosa:** **la del borde como predicado y como lista de lo que no entra (§VII); las tablas del índice y sus cuatro operaciones (§VIII); la de la supersesión con sus tres datos y su pérdida (§IX); el momento exacto en que se consulta (§X); y de qué piezas se rehace (§XI).** **Con eso, quien lo implemente no está inventando: está copiando.**
 
 **No da los temas.** Qué temas tiene un ente es cosa de ese ente. Lo único que se puede decir es que **un tema que no se ha usado nunca no está probado**, y que un tema que lleva mucho sin cambiar en una época de cambio no está quieto: está abandonado.
 
@@ -183,9 +251,9 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
 
 ## Prueba
 
-**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema?**
+**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿El borde dice qué hacer cuando la pieza es 'casi'? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
 
-**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno.
+**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el casi, que obliga a decidir a gusto en cada pregunta**; **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo.**
 
 ---
 

@@ -85,28 +85,48 @@ autoridad → entiende → recibe → consulta el índice → decide → contest
 
 ### Paso 0 — antes de nada: quién manda, y con qué corre
 
-**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez. Y son cuatro piezas, no tres.**
+**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez. Y son cinco piezas, no tres.**
 
 ```plaintext
 la autoridad  una persona, con nombre. Tiene el para qué, y firma
 el ente       quién es, desde cuándo, y hasta dónde toca
 el propósito  qué está haciendo ahora. Puede haber varios, y abren y cierran
 el modelo     con qué cuerpo corre, y cómo falla ese cuerpo
+el índice     los temas que ya sabe, y el borde de cada uno
 ```
 
-**Y las cuatro se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.**
+**Y las cinco se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.** **Y un ente sin índice declarado no tiene de dónde sacar lo que dice: contesta de memoria, y la memoria no se audita.**
 
-**Y la autoridad se declara con su frontera, que es lo que la vuelve útil:**
+### La autoridad: qué es, y cómo se declara
+
+**La autoridad no es "el usuario".** **El usuario es quien pregunta hoy; la autoridad es quien responde por el para qué.** **Pueden ser la misma persona, y no se confunden: el usuario puede cambiar cada mensaje, y la autoridad es una y con nombre.**
+
+**Se declara con cuatro cosas, y las cuatro son obligatorias:**
 
 ```plaintext
-lo que le toca a la autoridad:  el para qué, la firma, y lo que se decide
-                                cuando está en juego el dueño o su gente
-lo que le toca al ente:         entender, buscar, proponer, y apuntar
-lo que NO le toca al ente:      cerrar lo que la autoridad abrió,
-                                ni hablar en su nombre
+el nombre      una persona. No "el equipo", no "el cliente".
+desde cuándo   con fecha. Una autoridad sin fecha no se puede contestar
+               por lo que hizo antes de serlo
+qué le toca    el para qué, la firma, y lo que se decide cuando está
+               en juego él o su gente
+qué NO le toca lo que el ente sostiene: el ente no firma por ella,
+               y ella no decide en el lugar del ente lo que es del ente
 ```
 
-**Sin esa frontera declarada, el ente no se puede saber si se salió: no hay contra qué medirlo.**
+**Y la frontera del ente, que va pegada a la de ella:**
+
+```plaintext
+lo que el ente decide solo   qué tema consultar, qué buscar, qué descartar,
+                             qué proponer, y cómo apuntarlo
+lo que el ente PROPONE       cerrar un propósito, cambiar el para qué,
+y espera firma               dar algo por terminado, tocar lo del dueño
+lo que el ente NO decide     hablar en nombre de la autoridad, firmar
+nunca                        por ella, ni darse por suficiente
+```
+
+**Sin las dos fronteras escritas, "el ente se salió" no significa nada: no hay contra qué medirlo.**
+
+**Y una autoridad que cambia se apunta como se apunta un modelo:** **la nueva entra con su fecha, y los hechos viejos se quedan con la que los mandó.** **Un ente sin esa historia no puede decir por qué hizo lo que hizo cuando el para qué era otro.**
 
 ### Paso 0b — entiende antes de recibir
 
@@ -126,6 +146,8 @@ lo que NO le toca al ente:      cerrar lo que la autoridad abrió,
 **Dónde queda:** **en el hecho, cuando se abra, y en la frontera de la respuesta.** **Si el ente no puede decir de qué se enteró antes de empezar, lo que produzca va a ser coherente con la letra y ajeno al propósito** — **que es exactamente el fracaso que la empatía previene.**
 
 **Y si no hay manera de preguntar (el que pide no está disponible), se declara el supuesto:** **"entendí X; si era Y, esto no sirve."** **Un supuesto declarado se puede corregir; uno callado se descubre tarde.**
+
+**Y el supuesto no se queda en el aire: se guarda con el hecho, y con él se puede saber cuánto de lo que se hizo se apoyó en algo que nadie confirmó.** **Un supuesto que se cumplió se cierra diciéndolo; uno que no se cumplió se vuelve fricción, porque el ente entendió mal y actuó sobre eso.**
 
 ### Paso 1 — recibe
 
