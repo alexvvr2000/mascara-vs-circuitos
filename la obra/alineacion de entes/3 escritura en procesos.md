@@ -113,25 +113,6 @@ Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtie
 **La búsqueda:**   <cómo busca si le falta algo>
 **Y si no encuentra:** <qué hace. No se salta: este es el que se rellena inventando>
 **Falla si:**      <qué lo incumple>
-
----
-
----
-
-## De dónde salió esto
-
-**Lo que este ensayo afirma, y en qué se puso a prueba.**
-
-| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
-|---|---|---|
-| Un proceso sin «cuándo se corre» no ocurre | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
-| Lo que no dice qué lo incumple no se puede juzgar | [`ente 2 - VARA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%202%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
-| El ensayo no es bitácora: la procedencia va al pie | este ensayo | la regla nació de separar los ensayos de la metodología |
-
-**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
-
----
-
 **Falsificador:**  <qué lo tumbaría>
 **Y qué se pierde si cambia:** <todo cambio pierde algo; si no lo puede nombrar, no fue un cambio>
 ```
@@ -148,12 +129,66 @@ Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtie
 
 ---
 
-## Prueba
+---
 
-**¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar?**
+## Y el ensayo no es bitácora
 
-### Y el ensayo no es bitácora
+**Un ensayo es entregable. No es donde se cuenta qué pasó: es donde se sostiene qué es así.**
+
+**Y la diferencia se reconoce en una sola cosa:**
+
+```plaintext
+lo que va en el ensayo    qué se sostiene, y cuándo deja de sostenerse
+
+lo que NO va              qué corrida lo encontró, en qué sesión se
+                          descubrió, cuántos levantamientos hay, qué
+                          archivo falló, qué número de hecho era
+```
+
+**Y lo segundo no se tira: se guarda en la metodología, que es donde se mantiene.** **El ensayo cita al pie lo que lo puso a prueba, en una tabla, y ahí se acaba su relación con la corrida.**
+
+**Por qué, y no es cuestión de gusto:** **un ensayo que dice «ocho corridas» envejece el día que hay nueve.** **Y un ensayo que dice «la corrida 8 encontró» obliga al lector a abrir ocho carpetas antes de saber qué se sostiene.**
+
+**Y la regla que esto deja, que aplica a cualquier texto que se entregue:**
+
+> **El ensayo dice qué se sostiene. La tabla del pie dice qué lo puso a prueba. La metodología dice cómo se llegó.**
+
+### Y el que define el formato, lo usa
+
+**La regla más fácil de incumplir es la que uno mismo escribió.** **Este ensayo pide nueve renglones por proceso, y el ensayo del ciclo no los tenía: sus pasos decían qué entra y qué sale, y no decían cuándo corren ni qué los incumple.**
+
+**Y sin eso, un paso no es un paso: es una descripción.**
+
+```plaintext
+un proceso se corrige en su archivo
+y se copia a donde haga falta, con sus nueve renglones
+no se parafrasea, y no se resume a tres
+```
+
+**Porque un paso sin Se corre no ocurre, y sin Falla si no se puede juzgar.** **La forma no es adorno: es lo que hace que el paso se pueda correr sin preguntarle a quien lo escribió.**
 
 ---
 
-**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas.
+## Prueba
+
+**¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar? ¿El que exige la forma la cumple en su propio texto?**
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y en qué se puso a prueba.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| Un proceso sin «cuándo se corre» no ocurre | [`ente 1`](metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
+| Lo que no dice qué lo incumple no se puede juzgar | [`ente 2`](metodologia%20de%20mejora/corridas/ente%202%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
+| El ensayo no es bitácora: la procedencia va al pie | este ensayo | la regla nació de separar los ensayos de la metodología |
+
+**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
+
+**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+
+---
+
+**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; **y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto.**
