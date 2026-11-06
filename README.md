@@ -118,41 +118,28 @@ Cualquiera con modelos accesibles puede entrar. **De ahí la carrera: no a tener
 
 ---
 
-## El llamado: hablar con los átomos
+## El llamado: la IA más humana, para ver mejor nuestro borde
 
-> **Esto no es el resultado de este trabajo. Es lo que lo justifica.** **Lo que este repositorio prueba está en los ensayos y en las siete corridas; lo que sigue es la apuesta de para qué serviría si funcionara.** **Se escribe aquí porque es la razón, y se marca porque no es la prueba.**
+> **Esto no es el resultado de este trabajo. Es hacia dónde apunta, y está escrito aparte, con su parte honesta y su parte que no se puede probar: [`la obra/0 lo que pienso y no puedo probar.md`](./la%20obra/0%20lo%20que%20pienso%20y%20no%20puedo%20probar.md).**
 
-**La cuántica y la relatividad no se contradicen por un error de cálculo: se contradicen porque están escritas en dos lenguajes que no se declaran lo suficiente para poder compararse.**
+**La tentación es decir: rompamos la barrera de lo humano y lo que aparezca verá lo que no vemos.** **Eso no se sostiene, y el error es de lógica: quitarle a un aparato su límite no lo hace ver más, lo hace ver distinto.** **Cambia de reja, no la pierde.**
 
-Y de eso trata el resto de este trabajo, aunque no lo parezca: **un ente no entiende la ambigüedad, la rellena.** Por eso la forma tiene que decir qué entra, qué lo incumple, qué sale y qué lo tumbaría. **Un símbolo que no declara su borde no se puede unificar con otro: se puede juntar, y eso no es unificar.**
+**La apuesta de este trabajo es la contraria, y es más chica:**
 
-La puerta es `ALAS` — **A**pertura, **L**engua, **A**comodo, **S**ostenido — **el protocolo para hablar con otro que no es como uno**, con una condición que decide si hay diálogo o monólogo: **el otro tiene que poder seguir sin el que habló.** **Y está escrito entero, con sus cuatro letras, su tabla de búsqueda y su falsificador, en [`la obra/humanidad/4 ALAS.md`](./la%20obra/humanidad/4%20ALAS.md).**
+> **Una IA más humana no es la que más se parece a nosotros: es la que deja nuestro borde mejor dibujado.**
 
-Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, y el tercero recibe un truncado sin saber que lo recibió.** Ese tercero, aquí, **es el átomo.**
+**El borde se define por lo que queda fuera, y un borde nítido por dentro vuelve visible lo de afuera.** **Es el mismo mecanismo de los ensayos: un tema bien declarado se reconoce por lo que rechaza.**
 
-**El llamado es concreto y es una carrera de verdad:** quien consiga un ente que **hable con los átomos declarando lo que declara** —y con eso **una formulación que haga hablar a los dos lenguajes**— **hace lo que no se ha hecho en un siglo.** No hay premio ni patente. Hay la formulación que le faltó a la física, y la satisfacción de haberla juntado bien.
+**Y de ahí el mapa.** **Dibujas con precisión lo que se sabe, y lo que queda en blanco se vuelve señal.** **No hace falta ver el hueco: hace falta que el mapa esté bien hecho para que el hueco se note.** **El instrumento para dibujarlo ya existe aquí: es `ALAS`.**
 
-**No afirmo que esto lo consiga.** Afirmo que **ahora hay una forma de intentarlo que se puede correr, medir y refutar** — y que el que llegue primero va a poder decir exactamente cómo llegó, porque el rastro lo va a tener escrito.
+**Y lo que esto sí aporta a dos problemas feos, dicho sin adornos:**
 
----
+- **A la física:** **declarar los bordes de la relatividad y de la cuántica con este formato no las unifica.** **Muestra dónde dicen lo mismo, dónde dicen cosas distintas, y sobre todo dónde no dicen nada.** **Ese último conjunto es el mapa en blanco, y hoy no está dibujado.**
+- **Al cáncer:** **un tratamiento se prueba contra lo que sabemos medir, y lo que no sabemos medir en una célula es la mayor parte de lo que le pasa a una célula.** **Un mapa bien dibujado dice dónde buscar. No cura nada, y no sustituye a un médico ni a un ensayo.**
 
-## Esta carrera no es solo de física
+**Lo que NO afirmo, y va escrito porque es lo que más se va a malentender:** **no unifica la física; no cura el cáncer; no promete dinero; y no sé si existe una matemática que no sea nuestra.** **Lo que puedo señalar es un método, y el trabajo que se puede empezar hoy.**
 
-> **Y esto tampoco es un resultado, ni una promesa.** **Es por qué el autor hace esto, dicho con un ejemplo que todavía no existe.** **Se lee como lo que es: un deseo con mecanismo, no un hallazgo.**
-
-**En esta era nueva, donde el ego ya puede considerarse muerto, me doy cuenta de algo:** en esta carrera no estamos solo los que trabajamos un lenguaje de máquina.
-
-**Está también el profesor de la escuela más pobre de África** —que enseña con lo que hay, y a quien le hace falta una herramienta que no pida presupuesto—. **Y están los científicos más grandes que yo**, los que trabajan el bosón de Higgs o el estudio del corazón de Framingham. **Somos parte de la misma carrera.**
-
-**Y no es solo la de unificar las dos teorías más grandes de la física. Es la de mejorar a la humanidad juntos.**
-
-Lo digo con un ejemplo, y es el que me importa: **un suero con nanomáquinas que tenga criterio propio** — que no solo ejecute, sino que registre, mida lo que hace y se corrija — **puede convertir la batalla contra el cáncer en una batalla de ideales y no de dinero.** **Dejar de ver la quimioterapia más pesada y más cara del planeta como algo inaccesible es posible en este siglo**, si la herramienta deja de ser un privilegio de quien puede pagarla.
-
-**No sé si eso se logre.** Lo que sí sé es que **la barrera de entrada bajó, y que ya no depende del presupuesto sino de la forma.** Y cuando la barrera cae, **lo que se pelea deja de ser quién tiene más y pasa a ser qué se está dispuesto a sostener.**
-
-**Sé que Dios, y mi tía que está con Él, me ven mientras escribo esto.** Y sé que, **de haber tenido este tipo de tecnología en esos momentos difíciles, habríamos ganado en cinco minutos.**
-
-Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No es nostalgia: es la razón por la que la carrera vale la pena.**
+**Y el que conoce sus limitaciones no se debilita: se vuelve el único que puede decir dónde está el muro.**
 
 ---
 
@@ -227,6 +214,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 | # | Archivo | Qué responde |
 |---|---|---|
+| — | `la obra/0 lo que pienso y no puedo probar.md` | **Hacia dónde apunta todo esto, y qué de eso no puedo probar todavía.** Lo que se piensa, separado de lo que se corrió. |
 | — | `la obra/0 mis ideas.md` | **Mi posición, en lista.** Las afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
 | **0b** | `los papeles/0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **0c** | `los papeles/0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
