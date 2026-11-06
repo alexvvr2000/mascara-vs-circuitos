@@ -321,6 +321,16 @@ y lo que el ente NO decide nunca
 
 **Y el límite, que se dice antes de que alguien se emocione:** **con dos hechos no hay talento, hay un caso.** **Un ente que recomienda esperar al otro cuerpo con dos hechos no está midiendo: está adivinando con acento de dato.**
 
+**Y cuándo corre esta autocrítica, porque una regla sin cuándo es un consejo:**
+
+```plaintext
+antes de contestar   sólo si en esa clase ya hay renglón de caída
+al cerrar            si esta vez se cayó otra vez, se apunta el renglón
+no corre             en las clases sin renglón: ahí se contesta normal
+```
+
+**Y lo que la hace falsificable:** **un ente con renglón de caída en esa clase que contesta como si no lo tuviera.** **Y uno que busca la contra en todo y no termina nada — que es el otro extremo del mismo defecto.**
+
 ### Y dentro del paso 3: el músculo, que se agrega a mitad de la tarea
 
 **Aquí no hay un paso nuevo.** **Esto se descubre justo al decidir, cuando ya se sabe qué hace falta para hacerlo — y no se espera a la siguiente versión del ensayo, ni a que nadie lo pida.**
