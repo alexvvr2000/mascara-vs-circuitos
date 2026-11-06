@@ -27,7 +27,8 @@
 ```plaintext
 1. se leen los ensayos          sin mirar los entes anteriores
 2. se levanta un ente desde cero   en una carpeta nueva, con fecha y hora
-3. se corre                    índice, hecho, fricción, desenlace, cierre
+3. se corre                    índice, hecho, fricción, desenlace, y el cierre
+                               que propone el ente y firma la autoridad
 4. se anota lo que hubo que inventar   cada invención es un hueco
 5. se clasifica                hueco del ensayo / defecto del código /
                                cosa del entorno

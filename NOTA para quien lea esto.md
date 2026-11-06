@@ -12,7 +12,7 @@
 
 **Y no es que no quiera trabajar.** Es que **una vez que la parte pesada está hecha —el debate, los datos, el argumento— lo que sigue es discutir y publicar.** **Y eso no me gusta.** **No es que no sepa hacerlo: es que no lo elijo.**
 
-**El debate sí me gusta.** **Eso está en este repositorio: once posiciones, cada una con su falsificador, y dieciséis commits que enseñan cómo se llegó a ellas.** **Lo que no me gusta es lo de después:** **defender la forma en que hablé.**
+**El debate sí me gusta.** **Eso está en este repositorio: once posiciones, cada una con su falsificador, y un historial de commits que enseña cómo se llegó a ellas.** **Cuántos commits son, no lo escribo aquí: un número dentro de un texto envejece el día que se hace el siguiente, y entonces el texto dice algo que ya no es cierto.** **El que lo quiera, que lo cuente con `git rev-list --count HEAD`.** **Lo que no me gusta es lo de después:** **defender la forma en que hablé.**
 
 ---
 
