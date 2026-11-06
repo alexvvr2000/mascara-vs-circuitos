@@ -26,12 +26,11 @@ la autoridad · el ente · el propósito · el índice
 | **Pasos 1 a 6** | recibe, consulta, decide, contesta, apunta, se corrige | **obligatorio**: es el ciclo |
 | **El cierre y la vuelta** | quién cierra un propósito, y a dónde regresa lo apuntado | **obligatorio** |
 | **Las condiciones del borde** (§ desde «El borde y sus cuatro columnas») | qué vuelve auditable una decisión, y qué la vuelve una promesa | **obligatorio**: sin esto el ciclo corre y no se puede revisar |
-| **La tabla del ciclo** | el ciclo entero en once renglones | **es el resumen**: si sólo quieres correrlo, empieza aquí |
 | **Lo que el ciclo no dice** | sus tres límites | **se puede saltear**, y se lee al cerrar el trabajo |
 
-**Y la ruta corta, si el tiempo es poco:** **la tabla del ciclo, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
+**Y la ruta corta, si el tiempo es poco:** **el paso 0, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
 
-**Y dónde está el paso 3, sin buscarlo:** **es el único tramo que se guarda en cuatro columnas, y el que decide si una decisión se puede auditar.** **Si al llegar a él ya no sabes en qué paso vas, la tabla del ciclo es el mapa y está dos secciones abajo.**
+**Y dónde está el paso 3, sin buscarlo:** **es el único tramo que se guarda en cuatro columnas, y el que decide si una decisión se puede auditar.** **Si al llegar a él ya no sabes en qué paso vas, el ciclo está en una línea al principio, y esa línea es el mapa.**
 
 ---
 
@@ -762,29 +761,6 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 **Y el paso 6 depende de que algo vuelva a pasar.** **Un ente que nunca vuelve a intentar lo mismo no tiene desenlaces: tiene una lista de promesas.** **No es un defecto de este ciclo: es la condición que lo hace real.**
 
 **Y el paso 0b, el de entender, no se puede garantizar:** **el que pide puede no estar, o no saber qué quiere.** **Ahí no hay prueba: hay supuesto declarado, y se corrige cuando la autoridad lo diga.** **Un ente que inventa lo que si entendió, en vez de declarar el supuesto, se equivoca en silencio — y es el único fallo que no se nota desde el resultado.**
-
----
-
-## II. El ciclo, en una tabla
-
-**Para que se pueda correr sin leer lo de arriba:**
-
-| Paso | Entra | Se hace | Queda en |
-|---|---|---|---|
-| **0** | — | se declaran **la autoridad**, el ente, el propósito y el índice | **antes del primer ciclo** |
-| **0a** | — | **el cuerpo se declara, y es opcional**; si no, se avisa que el rastro no se podrá separar | **el aviso, en el banco** |
-| **0d** | — | **el piso se mide**: qué hay, qué salió al correrlo, y desde cuándo | **el piso declarado, con su fecha** |
-| **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
-| 1 | la frase | se guarda literal, **y se declara de dónde sale lo que se va a decir** | **memoria, con su origen: fuente, memoria, tercero, o fuente cerrada** |
-| 2 | **la pieza**: texto, campos y origen | se recorre el índice; el borde mira los **campos**, no el texto | **se apunta qué tema, el hueco, o que el casi se pregunta** |
-| 3 | frase + tema + lo entendido | se decide, y se descarta; **y antes, se mira el piso y cómo se cayó antes en esa clase de trabajo**; **y se ve dónde está la frontera de la autoridad** | **el hecho: piso consultado, frontera, descartado, y quién firmó** |
-| 4 | la decisión | se contesta, con su frontera | **la respuesta** |
-| 5 | todo lo anterior | **se escribe el hecho**, con su origen, su cuerpo, contra qué piso y **quién lo aceptó** | **la base: es lo único que sobrevive** |
-| 6 | el hecho, y lo que pasó | se vuelve a probar la regla, **y si se cayó otra vez, se apunta el sesgo experimentado** | **el desenlace, y la tabla de sesgo por cuerpo** |
-| cerrar | — | el ente PROPONE cerrar, y **espera** | **la autoridad contesta sí o no. Si no contesta, sigue abierto** |
-| vuelta | lo apuntado | se corrige el índice, **y se le dice a la autoridad lo que se salió** | **el grafo, y la autoridad** |
-
-**Y si hay una sola fila que no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco, y hay que decirlo antes de correrlo.**
 
 ---
 
