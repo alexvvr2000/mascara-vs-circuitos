@@ -7,6 +7,23 @@
 
 > **Nota de lectura.** Este ensayo cierra la serie porque es el más abstracto de los cinco: en lugar de hablar de qué es un ente o cómo se mide, habla de **dónde se guarda lo que sabe** y de la forma que tiene ese lugar. Lo que aquí se propone es teoría: no describe ninguna herramienta. Si alguien quiere ver la misma forma aplicada en un sistema concreto, su proyecto anterior del mismo autor la recorre con sus piezas; aquí se dan los principios para que las junte por su cuenta quien lo quiera.
 
+### Cómo se lee este ensayo
+
+**Los tramos de abajo no se leen igual: cuatro son el argumento, dos son lo que las corridas agregaron, y uno es el cierre.**
+
+| Tramos | Qué contesta | Cómo se lee |
+|---|---|---|
+| **§I a §III** | por qué un árbol no basta, y cuál es la inversión | **obligatorio**: es el argumento entero |
+| **§IV y §VII** | cómo se escribe el borde para que se pueda auditar | **obligatorio**: sin borde no hay tema |
+| **§V, §VIII y §IX** | los cambios del índice y dónde se guarda su pérdida | **obligatorio**: es lo que lo hace auditable |
+| **§VI, §X y §XI** | reconstrucción, momento de consulta, y de qué piezas se rehace | **obligatorio**: las tres son condiciones de que exista |
+| **Lo que las corridas agregaron** (§ desde «Y cuando dos temas dudan») | el casi, la cuarta salida, el tema de persona | **se puede saltear en la primera lectura**, y hay que volver si se va a implementar un borde |
+| **§XII y las Fuentes** | lo que el ensayo no da, y de dónde sale | **se puede saltear**, y se lee al citarlo |
+
+**Y la ruta corta, si el tiempo es poco:** **§II (la inversión), §VII (el borde como dato) y el falsificador del final.** **Con eso se levanta un índice; el resto dice qué le falta.**
+
+**Y dónde está lo que más se olvida, sin buscarlo:** **el «se pregunta» del §VII es el único valor del borde que necesita que alguien esté del otro lado.** **Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.**
+
 ---
 
 ## I. El problema: lo que un ente sabe no cabe en una lista

@@ -13,6 +13,26 @@ la autoridad · el ente · el propósito · el índice
        y el bucle: recibe, decide, contesta, apunta, se corrige
 ```
 
+### Cómo se lee este ensayo
+
+**Los tramos de abajo no se leen igual: los seis primeros son el ciclo, y los tres últimos son lo que le pasó al correrlo.**
+
+| Tramos | Qué contesta | Cómo se lee |
+|---|---|---|
+| **Paso 0** — autoridad, ente, propósito, índice | qué tiene que existir antes de la primera vuelta | **obligatorio**: sin esto no hay ente |
+| **Paso 0a** — el cuerpo | con qué se ejecuta, y qué se pierde si no se declara | **obligatorio**: es opcional declararlo, no leerlo |
+| **Paso 0d** — el piso | hasta dónde alcanza antes de prometer | **obligatorio**: es lo que separa un ente de un script |
+| **Paso 0b** — entiende | qué se pregunta antes de actuar | **obligatorio** |
+| **Pasos 1 a 6** | recibe, consulta, decide, contesta, apunta, se corrige | **obligatorio**: es el ciclo |
+| **El cierre y la vuelta** | quién cierra un propósito, y a dónde regresa lo apuntado | **obligatorio** |
+| **Lo que las corridas agregaron** (§ desde «Y lo que la corrida 7 le agregó») | lo que ocho levantamientos enseñaron | **se puede saltear en la primera lectura**, y hay que volver si se va a levantar un ente |
+| **La tabla del ciclo** | el ciclo entero en once renglones | **es el resumen**: si sólo quieres correrlo, empieza aquí |
+| **Lo que el ciclo no dice** | sus tres límites | **se puede saltear**, y se lee al cerrar el trabajo |
+
+**Y la ruta corta, si el tiempo es poco:** **la tabla del ciclo, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
+
+**Y dónde está el paso 3, sin buscarlo:** **es el tramo que contestó la corrida 8, y el único que se guarda en cuatro columnas.** **Si al llegar a él ya no sabes en qué paso vas, la tabla del ciclo es el mapa y está dos secciones abajo.**
+
 ---
 
 ## I. El ciclo entero, paso por paso
