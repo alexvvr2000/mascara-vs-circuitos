@@ -1,12 +1,12 @@
 # Máscara vs Circuitos
 
-**Alejandro Valenzuela Rivera · 5 de noviembre de 2026.**
+**Alejandro Valenzuela Rivera · 6 de noviembre de 2026.**
 
 ---
 
 ## Qué es esto
 
-**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Diez ensayos, diez afirmaciones, y siete corridas que se hicieron para probarlos.**
+**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Diez ensayos, diez afirmaciones, y ocho corridas que se hicieron para probarlos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -30,9 +30,10 @@
 **Los límites, dichos con nombre:**
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **El alcance de la evidencia: siete corridas, un autor, un entorno.**
-- **No se ha cumplido ni un falsificador.** **Un método que nunca se cayó no sabe caerse todavía.**
+- **El alcance de la evidencia: ocho corridas, un autor, un entorno.**
+- **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
+- **La prueba más incómoda sigue sin correrse: que otro levante un ente con estos ensayos.** **Se declara, no se cumple.** **Mientras el único que los levanta sea el autor, «completo» significa «completo para él».**
 
 ---
 
@@ -41,12 +42,9 @@
 ```plaintext
 1. esta entrada            qué hay, y qué no
 
-2. la obra/0 lo que pienso
-   y no puedo probar       hacia dónde apunta, aparte de lo probado
+2. la obra/0 mis ideas     la posición en lista, y qué la tumba
 
-3. la obra/0 mis ideas     la posición en lista, y qué la tumba
-
-4. la obra/alineacion de entes/
+3. la obra/alineacion de entes/
      E1  que es un ente         la definición, y qué no define a un ente
      E2  el ciclo del ente      los pasos, uno por uno
      E3  escritura en procesos  por qué proceso, y no prosa
@@ -54,12 +52,14 @@
      E5  indexador de temas     dónde vive lo que sabe
      E6  criterio y sesgos      qué es del ente y qué del cuerpo
 
-5. la obra/humanidad/
+4. la obra/humanidad/
      H1  empatía                cómo se entiende antes de pedir
      H2  conciencia             qué hacemos con una palabra que no sabemos definir
      H3  medicion de talentos   cómo se sabe si el trabajo es de verdad
 
-6. metodologia de mejora/     las siete corridas, y qué le faltó a cada una
+5. metodologia de mejora/
+     metodo.md                  cómo se sabe si los ensayos están completos
+     corridas/                  las ocho corridas, y qué le faltó a cada una
 ```
 
 **Y si solo vas a leer una cosa, lee las corridas.** **Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.**
@@ -146,11 +146,13 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 **1. Correr un falsificador.** Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
 
 ```bash
-# en tu copia del repositorio
-grep -n "Falsificador" *.md
+# en tu copia del repositorio, desde la raíz
+grep -rn "Falsificador:" "la obra" --include=*.md
 ```
 
 **Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba.** **Y si lo que describe se cumple, esa idea se cayó** — **y se cae para ti, en tu copia.** **No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.**
+
+**Y uno ya se cumplió, y está en la carpeta de corridas:** **la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3.** **Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.**
 
 **2. Probar el método donde quieras.** **El repositorio es de Alejandro y se queda como está.** Pero **el método no.** Si te funciona, úsalo. Si no, dilo, y **tu probatura es tuya.**
 
