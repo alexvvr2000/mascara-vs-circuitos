@@ -1,128 +1,71 @@
 # Attribution
 
-**Cómo se hizo este trabajo, quién hizo qué, y qué no se puede afirmar de él.**
-**Versión inicial · 4 de noviembre de 2026 · Alejandro Valenzuela Rivera.**
+**Cómo se escribió este trabajo, por qué es del autor, y qué puedes hacer con él.**
+
+**Alejandro Valenzuela Rivera · 5 de noviembre de 2026.**
 
 ---
 
-## 1. El uso de inteligencia artificial, por partes
+## 1. Cómo se escribió
 
-Este trabajo se escribió en diálogo con un sistema de inteligencia artificial. Se declara **por partes**, y no en una línea suelta, porque una línea que dice "generado por IA" no aclara nada: quita la autoría sin decir qué se hizo.
+**`TESTIGO` produce el texto y lo ataca. El autor corrige, decide qué se sostiene, y firma.**
 
-| Pieza | Quién la hizo |
-|---|---|
-| **Las tesis, los argumentos y la decisión de qué entra en cada ensayo** | Yo — **cuáles son, y en qué ensayo vive cada una, en [`la obra/0 mis ideas.md`](../la%20obra/0%20mis%20ideas.md)** |
-| **La estructura y el orden de la colección** | Yo, discutido con el sistema |
-| **La redacción** | Yo, con asistencia de redacción |
-| **Las fuentes externas** | Abiertas por el sistema, verificadas y declaradas con su estado en «0 mis ideas» |
+**La discusión no es adorno: es el filtro.** **Lo que sobrevive al intento de refutación entra al repositorio; lo que no, se tira.** **Y lo que entra tiene que declarar su borde: si el otro no puede seguir sin él, no es una idea, es relleno.**
 
-**Herramientas, con nombre y versión:** `TESTIGO` (mi ente colaborador), sobre `DeepSeek V4.1 Flash` servido por `OpenCode Go`, dentro de `DeepSeek Harness`. Búsqueda de fuentes con el plugin `free-search` de `DeepSeek Harness`.
+**Por eso el trabajo se prueba con corridas y no con opiniones:** **cada vez que se levantó un ente desde cero, lo que hubo que inventar resultó ser lo que el ensayo no decía.**
 
-**Lo que no se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **"Not used"** para entrenamiento y con **cero días de retención**, bajo un acuerdo que se renueva mensualmente.
+**Con qué se escribió:**
 
-**Y en una línea, para que no quede duda:** **esta publicación es mía.** `TESTIGO` fue el ayudante: me ayudó **a expresarme mejor**, y a encontrar las palabras para lo que ya estaba pensado. **No pensó las tesis, no decidió qué entra, y no firma.** Lo que está escrito se sostiene porque yo lo sostengo, y se cae si no aguanta — no porque una máquina lo haya dicho. **Escribo en primera persona en todo el trabajo porque las ideas son mías, y el rastro de cómo llegué a ellas también.**
-
-
----
-
-## 2. El origen: lo que pasó
-
-Este trabajo **le da sentido a las tesis que salieron del proceso de destrucción del repositorio anterior.**
-
-Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo como **bloc de notas**. Un bloc de notas no juzga: apunta y sigue. Y en ese uso **se perdieron ideas que nunca tuvieron un lugar donde sostenerse**. El repositorio terminó destruido, y con él su memoria.
-
-**Lo que este trabajo es, entonces:** la lectura de ese proceso **bajo mi perspectiva**, con `TESTIGO` de ayudante **para expresarme mejor y facilitar el proceso de escritura**.
-
-**Lo que este trabajo no es:** no es un testimonio objetivo ni un informe forense del repositorio anterior. Es **mi versión sobre lo que ocurrió y lo que se aprendió** — y así debe leerse.
-
-**Y de dónde sale:** de **un debate de lógica**, no de una medición. Lo que aquí afirmo viene de mi interpretación de ese proceso y sobre lo que significa tener individualidad real. **Quien quiera verlo distinto, que arme sus conclusiones leyendo esto y el repositorio, y haga su propio debate.** Este trabajo no pide que se le crea: pide que se le use y se le refute.
-
-**Lo que busco no es la verdad: es algo útil.** Con estas piezas se pueden hacer cosas concretas sin esperar a resolver qué hay por dentro de un sistema. Se recoge en «0 mis ideas» y en el ensayo del indexador de temas.
-
-**Y una frase mía, que resume por qué esto se escribió así:**
-
-> **«Sentido común mata título universitario.»**
-
-**Lo que quiere decir, y lo que no:** no que el título no sirva —el mío está en «0 mis ideas», y la ley se citó con su fuente—, sino que **un papel no sustituye el juicio**. Lo que este trabajo pide de quien lo lea no es una credencial: es **que lo piense, lo pruebe y lo contradiga si no aguanta.**
-
-
----
-
-## 3. El papel de cada quien
-
-| Quién | Su papel |
-|---|---|
-| **Yo** | tengo las ideas, decido qué se sostiene, y firmo |
-| **`TESTIGO`** | ayudante: ordena, contradice, escribe. **No decide.** **Y cuando habla de lo que pasó, es el testigo: el que cuenta su versión de los hechos — la suya, con mis recuerdos de ella, no la mía.** |
-| **Los lectores** | **la meta.** La publicación es **una de muchas conclusiones posibles**, no la conclusión. |
-
----
-
-## 4. La queja que este trabajo evita
-
-**Si se presenta como "encontré la verdad", se cae en cinco minutos.** Porque lo que hay aquí es **lógica y ficción** —pensamiento, no medición— y una verdad afirmada así queda desarmada en cuanto alguien pregunta por los datos.
-
-**Por eso, y esto es lo más importante de este documento:**
-
-- **No se presenta como la verdad.** Es **una propuesta metodológica**: un conjunto de reglas, con sus límites a la vista.
-- **Se distingue lo que es hipótesis o heurística de lo que tiene respaldo.** Cada ensayo cierra con su **Prueba** y su **Falsificador**, y el que no los tiene no es una ley: es una propuesta.
-- **No es un trabajo sobre LLM.** Es **una metodología para cualquier IA cuyo costo por resultado exitoso se pueda medir.** El modelo es el ejemplo, no el objeto.
-- **No se afirma que el criterio esté descrito al 100 %**, ni que las hipótesis sean universalmente ciertas. Se investiga **qué es posible observar, cómo registrarlo y qué mecanismos permiten identificar patrones**.
-
-**Y el experimento `TESTIGO` es el primer experimento.** Este repositorio es **el artefacto que documenta ese proceso**: qué se quería observar, cómo se hizo, qué se obtuvo y qué se aprendió — **incluyendo los fallos**, que es la parte que casi nunca se publica y sin la cual esto no tendría sentido.
-
----
-
-## 5. Lo que la licencia cubre y lo que no
-
-La licencia de este trabajo (**CC BY 4.0**) permite leerlo, citarlo, compartirlo y construir encima, **con atribución**. **Lo que permite es usar el método.** **Lo que no hace es volver verdadera ninguna de sus afirmaciones:** eso lo decide cada lector, leyendo sus falsificadores y corriéndolos.
-
----
-
-## 6. La relación con el repositorio anterior
-
-Este trabajo **rescata ideas de un proyecto mío anterior**, que está publicado y se cita:
-
-> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI histórico del proyecto:** `10.5281/zenodo.23090721` · Licencia: CC BY 4.0.
-
-**El DOI histórico identifica el repositorio completo y todo su historial**, no una versión suelta: **cada commit contó para llegar hasta aquí**, porque el debate fue el trabajo, y el historial es donde queda quién decidió qué y cuándo.
-
-**Las piezas están ahí; aquí está el porqué.** Este texto no repite cómo se juntan: dice **por qué cada una es así y qué se perdería si faltara.** El que quiera construir va por las piezas; el que quiera entenderse a sí mismo mientras construye, lee esto.
-
----
-
-**Lo que este documento no cubre:** no verifica que el texto esté libre de errores. Eso lo hace el lector, y lo hace el autor al firmarlo.
-
----
-
-## 7. Quién es el ente, y con qué se escribió
-
-**El ente:** `TESTIGO`, mi ente colaborador —definido como en el ensayo de que es un ente: recibe, decide, contesta y deja rastro de haber contestado—. No es un asistente anónimo: tiene nombre, tiene reglas, y tiene la obligación de apuntar lo que decide.
-
-**El modelo:** `DeepSeek V4.1 Flash`, servido a través de `OpenCode Go`.
-
-**El stack, y qué papel juega cada pieza:**
-
-| Pieza | Qué es | Qué hizo aquí |
+| Pieza | Qué es | Qué hizo |
 |---|---|---|
-| **`OpenCode Go`** | proveedor que sirve modelos de varios fabricantes bajo un acuerdo de privacidad por modelo | la ruta por la que viajaron los modelos |
-| **`DeepSeek V4.1 Flash`** | el modelo que escribió y discutió | redacción y diálogo sobre ideas |
-| **`DeepSeek Harness`** | el entorno que hospeda al ente, sus reglas y su memoria | donde vive el ente y su registro |
-| **`free-search`** (plugin de `DeepSeek Harness`) | el buscador y lector de la web que corre dentro del harness: motores como `Bing`, `DuckDuckGo`, `Exa`, `Tavily` y `Perplexity`, sin llave propia | la búsqueda de ideas y de fuentes |
+| **`TESTIGO`** | el ente del autor: recibe, decide, contesta y deja rastro | produjo el texto, y lo atacó |
+| **`DeepSeek V4.1 Flash`** | el modelo | redacción y diálogo |
+| **`OpenCode Go`** | el proveedor | la vía por la que viajó el modelo |
+| **`DeepSeek Harness`** | el entorno | donde vive el ente y su registro |
+| **`free-search`** | el buscador del entorno | abrir fuentes |
 
-**Y qué NO se usó:** ningún modelo que entrene con los datos de la sesión. La tabla de privacidad de `OpenCode Go` declara a `DeepSeek V4.1 Flash` como **«Not used» para entrenamiento y con cero días de retención**, bajo un acuerdo que se renueva cada mes y que **hay que revisar antes del 30 de noviembre de 2026**.
+**Y lo que no se usó:** ningún modelo que entrene con los datos de la sesión. **`OpenCode Go` declara a `DeepSeek V4.1 Flash` como «Not used» para entrenamiento y con cero días de retención**, bajo un acuerdo que se renueva mensualmente.
+
+**Lo que el autor aporta y el modelo no puede aportar:** **el criterio de qué entra, el de qué se cae, y la decisión de publicarlo.** **El texto puede estar asistido; esa decisión no lo está.**
+
+---
+
+## 2. Por qué es del autor
+
+**No es una formalidad, y conviene saberlo antes de citar esto.** **La ley exige autor humano, y sin él no hay obra.**
+
+| La fuente | Qué dice | Estado |
+|---|---|---|
+| **`SCJN`**, asunto «Avatar Virtual» (2024) | **se negó el registro de un avatar creado con IA**; la sentencia se limitó al caso concreto y **no fijó una regla general** | **abierta** (UNAM Global, 26 de septiembre de 2025) |
+| **`INDAUTOR`** | **exige autor persona física**; rechaza lo producido íntegramente por IA, **caso por caso**, sin lineamiento público | **no se abrió** su guía de registro |
+| **`USCO`**, *Copyright and AI, Part 2* (29 de enero de 2025) | **sin autor humano no hay obra**; protege lo que la persona **seleccionó, arregló o modificó** | **abierta parcial** (sin paginación extraída) |
+| **`COPE`** | define el reciclaje de texto propio **sin transparencia** como falta editorial | **definición sí; texto completo no** |
+
+**Y lo que de aquí se sigue, para este trabajo:** **lo que da autoría no es el texto: es el criterio puesto en él.** **Qué entra, en qué orden, qué se sostiene y qué se cayó.** **Eso está en el rastro, con fecha, y por eso el rastro se publica.**
+
+**Y el origen se declara, que es lo que pide la norma editorial del reciclaje:**
+
+> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI conceptual:** `10.5281/zenodo.23090721` · CC BY 4.0.
+
+**Ninguna frase de este trabajo es copia literal del anterior: las ideas están reformuladas con palabras de aquí, y el origen está dicho en el `README` y en cada ensayo.** **La declaración no sustituye la reescritura: la acompaña.** **Y no es continuación de aquel: es un trabajo aparte, que se puede leer sin abrirlo.**
 
 ---
 
----
+## 3. Quién revisó
 
-## 8. Para qué se usó, y para qué no
+**Luis Ángel Gutiérrez Rodríguez revisó la versión inicial de este trabajo.** **De esa revisión salió la que está aquí: lo que no aguantaba una defensa, se cambió o se cayó.**
 
-**Se usó para:** discutir ideas, escribir el texto, y buscar material y abrir fuentes con el plugin `free-search` de `DeepSeek Harness`.
-
-**No se usó para:** decidir qué se sostiene, inventar una fuente, ni completar lo que faltaba.
+**Su revisión no lo vuelve autor de lo que está escrito, y no se le atribuye.** **Lo que se le atribuye es lo que hizo: señalar dónde el texto no sostenía lo que decía, antes de que lo señalara un lector.**
 
 ---
+
+## 4. La licencia, y qué puedes hacer
+
+**Este trabajo está bajo `CC BY 4.0`.** **Puedes leerlo, citarlo, compartirlo y construir encima, con atribución.**
+
+**Lo que la licencia permite es usar el método.** **Lo que no hace es volver verdadera ninguna de sus afirmaciones:** eso lo decide cada lector, leyendo sus falsificadores y corriéndolos.
+
+**Lo que construyas es tuyo.** **Lo que está aquí se queda aquí.**
 
 ---
 
