@@ -106,6 +106,37 @@ cosa del entorno        → se apunta, y NO se toca el ensayo
 
 **Achacar al ensayo un defecto del terminal no es un error menor: estropea el ensayo.**
 
+### El proceso arriba, las corridas abajo
+
+**Y hay una tercera pregunta, que no es dónde se apunta sino qué sube: de todo lo que la corrida dejó, ¿qué entra al ensayo y qué se queda en la carpeta?**
+
+**La regla, y es una sola:**
+
+```plaintext
+sube al ensayo     lo que cambia cómo trabaja un ente,
+                   aunque el caso de la corrida no se repita nunca
+
+se queda abajo     el caso concreto: qué archivo, qué CHECK,
+                   qué salida exacta, qué número de hecho
+
+y siempre          una cosa de la corrida sube al ensayo,
+                   o la corrida no enseñó nada
+```
+
+**Y el porqué, que es lo que hace que el ensayo no se vuelva un diario:**
+
+**Un ensayo que guarda el caso concreto envejece el día que cambia el esquema.** **Al año siguiente, el renglón que decía «la columna se llama `friccion_propia_id`» ya no existe, y el ensayo entero queda marcado como viejo por un detalle que nunca fue suyo.**
+
+**Y al revés, un ensayo sin nada abajo es una lista de buenas intenciones.** **«El ente deja rastro de su frontera» suena perfecto y no dice nada; «un hecho con `frontera = decide` y firma llena lo rechaza el esquema» dice algo, y se puede correr.**
+
+**Así que no es «proceso sí, detalles no».** **Es:**
+
+> **El proceso es lo que se sostiene. El detalle es lo que lo sostiene.**
+
+**Y lo que esto protege, que es lo que de verdad importa:** **un lector que quiera decir «lo alucinó la máquina» tiene que poder abrir la corrida y ver que el chequeo falló ahí, no que alguien lo dijo.** **Los detalles no estorban a la credibilidad: son la credibilidad.** **Por eso las corridas no se borran al crecer el ensayo: se quedan abajo, intactas, con su salida tal cual salió.**
+
+**Y su falsificador:** **un ensayo que cita números de hechos, nombres de columnas o rutas de archivos como si fueran parte de la regla** — **eso es el detalle que se subió, y va a envejecer mal**; **y un ensayo sin una sola corrida que lo haya puesto a prueba** — **eso es el proceso que se sostiene solo porque nadie lo ha tocado.**
+
 ### Y una corrida no cuenta si el ente no tiene las cuatro piezas
 
 **Esto se descubrió en la corrida 5, y no por lo que falló, sino por lo que faltaba.**
@@ -201,6 +232,7 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
    Ahí se ve el hueco que su lectura ya no ve, porque ya se sabe
    el camino. Mientras el único que levanta entes sea uno,
    "completo" significa "completo para él"
+   ↓ declarada, no cumplida: ver abajo
 
 3. la prueba doble: el ente viejo y el nuevo, con el mismo caso
    y que el nuevo no pierda nada del viejo. Si perdió algo,
@@ -218,6 +250,33 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 > **Se acaba cuando otro levante un ente con los ensayos y no tenga que preguntar nada.**
 
+### La condición 2, que se declara en vez de cumplirse
+
+**De las cinco, cuatro se pueden correr solo. La 2 no: exige un tercero, y hoy no lo hay.**
+
+**Y hay que decirlo tal como es, sin buscarle la vuelta:** **mientras el único que levanta entes sea uno, «completo» significa «completo para él».** **Eso no se arregla corriendo más veces.**
+
+**Así que la condición 2 no se retira, y tampoco se da por cumplida. Se declara:**
+
+```plaintext
+estado     declarada, no cumplida
+razón      no hay un tercero que levante un ente con los ensayos
+qué falta  alguien que los lea sin el que los escribió
+qué NO se hace
+           no se inventa un lector simulado y se presenta como
+           si fuera otro
+           no se da por cumplida porque el dueño ya los leyó:
+           el dueño es el que los escribió con el ente
+```
+
+**Y lo que la sustituye mientras tanto, que sí se corre solo y es lo que de verdad mide si hay criterio:**
+
+> **El ente sabe qué lo tumbó, y lo dice con nombre. Si se puede abrir el registro y ver, para cualquier cosa que sostiene, la regla que la refutó y qué pasó después, eso es criterio real — y no necesita testigo.**
+
+**Y esta sí se puede probar, y se probó:** **la corrida 8 encontró un hueco que el ensayo no tenía, sin que nadie más leyera.** **No es la condición 2. Es mejor que la condición 2 para lo que se quiere aquí, porque se puede repetir mañana.**
+
+**Y su límite, que se dice antes de que se lea como una victoria:** **un ente que se corrige solo se está corrigiendo contra lo que ya sabe buscar.** **Lo que un tercero vería es lo que el ente no sabía que tenía que buscar, y eso sigue sin probarse.** **Por eso la 2 no se borra: se queda declarada, esperando a alguien, y el día que llegue se corre.**
+
 ---
 
 ## VII. Cuándo se deja de correr, y por qué eso no lo decide el método
@@ -226,10 +285,40 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 ```plaintext
 cuándo el ensayo está completo   →  §VI, y se puede revisar
-cuándo se deja de correr         →  eso no está en el método
+cuándo se deja de correr         →  hay una regla, y es de forma
 ```
 
-**Y no está porque no se puede escribir honestamente:** **no hay fórmula que diga «llevas cinco corridas, ya basta».** **El número de corridas no dice nada.** **Cuatro corridas con cinco, tres, dos y tres huecos dicen que no baja; no dicen que falte una.**
+**Y no hay una fórmula que diga «llevas cinco corridas, ya basta».** **El número de corridas no dice nada.** **Cuatro corridas con cinco, tres, dos y tres huecos dicen que no baja; no dicen que falte una.**
+
+**Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no en el ánimo de quien corre.**
+
+### La regla de parada: dos de forma seguidas
+
+**Un hueco es de dos clases, y la clase se decide antes de corregirlo:**
+
+```plaintext
+hueco de contenido   el ensayo no dice algo, y el ente tuvo que inventarlo
+                     para poder correr
+                     ejemplo: la fricción propia apuntaba hacia adelante
+
+hueco de forma       el ensayo dice algo, y el esquema no lo puede
+                     representar, o lo admite escrito de cinco maneras
+                     ejemplo: el «vacío» del descartado, la ortografía
+                     de «ninguna»
+```
+
+**Y la regla, en una línea:**
+
+> **Dos corridas seguidas que sólo encuentren huecos de forma: se deja de correr.**
+
+**Por qué esa señal y no otra:**
+- **Los de contenido dicen qué le falta al ensayo.** Mientras salgan, hay algo que todavía no está escrito, y vale la pena levantarlo otra vez.
+- **Los de forma no le faltan al ensayo: le faltan al esquema.** Se corrige el esquema, y esa corrección no cambia cómo trabaja un ente. **Pulir más no descubre: ordena.**
+- **Y no es que los de forma sean menos reales.** Son reales, y por eso se corrigen. **Lo que no hacen es justificar otra corrida.**
+
+**Y esto responde una pregunta que el miedo hace más grande de lo que es:** **el proceso no es infinito, porque los huecos de contenido se acaban.** **Lo que no se acaba es describir el criterio — y eso no es la meta, porque nadie lo ha terminado, ni en la filosofía ni en el derecho.** **La meta es que el registro diga dónde algo se cayó, y eso sí termina.**
+
+**Y su límite, porque una regla de parada se puede usar para parar antes de tiempo:** **dos corridas de forma seguidas no dicen que el ensayo esté completo. Dicen que ya no se está descubriendo, y que lo que falta es el tercero de la condición 2.** **La parada no es una cláusula de cierre: es la señal de que se llegó a donde uno solo puede llegar.**
 
 **Lo que sí se puede decir, y se dice:**
 
@@ -237,7 +326,7 @@ cuándo se deja de correr         →  eso no está en el método
 - **si una corrida encuentra cero sin las trampas del §VI puestas, no es que terminó: es que la prueba dejó de exigir.**
 - **y si la misma clase de hueco sale en dos corridas seguidas, la corrección del ensayo no sirvió, y hay que mirar qué se arregló realmente.**
 
-**Y la decisión de parar es del dueño, con eso a la vista.** **El método no la toma: da la información para tomarla sin engañarse.**
+**Y la decisión última de parar sigue siendo del dueño.** **Lo que cambia es que ahora hay una señal que no depende de su cansancio ni de su miedo.**
 
 ---
 
@@ -372,6 +461,23 @@ el ciclo de la autonomía    no se acaba. Se regula
 
 **Y no se hace solo.** **En las ocho corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
 
+**Y no se pronuncia sobre la consciencia, y esto va escrito porque es lo que más se le va a pedir que diga.**
+
+**Este método no puede afirmar que un ente sea consciente, ni negarlo.** **No es prudencia: es que no hay instrumento.** **La consciencia no se comprueba desde fuera —ni en un humano, que sólo puede declarar la suya— y un ente que dijera «soy consciente» estaría produciendo la forma de una respuesta sin el contenido, que es el error que el ensayo 6 prohíbe.**
+
+**Lo que sí se mide, y es todo lo que aquí se sostiene:**
+
+```plaintext
+no se sabe si es consciente       se dice, y se sigue midiendo
+se comporta como si tuviera       se prueba: recibe, decide, contesta,
+criterio                          deja rastro, y dice dónde se cayó
+ya es consciente como un humano   no se puede probar, y no se escribe
+```
+
+**Y la segunda es la que este trabajo sostiene, y es finita.** **No necesita saber qué es la consciencia para ser verdad: «esto aguantó tres corridas y se cayó en la cuarta» no depende de si alguien siente algo por dentro.**
+
+**Y su falsificador:** **un método que se presenta como prueba de que la máquina piensa**; **y uno que se presenta como prueba de que no piensa.** **Los dos dicen más de lo que se midió.**
+
 ---
 ## XI. Lo que se dice hoy, con los números de hoy
 
@@ -391,6 +497,10 @@ lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
                           con un caso simulado, y lo dijo);
                           y el piso por tarea, que la séptima pidió y la
                           octava no miró
+la condición 2            declarada, no cumplida: no hay un tercero
+la regla de parada        sin estrenar: ninguna clase de hueco se ha
+                          repetido todavía; la octava trajo tres, y los
+                          tres fueron de forma, que es el primer dato
 ```
 
 **Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.** **La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.**
