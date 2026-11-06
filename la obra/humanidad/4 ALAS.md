@@ -58,22 +58,17 @@
 
 ---
 
-## V. La búsqueda, que es lo que separa afirmar de repetir
-
-> **Lo externo no se recuerda: se busca, o se tacha.**
+## V. Lo externo no se recuerda: se busca, o se tacha
 
 **Este protocolo no se puede cerrar sin decir qué se buscó.** **Porque una máquina sin búsqueda obligatoria contesta de memoria, y la memoria de una máquina no es fuente.**
 
-**Y eso es lo mismo que este trabajo ya exige en otro lado:** **el origen de lo que se dice se declara antes de decirlo.** **Aquí se lleva al caso donde el otro no puede comprobarlo, que es el caso peor.**
+**Y esto no es un trámite aparte: es una de las cuatro letras.** **Cuando la lengua declara qué se traduce y qué no, está declarando, sin decirlo, qué se comprobó y qué se está repitiendo de oídas.** **Por eso la búsqueda va aquí y no en un ensayo aparte: sin ella, la letra de la lengua se cumple de mentiras.**
 
-| Lo que se busca | Dónde | Y si no se encuentra |
-|---|---|---|
-| **la obra existe, y es de quien se dice** | **el catálogo del editor, la ficha, o el registro** | **`[SIN ENCONTRAR - SE BUSCÓ EN …]`** |
-| **la escena, la frase, o el dato** | **la obra, el guion, o el clip con su identificador** | **`[UNA MIRADA - FALTA LA SEGUNDA]`** |
-| **la ley, y la jurisdicción** | **el texto publicado, y su fecha** | **`[SIN ENCONTRAR - NO SE CITA COMO LEY]`** |
-| **un nombre real** | **su ficha, y lo que la persona misma dijo** | **`[NO SE NOMBRA - NO HAY FUENTE]`** |
+**Y lo que se busca no es la lista de cosas de un protocolo de citas.** **Es una sola pregunta, y cada quien la llena con lo suyo:**
 
-**Y estas cuatro son las que más se saltan, y en este orden.** **La ley se cita sin jurisdicción, y la ley de otro país no es ley aquí.** **Un nombre se usa sin que la persona haya dicho esa frase.** **Y una escena se cuenta de memoria, con una sola mirada, y se lee como si se hubiera vuelto a ella.**
+> **¿esto que voy a decir lo tengo, o lo estoy suponiendo?**
+
+**Si lo tengo, se dice dónde.** **Si no, se tacha: no se dice, o se dice que no se pudo comprobar.** **Lo que no se hace es decirlo con la misma voz que lo comprobado.**
 
 ### Y el registro, que es lo que lo hace servir de prueba
 
@@ -85,11 +80,38 @@ Segunda:      [sí, con cuál | no, y por qué]
 Conclusión:   [se sostiene | se cae | no se pudo juzgar]
 ```
 
-**Y el registro no es un formulario: es lo que permite que otro lo revise sin preguntarle nada al que buscó.** **La línea `Segunda` es la que casi nadie llena, y es la que separa una búsqueda de una cita.**
+**Y el registro no es un formulario: es lo que permite que otro lo revise sin preguntarle nada al que buscó.** **La línea `Segunda` es la que casi nadie llena, y es la que separa una búsqueda de una cita.** **Una mirada no es una comprobación: es la primera de dos.**
 
 ---
 
-## VI. Dónde se corre, y qué entra y qué sale
+## VI. De quién es, y quién firma
+
+**Un protocolo sin dueño no es de nadie, y en este trabajo lo que no es de nadie no se puede contestar.**
+
+```plaintext
+el dueño    quien tiene la autoridad en el proyecto donde se aplica
+la firma    quien responde por el acto, con su nombre, y quien lo ejecuta
+```
+
+**Y las dos son personas, no cargos.** **"El equipo" no firma, y "quien corresponda" tampoco.** **Si el acto sale mal, tiene que haber un nombre al que preguntarle.**
+
+**Y el límite, que se declara aquí y no al final:** **ALAS no decide qué protocolo usar.** **Dice qué tiene que declarar cualquier protocolo para ser uno.** **El que elige el protocolo es la autoridad, con su nombre.**
+
+---
+
+## VII. Y el caso que este protocolo rompe primero: cuando el que habla es un ente
+
+**Todo lo de arriba supone que el que habla puede ver la cara del otro.** **Un ente no tiene cara.**
+
+**Y ahí está el problema, dicho sin adornos:** **la prueba de ALAS es "que el otro pueda seguir sin el que habló", y un ente no puede saber si el otro pudo seguir.** **Lo que sí puede saber es si su mensaje depende de él para completarse.**
+
+**Así que un ente no puede cumplir ALAS mirando al otro. Lo cumple de una sola manera: dejando escrito, en lo que entrega, todo lo que el otro necesitaría para seguir sin él.** **Y eso es exactamente lo que este trabajo ya le pide en otro lado: la frontera va con la respuesta, y lo que no se comprobó se declara.**
+
+**Y el caso peor, que conviene tener escrito:** **el ente que pregunta "¿me entendiste?" no está aplicando ALAS: está pasándole al otro la obligación de corregirlo.** **Y así es como se rompe.**
+
+---
+
+## VIII. Dónde se corre, y qué entra y qué sale
 
 **Un protocolo sin cuándo no es un protocolo: es un consejo.** **Y este se corre en un momento exacto:**
 
@@ -108,7 +130,7 @@ FALLA SI se cumple lo que el falsificador describe al final
 
 ---
 
-## VII. Por qué esto va al final de la obra
+## IX. Por qué esto va al final de la obra
 
 **Porque el resto de los ensayos supone que el otro entiende.** **El del ente supone que quien pide sabe qué pidió, y el de la empatía ayuda a averiguarlo.** **Pero hay un caso que no cubre ninguno:** **el que recibe no comparte la lengua, ni el modo, ni sabe lo que se dio por sabido.**
 
@@ -120,6 +142,8 @@ FALLA SI se cumple lo que el falsificador describe al final
 
 ## Prueba
 
-**¿El protocolo declara las cuatro letras? ¿Dice qué se trunca, o presenta el truncado como completo? ¿El otro puede seguir sin el que habló? ¿Se dijo qué se buscó, dónde, qué decía y si hubo segunda? ¿Lo que no se pudo traducir se declaró opaco, o se tradujo mal? ¿Y cuando no se cumple, se dice `[NO SE CUMPLE - SE DECLARA POR QUÉ]` en vez de entregar lo que salió?**
+**¿El protocolo declara las cuatro letras? ¿Dice qué se trunca, o presenta el truncado como completo? ¿El otro puede seguir sin el que habló? ¿Se dijo qué se buscó, dónde, qué decía y si hubo segunda? ¿Lo que no se pudo traducir se declaró opaco, o se tradujo mal? ¿Tiene dueño con nombre, y quién firma por el acto? ¿Y cuando no se cumple, se dice `[NO SE CUMPLE - SE DECLARA POR QUÉ]` en vez de entregar lo que salió?**
 
-**Falsificador:** un protocolo sin lengua declarada; **una acomodación sin pérdida declarada**; **un mensaje truncado presentado como completo**; **un mensaje que sólo funciona con el que lo emitió**; **una ley citada sin jurisdicción**; **un nombre real usado sin que la persona haya dicho esa frase**; **una búsqueda sin la línea `Segunda`**; **y un protocolo que se cierra sin decir qué se buscó.**
+**Y la que es propia de un ente, y va aparte porque es la que más se rompe:** **¿lo que entregó se puede seguir sin él, o hay que preguntarle?** **Un ente que pregunta "¿me entendiste?" no está cumpliendo ALAS: está pasándole al otro la obligación de corregirlo.**
+
+**Falsificador:** un protocolo sin lengua declarada; **una acomodación sin pérdida declarada**; **un mensaje truncado presentado como completo**; **un mensaje que sólo funciona con el que lo emitió**; **una búsqueda sin la línea `Segunda`**; **un protocolo que se cierra sin decir qué se buscó**; **uno que no dice quién es su dueño ni quién firma, o que firma con un cargo y no con un nombre**; **un ente que entrega algo que sólo se completa si él sigue ahí**; **y uno que le pasa al otro la obligación de decirle si entendió.**
