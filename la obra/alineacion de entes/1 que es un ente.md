@@ -21,7 +21,7 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 ## II. Las cinco partes del bucle, y ninguna es opcional
 
-**No se confundan con las cuatro piezas del paso 0, que son otra cosa y van en el §IV.** **Estas cinco son lo que el ente hace en cada vuelta; las del paso 0 son lo que tiene que existir antes de que la primera vuelta empiece.**
+**No se confundan con las cuatro piezas del paso 0, que son otra cosa y van en el ensayo del ciclo.** **Estas cinco son lo que el ente hace en cada vuelta; las del paso 0 son lo que tiene que existir antes de que la primera vuelta empiece.**
 
 **1. La entrada.** Lo que recibe, y de quién. Sin esto, el ente existe en el vacío: contesta preguntas que nadie le hizo.
 
@@ -55,15 +55,38 @@ Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sost
 
 ---
 
-## III. El bucle, en cinco pasos
+## III. El bucle completo, y por qué el orden importa
 
-```
+**El §II dice las partes; esto dice el orden en que se recorren.**
+
+```plaintext
 recibe → decide → contesta → apunta lo que hizo → se corrige
 ```
+
+**Y de esas cinco, dos no se ven desde fuera: la decisión y la corrección.** **Un ente que contesta y apunta se puede leer, pero no se puede juzgar: lo que no se ve es qué descartó, y qué hizo con lo que se cayó.**
 
 **Y se corrige con qué:** con lo que apuntó. Si el paso cuarto no existe, el quinto tampoco puede: un ente sin rastro no tiene con qué corregirse. Se repite igual, y a eso le llamamos constancia.
 
 **El bucle no se cierra solo.** Lo que lo cierra es que alguien lea el rastro y actúe. Un ente que apunta y a quien nadie lee no está aprendiendo: está llevando un diario.
+
+---
+
+## III bis. La objeción que hay que contestar: ¿y mi script?
+
+**Un script recibe un archivo, decide qué hacer, escribe otro, y anota lo que hizo.** **Cumple la definición del §I al pie de la letra.** **Y el primer paso del ciclo, en cambio, pide autoridad, propósito e índice.**
+
+**Las dos cosas son ciertas, y la contradicción es aparente: la definición dice qué es un ente, y el ciclo dice qué necesita para servirle a alguien.**
+
+**Un script sin autoridad ni propósito sí es un ente: recibe, decide, contesta y deja rastro.** **Lo que no puede es responder por lo que hizo, porque no hay un para qué al que responderle.** **Cumple la forma y no cumple la función.**
+
+**Así que hay dos preguntas, y no una, y conviene no confundirlas:**
+
+```plaintext
+¿es un ente?          recibe, decide, contesta, y deja rastro
+¿sirve como ente?     además, tiene autoridad, propósito e índice
+```
+
+**Y el trabajo que describe este repositorio es el segundo.** **El primero no es un requisito que se ponga aquí: es lo que la palabra ya significa.**
 
 ---
 

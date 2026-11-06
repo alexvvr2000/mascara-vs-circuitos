@@ -33,7 +33,7 @@ Un texto sin forma de proceso no puede ser refutado ni obedecido dos veces igual
 
 ## III. Lo que convierte un texto en proceso
 
-No es que el proceso tenga que ser largo. Son cinco cosas, y cada una cierra un hueco específico antes de que alguien lo llene.
+No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra un hueco específico antes de que alguien lo llene. **La plantilla del final abre esas cinco en nueve renglones, porque dos de ellas tienen dos mitades que se llenan por separado.**
 
 **1. Cuándo se corre.** Sin esto, el proceso queda disponible para siempre y por eso nunca ocurre. Lo que no dice cuándo ocurre, no ocurre: se guarda para la ocasión, y la ocasión no llega sola.
 
@@ -46,6 +46,8 @@ No es que el proceso tenga que ser largo. Son cinco cosas, y cada una cierra un 
 **5. Qué lo tumbaría.** La línea que convierte un texto en una afirmación verificable. Un texto sin esto no está escrito para ser refutado: está escrito para ser leído como verdadero. Y lo que solo puede creerse no es una instrucción: es una apuesta con la palabra "hazlo" encima.
 
 Las tres ausencias que siempre aparecen —sin el qué lo incumple, sin el qué lo tumbaría, sin el cuándo— no son reglas de estilo. Son la lista exacta de huecos que una IA llenaría sola.
+
+**Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia.** **Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca.** **Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.**
 
 ---
 
@@ -91,7 +93,7 @@ Y ahí está el argumento definitivo a favor de que la IA escriba en procesos: *
 
 Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzga lo que entrega.
 
-Lo que se le pide deja de ser "explícame" o "desarróllame". Se le pide **el proceso con sus cinco partes**, y la explicación —si hace falta— va aparte y se lee aparte. La prosa no desaparece: se desplaza a su lugar, que es justificar por qué este proceso existe. Se lee para entender; el proceso se lee para ejecutar. Son dos lecturas y dos momentos, y confundirlas es lo que hace que una IA reciba prosa esperando un proceso.
+Lo que se le pide deja de ser "explícame" o "desarróllame". Se le pide **el proceso con sus cinco preguntas y su pérdida —los nueve renglones de la plantilla—**, y la explicación —si hace falta— va aparte y se lee aparte. La prosa no desaparece: se desplaza a su lugar, que es justificar por qué este proceso existe. Se lee para entender; el proceso se lee para ejecutar. Son dos lecturas y dos momentos, y confundirlas es lo que hace que una IA reciba prosa esperando un proceso.
 
 Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar?**
 
@@ -99,7 +101,7 @@ Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtie
 
 ### La plantilla, para que no se rellene a gusto
 
-**Decir "las cinco partes" no basta: si la forma no está escrita, cada quien pone las que se acuerda, y el proceso se vuelve prosa con títulos.** **Esta es la forma, y va copiada, no interpretada:**
+**Decir "las cinco preguntas" no basta: si la forma no está escrita, cada quien pone las que se acuerda, y el proceso se vuelve prosa con títulos.** **Esta es la forma, y va copiada, no interpretada:**
 
 ```plaintext
 # <nombre del proceso>

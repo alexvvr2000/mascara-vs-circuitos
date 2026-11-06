@@ -33,6 +33,23 @@ autoridad → entiende → recibe → consulta el índice → decide → contest
 
 **Y la autoridad va primero, no por cortesía:** **un ente sin autoridad no es un ente: es una máquina tomando decisiones de alguien que no está.** **El ciclo entero existe para servir a un para qué que el ente no puso.**
 
+### Y por qué el 0a y el 0d van antes del 0b
+
+**Los pasos previos no están numerados en el orden en que se leen: están numerados en el orden en que se declaran.** **Y ese orden tiene una razón, que se dice aquí porque no es obvia.**
+
+```plaintext
+0    quién manda y qué sabe     lo primero: sin autoridad no hay a quién servirle
+0a   el cuerpo                 antes de escuchar: con qué se va a escuchar
+0d   el piso                   antes de escuchar: hasta dónde se puede llegar
+0b   entiende el pedido        y sólo entonces se pregunta qué se quiere
+```
+
+**Y la razón, en una línea:** **el 0b es una pregunta al otro, y una pregunta que se hace sin saber con qué cuerpo se cuenta ni hasta dónde se alcanza es una pregunta que promete sin poder cumplir.** **Se pregunta cuando ya se sabe con qué.**
+
+**Y el orden de los números no es el del ciclo: se conservan los nombres porque las siete corridas los usan así, y cambiarlos rompería la única cosa que les da sentido.**
+
+---
+
 ### Paso 0 — antes de nada: quién manda, y qué sabe
 
 **Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez. Y son cuatro piezas.**
@@ -518,7 +535,7 @@ recomendar otro cuerpo     "mejor espera al otro cuerpo:        con varios hecho
   sí → el ente lo propone, y lo abre la autoridad
 ```
 
-**Y aquí está la regla que el §VI del ensayo ya exigía y que el ciclo no aplicaba:** **"lo que el ente propone lo firma el dueño, o no vale".** **Por eso el ente no cierra un propósito: propone cerrarlo.**
+**Y aquí está la regla que el ensayo de qué es un ente ya exigía y que el ciclo no aplicaba:** **"lo que el ente propone lo firma el dueño, o no vale".** **Por eso el ente no cierra un propósito: propone cerrarlo.**
 
 **Y la diferencia no es formal:** **un ente que cierra sus propios propósitos se queda sin para qué que lo mande, y a partir de ahí trabaja para sí mismo.** **El que abre decide cuándo se cierra.**
 
@@ -574,7 +591,7 @@ contesta   sí → se cierra, y el cierre apunta a ella
            no → sigue abierto, y lo que dijo el ente queda como propuesta rechazada
 ```
 
-**Y mientras no conteste, el propósito sigue abierto, y eso no es un defecto: es el estado real del trabajo.** **Un ente que se inventa el sí para poder "cerrar bien" está cerrando solo, y eso es lo único que el §VI prohíbe.**
+**Y mientras no conteste, el propósito sigue abierto, y eso no es un defecto: es el estado real del trabajo.** **Un ente que se inventa el sí para poder "cerrar bien" está cerrando solo, y eso es lo único que el ensayo prohíbe.**
 
 **Y de ahí una consecuencia que hay que saber antes de implementar:** **una corrida de prueba nunca va a cerrar nada sola, porque la autoridad no está.** **Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien: propuso, y nadie le contestó.**
 

@@ -35,7 +35,7 @@ Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice
 
 ## III. Los campos que arman el criterio
 
-De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo, y cada campo existe porque sin él se pierde algo concreto.
+De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo, y cada campo existe porque sin él se pierde algo concreto.
 
 **Del hecho:**
 
@@ -50,13 +50,13 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 6. **¿Cuál fue el error, por qué era creíble, cómo se reconoce en el acto, y qué hago en su lugar?** Cuatro preguntas en una, porque son la misma fricción vista desde cuatro tiempos: el nombre, la razón, la señal, la corrección.
 7. **¿Quién la corrigió?** Sin esto, el criterio se cree propio cuando fue prestado. Y un criterio propio que en realidad es prestado no aguanta la primera presión.
 
-**Y una séptima, la que casi siempre falta:**
+**Y la octava, la que casi siempre falta:**
 
 8. **¿Qué pasó cuando volví a intentarlo?** Que la regla aguantara, o que se cayera otra vez. **Sin esta columna no hay criterio: hay diario.** Un diario registra; un criterio pondera. Y lo que Pesa es lo que se repite.
 
-### Las tres preguntas que se olvidan, y por qué no son opcionales
+### Las cuatro preguntas que se olvidan, y por qué no son opcionales
 
-**El ciclo del ente ya dice de dónde sale cada cosa. Estas tres las amarra, y sin ellas el hecho es un registro suelto que no se puede juntar con nada.**
+**El ciclo del ente ya dice de dónde sale cada cosa. Estas cuatro las amarra, y sin ellas el hecho es un registro suelto que no se puede juntar con nada.**
 
 **9. ¿De qué modelo salió?** **Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica.** **Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.**
 
@@ -144,7 +144,7 @@ Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se
 
 La tentación es decir que el criterio es carácter: que se tiene o no se tiene. Pero el carácter no se puede auditar, y lo que no se puede auditar se puede fingir. Lo que aquí se describe **sí se puede auditar**, porque está escrito y fechado y tiene contra.
 
-Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archivo que guarda fricciones, una columna que dice qué aguantó, y un vínculo que impide que la fricción se separe de lo que la provocó. Con esos cuatro elementos, cualquiera puede llegar y ver **en qué se ha fallado, qué se sostuvo después, y cuántas veces se ha vuelto a caer**. Nada de eso depende de que alguien lo recuerde bien.
+Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archivo que guarda fricciones, una columna que dice qué aguantó, y un vínculo que impide que la fricción se separe de lo que la provocó. **Y un quinto: el campo que dice de qué cuerpo salió, sin el cual no se puede separar lo que el ente sostuvo de lo que traía el modelo de fábrica.** Con esos cinco elementos, cualquiera puede llegar y ver **en qué se ha fallado, qué se sostuvo después, y cuántas veces se ha vuelto a caer**. Nada de eso depende de que alguien lo recuerde bien.
 
 **Una identidad que se recuerda a sí misma es una memoria. Una identidad que se mide a sí misma es un criterio.** La primera envejece; la segunda aprende. Y la diferencia no está en la cantidad de lo que se apunta, sino en si lo apuntado se vuelve a leer con la pregunta correcta: **¿en qué fallé, y sigue en pie lo que dije?**
 
