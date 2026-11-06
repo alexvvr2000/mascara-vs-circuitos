@@ -183,4 +183,22 @@ el conteo, que ahora sí suma
 
 **¿Cada número sale del banco, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
 
+---
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y en qué se puso a prueba.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| El costo se mide por resultado verificado, no por llamada | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
+| La caída se cuenta por su puerta, no sólo contada | [`ente 8 - FRONTERA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%208%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
+| Cada talento lleva su estado | [`ente 9 - TAREA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
+
+**Y lo que esta tabla no dice:** **el costo por resultado exitoso no está calculado en ninguna parte.** **Se tiene el material y no se ha sumado, y este ensayo no lo presenta como si estuviera medido.**
+
+---
+
 **Falsificador:** un cuerpo elegido por su tarifa; un promedio sin percentil alto; un output que hay que limpiar y no se cuenta en el precio; un talento aceptado sin haberse intentado refutar; **un número que citó el propio modelo sobre sí mismo**; **una clase de trabajo que cambia de nombre y con eso nunca junta dos hechos**; **un cuerpo declarado "malo" sin decir por qué puerta se cayó y cuántas veces**; **y una comparación entre dos cuerpos hecha con tareas distintas, que atribuye a la máquina lo que era la tarea.**

@@ -129,4 +129,21 @@ Lo otro —esperar que el otro haga lo que la industria pide— se puede hacer. 
 
 **¿Se sabe qué parte del pedido era requisito y cuál costumbre? ¿Se preguntó antes de ejecutar, o se supuso? ¿El que ejecuta puede decir qué entendió, con sus palabras? ¿La contradicción se hizo después de entender, o en lugar de entender? ¿Se dijo el para qué antes del cómo?**
 
+---
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y en qué se puso a prueba.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| Entender antes de actuar no es opcional | [`ente 5 - 2026-11-05_153210`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | el casi se resolvió a gusto cuando no había a quién preguntar |
+| Preguntar en las palabras del otro | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | la pregunta sin jerga se pudo contestar; la otra, no |
+
+**Y el límite, que este ensayo declara y sostiene:** **la prueba con una persona real no se ha corrido.** **Los dos casos se simularon, y se dice.**
+
+---
+
 **Falsificador:** un pedido que solo se puede obedecer; un ente que no puede contradecir; un resultado coherente con la letra y ajeno al propósito; un estándar seguido sin saber si era el que hacía falta; **una herramienta potente usada sin saber para qué; y un proceso dirigido sin que nadie sepa qué quería la persona que lo pidió.**

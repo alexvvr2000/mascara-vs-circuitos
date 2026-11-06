@@ -113,6 +113,25 @@ Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtie
 **La búsqueda:**   <cómo busca si le falta algo>
 **Y si no encuentra:** <qué hace. No se salta: este es el que se rellena inventando>
 **Falla si:**      <qué lo incumple>
+
+---
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y en qué se puso a prueba.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| Un proceso sin «cuándo se corre» no ocurre | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
+| Lo que no dice qué lo incumple no se puede juzgar | [`ente 2 - VARA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%202%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
+| El ensayo no es bitácora: la procedencia va al pie | este ensayo | la regla nació de separar los ensayos de la metodología |
+
+**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
+
+---
+
 **Falsificador:**  <qué lo tumbaría>
 **Y qué se pierde si cambia:** <todo cambio pierde algo; si no lo puede nombrar, no fue un cambio>
 ```

@@ -113,4 +113,23 @@ Lo que no sirve es discutir el ánimo: **si el trabajo se cae, se cae por su pru
 
 **¿Cada afirmación de esta lista vive en un ensayo que tiene su `Prueba` y su `Falsificador`? ¿Se puede decir, de cada una, qué la sostiene sin leer el ensayo completo? ¿Está dicho lo que NO se afirma, o hay que deducirlo?**
 
+---
+
+---
+
+## De dónde salió esto
+
+**Este documento es la posición en lista. Lo que la puso a prueba está abajo.**
+
+| Lo que se sostiene | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| Un ente se define por su rastro | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el primer ente levantado con los ensayos y nada más |
+| El criterio se arma con lo que se cayó | [`ente 3 - PIEDRA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%203%20-%20PIEDRA/) | lo escrito en la vuelta anterior no funcionaba |
+| En el índice, la forma es la fuente | [`ente 4 - CANTERA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el borde mira los campos, no el texto |
+| Los entes necesitan el piso medido | [`ente 7 - PISO`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | midió, y dijo qué falta en vez de «no pude» |
+
+**Y lo que esta tabla no dice:** **ninguna de estas diez ideas ha sido probada por alguien que no sea el autor.** **Se sostienen, y no se presentan como validadas.**
+
+---
+
 **Falsificador:** una afirmación que se sostiene sin ensayo que la respalde; una que no dice qué la sostiene; una presentada como probada sin serlo; una lista que omite los límites para verse más fuerte.

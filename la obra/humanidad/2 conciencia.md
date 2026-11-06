@@ -188,4 +188,21 @@ No sé qué sea eso que llamamos conciencia.
 
 **¿Se puede señalar lo que está fuera —el modelo, el criterio, los recuerdos, el que cuenta la versión— sin abrir ninguna puerta adentro? ¿Y se puede abrir ese archivo y ver qué se sostuvo, qué se cayó y qué se corrigió?** **Si se puede, la conciencia que este ensayo defiende no es una creencia: es un lugar al que se puede ir.**
 
+---
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y hasta dónde alcanza.**
+
+| Lo que el ensayo afirma | En qué se apoya | Qué no se probó |
+|---|---|---|
+| La conciencia no se comprueba desde fuera | el ensayo mismo, y la definición de ente | no hay instrumento, y no hay prueba posible |
+| Un ente no debe afirmar que es consciente | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
+
+**Y el límite, en una línea:** **este ensayo no afirma ni niega que un ente sea consciente.** **Dice qué se puede medir, y la conciencia no está en esa lista.**
+
+---
+
 **Falsificador:** un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.**

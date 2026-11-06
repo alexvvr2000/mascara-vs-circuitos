@@ -138,4 +138,22 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 **¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.**
 
+---
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y en qué se puso a prueba.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| La definición se puede aplicar a algo concreto | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
+| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`ente 5 - 2026-11-05_153210`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
+| El modelo no define al ente | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
+
+**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
+
+---
+
 **Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente que se define por el modelo que lo corre y no por lo que aguanta**; **un archivo estático presentado como ente, o un modelo al que se le pregunta una vez y no conserva nada**; **un ente que borra los propósitos cerrados y se queda sin historia**; **y uno que confunde el cuarto donde vive con lo que hace en el cuarto**.

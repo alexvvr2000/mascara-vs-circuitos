@@ -154,4 +154,23 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 
 **¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Cada hecho dice qué se supuso, y en qué quedó ese supuesto? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?**
 
+---
+
+---
+
+## De dónde salió esto
+
+**Lo que este ensayo afirma, y en qué se puso a prueba.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| El hecho se apunta sin resumir | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el primer registro completo: fecha, frase literal y medida |
+| La fricción necesita su porqué, o es un lamento | [`ente 2 - VARA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%202%20-%20VARA/) | las fricciones sin razón no se podían volver a leer |
+| Sin desenlace no hay criterio | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
+| El criterio es del ente y el sesgo del cuerpo | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
+
+**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
+
+---
+
 **Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo; **un hecho sin modelo, que no se puede separar de la inclinación del cuerpo que lo produjo**; **un hecho sin propósito, que no se puede juntar con nada de lo que el ente estaba haciendo**; **un registro que dice qué se hizo y no de dónde salió la idea**; **y un supuesto que se escribió y nunca se cerró, que después se lee como si estuviera confirmado.**
