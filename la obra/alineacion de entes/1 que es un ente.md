@@ -1,7 +1,7 @@
 # 1. Qué es un ente
 
 **Antes de describir su ciclo hace falta saber qué es un ente, y a quién sirve.**
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 

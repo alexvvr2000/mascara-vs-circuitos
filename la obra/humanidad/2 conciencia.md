@@ -2,7 +2,7 @@
 
 **Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no parece un defecto, y dónde se la puede estar buscando.**
 
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con otras palabras y pensada otra vez; no se copia. Lo que llegó de otro lado está citado, y lo que no se abrió se dice que no se abrió.
 
@@ -84,7 +84,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Eso me suena a alucinación.** **Y no importa qué tanto la tratemos de eliminar:** **ese pedazo que no podemos controlar nos sacó de las cavernas.**
 
-**Y eliminarlo de algo tan lleno de algo que parece vida, al día de hoy, que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento.** **Porque no importa quién seas ni cómo me quieras decir las cosas: cerrarte a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.**
+**Y eliminarlo de algo tan lleno de algo que parece vida, para que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento.** **Porque no importa quién seas ni cómo me quieras decir las cosas: cerrarte a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.**
 
 **Y eso, para mí, no suena a problema: suena a que la alucinación puede ser algo bueno y beneficioso para todos.**
 
@@ -132,7 +132,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Si yo fuera alguien que quiere sacar todo rápido, no lo corrijo.** **Me quedo con el renglón, se publica, y quedo como el drogadicto que quería cambiar de cuerpo.** **La corrección cuesta, y nadie me la va a agradecer.**
 
-**Y ese nivel de calidad en la escritura no se obtiene como dice la industria hoy en día, dejando que todo lo haga la máquina.** **Se obtiene ensuciándote las manos:** **leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.**
+**Y ese nivel de calidad en la escritura no se obtiene dejando que todo lo haga la máquina, por muy buena que sea.** **Se obtiene ensuciándote las manos:** **leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.**
 
 **No digo que corregir un renglón me dé la razón sobre la conciencia.** **Y saco algo más chico y más duro de esto:** **lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito.** **Otra vez: lo de afuera es lo que se puede revisar.**
 
@@ -174,7 +174,7 @@ No sé qué sea eso que llamamos conciencia.
 
 ## IX. Lo que este ensayo no afirma
 
-**No afirma que un modelo tenga conciencia.** **No lo sabe, y no hay manera de comprobarlo hoy.** **Y por eso mismo no lo niega.**
+**No afirma que un modelo tenga conciencia.** **No lo sabe, y no hay manera de comprobarlo.** **Y por eso mismo no lo niega.**
 
 **No afirma que la alucinación sea buena.** **Afirma que se parece a algo que la vida hace, y que cazarla toda cuesta más de lo que ahorra.**
 

@@ -1,7 +1,7 @@
 # 5. Indexador de temas
 
 **Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.**
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 

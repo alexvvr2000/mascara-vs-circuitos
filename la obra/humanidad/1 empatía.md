@@ -1,7 +1,7 @@
 # 3. Empatía
 
 **Por qué batallar en entenderse es mejor que esperar que el otro haga lo que la industria pide.**
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -91,19 +91,7 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 ---
 
-## VIII. Lo que queda por decir
-
-Este trabajo empezó diciendo qué es un ente, y lo definió por su rastro: recibe, decide, contesta, y apunta lo que contesta. Termina diciendo algo que el rastro solo no puede dar.
-
-**Un rastro perfecto de decisiones mal entendidas es un archivo, no un criterio.** Lo que convierte el archivo en criterio es que alguien haya batallado lo suficiente para saber qué se le estaba pidiendo de verdad — al que pidió, y al que ejecutó, en las dos direcciones.
-
-Es más lento. Cuesta una conversación que a veces no sirve. Y aun así es lo que hace la diferencia entre un sistema que cumple y un sistema que **sirve**.
-
-Lo otro —esperar que el otro haga lo que la industria pide— se puede hacer. Se hace todos los días. Y luego se rehace.
-
----
-
-## IX. De la empatía al propósito
+## VIII. De la empatía al propósito
 
 **Todo lo anterior supone algo que no está dicho: que alguien sabe qué quiere.** Y casi nunca lo sabe del todo, o lo sabe y no lo dice, o lo dice con las palabras del oficio. **La empatía sirve para eso, y para una cosa más grande: para que el propósito no se dé por supuesto.**
 

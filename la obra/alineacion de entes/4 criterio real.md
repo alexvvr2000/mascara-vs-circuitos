@@ -1,7 +1,7 @@
 # 4. Criterio real
 
 **Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.**
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -94,19 +94,11 @@ De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo,
 
 ---
 
-## IV. Lo que falta y por qué importa
-
-**Cuando se armó este ensayo, las bases con las que se trabajaba tenían el hecho y la fricción, y nada más.** **Ninguna columna decía cuál de las reglas volvió a ocurrir.** **Se tenía el registro completo y el peso de nada: como una biblioteca sin índice, donde los libros están y no se puede saber cuál está vigente.**
-
-**Y hay una segunda falta, más sutil: el vínculo.** **La fricción no sabía de qué hecho nació.** **Se podía adivinar por la hora, y adivinar por la hora es lo que hace quien no quiere construir criterio sino justificarse.** **La fricción debe poder señalar su hecho, y el hecho debe poder señalar la regla que lo cerró.**
-
-**Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** **Y entonces la consulta que importa no es "¿qué sé?", sino "¿qué de lo que sostengo ya se cayó, y cuántas veces?".** **Esa pregunta, y no otra, es la que forma criterio.**
-
-**Los números no van aquí, y no es descuido.** **Un conteo de hechos y fricciones dentro de un ensayo envejece el ensayo el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números de hoy están en el registro, fechados, y ahí se consultan: en el banco del ente que se use, que se actualiza solo, y no en la prosa.**
+**Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** **Y entonces la consulta que importa no es «¿qué sé?», sino «¿qué de lo que sostengo ya se cayó, y cuántas veces?».** **Esa pregunta, y no otra, es la que forma criterio.**
 
 ---
 
-## V. El ciclo completo
+## IV. El ciclo completo
 
 Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se detiene cuando se deja de registrar.
 
@@ -140,7 +132,7 @@ Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se
 
 ---
 
-## VI. Por qué esto es una arquitectura y no una virtud
+## V. Por qué esto es una arquitectura y no una virtud
 
 La tentación es decir que el criterio es carácter: que se tiene o no se tiene. Pero el carácter no se puede auditar, y lo que no se puede auditar se puede fingir. Lo que aquí se describe **sí se puede auditar**, porque está escrito y fechado y tiene contra.
 

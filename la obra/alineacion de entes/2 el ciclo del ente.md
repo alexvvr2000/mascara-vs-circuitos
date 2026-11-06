@@ -2,7 +2,7 @@
 
 **Los pasos que un ente corre, uno por uno: qué entra, qué se hace, y dónde queda.**
 
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -478,7 +478,7 @@ la fricción dice a qué hecho le toca, por su hecho_id
 | `frontera = se salio` cierra con una fricción que lo nombra | la salida del borde sin rastro |
 | `piso_id` apunta a un piso medido, o va vacío | una promesa contra un piso que no existe |
 
-**Dónde queda:** **en el hecho, al cerrar el paso 5, como cuatro columnas más.** **Y los hechos anteriores a este cambio quedan con esas columnas vacías, declarados y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.**
+**Dónde queda:** **en el hecho, al cerrar el paso 5, como cuatro columnas más.** **Y un hecho anterior a que existieran esas columnas se queda con ellas vacías, declarado y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.**
 
 **Y hay una cosa más, y es de orden, no de forma:** **un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6.** **Lo que no se puede es cerrar el ciclo sin ella.** **El cierre la cuenta como pendiente, y ahí se ve.**
 
@@ -565,7 +565,7 @@ y lo que quede a medias se dice a medias
 
 **Y su falsificador:** **un ente que se agregó una pieza y siguió sin decirlo**; **uno que truena porque le falta algo, en vez de decirlo**; **uno que se inventa la pieza y a eso le llama adaptarse**; **y uno que, sin firma, ya se la había agregado.**
 
-**Y esto no se ha probado todavía.** **Lo que hoy se sabe es que un ente lo hace cuando su dueño se lo dice; no que lo note solo.** **Queda escrito como regla, y su prueba está pendiente: cuando un ente lo haga sin que se lo pidan, será criterio y no regla.**
+**Y esto es lo más débil de este tramo, y se dice:** **un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa.** **Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.** **Y una regla que nadie ha visto cumplirse sola no se presenta como criterio.**
 
 ### Paso 4 — contesta
 

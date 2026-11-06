@@ -1,7 +1,7 @@
 # 3. Escritura en procesos
 
 **Por qué una IA debe escribir en forma de proceso y no en prosa.**
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -145,16 +145,6 @@ Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtie
 **Si un paso no dice cuándo se corre, no es un proceso: es un consejo.** **Y si un proceso no dice qué lo incumple, no es un proceso: es una esperanza.**
 
 **El criterio, en una línea:** **se puede tomar el texto, dárselo a alguien que no estaba, y que lo corra sin preguntar nada.** **Si para correrlo hay que preguntarle al que lo escribió, el texto no era un proceso.**
-
----
-
-## VIII. Lo que queda por decir
-
-Una IA que escribe prosa no deja memoria. Deja un texto que se lee y se olvida, sin fecha de fallo y sin contra. Una IA que escribe procesos deja algo que puede cruzarse, contradecirse y corregirse con el tiempo.
-
-La única manera de que el criterio no se vaya cuando se cierra la sesión es que lo escrito **tenga la forma de lo que se puede poner a prueba**. No es una cuestión de estilo. Es una cuestión de si lo que quedó escrito sirve para algo más que para ser leído una vez.
-
-Por eso la exigencia no es "procura escribir en procesos". Es que **un proceso sin qué lo incumple no es un proceso.** Y una IA, cuando escribe, tiene una sola forma de no violar eso: escribir qué lo rompe de todo lo que produce, aunque todavía no sepa bien qué es.
 
 ---
 

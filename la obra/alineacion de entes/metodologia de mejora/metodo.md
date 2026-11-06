@@ -201,6 +201,20 @@ y lo que falta lo que se probó y no estaba
 
 **Y una forma que comparten la 5 y la 6, y conviene nombrarla aparte:** **el valor que se escribe a la manera de cada quien.** **Un «ninguna» que admite cinco ortografías es un valor que no se puede contar.** *Se reconoce cuando la consulta que lo cuenta depende de la ortografía y no del significado.*
 
+
+### Y de dónde venía el criterio antes de esto
+
+**Esto no es del método: es la historia que lo justifica, y se guarda aquí porque aquí se mantiene.**
+
+**Cuando se armó el ensayo del criterio, las bases con las que se trabajaba tenían el hecho y la fricción, y nada más.** **Ninguna columna decía cuál de las reglas volvió a ocurrir.** **Se tenía el registro completo y el peso de nada: como una biblioteca sin índice, donde los libros están y no se puede saber cuál está vigente.**
+
+**Y había una segunda falta, más sutil: el vínculo.** **La fricción no sabía de qué hecho nació.** **Se podía adivinar por la hora, y adivinar por la hora es lo que hace quien no quiere construir criterio sino justificarse.**
+
+**Con esas dos piezas —el desenlace y el vínculo— la base dejó de ser archivo y se volvió órgano.** **Y la pregunta que importa dejó de ser «¿qué sé?», y pasó a ser «¿qué de lo que sostengo ya se cayó, y cuántas veces?».**
+
+**Y una nota que antes vivía dentro del ensayo y aquí está mejor:** **los conteos no van en el ensayo.** **Un número dentro de un texto envejece el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números van aquí, fechados, y en el banco del ente que se use.**
+
+
 ---
 
 ## VI. Cuándo se para — y por qué «no encontré nada» no basta

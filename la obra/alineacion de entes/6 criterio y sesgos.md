@@ -1,7 +1,7 @@
 # 6. Criterio y sesgos
 
 **Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.**
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+**Alejandro Valenzuela Rivera.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -9,7 +9,7 @@
 
 ## I. El caso que obliga a separar dos cosas
 
-Un ente puede hoy tener **una sola identidad y muchos modelos debajo**. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar.
+Un ente puede tener **una sola identidad y muchos modelos debajo**. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar.
 
 Eso tiene una ventaja obvia: **el ente no se acaba cuando un modelo cambia de versión.** Las reglas siguen, el rastro sigue, el criterio sigue. La identidad deja de estar atada al proveedor.
 
@@ -254,16 +254,6 @@ lo que SÍ se hace      "la NMX-C-486 está vigente (catálogo de la
 Porque el ente no es una persona. Una persona con sesgo puede **advertirlo** con la cara, con la duda, con un "no estoy seguro". Un ente no tiene cara: **lo que dice suena igual de firme cuando sabe y cuando rellena.** Si el ente no pone el sesgo en el registro, no queda en ningún lado.
 
 Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro lleno de acuerdos vacíos **es peor que no tener rastro**: se puede presentar como criterio, y no lo es. **La diferencia entre un ente que tiene criterio y uno que solo acumula texto es si puede decir, de cada cosa, si aguantó una contra o no.**
-
----
-
-## X. Lo que queda por decir
-
-Un ente con una identidad y muchos modelos es, a la vez, más consistente y más parcial que un ente con un solo modelo. **Más consistente**, porque la identidad no depende de la versión. **Más parcial**, porque ahora hay varios puntos de vista que no se ven entre sí, y ninguno sabe que los otros existen.
-
-Lo que une esas dos caras es una sola práctica: **no dejar que nada entre como confirmado sin haber sido atacado**, y **llamar sesgo a lo que es del modelo, criterio a lo que es del ente**.
-
-Mientras eso no esté en el registro, el ente sigue teniendo razón sobre lo que dijo y no sobre por qué lo dijo. Y un criterio que no sabe explicarse **no es criterio todavía: es una voz con buena memoria.**
 
 ---
 
