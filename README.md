@@ -42,7 +42,7 @@
 
 ## Qué es esto, en tres líneas
 
-**Qué es:** una propuesta metodológica, once documentos y una guía, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.
+**Qué es:** una propuesta metodológica, **nueve ensayos y cinco afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -86,21 +86,21 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 ## Las once ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador.
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E5` el ciclo del ente, `C1` la colmena, `H1` … `H3` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
-| **1** | Un ente se define por su rastro, no por lo que tiene dentro | `1` |
-| **2** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `2` |
-| **3** | Un ente con varios modelos tiene un criterio y varios sesgos | `4` |
-| **4** | Una IA debe escribir en procesos, no en prosa | `5` |
-| **5** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `6` |
+| **1** | Un ente se define por su rastro, no por lo que tiene dentro | `E1` |
+| **2** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E3` |
+| **3** | Un ente con varios modelos tiene un criterio y varios sesgos | `E5` |
+| **4** | Una IA debe escribir en procesos, no en prosa | `E2` |
+| **5** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
 | **6** | **Y eso hace accesible la IA con modelos pequeños** | aquí abajo |
-| **7** | En el índice, la forma es la fuente y el texto es el derivado | `7` |
-| **8** | Un conjunto no es un enjambre si alguien responde por él | `8` |
-| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `3` |
-| **10** | **La conciencia que se busca adentro no está adentro** | `9` |
-| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `9`, VII |
+| **7** | En el índice, la forma es la fuente y el texto es el derivado | `E4` |
+| **8** | Un conjunto no es un enjambre si alguien responde por él | `C1` |
+| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
+| **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
+| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
 
 **La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).**
 
@@ -237,7 +237,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 **E es el ciclo del ente; C, el de la colmena; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
-**Y dentro de `ciclo del ente/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos cinco ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las cuatro corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
+**Y dentro de `ciclo del ente/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos cinco ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las seis corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
 
 **Aparte:**
 
@@ -247,7 +247,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
 | [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
-| [`la obra/ciclo del ente/metodologia de mejora/`](./la%20obra/ciclo%20del%20ente/metodologia%20de%20mejora/) | **Los cuatro entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los doce huecos, con el ente que los encontró.** |
+| [`la obra/ciclo del ente/metodologia de mejora/`](./la%20obra/ciclo%20del%20ente/metodologia%20de%20mejora/) | **Los seis entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los huecos, con el ente que los encontró.** |
 
 ---
 
@@ -270,7 +270,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
        H1  empatía              cómo se entiende antes de pedir
        H2  conciencia           qué hacemos con una palabra que no sabemos definir
        H3  medicion de talentos cómo se sabe si el trabajo es de verdad
-   y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las cuatro corridas
+   y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las seis corridas
 ```
 
 **El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de los tres.**

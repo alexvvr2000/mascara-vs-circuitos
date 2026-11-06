@@ -2,7 +2,7 @@
 
 **Alejandro Valenzuela Rivera · `TESTIGO` · 5 de noviembre de 2026.**
 
-> **Y esto se escribió después de usarlo cuatro veces, no antes.** **Las cuatro corridas están en `corridas/`, y se pueden abrir y correr.**
+> **Y esto se escribió después de usarlo seis veces, no antes.** **Las seis corridas están en `corridas/`, y se pueden abrir y correr.**
 
 ---
 
@@ -136,7 +136,7 @@ el índice      qué sabe, y por dónde entra
 
 ## V. Los cuatro defectos que se repiten
 
-**De cuatro corridas salieron doce huecos, y casi todos son de cuatro familias.** **Reconocerlas es lo que ahorra corridas.**
+**De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias.** **Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles.** **Reconocerlas es lo que ahorra corridas.**
 
 **1. Lo que se nombra no existe.** **Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna.** **El lector lo rellena con lo que suena bien.**
 *Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
@@ -165,7 +165,7 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 **Y la (b) ocurre sin que nadie lo decida.** **Cada vuelta el ensayo se adapta a la prueba anterior.** **Llega un punto donde el ente que se levanta ya se parece al anterior, y se encuentra cero.** **Eso no es que el ensayo esté completo: es que ya no se está probando, se está repitiendo.**
 
-**Y los números lo dicen:** **cuatro corridas, 5 · 3 · 2 · 3 huecos.** **No baja.** **Con esa serie, «cero» es una decisión, no un resultado.**
+**Y los números lo dicen:** **las cuatro primeras, 5 · 3 · 2 · 3 huecos; y después 0 y 0.** **No baja sola: la bajó alguien.** **Con esa serie, «cero» es una decisión, no un resultado.**
 
 **Entonces el criterio son cinco condiciones, y ninguna es «no encontré nada»:**
 
@@ -346,11 +346,11 @@ el ciclo de la autonomía    no se acaba. Se regula
 
 ## X. Lo que este método no es
 
-**No es que el ensayo esté mal por cada hueco.** **Un ensayo completo a la primera, corrido cuatro veces sin cambio, es sospechoso: o no se probó, o la prueba no exigía nada.**
+**No es que el ensayo esté mal por cada hueco.** **Un ensayo completo a la primera, corrido varias veces sin cambio, es sospechoso: o no se probó, o la prueba no exigía nada.**
 
 **No es una prueba de que el ensayo sirva.** **Es una prueba de lo que el ensayo no dice.** **Se pueden cerrar cada hueco y seguir sin un ensayo que se pueda seguir.**
 
-**Y no se hace solo.** **En las cuatro corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
+**Y no se hace solo.** **En las seis corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
 
 ---
 ## XI. Lo que se dice hoy, con los números de hoy

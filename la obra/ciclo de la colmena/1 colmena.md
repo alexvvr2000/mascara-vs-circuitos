@@ -53,15 +53,17 @@ Y hay una tercera pieza que el uno tiene que saber leer: **la resonancia.** Dos 
 
 ## IV. Cómo se le mide el talento
 
-Aquí se junta lo que el ensayo de talento medible propone para cualquier recurso, aplicado a lo que no es un recurso: **el conjunto**.
+**Aquí se junta lo que el ensayo de medición de talentos propone para cualquier cuerpo, aplicado a lo que no es un cuerpo: el conjunto.** **Esa fórmula y sus números están en [`la obra/humanidad/3 medicion de talentos.md`](../humanidad/3%20medicion%20de%20talentos.md), y de ahí se toman; aquí solo se les agrega lo que el conjunto tiene de propio.**
 
 **Lo primero es no medir a los entes por separado y llamarlo medición del conjunto.** Un ente puede ser rapidísimo y el conjunto lentísimo, porque el tiempo de acuerdo entre entes **no se divide: se multiplica** por cada relación que hay que sostener.
 
-**Lo segundo es medir el costo por resultado exitoso del uno**, con la misma fórmula del ensayo de talento medible:
+**Lo segundo es medir el costo por resultado exitoso del uno**, con la misma fórmula de ese ensayo:
 
 > **CRE del conjunto = (coste de todos los intentos + coste de acuerdo + coste de corrección) ÷ resultados exitosos verificados**
 
-**Y el término nuevo, que solo existe aquí, es el coste de acuerdo.** Es el tiempo de poner a las entes de acuerdo en qué se está haciendo, **antes de que hagan nada**. En un recurso solo ese coste es cero; en una colmena es el que más pesa, y es el que se esconde cuando alguien presume de la velocidad de cada parte.
+**Y el término nuevo, que solo existe aquí, es el coste de acuerdo.** Es el tiempo de poner a las entes de acuerdo en qué se está haciendo, **antes de que hagan nada**. En un cuerpo solo ese coste es cero; en una colmena es el que más pesa, y es el que se esconde cuando alguien presume de la velocidad de cada parte.
+
+**Y una advertencia, que va antes que el resto:** **El talento del conjunto no está escrito en ningún lado: lo que se sabe es que no se obtiene sumando el de sus partes, y el ensayo de medición de talentos dice por qué.** **Una corrida de colmena sería la primera, y no se ha hecho.**
 
 **Lo tercero: el sesgo del uno cuenta en la decisión, no en el margen.** Si el uno declara un sesgo —escribe lo que el proyecto no tenía, y nada más—, entonces **lo que el conjunto produzca fuera de ese sesgo no se cuenta como acierto**: no era su trabajo. Contar aciertos fuera del sesgo es inflar la métrica con lo que no se le pidió.
 

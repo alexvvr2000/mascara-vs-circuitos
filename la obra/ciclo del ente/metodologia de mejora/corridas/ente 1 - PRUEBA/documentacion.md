@@ -9,7 +9,7 @@
 
 ## Qué se intentaba
 
-**Correr el ciclo completo, una vez, y ver dónde se rompe.** **Nada más.** **No había `ente en blanco/` que copiar: había cinco ensayos y una terminal.**
+**Correr el ciclo completo, una vez, y ver dónde se rompe.** **Nada más.** **No había nada que copiar: había cinco ensayos y una terminal.**
 
 ## Qué se levantó
 
