@@ -1,89 +1,94 @@
 # Máscara vs Circuitos
 
-**Alejandro Valenzuela Rivera · Versión inicial · 4 de noviembre de 2026.**
+**Alejandro Valenzuela Rivera · Versión inicial · 5 de noviembre de 2026.**
 
 ---
 
 ```plaintext
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-   LUCHA DE APUESTAS · RESULTADO
+   ACTA DE TRABAJO · NO DE VICTORIA
 
-   Esto no es un acta de victoria: es un acta de lo que se
-   sostuvo y lo que se cayó. Las cifras de abajo son de mi
-   trabajo anterior, `man-made-empathy`, y se citan aquí
-   porque de ahí salió este. Las de este repositorio son
-   otras, y están en su banco.
+   corridas hechas ................................. 7
+   huecos encontrados en los ensayos ............... 15
+   de esos, cerrados en el ensayo .................. 12
+   falsificadores cumplidos ........................ 0
+   corridas hechas por alguien que no sea el autor .. 0
+   comparaciones medidas contra otro trabajo ....... 0
 
-   Récord del trabajo anterior:
-      10 días de esquina
-      9 565 mensajes tirados
-      31 760 464 tokens de voz
-      4 293 493 888 de caché leída
-      y un modelo que no cambió en 9 556 de 9 565
+   Lo que hay: una propuesta metodológica, diez
+   ensayos, y siete veces que se levantó un ente
+   para ver qué le faltaba a los ensayos.
 
-   Y el acta de aquí, que es lo único que importa:
-      corridas hechas: 7
-      huecos encontrados: 15
-      de los que se cerraron en el ensayo: 12
-      falsificadores cumplidos: 0
-
-   El cartel vendió una pelea.
-   Esto es lo que quedó de ella.
+   Lo que no hay: un resultado, un producto, ni
+   una promesa de dinero.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
 
-**Y esa última línea del acta no es un olvido: es el dato más importante de la página.** **Ningún ensayo se ha caído todavía por su propio falsificador.** **Un método que nunca se cayó no sabe caerse.**
-
-**El cartel es la forma. Lo que se apuesta aquí fue en serio: diez tesis, cada una con su falsificador, y un registro que dice qué se cayó.**
-
-
 ---
 
-## Qué es esto, en tres líneas
+## Qué es esto
 
-**Qué es:** una propuesta metodológica, **diez ensayos y diez afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
+**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Diez ensayos, diez afirmaciones, y siete corridas que se hicieron para probarlos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer el ensayo de que es un ente, correrle el falsificador a cualquiera de las diez, y **construir el tuyo con los ensayos, que es lo que hay.** **No hace falta pedir permiso, y no se aceptan contribuciones.**
+**Qué puedes hacer hoy:** leer qué es un ente, correrle el falsificador a cualquiera de las diez afirmaciones, y **levantar el tuyo con los ensayos, que es lo que hay.**
 
-**Y que quede dicho antes de que alguien lo espere:** **no hay guía.** **Hubo una, y se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero.** **Lo que hay son los ensayos y las siete corridas: se aprende leyendo el que corrió y lo que le faltó, no copiando una receta.**
-
----
-
-## Una publicación de la gente, para la gente
-
-Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron diez ideas, y de esas diez, una carrera.
-
-**Y nació de apostar dos identidades**, que es lo que hace este nombre aquí.
-
-**Lo que se perdió:** la máscara de mentiras que la industria me estaba vendiendo, y mi ego — el que me llenó de coraje al ver compañeros desanimados, viendo cómo se hace pasar el oficio por un trabajo de niños de kínder.
-
-**Lo que se ganó:** entender que **el código es el 1% del trabajo**. Y una forma de ver lo que no se podía ver.
-
-**Esa es la apuesta, y no tiene vuelta:** la IA no ganó el debate por ser más lista. **Ganó porque obligó a mirar hacia donde el ego no dejaba.** Y ahora puede hacer lo mismo para todos — con la condición de que se le dé la forma, no la fe.
-
-**Máscara contra circuitos. Y aquí, las dos se quitaron la máscara.**
-
-**No vine a publicar más papers, porque la gente no ocupa más papers: ocupa resultados, y rápido.** **Lo que sigue es una propuesta con siete corridas detrás, y se puede tumbar.** Cada afirmación trae su prueba y su falsificador, y lo que no está probado se dice que no está probado. **Lo que aquí no hay, y conviene saberlo antes de entrar: una comparación medida contra nada, ni una sola corrida hecha por alguien que no sea el autor.**
-
-**El trabajo no pide que se le crea. Pide que se le use, y que se le refute.**
-
-Y el que se haga la pregunta más importante que esta, que la haga: no hay escasez de preguntas. Hay escasez de gente que las corra.
+**Y que quede dicho antes de que alguien lo espere:** **no hay guía.** **Hubo una, y se borró porque no pasó la prueba de levantarse desde cero.** **Se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.**
 
 ---
 
-## Lo que tiene esto que no tenga lo que ya existe
+## Lo que este trabajo sostiene, y lo que no
 
-**Lo que hay publicado construye el grafo desde el texto. Aquí es al revés: el grafo manda y el texto se deriva.**
+**Lo sostiene una idea sola, y de ella cuelga todo:**
 
-No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el cambio queda escrito con fecha, y se puede preguntar por lo que se dejó de sostener.** Lo que está publicado no puede hacer eso, porque en cuanto el texto manda, la forma se vuelve interpretación.
+> **Un ente no se define por lo que tiene dentro —eso no tiene comprobación— sino por lo que deja rastro.** **Recibe, decide, contesta y apunta lo que contestó.** **Eso sí se puede medir, comparar y corregir.**
 
-**Y de ahí sale la segunda diferencia, que no es del índice:** un ente no se define por lo que tiene dentro —eso **no tiene comprobación**— sino por **lo que deja rastro**. Recibe, decide, contesta y apunta lo que contestó. **Eso sí se puede medir, comparar y corregir.**
+**Y de ahí salen las otras dos diferencias contra lo que ya existe:**
 
-**No medí nada contra lo que se cita.** Es un contraste de forma, no de rendimiento, y así está declarado.
+- **El criterio no se recuerda: se arma con lo que se cayó.** **El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.**
+- **En el índice, la forma es la fuente y el texto se deriva.** **Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.**
+
+**Y ahora lo que NO:**
+
+- **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
+- **No hay una corrida hecha por alguien que no sea yo.** **Todo lo probado aquí lo probé yo, en mi máquina.**
+- **No se ha cumplido ni un falsificador.** **Un método que nunca se cayó no sabe caerse todavía.**
+- **No hay producto, ni licencia que cobrar, ni cliente.** **No promete dinero.**
+- **Y no hay guía.** **Se borró, y no se escribe otra hasta que el ciclo quede sin huecos.**
+
+---
+
+## Cómo se lee
+
+```plaintext
+1. esta entrada            qué hay, y qué no
+
+2. la obra/0 lo que pienso
+   y no puedo probar       hacia dónde apunta, aparte de lo probado
+
+3. la obra/0 mis ideas     la posición en lista, y qué la tumba
+
+4. la obra/alineacion de entes/
+     E1  que es un ente         la definición, y qué no define a un ente
+     E2  el ciclo del ente      los pasos, uno por uno
+     E3  escritura en procesos  por qué proceso, y no prosa
+     E4  criterio real          el hecho, la fricción y el desenlace
+     E5  indexador de temas     dónde vive lo que sabe
+     E6  criterio y sesgos      qué es del ente y qué del cuerpo
+
+5. la obra/humanidad/
+     H1  empatía                cómo se entiende antes de pedir
+     H2  conciencia             qué hacemos con una palabra que no sabemos definir
+     H3  medicion de talentos   cómo se sabe si el trabajo es de verdad
+     H4  ALAS                   cómo se habla con otro que no es como uno
+
+6. metodologia de mejora/     las siete corridas, y qué le faltó a cada una
+```
+
+**Y si solo vas a leer una cosa, lee las corridas.** **Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.**
 
 ---
 
@@ -94,12 +99,12 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | # | La idea | Vive en |
 |---|---|---|
 | **1** | Un ente se define por su rastro, no por lo que tiene dentro | `E1` |
-| **2** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E3` |
-| **3** | Un ente con varios modelos tiene un criterio y varios sesgos | `E5` |
-| **4** | Una IA debe escribir en procesos, no en prosa | `E2` |
+| **2** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E4` |
+| **3** | Un ente con varios modelos tiene un criterio y varios sesgos | `E6` |
+| **4** | Una IA debe escribir en procesos, no en prosa | `E3` |
 | **5** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
-| **6** | **Y eso hace accesible la IA con modelos pequeños** | aquí abajo |
-| **7** | En el índice, la forma es la fuente y el texto es el derivado | `E4` |
+| **6** | **Y eso hace accesible la IA con modelos pequeños** | `La apuesta`, abajo |
+| **7** | En el índice, la forma es la fuente y el texto es el derivado | `E5` |
 | **8** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
 | **9** | **La conciencia que se busca adentro no está adentro** | `H2` |
 | **10** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
@@ -108,13 +113,25 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 
 ---
 
-## La carrera
+## La apuesta
 
 **Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.**
 
-Cualquiera con modelos accesibles puede entrar. **De ahí la carrera: no a tener el modelo más grande, sino a armar el ente que lo haga rendir.**
+**Es una conjetura con mecanismo y sin medición.** **No la presento como resultado, y no la he medido.**
 
-**Y la carrera no termina ahí.** Con un ente que sepa medirse, registrarse y corregirse, la pregunta deja de ser *cómo se hace más grande* y pasa a ser **qué se puede hacer con el que ya hay.**
+---
+
+## Por qué, si esto sirve, importa
+
+> **Esto no es un resultado. Es por qué el autor lo hace, y va aparte de lo que se prueba.**
+
+**En esta carrera no estamos solo los que trabajamos un lenguaje de máquina.** **Está también el profesor que enseña con lo que hay, y quien combate una enfermedad, y quien intenta describir el universo.**
+
+**Y el ejemplo que al autor le importa no está probado:** **una herramienta con criterio propio —que registre, mida y se corrija— aplicada a donde hoy manda el dinero, podría mover la balanza hacia lo que se está dispuesto a sostener.** **No sé si eso se logre.**
+
+**Lo que sí sé es esto, y es lo que separa este trabajo de una promesa: la barrera de entrada bajó en software, y no bajó igual en todo lo demás.**
+
+**Sé que Dios, y mi tía que está con Él, me ven mientras escribo esto.** **Eso es del autor, y no es un argumento: es de dónde viene la razón para seguir.**
 
 ---
 
@@ -184,99 +201,24 @@ Cualquiera con modelos accesibles puede entrar. **De ahí la carrera: no a tener
 
 **Y eso no es modestia: es la mecánica.** **Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma.** **Un método se copia, se cambia y se tumba. Un dogma se cree.** **Aquí solo cabe lo primero.**
 
-**Lo que esto sí es, entonces:** **una de muchas conclusiones, escrita hasta el final, con sus números, sus guías y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.**
+**Lo que esto sí es, entonces:** **una de muchas conclusiones, escrita hasta el final, con sus números, sus ensayos y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.**
 
 **¿Y cómo se reconoce una alternativa cuando la encuentres?** **Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba.** **Si no dice qué la tumba, no es una alternativa: es otra opinión.**
 
 ---
 
-## Qué es esto y qué no es
-
-**Es una propuesta metodológica, no una verdad.**
-
-- **No es un trabajo sobre modelos de lenguaje.** Es **una metodología para cualquier IA cuyo costo por resultado exitoso se pueda medir.** El modelo es el ejemplo, no el objeto.
-- **Nació de un debate de lógica**, no de una medición. Es **mi lectura** de un proceso real: la destrucción de un repositorio anterior, y lo que se aprendió de ella.
-- **No es la verdad.** Es **una de muchas conclusiones posibles.** La meta es que del repositorio anterior **mucha gente arme las suyas**; esta es una.
-- **No demuestra que sus hipótesis sean universalmente ciertas.** Se investiga qué es posible observar, cómo registrarlo y qué mecanismos permiten identificar patrones.
-- **Mi afirmación más fuerte — que un modelo pequeño rinde con el ente correcto — no está probada.** Es conjetura con mecanismo, y así la presento.
-
-**Y la razón de decirlo así:** quien llega afirmando que encontró la verdad, se queda sin defensa en cuanto le piden datos. **Presentarlo como propuesta, con sus falsificadores, es lo que lo hace difícil de tumbar.**
-
----
-
 ## Estado de esta versión
 
-> **Este trabajo todavía no se publica.** Está en revisión con su asesor, **Luis Ángel Gutiérrez Rodríguez**, que actúa como **auditor** de este trabajo. El repositorio sigue **privado**, y **no hay depósito en Zenodo ni DOI de esta versión**. La publicación y el depósito se hacen **cuando él lo autorice**, y no antes.
-
----
-
-## La ruta de lectura
-
-| # | Archivo | Qué responde |
-|---|---|---|
-| — | `la obra/0 lo que pienso y no puedo probar.md` | **Hacia dónde apunta todo esto, y qué de eso no puedo probar todavía.** Lo que se piensa, separado de lo que se corrió. |
-| — | `la obra/0 mis ideas.md` | **Mi posición, en lista.** Las afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
-| **0b** | `los papeles/0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
-| **0c** | `los papeles/0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
-| **E1** | `la obra/alineacion de entes/1 que es un ente.md` | **Qué es un ente, y por qué no se define por el modelo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
-| **E2** | `la obra/alineacion de entes/2 el ciclo del ente.md` | **El ciclo entero, paso por paso.** Qué entra, qué se hace y dónde queda en cada paso, y las tres preguntas del piso. |
-| **E3** | `la obra/alineacion de entes/3 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa: lo que no dice cuándo se corre, no ocurre. |
-| **E4** | `la obra/alineacion de entes/4 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
-| **E5** | `la obra/alineacion de entes/5 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. **Y se consulta antes de decidir.** |
-| **E6** | `la obra/alineacion de entes/6 criterio y sesgos.md` | **Qué es del ente y qué del cuerpo.** El criterio viaja; el talento se aprende por cuerpo. |
-| **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
-| **H2** | `la obra/humanidad/2 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
-| **H3** | `la obra/humanidad/3 medicion de talentos.md` | **Cómo se sabe si un ente está haciendo trabajo de verdad.** Con números, sin preguntarle al modelo qué tan bueno es. Costo real, varianza, y la caída contada por su puerta. |
-| **H4** | `la obra/humanidad/4 ALAS.md` | **Cómo se habla con otro que no es como uno.** Cuatro letras, y una prueba: que el otro pueda seguir sin el que habló. |
-
-**E es la alineación de entes; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
-
-**Y dentro de `alineacion de entes/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos seis ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las siete corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
-
-**Aparte:**
-
-| Archivo | Qué es |
-|---|---|
-| `los papeles/ATTRIBUTION.md` | El uso de IA por partes, quién hizo qué, las herramientas, y el origen. **Léelo antes de dudar de la autoría.** |
-| `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
-| `LICENSE.txt` | CC BY 4.0. |
-| [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
-| [`la obra/alineacion de entes/metodologia de mejora/`](./la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/) | **Los siete entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los quince huecos, con el ente que los encontró.** |
-
----
-
-## Cómo se comprueba, y en qué orden se lee
-
-**Cinco puertas, y este es el orden que yo seguiría:**
-
 ```plaintext
-1. esta entrada          qué es, y qué se está apostando
-2. la obra/              y dentro, dos carpetas:
-     alineacion de entes/   la unidad sola: su criterio, su índice, su rastro
-       E1  que es un ente       la definición de la que cuelga todo
-       E2  el ciclo del ente    los pasos, uno por uno
-       E3  escritura en procesos por qué proceso, y no prosa
-       E4  criterio real        cómo se arma el criterio
-       E5  indexador de temas   dónde vive lo que sabe, y cuándo se consulta
-       E6  criterio y sesgos    qué es del ente y qué del cuerpo
-     humanidad/             lo que no es maquinaria
-       H1  empatía              cómo se entiende antes de pedir
-       H2  conciencia           qué hacemos con una palabra que no sabemos definir
-       H3  medicion de talentos cómo se sabe si el trabajo es de verdad
-       H4  ALAS                 cómo se habla con otro que no es como uno
-   y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las siete corridas
+versión            1.0.0, inicial
+ensayos            10
+corridas           7
+falsificadores cumplidos   0
+lo que falta       una corrida hecha por alguien que no sea el autor,
+                   y la prueba con alguien que no sabe de IA
 ```
 
-**El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de las dos.**
-
-**Y para verificar, sin creerme:**
-
-| Lo que quiero ver | Dónde está |
-|---|---|
-| **que los commits son míos** | **`git log --show-signature`** — la firma `OpenPGP` está dentro de cada commit |
-| **qué no se abrió** | **`los papeles/0b metodologia y legalidad.md`** — cada fuente con su estado |
-
-**Y si algo de esto no cuadra, ese es el hallazgo.** **No pido confianza: pido una corrida.**
+**Se publica en este estado y no en uno mejor, porque este es el estado real.** **Y porque un trabajo que sólo se enseña terminado no deja ver cómo se llegó.**
 
 ---
 
@@ -313,7 +255,7 @@ grep -n "Falsificador" *.md
 
 ## En una línea
 
-**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que este trabajo no corre: la nombra.** **Lo que aquí se entrega son nueve ensayos y siete corridas, con lo que falta dicho con nombre.**
+**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que este trabajo no corre: la nombra.** **Lo que aquí se entrega son diez ensayos y siete corridas, con lo que falta dicho con nombre.**
 
 **El que llegue, que traiga el rastro.**
 
