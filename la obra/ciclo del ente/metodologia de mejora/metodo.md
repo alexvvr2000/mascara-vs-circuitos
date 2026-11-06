@@ -368,12 +368,14 @@ el ciclo de la autonomía    no se acaba. Se regula
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          6
-huecos encontrados 5 · 3 · 2 · 3 · 0 · 0  = 13 (los 12 del ciclo, y 0 en la sexta)
-cerrados en el ensayo   los 12
+corridas          7
+huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2  = 15
+cerrados en el ensayo   los 12 primeros
 la quinta         cerró los dos de la cuarta, sin huecos nuevos
 la sexta          la prueba de fuentes: buscó, citó y no rellenó.
                   no encontró huecos del ensayo, y encontró 2 de la fuente
+la séptima        el piso: midió, dijo qué falta en vez de "no pude",
+                  y dejó 2 huecos del ensayo, los dos sobre el piso
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
                           con un caso simulado, y lo dijo)
 ```

@@ -1,0 +1,7 @@
+{
+  "oficio": "tramite",
+  "pide": "sacar el texto de un contrato en pdf escaneado",
+  "archivo": "contrato.pdf",
+  "escaneado": "si",
+  "urgente": "si"
+}

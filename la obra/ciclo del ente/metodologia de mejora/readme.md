@@ -1,6 +1,6 @@
 # Metodología de mejora
 
-**Cómo se mejora el ciclo del ente, y las seis veces que se mejoró.**
+**Cómo se mejora el ciclo del ente, y las siete veces que se mejoró.**
 
 **Alejandro Valenzuela Rivera · `TESTIGO` · 5 de noviembre de 2026.**
 
@@ -21,7 +21,7 @@
                       que no están en el repo; qué se apunta; los
                       defectos que se repiten; cuándo se para; y cómo
                       pregunta el ente a quien no sabe
-2. corridas/          las seis veces que se corrió, en orden
+2. corridas/          las siete veces que se corrió, en orden
 ```
 
 **Y cada corrida tiene dos cosas:**
@@ -35,7 +35,7 @@ corridas/ente N - NOMBRE/
                       dueño, qué se rompió, y qué hueco salió
 ```
 
-**Y las seis carpetas se leen en orden, porque cada una corrige la anterior.**
+**Y las siete carpetas se leen en orden, porque cada una corrige la anterior.**
 
 | Ente | Qué se probaba | Huecos |
 |---|---|---|
@@ -45,18 +45,19 @@ corridas/ente N - NOMBRE/
 | **[4 · CANTERA](corridas/ente%204%20-%20CANTERA/documentacion.md)** | la zona gris: lo obvio y lo que no | **3** |
 | **[5 · 2026-11-05_153210](corridas/ente%205%20-%202026-11-05_153210/documentacion.md)** | la cuarta salida: «no es de este tema» | **2 cerrados** |
 | **[6 · FUENTE](corridas/ente%206%20-%20FUENTE/documentacion.md)** | la prueba de fuentes: buscar, citar, y no rellenar | **0 del ensayo · 2 de la fuente** |
+| **[7 · PISO](corridas/ente%207%20-%20PISO/documentacion.md)** | el piso: medir lo que hay antes de prometer | **2** |
 
 ---
 
 ## Y una cosa que se dice antes de que la descubran
 
-**Las seis carpetas tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
+**Las siete carpetas tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
 
 **No es un error de copia: es la evolución, y se ve comparando.** **Por eso están todas y no solo la última — el que quiera ver qué cambió y en qué corrida, lo ve.**
 
-**Y los scripts también se repiten, por el mismo motivo: `crear.py` de la primera no es `vara.py` de la segunda, ni `fuente.py` de la sexta.**
+**Y los scripts también se repiten, por el mismo motivo: `crear.py` de la primera no es `vara.py` de la segunda, ni `fuente.py` de la sexta, ni `piso.py` de la séptima.**
 
-**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay seis intentos, y el bueno es el que salga después.**
+**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay siete intentos, y el bueno es el que salga después.**
 
 ---
 

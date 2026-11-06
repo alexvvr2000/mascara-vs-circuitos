@@ -179,6 +179,25 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 
 **Y la diferencia entre las dos frases, que es toda la diferencia: "no pude" no dice qué falta. "No está en el piso" sí, y se puede llenar.**
 
+### Y lo que la corrida 7 le agregó, porque medir no basta
+
+**La corrida 7 midió el piso de una máquina y lo usó, y dejó dos huecos que el ensayo no tenía. Van aquí, porque un piso mal anotado es peor que no tener piso.**
+
+**1. La salida de un `no hay` tiene que nombrar la herramienta, no el error.**
+
+**La prueba de "leer pdf" guardó `Traceback (most recent call last):`, y eso no dice que falte `pypdf`: dice que un import falló, y eso podría ser otra cosa.** **Y un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta.** **Y la falta es el dato.**
+
+```plaintext
+lo que NO se guarda   "Traceback (most recent call last):"
+lo que SÍ se guarda   "falta pypdf: no se pudo importar"
+```
+
+**2. El piso se mide por herramienta, y el pedido llega por tarea.**
+
+**Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".** **Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.** **Sin eso, la consulta del piso busca por palabra suelta, y acierta de casualidad.**
+
+**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.** **Y esa parte no está escrita todavía: se dice aquí, y su prueba es la corrida 8.**
+
 ### Y si falta una de las cuatro
 
 **Esto no es un caso raro: es el error más fácil de cometer, y se descubrió levantando un ente, no leyendo.**
