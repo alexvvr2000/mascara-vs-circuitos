@@ -240,6 +240,37 @@ no es de este tema la pieza cae fuera del borde, y no llega a dudarse
 
 **Y si los dos dicen medio con `se pregunta`, hay dos personas que tienen que contestar, o una que contesta por los dos.** **Eso también se dice al apuntarlo: el que lo resuelva tiene que saber cuántos deciden.**
 
+### Y el solapamiento se mira primero, que es lo que la corrida 9 dejó a la vista
+
+**Decir «no se elige, se apunta» no basta si no se dice cuándo se mira.** **Y la corrida 9 encontró que el orden importa, porque equivocarlo esconde justo el solapamiento.**
+
+**El caso, tal como pasó:** **un pedido caía en dos tareas —«unir dos pdf» y «sacar el texto de un pdf»—, y una de las dos no tenía sus herramientas declaradas.** **El ente revisó las herramientas primero, encontró la tarea incompleta, y contestó:**
+
+```plaintext
+NO SE SABE: no tengo una tarea para lo que pides.
+```
+
+**Y ése era el diagnóstico equivocado.** **Sí había dos tareas.** **Lo que pasaba era que una estaba a medias.** **Y al contestar «no tengo tarea», el solapamiento —que es lo que había que apuntar— quedó tapado.**
+
+**Así que el orden de la consulta es este, y no otro:**
+
+```plaintext
+1. ¿a qué temas corresponde la pieza?
+   si son dos o más → se apunta el solapamiento, y se para ahí.
+                      no importa si a alguno le faltan campos: el
+                      solapamiento ya es el hallazgo
+   si es uno        → se sigue al paso 2
+   si es ninguno    → se declara el hueco, y se para
+
+2. ¿ese tema está completo?
+   sin borde, o sin las herramientas que necesita → se apunta que el
+   tema está a medias, y la pieza no entra por él
+```
+
+**Y la razón, en una línea:** **un tema a medias es un defecto del tema; dos temas que se solapan son un defecto del índice.** **Los dos se apuntan, y el del índice es el que se ve sin mirar más adentro.**
+
+**Y su falsificador:** **una pieza que cae en dos temas y recibe la respuesta «no sé», porque uno de los dos estaba incompleto.** **El ente contestó a la pregunta equivocada, y el índice quedó con su solapamiento a cuestas.**
+
 ### Y el de persona tampoco es "no tiene borde"
 
 **La segunda corrida dejó un tema de persona que se tragaba todo lo que no encajaba en uno de máquina.** **Y no era que el borde de persona no tuviera forma: era que nadie la había escrito.**

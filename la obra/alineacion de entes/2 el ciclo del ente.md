@@ -181,9 +181,42 @@ lo que SÍ se guarda   "falta pypdf: no se pudo importar"
 
 **Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".** **Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.** **Sin eso, la consulta del piso busca por palabra suelta, y acierta de casualidad.**
 
-**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.** **Y esa parte no está escrita todavía: se dice aquí, y su prueba es la corrida 8.**
+**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.**
 
-**La corrida 8 no la probó, y se apunta:** **la 8 levantó el paso 3, no el piso.** **Así que esto sigue siendo una regla escrita y no probada, y su corrida está pendiente.** **Una regla que se apoya en una corrida que no la miró no está probada: está prometida.**
+**Y la corrida 9 lo miró, y encontró dos cosas que aquí faltaban.**
+
+**La primera: el ente contesta por tarea, y no buscando la palabra del pedido.**
+
+```plaintext
+lo que NO se hace   el pedido dice "pdf", y se busca "pdf" en la lista
+                    de herramientas. Acierta de casualidad, y con el
+                    mismo método falla en el pedido siguiente
+lo que SÍ se hace   se pregunta a qué TAREA corresponde el pedido,
+                    y se contesta contra lo que esa tarea necesita
+```
+
+**Y la tarea se declara con sus palabras de entrada —las que usaría alguien que no sabe de herramientas— y con las herramientas que necesita, y si basta con una o se necesitan todas.** **Sin eso, el ente no tiene por dónde traducir, y traducir por parecido es adivinar.**
+
+**Y cuando no hay tarea, se dice que no hay tarea.** **La corrida 9 lo hizo con tres pedidos distintos y los tres salieron diciendo lo mismo: «no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca».** **Ése es el caso más común, y el que más se rellena.**
+
+**La segunda: el piso no se puede medir a ciegas, y esto es circular.**
+
+**La corrida 9 quiso declarar una tarea que pide `pypdf`, y el esquema la rechazó: la herramienta tenía que existir ya en el piso.** **Y el rechazo es correcto —una tarea no puede apuntar a algo que no se midió— y el orden es imposible:** **la tarea es justo lo que dice qué hay que medir.**
+
+```plaintext
+si el piso se mide entero y a ciegas   sólo se puede declarar la tarea
+                                       que apunta a lo ya medido, y lo
+                                       que no se midió nunca se descubre
+si el piso se mide por tarea           hay que saber la tarea antes de
+                                       medir, y eso es lo que se quiere
+                                       saber
+```
+
+**Y lo que el ensayo dice hoy, que es lo único honesto sin resolver la circularidad:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **La corrida 7 midió siete herramientas porque las eligió a mano; esa elección no estaba escrita en ningún lado, y sigue sin estarlo.**
+
+**Y el límite, que se dice antes de que alguien lo tome por resuelto:** **esta circularidad no se cerró en la corrida 9. Se nombró.** **Un piso que no sabe qué le van a pedir no puede decir qué le falta, y ése es el techo del paso 0d hoy.**
+
+**Y su falsificador:** **un ente que acierta buscando la palabra del pedido en la lista de herramientas**; **y un piso del que no se puede decir por qué se probó eso y no otra cosa.**
 
 ### Y si falta una de las cuatro
 

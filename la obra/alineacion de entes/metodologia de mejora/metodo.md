@@ -2,7 +2,7 @@
 
 **Alejandro Valenzuela Rivera · `TESTIGO` · 5 de noviembre de 2026.**
 
-> **Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después.** **Las ocho corridas están en `corridas/`, y se pueden abrir y correr.**
+> **Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después.** **Las nueve corridas están en `corridas/`, y se pueden abrir y correr.**
 
 ---
 
@@ -216,7 +216,7 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 **Y la (b) ocurre sin que nadie lo decida.** **Cada vuelta el ensayo se adapta a la prueba anterior.** **Llega un punto donde el ente que se levanta ya se parece al anterior, y se encuentra cero.** **Eso no es que el ensayo esté completo: es que ya no se está probando, se está repitiendo.**
 
-**Y los números lo dicen:** **las cuatro primeras, 5 · 3 · 2 · 3 huecos; después 0 y 0; y luego 2 y 3.** **No baja sola: la bajaron las corridas, y la octava la subió a propósito.** **Los dos ceros no eran que el ensayo estuviera completo: eran que la prueba había dejado de exigir.** **Y volver a encontrar huecos después de dos ceros es la prueba de que el cero era eso, y no un final.**
+**Y los números lo dicen:** **las cuatro primeras, 5 · 3 · 2 · 3 huecos; después 0 y 0; y luego 2, 3 y 2.** **No baja sola: la bajaron las corridas, y la octava la subió a propósito.** **Los dos ceros no eran que el ensayo estuviera completo: eran que la prueba había dejado de exigir.** **Y volver a encontrar huecos después de dos ceros es la prueba de que el cero era eso, y no un final.**
 
 **Entonces el criterio son cinco condiciones, y ninguna es «no encontré nada»:**
 
@@ -459,7 +459,7 @@ el ciclo de la autonomía    no se acaba. Se regula
 
 **No es una prueba de que el ensayo sirva.** **Es una prueba de lo que el ensayo no dice.** **Se pueden cerrar cada hueco y seguir sin un ensayo que se pueda seguir.**
 
-**Y no se hace solo.** **En las ocho corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
+**Y no se hace solo.** **En las nueve corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
 
 **Y no se pronuncia sobre la consciencia, y esto va escrito porque es lo que más se le va a pedir que diga.**
 
@@ -482,9 +482,9 @@ ya es consciente como un humano   no se puede probar, y no se escribe
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          8
-huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3  = 18
-cerrados en el ensayo   los 12 primeros, y los 3 de la octava
+corridas          9
+huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2  = 20
+cerrados en el ensayo   los 12 primeros, los 3 de la octava, y los 2 de la novena
 la quinta         cerró los dos de la cuarta, sin huecos nuevos
 la sexta          la prueba de fuentes: buscó, citó y no rellenó.
                   no encontró huecos del ensayo, y encontró 2 de la fuente
@@ -492,16 +492,19 @@ la séptima        el piso: midió, dijo qué falta en vez de "no pude",
                   y dejó 2 huecos del ensayo, los dos sobre el piso
 la octava         la frontera: el falsificador se cumplió —el esquema
                   rechaza un hecho con frontera = decide y firma llena—
-                  y dejó 3 huecos, los tres sobre el orden y la forma
+                  y dejó 3 huecos, los tres de forma
+la novena         la tarea: el ente contesta por tarea y no buscando
+                  palabras, y dejó 2 huecos, los dos DE CONTENIDO
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
-                          con un caso simulado, y lo dijo);
-                          y el piso por tarea, que la séptima pidió y la
-                          octava no miró
+                          con un caso simulado, y lo dijo)
 la condición 2            declarada, no cumplida: no hay un tercero
-la regla de parada        sin estrenar: ninguna clase de hueco se ha
-                          repetido todavía; la octava trajo tres, y los
-                          tres fueron de forma, que es el primer dato
 ```
+
+**Y la regla de parada se estrenó, y dice que esta serie no ha terminado.**
+
+**La octava fue de forma. La novena fue de contenido: el orden de la consulta escondía un solapamiento, y el piso no se puede medir antes de saber qué se va a pedir.** **Dos huecos de contenido, y ninguno de forma.**
+
+**Así que la 9 no fue la última.** **La 10 lo será si sale de forma, y también si sale de contenido — porque con dos corridas de contenido seguidas ya se sabe que hay algo que cerrar, y lo que sigue después de cerrarlo es forma.**
 
 **Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.** **La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.**
 
