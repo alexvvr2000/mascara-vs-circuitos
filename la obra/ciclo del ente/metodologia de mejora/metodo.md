@@ -122,7 +122,7 @@ el propósito   para qué existe ahora
 el índice      qué sabe, y por dónde entra
 ```
 
-**Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** **el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0c del ensayo 1.** **Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación.** **Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0c lleva el aviso escrito.**
+**Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** **el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0a del ensayo 1.** **Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación.** **Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0a lleva el aviso escrito.**
 
 **Y las corridas 1 a 6 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** **Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco.**
 

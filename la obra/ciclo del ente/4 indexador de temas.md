@@ -1,4 +1,4 @@
-# 7. Indexador de temas
+# 4. Indexador de temas
 
 **Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
@@ -411,17 +411,6 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
 
 ---
 
-## Prueba
-
-**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue 
-o de 
-o es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
-
-**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta**; **una zona gris que se inventa al consultar en vez de declararse al escribir el borde**; **una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza**; **y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste.** **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una pieza sin campos, que obliga al borde a adivinar**; **y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle.** **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo**; **un medio que se llena con lo que no encaja, en vez de mandarlo a 
-o es de este tema**; **y dos temas que dudan sobre la misma pieza, con uno elegido en silencio.**
-
----
-
 ## Fuentes
 
 Este ensayo propone una **inversión** de una práctica que ya existe. Lo que antecede, y de dónde sale lo que aquí se escribe:
@@ -441,3 +430,11 @@ Este ensayo propone una **inversión** de una práctica que ya existe. Lo que an
 3. **Se puede preguntar por lo que se dejó de sostener.** Un tema superado sigue ahí, con su fecha y su motivo. **Con el grafo derivado del texto, lo que ya no se usa desaparece sin dejar rastro.**
 
 **Lo que este ensayo NO hace:** no se presenta como un resultado que reemplace a los anteriores, ni como una mejora medida de nada. **No se midió contra GraphRAG.** Se presenta como **una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer, no en lo que demuestra ser mejor**, y que quien lo lea puede probar y refutar con lo que ya existe.
+
+---
+
+## Prueba
+
+**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue **no** de **no es de este tema**, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
+
+**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta**; **una zona gris que se inventa al consultar en vez de declararse al escribir el borde**; **una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza**; **y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste.** **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una pieza sin campos, que obliga al borde a adivinar**; **y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle.** **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo**; **un medio que se llena con lo que no encaja, en vez de mandarlo a **no es de este tema**; **y dos temas que dudan sobre la misma pieza, con uno elegido en silencio.**

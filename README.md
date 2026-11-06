@@ -225,10 +225,10 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | **0b** | `los papeles/0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **0c** | `los papeles/0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
 | **E1** | `la obra/ciclo del ente/1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
-| **E2** | `la obra/ciclo del ente/2 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
-| **E3** | `la obra/ciclo del ente/3 criterio y sesgos.md` | **Qué es del ente y qué del modelo.** |
-| **E4** | `la obra/ciclo del ente/4 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa. |
-| **E5** | `la obra/ciclo del ente/5 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. |
+| **E2** | `la obra/ciclo del ente/2 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa: lo que no dice cuándo se corre, no ocurre. |
+| **E3** | `la obra/ciclo del ente/3 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
+| **E4** | `la obra/ciclo del ente/4 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. **Y se consulta antes de decidir.** |
+| **E5** | `la obra/ciclo del ente/5 criterio y sesgos.md` | **Qué es del ente y qué del cuerpo.** El criterio viaja; el talento se aprende por cuerpo. |
 | **C1** | `la obra/ciclo de la colmena/1 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
 | **C2** | — | **Cómo se le mide el talento al conjunto.** **Sin escribir: el talento del conjunto no está medido, y lo que se sabe es que no se obtiene sumando a sus partes.** **El talento de un ente solo se mide en `H3`.** |
 | **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
@@ -260,10 +260,10 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 2. la obra/              y dentro, tres carpetas:
      ciclo del ente/        la unidad sola: su criterio, su índice, su rastro
        E1  que es un ente       la definición de la que cuelga todo
-       E2  criterio real        cómo se arma el criterio
-       E3  criterio y sesgos    qué es del ente y qué del modelo
-       E4  escritura en procesos por qué proceso, y no prosa
-       E5  indexador de temas   dónde vive lo que sabe
+       E2  escritura en procesos por qué proceso, y no prosa
+       E3  criterio real        cómo se arma el criterio
+       E4  indexador de temas   dónde vive lo que sabe, y cuándo se consulta
+       E5  criterio y sesgos    qué es del ente y qué del cuerpo
      ciclo de la colmena/   la autoridad: varios entes, y quién responde
        C1  colmena              qué hace que un conjunto responda
      humanidad/             lo que no es maquinaria

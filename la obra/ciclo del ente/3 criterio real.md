@@ -1,4 +1,4 @@
-# 2. Criterio real
+# 3. Criterio real
 
 **Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
@@ -102,7 +102,7 @@ De las dos clases de cosa salen seis preguntas. Cada una corresponde a un campo,
 
 **Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** **Y entonces la consulta que importa no es "¿qué sé?", sino "¿qué de lo que sostengo ya se cayó, y cuántas veces?".** **Esa pregunta, y no otra, es la que forma criterio.**
 
-**Los números no van aquí, y no es descuido.** **Un conteo de hechos y fricciones dentro de un ensayo envejece el ensayo el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números de hoy están en el registro, fechados, y ahí se consultan: en el registro del ente que se use, que se actualiza con su banco, no con la prosa. **Y el que este repositorio tenía, con sus 205 hechos y sus 68 fricciones, se fue con la carpeta nte en blanco/, porque era su herencia y no la prueba.****
+**Los números no van aquí, y no es descuido.** **Un conteo de hechos y fricciones dentro de un ensayo envejece el ensayo el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto.** **Los números de hoy están en el registro, fechados, y ahí se consultan: en el banco del ente que se use, que se actualiza solo, y no en la prosa.**
 
 ---
 

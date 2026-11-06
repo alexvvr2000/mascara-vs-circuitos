@@ -19,11 +19,13 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 ---
 
-## II. Las cinco piezas que hacen un ente, y ninguna es opcional
+## II. Las cinco partes del bucle, y ninguna es opcional
+
+**No se confundan con las cuatro piezas del paso 0, que son otra cosa y van en el §IV.** **Estas cinco son lo que el ente hace en cada vuelta; las del paso 0 son lo que tiene que existir antes de que la primera vuelta empiece.**
 
 **1. La entrada.** Lo que recibe, y de quién. Sin esto, el ente existe en el vacío: contesta preguntas que nadie le hizo.
 
-**2. La decisión.** Lo que hace con lo que recibe, bajo qué reglas, y qué descarta. Casi nadie documenta esa pieza, y es la única que se puede examinar.
+**2. La decisión.** Lo que hace con lo que recibe, bajo qué reglas, y qué descarta. Casi nadie documenta esa parte, y es la única que se puede examinar.
 
 **3. La salida.** Qué produce, y para quién. Un ente que produce algo que nadie consume no tiene salida: tiene basura con formato.
 
@@ -96,9 +98,9 @@ el índice     los temas que ya sabe, y el borde de cada uno
 
 **Y las cuatro se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Y un ente sin índice declarado no tiene de dónde sacar lo que dice: contesta de memoria, y la memoria no se audita.**
 
-**Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito.** **El modelo no es una pieza del ente: es lo que lo corre hoy.** **Un ente no se declara cuando cambia de cuerpo; se adapta.** **Lo que cambia es qué tan fino puede leerse su rastro, y eso se ve en el paso 0c.**
+**Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito.** **El modelo no es una pieza del ente: es lo que lo corre hoy.** **Un ente no se declara cuando cambia de cuerpo; se adapta.** **Lo que cambia es qué tan fino puede leerse su rastro, y eso se ve en el paso 0a.**
 
-### Paso 0c — el cuerpo, que es opcional y se avisa
+### Paso 0a — el cuerpo, que es opcional y se avisa
 
 **El ente no puede saber en qué modelo está.** **No tiene con qué: un modelo no lee su propio nombre, y si lo adivina, dice lo que se le parece.** **Así que aquí no hay detección: hay declaración, y es opcional.**
 
@@ -400,7 +402,7 @@ hasta dónde no alcanza      la frontera, del paso 4
 qué no se sabía             lo que el ciclo añadió al mapa, o "nada"
 el tema por el que se entró del paso 2, o el hueco
 el propósito al que sirvió  del paso 0
-el cuerpo que lo produjo    del paso 0c, o "no declarado"
+el cuerpo que lo produjo    del paso 0a, o "no declarado"
 de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
                             tercero, o de una fuente que no se abrió
 ```
@@ -576,7 +578,7 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 | Paso | Entra | Se hace | Queda en |
 |---|---|---|---|
 | **0** | — | se declaran **la autoridad**, el ente, el propósito y el índice | **antes del primer ciclo** |
-| **0c** | — | **el cuerpo se declara, y es opcional**; si no, se avisa que el rastro no se podrá separar | **el aviso, en el banco** |
+| **0a** | — | **el cuerpo se declara, y es opcional**; si no, se avisa que el rastro no se podrá separar | **el aviso, en el banco** |
 | **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
 | 1 | la frase | se guarda literal, **y se declara de dónde sale lo que se va a decir** | **memoria, con su origen: fuente, memoria, tercero, o fuente cerrada** |
 | 2 | **la pieza**: texto, campos y origen | se recorre el índice; el borde mira los **campos**, no el texto | **se apunta qué tema, el hueco, o que el casi se pregunta** |
