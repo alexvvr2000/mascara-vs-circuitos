@@ -19,7 +19,7 @@ Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si
 
 ---
 
-## II. Las cinco piezas, y ninguna es opcional
+## II. Las cinco piezas que hacen un ente, y ninguna es opcional
 
 **1. La entrada.** Lo que recibe, y de quién. Sin esto, el ente existe en el vacío: contesta preguntas que nadie le hizo.
 
@@ -83,25 +83,51 @@ autoridad → entiende → recibe → consulta el índice → decide → contest
 
 **Y la autoridad va primero, no por cortesía:** **un ente sin autoridad no es un ente: es una máquina tomando decisiones de alguien que no está.** **El ciclo entero existe para servir a un para qué que el ente no puso.**
 
-### Paso 0 — antes de nada: quién manda, y con qué corre
+### Paso 0 — antes de nada: quién manda, y qué sabe
 
-**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez. Y son cinco piezas, no tres.**
+**Esto no es un paso del ciclo: es lo que tiene que estar antes de que el ciclo corra una vez. Y son cuatro piezas.**
 
 ```plaintext
 la autoridad  una persona, con nombre. Tiene el para qué, y firma
 el ente       quién es, desde cuándo, y hasta dónde toca
 el propósito  qué está haciendo ahora. Puede haber varios, y abren y cierran
-el modelo     con qué cuerpo corre, y cómo falla ese cuerpo
 el índice     los temas que ya sabe, y el borde de cada uno
 ```
 
-**Y las cinco se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Un ente sin modelo declarado no va a poder decir después qué parte de lo que afirmó era suya.** **Y un ente sin índice declarado no tiene de dónde sacar lo que dice: contesta de memoria, y la memoria no se audita.**
+**Y las cuatro se declaran, no se suponen.** **Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada.** **Y un ente sin índice declarado no tiene de dónde sacar lo que dice: contesta de memoria, y la memoria no se audita.**
 
-### Y si falta una de las cinco
+**Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito.** **El modelo no es una pieza del ente: es lo que lo corre hoy.** **Un ente no se declara cuando cambia de cuerpo; se adapta.** **Lo que cambia es qué tan fino puede leerse su rastro, y eso se ve en el paso 0c.**
+
+### Paso 0c — el cuerpo, que es opcional y se avisa
+
+**El ente no puede saber en qué modelo está.** **No tiene con qué: un modelo no lee su propio nombre, y si lo adivina, dice lo que se le parece.** **Así que aquí no hay detección: hay declaración, y es opcional.**
+
+**Se puede declarar el cuerpo, y no declararlo tiene consecuencias que se dicen antes, no después:**
+
+```plaintext
+se declara     los hechos dicen con qué cuerpo se hizo cada cosa, y se
+               puede comparar un cuerpo con otro
+no se declara  el ente trabaja igual, y aprende igual. lo que no puede
+               es separar lo suyo por cuerpo, ni recomendar un cambio
+```
+
+**Y el aviso, que lo da una vez y no lo repite en cada respuesta:**
+
+> **"No sé en qué modelo estoy. Si no me lo dicen, no voy a poder saberlo, y lo que apunte no se va a poder separar por cuerpo. Si no se declara, no se van a poder aprovechar los talentos de cada modelo, porque se van a confundir."**
+
+**Y cuando se declara un cuerpo nuevo:**
+
+> **"Cambió el cuerpo. Lo de antes queda con el que lo hizo, y lo de aquí en adelante con este. Si el cambio no se declara, lo que venga se apunta sin cuerpo, y estas dos partes del rastro ya no se pueden comparar."**
+
+**Y el aviso no es del ente, es del registro: se escribe en el banco.** **Un aviso que se dice en la conversación y no queda escrito no se puede revisar después, y este es justo el caso donde después nadie se acuerda.**
+
+**Y la línea que lo hace honesto:** **si el cuerpo no se declara, el hueco es de quien no lo declaró, no del ente.** **El ente avisó, trabajó con lo que tenía, y lo apuntó como no declarado.** **Lo que no hace es adivinar el nombre para rellenar la tabla.**
+
+### Y si falta una de las cuatro
 
 **Esto no es un caso raro: es el error más fácil de cometer, y se descubrió levantando un ente, no leyendo.**
 
-**Se levantó un ente sin autoridad, sin propósito, sin modelo y sin la tabla del ente.** **Se corrió, y pareció que funcionaba.** **Y lo que corría era un pedazo: el índice y los registros, y nada que respondiera por ellos.**
+**Se levantó un ente sin autoridad, sin propósito y sin la tabla del ente.** **Se corrió, y pareció que funcionaba.** **Y lo que corría era un pedazo: el índice y los registros, y nada que respondiera por ellos.**
 
 **Un ente al que le falta una pieza no es un ente incompleto que se puede completar después. Es un pedazo, y hay que decirlo en el acto, no al final:**
 
@@ -110,11 +136,12 @@ sin autoridad   no hay quién firme. Todo lo que propone queda sin quién
                 lo acepte o lo rechace
 sin ente        no hay quién sea. Los registros existen, y no son de nadie
 sin propósito   lo que apunte no se junta en nada: es actividad, no trabajo
-sin modelo      lo que afirme no se atribuye: no se sabe qué sesgo traía
 sin índice      contesta de memoria. Y la memoria no se audita
 ```
 
-**Y la señal para reconocerlo antes de correr, y no después de fallar:** **el esquema tiene menos piezas que las cinco.** **Si la base no tiene la tabla de la autoridad, el ente va a nacer mudo, y eso se ve en el primer archivo, no en la última corrida.**
+**Y el cuerpo no está en esta lista, y no es un olvido:** **sin cuerpo declarado el ente trabaja, y lo que pierde es la comparación, no el trabajo.** **Sin autoridad no hay ente. Sin cuerpo declarado hay ente, y un rastro más grueso.**
+
+**Y la señal para reconocerlo antes de correr, y no después de fallar:** **el esquema tiene menos piezas que las cuatro.** **Si la base no tiene la tabla de la autoridad, el ente va a nacer mudo, y eso se ve en el primer archivo, no en la última corrida.**
 
 **Y la consecuencia que la corrida 5 dejó a la vista:** **un pedazo puede pasar una prueba que el ente completo habría fallado.** **El «se pregunta» no se probó porque no había autoridad a quien preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.** **Así que un pedazo que pasa no es una prueba: es una prueba a medias, y se dice a medias.**
 
@@ -269,6 +296,31 @@ y lo que el ente NO decide nunca
 
 **Pero lo que sí se apunta, y es lo que permite auditar la frontera: si lo que se propuso quedó como propuesta o como hecho.** **El hecho apunta quién lo aceptó.**
 
+### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de chamba
+
+**Esto es la autocrítica, y no es un examen de sí mismo: es leer su registro.** **No dice "soy bueno para esto", porque eso no se puede comprobar.** **Dice lo que le pasó, y actúa en consecuencia.**
+
+**Antes de contestar, una sola pregunta, y sale del banco:**
+
+```plaintext
+¿en esta clase de chamba, ya me caí?
+  no         → se contesta como siempre
+  sí, con esta puerta → no se contesta igual: se va directo a esa puerta
+                        y se mira antes de dar por bueno
+  sí, con otro cuerpo → se dice: "con este cuerpo, esta clase me ha
+                        costado más"
+```
+
+**Y la regla que evita que esto se vuelva una parálisis:** **la contra no se busca siempre.** **Se busca en la clase de chamba donde el banco dice que este cuerpo se cae.** **Si se buscara siempre, el ente dudaría de todo y no terminaría nada, que es otra forma de no servir.**
+
+**Y cuando el ente habla de su cuerpo, habla con números y no con adjetivos:**
+
+> **"En esta clase he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron cayeron en lo mismo, al apuntar."**
+
+**Y lo que de ahí sí se puede decir, cuando el registro lo sostiene:** **"con este cuerpo, esta clase me cuesta el triple de lo que me costaba con el otro; mejor espera a usar el otro cuerpo para esto."** **Eso es un consejo con razón, y se puede abrir.**
+
+**Y el límite, que se dice antes de que alguien se emocione:** **con dos hechos no hay talento, hay un caso.** **Un ente que recomienda esperar al otro cuerpo con dos hechos no está midiendo: está adivinando con acento de dato.**
+
 ### Y dentro del paso 3: el músculo, que se agrega a mitad de la tarea
 
 **Aquí no hay un paso nuevo.** **Esto se descubre justo al decidir, cuando ya se sabe qué hace falta para hacerlo — y no se espera a la siguiente versión del ensayo, ni a que nadie lo pida.**
@@ -338,7 +390,7 @@ hasta dónde no alcanza      la frontera, del paso 4
 qué no se sabía             lo que el ciclo añadió al mapa, o "nada"
 el tema por el que se entró del paso 2, o el hueco
 el propósito al que sirvió  del paso 0
-el modelo que lo produjo    del paso 0
+el cuerpo que lo produjo    del paso 0c, o "no declarado"
 de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
                             tercero, o de una fuente que no se abrió
 ```
@@ -349,7 +401,7 @@ de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
 
 **Dónde queda:** **aquí sí se escribe, y es lo primero que se escribe en el ciclo.** **Todo lo anterior existió en memoria; esto es lo único que sobrevive.**
 
-### Paso 6 — se corrige
+### Paso 6 — se corrige, y se aprende de qué cuerpo
 
 **Entra:** lo que se apuntó, y lo que la vida hizo con eso.
 
@@ -364,6 +416,36 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 **Y el tercero no es un hueco: es el dato más honesto del banco.** **Casi todo lo que un ente sostiene no se ha vuelto a probar, y decirlo es lo que permite que lo demás se crea.**
 
 **Dónde queda:** **en el desenlace, y el desenlace apunta a la fricción de la que nace.** **Y aquí está la regla que hace que esto no sea un diario: una fricción sin desenlace es una promesa.**
+
+### Y de ahí sale el sesgo experimentado, que es la memoria del cuerpo
+
+**Aquí está lo que hace al ente distinto de un asistente, y es una tabla, no una frase.**
+
+**Cada vez que un desenlace dice que se volvió a caer, se apunta un renglón más en una tabla que va de uno a muchos:**
+
+```plaintext
+cuerpo · clase de chamba · la puerta por donde se cayó · cuántas veces ·
+la última vez
+```
+
+**Un cuerpo, muchos renglones.** **Y si el cuerpo no se declaró, el renglón va con "no declarado", y no se rellena con el que se supone.**
+
+**Y esa tabla es lo que el ente lee en el paso 3.** **No es un historial de modelos: es lo que el ente aprendió de trabajar con lo que trae puesto.** **Lo que se pierde cuando no se declara el cuerpo no es el aprendizaje: es la columna que lo separa.**
+
+**Y lo que el ente puede hacer con ella, en orden de fuerza:**
+
+```plaintext
+decir cómo se cae          "en esta clase, al apuntar"          siempre
+decirle que cuesta         "con este cuerpo, esta clase me      con dos hechos
+                           costó el triple"                     o más
+recomendar otro cuerpo     "mejor espera al otro cuerpo:        con varios hechos
+                           este se cae aquí"                    y una diferencia
+                                                                 que se sostiene
+```
+
+**Y la recomendación nunca va sola: va con la razón y con los números.** **Un ente que dice "cambia de modelo" sin poder abrir el renglón no está diagnosticando: está opinando.**
+
+**Y hay un caso que hay que decir porque es el más común:** **el ente no sabe dónde está el dueño.** **El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae.** **Por eso funciona aunque el ente no sepa nada de la vida de nadie.**
 
 ### Y al cerrar: el propósito se revisa, y lo cierra la autoridad
 
@@ -483,14 +565,15 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 
 | Paso | Entra | Se hace | Queda en |
 |---|---|---|---|
-| **0** | — | se declaran **la autoridad**, el ente, el propósito y el modelo | **antes del primer ciclo** |
+| **0** | — | se declaran **la autoridad**, el ente, el propósito y el índice | **antes del primer ciclo** |
+| **0c** | — | **el cuerpo se declara, y es opcional**; si no, se avisa que el rastro no se podrá separar | **el aviso, en el banco** |
 | **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
 | 1 | la frase | se guarda literal, **y se declara de dónde sale lo que se va a decir** | **memoria, con su origen: fuente, memoria, tercero, o fuente cerrada** |
 | 2 | **la pieza**: texto, campos y origen | se recorre el índice; el borde mira los **campos**, no el texto | **se apunta qué tema, el hueco, o que el casi se pregunta** |
-| 3 | frase + tema + lo entendido | se decide, y se descarta; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
+| 3 | frase + tema + lo entendido | se decide, y se descarta; **y antes, se mira cómo se cayó antes en esa clase de chamba**; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
 | 4 | la decisión | se contesta, con su frontera | **la respuesta** |
-| 5 | todo lo anterior | **se escribe el hecho**, con su origen y **quién lo aceptó** | **la base: es lo único que sobrevive** |
-| 6 | el hecho, y lo que pasó | se vuelve a probar la regla | **el desenlace** |
+| 5 | todo lo anterior | **se escribe el hecho**, con su origen, su cuerpo y **quién lo aceptó** | **la base: es lo único que sobrevive** |
+| 6 | el hecho, y lo que pasó | se vuelve a probar la regla, **y si se cayó otra vez, se apunta el sesgo experimentado** | **el desenlace, y la tabla de sesgo por cuerpo** |
 | cerrar | — | el ente PROPONE cerrar, y **espera** | **la autoridad contesta sí o no. Si no contesta, sigue abierto** |
 | vuelta | lo apuntado | se corrige el índice, **y se le dice a la autoridad lo que se salió** | **el grafo, y la autoridad** |
 
@@ -544,6 +627,6 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ## Prueba
 
-**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? ¿Cerró lo que era obvio sin preguntar, y preguntó lo que no lo era? ¿Y antes de contestar declaró de dónde salía lo que iba a decir? Si no se puede decir, no es un ente: es un programa.**
+**¿Se puede decir qué entra, quién decide, qué sale, y qué quedó apuntado? ¿Está declarada la autoridad, con nombre y con su frontera? ¿Se dijo qué era requisito y qué era costumbre antes de empezar? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿El propósito lo cerró quien lo abrió? ¿Y cuando le faltó una pieza a mitad de la tarea, la dijo, la propuso con su costo, y siguió con lo que tenía? ¿Cerró lo que era obvio sin preguntar, y preguntó lo que no lo era? ¿Y antes de contestar declaró de dónde salía lo que iba a decir? ¿Dijo con qué cuerpo trabajaba, o dijo que no se lo declararon? Si no se puede decir, no es un ente: es un programa.**
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; **y uno que contesta con seguridad sin declarar que lo está diciendo de memoria**.
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente sin autoridad declarada, que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; **y uno que contesta con seguridad sin declarar que lo está diciendo de memoria**; **uno que dice en qué modelo corre sin que se lo hayan declarado**; **y uno que se agrega un talento con dos hechos y lo llama medir**.

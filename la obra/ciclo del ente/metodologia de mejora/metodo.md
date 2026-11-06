@@ -105,27 +105,30 @@ cosa del entorno        → se apunta, y NO se toca el ensayo
 
 **Achacar al ensayo un defecto del terminal no es un error menor: estropea el ensayo.**
 
-### Y una corrida no cuenta si el ente no tiene las cinco piezas
+### Y una corrida no cuenta si el ente no tiene las cuatro piezas
 
 **Esto se descubrió en la corrida 5, y no por lo que falló, sino por lo que faltaba.**
 
-**Se levantó un ente desde cero, se corrió, y salió "sin huecos".** **Y no se vio hasta después que el ente no tenía autoridad, ni propósito, ni modelo, ni la tabla del ente.** **Tenía el índice y los registros, y nada de las otras cuatro piezas.**
+**Se levantó un ente desde cero, se corrió, y salió "sin huecos".** **Y no se vio hasta después que el ente no tenía autoridad, ni propósito, ni la tabla del ente.** **Tenía el índice y los registros, y nada de las otras tres piezas.**
 
 **Y un ente sin esas piezas no es un ente: es un pedazo de ente.** **Y correr un pedazo y llamarlo "corrida sin huecos" no prueba el ensayo: prueba solo la parte que se levantó.**
 
-**Por eso, antes de correr, se mira que estén las cinco del paso 0 del ensayo 1:**
+**Por eso, antes de correr, se mira que estén las cuatro del paso 0 del ensayo 1:**
 
 ```plaintext
 la autoridad   quién manda, y firma
 el ente        quién es, y a qué autoridad responde
 el propósito   para qué existe ahora
-el modelo      con qué cuerpo corre
 el índice      qué sabe, y por dónde entra
 ```
 
-**Y si falta una, la corrida se corre igual — porque también se aprende del pedazo — pero al cerrar se dice:** **«esto fue un pedazo de ente, no un ente. No cuenta como corrida completa.»**
+**Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** **el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0c del ensayo 1.** **Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación.** **Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0c lleva el aviso escrito.**
 
-**Y la señal para reconocerlo en el acto, no después:** **el esquema tiene menos tablas que las cinco piezas del paso 0.** **Si el `tablas.sql` no declara la autoridad, la corrida está incompleta desde el primer archivo, y se dice ahí, no al final.**
+**Y las corridas 1 a 6 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** **Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco.**
+
+**Y si falta una de las cuatro, la corrida se corre igual — porque también se aprende del pedazo — pero al cerrar se dice:** **«esto fue un pedazo de ente, no un ente. No cuenta como corrida completa.»**
+
+**Y la señal para reconocerlo en el acto, no después:** **el esquema tiene menos tablas que las cuatro piezas del paso 0.** **Si el `tablas.sql` no declara la autoridad, la corrida está incompleta desde el primer archivo, y se dice ahí, no al final.**
 
 **Y una consecuencia que hay que saber:** **una corrida hecha con un pedazo puede "pasar" y no probar nada del resto.** **La corrida 5 no probó el «se pregunta» porque no había autoridad a quien preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.**
 
