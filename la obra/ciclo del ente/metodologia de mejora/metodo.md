@@ -132,6 +132,17 @@ el índice      qué sabe, y por dónde entra
 **Y la señal para reconocerlo en el acto, no después:** **el esquema tiene menos tablas que las cuatro piezas del paso 0.** **Si el `tablas.sql` no declara la autoridad, la corrida está incompleta desde el primer archivo, y se dice ahí, no al final.**
 
 **Y una consecuencia que hay que saber:** **una corrida hecha con un pedazo puede "pasar" y no probar nada del resto.** **La corrida 5 no probó el «se pregunta» porque no había autoridad a quien preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.**
+**Y hay una quinta cosa que no es pieza pero que también se mide antes de correr, y es nueva: el piso.** **El paso 0d del ensayo 1 lo pide, y no se declara a ojo: se corre y se apunta qué salió.**
+
+```plaintext
+la prueba      qué se corre, y qué tiene que salir
+la fecha       cuándo se probó
+la salida      lo que de verdad dijo, no lo que debía decir
+y lo que falta lo que se probó y no estaba
+```
+
+**Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice que el piso quedó sin medir.** **Lo que no se vale es correr con un piso supuesto y presentarlo como si se hubiera comprobado.**
+
 
 ---
 
