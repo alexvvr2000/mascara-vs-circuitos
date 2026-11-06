@@ -174,11 +174,3 @@ grep -n "Falsificador" *.md
 **Y si tu trabajo crece, no lo traigas: hazlo tuyo, y cítame como punto de partida.** **Este repositorio no va a crecer contigo.** **Esa es la única forma de que lo que salió sea mío y lo que salga de ti sea tuyo.**
 
 ---
-
-## En una línea
-
-**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que este trabajo no corre: la nombra.** **Lo que aquí se entrega son diez ensayos y siete corridas, con lo que falta dicho con nombre.**
-
-**El que llegue, que traiga el rastro.**
-
----
