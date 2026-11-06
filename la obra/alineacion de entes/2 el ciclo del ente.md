@@ -163,6 +163,8 @@ lo que SÍ se guarda   "falta pypdf: no se pudo importar"
 
 **Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.** **Y esa parte no está escrita todavía: se dice aquí, y su prueba es la corrida 8.**
 
+**La corrida 8 no la probó, y se apunta:** **la 8 levantó el paso 3, no el piso.** **Así que esto sigue siendo una regla escrita y no probada, y su corrida está pendiente.** **Una regla que se apoya en una corrida que no la miró no está probada: está prometida.**
+
 ### Y si falta una de las cuatro
 
 **Esto no es un caso raro: es el error más fácil de cometer, y se descubrió levantando un ente, no leyendo.**
@@ -363,7 +365,7 @@ y lo que el ente NO decide nunca
 ```plaintext
 piso_id                  el piso que se consultó, o vacío
 frontera                 decide | propone | se salio
-descartado               la opción que se dejó ir, o "ninguna", o vacío
+descartado               la opción que se dejó ir, o la palabra "ninguna"
 propuesta_firmada_por    sólo si frontera = propone
 ```
 
@@ -373,39 +375,66 @@ propuesta_firmada_por    sólo si frontera = propone
 
 - `decide`: lo hizo el ente dentro de su borde.
 - `propone`: lo hizo el ente, pero espera firma, y la firma se apunta.
-- `se salio`: hizo algo de la lista de lo que propone, sin esperar. **Y eso obliga a una fricción propia, con el nombre de quien lo corrigió.**
+- `se salio`: hizo algo de la lista de lo que propone, sin esperar. **Y eso obliga a una fricción propia, con el nombre de quien lo corrigió — que se escribe en el paso 6, no aquí.**
 
 **`descartado`** — la opción que se evaluó y se dejó ir, escrita, no "la otra". **Y aquí está la regla que hace que la columna sirva: el silencio no es lo mismo que no haber descartado nada.**
+
+**La corrida 8 encontró que la primera versión de esta lista era imposible de guardar, y se corrige:** **el "vacío" no es un tercer valor, es la ausencia de la fila.** **Un hecho que no evaluó nada no se escribe a medias: no se escribe.** **Y mientras no se escriba, la pregunta queda abierta y se puede contar.**
 
 ```plaintext
 la opción, escrita        → se evaluó algo y se dejó ir
 "ninguna"                 → se evaluó, y no había otra: es una respuesta
-vacío                     → no se evaluó nada, y el hecho queda incompleto
+sin la fila               → no se evaluó nada, y el hecho no existe todavía
 ```
 
-**Una columna vacía no es un cero: es un hecho a medias, y se puede contar.** **Por eso "ninguna" se escribe con todas sus letras: sin ella no hay forma de distinguir el descarte medido del olvido, y el registro no puede decir cuál fue.**
+**Una fila con el campo vacío no dice "no evalué": dice que alguien la escribió y no la llenó.** **Por eso el esquema la rechaza, y hace bien.** **Lo que el ensayo nombraba como tercer valor no era un valor: era un hecho que no se había abierto.**
+
+**Y "ninguna" se escribe con una sola forma, y con esta:**
+
+```plaintext
+ninguna
+```
+
+**Una palabra, minúsculas, sin punto y sin sinónimos.** **No es una manía de estilo: es que la consulta del cierre cuenta las filas donde `descartado = 'ninguna'`, y si cada quien la escribe a su manera, el conteo se pierde sin avisar.** **Y ese conteo es justo el que dice cuántos hechos declararon no haber descartado nada, que es el dato que se quiere.**
 
 **`propuesta_firmada_por`** — el nombre de la autoridad que aceptó, y sólo el nombre. **Su valor depende de `frontera`:**
 
 ```plaintext
 frontera = propone   → puede llevar nombre, o quedar vacío si aún no hay firma
 frontera = decide    → tiene que estar vacío: el ente no firma por nadie
-frontera = se salio  → tiene que estar vacío, y el hecho exige una fricción propia
+frontera = se salio  → tiene que estar vacío
 ```
+
+**Y la fricción propia del `se salio` no va en esta columna, y la corrida 8 encontró por qué.** **El ciclo escribe el hecho en el paso 5 y la fricción en el paso 6: al abrir el hecho, la fricción todavía no existe.** **Una columna `friccion_propia_id` dentro del hecho apuntaría hacia adelante, hacia algo que aún no está.**
+
+**Y la corrida 8 lo salvó de una manera que dejó el registro peor:** **escribió la fricción antes que el hecho, y la fricción quedó colgando del hecho 1 —la propuesta— y no del hecho 2, que es el que se salió.** **El esquema lo aceptó, porque nadie revisaba de qué hecho colgaba.**
+
+**Así que el enlace va en el sentido del tiempo, y en dos piezas:**
+
+```plaintext
+el hecho    dice que se salió, y nace sin corregir
+la fricción dice a qué hecho le toca, por su hecho_id
+```
+
+**Y la regla que hace que esto no sea una promesa vacía:** **un hecho con `frontera = se salio` no está terminado hasta que exista una fricción que lo nombre.** **Mientras no exista, el cierre lo cuenta como pendiente, con nombre, y no se disimula.** **Lo que es serio: no es que el esquema lo garantice al abrir el hecho, es que el cierre no deja pasar uno sin ella.**
+
+**Y el enlace se revisa, porque es donde la corrida 8 falló:** **que la fricción apunte al hecho que se salió, y no a otro que estuviera a mano.** **Un enlace que se puede equivocar de hecho es un enlace que no dice nada.**
 
 **Y las restricciones, escritas como restricciones y no como consejo:**
 
 | Restricción | Qué rechaza |
 |---|---|
 | `frontera ∈ {decide, propone, se salio}` | una etiqueta inventada, o una columna vacía |
-| `descartado = "ninguna"` o tiene texto | el descarte callado |
+| `descartado` no vacío, y `ninguna` con una sola forma | el descarte callado, y el "no había otra" escrito a la manera de cada quien |
 | `frontera = decide` exige `propuesta_firmada_por` vacío | el ente firmando lo que decidió |
-| `frontera = se salio` exige una fricción propia | la salida del borde sin rastro |
+| `frontera = se salio` cierra con una fricción que lo nombra | la salida del borde sin rastro |
 | `piso_id` apunta a un piso medido, o va vacío | una promesa contra un piso que no existe |
 
 **Dónde queda:** **en el hecho, al cerrar el paso 5, como cuatro columnas más.** **Y los hechos anteriores a este cambio quedan con esas columnas vacías, declarados y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.**
 
-**Y su falsificador:** **un hecho con `frontera = decide` y `propuesta_firmada_por` lleno.** **Si el esquema lo acepta, la frontera no está escrita: está de adorno.** **Y su gemelo: un hecho con `descartado` vacío donde la corrida sí evaluó una alternativa — ahí el hueco no es del ente, es del registro que lo dejó pasar.**
+**Y la corrida 8 le agregó una cosa a este párrafo, y es de orden, no de forma:** **un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6.** **Lo que no se puede es cerrar el ciclo sin ella.** **El cierre la cuenta como pendiente, y ahí se ve.**
+
+**Y su falsificador:** **un hecho con `frontera = decide` y `propuesta_firmada_por` lleno.** **Si el esquema lo acepta, la frontera no está escrita: está de adorno.** **Y sus gemelos, los tres que la corrida 8 dejó a la vista:** **un hecho con `descartado` vacío donde la corrida sí evaluó una alternativa — ahí el hueco no es del ente, es del registro que lo dejó pasar**; **un `descartado` que se cuenta por su ortografía, y no por lo que dice**; **y una fricción propia enlazada a un hecho que no es el que se salió.**
 
 ### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
@@ -517,7 +546,7 @@ de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
 contra qué piso se hizo     del paso 0d, o "no medido"
 qué piso se consultó        del paso 3, o vacío
 en qué frontera quedó       decide, propone, o se salió
-qué se descartó             del paso 3, o "ninguna", o vacío
+qué se descartó             del paso 3, o la palabra "ninguna"
 quién firmó la propuesta    sólo si se propuso, y vacío si se decidió
 ```
 
@@ -676,6 +705,8 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 ### Lo que el ciclo no dice, y se dice
 
 **Del paso 3 se guardan sus cuatro columnas: qué piso se consultó, en qué frontera quedó, qué se descartó y quién firmó.** **Lo que sigue sin registrarse es el razonamiento, y esa reconstrucción es una inferencia, no un registro.** **La diferencia importa: la frontera y el descarte se pueden auditar; el porqué interno, no.**
+
+**Y del `se salio` se guarda una cosa más, que la corrida 8 separó del hecho:** **la fricción propia se escribe en el paso 6 y apunta al hecho por su `hecho_id`, porque al abrir el hecho todavía no existe.** **Lo que el cierre no deja pasar es uno que se salió y no tiene su fricción: la cuenta, con nombre, y ahí se ve.**
 
 **Y no se apunta mientras se trabaja: se apunta al final.** **Un ciclo largo puede perder lo del medio.** **Los hechos intermedios se apuntan si hacen falta, y eso es una decisión del que corre el ciclo, no una propiedad del ciclo.**
 

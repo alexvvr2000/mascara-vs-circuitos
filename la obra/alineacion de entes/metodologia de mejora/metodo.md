@@ -2,7 +2,7 @@
 
 **Alejandro Valenzuela Rivera · `TESTIGO` · 5 de noviembre de 2026.**
 
-> **Y esto se escribió después de usarlo seis veces, no antes.** **Las seis corridas están en `corridas/`, y se pueden abrir y correr.**
+> **Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después.** **Las ocho corridas están en `corridas/`, y se pueden abrir y correr.**
 
 ---
 
@@ -125,7 +125,7 @@ el índice      qué sabe, y por dónde entra
 
 **Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** **el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0a del ensayo 2.** **Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación.** **Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0a lleva el aviso escrito.**
 
-**Y las corridas 1 a 7 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** **Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco.**
+**Y las corridas 1 a 7 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** **Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco.** **La octava ya corrió con la regla de hoy: cuatro piezas, y el cuerpo declarado aparte, en el paso 0a.**
 
 **Y si falta una de las cuatro, la corrida se corre igual — porque también se aprende del pedazo — pero al cerrar se dice:** **«esto fue un pedazo de ente, no un ente. No cuenta como corrida completa.»**
 
@@ -148,7 +148,7 @@ y lo que falta lo que se probó y no estaba
 
 ## V. Los cuatro defectos que se repiten
 
-**De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias.** **Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles.** **Reconocerlas es lo que ahorra corridas.**
+**De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias.** **Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles.** **La octava trajo tres, y los tres son de una quinta familia que conviene tener aparte.** **Reconocerlas es lo que ahorra corridas.**
 
 **1. Lo que se nombra no existe.** **Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna.** **El lector lo rellena con lo que suena bien.**
 *Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
@@ -161,6 +161,14 @@ y lo que falta lo que se probó y no estaba
 
 **4. El defecto que se achaca al ente y es del terminal, del índice, o de la forma de llamarlo.** **Y se convierte en un «hueco» que no lo es, y en una corrección que estropea el ensayo.**
 *Se reconoce cuando el error aparece antes de que el ente haga nada.*
+
+**5. La lista que no se puede guardar.** **El ensayo nombra tres o cuatro valores de un campo, y el esquema sólo puede representar dos.** **El valor que sobra es justo el que más importa, porque es el que dice que algo falta.**
+*Se reconoce cuando el ensayo dice «o vacío» y el esquema tiene un `NOT NULL`. La corrida 8 lo encontró en el `descartado`.*
+
+**6. El enlace que va en contra del tiempo.** **El hecho apunta a algo que el ciclo escribe después —la fricción propia del paso 3, que se apunta hasta el paso 6—, y el orden del ciclo no lo permite.**
+*Se reconoce cuando, para cumplirlo, hay que escribir las cosas al revés de como el ciclo las ordena; y entonces el enlace queda apuntando al renglón equivocado.*
+
+**Y una forma que comparten la 5 y la 6, y conviene nombrarla aparte:** **el valor que se escribe a la manera de cada quien.** **Un «ninguna» que admite cinco ortografías es un valor que no se puede contar.** *Se reconoce cuando la consulta que lo cuenta depende de la ortografía y no del significado.*
 
 ---
 
@@ -177,7 +185,7 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 **Y la (b) ocurre sin que nadie lo decida.** **Cada vuelta el ensayo se adapta a la prueba anterior.** **Llega un punto donde el ente que se levanta ya se parece al anterior, y se encuentra cero.** **Eso no es que el ensayo esté completo: es que ya no se está probando, se está repitiendo.**
 
-**Y los números lo dicen:** **las cuatro primeras, 5 · 3 · 2 · 3 huecos; y después 0 y 0.** **No baja sola: la bajó alguien.** **Con esa serie, «cero» es una decisión, no un resultado.**
+**Y los números lo dicen:** **las cuatro primeras, 5 · 3 · 2 · 3 huecos; después 0 y 0; y luego 2 y 3.** **No baja sola: la bajaron las corridas, y la octava la subió a propósito.** **Los dos ceros no eran que el ensayo estuviera completo: eran que la prueba había dejado de exigir.** **Y volver a encontrar huecos después de dos ceros es la prueba de que el cero era eso, y no un final.**
 
 **Entonces el criterio son cinco condiciones, y ninguna es «no encontré nada»:**
 
@@ -362,22 +370,27 @@ el ciclo de la autonomía    no se acaba. Se regula
 
 **No es una prueba de que el ensayo sirva.** **Es una prueba de lo que el ensayo no dice.** **Se pueden cerrar cada hueco y seguir sin un ensayo que se pueda seguir.**
 
-**Y no se hace solo.** **En las seis corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
+**Y no se hace solo.** **En las ocho corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño.** **TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.**
 
 ---
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          7
-huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2  = 15
-cerrados en el ensayo   los 12 primeros
+corridas          8
+huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3  = 18
+cerrados en el ensayo   los 12 primeros, y los 3 de la octava
 la quinta         cerró los dos de la cuarta, sin huecos nuevos
 la sexta          la prueba de fuentes: buscó, citó y no rellenó.
                   no encontró huecos del ensayo, y encontró 2 de la fuente
 la séptima        el piso: midió, dijo qué falta en vez de "no pude",
                   y dejó 2 huecos del ensayo, los dos sobre el piso
+la octava         la frontera: el falsificador se cumplió —el esquema
+                  rechaza un hecho con frontera = decide y firma llena—
+                  y dejó 3 huecos, los tres sobre el orden y la forma
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
-                          con un caso simulado, y lo dijo)
+                          con un caso simulado, y lo dijo);
+                          y el piso por tarea, que la séptima pidió y la
+                          octava no miró
 ```
 
 **Y la regla de la casa, que también aplica aquí:** **si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.** **La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.**
