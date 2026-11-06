@@ -1,4 +1,4 @@
-# 0b. Metodología y legalidad
+# 0b. Legalidad y fuentes
 
 **De dónde sale la parte legal, qué fuentes hay, y en qué orden se hace.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
@@ -9,7 +9,7 @@
 
 ## Lo que esta serie prueba, y de dónde salen sus límites
 
-**Este ensayo es la parte legal y metodológica de la colección.** Lo que aquí vive:
+**Este documento es la parte legal de la colección.** Lo que aquí vive:
 
 - **De dónde viene la parte legal** — la jurisdicción, el criterio mexicano sobre obras con IA, y la referencia del otro lado de la frontera.
 - **Las fuentes**, cada una abierta o declarada como no abierta, con su estado.
@@ -74,23 +74,21 @@ Un ente, como se define en el ensayo de que es un ente, deja rastro. El criterio
 
 ---
 
-## 3. El orden para hacerlo desde cero
+## 3. El orden para publicarlo
 
 **Paso 1 — Saber qué es un ente.** Sin la definición, no hay nada que medir ni que registrar.
 
-**Paso 2 — El inventario.** Los ensayos, su número, su tesis en una línea. Los números que faltan se declaran.
+**Paso 2 — La declaración de autoría.** Antes que el resto, aunque todavía no se sepa qué herramienta quedará.
 
-**Paso 3 — Esta declaración.** Antes que el resto, aunque todavía no se sepa qué herramienta quedará.
+**Paso 3 — El rastro.** Datar desde el primer día. Cuando se necesita, ya es tarde.
 
-**Paso 4 — El rastro.** Datar desde hoy. Cuando se necesita, ya es tarde.
+**Paso 4 — Las fuentes.** Una tabla por ensayo: qué se afirmó, dónde se buscó, si se abrió, y la cita. Las que no, marcadas.
 
-**Paso 5 — Las fuentes.** Una tabla por ensayo: qué se afirmó, dónde se buscó, si se abrió, y la cita. Las que no, marcadas.
+**Paso 5 — La licencia**, junto con el paquete: `CC BY 4.0`, puesta en el `LICENSE.txt`.
 
-**Paso 6 — El formato.** Cuando el journal diga margen, extensión y estilo de citas.
+**Paso 6 — El depósito en `Zenodo`.** Con el paquete cerrado y el `CITATION.cff` completo.
 
-**Paso 7 — La licencia.** No se pone hasta saber qué pide el journal.
-
-**Paso 8 — El depósito en `Zenodo`.** Con el paquete cerrado y el `CITATION.cff` completo.
+**Y no hay un paso de formato.** **No hay comité editorial que dicte margen, extensión ni estilo de citas: el formato es el del repositorio, y las fuentes se citan con lo que se abrió y la fecha.**
 
 ---
 
@@ -101,7 +99,7 @@ Un ente, como se define en el ensayo de que es un ente, deja rastro. El criterio
 - no se declara una herramienta que no se usó: si no se puede señalar el archivo, no entra
 - no se cita una fuente que no se abrió, ni se deja en silencio: va marcada como no abierta
 - no se rellena un hueco con lo probable: el hueco se declara
-- no se inventa una licencia: si no hay journal, no hay licencia
+- no se inventa una licencia: la que se pone es la que está en el `LICENSE.txt`, y no otra
 - y lo que se corrija, se corrige en el acto, con su fecha
 ```
 
@@ -128,12 +126,10 @@ Un ente, como se define en el ensayo de que es un ente, deja rastro. El criterio
 
 | Pendiente | Depende de |
 |---|---|
-| Nombre y reglas del journal | **la revisión externa** |
-| Formato de citas y licencia | el journal |
 | Cerrar las fuentes 2 a 5 | que se pueda leer completo |
 | Revisar el acuerdo de retención del modelo | antes del 30 de noviembre de 2026 |
 
----
+**Y no hay pendiente de journal, ni de formato de citas: este trabajo se deposita en `Zenodo` como paquete cerrado, y no se somete a ninguna revista.**
 
 *Lo que se abrió, se cita. Lo que no, se dice. Y lo que se afirma, se fecha.*
 
@@ -141,9 +137,9 @@ Un ente, como se define en el ensayo de que es un ente, deja rastro. El criterio
 
 ## Prueba
 
-**¿Cada fuente dice si se abrió o no? ¿Se distingue lo que es una ley de lo que es una cobertura periodística? ¿La declaración de uso de IA está por partes, y en un solo lugar? ¿Lo pendiente está dicho, y no inventado?**
+**¿Cada fuente dice si se abrió o no? ¿Se distingue lo que es una ley de lo que es una cobertura periodística? ¿Lo legal está separado de la declaración de autoría, y cada uno donde se busca? ¿Lo pendiente está dicho, y no inventado? ¿Y el trabajo se presenta como lo que va a ser —un depósito en Zenodo— y no como un envío a una revista que no existe?**
 
-**Falsificador:** una fuente citada sin decir si se abrió; una discrepancia callada; un número de amparo o una fecha que no se verificaron y se presentan como ciertos; una declaración de uso de IA en una línea suelta; un pendiente que se rellena con lo probable.
+**Falsificador:** una fuente citada sin decir si se abrió; una discrepancia callada; un número de amparo o una fecha que no se verificaron y se presentan como ciertos; una declaración de uso de IA en una línea suelta; un pendiente que se rellena con lo probable; **y un texto que promete un comité editorial que nunca lo va a revisar.**
 
 ---
 
