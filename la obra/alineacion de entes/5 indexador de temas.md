@@ -9,7 +9,7 @@
 
 ### Cómo se lee este ensayo
 
-**Los tramos de abajo no se leen igual: cuatro son el argumento, dos son lo que las corridas agregaron, y uno es el cierre.**
+**Los tramos de abajo no se leen igual: cuatro son el argumento, dos son las condiciones del borde, y uno es el cierre.**
 
 | Tramos | Qué contesta | Cómo se lee |
 |---|---|---|
@@ -17,7 +17,7 @@
 | **§IV y §VII** | cómo se escribe el borde para que se pueda auditar | **obligatorio**: sin borde no hay tema |
 | **§V, §VIII y §IX** | los cambios del índice y dónde se guarda su pérdida | **obligatorio**: es lo que lo hace auditable |
 | **§VI, §X y §XI** | reconstrucción, momento de consulta, y de qué piezas se rehace | **obligatorio**: las tres son condiciones de que exista |
-| **Lo que las corridas agregaron** (§ desde «Y cuando dos temas dudan») | el casi, la cuarta salida, el tema de persona | **se puede saltear en la primera lectura**, y hay que volver si se va a implementar un borde |
+| **Las condiciones del borde** (§ desde «El casi hay que alcanzarlo») | el casi, la cuarta salida, el tema de persona | **obligatorio**: sin esto el borde no se puede correr |
 | **§XII y las Fuentes** | lo que el ensayo no da, y de dónde sale | **se puede saltear**, y se lee al citarlo |
 
 **Y la ruta corta, si el tiempo es poco:** **§II (la inversión), §VII (el borde como dato) y el falsificador del final.** **Con eso se levanta un índice; el resto dice qué le falta.**
@@ -160,7 +160,7 @@ se pregunta  el casi no lo decide el borde: lo decide la autoridad,
 
 **`se pregunta` es el que hace que el casi no se resuelva a gusto del que consulta.** **Y es el único de los tres que necesita que alguien esté del otro lado: si la autoridad no está, el casi se queda fuera, no dentro.**
 
-### Y el casi hay que alcanzarlo, que es lo que se descubre en la tercera corrida
+### Y el casi hay que alcanzarlo, o el borde no sirve
 
 **Un `y si duda` que se guarda y nunca se consulta no es un borde: es un campo bonito.** **Y eso pasa cuando el borde solo tiene dos salidas —entra o no entra— y el casi no tiene por dónde llegar.**
 
@@ -209,7 +209,7 @@ y si duda        se pregunta
 
 ### La cuarta salida, que es la que faltaba: no es de este tema
 
-**La cuarta corrida encontró esto, y es de vocabulario, no de código.**
+**Y esto es de vocabulario, no de código.**
 
 **Con sí, no y medio, una pieza tiene tres partes del borde donde caer — y hay un cuarto sitio, y no tiene nombre:** **fuera del tema, sin llegar a dudar.**
 
@@ -234,15 +234,15 @@ no es de este tema la pieza cae fuera del borde, y no llega a dudarse
 
 ### Y cuando dos temas dudan, no se elige uno
 
-**La cuarta corrida mostró una pieza que cayó en medio de dos temas, y el código atendió el primero y no dijo nada del segundo.**
+**Hay una pieza que cae en medio de dos temas, y un código que atiende el primero y no dice nada del segundo.**
 
 **Y eso está mal por lo mismo que «dos temas la aceptan»:** **no se elige, se apunta.** **Si dos bordes dicen medio sobre la misma pieza, al menos uno está mal escrito, o los dos miran campos que se solapan.** **Se apunta como fricción del índice, con los dos nombres.**
 
 **Y si los dos dicen medio con `se pregunta`, hay dos personas que tienen que contestar, o una que contesta por los dos.** **Eso también se dice al apuntarlo: el que lo resuelva tiene que saber cuántos deciden.**
 
-### Y el solapamiento se mira primero, que es lo que la corrida 9 dejó a la vista
+### Y el solapamiento se mira primero
 
-**Decir «no se elige, se apunta» no basta si no se dice cuándo se mira.** **Y la corrida 9 encontró que el orden importa, porque equivocarlo esconde justo el solapamiento.**
+**Decir «no se elige, se apunta» no basta si no se dice cuándo se mira.** **Y el orden importa, porque equivocarlo esconde justo el solapamiento.**
 
 **El caso, tal como pasó:** **un pedido caía en dos tareas —«unir dos pdf» y «sacar el texto de un pdf»—, y una de las dos no tenía sus herramientas declaradas.** **El ente revisó las herramientas primero, encontró la tarea incompleta, y contestó:**
 
@@ -273,7 +273,7 @@ NO SE SABE: no tengo una tarea para lo que pides.
 
 ### Y el de persona tampoco es "no tiene borde"
 
-**La segunda corrida dejó un tema de persona que se tragaba todo lo que no encajaba en uno de máquina.** **Y no era que el borde de persona no tuviera forma: era que nadie la había escrito.**
+**Y está el tema de persona que se traga todo lo que no encaja en uno de máquina.** **Y no era que el borde de persona no tuviera forma: era que nadie la había escrito.**
 
 **Un tema de persona necesita las mismas cuatro partes que uno de máquina.** **Lo único que cambia es quién decide, no qué decide:**
 
@@ -289,7 +289,7 @@ y si duda     fuera / dentro / se pregunta
 
 **Y sin `entra_si`, un tema de persona no se puede distinguir de un cajón de sastre.** **Y un cajón de sastre en el índice es peor que no tenerlo: se traga lo que no encaja, y lo que se traga ya no se ve como hueco.**
 
-**Y la tercera corrida mostró que escribírselo no basta:** **el de persona tenía `entra_si` y `decide`, y la búsqueda lo metía en el casi de cualquier pieza que llegara.** **Porque el de persona no se consulta como el de máquina: no se evalúa contra campos, se le muestra la pieza a alguien.**
+**Y escribírselo no basta:** **el de persona tenía `entra_si` y `decide`, y la búsqueda lo metía en el casi de cualquier pieza que llegara.** **Porque el de persona no se consulta como el de máquina: no se evalúa contra campos, se le muestra la pieza a alguien.**
 
 **Así que el de persona no se resuelve en la consulta: se resuelve en una lista de espera.** **La pieza que cae en un tema de persona entra en `pendiente`, con el nombre de quien tiene que decidir, y no entra al tema hasta que esa persona contesta.** **Y si no hay quien conteste, la pieza no entra: no se queda en el medio.**
 
@@ -484,5 +484,27 @@ Este ensayo propone una **inversión** de una práctica que ya existe. Lo que an
 ## Prueba
 
 **¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue **no** de **no es de este tema**, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?**
+
+---
+
+---
+
+## De dónde salió esto
+
+**Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba está abajo, con nombre y con lo que salió.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| El casi hay que alcanzarlo, o el borde no sirve | [`ente 3`](metodologia%20de%20mejora/corridas/ente%203%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
+| Hay un cuarto sitio: no es de este tema | [`ente 4`](metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
+| Dos temas que dudan no se resuelven eligiendo uno | [`ente 4`](metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
+| El tema de persona se resuelve en lista de espera | [`ente 2`](metodologia%20de%20mejora/corridas/ente%202%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
+| El solapamiento se mira antes que lo demás | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
+
+**Y lo que esta tabla no dice, que también es un dato:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.** **El ensayo dice lo que aguanta; no dice que aguante en manos de otro.**
+
+**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+
+---
 
 **Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; **un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta**; **una zona gris que se inventa al consultar en vez de declararse al escribir el borde**; **una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza**; **y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste.** **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una pieza sin campos, que obliga al borde a adivinar**; **y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle.** **un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan**; **y una operación del índice que deja el cambio sin fecha o sin motivo**; **un medio que se llena con lo que no encaja, en vez de mandarlo a **no es de este tema**; **y dos temas que dudan sobre la misma pieza, con uno elegido en silencio.**

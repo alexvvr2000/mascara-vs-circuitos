@@ -143,4 +143,8 @@ Por eso la exigencia no es "procura escribir en procesos". Es que **un proceso s
 
 **¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar?**
 
+### Y el ensayo no es bitácora
+
+---
+
 **Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas.

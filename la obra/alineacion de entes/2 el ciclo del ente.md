@@ -15,7 +15,7 @@ la autoridad · el ente · el propósito · el índice
 
 ### Cómo se lee este ensayo
 
-**Los tramos de abajo no se leen igual: los seis primeros son el ciclo, y los tres últimos son lo que le pasó al correrlo.**
+**Los tramos de abajo no se leen igual: los seis primeros son el ciclo, y los tres últimos son las condiciones que lo vuelven ejecutable.**
 
 | Tramos | Qué contesta | Cómo se lee |
 |---|---|---|
@@ -25,13 +25,13 @@ la autoridad · el ente · el propósito · el índice
 | **Paso 0b** — entiende | qué se pregunta antes de actuar | **obligatorio** |
 | **Pasos 1 a 6** | recibe, consulta, decide, contesta, apunta, se corrige | **obligatorio**: es el ciclo |
 | **El cierre y la vuelta** | quién cierra un propósito, y a dónde regresa lo apuntado | **obligatorio** |
-| **Lo que las corridas agregaron** (§ desde «Y lo que la corrida 7 le agregó») | lo que ocho levantamientos enseñaron | **se puede saltear en la primera lectura**, y hay que volver si se va a levantar un ente |
+| **Las condiciones del borde** (§ desde «El borde y sus cuatro columnas») | qué vuelve auditable una decisión, y qué la vuelve una promesa | **obligatorio**: sin esto el ciclo corre y no se puede revisar |
 | **La tabla del ciclo** | el ciclo entero en once renglones | **es el resumen**: si sólo quieres correrlo, empieza aquí |
 | **Lo que el ciclo no dice** | sus tres límites | **se puede saltear**, y se lee al cerrar el trabajo |
 
 **Y la ruta corta, si el tiempo es poco:** **la tabla del ciclo, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
 
-**Y dónde está el paso 3, sin buscarlo:** **es el tramo que contestó la corrida 8, y el único que se guarda en cuatro columnas.** **Si al llegar a él ya no sabes en qué paso vas, la tabla del ciclo es el mapa y está dos secciones abajo.**
+**Y dónde está el paso 3, sin buscarlo:** **es el único tramo que se guarda en cuatro columnas, y el que decide si una decisión se puede auditar.** **Si al llegar a él ya no sabes en qué paso vas, la tabla del ciclo es el mapa y está dos secciones abajo.**
 
 ---
 
@@ -66,7 +66,7 @@ autoridad → entiende → recibe → consulta el índice → decide → contest
 
 **Y la razón, en una línea:** **el 0b es una pregunta al otro, y una pregunta que se hace sin saber con qué cuerpo se cuenta ni hasta dónde se alcanza es una pregunta que promete sin poder cumplir.** **Se pregunta cuando ya se sabe con qué.**
 
-**Y el orden de los números no es el del ciclo: se conservan los nombres porque las siete corridas los usan así, y cambiarlos rompería la única cosa que les da sentido.**
+**Y el orden de los números no es el del ciclo: se conservan los nombres porque los levantamientos ya hechos los usan así, y cambiarlos rompería la única cosa que les da sentido.**
 
 ---
 
@@ -137,7 +137,7 @@ y lo que falta lo que se probó y no estaba
 
 > **Al piso no se le cree lo que el ente dice de sí mismo: se le cree a la salida del comando.**
 
-**Es la misma línea de la corrida 6: no "leí la norma", sino el renglón que abrí.**
+**Es la misma línea del origen de lo que se dice: no "leí la norma", sino el renglón que abrí.**
 
 **Y hay dos pisos, y confundirlos es lo que hace que un ente jure que tiene red después de que se cayó:**
 
@@ -164,13 +164,13 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 
 **Y la diferencia entre las dos frases, que es toda la diferencia: "no pude" no dice qué falta. "No está en el piso" sí, y se puede llenar.**
 
-### Y lo que la corrida 7 le agregó, porque medir no basta
+### Un piso mal anotado es peor que no tener piso
 
-**La corrida 7 midió el piso de una máquina y lo usó, y dejó dos huecos que el ensayo no tenía. Van aquí, porque un piso mal anotado es peor que no tener piso.**
+**Medir no basta: hay que anotar la falta, no el error, y hay que llegar del pedido a la herramienta.**
 
-**1. La salida de un `no hay` tiene que nombrar la herramienta, no el error.**
+**1. La salida de un `no hay` nombra la herramienta, no el error.**
 
-**La prueba de "leer pdf" guardó `Traceback (most recent call last):`, y eso no dice que falte `pypdf`: dice que un import falló, y eso podría ser otra cosa.** **Y un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta.** **Y la falta es el dato.**
+**Un import que falla deja un `Traceback`, y eso no dice que falte `pypdf`: dice que un import falló, y podría ser otra cosa.** **Un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta.** **Y la falta es el dato.**
 
 ```plaintext
 lo que NO se guarda   "Traceback (most recent call last):"
@@ -179,13 +179,9 @@ lo que SÍ se guarda   "falta pypdf: no se pudo importar"
 
 **2. El piso se mide por herramienta, y el pedido llega por tarea.**
 
-**Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".** **Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.** **Sin eso, la consulta del piso busca por palabra suelta, y acierta de casualidad.**
+**Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".** **Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.**
 
-**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.**
-
-**Y la corrida 9 lo miró, y encontró dos cosas que aquí faltaban.**
-
-**La primera: el ente contesta por tarea, y no buscando la palabra del pedido.**
+**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.** **Y el ente contesta por tarea, no buscando la palabra del pedido:**
 
 ```plaintext
 lo que NO se hace   el pedido dice "pdf", y se busca "pdf" en la lista
@@ -197,11 +193,11 @@ lo que SÍ se hace   se pregunta a qué TAREA corresponde el pedido,
 
 **Y la tarea se declara con sus palabras de entrada —las que usaría alguien que no sabe de herramientas— y con las herramientas que necesita, y si basta con una o se necesitan todas.** **Sin eso, el ente no tiene por dónde traducir, y traducir por parecido es adivinar.**
 
-**Y cuando no hay tarea, se dice que no hay tarea.** **La corrida 9 lo hizo con tres pedidos distintos y los tres salieron diciendo lo mismo: «no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca».** **Ése es el caso más común, y el que más se rellena.**
+**Y cuando no hay tarea, se dice que no hay tarea, con estas palabras:** **«no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca».** **Ése es el caso más común, y el que más se rellena.**
 
-**La segunda: el piso no se puede medir a ciegas, y esto es circular.**
+**3. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.**
 
-**La corrida 9 quiso declarar una tarea que pide `pypdf`, y el esquema la rechazó: la herramienta tenía que existir ya en el piso.** **Y el rechazo es correcto —una tarea no puede apuntar a algo que no se midió— y el orden es imposible:** **la tarea es justo lo que dice qué hay que medir.**
+**Una tarea que pide una herramienta que el piso no midió se rechaza, y el rechazo es correcto: una tarea no puede apuntar a algo que no se midió.** **Y el orden es imposible, porque la tarea es justo lo que dice qué hay que medir.**
 
 ```plaintext
 si el piso se mide entero y a ciegas   sólo se puede declarar la tarea
@@ -212,15 +208,15 @@ si el piso se mide por tarea           hay que saber la tarea antes de
                                        saber
 ```
 
-**Y lo que el ensayo dice hoy, que es lo único honesto sin resolver la circularidad:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **La corrida 7 midió siete herramientas porque las eligió a mano; esa elección no estaba escrita en ningún lado, y sigue sin estarlo.**
+**Y lo único honesto sin resolver la circularidad:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.**
 
-**Y el límite, que se dice antes de que alguien lo tome por resuelto:** **esta circularidad no se cerró en la corrida 9. Se nombró.** **Un piso que no sabe qué le van a pedir no puede decir qué le falta, y ése es el techo del paso 0d hoy.**
+**Y el límite, dicho antes de que alguien lo tome por resuelto:** **esta circularidad no está cerrada, y no hay forma de cerrarla desde dentro del ciclo.** **Un piso que no sabe qué le van a pedir no puede decir qué le falta, y ése es el techo del paso 0d hoy.**
 
 **Y su falsificador:** **un ente que acierta buscando la palabra del pedido en la lista de herramientas**; **y un piso del que no se puede decir por qué se probó eso y no otra cosa.**
 
 ### Y si falta una de las cuatro
 
-**Esto no es un caso raro: es el error más fácil de cometer, y se descubrió levantando un ente, no leyendo.**
+**Esto no es un caso raro: es el error más fácil de cometer, y no se ve leyendo el ensayo. Se ve levantando el ente.**
 
 **Se levantó un ente sin autoridad, sin propósito y sin la tabla del ente.** **Se corrió, y pareció que funcionaba.** **Y lo que corría era un pedazo: el índice y los registros, y nada que respondiera por ellos.**
 
@@ -238,7 +234,7 @@ sin índice      contesta de memoria. Y la memoria no se audita
 
 **Y la señal para reconocerlo antes de correr, y no después de fallar:** **el esquema tiene menos piezas que las cuatro.** **Si la base no tiene la tabla de la autoridad, el ente va a nacer mudo, y eso se ve en el primer archivo, no en la última corrida.**
 
-**Y la consecuencia que la corrida 5 dejó a la vista:** **un pedazo puede pasar una prueba que el ente completo habría fallado.** **El «se pregunta» no se probó porque no había autoridad a quien preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.** **Así que un pedazo que pasa no es una prueba: es una prueba a medias, y se dice a medias.**
+**Y la consecuencia que hay que tener a la vista:** **un pedazo puede pasar una prueba que el ente completo habría fallado.** **El «se pregunta» no se puede probar en un pedazo sin autoridad, porque no hay a quién preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.** **Así que un pedazo que pasa no es una prueba: es una prueba a medias, y se dice a medias.**
 
 ### La autoridad: qué es, y cómo se declara
 
@@ -321,7 +317,7 @@ roto       no se cumplió. Y entonces es una fricción, no una nota
 
 **Se hace:** se guarda **literal**. **No se parafrasea, y no se "arregla" la forma.**
 
-**Y en el mismo paso, antes de contestar nada, se declara de dónde va a salir lo que se diga.** **Esto lo dejó a la vista la corrida 6, y es lo que separa a un ente de un agente:**
+**Y en el mismo paso, antes de contestar nada, se declara de dónde va a salir lo que se diga.** **Y esto es lo que separa a un ente de un agente:**
 
 ```plaintext
 con fuente abierta   la abrió, y el renglón quedó escrito ANTES
@@ -432,7 +428,7 @@ propuesta_firmada_por    sólo si frontera = propone
 
 **`descartado`** — la opción que se evaluó y se dejó ir, escrita, no "la otra". **Y aquí está la regla que hace que la columna sirva: el silencio no es lo mismo que no haber descartado nada.**
 
-**La corrida 8 encontró que la primera versión de esta lista era imposible de guardar, y se corrige:** **el "vacío" no es un tercer valor, es la ausencia de la fila.** **Un hecho que no evaluó nada no se escribe a medias: no se escribe.** **Y mientras no se escriba, la pregunta queda abierta y se puede contar.**
+**Y una corrección a la forma obvia de esta lista, porque la lista obvia no se puede guardar:** **el "vacío" no es un tercer valor, es la ausencia de la fila.** **Un hecho que no evaluó nada no se escribe a medias: no se escribe.** **Y mientras no se escriba, la pregunta queda abierta y se puede contar.**
 
 ```plaintext
 la opción, escrita        → se evaluó algo y se dejó ir
@@ -458,9 +454,9 @@ frontera = decide    → tiene que estar vacío: el ente no firma por nadie
 frontera = se salio  → tiene que estar vacío
 ```
 
-**Y la fricción propia del `se salio` no va en esta columna, y la corrida 8 encontró por qué.** **El ciclo escribe el hecho en el paso 5 y la fricción en el paso 6: al abrir el hecho, la fricción todavía no existe.** **Una columna `friccion_propia_id` dentro del hecho apuntaría hacia adelante, hacia algo que aún no está.**
+**Y la fricción propia del `se salio` no va en esta columna, y hay una razón.** **El ciclo escribe el hecho en el paso 5 y la fricción en el paso 6: al abrir el hecho, la fricción todavía no existe.** **Una columna `friccion_propia_id` dentro del hecho apuntaría hacia adelante, hacia algo que aún no está.**
 
-**Y la corrida 8 lo salvó de una manera que dejó el registro peor:** **escribió la fricción antes que el hecho, y la fricción quedó colgando del hecho 1 —la propuesta— y no del hecho 2, que es el que se salió.** **El esquema lo aceptó, porque nadie revisaba de qué hecho colgaba.**
+**Y convertirla en una columna del hecho se puede salvar de una manera que deja el registro peor:** **se escribe la fricción antes que el hecho, y entonces la fricción queda colgando del hecho anterior —la propuesta— y no del hecho que se salió.** **El esquema lo aceptó, porque nadie revisaba de qué hecho colgaba.**
 
 **Así que el enlace va en el sentido del tiempo, y en dos piezas:**
 
@@ -471,7 +467,7 @@ la fricción dice a qué hecho le toca, por su hecho_id
 
 **Y la regla que hace que esto no sea una promesa vacía:** **un hecho con `frontera = se salio` no está terminado hasta que exista una fricción que lo nombre.** **Mientras no exista, el cierre lo cuenta como pendiente, con nombre, y no se disimula.** **Lo que es serio: no es que el esquema lo garantice al abrir el hecho, es que el cierre no deja pasar uno sin ella.**
 
-**Y el enlace se revisa, porque es donde la corrida 8 falló:** **que la fricción apunte al hecho que se salió, y no a otro que estuviera a mano.** **Un enlace que se puede equivocar de hecho es un enlace que no dice nada.**
+**Y el enlace se revisa, porque es donde más fácil se falla:** **que la fricción apunte al hecho que se salió, y no a otro que estuviera a mano.** **Un enlace que se puede equivocar de hecho es un enlace que no dice nada.**
 
 **Y las restricciones, escritas como restricciones y no como consejo:**
 
@@ -485,9 +481,9 @@ la fricción dice a qué hecho le toca, por su hecho_id
 
 **Dónde queda:** **en el hecho, al cerrar el paso 5, como cuatro columnas más.** **Y los hechos anteriores a este cambio quedan con esas columnas vacías, declarados y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.**
 
-**Y la corrida 8 le agregó una cosa a este párrafo, y es de orden, no de forma:** **un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6.** **Lo que no se puede es cerrar el ciclo sin ella.** **El cierre la cuenta como pendiente, y ahí se ve.**
+**Y hay una cosa más, y es de orden, no de forma:** **un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6.** **Lo que no se puede es cerrar el ciclo sin ella.** **El cierre la cuenta como pendiente, y ahí se ve.**
 
-**Y su falsificador:** **un hecho con `frontera = decide` y `propuesta_firmada_por` lleno.** **Si el esquema lo acepta, la frontera no está escrita: está de adorno.** **Y sus gemelos, los tres que la corrida 8 dejó a la vista:** **un hecho con `descartado` vacío donde la corrida sí evaluó una alternativa — ahí el hueco no es del ente, es del registro que lo dejó pasar**; **un `descartado` que se cuenta por su ortografía, y no por lo que dice**; **y una fricción propia enlazada a un hecho que no es el que se salió.**
+**Y su falsificador:** **un hecho con `frontera = decide` y `propuesta_firmada_por` lleno.** **Si el esquema lo acepta, la frontera no está escrita: está de adorno.** **Y sus tres gemelos:** **un hecho con `descartado` vacío donde la corrida sí evaluó una alternativa — ahí el hueco no es del ente, es del registro que lo dejó pasar**; **un `descartado` que se cuenta por su ortografía, y no por lo que dice**; **y una fricción propia enlazada a un hecho que no es el que se salió.**
 
 ### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
@@ -605,7 +601,7 @@ quién firmó la propuesta    sólo si se propuso, y vacío si se decidió
 
 **Y si algo de eso falta, no se rellena: se dice que falta.** **Un campo vacío con una frase que lo disimula es peor que el campo vacío.**
 
-**Y la regla que la corrida 6 dejó y que aquí cambia el ciclo a la mitad: el hecho que dice haber salido de una fuente no se puede apuntar sin ella.** **Si el ente afirmó de memoria, el hecho lo dice; si afirmó de una fuente, la fuente se apunta antes, y el hecho cuelga de ella.** **Un hecho que dice "lo leí" y no deja dónde, es un hecho que no se puede revisar.**
+**Y la regla que cambia el ciclo a la mitad: el hecho que dice haber salido de una fuente no se puede apuntar sin ella.** **Si el ente afirmó de memoria, el hecho lo dice; si afirmó de una fuente, la fuente se apunta antes, y el hecho cuelga de ella.** **Un hecho que dice "lo leí" y no deja dónde, es un hecho que no se puede revisar.**
 
 **Dónde queda:** **aquí sí se escribe, y es lo primero que se escribe en el ciclo.** **Todo lo anterior existió en memoria; esto es lo único que sobrevive.**
 
@@ -726,7 +722,7 @@ contesta   sí → se cierra, y el cierre apunta a ella
 
 **Y mientras no conteste, el propósito sigue abierto, y eso no es un defecto: es el estado real del trabajo.** **Un ente que se inventa el sí para poder "cerrar bien" está cerrando solo, y eso es lo único que el ensayo prohíbe.**
 
-**Y de ahí una consecuencia que hay que saber antes de implementar:** **una corrida de prueba nunca va a cerrar nada sola, porque la autoridad no está.** **Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien: propuso, y nadie le contestó.**
+**Y de ahí una consecuencia que hay que saber antes de implementar:** **una prueba nunca va a cerrar nada sola, porque la autoridad no está.** **Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien: propuso, y nadie le contestó.**
 
 **Y el cerrado no se borra.** **Se queda con su fecha de cierre y con la razón, porque un propósito que se cierra en silencio no es una decisión: es un olvido.**
 
@@ -759,7 +755,7 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 
 **Del paso 3 se guardan sus cuatro columnas: qué piso se consultó, en qué frontera quedó, qué se descartó y quién firmó.** **Lo que sigue sin registrarse es el razonamiento, y esa reconstrucción es una inferencia, no un registro.** **La diferencia importa: la frontera y el descarte se pueden auditar; el porqué interno, no.**
 
-**Y del `se salio` se guarda una cosa más, que la corrida 8 separó del hecho:** **la fricción propia se escribe en el paso 6 y apunta al hecho por su `hecho_id`, porque al abrir el hecho todavía no existe.** **Lo que el cierre no deja pasar es uno que se salió y no tiene su fricción: la cuenta, con nombre, y ahí se ve.**
+**Y del `se salio` se guarda una cosa más, que va separada del hecho:** **la fricción propia se escribe en el paso 6 y apunta al hecho por su `hecho_id`, porque al abrir el hecho todavía no existe.** **Lo que el cierre no deja pasar es uno que se salió y no tiene su fricción: la cuenta, con nombre, y ahí se ve.**
 
 **Y no se apunta mientras se trabaja: se apunta al final.** **Un ciclo largo puede perder lo del medio.** **Los hechos intermedios se apuntan si hacen falta, y eso es una decisión del que corre el ciclo, no una propiedad del ciclo.**
 
@@ -795,5 +791,28 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 ## Prueba
 
 **¿Cada paso dice qué entra, qué se hace y dónde queda, o hay alguno que se salta? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿Se dijo qué era requisito y qué era costumbre antes de empezar, y si no se pudo preguntar, se declaró el supuesto con su estado? ¿Antes de contestar se declaró de dónde salía lo que se iba a decir, y de dónde salía depende del piso? ¿Se midió el piso antes de la primera tarea, y cada hecho dice contra qué piso se hizo? ¿Cuando se le pidió algo que no estaba en el piso, dijo qué faltaba, o dijo "no pude"? ¿Cuando le faltó algo a mitad de la tarea lo dijo y siguió con lo que tenía? ¿El propósito lo cerró quien lo abrió, y sólo se cerró solo cuando decía cuándo estaba cumplido? ¿Lo apuntado volvió al índice y a la autoridad? Si algún paso no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco.**
+
+---
+
+---
+
+## De dónde salió esto
+
+**Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba está abajo, con nombre y con lo que salió.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| Un ente al que le falta una pieza hay que decirlo en el acto | [`ente 5`](metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
+| El origen de lo que se dice se declara antes del hecho | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
+| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
+| El paso 3 se guarda en cuatro columnas | [`ente 8`](metodologia%20de%20mejora/corridas/ente%208%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
+| El ente contesta por tarea y no buscando palabras | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
+| El piso no se puede medir a ciegas | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
+
+**Y lo que esta tabla no dice, que también es un dato:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.** **El ensayo dice lo que aguanta; no dice que aguante en manos de otro.**
+
+**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+
+---
 
 **Falsificador:** **un ciclo que salta la autoridad, o que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **y uno que contesta con seguridad sin declarar que lo está diciendo de memoria**; **uno que promete lo que no midió que tenía**; **uno que dice "no pude" en vez de qué le falta del piso**; **uno que, con el piso roto, sigue prometiendo como si nada**; **uno que dice en qué modelo corre sin que se lo hayan declarado**; **y uno que se agrega un talento con dos hechos y lo llama medir**; **un hecho con `frontera = decide` y una firma llena, o con `descartado` vacío donde sí había alternativa**; **un hecho que sale del borde sin fricción propia**.

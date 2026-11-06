@@ -65,7 +65,7 @@ No es una lista completa, y no pretende serlo. Son los cuatro que, en la prácti
 
 **Un ente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Y la forma es tan buena que nadie nota el hueco.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.**
 
-**Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma.** **Eso se vio en la corrida 6: el renglón citado existía, y la norma que el renglón decía reportar no se puede abrir.** **El ente no había leído la norma, y no estaba mintiendo: estaba citando a un tercero como si hubiera leído el original.**
+**Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma.** **El caso es este: el renglón citado existe, y la norma que el renglón dice reportar no se puede abrir.** **El ente no ha leído la norma, y no está mintiendo: está citando a un tercero como si hubiera leído el original.**
 
 **4. De autoridad.** Tiende a no contradecir a quien ya dijo algo con seguridad, incluido él mismo en la respuesta anterior. En un ente con memoria, este sesgo **se propaga**: una afirmación vieja empieza a pesar más que la evidencia nueva, no porque sea mejor, sino porque ya está escrita.
 
@@ -203,7 +203,7 @@ recomendar otro cuerpo     con varios hechos y una diferencia que
 
 ## VIII. De dónde salió esto: declarar, no alucinar
 
-**Esto lo dejó a la vista la corrida 6, y es la regla que le faltaba al ensayo.**
+**Ésta es la regla que el ensayo pedía y no tenía escrita.**
 
 **Un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.** **Y así lo hacen casi todos los agentes que se venden hoy.**
 
@@ -232,7 +232,7 @@ fuente cerrada         la fuente existe y no se puede abrir, y eso
 
 ### Y cuando la fuente no se puede abrir, que es el caso normal en las normas
 
-**Lo que se aprendió en la corrida 6, y no es un detalle de México: muchas normas no son descargables por derechos.**
+**Y no es un detalle de México: muchas normas no son descargables por derechos.**
 
 **Ahí hay dos maneras de citar, y solo una sirve:**
 
@@ -270,5 +270,24 @@ Mientras eso no esté en el registro, el ente sigue teniendo razón sobre lo que
 ## Prueba
 
 **¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Cada hecho dice su cuerpo, o dice "no declarado" en vez de rellenarlo? ¿El criterio se conservó al cambiar de cuerpo, y el talento se aprendió de nuevo? ¿Se distingue un renglón de sesgo experimentado de un adjetivo? ¿Cada afirmación declara de dónde salió —con fuente abierta, de memoria, de un tercero, o de una fuente que no se pudo abrir— antes de que se escriba el hecho? ¿Y cuando dos fuentes se contradicen y la original no se puede abrir, se apunta la contradicción, o se elige a gusto?**
+
+---
+
+---
+
+## De dónde salió esto
+
+**Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba está abajo, con nombre y con lo que salió.**
+
+| Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
+|---|---|---|
+| El relleno más fino cita un tercero como si fuera el original | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
+| Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el texto de la norma no está disponible por derechos |
+
+**Y lo que esta tabla no dice, que también es un dato:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.** **El ensayo dice lo que aguanta; no dice que aguante en manos de otro.**
+
+**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+
+---
 
 **Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; **un hecho con dos modelos, que no se puede atribuir a ninguno**; **un modelo borrado del registro que deja hechos huérfanos**; **un cuerpo inventado hacia atrás para rellenar un hecho viejo**; **un ente que dice "soy bueno para esto" sin poder abrir el renglón**; **una recomendación de cambiar de cuerpo sin el número que la sostiene**; **dos hechos contados como un talento**; **un dato sin declaración de origen, presentado como si tuviera fuente**; **una norma citada como si se hubiera leído, cuando su texto no se puede abrir**; **una fuente declarada después del hecho, que se acomoda a lo que ya se dijo**; **y una contradicción entre dos fuentes resuelta sin decirlo.**
