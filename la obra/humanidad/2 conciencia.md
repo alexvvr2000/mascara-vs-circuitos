@@ -138,7 +138,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo.** **No la velocidad.** **La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.**
 
-**Y de ahí sale una idea que va más allá de este ensayo**, y que está en `0 mis ideas` como la once:
+**Y de ahí sale una idea que va más allá de este ensayo**, y que está en `0 mis ideas` como la última:
 
 > **Si todo se hiciera al 100%, y sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.**
 

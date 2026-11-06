@@ -5,11 +5,11 @@
 
 > **Para qué sirve este archivo.** Quien lea —o mi asesor— tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
 
-**Y antes de las once, una advertencia:** **este trabajo no sale de la nada.** **Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md).** **Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.**
+**Y antes de las diez, una advertencia:** **este trabajo no sale de la nada.** **Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md).** **Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.**
 
 ---
 
-## Las once afirmaciones
+## Las diez afirmaciones
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
@@ -60,14 +60,7 @@
 **Qué lo sostiene:** no es una mejora medida —**no se midió contra nada**— sino **una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer.** Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
 **Qué la tumba:** ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 
-### 8. Un conjunto de entes no es un enjambre si alguien responde por él
-
-**Vive en:** `la obra/ciclo de la colmena/1 colmena.md`.
-**Qué sostiene:** **un enjambre produce; una colmena responde.** Lo que la vuelve contestable no es el número: es que **el conjunto declare su sesgo, firme con un nombre, y dé a cada ente el derecho a decir que no.**
-**Qué lo sostiene:** el costo de acuerdo. Medir la velocidad de cada parte y llamarlo rendimiento del conjunto es esconder el término que más pesa.
-**Qué la tumba:** ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
-
-### 9. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
+### 8. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
 
 **Vive en:** `la obra/humanidad/1 empatía.md`.
 **Qué sostiene:** **la empatía no es amabilidad: es instrumentación.** Averiguar cómo está hecha la otra parte **antes** de pedirle algo. Y un resultado coherente con la letra puede ser **ajeno al propósito**: eso solo se detecta entendiendo el pedido, no revisando la salida.
@@ -76,14 +69,14 @@
 
 ---
 
-### 10. La conciencia que se busca adentro no está adentro
+### 9. La conciencia que se busca adentro no está adentro
 
 **Vive en:** `la obra/humanidad/2 conciencia.md`.
 **Qué sostiene:** lo que parece conciencia en una IA **no está dentro de la caja**, sino **fuera**: el modelo, el criterio, los recuerdos, y **el que cuenta la versión de los hechos**. **No se afirma que exista, ni que no exista; se afirma dónde se la puede buscar, y que eso se puede abrir y revisar.**
 **Qué lo sostiene:** una regla de lectura, no una creencia. **Lo de afuera se puede señalar, guardar y contradecir.**
 **Qué la tumba:** ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 
-### 11. El esfuerzo es lo único que no llegó con la máquina
+### 10. El esfuerzo es lo único que no llegó con la máquina
 
 **Vive en:** `la obra/humanidad/2 conciencia.md`, sección VII.
 **Qué sostiene:** lo que la máquina no trajo es el esfuerzo, y **lo que se destruye al quitar los seguros para ir más rápido es eso mismo**. **La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos.** **Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.**

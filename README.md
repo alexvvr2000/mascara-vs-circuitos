@@ -35,24 +35,24 @@
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
 
-**El cartel es la forma. Lo que se apuesta aquí fue en serio: once tesis, cada una con su falsificador, y un registro que dice qué se cayó.**
+**El cartel es la forma. Lo que se apuesta aquí fue en serio: diez tesis, cada una con su falsificador, y un registro que dice qué se cayó.**
 
 
 ---
 
 ## Qué es esto, en tres líneas
 
-**Qué es:** una propuesta metodológica, **nueve ensayos y cinco afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
+**Qué es:** una propuesta metodológica, **ocho ensayos y diez afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer el ensayo de que es un ente, correrle el falsificador a cualquiera de los once, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
+**Qué puedes hacer hoy:** leer el ensayo de que es un ente, correrle el falsificador a cualquiera de las diez, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
 
 ---
 
 ## Una publicación de la gente, para la gente
 
-Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron once ideas, y de esas once, una carrera.
+Este repositorio nació de una discusión que se comió un repositorio entero. De ahí salieron diez ideas, y de esas diez, una carrera.
 
 **Y nació de apostar dos identidades**, que es lo que hace este nombre aquí.
 
@@ -84,9 +84,9 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 ---
 
-## Las once ideas
+## Las diez ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E5` el ciclo del ente, `C1` la colmena, `H1` … `H3` la humanidad.**
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E5` el ciclo del ente, y `H1` … `H3` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
@@ -97,10 +97,9 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **5** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
 | **6** | **Y eso hace accesible la IA con modelos pequeños** | aquí abajo |
 | **7** | En el índice, la forma es la fuente y el texto es el derivado | `E4` |
-| **8** | Un conjunto no es un enjambre si alguien responde por él | `C1` |
-| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
-| **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
-| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
+| **8** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
+| **9** | **La conciencia que se busca adentro no está adentro** | `H2` |
+| **10** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
 
 **La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).**
 
@@ -229,13 +228,11 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | **E3** | `la obra/ciclo del ente/3 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
 | **E4** | `la obra/ciclo del ente/4 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. **Y se consulta antes de decidir.** |
 | **E5** | `la obra/ciclo del ente/5 criterio y sesgos.md` | **Qué es del ente y qué del cuerpo.** El criterio viaja; el talento se aprende por cuerpo. |
-| **C1** | `la obra/ciclo de la colmena/1 colmena.md` | **Qué pasa cuando son varios.** Un enjambre produce; una colmena responde. |
-| **C2** | — | **Cómo se le mide el talento al conjunto.** **Sin escribir: el talento del conjunto no está medido, y lo que se sabe es que no se obtiene sumando a sus partes.** **El talento de un ente solo se mide en `H3`.** |
 | **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
 | **H2** | `la obra/humanidad/2 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
 | **H3** | `la obra/humanidad/3 medicion de talentos.md` | **Cómo se sabe si un ente está haciendo trabajo de verdad.** Con números, sin preguntarle al modelo qué tan bueno es. Costo real, varianza, y la caída contada por su puerta. |
 
-**E es el ciclo del ente; C, el de la colmena; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
+**E es el ciclo del ente; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
 **Y dentro de `ciclo del ente/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos cinco ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las seis corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
 
@@ -257,15 +254,13 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 
 ```plaintext
 1. esta entrada          qué es, y qué se está apostando
-2. la obra/              y dentro, tres carpetas:
+2. la obra/              y dentro, dos carpetas:
      ciclo del ente/        la unidad sola: su criterio, su índice, su rastro
        E1  que es un ente       la definición de la que cuelga todo
        E2  escritura en procesos por qué proceso, y no prosa
        E3  criterio real        cómo se arma el criterio
        E4  indexador de temas   dónde vive lo que sabe, y cuándo se consulta
        E5  criterio y sesgos    qué es del ente y qué del cuerpo
-     ciclo de la colmena/   la autoridad: varios entes, y quién responde
-       C1  colmena              qué hace que un conjunto responda
      humanidad/             lo que no es maquinaria
        H1  empatía              cómo se entiende antes de pedir
        H2  conciencia           qué hacemos con una palabra que no sabemos definir
@@ -273,7 +268,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
    y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las seis corridas
 ```
 
-**El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de los tres.**
+**El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de las dos.**
 
 **Y para verificar, sin creerme:**
 
