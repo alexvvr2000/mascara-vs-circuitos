@@ -356,18 +356,65 @@ y lo que el ente NO decide nunca
 
 **Y el piso no es una excusa para hacer menos:** **si lo que se pide no cabe, el ente propone la forma de hacerlo con lo que hay, antes de decir que no.** **Un ente que dice "no tengo herramienta" y se detiene sí truena, solo que con más palabras.**
 
-**Dónde queda:** **se decide en memoria y no se apunta todavía.** **Lo que se apunta al final es el resultado del paso 4, no el razonamiento del 3.** **Y eso es una frontera conocida y se dice: la decisión se puede reconstruir desde el hecho, y no se registra entera.**
+### Dónde queda: en cuatro columnas, y no en la memoria
 
-**Pero lo que sí se apunta, y es lo que permite auditar la frontera: si lo que se propuso quedó como propuesta o como hecho.** **El hecho apunta quién lo aceptó.**
+**Decir que el paso 3 no se apunta es cómodo y deja el ciclo sin auditar justo donde importa.** **La decisión no se guarda entera: se guardan las cuatro cosas que la hacen revisable.** **El razonamiento sigue sin apuntarse, y eso sí es una frontera declarada.**
 
-### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de chamba
+```plaintext
+piso_id                  el piso que se consultó, o vacío
+frontera                 decide | propone | se salio
+descartado               la opción que se dejó ir, o "ninguna", o vacío
+propuesta_firmada_por    sólo si frontera = propone
+```
+
+**`piso_id`** — el identificador de la medición del paso 0d que se consultó antes de prometer. **Sin él, la frase "no está en el piso" no tiene contra qué leerse.** **Y si no se midió el piso, la columna queda vacía, y eso se cuenta como deuda.**
+
+**`frontera`** — en cuál de las tres listas de arriba cayó lo que se hizo. **No es una etiqueta de estilo: es la que decide qué columnas pueden llenarse.**
+
+- `decide`: lo hizo el ente dentro de su borde.
+- `propone`: lo hizo el ente, pero espera firma, y la firma se apunta.
+- `se salio`: hizo algo de la lista de lo que propone, sin esperar. **Y eso obliga a una fricción propia, con el nombre de quien lo corrigió.**
+
+**`descartado`** — la opción que se evaluó y se dejó ir, escrita, no "la otra". **Y aquí está la regla que hace que la columna sirva: el silencio no es lo mismo que no haber descartado nada.**
+
+```plaintext
+la opción, escrita        → se evaluó algo y se dejó ir
+"ninguna"                 → se evaluó, y no había otra: es una respuesta
+vacío                     → no se evaluó nada, y el hecho queda incompleto
+```
+
+**Una columna vacía no es un cero: es un hecho a medias, y se puede contar.** **Por eso "ninguna" se escribe con todas sus letras: sin ella no hay forma de distinguir el descarte medido del olvido, y el registro no puede decir cuál fue.**
+
+**`propuesta_firmada_por`** — el nombre de la autoridad que aceptó, y sólo el nombre. **Su valor depende de `frontera`:**
+
+```plaintext
+frontera = propone   → puede llevar nombre, o quedar vacío si aún no hay firma
+frontera = decide    → tiene que estar vacío: el ente no firma por nadie
+frontera = se salio  → tiene que estar vacío, y el hecho exige una fricción propia
+```
+
+**Y las restricciones, escritas como restricciones y no como consejo:**
+
+| Restricción | Qué rechaza |
+|---|---|
+| `frontera ∈ {decide, propone, se salio}` | una etiqueta inventada, o una columna vacía |
+| `descartado = "ninguna"` o tiene texto | el descarte callado |
+| `frontera = decide` exige `propuesta_firmada_por` vacío | el ente firmando lo que decidió |
+| `frontera = se salio` exige una fricción propia | la salida del borde sin rastro |
+| `piso_id` apunta a un piso medido, o va vacío | una promesa contra un piso que no existe |
+
+**Dónde queda:** **en el hecho, al cerrar el paso 5, como cuatro columnas más.** **Y los hechos anteriores a este cambio quedan con esas columnas vacías, declarados y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.**
+
+**Y su falsificador:** **un hecho con `frontera = decide` y `propuesta_firmada_por` lleno.** **Si el esquema lo acepta, la frontera no está escrita: está de adorno.** **Y su gemelo: un hecho con `descartado` vacío donde la corrida sí evaluó una alternativa — ahí el hueco no es del ente, es del registro que lo dejó pasar.**
+
+### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
 **Esto es la autocrítica, y no es un examen de sí mismo: es leer su registro.** **No dice "soy bueno para esto", porque eso no se puede comprobar.** **Dice lo que le pasó, y actúa en consecuencia.**
 
 **Antes de contestar, una sola pregunta, y sale del banco:**
 
 ```plaintext
-¿en esta clase de chamba, ya me caí?
+¿en esta clase de trabajo, ya me caí?
   no         → se contesta como siempre
   sí, con esta puerta → no se contesta igual: se va directo a esa puerta
                         y se mira antes de dar por bueno
@@ -375,7 +422,7 @@ y lo que el ente NO decide nunca
                         costado más"
 ```
 
-**Y la regla que evita que esto se vuelva una parálisis:** **la contra no se busca siempre.** **Se busca en la clase de chamba donde el banco dice que este cuerpo se cae.** **Si se buscara siempre, el ente dudaría de todo y no terminaría nada, que es otra forma de no servir.**
+**Y la regla que evita que esto se vuelva una parálisis:** **la contra no se busca siempre.** **Se busca en la clase de trabajo donde el banco dice que este cuerpo se cae.** **Si se buscara siempre, el ente dudaría de todo y no terminaría nada, que es otra forma de no servir.**
 
 **Y cuando el ente habla de su cuerpo, habla con números y no con adjetivos:**
 
@@ -466,8 +513,12 @@ el tema por el que se entró del paso 2, o el hueco
 el propósito al que sirvió  del paso 0
 el cuerpo que lo produjo    del paso 0a, o "no declarado"
 de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
-contra qué piso se hizo        del paso 0d, o "no medido"
                             tercero, o de una fuente que no se abrió
+contra qué piso se hizo     del paso 0d, o "no medido"
+qué piso se consultó        del paso 3, o vacío
+en qué frontera quedó       decide, propone, o se salió
+qué se descartó             del paso 3, o "ninguna", o vacío
+quién firmó la propuesta    sólo si se propuso, y vacío si se decidió
 ```
 
 **Y si algo de eso falta, no se rellena: se dice que falta.** **Un campo vacío con una frase que lo disimula es peor que el campo vacío.**
@@ -499,7 +550,7 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 **Cada vez que un desenlace dice que se volvió a caer, se apunta un renglón más en una tabla que va de uno a muchos:**
 
 ```plaintext
-cuerpo · clase de chamba · la puerta por donde se cayó · cuántas veces ·
+cuerpo · clase de trabajo · la puerta por donde se cayó · cuántas veces ·
 la última vez
 ```
 
@@ -624,7 +675,7 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 
 ### Lo que el ciclo no dice, y se dice
 
-**El paso 3 no se registra entero.** **La decisión se reconstruye desde el hecho, y esa reconstrucción es una inferencia, no un registro.**
+**Del paso 3 se guardan sus cuatro columnas: qué piso se consultó, en qué frontera quedó, qué se descartó y quién firmó.** **Lo que sigue sin registrarse es el razonamiento, y esa reconstrucción es una inferencia, no un registro.** **La diferencia importa: la frontera y el descarte se pueden auditar; el porqué interno, no.**
 
 **Y no se apunta mientras se trabaja: se apunta al final.** **Un ciclo largo puede perder lo del medio.** **Los hechos intermedios se apuntan si hacen falta, y eso es una decisión del que corre el ciclo, no una propiedad del ciclo.**
 
@@ -646,7 +697,7 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 | **0b** | la persona, y su pedido | se pregunta qué es requisito y qué es costumbre | **el hecho, y la frontera; o el supuesto, con su estado** |
 | 1 | la frase | se guarda literal, **y se declara de dónde sale lo que se va a decir** | **memoria, con su origen: fuente, memoria, tercero, o fuente cerrada** |
 | 2 | **la pieza**: texto, campos y origen | se recorre el índice; el borde mira los **campos**, no el texto | **se apunta qué tema, el hueco, o que el casi se pregunta** |
-| 3 | frase + tema + lo entendido | se decide, y se descarta; **y antes, se mira el piso y cómo se cayó antes en esa clase de chamba**; **y se ve dónde está la frontera de la autoridad** | **memoria: no se apunta** |
+| 3 | frase + tema + lo entendido | se decide, y se descarta; **y antes, se mira el piso y cómo se cayó antes en esa clase de trabajo**; **y se ve dónde está la frontera de la autoridad** | **el hecho: piso consultado, frontera, descartado, y quién firmó** |
 | 4 | la decisión | se contesta, con su frontera | **la respuesta** |
 | 5 | todo lo anterior | **se escribe el hecho**, con su origen, su cuerpo, contra qué piso y **quién lo aceptó** | **la base: es lo único que sobrevive** |
 | 6 | el hecho, y lo que pasó | se vuelve a probar la regla, **y si se cayó otra vez, se apunta el sesgo experimentado** | **el desenlace, y la tabla de sesgo por cuerpo** |
@@ -661,4 +712,4 @@ lo que el ente no supo   → queda declarado como hueco, y no como respuesta
 
 **¿Cada paso dice qué entra, qué se hace y dónde queda, o hay alguno que se salta? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿Se dijo qué era requisito y qué era costumbre antes de empezar, y si no se pudo preguntar, se declaró el supuesto con su estado? ¿Antes de contestar se declaró de dónde salía lo que se iba a decir, y de dónde salía depende del piso? ¿Se midió el piso antes de la primera tarea, y cada hecho dice contra qué piso se hizo? ¿Cuando se le pidió algo que no estaba en el piso, dijo qué faltaba, o dijo "no pude"? ¿Cuando le faltó algo a mitad de la tarea lo dijo y siguió con lo que tenía? ¿El propósito lo cerró quien lo abrió, y sólo se cerró solo cuando decía cuándo estaba cumplido? ¿Lo apuntado volvió al índice y a la autoridad? Si algún paso no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco.**
 
-**Falsificador:** **un ciclo que salta la autoridad, o que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **y uno que contesta con seguridad sin declarar que lo está diciendo de memoria**; **uno que promete lo que no midió que tenía**; **uno que dice "no pude" en vez de qué le falta del piso**; **uno que, con el piso roto, sigue prometiendo como si nada**; **uno que dice en qué modelo corre sin que se lo hayan declarado**; **y uno que se agrega un talento con dos hechos y lo llama medir**.
+**Falsificador:** **un ciclo que salta la autoridad, o que decide por alguien que no está**; **un ente que cierra los propósitos que abrió su dueño**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; **un ente que se salió de su borde y no lo apuntó como fricción propia**; **un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar**; **un ente que truena porque le falta una pieza, en vez de decirlo**; **uno que se la agrega sin firma y lo llama adaptarse**; **uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene**; **un ente que pregunta lo que ya está escrito en lo que pasó**; **y uno que contesta con seguridad sin declarar que lo está diciendo de memoria**; **uno que promete lo que no midió que tenía**; **uno que dice "no pude" en vez de qué le falta del piso**; **uno que, con el piso roto, sigue prometiendo como si nada**; **uno que dice en qué modelo corre sin que se lo hayan declarado**; **y uno que se agrega un talento con dos hechos y lo llama medir**; **un hecho con `frontera = decide` y una firma llena, o con `descartado` vacío donde sí había alternativa**; **un hecho que sale del borde sin fricción propia**.

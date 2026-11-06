@@ -159,14 +159,14 @@ de varios       entonces hay un hecho por cuerpo, y no uno con dos
 | | Qué es | Al cambiar de cuerpo |
 |---|---|---|
 | **el criterio** | las reglas, el banco, los desenlaces, la forma de decidir | **se conserva entero: es del ente** |
-| **el talento** | qué tan bien sale una clase de chamba con un cuerpo concreto | **no viaja: se aprende por cuerpo, y se aprende de nuevo** |
+| **el talento** | qué tan bien sale una clase de trabajo con un cuerpo concreto | **no viaja: se aprende por cuerpo, y se aprende de nuevo** |
 
 **Y eso es lo mismo que pasa con una persona:** **su criterio no cambia cuando cambia de herramienta; lo que cambia es lo que ya practicó con cada una.** **Y hay gente talentosa para una cosa y no para otra, con la misma cabeza.**
 
 **De ahí la tabla, y es de uno a muchos:**
 
 ```plaintext
-cuerpo · clase de chamba · la puerta por donde se cayó · cuántas veces ·
+cuerpo · clase de trabajo · la puerta por donde se cayó · cuántas veces ·
 la última vez
 ```
 

@@ -97,7 +97,7 @@ el P90    el costo de las nueve de cada diez. Con este se presupuesta
 ```plaintext
 el pedido, tal cual llegó
      ↓
-la clase: un nombre fijo, y siempre el mismo para la misma chamba
+la clase: un nombre fijo, y siempre el mismo para el mismo trabajo
      ↓
 el hecho, con esa clase
      ↓
@@ -120,7 +120,7 @@ el conteo, que ahora sí suma
 
 ```plaintext
 1. se elige una clase de trabajo que ya tiene hechos
-2. se hace la misma chamba con otro cuerpo
+2. se hace el mismo trabajo con otro cuerpo
 3. se comparan las dos historias: los cuatro números de arriba
 4. lo que cambia en el resultado es el cuerpo; lo que no cambia, es el ente
 ```
@@ -181,6 +181,6 @@ el conteo, que ahora sí suma
 
 ## Prueba
 
-**¿Cada número sale del banco, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron la misma chamba, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
+**¿Cada número sale del banco, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
 
 **Falsificador:** un cuerpo elegido por su tarifa; un promedio sin percentil alto; un output que hay que limpiar y no se cuenta en el precio; un talento aceptado sin haberse intentado refutar; **un número que citó el propio modelo sobre sí mismo**; **una clase de trabajo que cambia de nombre y con eso nunca junta dos hechos**; **un cuerpo declarado "malo" sin decir por qué puerta se cayó y cuántas veces**; **y una comparación entre dos cuerpos hecha con tareas distintas, que atribuye a la máquina lo que era la tarea.**
