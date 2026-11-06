@@ -58,7 +58,6 @@
      H1  empatía                cómo se entiende antes de pedir
      H2  conciencia             qué hacemos con una palabra que no sabemos definir
      H3  medicion de talentos   cómo se sabe si el trabajo es de verdad
-     H4  ALAS                   cómo se habla con otro que no es como uno
 
 6. metodologia de mejora/     las siete corridas, y qué le faltó a cada una
 ```
@@ -69,7 +68,7 @@
 
 ## Las diez ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H4` la humanidad.**
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H3` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
