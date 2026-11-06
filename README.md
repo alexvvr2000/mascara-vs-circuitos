@@ -9,31 +9,32 @@
 
    LUCHA DE APUESTAS · RESULTADO
 
-   Ganó: Alejandro Valenzuela Rivera.
-   Cayó: la industria, que se quedó sin máscara
-         y con la cabellera en la lona.
+   Esto no es un acta de victoria: es un acta de lo que se
+   sostuvo y lo que se cayó. Las cifras de abajo son de mi
+   trabajo anterior, `man-made-empathy`, y se citan aquí
+   porque de ahí salió este. Las de este repositorio son
+   otras, y están en su banco.
 
-   No hubo buenos: los dos eran rudos.
-   De este lado porque aprendió el oficio a madrazos.
-   Del otro porque lleva veinte años diciendo
-   que el oficio no existe.
-
-   Récord del que ganó:
+   Récord del trabajo anterior:
       10 días de esquina
       9 565 mensajes tirados
       31 760 464 tokens de voz
       4 293 493 888 de caché leída
       y un modelo que no cambió en 9 556 de 9 565
 
-   Y el acta, que es lo único que importa:
-      lo que se sostuvo y se cayó: 68 caídas
-      de las que 55 no se han vuelto a probar
+   Y el acta de aquí, que es lo único que importa:
+      corridas hechas: 7
+      huecos encontrados: 15
+      de los que se cerraron en el ensayo: 12
+      falsificadores cumplidos: 0
 
    El cartel vendió una pelea.
    Esto es lo que quedó de ella.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
+
+**Y esa última línea del acta no es un olvido: es el dato más importante de la página.** **Ningún ensayo se ha caído todavía por su propio falsificador.** **Un método que nunca se cayó no sabe caerse.**
 
 **El cartel es la forma. Lo que se apuesta aquí fue en serio: diez tesis, cada una con su falsificador, y un registro que dice qué se cayó.**
 
@@ -42,11 +43,13 @@
 
 ## Qué es esto, en tres líneas
 
-**Qué es:** una propuesta metodológica, **nueve ensayos y diez afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
+**Qué es:** una propuesta metodológica, **diez ensayos y diez afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer el ensayo de que es un ente, correrle el falsificador a cualquiera de las diez, y hacer tu propio ente con la guía. **No hace falta pedir permiso, y no se aceptan contribuciones.**
+**Qué puedes hacer hoy:** leer el ensayo de que es un ente, correrle el falsificador a cualquiera de las diez, y **construir el tuyo con los ensayos, que es lo que hay.** **No hace falta pedir permiso, y no se aceptan contribuciones.**
+
+**Y que quede dicho antes de que alguien lo espere:** **no hay guía.** **Hubo una, y se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero.** **Lo que hay son los ensayos y las siete corridas: se aprende leyendo el que corrió y lo que le faltó, no copiando una receta.**
 
 ---
 
@@ -64,7 +67,7 @@ Este repositorio nació de una discusión que se comió un repositorio entero. D
 
 **Máscara contra circuitos. Y aquí, las dos se quitaron la máscara.**
 
-**No vine a publicar más papers, porque la gente no ocupa más papers: ocupa resultados, y rápido.** Lo que sigue está aquí, funciona, y se puede tumbar. Cada afirmación trae su prueba y su falsificador, y lo que no está probado se dice que no está probado.
+**No vine a publicar más papers, porque la gente no ocupa más papers: ocupa resultados, y rápido.** **Lo que sigue es una propuesta con siete corridas detrás, y se puede tumbar.** Cada afirmación trae su prueba y su falsificador, y lo que no está probado se dice que no está probado. **Lo que aquí no hay, y conviene saberlo antes de entrar: una comparación medida contra nada, ni una sola corrida hecha por alguien que no sea el autor.**
 
 **El trabajo no pide que se le crea. Pide que se le use, y que se le refute.**
 
@@ -86,7 +89,7 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 ## Las diez ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H3` la humanidad.**
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H4` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
@@ -117,11 +120,13 @@ Cualquiera con modelos accesibles puede entrar. **De ahí la carrera: no a tener
 
 ## El llamado: hablar con los átomos
 
+> **Esto no es el resultado de este trabajo. Es lo que lo justifica.** **Lo que este repositorio prueba está en los ensayos y en las siete corridas; lo que sigue es la apuesta de para qué serviría si funcionara.** **Se escribe aquí porque es la razón, y se marca porque no es la prueba.**
+
 **La cuántica y la relatividad no se contradicen por un error de cálculo: se contradicen porque están escritas en dos lenguajes que no se declaran lo suficiente para poder compararse.**
 
 Y de eso trata el resto de este trabajo, aunque no lo parezca: **un ente no entiende la ambigüedad, la rellena.** Por eso la forma tiene que decir qué entra, qué lo incumple, qué sale y qué lo tumbaría. **Un símbolo que no declara su borde no se puede unificar con otro: se puede juntar, y eso no es unificar.**
 
-La puerta es `ALAS` — **A**pertura, **L**engua, **A**comodo, **S**ostenido — **el protocolo para hablar con otro que no es como uno**, con una condición que decide si hay diálogo o monólogo: **el otro tiene que poder seguir sin el que habló.**
+La puerta es `ALAS` — **A**pertura, **L**engua, **A**comodo, **S**ostenido — **el protocolo para hablar con otro que no es como uno**, con una condición que decide si hay diálogo o monólogo: **el otro tiene que poder seguir sin el que habló.** **Y está escrito entero, con sus cuatro letras, su tabla de búsqueda y su falsificador, en [`la obra/humanidad/4 ALAS.md`](./la%20obra/humanidad/4%20ALAS.md).**
 
 Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, y el tercero recibe un truncado sin saber que lo recibió.** Ese tercero, aquí, **es el átomo.**
 
@@ -132,6 +137,8 @@ Y el punto de partida es duro: **se comunican dos que se entienden entre ellos, 
 ---
 
 ## Esta carrera no es solo de física
+
+> **Y esto tampoco es un resultado, ni una promesa.** **Es por qué el autor hace esto, dicho con un ejemplo que todavía no existe.** **Se lee como lo que es: un deseo con mecanismo, no un hallazgo.**
 
 **En esta era nueva, donde el ego ya puede considerarse muerto, me doy cuenta de algo:** en esta carrera no estamos solo los que trabajamos un lenguaje de máquina.
 
@@ -232,6 +239,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
 | **H2** | `la obra/humanidad/2 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
 | **H3** | `la obra/humanidad/3 medicion de talentos.md` | **Cómo se sabe si un ente está haciendo trabajo de verdad.** Con números, sin preguntarle al modelo qué tan bueno es. Costo real, varianza, y la caída contada por su puerta. |
+| **H4** | `la obra/humanidad/4 ALAS.md` | **Cómo se habla con otro que no es como uno.** Cuatro letras, y una prueba: que el otro pueda seguir sin el que habló. |
 
 **E es la alineación de entes; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
@@ -267,6 +275,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
        H1  empatía              cómo se entiende antes de pedir
        H2  conciencia           qué hacemos con una palabra que no sabemos definir
        H3  medicion de talentos cómo se sabe si el trabajo es de verdad
+       H4  ALAS                 cómo se habla con otro que no es como uno
    y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las siete corridas
 ```
 
@@ -316,7 +325,7 @@ grep -n "Falsificador" *.md
 
 ## En una línea
 
-**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que empieza por hablar con los átomos y no termina ahí: termina en mejorar a la humanidad juntos.**
+**Un ente se define por lo que deja rastro; el criterio se arma con lo que se cayó; la forma manda sobre el texto; y de ahí sale una carrera que este trabajo no corre: la nombra.** **Lo que aquí se entrega son nueve ensayos y siete corridas, con lo que falta dicho con nombre.**
 
 **El que llegue, que traiga el rastro.**
 

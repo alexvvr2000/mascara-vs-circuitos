@@ -1,42 +1,33 @@
 cff-version: 1.2.0
 message: "Versión inicial. Si se cita, hacerlo con esta versión y esta fecha."
-title: "Máscara vs Circuitos: del ente al talento medible"
+title: "Máscara vs Circuitos: alineación de entes"
 abstract: >-
-  Máscara vs Circuitos reúne nueve ensayos sobre el mismo problema: cómo una
+  Máscara vs Circuitos reúne diez ensayos sobre el mismo problema: cómo una
   colaboración entre una persona y un sistema de inteligencia artificial puede
-  dejar un rastro que se pueda juzgar. El primero sostiene que el criterio no
-  es lo que se recuerda sino lo que se sostuvo y se cayó, y propone el hecho y
-  la fricción como las dos únicas clases de registro, con un desenlace que dice
-  qué regla aguantó y cuántas veces volvió a caer. El segundo define qué
-  campos arman ese criterio, con el hecho sin resumir y la posición con su
-  contra. El tercero argumenta que una IA debe escribir en forma de proceso y
-  no en prosa: porque la prosa supone un lector capaz de dudar, y donde el
-  hueco queda abierto, una IA lo rellena en lugar de preguntarlo. El noveno
-  cierra con la pregunta que el resto deja abierta: qué es esa palabra que
-  usamos sin saber qué es. No afirma que haya conciencia dentro de una IA, ni
-  lo niega: sostiene que lo que se puede ver de ella está fuera —el modelo, el
-  criterio, los recuerdos, y el que cuenta la versión de los hechos— y que por
-  estar fuera se puede abrir y revisar. El trabajo no se presenta como la
-  verdad: se presenta como una propuesta metodológica, escrita en primera
-  persona, con sus fuentes por abrir donde no se abrieron y con la declaración
-  El ensayo noveno no se queda en la pregunta: cuenta la alucinacion que
-  ocurrio mientras se escribia, y la correccion posterior, como prueba de que
-  el esfuerzo es lo unico que no llego con la maquina y de que la calidad de un
-  trabajo no se obtiene dejando que todo lo haga el modelo.
-  completa de uso de IA en ATTRIBUTION.md.
+  dejar un rastro que se pueda juzgar. La obra se divide en dos carpetas. La
+  primera, alineación de entes, define qué es un ente, cuál es el ciclo que
+  corre paso por paso, por qué una IA debe escribir en forma de proceso y no
+  en prosa, cómo se arma el criterio con el hecho, la fricción y el desenlace,
+  dónde vive lo que un ente sabe, y qué es del ente y qué del cuerpo que lo
+  corre. La segunda, humanidad, trata lo que no es maquinaria: la empatía como
+  instrumento antes de pedirle algo a otro, la pregunta por la conciencia sin
+  afirmar que exista ni que no, cómo se sabe si un ente está haciendo trabajo
+  de verdad con números y sin preguntarle al modelo qué tan bueno es, y el
+  protocolo ALAS para hablar con otro que no es como uno.
+  El trabajo no se presenta como la verdad: se presenta como una propuesta
+  metodológica, escrita en primera persona, con sus fuentes declaradas donde
+  se abrieron y dichas donde no. No hay comparación medida contra ningún otro
+  trabajo, y las siete corridas que sostienen el método las hizo el autor: no
+  hay todavía una corrida hecha por alguien más. Cada afirmación trae su
+  falsificador, y ninguno se ha cumplido todavía. La declaración completa de
+  uso de IA está en ATTRIBUTION.md.
 type: book
-  El noveno cierra con la pregunta que el resto deja abierta: qué es esa
-  palabra que usamos sin saber qué es. No afirma que haya conciencia dentro de
-  una IA, ni lo niega: sostiene que lo que se puede ver de ella está fuera —el
-  modelo, el criterio, los recuerdos, y el que cuenta la versión de los hechos—
-  y que por estar fuera se puede abrir y revisar.
-
 authors:
   - family-names: "Valenzuela Rivera"
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
 version: "1.0.0"
-date-released: "2026-11-04"
+date-released: "2026-11-05"
 license: "CC-BY-4.0"
 status: "initial"
 keywords:
@@ -66,8 +57,3 @@ references:
       - type: doi
         description: "DOI conceptual (histórico) de Zenodo: identifica el repositorio completo y todo su historial, no una versión suelta. Cada versión archivada tiene además su propio DOI."
         value: "10.5281/zenodo.23090721"
-
-# La guía práctica del punto de salida no es un depósito aparte: vive dentro de este
-# repositorio, en la carpeta "ente en blanco/", y se archiva con él.
-#   - ente en blanco/GUIA.md          el ente mínimo con SQLite
-#   - ente en blanco/testigo/         el criterio de la IA que ayudó, y el mapa del repo
