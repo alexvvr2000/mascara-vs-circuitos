@@ -1,30 +1,6 @@
 # Máscara vs Circuitos
 
-**Alejandro Valenzuela Rivera · Versión inicial · 5 de noviembre de 2026.**
-
----
-
-```plaintext
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-   ACTA DE TRABAJO · NO DE VICTORIA
-
-   corridas hechas ................................. 7
-   huecos encontrados en los ensayos ............... 15
-   de esos, cerrados en el ensayo .................. 12
-   falsificadores cumplidos ........................ 0
-   corridas hechas por alguien que no sea el autor .. 0
-   comparaciones medidas contra otro trabajo ....... 0
-
-   Lo que hay: una propuesta metodológica, diez
-   ensayos, y siete veces que se levantó un ente
-   para ver qué le faltaba a los ensayos.
-
-   Lo que no hay: un resultado, un producto, ni
-   una promesa de dinero.
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-```
+**Alejandro Valenzuela Rivera · 5 de noviembre de 2026.**
 
 ---
 
@@ -121,45 +97,6 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 
 ---
 
-## Por qué, si esto sirve, importa
-
-> **Esto no es un resultado. Es por qué el autor lo hace, y va aparte de lo que se prueba.**
-
-**En esta carrera no estamos solo los que trabajamos un lenguaje de máquina.** **Está también el profesor que enseña con lo que hay, y quien combate una enfermedad, y quien intenta describir el universo.**
-
-**Y el ejemplo que al autor le importa no está probado:** **una herramienta con criterio propio —que registre, mida y se corrija— aplicada a donde hoy manda el dinero, podría mover la balanza hacia lo que se está dispuesto a sostener.** **No sé si eso se logre.**
-
-**Lo que sí sé es esto, y es lo que separa este trabajo de una promesa: la barrera de entrada bajó en software, y no bajó igual en todo lo demás.**
-
-**Sé que Dios, y mi tía que está con Él, me ven mientras escribo esto.** **Eso es del autor, y no es un argumento: es de dónde viene la razón para seguir.**
-
----
-
-## El llamado: la IA más humana, para ver mejor nuestro borde
-
-> **Esto no es el resultado de este trabajo. Es hacia dónde apunta, y está escrito aparte, con su parte honesta y su parte que no se puede probar: [`la obra/0 lo que pienso y no puedo probar.md`](./la%20obra/0%20lo%20que%20pienso%20y%20no%20puedo%20probar.md).**
-
-**La tentación es decir: rompamos la barrera de lo humano y lo que aparezca verá lo que no vemos.** **Eso no se sostiene, y el error es de lógica: quitarle a un aparato su límite no lo hace ver más, lo hace ver distinto.** **Cambia de reja, no la pierde.**
-
-**La apuesta de este trabajo es la contraria, y es más chica:**
-
-> **Una IA más humana no es la que más se parece a nosotros: es la que deja nuestro borde mejor dibujado.**
-
-**El borde se define por lo que queda fuera, y un borde nítido por dentro vuelve visible lo de afuera.** **Es el mismo mecanismo de los ensayos: un tema bien declarado se reconoce por lo que rechaza.**
-
-**Y de ahí el mapa.** **Dibujas con precisión lo que se sabe, y lo que queda en blanco se vuelve señal.** **No hace falta ver el hueco: hace falta que el mapa esté bien hecho para que el hueco se note.** **El instrumento para dibujarlo ya existe aquí: es `ALAS`.**
-
-**Y lo que esto sí aporta a dos problemas feos, dicho sin adornos:**
-
-- **A la física:** **declarar los bordes de la relatividad y de la cuántica con este formato no las unifica.** **Muestra dónde dicen lo mismo, dónde dicen cosas distintas, y sobre todo dónde no dicen nada.** **Ese último conjunto es el mapa en blanco, y hoy no está dibujado.**
-- **Al cáncer:** **un tratamiento se prueba contra lo que sabemos medir, y lo que no sabemos medir en una célula es la mayor parte de lo que le pasa a una célula.** **Un mapa bien dibujado dice dónde buscar. No cura nada, y no sustituye a un médico ni a un ensayo.**
-
-**Lo que NO afirmo, y va escrito porque es lo que más se va a malentender:** **no unifica la física; no cura el cáncer; no promete dinero; y no sé si existe una matemática que no sea nuestra.** **Lo que puedo señalar es un método, y el trabajo que se puede empezar hoy.**
-
-**Y el que conoce sus limitaciones no se debilita: se vuelve el único que puede decir dónde está el muro.**
-
----
-
 ## El sótano
 
 **Hay un sótano, y no es una metáfora bonita: es el lugar donde siempre estuvo la respuesta.**
@@ -207,21 +144,6 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 
 ---
 
-## Estado de esta versión
-
-```plaintext
-versión            1.0.0, inicial
-ensayos            10
-corridas           7
-falsificadores cumplidos   0
-lo que falta       una corrida hecha por alguien que no sea el autor,
-                   y la prueba con alguien que no sabe de IA
-```
-
-**Se publica en este estado y no en uno mejor, porque este es el estado real.** **Y porque un trabajo que sólo se enseña terminado no deja ver cómo se llegó.**
-
----
-
 ## Lo que este trabajo te pide
 
 **Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.**
@@ -260,19 +182,3 @@ grep -n "Falsificador" *.md
 **El que llegue, que traiga el rastro.**
 
 ---
-
-## Para el que quiera hacer algo que no sea una máquina de Turing
-
-**Si lo que quieres es una máquina de Turing, ya la tienes: se llama computadora.**
-
-**Si lo que quieres es una máquina de criterio —que registre lo que decide, mida lo que produce, y se corrija con lo que se cayó— mucha suerte. La vas a necesitar.**
-
-**Porque para eso no basta con saber programar: ocupan muchos pantalones.** No es un proyecto de fin de semana, y el que lo agarre a medias **va a tener un sistema que produce sin poder decir por qué**, que es exactamente el bloc de notas del que salió todo esto.
-
-**Y una advertencia que va en serio:** **trabajar con hardware no es como equivocarse en un archivo .md. La electricidad, o lo que sea que descubras, mata con cualquier cantidad de voltaje.** Un error en un repositorio se corrige; uno en un montaje se paga.
-
-**Yo no quiero sentirme responsable del pobre loco que meta las manos en algo así por lo que leyó aquí.** Este trabajo da una forma y una documentación, **no da la seguridad de que tu montaje esté bien hecho.** Eso **lo revisa otro**, con la corriente desconectada, y con alguien al lado.
-
----
-
-**Una nota del autor, que no es una tesis.** **El trabajo de la academia no es para mí:** el debate sí, publicar y defender el tono no. **Y no es que no quiera trabajar — si eres alguien de acciones sobre palabras, estoy dispuesto a trabajar.** Lo dejo escrito en [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md), porque es una decisión y no un argumento.
