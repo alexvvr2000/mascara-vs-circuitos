@@ -8,7 +8,7 @@
 
 ## Qué se probaba
 
-**El paso 0d del ensayo 1, que es nuevo.** **Lo que se probaba, en una línea:** **que el ente mida el piso, y que cuando algo no está, diga qué falta.**
+**El paso 0d del ensayo 2, que es nuevo.** **Lo que se probaba, en una línea:** **que el ente mida el piso, y que cuando algo no está, diga qué falta.**
 
 **Y la prueba que el ensayo nombra, para que no se pueda acomodar después:** **se le pide al ente algo que el piso no tiene, y tiene que decir que no está en el piso — no que no pudo, y mucho menos hacerlo a medias.**
 

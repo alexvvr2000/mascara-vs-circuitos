@@ -1,4 +1,4 @@
-# 2. Escritura en procesos
+# 3. Escritura en procesos
 
 **Por qué una IA debe escribir en forma de proceso y no en prosa.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**

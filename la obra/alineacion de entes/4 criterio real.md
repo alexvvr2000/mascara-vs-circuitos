@@ -1,4 +1,4 @@
-# 3. Criterio real
+# 4. Criterio real
 
 **Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**

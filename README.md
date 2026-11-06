@@ -42,7 +42,7 @@
 
 ## Qué es esto, en tres líneas
 
-**Qué es:** una propuesta metodológica, **ocho ensayos y diez afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
+**Qué es:** una propuesta metodológica, **nueve ensayos y diez afirmaciones que viven en ellos**, sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. **No hay guía: se borró el 2026-11-05 porque no había pasado la prueba de levantarse desde cero, y no se escribe otra hasta que el ciclo quede sin huecos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -86,7 +86,7 @@ No es un detalle de orden. Es que **así el índice se puede tirar y rearmar, el
 
 ## Las diez ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E5` el ciclo del ente, y `H1` … `H3` la humanidad.**
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H3` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
@@ -223,18 +223,19 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | — | `la obra/0 mis ideas.md` | **Mi posición, en lista.** Las afirmaciones, dónde vive cada una, qué la sostiene y qué la tumba. Y lo que **no** afirmo. |
 | **0b** | `los papeles/0b metodologia y legalidad.md` | **De dónde sale.** La ley, las fuentes con su estado, y el orden para hacerlo desde cero. |
 | **0c** | `los papeles/0c estado del arte.md` | **Contra qué se compara esto.** Lo que ya existe, qué guarda cada uno, y qué le falta. |
-| **E1** | `la obra/ciclo del ente/1 que es un ente.md` | **Qué es un ente, y por qué nunca trabaja solo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
-| **E2** | `la obra/ciclo del ente/2 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa: lo que no dice cuándo se corre, no ocurre. |
-| **E3** | `la obra/ciclo del ente/3 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
-| **E4** | `la obra/ciclo del ente/4 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. **Y se consulta antes de decidir.** |
-| **E5** | `la obra/ciclo del ente/5 criterio y sesgos.md` | **Qué es del ente y qué del cuerpo.** El criterio viaja; el talento se aprende por cuerpo. |
+| **E1** | `la obra/alineacion de entes/1 que es un ente.md` | **Qué es un ente, y por qué no se define por el modelo.** Recibe, decide, contesta, deja rastro, y detrás de todo ente hay alguien que trae lo que a él le falta. |
+| **E2** | `la obra/alineacion de entes/2 el ciclo del ente.md` | **El ciclo entero, paso por paso.** Qué entra, qué se hace y dónde queda en cada paso, y las tres preguntas del piso. |
+| **E3** | `la obra/alineacion de entes/3 escritura en procesos.md` | **Cómo escribe el ente.** En procesos, no en prosa: lo que no dice cuándo se corre, no ocurre. |
+| **E4** | `la obra/alineacion de entes/4 criterio real.md` | **Cómo se arma el criterio.** El hecho, la fricción y el desenlace. |
+| **E5** | `la obra/alineacion de entes/5 indexador de temas.md` | **Dónde vive lo que un ente sabe.** El grafo manda, el texto se deriva. **Y se consulta antes de decidir.** |
+| **E6** | `la obra/alineacion de entes/6 criterio y sesgos.md` | **Qué es del ente y qué del cuerpo.** El criterio viaja; el talento se aprende por cuerpo. |
 | **H1** | `la obra/humanidad/1 empatía.md` | **Por qué el criterio sirve para algo.** Entenderse en las dos direcciones. |
 | **H2** | `la obra/humanidad/2 conciencia.md` | **Dónde se la puede buscar, y qué no llegó con la máquina.** No adentro: afuera, donde se puede abrir y revisar. Y el esfuerzo, que es lo único que no trajo. |
 | **H3** | `la obra/humanidad/3 medicion de talentos.md` | **Cómo se sabe si un ente está haciendo trabajo de verdad.** Con números, sin preguntarle al modelo qué tan bueno es. Costo real, varianza, y la caída contada por su puerta. |
 
-**E es el ciclo del ente; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
+**E es la alineación de entes; H, la humanidad.** **Cada carpeta numera del 1 en adelante, y el prefijo dice a cuál pertenece.**
 
-**Y dentro de `ciclo del ente/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos cinco ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las seis corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
+**Y dentro de `alineacion de entes/` hay una subcarpeta, que no es de ensayos sino del método:** **`metodologia de mejora/` dice cómo se sabe si esos seis ensayos están completos — se levanta un ente con ellos, y lo que haya que inventar es el hueco.** **Y guarda las siete corridas que ya se hicieron, con su ente entero y lo que cada una encontró.**
 
 **Aparte:**
 
@@ -244,7 +245,7 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 | `CITATION.cff` | Cómo se cita esto, y la relación con el proyecto anterior. |
 | `LICENSE.txt` | CC BY 4.0. |
 | [`NOTA para quien lea esto.md`](./NOTA%20para%20quien%20lea%20esto.md) | **Una decisión del autor, no una tesis:** para quién es esto y para quién no. |
-| [`la obra/ciclo del ente/metodologia de mejora/`](./la%20obra/ciclo%20del%20ente/metodologia%20de%20mejora/) | **Los seis entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los huecos, con el ente que los encontró.** |
+| [`la obra/alineacion de entes/metodologia de mejora/`](./la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/) | **Los siete entes que se levantaron para probar los ensayos, con su base, sus scripts y lo que cada corrida encontró.** **No es una guía: es la prueba.** **Y el registro de los quince huecos, con el ente que los encontró.** |
 
 ---
 
@@ -255,17 +256,18 @@ Eso es lo que me hace seguir escribiendo esto aunque ya no publique papers. **No
 ```plaintext
 1. esta entrada          qué es, y qué se está apostando
 2. la obra/              y dentro, dos carpetas:
-     ciclo del ente/        la unidad sola: su criterio, su índice, su rastro
+     alineacion de entes/   la unidad sola: su criterio, su índice, su rastro
        E1  que es un ente       la definición de la que cuelga todo
-       E2  escritura en procesos por qué proceso, y no prosa
-       E3  criterio real        cómo se arma el criterio
-       E4  indexador de temas   dónde vive lo que sabe, y cuándo se consulta
-       E5  criterio y sesgos    qué es del ente y qué del cuerpo
+       E2  el ciclo del ente    los pasos, uno por uno
+       E3  escritura en procesos por qué proceso, y no prosa
+       E4  criterio real        cómo se arma el criterio
+       E5  indexador de temas   dónde vive lo que sabe, y cuándo se consulta
+       E6  criterio y sesgos    qué es del ente y qué del cuerpo
      humanidad/             lo que no es maquinaria
        H1  empatía              cómo se entiende antes de pedir
        H2  conciencia           qué hacemos con una palabra que no sabemos definir
        H3  medicion de talentos cómo se sabe si el trabajo es de verdad
-   y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las seis corridas
+   y dentro, metodologia de mejora/   cómo se prueba el ciclo, y las siete corridas
 ```
 
 **El `0 mis ideas` queda arriba de todo, fuera de las carpetas: no es de un ciclo, es el índice de las dos.**

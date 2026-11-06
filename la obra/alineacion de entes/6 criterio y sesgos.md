@@ -1,4 +1,4 @@
-# 5. Criterio y sesgos
+# 6. Criterio y sesgos
 
 **Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**

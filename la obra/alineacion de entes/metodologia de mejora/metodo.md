@@ -114,7 +114,7 @@ cosa del entorno        → se apunta, y NO se toca el ensayo
 
 **Y un ente sin esas piezas no es un ente: es un pedazo de ente.** **Y correr un pedazo y llamarlo "corrida sin huecos" no prueba el ensayo: prueba solo la parte que se levantó.**
 
-**Por eso, antes de correr, se mira que estén las cuatro del paso 0 del ensayo 1:**
+**Por eso, antes de correr, se mira que estén las cuatro del paso 0 del ensayo 2:**
 
 ```plaintext
 la autoridad   quién manda, y firma
@@ -123,9 +123,9 @@ el propósito   para qué existe ahora
 el índice      qué sabe, y por dónde entra
 ```
 
-**Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** **el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0a del ensayo 1.** **Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación.** **Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0a lleva el aviso escrito.**
+**Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** **el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0a del ensayo 2.** **Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación.** **Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0a lleva el aviso escrito.**
 
-**Y las corridas 1 a 6 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** **Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco.**
+**Y las corridas 1 a 7 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** **Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco.**
 
 **Y si falta una de las cuatro, la corrida se corre igual — porque también se aprende del pedazo — pero al cerrar se dice:** **«esto fue un pedazo de ente, no un ente. No cuenta como corrida completa.»**
 

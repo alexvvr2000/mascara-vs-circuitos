@@ -1,4 +1,4 @@
-# 4. Indexador de temas
+# 5. Indexador de temas
 
 **Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.**
 **Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
