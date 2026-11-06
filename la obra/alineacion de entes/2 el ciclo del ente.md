@@ -25,7 +25,7 @@ la autoridad · el ente · el propósito · el índice
 | **Paso 0b** — entiende | qué se pregunta antes de actuar | **obligatorio** |
 | **Pasos 1 a 6** | recibe, consulta, decide, contesta, apunta, se corrige | **obligatorio**: es el ciclo |
 | **El cierre y la vuelta** | quién cierra un propósito, y a dónde regresa lo apuntado | **obligatorio** |
-| **Las condiciones del borde** (§ desde «El borde y sus cuatro columnas») | qué vuelve auditable una decisión, y qué la vuelve una promesa | **obligatorio**: sin esto el ciclo corre y no se puede revisar |
+| **Las cuatro columnas del paso 3** (§ «Dónde queda: en cuatro columnas, y no en la memoria») | qué vuelve auditable una decisión, y qué la vuelve una promesa | **obligatorio**: sin esto el ciclo corre y no se puede revisar |
 | **Lo que el ciclo no dice** | sus tres límites | **se puede saltear**, y se lee al cerrar el trabajo |
 
 **Y la ruta corta, si el tiempo es poco:** **el paso 0, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**

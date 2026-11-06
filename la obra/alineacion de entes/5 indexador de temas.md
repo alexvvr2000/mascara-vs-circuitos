@@ -17,7 +17,7 @@
 | **§IV y §VII** | cómo se escribe el borde para que se pueda auditar | **obligatorio**: sin borde no hay tema |
 | **§V, §VIII y §IX** | los cambios del índice y dónde se guarda su pérdida | **obligatorio**: es lo que lo hace auditable |
 | **§VI, §X y §XI** | reconstrucción, momento de consulta, y de qué piezas se rehace | **obligatorio**: las tres son condiciones de que exista |
-| **Las condiciones del borde** (§ desde «El casi hay que alcanzarlo») | el casi, la cuarta salida, el tema de persona | **obligatorio**: sin esto el borde no se puede correr |
+| **Las condiciones del borde** (§ desde «Y el casi hay que alcanzarlo, o el borde no sirve») | el casi, la cuarta salida, el tema de persona | **obligatorio**: sin esto el borde no se puede correr |
 | **§XII y las Fuentes** | lo que el ensayo no da, y de dónde sale | **se puede saltear**, y se lee al citarlo |
 
 **Y la ruta corta, si el tiempo es poco:** **§II (la inversión), §VII (el borde como dato) y el falsificador del final.** **Con eso se levanta un índice; el resto dice qué le falta.**
