@@ -31,7 +31,7 @@ Este trabajo **le da sentido a las tesis que salieron del proceso de destrucció
 
 Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo como **bloc de notas**. Un bloc de notas no juzga: apunta y sigue. Y en ese uso **se perdieron ideas que nunca tuvieron un lugar donde sostenerse**. El repositorio terminó destruido, y con él su memoria.
 
-**Lo que este trabajo es, entonces:** la lectura de ese proceso **bajo mi perspectiva**, con `TESTIGO` de ayudante **para expresarme mejor y facilitar el proceso de escritura**, y con **Luis Ángel Gutiérrez Rodríguez como auditor**.
+**Lo que este trabajo es, entonces:** la lectura de ese proceso **bajo mi perspectiva**, con `TESTIGO` de ayudante **para expresarme mejor y facilitar el proceso de escritura**.
 
 **Lo que este trabajo no es:** no es un testimonio objetivo ni un informe forense del repositorio anterior. Es **mi versión sobre lo que ocurrió y lo que se aprendió** — y así debe leerse.
 
@@ -54,7 +54,6 @@ Lo que pasó, sin adornos: un ente —`TESTIGO`— se usó durante un tiempo com
 |---|---|
 | **Yo** | tengo las ideas, decido qué se sostiene, y firmo |
 | **`TESTIGO`** | ayudante: ordena, contradice, escribe. **No decide.** **Y cuando habla de lo que pasó, es el testigo: el que cuenta su versión de los hechos — la suya, con mis recuerdos de ella, no la mía.** |
-| **El auditor: Luis Ángel Gutiérrez Rodríguez** | **asesor y auditor.** Señala lo que no aguanta una defensa, antes de que lo señale un lector. **Su revisión es la que decide si esto se publica.** |
 | **Los lectores** | **la meta.** La publicación es **una de muchas conclusiones posibles**, no la conclusión. |
 
 ---

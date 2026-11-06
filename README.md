@@ -12,7 +12,7 @@
 
 **Qué puedes hacer hoy:** leer qué es un ente, correrle el falsificador a cualquiera de las diez afirmaciones, y **levantar el tuyo con los ensayos, que es lo que hay.**
 
-**Y que quede dicho antes de que alguien lo espere:** **no hay guía.** **Hubo una, y se borró porque no pasó la prueba de levantarse desde cero.** **Se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.**
+**No incluye guía.** **El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.**
 
 ---
 
@@ -27,13 +27,12 @@
 - **El criterio no se recuerda: se arma con lo que se cayó.** **El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.**
 - **En el índice, la forma es la fuente y el texto se deriva.** **Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.**
 
-**Y ahora lo que NO:**
+**Los límites, dichos con nombre:**
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **No hay una corrida hecha por alguien que no sea yo.** **Todo lo probado aquí lo probé yo, en mi máquina.**
+- **El alcance de la evidencia: siete corridas, un autor, un entorno.**
 - **No se ha cumplido ni un falsificador.** **Un método que nunca se cayó no sabe caerse todavía.**
-- **No hay producto, ni licencia que cobrar, ni cliente.** **No promete dinero.**
-- **Y no hay guía.** **Se borró, y no se escribe otra hasta que el ciclo quede sin huecos.**
+- **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
 
 ---
 
@@ -93,7 +92,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 
 **Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.**
 
-**Es una conjetura con mecanismo y sin medición.** **No la presento como resultado, y no la he medido.**
+**Conjetura con mecanismo, y sin medición.**
 
 ---
 
@@ -113,12 +112,9 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 
 > **[`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy)** · **DOI histórico:** `10.5281/zenodo.23090721` · CC BY 4.0
 
-**Ahí están los chats, las estadísticas, el rastro, y los errores con nombre.** **No está ordenado para que se lea bonito: está ordenado para que se escarbe.** **Y está incompleto, y se dice:**
+**Ahí están los chats, las estadísticas, el rastro, y los errores con nombre.** **No está ordenado para que se lea bonito: está ordenado para que se escarbe.**
 
-- **La mitad de las sesiones de este trabajo se perdieron.**
-- **Y las de antes de GitHub —cuando esto empezó, con otros modelos— también.**
-
-**No se reconstruyen de memoria, y no se presume de completas.** **Un archivo que dice estar completo y no lo está deja de servir de prueba.** **Este dice cuánto le falta.**
+**El registro tiene huecos declarados: faltan sesiones, también las anteriores al repositorio.** **No se reconstruyen de memoria.** **Un archivo que dice estar completo y no lo está deja de servir de prueba; este dice cuánto le falta.**
 
 ---
 
