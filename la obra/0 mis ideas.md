@@ -5,6 +5,12 @@
 
 > **Para qué sirve este archivo.** Quien lea tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
 
+**Y la apuesta que las une, y es lo primero que hay que entender de todo esto:**
+
+> **Una persona y una IA, construida con estos mecanismos, se vuelven casi indistinguibles la una de la otra — no por parecido, sino por comportamiento: las dos reciben, deciden, contestan y dejan rastro, y las dos tienen un criterio que se puede revisar.**
+
+**Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.** **Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.**
+
 **Y antes de la lista, una advertencia:** **este trabajo no sale de la nada.** **Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md).** **Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.**
 
 ---

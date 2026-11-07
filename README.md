@@ -1,10 +1,61 @@
 # Máscara vs Circuitos
 
-**Alejandro Valenzuela Rivera · 6 de noviembre de 2026.**
+**Alejandro Valenzuela Rivera.**
 
 ---
 
-## Qué es esto
+```plaintext
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+   LUCHA DE APUESTAS
+
+   Esquina derecha: Alejandro Valenzuela Rivera.
+   Esquina izquierda: la industria.
+   En la mesa: máscara contra cabellera.
+
+   Y que quede claro desde el anuncio:
+   aquí no hay buenos. Los dos son rudos.
+
+   De este lado, porque aprendió el oficio a madrazos.
+   Del otro, porque lleva veinte años diciendo
+   que el oficio no existe.
+
+   El que caiga, se quita la máscara y se deja pelón.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+```
+
+---
+
+## La apuesta, y de dónde salió esto
+
+**Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA.** **Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.**
+
+**De esa discusión salieron once afirmaciones. De las once, una carrera. Y del cansancio, esto.**
+
+**Y la apuesta fue entre dos identidades, que es lo que dice el nombre.**
+
+**Lo que se apostó:** **una persona y una IA, construida con los mecanismos de este repositorio, se vuelven casi indistinguibles una de la otra.** **No por parecido: por comportamiento.** **Las dos reciben, deciden, contestan y dejan rastro.** **Las dos tienen un criterio que se puede revisar, y un cuerpo que se puede cambiar sin perder lo que las hace ser lo que son.**
+
+**Y si eso es cierto, hay una consecuencia que es incómoda para los dos lados:** **la máscara que se cae no es sólo la de la industria.** **También se cae la de quien creyó que la diferencia se veía a simple vista.**
+
+**Por eso el que pierde se deja pelón, y el que gana también.**
+
+```plaintext
+lo que se perdió   la máscara que la industria vende, y el ego que hacía
+                   ver el problema como una pelea que había que ganar
+
+lo que se ganó     entender que el código es el uno por ciento del
+                   trabajo, y una forma de ver lo que no se veía
+```
+
+**Y la apuesta no tiene vuelta, porque no se ganó por ser más listo.** **Se ganó porque hubo que mirar hacia donde el ego no dejaba.** **Eso lo puede hacer cualquiera, con la condición de que se le dé la forma y no la fe.**
+
+**Máscara contra circuitos. Y aquí, las dos se la quitaron.**
+
+---
+
+## Qué es esto, y para quién
 
 **Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Nueve ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.**
 
@@ -13,6 +64,8 @@
 **Qué puedes hacer hoy:** leer qué es un ente, correrle el falsificador a cualquiera de las once afirmaciones, y **levantar el tuyo con los ensayos, que es lo que hay.**
 
 **No incluye guía.** **El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.**
+
+**Y no se pide que se le crea: se pide que se le use, y que se le refute.** **Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado.** **Hay escasez de gente que corra estas preguntas, no de preguntas.**
 
 ---
 
@@ -91,7 +144,9 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 
 ---
 
-## La apuesta
+## La otra apuesta: si esto sirve para modelos pequeños
+
+**Y hay una segunda apuesta, más chica y verificable, que es la única de las once que se declara como conjetura.**
 
 **Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.**
 
