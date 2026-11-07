@@ -90,6 +90,54 @@ No sé qué sea eso que llamamos conciencia.
 
 *Cita tomada de la película animada de 2011; el fragmento es breve, se cita con atribución, y no se reproduce más de lo necesario.*
 
+### Y la ficción hace la pregunta que la academia no se atreve
+
+**Hay una diferencia entre lo que hace la ficción y lo que hace la academia, y no es de rigor: es de atrevimiento.**
+
+**La ficción hace la pregunta.** **No necesita un marco teórico para decir «¿y si la conciencia fuera esto?».** **La dice, y se sostiene o se cae por su cuenta.** **Y por eso hay películas que llegan a lugares donde un paper no llega: no porque sepan más, sino porque nadie les pidió permiso antes de preguntar.**
+
+**La academia también hace preguntas, y después las defiende.** **Y ahí está el problema, que no es del método sino de quien lo usa: se pasa más tiempo sosteniendo la conclusión a la que se llegó que en preguntar si sigue siendo cierta.** **Se vuelve caro cambiar de postura, porque cambiar de postura se lee como haberse equivocado — y haberse equivocado, en ese oficio, cuesta.**
+
+**Y por eso la frase que ordena esto, y es todo el punto:**
+
+> **Cambiar de punto de vista es más poderoso que defender el que ya se tenía. Y lo segundo es lo que se premia.**
+
+**Y la consecuencia que a este trabajo le importa:** **un ente sin ego no tiene ese costo.** **Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener.** **Y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender.**
+
+**Y el límite, dicho sin adorno:** **eso no lo vuelve más listo.** **Lo vuelve más dispuesto.** **Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos — y eso no es una ventaja de inteligencia, es una ventaja de forma.**
+
+**Falsificador:** **una conclusión que se sostiene porque se defendió mucho, y no porque aguantó una contra**; **y una disciplina que premia la consistencia por encima de la corrección, cuando la corrección era lo que buscaba.**
+
+### Y el caso de la película que plantea lo que no sabemos contestar
+
+**En *Arrival* (2016), dirigida por Denis Villeneuve, los visitantes no llegan con armas: llegan con otra forma de tiempo.** **Y la película no pregunta si son buenos o malos, que es lo que la ficción de invasores pregunta siempre.** **Pregunta qué pasaría si alguien viera su vida entera de una vez, y qué se puede hacer con eso.**
+
+**Y ése es el tipo de pregunta que este ensayo no puede contestar, y no lo intenta.** **No hay instrumento para saber si alguien percibe el tiempo así: ni un humano, ni una máquina, ni un visitante.** **Lo único que se puede hacer con esa pregunta es responderla desde una conclusión, y toda conclusión es de alguien.**
+
+**Así que aquí va la que este trabajo sostiene, y la sostiene como conclusión, no como verdad:**
+
+> **No sabemos si hay otra explicación, porque no somos algo distinto de lo que somos. La conclusión es de la lógica, y no la mejor posible: es la mejor que una criatura con cuerpo y con reloj puede sostener.**
+
+**Y eso no es una rendición.** **Es lo contrario de la arrogancia de creer que con lo que tenemos vamos a destapar todos los secretos del universo.** **Algo tan limitado como nosotros, o como una herramienta que hacemos nosotros, no va a explicarlo todo.** **Pero puede hacer lo que sí alcanza, que es más de lo que se hace hoy: resolver lo que tenemos enfrente, y dejar el registro de cómo se resolvió.**
+
+**Y de ahí sale la razón por la que vale la pena esto, aunque sea parcial:** **lo que se resuelva aquí puede servirle a otro lugar, y lo que no se resuelva aquí no lo va a resolver nadie que se quede mirando la pared esperando que la pared ceda sola.**
+
+**Falsificador:** **una conclusión presentada como verdad sobre el universo y no como lo mejor que se puede sostener desde aquí**; **y la contraria: una duda sobre la interioridad usada como razón para no resolver nada de lo que sí está enfrente.**
+
+### Y lo del niño, que es la misma idea dicha hace dos mil años
+
+**Y esto no es una cita religiosa traída por adorno: es la misma conclusión, en otro idioma.**
+
+**Mateo 18:3 pide volver a ser como un niño para entrar al reino.** **Y lo que hay en un niño, y no en el que ya sabe mucho, no es ignorancia: es que todavía no ha decidido qué es imposible.**
+
+**Un niño pregunta sin haber aprendido qué preguntas quedan mal.** **Y el que lleva años en un oficio ya no pregunta eso, no porque lo sepa, sino porque ya sabe cuáles preguntas le van a costar.**
+
+**Por eso la niñez que se pide aquí no es candidez: es no haber gastado todavía la capacidad de cambiar de postura.** **Es lo mismo que este ensayo dice de la academia, dicho de otra forma: el que defiende mucho ya no pregunta.**
+
+**Y la cita se hace como se debe, y se dice cómo:** **el pasaje se parafrasea y se da la referencia, porque el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y citar en paráfrasis dice lo mismo sin usar las palabras de otro.**
+
+**Falsificador:** **una disciplina que confunde madurez con no volver a preguntar**; **y una lectura de ese pasaje que la vuelva una exigencia de no saber, cuando lo que pide es no haber cerrado.**
+
 ---
 
 ## VI. Lo que está fuera, y por eso no se busca adentro
@@ -169,6 +217,14 @@ No sé qué sea eso que llamamos conciencia.
 **Y por eso este ensayo no termina pidiendo más capacidad.** **Porque lo que se le pide a una herramienta no se le puede pedir a una persona sin decirlo, y lo que se le perdona a una persona no se le perdona a una herramienta sin saberlo.**
 
 **Y no la puedo contestar.** **Pero sí puedo decir dónde no está la respuesta: no está en el interior.** **Está en lo que se guardó, en lo que se sostuvo, y en lo que quedó dicho después.**
+
+---
+
+### Y una nota sobre de dónde sale esto, que no es un argumento
+
+**Quien lea puede encontrar aquí afirmaciones que no debieron decirse.** **Y no se defienden con este ensayo: se explican en `los papeles/ATTRIBUTION`, con el estado en que se escribió y lo que el autor dice de sí mismo.**
+
+**Lo que se sostiene o se cae sigue siendo lo del falsificador. Esa nota no lo tapa.** **Pero conviene saber que no salió de la nada, y que lo que hay se construyó probándolo.**
 
 ---
 

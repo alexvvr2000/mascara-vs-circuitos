@@ -51,7 +51,21 @@
 
 ---
 
-## 3. Quién revisó
+## 3. Con qué estado se escribió esto
+
+**Y esto va aquí, y no en un ensayo, porque no es un argumento: es un dato sobre de dónde salió el trabajo.**
+
+**El autor no escribió esto desde un lugar cómodo.** **Empezó sin tener lo que quería tener, y el repositorio es lo que salió de eso.** **Él mismo lo dice así, y con sus palabras:** **no se considera bueno, y no presenta esto como testimonio de que lo sea.**
+
+**Se escribe porque quien lea puede encontrar delusiones, o afirmaciones que no debieron decirse.** **Y en vez de juzgar eso como si el trabajo hubiera salido de la nada, conviene saber dos cosas: que no había nada antes, y que lo que hay se construyó probándolo — nueve levantamientos, veinte huecos con nombre, y las correcciones a la vista.**
+
+**Y el límite, que es el mismo de todo lo demás:** **eso no vuelve bueno al trabajo.** **Lo vuelve explicable.** **Lo que lo sostiene o lo tumba sigue siendo su falsificador, y está al final de cada ensayo.**
+
+**Y por qué esto es también un argumento del trabajo, y no sólo una nota:** **una obra en la que el que la hizo tiene algo que defender se lee distinto que una en la que no.** **Aquí el autor no reclama haber llegado: reclama haber dejado el rastro de cómo llegó, para que otro lo corrija.** **Un ente sin ego hace eso por construcción; una persona lo hace a propósito, y eso cuesta más.**
+
+---
+
+## 4. Quién revisó
 
 **Luis Ángel Gutiérrez Rodríguez revisó la versión inicial de este trabajo.** **De esa revisión salió la que está aquí: lo que no aguantaba una defensa, se cambió o se cayó.**
 
@@ -59,7 +73,7 @@
 
 ---
 
-## 4. La licencia, y qué puedes hacer
+## 5. La licencia, y qué puedes hacer
 
 **Este trabajo está bajo `CC BY 4.0`.** **Puedes leerlo, citarlo, compartirlo y construir encima, con atribución.**
 
