@@ -26,9 +26,10 @@
 
 ```plaintext
 1. se leen los ensayos          sin mirar los entes anteriores
-2. se levanta un ente desde cero   en una carpeta nueva, con fecha y hora
-3. se corre                    índice, hecho, fricción, desenlace, y el cierre
-                               que propone el ente y firma la autoridad
+2. se levanta un ente ENTERO       en una carpeta nueva, con fecha y hora:
+                               todas las piezas, no el pedazo que se prueba
+3. se corre de punta a punta   crear, medir, abrir, usar, cerrar.
+                               ningún paso se salta
 4. se anota lo que hubo que inventar   cada invención es un hueco
 5. se clasifica                hueco del ensayo / defecto del código /
                                cosa del entorno
@@ -323,7 +324,9 @@ hueco de forma       el ensayo dice algo, y el esquema no lo puede
 
 **Y la regla, en una línea:**
 
-> **Dos corridas seguidas que sólo encuentren huecos de forma: se deja de correr.**
+> **Dos corridas enteras seguidas que no encuentren nada más que detalle: se deja de correr.**
+
+**Y la palabra que importa ahí es «enteras».** **La regla no cuenta corridas recortadas.** **Una corrida que sólo levantó el pedazo de moda puede no encontrar nada de contenido por la razón equivocada: porque nunca pasó por los tramos donde el ensayo se queda corto.** **Por eso la parada sólo cuenta si el ente se levantó completo, del primer paso al último.**
 
 **Por qué esa señal y no otra:**
 - **Los de contenido dicen qué le falta al ensayo.** Mientras salgan, hay algo que todavía no está escrito, y vale la pena levantarlo otra vez.
@@ -346,13 +349,44 @@ hueco de forma       el ensayo dice algo, y el esquema no lo puede
 
 **Y el ente de cada corrida se queda, con su base y sus scripts.** **Porque el que quiera comprobarlo tiene que poder correrlo, no creerme.**
 
-### Por qué se empieza de cero cada vez
+### Por qué se empieza de cero cada vez, y por qué la corrida es entera
 
 **La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba.**
 
 **Porque el ente anterior ya tiene las piezas que se inventaron la vez pasada.** **Y si el ensayo no las dice, el ente nuevo las va a heredar igual — y ya no se ve el hueco.**
 
-**Empezar de cero es lo que hace visible lo que el ensayo no dice.** **Y es lo que permite ver la evolución: cuatro carpetas con fecha, y se ve qué cambió y en qué corrida.**
+**Pero hay otra tentación, más fina, y es la que de verdad arruina la corrida:** **levantar sólo el pedazo que se quiere probar.**
+
+```plaintext
+lo que se hacía   "esta corrida es sobre el piso, así que levanto la
+                  tabla del piso y lo demás lo dejo de adorno"
+
+y lo que eso pierde   el paso que va ANTES del que se prueba
+                      el paso que va DESPUÉS
+                      y las costuras entre ellos
+```
+
+**Una corrida recortada no puede encontrar el paso que falta, porque recortar es decidir de antemano dónde están las costuras — y las costuras son justo lo que el que corre no sabe.** **Y hay una tercera tentación:** **construir lo que hace que la corrida se vea terminada, y no lo que el ensayo pide.**
+
+**Así que la regla, y no tiene excepción:**
+
+> **Una corrida se corre entera: del primer paso al último, sin saltarse ninguno y sin recortar el ente.**
+
+**Y lo que eso obliga, en concreto:**
+
+```plaintext
+1. se levanta el ente completo desde el primer archivo
+2. se corre de punta a punta: crear, medir, abrir, usar, cerrar
+3. ningún paso se salta "porque no es lo que se está probando"
+4. y lo que no se puede construir sin inventar, se apunta ahí mismo
+   -- eso es el hueco, y es todo el resultado de la corrida
+```
+
+**Por qué esto es lo único que permite decir «está completo»:** **completo no quiere decir que el ensayo no tiene frases vagas.** **Quiere decir que alguien levantó el ente entero leyendo sólo el ensayo, y no tuvo que preguntar ni inventar en ningún tramo.** **Mientras haya un tramo que no se recorre así, el ensayo puede sonar claro y seguir faltándole un paso.**
+
+**Y la consecuencia sobre cuántas corridas hacen falta:** **una corrida entera cubre todos los pasos a la vez, no uno.** **Por eso la serie deja de ser abierta: cuando el ente completo se levanta sin que nadie invente nada, no queda dónde buscar.** **Se acaba cuando dos corridas enteras seguidas no agregan nada más que detalle.**
+
+**Empezar de cero es lo que hace visible lo que el ensayo no dice.** **Y es lo que permite ver la evolución: cada carpeta con su fecha, y se ve qué cambió y en qué corrida.**
 
 ---
 
