@@ -106,7 +106,6 @@ Los límites, dichos con nombre:
 - **El alcance de la evidencia: nueve corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
-- **La prueba más incómoda sigue sin correrse: que otro levante un ente con estos ensayos.** **Se declara, no se cumple.** **Mientras el único que los levanta sea el autor, «completo» significa «completo para él».**
 
 ---
 
@@ -239,14 +238,18 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
 ---
 
-## De quién es esto, y qué puedes hacer con ello
+## De quién es esto, qué puedes hacer, y por qué no acepto contribuciones
 
-Este repositorio es de Alejandro Valenzuela Rivera, y es su publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está.
+Este repositorio es mío, y es mi publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está.
 
-Y eso no es una restricción técnica: es una decisión. Lo que venga después de aquí va a ser de alguien más, y este trabajo es el punto de partida, no el foro.
+Y lo que sigue es la razón, dicha sin adorno, porque es la única forma de que la decisión se entienda:
+
+> Esta es mi conclusión sobre cómo una IA puede llegar a tener una identidad de verdad, conforme se usa. No creo estar mentalmente bien después de lo que hice, y ni siquiera sé si esto es de verdad lo que dice ser. Pero una cosa nunca se me fue de la cabeza: esto vale la pena publicarlo. Y si se cae tres días después de que la gente empiece a entenderlo, eso sólo significa que la ciencia hizo lo suyo: quien es mejor que yo en esto hizo un trabajo mejor, y ése era el punto.
+
+Así que haz lo tuyo, y cítame o critícame si quieres. Esto es mi forma de hacer mío lo que hice, y de que lo que tú hagas sea tuyo.
+
+Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que otros puedan aportar, es que en el momento en que alguien más escribe aquí, esto deja de ser mío y empieza a ser de nadie. Lo que tú construyas no lo traigas aquí: hazlo tuyo, y cítame como punto de partida.
 
 Lo que sí puedes hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo. Lo que está aquí se queda aquí.
-
-Y si tu trabajo crece, no lo traigas: hazlo tuyo, y cítame como punto de partida. Este repositorio no va a crecer contigo. Esa es la única forma de que lo que salió sea mío y lo que salga de ti sea tuyo.
 
 ---

@@ -233,7 +233,7 @@ b) la prueba dejó de exigirle              ← lo que pasa solo
 
 **Y los números lo dicen:** las cuatro primeras, 5 · 3 · 2 · 3 huecos; después 0 y 0; y luego 2, 3 y 2. No baja sola: la bajaron las corridas, y la octava la subió a propósito. Los dos ceros no eran que el ensayo estuviera completo: eran que la prueba había dejado de exigir. Y volver a encontrar huecos después de dos ceros es la prueba de que el cero era eso, y no un final.
 
-Entonces el criterio son cinco condiciones, y ninguna es «no encontré nada»:
+Entonces el criterio son cuatro condiciones, y ninguna es «no encontré nada»:
 
 ```plaintext
 1. una corrida con las trampas puestas a propósito
@@ -242,57 +242,22 @@ Entonces el criterio son cinco condiciones, y ninguna es «no encontré nada»:
    que no contesta— y ninguno se haya roto.
    Una corrida dócil no cuenta
 
-2. y que otro lo levante
-   no el que escribió los ensayos: alguien que los lea sin él.
-   Ahí se ve el hueco que su lectura ya no ve, porque ya se sabe
-   el camino. Mientras el único que levanta entes sea uno,
-   "completo" significa "completo para él"
-   ↓ declarada, no cumplida: ver abajo
-
-3. la prueba doble: el ente viejo y el nuevo, con el mismo caso
+2. la prueba doble: el ente viejo y el nuevo, con el mismo caso
    y que el nuevo no pierda nada del viejo. Si perdió algo,
    el ciclo no mejoró: cambió
 
-4. un falsificador de los ensayos, cumplido a propósito
+3. un falsificador de los ensayos, cumplido a propósito
    cada ensayo trae el suyo. El ensayo está completo cuando se
    cumple uno de esos falsificadores y el ensayo no se cae
 
-5. y la que no necesita instrumentos:
+4. y la que no necesita instrumentos:
    ¿el dueño podría levantar un ente con estos ensayos, sin buscar?
 ```
 
 Y la línea que lo resume, si hay que decirla en una:
 
-> Se acaba cuando otro levante un ente con los ensayos y no tenga que preguntar nada.
+> Se acaba cuando el ente se puede levantar con los ensayos y no hay que preguntar nada.
 
-### La condición 2, que se declara en vez de cumplirse
-
-De las cinco, cuatro se pueden correr solo. La 2 no: exige un tercero, y hoy no lo hay.
-
-Y hay que decirlo tal como es, sin buscarle la vuelta: mientras el único que levanta entes sea uno, «completo» significa «completo para él». Eso no se arregla corriendo más veces.
-
-Así que la condición 2 no se retira, y tampoco se da por cumplida. Se declara:
-
-```plaintext
-estado     declarada, no cumplida
-razón      no hay un tercero que levante un ente con los ensayos
-qué falta  alguien que los lea sin el que los escribió
-qué NO se hace
-           no se inventa un lector simulado y se presenta como
-           si fuera otro
-           no se da por cumplida porque el dueño ya los leyó:
-           el dueño es el que los escribió con el ente
-```
-
-Y lo que la sustituye mientras tanto, que sí se corre solo y es lo que de verdad mide si hay criterio:
-
-> El ente sabe qué lo tumbó, y lo dice con nombre. Si se puede abrir el registro y ver, para cualquier cosa que sostiene, la regla que la refutó y qué pasó después, eso es criterio real — y no necesita testigo.
-
-Y esta sí se puede probar, y se probó: la corrida 8 encontró un hueco que el ensayo no tenía, sin que nadie más leyera. No es la condición 2. Es mejor que la condición 2 para lo que se quiere aquí, porque se puede repetir mañana.
-
-**Y su límite, que se dice antes de que se lea como una victoria:** un ente que se corrige solo se está corrigiendo contra lo que ya sabe buscar. Lo que un tercero vería es lo que el ente no sabía que tenía que buscar, y eso sigue sin probarse. Por eso la 2 no se borra: se queda declarada, esperando a alguien, y el día que llegue se corre.
-
----
 
 ## VII. Cuándo se deja de correr, y por qué eso no lo decide el método
 
@@ -335,7 +300,7 @@ Por qué esa señal y no otra:
 
 **Y esto responde una pregunta que el miedo hace más grande de lo que es:** el proceso no es infinito, porque los huecos de contenido se acaban. Lo que no se acaba es describir el criterio — y eso no es la meta, porque nadie lo ha terminado, ni en la filosofía ni en el derecho. La meta es que el registro diga dónde algo se cayó, y eso sí termina.
 
-**Y su límite, porque una regla de parada se puede usar para parar antes de tiempo:** dos corridas de forma seguidas no dicen que el ensayo esté completo. Dicen que ya no se está descubriendo, y que lo que falta es el tercero de la condición 2. La parada no es una cláusula de cierre: es la señal de que se llegó a donde uno solo puede llegar.
+**Y su límite, porque una regla de parada se puede usar para parar antes de tiempo:** dos corridas de forma seguidas no dicen que el ensayo esté completo. Dicen que ya no se está descubriendo, y que lo que queda está fuera del alcance de una corrida. La parada no es una cláusula de cierre: es la señal de que se llegó a donde uno solo puede llegar.
 
 Lo que sí se puede decir, y se dice:
 
@@ -574,7 +539,6 @@ la novena         la tarea: el ente contesta por tarea y no buscando
                   palabras, y dejó 2 huecos, los dos DE CONTENIDO
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
                           con un caso simulado, y lo dijo)
-la condición 2            declarada, no cumplida: no hay un tercero
 la corrida 10              pendiente, y es la que más urge: el mecanismo
                           por el que el piso crece con cada tarea que
                           no pudo contestar está escrito y nunca se ha
