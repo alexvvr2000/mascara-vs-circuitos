@@ -53,7 +53,7 @@ Y lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto
 
 Y el origen se declara, que es lo que pide la norma editorial del reciclaje:
 
-> **Valenzuela Rivera, A.** *Man-Made Empathy: el sesgo declarado, medido en acciones.* **v2**, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · **DOI conceptual:** `10.5281/zenodo.23090721` · CC BY 4.0.
+> Valenzuela Rivera, A. *Man-Made Empathy: el sesgo declarado, medido en acciones.* v2, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · DOI conceptual: `10.5281/zenodo.23090721` · CC BY 4.0.
 
 **Ninguna frase de este trabajo es copia literal del anterior: las ideas están reformuladas con palabras de aquí, y el origen está dicho en el `README` y en cada ensayo.** La declaración no sustituye la reescritura: la acompaña. Y no es continuación de aquel: es un trabajo aparte, que se puede leer sin abrirlo.
 

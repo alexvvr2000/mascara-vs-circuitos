@@ -3,13 +3,13 @@
 Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Es el más abstracto de los nueve, y trata sólo de dónde vive lo que un ente sabe.** **Si lo que buscas es cómo trabaja un ente, este no es el que necesitas.**
+> Antes de leer. Es el más abstracto de los nueve, y trata sólo de dónde vive lo que un ente sabe. Si lo que buscas es cómo trabaja un ente, este no es el que necesitas.
 >
-> **Al terminar sabrás por qué un índice se puede tirar y rearmar, y por qué eso lo vuelve auditable.**
+> Al terminar sabrás por qué un índice se puede tirar y rearmar, y por qué eso lo vuelve auditable.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> **Nota de lectura.** Este ensayo cierra la serie porque es el más abstracto de los cinco: en lugar de hablar de qué es un ente o cómo se mide, habla de **dónde se guarda lo que sabe** y de la forma que tiene ese lugar. Lo que aquí se propone es teoría: no describe ninguna herramienta. Si alguien quiere ver la misma forma aplicada en un sistema concreto, su proyecto anterior del mismo autor la recorre con sus piezas; aquí se dan los principios para que las junte por su cuenta quien lo quiera.
+> Nota de lectura. Este ensayo cierra la serie porque es el más abstracto de los cinco: en lugar de hablar de qué es un ente o cómo se mide, habla de dónde se guarda lo que sabe y de la forma que tiene ese lugar. Lo que aquí se propone es teoría: no describe ninguna herramienta. Si alguien quiere ver la misma forma aplicada en un sistema concreto, su proyecto anterior del mismo autor la recorre con sus piezas; aquí se dan los principios para que las junte por su cuenta quien lo quiera.
 
 ### Cómo se lee este ensayo
 
@@ -37,7 +37,7 @@ Y el problema de fondo no es de clasificación: es de reconstrucción. Un índic
 
 La propuesta tiene una sola idea, y de ella cae todo lo demás:
 
-> **El grafo es la fuente de verdad estructural. El índice de texto es un derivado.**
+> El grafo es la fuente de verdad estructural. El índice de texto es un derivado.
 
 Es la inversión de lo que se hace por costumbre. Normalmente el texto es lo que existe —los archivos, los documentos— y los temas son un índice encima, reconstruido cada vez que hace falta. Aquí se invierte: **la forma del conocimiento se guarda aparte y con prioridad, y el índice textual se deriva de ella.**
 

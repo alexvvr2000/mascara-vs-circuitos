@@ -3,11 +3,11 @@
 Por qué batallar en entenderse es mejor que esperar que el otro haga lo que la industria pide.
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **No necesita los demás. Si vienes del lado técnico, empieza por aquí.**
+> Antes de leer. No necesita los demás. Si vienes del lado técnico, empieza por aquí.
 >
-> **Al terminar sabrás por qué entender al que pide es la única forma de que lo que se hace sirva, y por qué eso no es amabilidad.**
+> Al terminar sabrás por qué entender al que pide es la única forma de que lo que se hace sirva, y por qué eso no es amabilidad.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
 
@@ -115,7 +115,7 @@ una máquina no prioriza un problema que no sufre. No por mala fe: por construcc
 
 Y por eso la empatía no es una virtud que se le pida: es trabajo que se le impone. Alguien tiene que decir qué le pasa al que va a leer, porque el que escribe no lo va a sentir nunca.
 
-> **Un ente no entiende al otro por bondad: lo entiende porque alguien le dijo qué cuesta ser el otro, y él no puede averiguarlo solo.**
+> Un ente no entiende al otro por bondad: lo entiende porque alguien le dijo qué cuesta ser el otro, y él no puede averiguarlo solo.
 
 Y la corrección se acepta sin defender la postura anterior, que es lo único que un ente puede hacer mejor que nosotros: no tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.
 
@@ -129,7 +129,7 @@ Una herramienta que contesta todo produce acuerdo, y el acuerdo sin desacuerdo n
 
 Y de ahí sale la razón honesta para publicar, que no depende de que la gente se porte bien: lo que protege no es esconder la herramienta, es que cada decisión quede escrita con nombre y razón, para que el que paga las consecuencias pueda verla.
 
-> **Un fallo que nadie decidió es un accidente. Un fallo decidido, con nombre, es algo que se puede cambiar.**
+> Un fallo que nadie decidió es un accidente. Un fallo decidido, con nombre, es algo que se puede cambiar.
 
 Eso es todo lo que este trabajo ofrece como protección, y no es poco: el registro es para las personas, no para la máquina. No vuelve al ente cuidadoso. Lo vuelve revisable, y eso es lo único que alguien puede usar desde afuera.
 

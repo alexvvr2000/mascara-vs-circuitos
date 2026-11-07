@@ -3,17 +3,17 @@
 Por qué una IA debe escribir en forma de proceso y no en prosa.
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **No necesita los demás. Se puede leer solo, y probablemente sea el que más sirva si trabajas con IA y no te interesa el resto.**
+> Antes de leer. No necesita los demás. Se puede leer solo, y probablemente sea el que más sirva si trabajas con IA y no te interesa el resto.
 >
-> **Al terminar sabrás por qué un texto en prosa no basta para pedirle algo a una máquina, y qué forma sí.**
+> Al terminar sabrás por qué un texto en prosa no basta para pedirle algo a una máquina, y qué forma sí.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
 
 ## I. La pregunta, y por qué la prosa no la contesta
 
-> **¿Cómo se le pide algo a una máquina que tiene los mismos defectos que un humano sobre lo que de verdad hace falta, en vez de sobre lo que está sesgada a hacer?**
+> ¿Cómo se le pide algo a una máquina que tiene los mismos defectos que un humano sobre lo que de verdad hace falta, en vez de sobre lo que está sesgada a hacer?
 
 Ese es el problema, y no es pequeño: es el que se lleva el mayor desperdicio de cómputo de esta época. No se gasta en máquinas que no saben programar; se gasta en máquinas que programan perfectamente algo que no era lo que se necesitaba.
 
@@ -31,7 +31,7 @@ La prosa no falla porque esté mal escrita. Falla porque supone un lector capaz 
 
 Y el formato de proceso dice lo contrario, en una línea que cabe en un renglón:
 
-> **Un proceso es un texto que ya dice cómo se hace la cosa, de modo que lo único que queda es llenar los huecos.**
+> Un proceso es un texto que ya dice cómo se hace la cosa, de modo que lo único que queda es llenar los huecos.
 
 Y llenar huecos es lo que una máquina hace bien, cuando los huecos están dichos. Lo que no hace, y por eso esto importa, es notar que falta uno que nadie mencionó.
 
@@ -145,7 +145,7 @@ No lo encuentra, y la razón no es de potencia. Una máquina que corre en círcu
 
 Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que la máquina corra sobre él, recursivamente, todas las veces que haga falta. Ahí sí la recursión sirve, porque cada vuelta tiene contra qué medirse. Sin objetivo, cada vuelta es la anterior con otra redacción.
 
-> **La recursión no sustituye al objetivo. Lo ejecuta.**
+> La recursión no sustituye al objetivo. Lo ejecuta.
 
 ---
 
@@ -209,7 +209,7 @@ Por qué, y no es cuestión de gusto: un ensayo que lleva la cuenta de las corri
 
 Y la regla que esto deja, que aplica a cualquier texto que se entregue:
 
-> **El ensayo dice qué se sostiene. La tabla del pie dice qué lo puso a prueba. La metodología dice cómo se llegó.**
+> El ensayo dice qué se sostiene. La tabla del pie dice qué lo puso a prueba. La metodología dice cómo se llegó.
 
 ### Y el que define el formato, lo usa
 
@@ -239,7 +239,7 @@ Lo que decide es saber qué hace falta, y eso no lo da ni el talento ni el esfue
 
 Y de ahí la razón por la que este trabajo pone propósitos en las máquinas, y no sólo reglas:
 
-> **Una máquina sin propósito es un juguete. Y la inteligencia, sea del tipo que sea, es ruido sin un objetivo de verdad.**
+> Una máquina sin propósito es un juguete. Y la inteligencia, sea del tipo que sea, es ruido sin un objetivo de verdad.
 
 ---
 

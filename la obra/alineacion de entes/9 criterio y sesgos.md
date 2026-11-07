@@ -3,11 +3,11 @@
 Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Necesita `5 criterio real`, y ayuda `1 que es un ente`.**
+> Antes de leer. Necesita `5 criterio real`, y ayuda `1 que es un ente`.
 >
-> **Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.**
+> Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
 
@@ -75,13 +75,13 @@ Un ente que no tiene la fuente y contesta igual no está mintiendo: está produc
 
 Aquí está el peligro real, y no es que el modelo se equivoque.
 
-> **Un sesgo registrado sin nombre se convierte en criterio por la puerta de atrás.**
+> Un sesgo registrado sin nombre se convierte en criterio por la puerta de atrás.
 
 El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. **Nadie lo refutó porque nadie lo puso a prueba**, y el registro lo trata igual que a lo que sí aguantó la refutación. Es exactamente el problema del ensayo de criterio real, visto desde el otro lado: lo que se sostuvo sin contra no es criterio, es costumbre escrita. Y un modelo con complacencia produce contra vacía: nunca dice que no.
 
 De ahí una regla que vale para todo ente con varios modelos:
 
-> **Todo lo que un modelo afirma entra como posible, no como confirmado. Y lo que dos modelos distintos afirman igual no se confirma por repetición: se confirma cuando se puede verificar.**
+> Todo lo que un modelo afirma entra como posible, no como confirmado. Y lo que dos modelos distintos afirman igual no se confirma por repetición: se confirma cuando se puede verificar.
 
 Repetición no es verificación. Dos modelos que dicen lo mismo pueden estar diciendo lo mismo por la misma razón equivocada, y entonces se refuerzan. Es el mismo defecto que tiene cualquier colección de fuentes que no son independientes.
 
@@ -132,7 +132,7 @@ Y hay una consecuencia que se despacha mal: un modelo que queda retirado no se b
 
 Una sola, y se hace siempre, no cuando hay tema:
 
-> **¿de qué cuerpo salió esto, si se sabe?**
+> ¿de qué cuerpo salió esto, si se sabe?
 
 Y las tres respuestas posibles, y no hay una cuarta:
 
@@ -181,7 +181,7 @@ recomendar otro cuerpo     con varios hechos y una diferencia que
 
 Y la regla que impide que se vuelva una opinión con acento:
 
-> **La recomendación nunca va sola: va con el renglón.** **Un ente que dice "cambia de modelo" sin poder abrir el número no está diagnosticando: está opinando.**
+> La recomendación nunca va sola: va con el renglón. Un ente que dice "cambia de modelo" sin poder abrir el número no está diagnosticando: está opinando.
 
 Y lo que el ente NO hace con esta tabla, y se dice porque es donde se rompe todo:
 
@@ -222,7 +222,7 @@ fuente cerrada         la fuente existe y no se puede abrir, y eso
 
 Y la regla que lo hace servir, en una línea:
 
-> **Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.**
+> Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.
 
 Declarar no es una disculpa: es la respuesta completa. Al que dice "no tengo fuente" se le puede preguntar; al que dice el dato con seguridad no se le puede preguntar nada, porque ya cerró.
 

@@ -2,7 +2,7 @@
 
 Alejandro Valenzuela Rivera · `TESTIGO` · 5 de noviembre de 2026.
 
-> **Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después.** **Las nueve corridas están en `corridas/`, y se pueden abrir y correr.**
+> Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las nueve corridas están en `corridas/`, y se pueden abrir y correr.
 
 ---
 
@@ -16,7 +16,7 @@ Con una IA eso no se corrige leyendo mejor. Una IA no duda: produce. Donde a un 
 
 De ahí la regla que ordena todo:
 
-> **La prueba de un ensayo no es leerlo. Es levantar un ente con él, y ver qué hubo que inventar.**
+> La prueba de un ensayo no es leerlo. Es levantar un ente con él, y ver qué hubo que inventar.
 
 Y lo que se inventa no es un defecto del ente: es un hueco del ensayo. El ente hizo lo que pudo con lo que había. El ensayo es el que no dijo cómo.
 
@@ -132,7 +132,7 @@ Y al revés, un ensayo sin nada abajo es una lista de buenas intenciones. «El e
 
 Así que no es «proceso sí, detalles no». Es:
 
-> **El proceso es lo que se sostiene. El detalle es lo que lo sostiene.**
+> El proceso es lo que se sostiene. El detalle es lo que lo sostiene.
 
 **Y lo que esto protege, que es lo que de verdad importa:** un lector que quiera decir «lo alucinó la máquina» tiene que poder abrir la corrida y ver que el chequeo falló ahí, no que alguien lo dijo. Los detalles no estorban a la credibilidad: son la credibilidad. Por eso las corridas no se borran al crecer el ensayo: se quedan abajo, intactas, con su salida tal cual salió.
 
@@ -263,7 +263,7 @@ Entonces el criterio son cinco condiciones, y ninguna es «no encontré nada»:
 
 Y la línea que lo resume, si hay que decirla en una:
 
-> **Se acaba cuando otro levante un ente con los ensayos y no tenga que preguntar nada.**
+> Se acaba cuando otro levante un ente con los ensayos y no tenga que preguntar nada.
 
 ### La condición 2, que se declara en vez de cumplirse
 
@@ -286,7 +286,7 @@ qué NO se hace
 
 Y lo que la sustituye mientras tanto, que sí se corre solo y es lo que de verdad mide si hay criterio:
 
-> **El ente sabe qué lo tumbó, y lo dice con nombre. Si se puede abrir el registro y ver, para cualquier cosa que sostiene, la regla que la refutó y qué pasó después, eso es criterio real — y no necesita testigo.**
+> El ente sabe qué lo tumbó, y lo dice con nombre. Si se puede abrir el registro y ver, para cualquier cosa que sostiene, la regla que la refutó y qué pasó después, eso es criterio real — y no necesita testigo.
 
 Y esta sí se puede probar, y se probó: la corrida 8 encontró un hueco que el ensayo no tenía, sin que nadie más leyera. No es la condición 2. Es mejor que la condición 2 para lo que se quiere aquí, porque se puede repetir mañana.
 
@@ -324,7 +324,7 @@ hueco de forma       el ensayo dice algo, y el esquema no lo puede
 
 Y la regla, en una línea:
 
-> **Dos corridas enteras seguidas que no encuentren nada más que detalle: se deja de correr.**
+> Dos corridas enteras seguidas que no encuentren nada más que detalle: se deja de correr.
 
 **Y la palabra que importa ahí es «enteras».** La regla no cuenta corridas recortadas. Una corrida que sólo levantó el pedazo de moda puede no encontrar nada de contenido por la razón equivocada: porque nunca pasó por los tramos donde el ensayo se queda corto. Por eso la parada sólo cuenta si el ente se levantó completo, del primer paso al último.
 
@@ -370,7 +370,7 @@ y lo que eso pierde   el paso que va ANTES del que se prueba
 
 Así que la regla, y no tiene excepción:
 
-> **Una corrida se corre entera: del primer paso al último, sin saltarse ninguno y sin recortar el ente.**
+> Una corrida se corre entera: del primer paso al último, sin saltarse ninguno y sin recortar el ente.
 
 Y lo que eso obliga, en concreto:
 
@@ -414,7 +414,7 @@ que él sabe
 
 Y lo tercero no es «explicar la IA». Es una cosa concreta y verificable:
 
-> **El ente recibe la frase de alguien que no es técnico, y no la traduce solo: pregunta, en las palabras del otro, hasta poder escribirla como pieza.**
+> El ente recibe la frase de alguien que no es técnico, y no la traduce solo: pregunta, en las palabras del otro, hasta poder escribirla como pieza.
 
 Y las palabras del otro no son las suyas. Va a decir «accion». El otro va a decir «moverlo de lugar».
 
@@ -441,7 +441,7 @@ Y si el otro no puede contestar ninguna de las tres porque no sabe, eso también
 
 ### Y la línea que lo hace falsificable
 
-> **Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.**
+> Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.
 
 Eso es lo que separa un compañero de una herramienta con buena presentación. Una herramienta exige que el otro se adapte a ella. Un compañero se adapta a lo que el otro sabe, y lo dice cuando no alcanza.
 

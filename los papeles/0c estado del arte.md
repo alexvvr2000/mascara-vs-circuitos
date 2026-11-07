@@ -33,9 +33,9 @@ Sale de: `3 criterio real` y `5 criterio y sesgos`.
 
 Dos frases del sondeo de 2026, y son suyas, no de este trabajo:
 
-> **"Un agente que resuelve un problema en un episodio puede repetir el mismo desvío de diagnóstico en el siguiente."**
+> "Un agente que resuelve un problema en un episodio puede repetir el mismo desvío de diagnóstico en el siguiente."
 
-> **"Un paso equivocado produce una prohibición demasiado amplia."**
+> "Un paso equivocado produce una prohibición demasiado amplia."
 
 La segunda es la que más duele, y es la que da pie a este trabajo: estos sistemas aprenden la lección demasiado general, y se vuelven peores. Guardan el error, y de ahí sacan una regla que prohíbe de más.
 
@@ -47,7 +47,7 @@ Y no es un defecto menor: es el defecto. Una regla que se generaliza de golpe no
 
 No es que guarde el error: eso ya se hace. Es que exige una tercera pieza que los demás no tienen:
 
-> **El desenlace: la regla se vuelve a probar, y se apunta si aguantó, si se cayó otra vez, o si no se ha probado.**
+> El desenlace: la regla se vuelve a probar, y se apunta si aguantó, si se cayó otra vez, o si no se ha probado.
 
 Con eso cambia lo que el registro puede decir: de "esto salió mal una vez" a "esto salió mal, se corrigió así, y aguantó (o no)".
 

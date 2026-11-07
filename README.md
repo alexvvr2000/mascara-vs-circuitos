@@ -93,7 +93,7 @@ Y la regla de este trabajo con las palabras: si una palabra del oficio ya existe
 
 Lo sostiene una idea sola, y de ella cuelga todo:
 
-> **Un ente no se define por lo que tiene dentro —eso no tiene comprobación— sino por lo que deja rastro.** **Recibe, decide, contesta y apunta lo que contestó.** **Eso sí se puede medir, comparar y corregir.**
+> Un ente no se define por lo que tiene dentro —eso no tiene comprobación— sino por lo que deja rastro. Recibe, decide, contesta y apunta lo que contestó. Eso sí se puede medir, comparar y corregir.
 
 Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
@@ -188,7 +188,7 @@ Eso es un sótano: el lugar donde se guarda lo que no se puede decir todavía, p
 
 Así que aquí está el nuestro, sin llave y sin cerradura:
 
-> **[`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy)** · **DOI histórico:** `10.5281/zenodo.23090721` · CC BY 4.0
+> [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy) · DOI histórico: `10.5281/zenodo.23090721` · CC BY 4.0
 
 Ahí están los chats, las estadísticas, el rastro, y los errores con nombre. No está ordenado para que se lea bonito: está ordenado para que se escarbe.
 

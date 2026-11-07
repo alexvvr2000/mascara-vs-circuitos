@@ -3,11 +3,11 @@
 Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.
 Alejandro Valenzuela Rivera.
 
-> **Para qué sirve este archivo.** Quien lea tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
+> Para qué sirve este archivo. Quien lea tiene derecho a preguntar cuál es mi posición y por qué es mía, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con dónde vive y qué la sostiene. Lo que no está en esta lista es discusión, ejemplo o método: no es una tesis.
 
 Y la apuesta que las une, y es lo primero que hay que entender de todo esto:
 
-> **Una persona y una IA, construida con estos mecanismos, se vuelven casi indistinguibles la una de la otra — no por parecido, sino por comportamiento: las dos reciben, deciden, contestan y dejan rastro, y las dos tienen un criterio que se puede revisar.**
+> Una persona y una IA, construida con estos mecanismos, se vuelven casi indistinguibles la una de la otra — no por parecido, sino por comportamiento: las dos reciben, deciden, contestan y dejan rastro, y las dos tienen un criterio que se puede revisar.
 
 **Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.** Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.
 

@@ -4,13 +4,13 @@ Cómo se escribe el borde de un tema para que una máquina lo pueda correr, y pa
 
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Necesita `7 indexador de temas`, porque es la parte del borde, sola.**
+> Antes de leer. Necesita `7 indexador de temas`, porque es la parte del borde, sola.
 >
-> **Al terminar sabrás escribir un borde que una máquina pueda correr y que dos personas no lean distinto.**
+> Al terminar sabrás escribir un borde que una máquina pueda correr y que dos personas no lean distinto.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> **Y este ensayo es la parte del borde del indexador, sola: la parte del índice que decide.** **El índice completo está en `7 indexador de temas`.**
+> Y este ensayo es la parte del borde del indexador, sola: la parte del índice que decide. El índice completo está en `7 indexador de temas`.
 
 ---
 
@@ -26,7 +26,7 @@ Lo que entra, por criterio. Una condición que se puede probar sobre cada pieza:
 
 Y la prueba del borde, que es la única que vale:
 
-> **Si dos personas leen el borde y clasifican distinto, el borde está mal escrito.**
+> Si dos personas leen el borde y clasifican distinto, el borde está mal escrito.
 
 El problema es del texto, no del que lo lee. Y eso se puede correr: se le da la misma pieza a dos criterios distintos, y se ve si coinciden. No hace falta que la pieza sea real.
 

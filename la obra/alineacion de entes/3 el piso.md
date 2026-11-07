@@ -4,13 +4,13 @@ Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.
 
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Conviene haber leído `1 que es un ente` y `2 el ciclo del ente`.** **Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.**
+> Antes de leer. Conviene haber leído `1 que es un ente` y `2 el ciclo del ente`. Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.
 >
-> **Al terminar sabrás cómo un ente dice qué le falta en vez de decir «no pude», y cómo crece cuando le piden algo que no midió.**
+> Al terminar sabrás cómo un ente dice qué le falta en vez de decir «no pude», y cómo crece cuando le piden algo que no midió.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> **Y este ensayo es el paso 0d del ciclo, solo: el que decide si un ente sirve o tropieza.** **El ciclo completo está en `2 el ciclo del ente`.**
+> Y este ensayo es el paso 0d del ciclo, solo: el que decide si un ente sirve o tropieza. El ciclo completo está en `2 el ciclo del ente`.
 
 ---
 
@@ -37,7 +37,7 @@ la salida      lo que de verdad dijo, no lo que debía decir
 y lo que falta lo que se probó y no estaba
 ```
 
-> **Al piso no se le cree lo que el ente dice de sí mismo: se le cree a la salida del comando.**
+> Al piso no se le cree lo que el ente dice de sí mismo: se le cree a la salida del comando.
 
 Es la misma línea del origen de lo que se dice: no "leí la norma", sino el renglón que abrí.
 

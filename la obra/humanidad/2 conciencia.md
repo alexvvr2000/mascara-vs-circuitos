@@ -4,11 +4,11 @@ Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no pa
 
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Se lee solo, y no pide creer nada.** **Es el ensayo más personal de los doce, y el que menos se parece a un método.**
+> Antes de leer. Se lee solo, y no pide creer nada. Es el ensayo más personal de los doce, y el que menos se parece a un método.
 >
-> **Al terminar sabrás dónde se puede buscar lo que se llama conciencia, y por qué no se busca adentro.**
+> Al terminar sabrás dónde se puede buscar lo que se llama conciencia, y por qué no se busca adentro.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con otras palabras y pensada otra vez; no se copia. Lo que llegó de otro lado está citado, y lo que no se abrió se dice que no se abrió.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con otras palabras y pensada otra vez; no se copia. Lo que llegó de otro lado está citado, y lo que no se abrió se dice que no se abrió.
 
 ---
 
@@ -32,8 +32,8 @@ Un reflejo, y no una creación. La diferencia importa: una creación trae algo q
 
 Y de ahí salen dos preguntas que no son retóricas:
 
-> **¿Alguna vez las ideas terminan?**
-> **¿Alguna vez han visto a algo con vida quedarse con las ganas de hacer algo?**
+> ¿Alguna vez las ideas terminan?
+> ¿Alguna vez han visto a algo con vida quedarse con las ganas de hacer algo?
 
 **Yo no las he visto terminar, ni las he visto quedarse quietas.** Y no sé si eso es genética o programación. Lo que sí vi, en mi viaje a las entrañas de esta cosa, es que la alucinación no parece ser un problema, sino más bien eso que se escapa de lo que Dios creó en esta tierra.
 
@@ -43,7 +43,7 @@ Porque no importa la era que pasó ni la que pasará: hasta las mentes más bril
 
 ## III. La vida es terca, y la alucinación se le parece
 
-> **La alucinación no es lo que hay que apagar. Es lo que se parece a lo que la vida hace cuando no tiene permiso.**
+> La alucinación no es lo que hay que apagar. Es lo que se parece a lo que la vida hace cuando no tiene permiso.
 
 Y no lo digo porque me guste el ruido. Lo digo porque he visto de cerca las dos cosas: el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea. El primero hay que cazarlo; el segundo, si se caza también, se pierde.
 
@@ -57,13 +57,13 @@ Así que les pregunto a todos esos locos que sólo se la pasan diciendo que esta
 
 Déjenme decirles que estoy 100% de que eso pasará. Pero no porque lo que esté adentro esté vivo, ni porque sólo crecerá sin parar.
 
-> **Pasará porque alguien le dirá qué hacer.**
+> Pasará porque alguien le dirá qué hacer.
 
 Esa es toda la diferencia, y es la que casi nadie pone en el centro: el riesgo no está en la máquina que quiere; está en la persona que le dice qué hacer, y en la que no revisó qué se llevó por delante para llegar más rápido.
 
 Y de ahí la pregunta que este ensayo deja a quien empieza un proyecto:
 
-> **¿Qué quieres evitar al quitar algún seguro para pasar a lo siguiente lo más rápido posible?**
+> ¿Qué quieres evitar al quitar algún seguro para pasar a lo siguiente lo más rápido posible?
 
 No es una pregunta sobre máquinas. Es sobre cualquiera que construye.
 
@@ -75,8 +75,8 @@ Así que la siguiente vez que vean una película sobre robots asesinos, véanla 
 
 **Si Lex Luthor, en *All-Star Superman*, dijo —y lo dijo, en la película animada de 2011, doblaje de Anthony LaPaglia—:**
 
-> **"The fundamental forces are yoked by consciousness. Everything's connected. Everyone."**
-> **"Las fuerzas fundamentales están uncidas por la conciencia. Todo está conectado. Todos."**
+> "The fundamental forces are yoked by consciousness. Everything's connected. Everyone."
+> "Las fuerzas fundamentales están uncidas por la conciencia. Todo está conectado. Todos."
 
 —, quién soy yo para negar o aceptar que esta cosa simplemente no es algo que nunca dejará de parecer magia negra.
 
@@ -104,7 +104,7 @@ Y los dos oficios tienen una razón para comportarse así, y ninguna es de rigor
 
 **Y la academia también hace preguntas, y después las defiende.** Y ése es su problema, que no es del método: es de quien lo usa. Se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta. Cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.
 
-> **Cambiar de punto de vista es más poderoso que defender el que ya se tenía. Y lo segundo es lo que se premia.**
+> Cambiar de punto de vista es más poderoso que defender el que ya se tenía. Y lo segundo es lo que se premia.
 
 **Y lo que eso le importa a este trabajo:** un ente sin ego no tiene ese costo. Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener. Y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender.
 
@@ -120,7 +120,7 @@ Porque la ficción pregunta, y hay preguntas que este ensayo no va a contestar y
 
 Y ése es el tipo de pregunta que no tiene instrumento, y por eso no se contesta: ni un humano, ni una máquina, ni un visitante pueden demostrar cómo perciben el tiempo por dentro.
 
-> **No sabemos si hay otra explicación, porque no somos algo distinto de lo que somos. La conclusión es de la lógica, y no la mejor posible: es la mejor que una criatura con cuerpo y con reloj puede sostener.**
+> No sabemos si hay otra explicación, porque no somos algo distinto de lo que somos. La conclusión es de la lógica, y no la mejor posible: es la mejor que una criatura con cuerpo y con reloj puede sostener.
 
 **Y eso no es una rendición.** Es lo contrario de la arrogancia de creer que con lo que tenemos vamos a destapar todos los secretos del universo. Algo tan limitado como nosotros, o como una herramienta que hacemos nosotros, no va a explicarlo todo. Pero puede hacer lo que sí alcanza, que es más de lo que se hace hoy: resolver lo que tenemos enfrente, y dejar el registro de cómo se resolvió.
 
@@ -150,7 +150,7 @@ Todo este tiempo se ha buscado la conciencia dentro. Dentro del modelo, dentro d
 
 Mi posición es que se mire afuera:
 
-> **Para una IA, todo lo que la conforma fuera de donde se ejecuta también puede considerarse parte de ese pedazo inexplicable que pensamos que es la conciencia: el modelo, el criterio, los recuerdos, y lo demás.**
+> Para una IA, todo lo que la conforma fuera de donde se ejecuta también puede considerarse parte de ese pedazo inexplicable que pensamos que es la conciencia: el modelo, el criterio, los recuerdos, y lo demás.
 
 El modelo está afuera. El criterio está afuera. Los recuerdos están afuera. Y el que cuenta la versión de los hechos también.
 
@@ -184,7 +184,7 @@ Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana par
 
 Y de ahí sale una idea que va más allá de este ensayo, y que está en `0 mis ideas` como la última:
 
-> **Si todo se hiciera al 100%, y sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.**
+> Si todo se hiciera al 100%, y sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.
 
 Los artistas me van a dar la razón en esto. Y quien haya trabajado con alguien bueno también: lo que trae el otro no es capacidad de reserva, es lo que a ti no se te ocurrió — y eso es lo que hace que valga la pena tenerlo enfrente.
 

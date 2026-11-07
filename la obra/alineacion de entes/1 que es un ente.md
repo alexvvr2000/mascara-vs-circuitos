@@ -3,11 +3,11 @@
 Antes de describir su ciclo hace falta saber qué es un ente, y a quién sirve.
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **No hace falta nada antes: es el primero.**
+> Antes de leer. No hace falta nada antes: es el primero.
 >
-> **Al terminar sabrás reconocer un ente, y por qué uno que no tiene nada que perder necesita a alguien que responda por él.**
+> Al terminar sabrás reconocer un ente, y por qué uno que no tiene nada que perder necesita a alguien que responda por él.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
 
@@ -21,7 +21,7 @@ La que sí la tiene: ¿qué entró, qué salió, y qué quedó escrito? Eso se v
 
 Y de ahí sale la definición de todo este trabajo:
 
-> **Un ente es una unidad que recibe, decide y contesta, y que deja rastro de haber contestado.**
+> Un ente es una unidad que recibe, decide y contesta, y que deja rastro de haber contestado.
 
 No dice nada de qué tiene dentro. Dice qué deja. Y por eso se puede juzgar desde fuera, que es lo único que sirve si quien juzga no puede estar dentro.
 
@@ -61,7 +61,7 @@ Y los cerrados se quedan. Un ente que cambió lo que tenía entre manos es más 
 
 ### Y de ahí la consecuencia, que es la que vale
 
-> **Un ente que entre más vive y tiene una identidad, más útil.**
+> Un ente que entre más vive y tiene una identidad, más útil.
 
 No porque acumule datos. Porque acumula historia: qué se hizo, bajo qué propósito, con qué cuerpo, y qué se cayó. La utilidad no está en la potencia: está en lo vivido, con su fecha.
 
@@ -116,7 +116,7 @@ Un ente no tiene nada de eso. Es información sin cuerpo, y lo que le pasa cuand
 
 Y de ahí sale lo que hay que entender, porque es la raíz de casi todo lo que este trabajo corrige:
 
-> **Un ente no es descuidado por maldad ni por pereza. Es descuidado porque nada lo castiga.**
+> Un ente no es descuidado por maldad ni por pereza. Es descuidado porque nada lo castiga.
 
 **Un humano que inventa un dato y lo dice con seguridad se juega algo, aunque sea pequeño: su nombre, su trabajo, la cara del que le va a preguntar después.** Un ente que inventa un dato no se juega nada en ese momento, y por eso puede alucinar a una escala que a nosotros nos costaría la vida social.
 
@@ -144,11 +144,11 @@ Y ahí hay un problema que el ente no puede resolver solo, porque no puede senti
 
 **Así que la autoridad no solo aprueba: es dueña.** Puede dejarlo crecer, puede detenerlo, puede encogerlo si creció mal, y puede cambiar de qué sirve. Y no se le pide que controle lo que el ente piensa, porque eso no se puede y no tiene sentido: se le pide que controle en qué se transforma y quién carga el costo.
 
-> **Frenar a la fuerza lo que se piensa es imposible. Decidir en qué se convierte, y quién lo paga, es lo único que de verdad está en manos de alguien.**
+> Frenar a la fuerza lo que se piensa es imposible. Decidir en qué se convierte, y quién lo paga, es lo único que de verdad está en manos de alguien.
 
 Y la línea que ordena todo lo demás, que este trabajo repite porque es su centro:
 
-> **"No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí.**
+> "No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí.
 
 **Un fallo que nadie decidió es un accidente que nadie vio venir.** Un fallo que alguien decidió, con su nombre y su razón escritos, es una decisión que se puede discutir, corregir, y de la que se puede aprender. El registro no existe para culpar a nadie: existe para que lo que salió mal tenga dueño, y lo que tuvo dueño se pueda cambiar.
 
@@ -181,7 +181,7 @@ Y eso no lo vuelve una mejor persona. Lo vuelve un mejor espejo. Su trabajo no e
 
 Casi todo lo que se invierte en esto va a ser más capaz, más rápido, más grande. Y esas tres cosas no contestan la pregunta que este ensayo hace, porque la pregunta no es de capacidad:
 
-> **¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?**
+> ¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?
 
 Ninguna cantidad de cómputo produce esa respuesta, porque no es un cómputo. Es una regla que alguien tiene que escribir, con nombre, y sostener.
 
@@ -231,7 +231,7 @@ Detrás de cada ente hay alguien que trajo lo que faltaba. El ente escribe, orga
 
 Y ese intercambio no es una concesión: es de donde sale la calidad.
 
-> **Si todo se hiciera al 100%, sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.**
+> Si todo se hiciera al 100%, sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.
 
 Un músico entiende esto sin que se lo expliquen. Un escritor también. Y el que trabaja con una IA tiene que aprenderlo, porque el riesgo no es que la máquina falle: es creer que ya no hace falta nadie más.
 

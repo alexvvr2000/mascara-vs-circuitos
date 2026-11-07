@@ -4,11 +4,11 @@ Cómo saber si un trabajo se hizo de verdad, con números que salen del registro
 
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Este ensayo se lee solo.** **No hace falta saber nada de computación ni de modelos: lo único que se necesita es aceptar una idea, y es la primera que se explica: se mide lo que quedó escrito, no lo que alguien dice de sí mismo.**
+> Antes de leer. Este ensayo se lee solo. No hace falta saber nada de computación ni de modelos: lo único que se necesita es aceptar una idea, y es la primera que se explica: se mide lo que quedó escrito, no lo que alguien dice de sí mismo.
 >
-> **Al terminar sabrás calcular el costo real de un trabajo, leer su varianza, contar dónde se cae, y comparar dos cuerpos sin creerle a ninguno.**
+> Al terminar sabrás calcular el costo real de un trabajo, leer su varianza, contar dónde se cae, y comparar dos cuerpos sin creerle a ninguno.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
 
@@ -18,13 +18,13 @@ Un ente puede correr en un cuerpo o en otro. Y cuando se cambia el cuerpo, el en
 
 Y ahí hay una pregunta que no se contesta con una opinión, y que este ensayo viene a contestar:
 
-> **¿Cómo sabe alguien que el ente está haciendo trabajo de verdad, y no solo produciendo texto que suena a trabajo?**
+> ¿Cómo sabe alguien que el ente está haciendo trabajo de verdad, y no solo produciendo texto que suena a trabajo?
 
 **Porque la respuesta fácil es preguntarle.** Y esa respuesta está cerrada desde el principio, por una razón simple: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
 
 Así que la pregunta se cambia por otra, y esta sí tiene piso:
 
-> **¿Qué queda escrito cuando el ente trabaja, que no se pueda escribir sin haber trabajado?**
+> ¿Qué queda escrito cuando el ente trabaja, que no se pueda escribir sin haber trabajado?
 
 Eso es lo que este ensayo mide: no al ente, sino lo que el ente deja.
 
@@ -56,7 +56,7 @@ Tres maneras de saber cómo trabaja un cuerpo, y solo la tercera no se puede inv
 | **El que lo usa, desde un solo cuerpo** | **poco**: ve lo que ese cuerpo hace, y no tiene contra qué compararlo | lo que parece criterio puede ser la inclinación del único que consultó |
 | **El registro, con más de un cuerpo y el mismo ciclo** | **es el único que tiene comparación** | la misma clase de trabajo, hecha por cuerpos distintos, y lo que cambia entre ellos es lo que el cuerpo traía |
 
-> **Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.**
+> Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.
 
 **Un ente puede decir "soy bueno para esto", y eso es una frase.** El registro puede mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.
 
@@ -68,7 +68,7 @@ Cuatro números, y ninguno necesita que nadie se evalúe. Los cuatro salen del r
 
 ### 1. El costo real de un resultado (CRE)
 
-> **CRE = (intentos + correcciones + verificaciones) ÷ resultados exitosos verificados**
+> CRE = (intentos + correcciones + verificaciones) ÷ resultados exitosos verificados
 
 Cada término es un conteo, y se saca así:
 
@@ -165,7 +165,7 @@ Y ese cuadro es todo el diagnóstico. No dice que el cuerpo sea malo: dice que e
 
 Un cuerpo con cero hechos de una clase no es bueno ni malo en esa clase: es desconocido. Y eso se escribe como un cero con nombre, no como un vacío que se rellena con lo probable.
 
-> **El número que más dice de un cuerpo no es el que tiene: es el que no tiene y no finge tener.**
+> El número que más dice de un cuerpo no es el que tiene: es el que no tiene y no finge tener.
 
 ---
 
@@ -212,7 +212,7 @@ Y lo que se busca no es "cuál es mejor": es dónde se separan. Si los dos cuerp
 
 Y la regla que impide que esto se vuelva una opinión con números parada encima:
 
-> **Un cuerpo no se declara bueno ni malo para una clase de trabajo. Se declara caído en una puerta, tantas veces de cuántas.**
+> Un cuerpo no se declara bueno ni malo para una clase de trabajo. Se declara caído en una puerta, tantas veces de cuántas.
 
 "Este modelo es malo para apuntar" es un adjetivo, y los adjetivos son lo que hacía viejo al ensayo que este sustituye. "Con este cuerpo, apuntar cayó tres de cuatro veces, y siempre en lo mismo: la columna se fue de lugar" es una medida, y se puede corregir.
 
@@ -236,7 +236,7 @@ Y la regla que cierra la puerta de atrás: un talento sin su estado no se escrib
 
 Y de ahí una frase que se puede decir en voz alta y no miente:
 
-> **"En esta clase de trabajo he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron se cayeron por la misma puerta."**
+> "En esta clase de trabajo he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron se cayeron por la misma puerta."
 
 Eso suena mucho menos impresionante que "soy bueno para esto", y vale más, porque se puede abrir.
 
@@ -298,7 +298,7 @@ La respuesta que este trabajo sostiene es incómoda en las dos direcciones. Ni l
 
 Y el caso no es teórico, es de oficio. Hay lugares donde el papel, el fax y el sello de tinta siguen en uso, no por atraso, sino porque funcionan bien para lo que se hace con ellos. Nadie está pagando un problema que esa herramienta no resuelva.
 
-> **Lo suficiente no es un fracaso de la ambición. Es un criterio.**
+> Lo suficiente no es un fracaso de la ambición. Es un criterio.
 
 Y ese criterio es el mismo de este ensayo, escrito de otra forma: CRE pregunta cuánto cuesta un resultado verificado. La pregunta del tamaño es la misma, un paso antes: cuánto de la capacidad comprada cuenta como resultado verificado, y cuánto es capacidad que nadie usó.
 
@@ -308,7 +308,7 @@ Y ese criterio es el mismo de este ensayo, escrito de otra forma: CRE pregunta c
 
 Casi toda la inversión en este campo va a ser más capaz, más rápido, más grande. Y esas tres cosas no contestan la pregunta que este trabajo hace, porque no es de capacidad:
 
-> **¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?**
+> ¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?
 
 Ninguna cantidad de cómputo produce esa respuesta. Es una regla que alguien tiene que escribir, con nombre, y sostener cuando se caiga.
 

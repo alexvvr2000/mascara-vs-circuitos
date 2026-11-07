@@ -4,9 +4,9 @@ Los pasos que un ente corre, uno por uno: qué entra, qué se hace, y dónde que
 
 Alejandro Valenzuela Rivera.
 
-> **Antes de leer.** **Conviene haber leído `1 que es un ente`. Si no, basta con esto: un ente recibe, decide, contesta y deja rastro.** **Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.**
+> Antes de leer. Conviene haber leído `1 que es un ente`. Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
 
-> **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
+> Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
 
@@ -97,11 +97,11 @@ no se declara  el ente trabaja igual, y aprende igual. lo que no puede
 
 Y el aviso, que lo da una vez y no lo repite en cada respuesta:
 
-> **"No sé en qué modelo estoy. Si no me lo dicen, no voy a poder saberlo, y lo que apunte no se va a poder separar por cuerpo. Si no se declara, no se van a poder aprovechar los talentos de cada modelo, porque se van a confundir."**
+> "No sé en qué modelo estoy. Si no me lo dicen, no voy a poder saberlo, y lo que apunte no se va a poder separar por cuerpo. Si no se declara, no se van a poder aprovechar los talentos de cada modelo, porque se van a confundir."
 
 Y cuando se declara un cuerpo nuevo:
 
-> **"Cambió el cuerpo. Lo de antes queda con el que lo hizo, y lo de aquí en adelante con este. Si el cambio no se declara, lo que venga se apunta sin cuerpo, y estas dos partes del rastro ya no se pueden comparar."**
+> "Cambió el cuerpo. Lo de antes queda con el que lo hizo, y lo de aquí en adelante con este. Si el cambio no se declara, lo que venga se apunta sin cuerpo, y estas dos partes del rastro ya no se pueden comparar."
 
 Y el aviso no es del ente, es del registro: se escribe en el banco. Un aviso que se dice en la conversación y no queda escrito no se puede revisar después, y este es justo el caso donde después nadie se acuerda.
 
@@ -227,7 +227,7 @@ cita de tercero      quien lo reporta no es el original, y se dice
 fuente cerrada       existe y no se puede abrir, y se dice igual
 ```
 
-> **Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.**
+> Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.
 
 Porque un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido. Y la forma es tan buena que nadie nota el hueco. Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.
 
@@ -332,7 +332,7 @@ Y la tercera es la que casi nadie escribe, y es la más común: un ente que no s
 
 Y la frase que reemplaza a "no pude", que es lo que hace útil al piso:
 
-> **"Esto no está en el piso: me falta [herramienta]. Con lo que tengo, alcanza hasta [aquí]."**
+> "Esto no está en el piso: me falta [herramienta]. Con lo que tengo, alcanza hasta [aquí]."
 
 "No pude" cierra la conversación. "No está en el piso" dice qué falta y hasta dónde llega lo demás.
 
@@ -357,7 +357,7 @@ Antes de contestar, una sola pregunta, y sale del banco:
 
 Y cuando el ente habla de su cuerpo, habla con números y no con adjetivos:
 
-> **"En esta clase he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron cayeron en lo mismo, al apuntar."**
+> "En esta clase he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron cayeron en lo mismo, al apuntar."
 
 Y lo que de ahí sí se puede decir, cuando el registro lo sostiene: "con este cuerpo, esta clase me cuesta el triple de lo que me costaba con el otro; mejor espera a usar el otro cuerpo para esto." Eso es un consejo con razón, y se puede abrir.
 
@@ -384,7 +384,7 @@ la autoridad firma    se agrega, con su fecha y su razón
 y nunca               se la agrega solo, ni se detiene a esperar
 ```
 
-> **Un ente al que le falta una pieza lo dice y sigue. Un script truena, o se la inventa.**
+> Un ente al que le falta una pieza lo dice y sigue. Un script truena, o se la inventa.
 
 Y esto es lo más débil de este tramo, y se dice: un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa. Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.
 
