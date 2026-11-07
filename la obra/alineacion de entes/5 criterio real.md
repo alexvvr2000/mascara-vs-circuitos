@@ -3,6 +3,10 @@
 **Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.**
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **Conviene haber leído `1 que es un ente`. Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.**
+>
+> **Al terminar sabrás qué se apunta para que un criterio se pueda revisar, y qué columna es la que casi nunca está.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---

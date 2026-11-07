@@ -4,9 +4,13 @@
 
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **Necesita `2 el ciclo del ente`, porque es su paso 3, solo.**
+>
+> **Al terminar sabrás qué cuatro cosas se guardan de una decisión para que se pueda auditar, aunque el razonamiento no se guarde.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> **Y este ensayo es el paso 3 del ciclo, solo.** **Se separó porque es la parte del trabajo que casi nadie escribe, y estaba en la mitad de otro ensayo.** **El ciclo completo está en `2 el ciclo del ente`.**
+> **Y este ensayo es el paso 3 del ciclo, solo: la parte del trabajo que casi nadie escribe.** **El ciclo completo está en `2 el ciclo del ente`.**
 
 ---
 

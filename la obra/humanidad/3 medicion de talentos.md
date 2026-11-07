@@ -4,6 +4,10 @@
 
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **Necesita `5 criterio real`. Si no, basta con esto: se mide lo que se apuntó, no lo que el modelo dice de sí mismo.**
+>
+> **Al terminar sabrás cómo se mide si un trabajo se hizo de verdad, con números y sin preguntarle al modelo qué tan bueno es.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---

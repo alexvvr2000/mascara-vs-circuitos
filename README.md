@@ -69,6 +69,26 @@ lo que se ganó     entender que el código es el uno por ciento del
 
 ---
 
+## Las palabras de este trabajo, en una tabla
+
+**Este trabajo usa un vocabulario propio, y no se puede leer sin él.** **Esta tabla es la puerta: las nueve palabras que hay que saber, y basta con eso para leer el resto.**
+
+| La palabra | Qué quiere decir | Por qué no se usa la de todos |
+|---|---|---|
+| **ente** | lo que recibe algo, decide, contesta, y deja rastro de haber contestado | «programa» dice lo que corre; «agente» ya está gastado por la industria. **Ente no dice qué tiene dentro: dice qué deja.** |
+| **corrida** | levantar un ente desde cero con los ensayos, y ver qué hubo que inventar | no es una prueba de software: **es lo que se hace cuando no hay guía y se quiere saber si el texto alcanza** |
+| **piso** | lo que el ente midió que tiene, antes de prometer nada | «capacidades» suena a mercadotecnia. **Piso suena a límite, y es lo que es** |
+| **frontera** | lo que el ente decide, lo que sólo propone, y lo que no le toca | es la división entre el que hace y el que responde por lo que se hace |
+| **fricción** | lo que se cayó, con el porqué de por qué parecía cierto | «error» no dice por qué se repite. **La fricción sí: trae su razón** |
+| **desenlace** | qué pasó cuando la regla se volvió a probar | es la columna que casi nunca está, y sin ella no hay criterio |
+| **falsificador** | la condición que, si se cumple, tumba lo que el ensayo afirma | no es una opinión en contra: **es algo que se puede correr y ver** |
+| **borde** | dónde termina un tema: qué entra y qué no | un tema sin borde no es un tema: es una intención |
+| **vibe coding** | escribir código sin un objetivo claro | se deja en su idioma porque es el nombre que ya tiene |
+
+**Y la regla de este trabajo con las palabras:** **si una palabra del oficio ya existe, se usa tal cual; si no existe, se define aquí y no se cambia.** **Lo que no se hace es inventar sinónimos a media página.**
+
+---
+
 ## Lo que este trabajo sostiene, y lo que no
 
 **Lo sostiene una idea sola, y de ella cuelga todo:**

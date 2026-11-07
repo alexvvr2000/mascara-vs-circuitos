@@ -3,6 +3,10 @@
 **Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.**
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **Necesita `5 criterio real`, y ayuda `1 que es un ente`.**
+>
+> **Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---

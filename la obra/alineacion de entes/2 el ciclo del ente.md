@@ -4,6 +4,10 @@
 
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **Conviene haber leído `1 que es un ente`. Si no, basta con esto: un ente recibe, decide, contesta y deja rastro.**
+>
+> **Al terminar sabrás qué pasos corre un ente, y qué tiene que decir cada uno para que se pueda correr sin preguntarle a nadie.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 > **Y este ensayo es el mecanismo, y nada más: los pasos del ciclo, uno por uno.** **Dos de sus partes se separaron porque crecieron más que el resto:** **el piso está en `3 el piso`, y la frontera del paso 3 está en `4 la frontera y el descarte`.** **Aquí quedan referidos, no repetidos.**

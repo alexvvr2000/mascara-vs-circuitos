@@ -3,6 +3,10 @@
 **Por qué una IA debe escribir en forma de proceso y no en prosa.**
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **No necesita los demás. Se puede leer solo, y probablemente sea el que más sirva si trabajas con IA y no te interesa el resto.**
+>
+> **Al terminar sabrás por qué un texto en prosa no basta para pedirle algo a una máquina, y qué forma sí.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---

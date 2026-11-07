@@ -3,6 +3,10 @@
 **Por qué batallar en entenderse es mejor que esperar que el otro haga lo que la industria pide.**
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **No necesita los demás. Si vienes del lado técnico, empieza por aquí.**
+>
+> **Al terminar sabrás por qué entender al que pide es la única forma de que lo que se hace sirva, y por qué eso no es amabilidad.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---

@@ -4,6 +4,10 @@
 
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **Se lee solo, y no pide creer nada.** **Es el ensayo más personal de los doce, y el que menos se parece a un método.**
+>
+> **Al terminar sabrás dónde se puede buscar lo que se llama conciencia, y por qué no se busca adentro.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con otras palabras y pensada otra vez; no se copia. Lo que llegó de otro lado está citado, y lo que no se abrió se dice que no se abrió.
 
 ---

@@ -3,6 +3,10 @@
 **Antes de describir su ciclo hace falta saber qué es un ente, y a quién sirve.**
 **Alejandro Valenzuela Rivera.**
 
+> **Antes de leer.** **No hace falta nada antes: es el primero.**
+>
+> **Al terminar sabrás reconocer un ente, y por qué uno que no tiene nada que perder necesita a alguien que responda por él.**
+
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
 ---
