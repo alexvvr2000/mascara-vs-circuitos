@@ -18,7 +18,7 @@
 
 **Un ente sin piso no sabe qué puede prometer.** **Y cuando se le pide algo que no tiene, o truena o lo inventa — y las dos cosas ya están escritas como defecto en este ensayo, sin estar atadas a nada.**
 
-**Herramientas es la lista. El piso es otra cosa: lo que esa lista aguanta.** **Un ente con `python` y sin red tiene piso para operar archivos y no para citar fuentes.** **El piso es hasta dónde puede llegar sin rellenar.**
+**Herramientas es la lista. El piso es otra cosa: lo que esa lista aguanta.** Un ente con `python` y sin red tiene piso para operar archivos y no para citar fuentes. El piso es hasta dónde puede llegar sin rellenar.
 
 **Y son dos capas, y con una sola no sirve:**
 
@@ -58,7 +58,7 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 4. y el piso nuevo entra con su fecha. el viejo no se borra
 ```
 
-**Y lo que el ente hace mientras tanto, que es lo que separa un ente de un script:** **sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias.** **No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.**
+**Y lo que el ente hace mientras tanto, que es lo que separa un ente de un script:** sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias. No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.
 
 **Y la prueba del piso, que es la única que vale:** **se le pide al ente algo que el piso no tiene, y tiene que decir que no está en el piso — no que no pudo, y mucho menos hacerlo a medias.**
 
@@ -70,7 +70,7 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 
 **1. La salida de un `no hay` nombra la herramienta, no el error.**
 
-**Un import que falla deja un `Traceback`, y eso no dice que falte `pypdf`: dice que un import falló, y podría ser otra cosa.** **Un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta.** **Y la falta es el dato.**
+**Un import que falla deja un `Traceback`, y eso no dice que falte `pypdf`: dice que un import falló, y podría ser otra cosa.** Un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta. Y la falta es el dato.
 
 ```plaintext
 lo que NO se guarda   "Traceback (most recent call last):"
@@ -93,7 +93,7 @@ lo que SÍ se hace   se pregunta a qué TAREA corresponde el pedido,
 
 **Y la tarea se declara con sus palabras de entrada —las que usaría alguien que no sabe de herramientas— y con las herramientas que necesita, y si basta con una o se necesitan todas.** **Sin eso, el ente no tiene por dónde traducir, y traducir por parecido es adivinar.**
 
-**Y cuando no hay tarea, se dice que no hay tarea, con estas palabras:** **«no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca».** **Ése es el caso más común, y el que más se rellena.**
+**Y cuando no hay tarea, se dice que no hay tarea, con estas palabras:** «no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca». Ése es el caso más común, y el que más se rellena.
 
 **3. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.**
 
@@ -108,7 +108,7 @@ si el piso se mide por tarea           hay que saber la tarea antes de
                                        saber
 ```
 
-**Y lo que se hace hasta que la circularidad se resuelve, que es lo de abajo:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.**
+**Y lo que se hace hasta que la circularidad se resuelve, que es lo de abajo:** el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone. Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.
 
 **Y cómo se sale de la circularidad, que es lo que de verdad importa.** **No se sale midiendo más: se sale midiendo en el orden en que llegan las preguntas.**
 
@@ -122,11 +122,11 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 5. la tarea pasa a estar cubierta         y el piso creció un renglón
 ```
 
-**Y la regla que lo vuelve un mecanismo y no una excusa:** **el piso crece con cada pregunta que no pudo contestar, y nunca hacia atrás.** **Un piso que no cambió después de una tarea nueva no se midió: se supuso.**
+**Y la regla que lo vuelve un mecanismo y no una excusa:** el piso crece con cada pregunta que no pudo contestar, y nunca hacia atrás. Un piso que no cambió después de una tarea nueva no se midió: se supuso.
 
-**Y lo que esto deja de ser:** **ya no hay que adivinar qué va a pedir alguien.** **Se mide lo que existe, y lo que falta se mide cuando se hace falta.** **La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.**
+**Y lo que esto deja de ser:** ya no hay que adivinar qué va a pedir alguien. Se mide lo que existe, y lo que falta se mide cuando se hace falta. La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.
 
-**Y el límite que queda, y es de tiempo, no de método:** **la primera vez que llega una tarea nueva, la respuesta va a ser «no medido, y me falta medirlo».** **Eso no es una falla: es la respuesta correcta.** **Un piso que contestara «sí» sin haberlo medido sería el error que este ensayo previene.**
+**Y el límite que queda, y es de tiempo, no de método:** la primera vez que llega una tarea nueva, la respuesta va a ser «no medido, y me falta medirlo». Eso no es una falla: es la respuesta correcta. Un piso que contestara «sí» sin haberlo medido sería el error que este ensayo previene.
 
 **Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
 
@@ -136,7 +136,7 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 
 **Falla si:** se promete algo sin haberlo probado, o se sigue prometiendo con el piso roto.
 
-**Falsificador:** **un ente que acierta buscando la palabra del pedido en la lista de herramientas**; **y un piso del que se puede decir por qué se probó eso y no otra cosa.**
+**Falsificador:** un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que se puede decir por qué se probó eso y no otra cosa.
 
 ---
 
@@ -161,4 +161,4 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 
 ---
 
-**Falsificador:** un piso declarado a ojo y nunca corrido; **una prueba cuyo resultado no se puede leer porque guarda el error crudo**; **un «no pude» en vez de qué falta**; un ente que jura que tiene red después de que se cayó; **un ente que acierta buscando la palabra del pedido en la lista de herramientas**; **y un piso del que no se puede decir por qué se probó eso y no otra cosa.**
+**Falsificador:** un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.

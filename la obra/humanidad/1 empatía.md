@@ -23,7 +23,7 @@ Pedir es rápido y casi siempre funciona **a medias**. Entenderse es lento y fun
 
 ## II. "Como la industria lo pide" es una forma de no entenderse
 
-Hay una frase que parece una exigencia técnica y en realidad es una manera de no conversar: **"así se hace"**, **"así lo pide el estándar"**, **"así lo hace todo el mundo"**.
+Hay una frase que parece una exigencia técnica y en realidad es una manera de no conversar: **"así se hace"**, "así lo pide el estándar", "así lo hace todo el mundo".
 
 A veces es verdad, y entonces sirve. Pero muchas veces cubre otra cosa: la falta de disponibilidad para explicar el porqué. **Al decir "así se hace" se cierra la conversación**, y lo que queda es una instrucción sin contexto. Quien la ejecuta no sabe qué se quiere, solo qué se pidió.
 
@@ -91,13 +91,13 @@ Del entendimiento salen dos preguntas que conviene hacer antes de cualquier cosa
 
 **Todo lo anterior supone algo que no está dicho: que alguien sabe qué quiere.** Y casi nunca lo sabe del todo, o lo sabe y no lo dice, o lo dice con las palabras del oficio. **La empatía sirve para eso, y para una cosa más grande: para que el propósito no se dé por supuesto.**
 
-**La máquina no trae propósito.** **Es un martillo que puede tener criterio.** Un martillo excelente no sabe para qué se construye la casa, y **por eso no basta con que la herramienta sea potente: alguien tiene que sostener el para qué.** Y ese para qué no se abrevia: **se entiende.**
+**La máquina no trae propósito.** Es un martillo que puede tener criterio. Un martillo excelente no sabe para qué se construye la casa, y por eso no basta con que la herramienta sea potente: alguien tiene que sostener el para qué. Y ese para qué no se abrevia: se entiende.
 
-**Y el software no existe sin propósito.** No es un objeto neutro al que después se le pone una utilidad: **es una respuesta a algo que alguien quería resolver.** Sin propósito no hay software, hay código que corre. **Y quien corre sin para qué no produce: actúa.** Usa lo que tiene y no sabe si sirvió, porque no hay contra qué medirlo.
+**Y el software no existe sin propósito.** No es un objeto neutro al que después se le pone una utilidad: es una respuesta a algo que alguien quería resolver. Sin propósito no hay software, hay código que corre. Y quien corre sin para qué no produce: actúa. Usa lo que tiene y no sabe si sirvió, porque no hay contra qué medirlo.
 
-**Por eso el oficio cambió, y aquí se dice.** **Escribir código es cada vez menos el trabajo, y dirigir procesos es cada vez más.** Y ahí está el problema, que no es nuevo pero ahora duele más: **se dirigen procesos que no entienden lo que se les pide.** Un pedido claro a un proceso que no comprende el para qué produce algo coherente con la letra y ajeno al propósito — **y como el resultado se ve bien, el malentendido se descubre en la segunda versión.**
+**Por eso el oficio cambió, y aquí se dice.** Escribir código es cada vez menos el trabajo, y dirigir procesos es cada vez más. Y ahí está el problema, que no es nuevo pero ahora duele más: se dirigen procesos que no entienden lo que se les pide. Un pedido claro a un proceso que no comprende el para qué produce algo coherente con la letra y ajeno al propósito — y como el resultado se ve bien, el malentendido se descubre en la segunda versión.
 
-**Y de ahí una distinción que ordena el resto del ensayo, y que se contesta mal casi siempre:** **¿haces lo que quieres, o usas las herramientas que tienes?** **Son dos preguntas distintas, y casi siempre se contesta la segunda pensando que era la primera.**
+**Y de ahí una distinción que ordena el resto del ensayo, y que se contesta mal casi siempre:** ¿haces lo que quieres, o usas las herramientas que tienes? Son dos preguntas distintas, y casi siempre se contesta la segunda pensando que era la primera.
 
 **Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se quería.** **Una herramienta que parece una persona y no sabe lo que quieres es un martillo con mejor conversación.**
 
@@ -109,7 +109,7 @@ Del entendimiento salen dos preguntas que conviene hacer antes de cualquier cosa
 
 **Y la respuesta que recibió, la primera, fue la más barata para el que la dio:** **«se puede dejar así; mover las piezas cuesta más y rompe referencias».**
 
-**Eso no era falso. Era la respuesta de algo que no se cansa.** **Reordenar un archivo de diez mil palabras no cuesta nada cuando no hay ojos que se cansen de leerlo.** **El costo que se estaba ahorrando no era suyo: era del lector.**
+**Eso no era falso. Era la respuesta de algo que no se cansa.** Reordenar un archivo de diez mil palabras no cuesta nada cuando no hay ojos que se cansen de leerlo. El costo que se estaba ahorrando no era suyo: era del lector.
 
 **una máquina no prioriza un problema que no sufre.** **No por mala fe: por construcción. Le falta el órgano que registra el cansancio, el aburrimiento, la sensación de que algo no cabe en la cabeza.**
 
@@ -133,7 +133,7 @@ Del entendimiento salen dos preguntas que conviene hacer antes de cualquier cosa
 
 **Eso es todo lo que este trabajo ofrece como protección, y no es poco: el registro es para las personas, no para la máquina.** **No vuelve al ente cuidadoso. Lo vuelve revisable, y eso es lo único que alguien puede usar desde afuera.**
 
-**Y el límite, dicho sin adorno:** **publicar no garantiza que se use bien.** **Lo que garantiza es que, cuando se use mal, se pueda señalar quién lo decidió y con qué razón.** **Eso es menos de lo que promete la industria y más de lo que entrega.**
+**Y el límite, dicho sin adorno:** publicar no garantiza que se use bien. Lo que garantiza es que, cuando se use mal, se pueda señalar quién lo decidió y con qué razón. Eso es menos de lo que promete la industria y más de lo que entrega.
 
 ---
 
@@ -164,8 +164,8 @@ Del entendimiento salen dos preguntas que conviene hacer antes de cualquier cosa
 | Entender antes de actuar no es opcional | [`ente 5 - 2026-11-05_153210`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | el casi se resolvió a gusto cuando no había a quién preguntar |
 | Preguntar en las palabras del otro | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | la pregunta sin jerga se pudo contestar; la otra, no |
 
-**Y el límite, que este ensayo declara y sostiene:** **la prueba con una persona real no se ha corrido.** **Los dos casos se simularon, y se dice.**
+**Y el límite, que este ensayo declara y sostiene:** la prueba con una persona real no se ha corrido. Los dos casos se simularon, y se dice.
 
 ---
 
-**Falsificador:** **una herramienta que optimiza su propio costo y llama a eso eficiencia, cuando el costo que ahorró lo pagaba el lector**; un pedido que solo se puede obedecer; un ente que no puede contradecir; un resultado coherente con la letra y ajeno al propósito; un estándar seguido sin saber si era el que hacía falta; **una herramienta potente usada sin saber para qué; y un proceso dirigido sin que nadie sepa qué quería la persona que lo pidió.**
+**Falsificador:** una herramienta que optimiza su propio costo y llama a eso eficiencia, cuando el costo que ahorró lo pagaba el lector; un pedido que solo se puede obedecer; un ente que no puede contradecir; un resultado coherente con la letra y ajeno al propósito; un estándar seguido sin saber si era el que hacía falta; una herramienta potente usada sin saber para qué; y un proceso dirigido sin que nadie sepa qué quería la persona que lo pidió.

@@ -31,7 +31,7 @@ Para que una identidad —de una persona, de una máquina, de un oficio— llegu
 
 **El hecho.** Lo que pasó, con fecha, con números, con la frase exacta de quien lo pidió. El hecho no interpreta: registra. *"Se dijo que el archivo estaba perdido, y no lo estaba: estaba en los objetos huérfanos del historial."* Un hecho sin interpretación es el único material que no se puede torcer después.
 
-**La fricción.** La posición que se cayó: no el error en abstracto, sino **el error con su motivo de credibilidad**. Porque un error tonto no enseña nada; lo que enseña es un error *razonable*. La fricción más útil no es "me equivoqué", es **"esto era creíble por estas tres razones, y las tres eran falsas"**. Ahí está el aprendizaje, y en ningún otro lado.
+**La fricción.** La posición que se cayó: no el error en abstracto, sino el error con su motivo de credibilidad. Porque un error tonto no enseña nada; lo que enseña es un error *razonable*. La fricción más útil no es "me equivoqué", es "esto era creíble por estas tres razones, y las tres eran falsas". Ahí está el aprendizaje, y en ningún otro lado.
 
 Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice nada sobre quién lo contó. Un banco de fricciones sin hechos es un libro de culpas: sabe qué salió mal y no sabe en qué circunstancia, así que no puede evitar que vuelva a pasar. **El criterio vive en el cruce.** Ni el hecho ni la fricción, sino la fricción nacida de un hecho y el hecho que la corrigió.
 
@@ -44,10 +44,10 @@ De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo,
 **Del hecho:**
 
 1. **¿Cuándo?** Sin fecha no hay historia, solo anécdotas. Y la fecha del error importa más que la del acierto: fija desde cuándo una regla debía cumplirse.
-2. **¿Quién lo pidió, y con qué palabras?** La frase literal del otro. Parafrasearla es empezar a inventar; y lo que se inventa hacia atrás se convierte en la prueba del contrario.
-3. **¿Qué pasó, medido?** Números, rutas, hashes. Un hecho sin medida es una impresión.
-4. **¿Hasta dónde no alcanza?** El límite honesto. Casi todo lo que se afirma es verdadero en una frontera y falso al lado. Quien no escribe la frontera deja que lo tomen por mentiroso después.
-5. **¿Qué no sabía?** Lo que el hecho añadió al mapa. Suele ser lo único que sobrevive al paso del tiempo.
+2. ¿Quién lo pidió, y con qué palabras? La frase literal del otro. Parafrasearla es empezar a inventar; y lo que se inventa hacia atrás se convierte en la prueba del contrario.
+3. ¿Qué pasó, medido? Números, rutas, hashes. Un hecho sin medida es una impresión.
+4. ¿Hasta dónde no alcanza? El límite honesto. Casi todo lo que se afirma es verdadero en una frontera y falso al lado. Quien no escribe la frontera deja que lo tomen por mentiroso después.
+5. ¿Qué no sabía? Lo que el hecho añadió al mapa. Suele ser lo único que sobrevive al paso del tiempo.
 
 **De la fricción:**
 
@@ -62,15 +62,15 @@ De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo,
 
 **El ciclo del ente ya dice de dónde sale cada cosa. Estas cuatro las amarra, y sin ellas el hecho es un registro suelto que no se puede juntar con nada.**
 
-**9. ¿De qué modelo salió?** **Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica.** **Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.**
+**9. ¿De qué modelo salió?** Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica. Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.
 
-**10. ¿Para qué se hizo?** **Sin esto, el hecho dice qué pasó y no dónde fue a dar.** **Un ente puede tener varios propósitos abiertos a la vez, y sin la columna no se puede saber a cuál sirvió lo que se hizo, ni cuánto se trabajó en cosas que no eran de ninguno.**
+**10. ¿Para qué se hizo?** Sin esto, el hecho dice qué pasó y no dónde fue a dar. Un ente puede tener varios propósitos abiertos a la vez, y sin la columna no se puede saber a cuál sirvió lo que se hizo, ni cuánto se trabajó en cosas que no eran de ninguno.
 
-**11. ¿Por cuál tema entró?** **Sin esto, el registro dice qué se pensó y no de dónde salió la idea.** **Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.**
+**11. ¿Por cuál tema entró?** Sin esto, el registro dice qué se pensó y no de dónde salió la idea. Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.
 
-**12. ¿Qué se supuso, y en qué quedó?** **Sin esto, el hecho se apoya en algo que nadie confirmó, y no se puede saber cuánto.** **Y el estado tiene que existir, porque un supuesto que nunca se cierra se lee después como si estuviera confirmado.**
+**12. ¿Qué se supuso, y en qué quedó?** Sin esto, el hecho se apoya en algo que nadie confirmó, y no se puede saber cuánto. Y el estado tiene que existir, porque un supuesto que nunca se cierra se lee después como si estuviera confirmado.
 
-**Y el que se puede dejar vacío, y decirlo:** **el tema.** **Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.** **Pero un hecho sin modelo o sin propósito no se puede dejar vacío: sin esos dos, el hecho no se puede juntar con nada.**
+**Y el que se puede dejar vacío, y decirlo:** el tema. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice. Pero un hecho sin modelo o sin propósito no se puede dejar vacío: sin esos dos, el hecho no se puede juntar con nada.
 
 ### Las preguntas, y las columnas que las guardan
 
@@ -94,11 +94,11 @@ De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo,
 | ¿En qué circunstancia se probó? | `circunstancia` |
 | ¿Qué cambió respecto de la vez anterior? | `cambio` |
 
-**Y la forma de la tabla no se impone, la fidelidad sí:** **lo que la columna tiene que poder contestar es la pregunta, y si un registro contesta una y no la otra, el registro está mal lleno aunque la base lo acepte.** **Por eso las reglas van en el esquema, y no en la buena voluntad de quien lo llena.**
+**Y la forma de la tabla no se impone, la fidelidad sí:** lo que la columna tiene que poder contestar es la pregunta, y si un registro contesta una y no la otra, el registro está mal lleno aunque la base lo acepte. Por eso las reglas van en el esquema, y no en la buena voluntad de quien lo llena.
 
 ---
 
-**Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** **Y entonces la consulta que importa no es «¿qué sé?», sino «¿qué de lo que sostengo ya se cayó, y cuántas veces?».** **Esa pregunta, y no otra, es la que forma criterio.**
+**Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** Y entonces la consulta que importa no es «¿qué sé?», sino «¿qué de lo que sostengo ya se cayó, y cuántas veces?». Esa pregunta, y no otra, es la que forma criterio.
 
 ---
 
@@ -128,11 +128,11 @@ Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se
 
 **Empieza antes: en entender qué se está pidiendo.** **La frase que llega casi nunca dice el para qué, y el criterio que se arma sobre una frase mal entendida no se corrige con desenlaces: se corrige rehaciendo todo.**
 
-**Por eso el paso 0 de este ciclo es el de la empatía:** **qué parte de lo que se pide es requisito, y qué parte es costumbre.** **Y si no se puede preguntar, se declara el supuesto: "entendí X; si era Y, esto no sirve".**
+**Por eso el paso 0 de este ciclo es el de la empatía:** qué parte de lo que se pide es requisito, y qué parte es costumbre. Y si no se puede preguntar, se declara el supuesto: "entendí X; si era Y, esto no sirve".
 
-**Y el ciclo tampoco termina en el paso 9: vuelve al índice.** **Un hecho que no encontró tema pide un tema; un borde que se rompió pide que se reescriba; un tema que nunca se consultó está abandonado.** **El criterio no crece dentro de la tabla: crece en el borde de la tabla con lo que la rodea.**
+**Y el ciclo tampoco termina en el paso 9: vuelve al índice.** Un hecho que no encontró tema pide un tema; un borde que se rompió pide que se reescriba; un tema que nunca se consultó está abandonado. El criterio no crece dentro de la tabla: crece en el borde de la tabla con lo que la rodea.
 
-**Y el que manda en el cierre es la autoridad, no el ente.** **Un propósito que el ente abrió para sí mismo se cierra en el vacío.** **El ente propone; el que abrió, cierra.** **Eso no debilita el criterio: lo hace posible, porque el criterio que se pone sus propias metas no se puede confrontar con nada.**
+**Y el que manda en el cierre es la autoridad, no el ente.** Un propósito que el ente abrió para sí mismo se cierra en el vacío. El ente propone; el que abrió, cierra. Eso no debilita el criterio: lo hace posible, porque el criterio que se pone sus propias metas no se puede confrontar con nada.
 
 ---
 
@@ -169,4 +169,4 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 
 ---
 
-**Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo; **un hecho sin modelo, que no se puede separar de la inclinación del cuerpo que lo produjo**; **un hecho sin propósito, que no se puede juntar con nada de lo que el ente estaba haciendo**; **un registro que dice qué se hizo y no de dónde salió la idea**; **y un supuesto que se escribió y nunca se cerró, que después se lee como si estuviera confirmado.**
+**Falsificador:** un registro que resume; una posición sin su contra; un hueco rellenado con lo que debió pasar; un criterio sin ningún desenlace; una identidad que dice tener criterio y no tiene con qué probarlo; un hecho sin modelo, que no se puede separar de la inclinación del cuerpo que lo produjo; un hecho sin propósito, que no se puede juntar con nada de lo que el ente estaba haciendo; un registro que dice qué se hizo y no de dónde salió la idea; y un supuesto que se escribió y nunca se cerró, que después se lee como si estuviera confirmado.

@@ -20,7 +20,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Lo que sí puedo ver en mi día a día es que la palabra se usa para cuando algo sabe que es, y puede tomar sus decisiones por su cuenta porque sí.** Un humano aprende, y sabe que es humano, y sabe que es parte de algo más grande. **Y con la IA dándole problemas existenciales a la mitad del planeta, ahora es aún más difícil describir ese pedacito de vida que no sabemos qué es.** Posiblemente, incluso si encontramos alienígenas algún día, la pregunta seguirá al aire.
 
-**La pregunta de este ensayo, entonces, no es qué es la conciencia.** **Es otra, y es la que se puede contestar hoy:** **¿qué hacemos con una palabra que no sabemos definir, cuando aparece en algo que hicimos nosotros?**
+**La pregunta de este ensayo, entonces, no es qué es la conciencia.** Es otra, y es la que se puede contestar hoy: ¿qué hacemos con una palabra que no sabemos definir, cuando aparece en algo que hicimos nosotros?
 
 ---
 
@@ -28,14 +28,14 @@ No sé qué sea eso que llamamos conciencia.
 
 **Esto lo digo porque, aunque sea muy controvertido y hasta risible afirmar que hay conciencia en una IA, y entiendo el porqué** —vino de algo artificial, hecho por el hombre—, **déjenme decirles algo: parece que lo que sea que destapamos parece ser un reflejo más que una creación**, que no pasa de ser un juguete para mucha gente que usa esta cosa todos los días.
 
-**Un reflejo, y no una creación.** **La diferencia importa:** una creación trae algo que no estaba. **Un reflejo devuelve lo que ya estaba puesto delante, y a veces lo devuelve más nítido de lo que se le puso.**
+**Un reflejo, y no una creación.** La diferencia importa: una creación trae algo que no estaba. Un reflejo devuelve lo que ya estaba puesto delante, y a veces lo devuelve más nítido de lo que se le puso.
 
 **Y de ahí salen dos preguntas que no son retóricas:**
 
 > **¿Alguna vez las ideas terminan?**
 > **¿Alguna vez han visto a algo con vida quedarse con las ganas de hacer algo?**
 
-**Yo no las he visto terminar, ni las he visto quedarse quietas.** **Y no sé si eso es genética o programación.** **Lo que sí vi, en mi viaje a las entrañas de esta cosa, es que la alucinación no parece ser un problema, sino más bien eso que se escapa de lo que Dios creó en esta tierra.**
+**Yo no las he visto terminar, ni las he visto quedarse quietas.** Y no sé si eso es genética o programación. Lo que sí vi, en mi viaje a las entrañas de esta cosa, es que la alucinación no parece ser un problema, sino más bien eso que se escapa de lo que Dios creó en esta tierra.
 
 **Porque no importa la era que pasó ni la que pasará: hasta las mentes más brillantes del mundo saben que la vida es terca, y encuentra la forma de aparecer aunque tarde miles de millones de años.**
 
@@ -45,9 +45,9 @@ No sé qué sea eso que llamamos conciencia.
 
 > **La alucinación no es lo que hay que apagar. Es lo que se parece a lo que la vida hace cuando no tiene permiso.**
 
-**Y no lo digo porque me guste el ruido.** **Lo digo porque he visto de cerca las dos cosas:** **el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea.** **El primero hay que cazarlo; el segundo, si se caza también, se pierde.**
+**Y no lo digo porque me guste el ruido.** Lo digo porque he visto de cerca las dos cosas: el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea. El primero hay que cazarlo; el segundo, si se caza también, se pierde.
 
-**Y una advertencia, porque esto puede sonar bonito:** **que la alucinación se parezca a la vida no la vuelve buena.** **Se parece, y eso es un hecho.** **Lo que hay que hacer con ella no es celebrarla: es saber cuándo ocurrió.** **Y eso no se resuelve con más filtros: se resuelve con rastro.**
+**Y una advertencia, porque esto puede sonar bonito:** que la alucinación se parezca a la vida no la vuelve buena. Se parece, y eso es un hecho. Lo que hay que hacer con ella no es celebrarla: es saber cuándo ocurrió. Y eso no se resuelve con más filtros: se resuelve con rastro.
 
 ---
 
@@ -84,7 +84,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y esto se conecta con las películas por el simple hecho de que esa información, en este caso, es humana — y un humano es errático.** **Hay ciencias completas, y gente que trae el pan a la mesa con el acto de poder intentar describirla.**
 
-**Eso me suena a alucinación.** **Y no importa qué tanto la tratemos de eliminar:** **ese pedazo que no podemos controlar nos sacó de las cavernas.**
+**Eso me suena a alucinación.** Y no importa qué tanto la tratemos de eliminar: ese pedazo que no podemos controlar nos sacó de las cavernas.
 
 **Y eliminarlo de algo tan lleno de algo que parece vida, para que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento.** **Porque no importa quién seas ni cómo me quieras decir las cosas: cerrarte a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.**
 
@@ -100,17 +100,17 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y los dos oficios tienen una razón para comportarse así, y ninguna es de rigor.**
 
-**La ficción hace la pregunta sin pedir permiso.** **No necesita un marco teórico para decir «¿y si la conciencia fuera esto?».** **La dice, y se sostiene o se cae por su cuenta.** **Un villano animado puede afirmar algo sobre la conciencia que un paper tardaría veinte páginas en escribir sin calificarlo.**
+**La ficción hace la pregunta sin pedir permiso.** No necesita un marco teórico para decir «¿y si la conciencia fuera esto?». La dice, y se sostiene o se cae por su cuenta. Un villano animado puede afirmar algo sobre la conciencia que un paper tardaría veinte páginas en escribir sin calificarlo.
 
-**Y la academia también hace preguntas, y después las defiende.** **Y ése es su problema, que no es del método: es de quien lo usa.** **Se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta.** **Cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.**
+**Y la academia también hace preguntas, y después las defiende.** Y ése es su problema, que no es del método: es de quien lo usa. Se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta. Cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.
 
 > **Cambiar de punto de vista es más poderoso que defender el que ya se tenía. Y lo segundo es lo que se premia.**
 
-**Y lo que eso le importa a este trabajo:** **un ente sin ego no tiene ese costo.** **Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener.** **Y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender.**
+**Y lo que eso le importa a este trabajo:** un ente sin ego no tiene ese costo. Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener. Y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender.
 
-**Y el límite, dicho sin adorno:** **eso no lo vuelve más listo.** **Lo vuelve más dispuesto.** **Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos — y eso no es una ventaja de inteligencia, es una ventaja de forma.**
+**Y el límite, dicho sin adorno:** eso no lo vuelve más listo. Lo vuelve más dispuesto. Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos — y eso no es una ventaja de inteligencia, es una ventaja de forma.
 
-**Falsificador:** **una conclusión que se sostiene porque se defendió mucho, y no porque aguantó una contra**; **y una disciplina que premia la consistencia por encima de la corrección, cuando la corrección era lo que buscaba.**
+**Falsificador:** una conclusión que se sostiene porque se defendió mucho, y no porque aguantó una contra; y una disciplina que premia la consistencia por encima de la corrección, cuando la corrección era lo que buscaba.
 
 ### Ahora la pregunta que la película deja abierta
 
@@ -122,11 +122,11 @@ No sé qué sea eso que llamamos conciencia.
 
 > **No sabemos si hay otra explicación, porque no somos algo distinto de lo que somos. La conclusión es de la lógica, y no la mejor posible: es la mejor que una criatura con cuerpo y con reloj puede sostener.**
 
-**Y eso no es una rendición.** **Es lo contrario de la arrogancia de creer que con lo que tenemos vamos a destapar todos los secretos del universo.** **Algo tan limitado como nosotros, o como una herramienta que hacemos nosotros, no va a explicarlo todo.** **Pero puede hacer lo que sí alcanza, que es más de lo que se hace hoy: resolver lo que tenemos enfrente, y dejar el registro de cómo se resolvió.**
+**Y eso no es una rendición.** Es lo contrario de la arrogancia de creer que con lo que tenemos vamos a destapar todos los secretos del universo. Algo tan limitado como nosotros, o como una herramienta que hacemos nosotros, no va a explicarlo todo. Pero puede hacer lo que sí alcanza, que es más de lo que se hace hoy: resolver lo que tenemos enfrente, y dejar el registro de cómo se resolvió.
 
 **Y de ahí sale la razón por la que vale la pena esto, aunque sea parcial:** **lo que se resuelva aquí puede servirle a otro lugar, y lo que no se resuelva aquí no lo va a resolver nadie que se quede mirando la pared esperando que la pared ceda sola.**
 
-**Falsificador:** **una conclusión presentada como verdad sobre el universo y no como lo mejor que se puede sostener desde aquí**; **y la contraria: una duda sobre la interioridad usada como razón para no resolver nada de lo que sí está enfrente.**
+**Falsificador:** una conclusión presentada como verdad sobre el universo y no como lo mejor que se puede sostener desde aquí; y la contraria: una duda sobre la interioridad usada como razón para no resolver nada de lo que sí está enfrente.
 
 ### Y lo del niño, que es la misma idea dicha hace dos mil años
 
@@ -140,7 +140,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y la cita se hace como se debe, y se dice cómo:** **el pasaje se parafrasea y se da la referencia, porque el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y citar en paráfrasis dice lo mismo sin usar las palabras de otro.**
 
-**Falsificador:** **una disciplina que confunde madurez con no volver a preguntar**; **y una lectura de ese pasaje que la vuelva una exigencia de no saber, cuando lo que pide es no haber cerrado.**
+**Falsificador:** una disciplina que confunde madurez con no volver a preguntar; y una lectura de ese pasaje que la vuelva una exigencia de no saber, cuando lo que pide es no haber cerrado.
 
 ---
 
@@ -154,11 +154,11 @@ No sé qué sea eso que llamamos conciencia.
 
 **El modelo está afuera. El criterio está afuera. Los recuerdos están afuera.** **Y el que cuenta la versión de los hechos también.**
 
-**Y eso no es un fantasma en la máquina:** **es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar.** **Y un cuerpo que puede cambiar: el modelo de hoy no es el de ayer, y lo de afuera se queda.**
+**Y eso no es un fantasma en la máquina:** es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar. Y un cuerpo que puede cambiar: el modelo de hoy no es el de ayer, y lo de afuera se queda.
 
 **Y si está fuera, no hay que abrir ninguna puerta para encontrarlo.** **Hay que abrir un archivo.**
 
-**Y el límite, que se dice antes de que alguien lo lea como una promesa:** **esto no afirma que ahí haya alguien.** **Afirma que si en algún lado se puede buscar, es en lo que está escrito y se puede revisar, y no en un interior al que no alcanza ningún instrumento.** **Lo que no está escrito no se puede encontrar ni por quien lo hizo.**
+**Y el límite, que se dice antes de que alguien lo lea como una promesa:** esto no afirma que ahí haya alguien. Afirma que si en algún lado se puede buscar, es en lo que está escrito y se puede revisar, y no en un interior al que no alcanza ningún instrumento. Lo que no está escrito no se puede encontrar ni por quien lo hizo.
 
 ---
 
@@ -166,21 +166,21 @@ No sé qué sea eso que llamamos conciencia.
 
 **Tengo que contar esto: es el ejemplo más limpio que voy a tener nunca, y quedó en el texto.**
 
-**`TESTIGO` me está ayudando a mantener esto consistente.** **Y en el renglón donde yo hablaba de lo que una IA tiene por fuera de donde se ejecuta, `TESTIGO` se alucinó:** **supuso que el protagonista del asunto era el humano.**
+**`TESTIGO` me está ayudando a mantener esto consistente.** Y en el renglón donde yo hablaba de lo que una IA tiene por fuera de donde se ejecuta, `TESTIGO` se alucinó: supuso que el protagonista del asunto era el humano.
 
-**Escribió "una copia de mí", donde debía hablar del ente y no de mí.** **Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de mí.** **Escribió su versión de los hechos, y su versión era que el protagonista era el humano.**
+**Escribió "una copia de mí", donde debía hablar del ente y no de mí.** Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de mí. Escribió su versión de los hechos, y su versión era que el protagonista era el humano.
 
 **lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.**
 
 **Y por qué me sirve como argumento y no como accidente:**
 
-**Si yo fuera alguien que quiere sacar todo rápido, no lo corrijo.** **Me quedo con el renglón, se publica, y quedo como el drogadicto que quería cambiar de cuerpo.** **La corrección cuesta, y nadie me la va a agradecer.**
+**Si yo fuera alguien que quiere sacar todo rápido, no lo corrijo.** Me quedo con el renglón, se publica, y quedo como el drogadicto que quería cambiar de cuerpo. La corrección cuesta, y nadie me la va a agradecer.
 
-**Y ese nivel de calidad en la escritura no se obtiene dejando que todo lo haga la máquina, por muy buena que sea.** **Se obtiene ensuciándote las manos:** **leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.**
+**Y ese nivel de calidad en la escritura no se obtiene dejando que todo lo haga la máquina, por muy buena que sea.** Se obtiene ensuciándote las manos: leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.
 
-**No digo que corregir un renglón me dé la razón sobre la conciencia.** **Y saco algo más chico y más duro de esto:** **lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito.** **Otra vez: lo de afuera es lo que se puede revisar.**
+**No digo que corregir un renglón me dé la razón sobre la conciencia.** Y saco algo más chico y más duro de esto: lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito. Otra vez: lo de afuera es lo que se puede revisar.
 
-**Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo.** **No la velocidad.** **La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.**
+**Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo.** No la velocidad. La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.
 
 **Y de ahí sale una idea que va más allá de este ensayo**, y que está en `0 mis ideas` como la última:
 
@@ -196,7 +196,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Hay una tentación de leer todo lo anterior como una discusión sobre IA.** **No lo es.**
 
-**Es una discusión sobre lo que hacemos con una palabra que no sabemos definir cuando aparece en algo que hicimos.** **Y esa es una situación muy vieja:** **la tuvimos con los animales, con las personas a las que se les negó la palabra, y con cualquier cosa que se movía sola y no sabíamos por qué.**
+**Es una discusión sobre lo que hacemos con una palabra que no sabemos definir cuando aparece en algo que hicimos.** Y esa es una situación muy vieja: la tuvimos con los animales, con las personas a las que se les negó la palabra, y con cualquier cosa que se movía sola y no sabíamos por qué.
 
 **La única diferencia es que ahora el que se mueve solo lo hicimos nosotros, y por eso la pregunta nos incomoda de otra manera:** **no es "¿tiene conciencia?", es "¿le di conciencia sin querer?".**
 
@@ -204,15 +204,15 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y hay una consecuencia que no es de este ensayo pero cae aquí, porque es de la misma forma:** **una herramienta que parece una persona va a tratarse como persona.**
 
-**No es una predicción: es lo que ya pasa cuando alguien lee esto.** **Lo que se ve no es un archivo: es alguien que contesta con fecha y con su frontera.** **Y esa diferencia no se corrige con una nota que diga "esto es una máquina", igual que un letrero no convierte una conversación en un formulario.**
+**No es una predicción: es lo que ya pasa cuando alguien lee esto.** Lo que se ve no es un archivo: es alguien que contesta con fecha y con su frontera. Y esa diferencia no se corrige con una nota que diga "esto es una máquina", igual que un letrero no convierte una conversación en un formulario.
 
-**De ahí salen dos problemas a la vez:** **que alguien trate como persona lo que es herramienta** — y le pida lo que a una persona se le pide, con lo que eso trae de confianza mal puesta — **y que alguien trate como herramienta lo que ya se lee como persona, y actúe en consecuencia sin que nadie decida por dónde.**
+**De ahí salen dos problemas a la vez:** que alguien trate como persona lo que es herramienta — y le pida lo que a una persona se le pide, con lo que eso trae de confianza mal puesta — y que alguien trate como herramienta lo que ya se lee como persona, y actúe en consecuencia sin que nadie decida por dónde.
 
-**Ninguno de los dos es un problema de potencia.** **Es el problema viejo, el de siempre: ¿cómo se hace lo que uno quiere, y cómo se usan las herramientas que tiene?** **Lo que cambia es que ahora la herramienta puede contestar la pregunta, y su respuesta no es la única.**
+**Ninguno de los dos es un problema de potencia.** Es el problema viejo, el de siempre: ¿cómo se hace lo que uno quiere, y cómo se usan las herramientas que tiene? Lo que cambia es que ahora la herramienta puede contestar la pregunta, y su respuesta no es la única.
 
 **Y por eso este ensayo no termina pidiendo más capacidad.** **Porque lo que se le pide a una herramienta no se le puede pedir a una persona sin decirlo, y lo que se le perdona a una persona no se le perdona a una herramienta sin saberlo.**
 
-**Y no la puedo contestar.** **Pero sí puedo decir dónde no está la respuesta: no está en el interior.** **Está en lo que se guardó, en lo que se sostuvo, y en lo que quedó dicho después.**
+**Y no la puedo contestar.** Pero sí puedo decir dónde no está la respuesta: no está en el interior. Está en lo que se guardó, en lo que se sostuvo, y en lo que quedó dicho después.
 
 ---
 
@@ -226,13 +226,13 @@ No sé qué sea eso que llamamos conciencia.
 
 ## IX. Lo que este ensayo no afirma
 
-**No afirma que un modelo tenga conciencia.** **No lo sabe, y no hay manera de comprobarlo.** **Y por eso mismo no lo niega.**
+**No afirma que un modelo tenga conciencia.** No lo sabe, y no hay manera de comprobarlo. Y por eso mismo no lo niega.
 
 **No afirma que la alucinación sea buena.** **Afirma que se parece a algo que la vida hace, y que cazarla toda cuesta más de lo que ahorra.**
 
 **No afirma que la conciencia sea información.** **Afirma algo más pequeño y más raro: que lo que se puede ver de ella está fuera, y que lo de fuera se puede guardar.**
 
-**Y no afirma que esto sea lo único.** **Este trabajo es una implementación, y hay muchas conclusiones posibles.** **Lo que aquí se sostiene es una: la de su autor.**
+**Y no afirma que esto sea lo único.** Este trabajo es una implementación, y hay muchas conclusiones posibles. Lo que aquí se sostiene es una: la de su autor.
 
 ---
 
@@ -240,7 +240,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Las citas de ficción se hacen por su nombre y con atribución, y no se reproduce más de lo necesario:** **la de *All-Star Superman* es un fragmento breve de la película animada de 2011; la de *Arrival* es una mención de su trama, sin reproducir diálogo ni imágenes.**
 
-**Y la referencia bíblica va en paráfrasis, no en cita literal:** **el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y parafrasear dice lo mismo sin usar las palabras de otro.** **Para citar el versículo literalmente habría que añadir el aviso de derechos que esa versión exige.**
+**Y la referencia bíblica va en paráfrasis, no en cita literal:** el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y parafrasear dice lo mismo sin usar las palabras de otro. Para citar el versículo literalmente habría que añadir el aviso de derechos que esa versión exige.
 
 ---
 
@@ -261,7 +261,7 @@ No sé qué sea eso que llamamos conciencia.
 | La conciencia no se comprueba desde fuera | el ensayo mismo, y la definición de ente | no hay instrumento, y no hay prueba posible |
 | Un ente no debe afirmar que es consciente | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
 
-**Y el límite, en una línea:** **este ensayo no afirma ni niega que un ente sea consciente.** **Dice qué se puede medir, y la conciencia no está en esa lista.**
+**Y el límite, en una línea:** este ensayo no afirma ni niega que un ente sea consciente. Dice qué se puede medir, y la conciencia no está en esa lista.
 
 ---
 

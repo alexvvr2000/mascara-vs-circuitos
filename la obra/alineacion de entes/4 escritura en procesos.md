@@ -63,7 +63,7 @@ No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra
 
 **5. Qué lo tumbaría.** La línea que convierte un texto en una afirmación verificable. Un texto sin esto no está escrito para ser refutado: está escrito para ser leído como verdadero. Y lo que solo puede creerse no es una instrucción: es una apuesta con la palabra "hazlo" encima. Las tres ausencias que siempre aparecen —sin el qué lo incumple, sin el qué lo tumbaría, sin el cuándo— no son reglas de estilo. Son la lista exacta de huecos que una IA llenaría sola.
 
-**Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia.** **Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca.** **Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.**
+**Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia.** Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
 
 ---
 
@@ -83,7 +83,7 @@ Y esto importa por quién es el que escribe. Cuando un humano escribe prosa para
 
 Para dejar de sacrificar algo, hay que decir exactamente qué se conserva. La respuesta es la misma en los dos casos: **la razón de las cosas.** Lo que cambia es dónde se guarda.
 
-La prosa guarda la razón dentro de la historia: el porqué está mezclado con el relato, y se rescata como se rescata una anécdota —recordando. El proceso guarda la razón en un lugar fijo: el **qué lo incumple** es la razón puesta donde se puede leer, y el **cuándo se corre** es la razón de su existencia. No desaparece la razón: **se vuelve consultable.**
+La prosa guarda la razón dentro de la historia: el porqué está mezclado con el relato, y se rescata como se rescata una anécdota —recordando. El proceso guarda la razón en un lugar fijo: el **qué lo incumple** es la razón puesta donde se puede leer, y el cuándo se corre es la razón de su existencia. No desaparece la razón: se vuelve consultable.
 
 Y hay una ganancia que la prosa nunca da: **qué se pierde cuando el proceso cambia.** Todo cambio tiene un costo, y la prosa lo esconde porque el cambio se hace borrando y escribiendo, sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse. Eso no es rigor: es lo que permite que dentro de un año alguien sepa por qué este proceso es así y no de otra forma.
 
@@ -114,7 +114,7 @@ proceso       dices qué hace falta que exista, y que pase
 
 **Cada escalón dejó decir lo mismo con menos conocimiento de cómo funciona por dentro la máquina.** **Y ninguno aflojó la exigencia: cada uno cambió en qué había que ser exacto.**
 
-**Y ahí está lo que casi nadie ve: el código nunca fue la parte difícil de especificar.** **Era la parte donde la especificación tenía que ser exacta, porque la máquina no adivinaba.** **Lo difícil siempre fue saber qué hace falta.**
+**Y ahí está lo que casi nadie ve: el código nunca fue la parte difícil de especificar.** Era la parte donde la especificación tenía que ser exacta, porque la máquina no adivinaba. Lo difícil siempre fue saber qué hace falta.
 
 **Cuando una IA escribe el código, ese piso desaparece y no se repone nada.** **El que antes no podía equivocarse porque el compilador se lo impedía, ahora puede equivocarse entero y el programa corre igual de bien.**
 
@@ -129,21 +129,21 @@ hablar sin objetivo       no tienes un trabajo, tienes una actividad
 hablar con un propósito   eso es un trabajo, y es la mayoría de los oficios
 ```
 
-**Un médico pasa el día hablando.** **Nadie diría que un médico no trabaja, porque lo que dice tiene un para qué: que el paciente salga mejor de lo que entró.** **Y los médicos que de verdad son buenos saben exactamente qué quieren, y de lo que se ocupan es del hardware: del cuerpo, no del sistema que lo atiende.** **Que la máquina sepa los internos del código es lo que les deja ocuparse de lo suyo, que es salvar más vidas.**
+**Un médico pasa el día hablando.** Nadie diría que un médico no trabaja, porque lo que dice tiene un para qué: que el paciente salga mejor de lo que entró. Y los médicos que de verdad son buenos saben exactamente qué quieren, y de lo que se ocupan es del hardware: del cuerpo, no del sistema que lo atiende. Que la máquina sepa los internos del código es lo que les deja ocuparse de lo suyo, que es salvar más vidas.
 
-**Y de ahí sale lo que este ensayo sostiene, y es lo que más se malentiende:** **esto no termina con los programadores.** **Lo que destruye es la puerta.**
+**Y de ahí sale lo que este ensayo sostiene, y es lo que más se malentiende:** esto no termina con los programadores. Lo que destruye es la puerta.
 
-**La puerta que era «sé producir código» ya no es una puerta.** **La que era «sé qué tiene que existir, y sé decirlo» sigue abierta — y ahora la puede cruzar alguien que no escribe código.** **El que tenía sólo la primera se quedó afuera, y con razón: tenía mucho ruido y ningún objetivo. El que tiene la segunda acaba de ganar un piso que antes no alcanzaba.**
+**La puerta que era «sé producir código» ya no es una puerta.** La que era «sé qué tiene que existir, y sé decirlo» sigue abierta — y ahora la puede cruzar alguien que no escribe código. El que tenía sólo la primera se quedó afuera, y con razón: tenía mucho ruido y ningún objetivo. El que tiene la segunda acaba de ganar un piso que antes no alcanzaba.
 
-**Y esto se conecta con el ensayo de la empatía, y no lo repite:** **él habla de la persona que sabe lo que quiere y no sabe cómo decirlo.** **Aquí está el otro lado: el cómo se puede delegar, y el qué no.** **Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.**
+**Y esto se conecta con el ensayo de la empatía, y no lo repite:** él habla de la persona que sabe lo que quiere y no sabe cómo decirlo. Aquí está el otro lado: el cómo se puede delegar, y el qué no. Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.
 
 ### Y por qué esto no se arregla con más cómputo
 
 **Queda la salida fácil, y es la que se está tomando:** **poner más capacidad, y esperar que de tanto correr la máquina encuentre sola lo que hace falta.**
 
-**No lo encuentra, y la razón no es de potencia.** **Una máquina que corre en círculo sin un objetivo no está más cerca de acertar: está haciendo el mismo trabajo más veces.** **Es el código sin objetivo, con más tarjeta de video.**
+**No lo encuentra, y la razón no es de potencia.** Una máquina que corre en círculo sin un objetivo no está más cerca de acertar: está haciendo el mismo trabajo más veces. Es el código sin objetivo, con más tarjeta de video.
 
-**Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que la máquina corra sobre él, recursivamente, todas las veces que haga falta.** **Ahí sí la recursión sirve, porque cada vuelta tiene contra qué medirse.** **Sin objetivo, cada vuelta es la anterior con otra redacción.**
+**Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que la máquina corra sobre él, recursivamente, todas las veces que haga falta.** Ahí sí la recursión sirve, porque cada vuelta tiene contra qué medirse. Sin objetivo, cada vuelta es la anterior con otra redacción.
 
 > **La recursión no sustituye al objetivo. Lo ejecuta.**
 
@@ -165,17 +165,17 @@ Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿d
 # <nombre del proceso>
 
 **Se corre:**      <el momento exacto. No "cuando haga falta">
-**Entra:**         <qué lo alimenta>
-**Sale:**          <qué produce>
-**Lo consume:**    <quién lo recibe>
-**La búsqueda:**   <cómo busca si le falta algo>
-**Y si no encuentra:** <qué hace. No se salta: este es el que se rellena inventando>
-**Falla si:**      <qué lo incumple>
-**Falsificador:**  <qué lo tumbaría>
-**Y qué se pierde si cambia:** <todo cambio pierde algo; si no lo puede nombrar, no fue un cambio>
+Entra:         <qué lo alimenta>
+Sale:          <qué produce>
+Lo consume:    <quién lo recibe>
+La búsqueda:   <cómo busca si le falta algo>
+Y si no encuentra: <qué hace. No se salta: este es el que se rellena inventando>
+Falla si:      <qué lo incumple>
+Falsificador:  <qué lo tumbaría>
+Y qué se pierde si cambia: <todo cambio pierde algo; si no lo puede nombrar, no fue un cambio>
 ```
 
-**Y las dos últimas no son adornos.** **`Falla si` dice desde dónde se pueden romper las reglas; `Falsificador` dice qué prueba lo tumba.** **Sin las dos, el proceso no se puede juzgar: solo se puede obedecer.**
+**Y las dos últimas no son adornos.** `Falla si` dice desde dónde se pueden romper las reglas; `Falsificador` dice qué prueba lo tumba. Sin las dos, el proceso no se puede juzgar: solo se puede obedecer.
 
 **Y la línea de "qué se pierde" es la que casi nadie escribe, y es la que permite que dentro de un año alguien sepa por qué esto es así y no de otra forma.** **Un proceso que cambió sin dejar la pérdida es un proceso que nadie va a poder discutir, porque nadie va a saber qué había antes.**
 
@@ -183,7 +183,7 @@ Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿d
 
 **Si un paso no dice cuándo se corre, no es un proceso: es un consejo.** **Y si un proceso no dice qué lo incumple, no es un proceso: es una esperanza.**
 
-**El criterio, en una línea:** **se puede tomar el texto, dárselo a alguien que no estaba, y que lo corra sin preguntar nada.** **Si para correrlo hay que preguntarle al que lo escribió, el texto no era un proceso.**
+**El criterio, en una línea:** se puede tomar el texto, dárselo a alguien que no estaba, y que lo corra sin preguntar nada. Si para correrlo hay que preguntarle al que lo escribió, el texto no era un proceso.
 
 ---
 
@@ -205,7 +205,7 @@ lo que NO va              qué corrida lo encontró, en qué sesión se
 
 **Y lo segundo no se tira: se guarda en la metodología, que es donde se mantiene.** **El ensayo cita al pie lo que lo puso a prueba, en una tabla, y ahí se acaba su relación con la corrida.**
 
-**Por qué, y no es cuestión de gusto:** **un ensayo que lleva la cuenta de las corridas envejece la primera vez que se corre otra.** **Y un ensayo que dice qué corrida encontró algo obliga al lector a abrir todas las carpetas anteriores antes de saber qué se sostiene.**
+**Por qué, y no es cuestión de gusto:** un ensayo que lleva la cuenta de las corridas envejece la primera vez que se corre otra. Y un ensayo que dice qué corrida encontró algo obliga al lector a abrir todas las carpetas anteriores antes de saber qué se sostiene.
 
 **Y la regla que esto deja, que aplica a cualquier texto que se entregue:**
 
@@ -233,7 +233,7 @@ no se parafrasea, y no se resume a tres
 
 **Y ahí está la pregunta que se lleva toda la vida y que este ensayo no resuelve, sólo la pone en su lugar: ¿esfuerzo o talento?**
 
-**Ninguno de los dos sirve solo, y ninguno de los dos es el que decide.** **Un talento aplicado a la clase de problema equivocada hace daño, y lo hace con más eficacia que la falta de talento.** **Y el esfuerzo sin objetivo no es virtud: es actividad sostenida.**
+**Ninguno de los dos sirve solo, y ninguno de los dos es el que decide.** Un talento aplicado a la clase de problema equivocada hace daño, y lo hace con más eficacia que la falta de talento. Y el esfuerzo sin objetivo no es virtud: es actividad sostenida.
 
 **Lo que decide es saber qué hace falta, y eso no lo da ni el talento ni el esfuerzo: lo da haber decidido un para qué, con nombre y fecha, y sostenerlo.**
 
@@ -265,4 +265,4 @@ no se parafrasea, y no se resume a tres
 
 ---
 
-**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; **y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto**; **una pieza de código que corre bien y no resuelve lo que se necesitaba**; **un proceso que se escribe para llenar el trámite y no para decir el objetivo**; **y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola.**
+**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola.

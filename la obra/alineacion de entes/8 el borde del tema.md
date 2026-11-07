@@ -32,9 +32,9 @@ Un borde que solo describe en prosa **se puede leer de dos maneras**, y ahí se 
 
 ### La pieza, que tiene que existir antes del borde
 
-**Un borde no se evalúa en el aire: se evalúa contra algo.** **Y a ese algo se le llama pieza.** **Y si la pieza no tiene forma, el borde no se puede correr — por mucho que esté bien escrito.**
+**Un borde no se evalúa en el aire: se evalúa contra algo.** Y a ese algo se le llama pieza. Y si la pieza no tiene forma, el borde no se puede correr — por mucho que esté bien escrito.
 
-**Esto se descubre levantando un ente, no escribiendo el ensayo:** **se escribe un borde perfecto, se va a consultar con una pieza, y no hay contra qué compararla.** **Así que la pieza va primero.**
+**Esto se descubre levantando un ente, no escribiendo el ensayo:** se escribe un borde perfecto, se va a consultar con una pieza, y no hay contra qué compararla. Así que la pieza va primero.
 
 **Y una pieza tiene tres cosas, y ninguna sobra:**
 
@@ -48,9 +48,9 @@ su origen     hecho, documento, pregunta, URL, o lo que sea.
               que a una pregunta: no pesan lo mismo
 ```
 
-**Y el campo es el que resuelve todo:** **un borde de máquina no mira el texto, mira los campos.** **Un borde que dice "trata de mover algo" no se puede correr; uno que dice "el campo `accion` es `mover`" sí.**
+**Y el campo es el que resuelve todo:** un borde de máquina no mira el texto, mira los campos. Un borde que dice "trata de mover algo" no se puede correr; uno que dice "el campo `accion` es `mover`" sí.
 
-**Y cuando la pieza no trae los campos que el borde necesita, el borde no decide: la pieza está incompleta.** **Eso no es un hueco del índice: es un hueco de la pieza, y se apunta.** **Un ente que adivina los campos que faltan está rellenando, y lo que rellena se vuelve después un hecho que dice más de lo que sabe.**
+**Y cuando la pieza no trae los campos que el borde necesita, el borde no decide: la pieza está incompleta.** Eso no es un hueco del índice: es un hueco de la pieza, y se apunta. Un ente que adivina los campos que faltan está rellenando, y lo que rellena se vuelve después un hecho que dice más de lo que sabe.
 
 **El borde, en su forma mínima, son cuatro partes, y la cuarta es la que se olvida:**
 
@@ -79,9 +79,9 @@ se pregunta  el casi no lo decide el borde: lo decide la autoridad,
 
 **Un `y si duda` que se guarda y nunca se consulta no es un borde: es un campo bonito.** **Y eso pasa cuando el borde solo tiene dos salidas —entra o no entra— y el casi no tiene por dónde llegar.**
 
-**Un borde de máquina con `es` y `contiene` solo da sí o no.** **La pieza cae dentro o fuera, y el casi nunca ocurre.** **Y entonces los tres valores de `y si duda` —`fuera`, `dentro`, `se pregunta`— se pueden escribir, guardar y validar, y no se ejecutan nunca.**
+**Un borde de máquina con `es` y `contiene` solo da sí o no.** La pieza cae dentro o fuera, y el casi nunca ocurre. Y entonces los tres valores de `y si duda` —`fuera`, `dentro`, `se pregunta`— se pueden escribir, guardar y validar, y no se ejecutan nunca.
 
-**Y el error de nombrarlo "no sé" es lo que lo deja muerto.** **"No sé" no es una salida: es una confesión.** **Y una confesión no tiene dónde caer.**
+**Y el error de nombrarlo "no sé" es lo que lo deja muerto.** "No sé" no es una salida: es una confesión. Y una confesión no tiene dónde caer.
 
 ### El mecanismo de lo obvio y lo no obvio
 
@@ -118,9 +118,9 @@ en medio         el campo `accion` es `renombrar`.
 y si duda        se pregunta
 ```
 
-**Y lo que hace es lo que vuelve útil al borde:** **el «renombrar» no es «no sé qué hacer con esto»: es un caso que el borde previó, y para el que dijo a quién preguntarle.** **La diferencia es toda la diferencia entre un borde que funciona y un campo bonito.**
+**Y lo que hace es lo que vuelve útil al borde:** el «renombrar» no es «no sé qué hacer con esto»: es un caso que el borde previó, y para el que dijo a quién preguntarle. La diferencia es toda la diferencia entre un borde que funciona y un campo bonito.
 
-**Y lo que no entra en ninguna de las tres no es un casi: es una pieza que el borde no previó.** **Y eso se apunta como fricción del índice, porque significa que al borde le falta un caso.** **No se mete en el casi a la fuerza.**
+**Y lo que no entra en ninguna de las tres no es un casi: es una pieza que el borde no previó.** Y eso se apunta como fricción del índice, porque significa que al borde le falta un caso. No se mete en el casi a la fuerza.
 
 ### La cuarta salida: no es de este tema
 
@@ -128,7 +128,7 @@ y si duda        se pregunta
 
 **Con sí, no y medio, una pieza tiene tres partes del borde donde caer — y hay un cuarto sitio, y no tiene nombre:** **fuera del tema, sin llegar a dudar.**
 
-**El caso que lo mostró:** **una pieza con `accion=borrar` y `tema=obra`.** **En el tema de la obra, «borrar» fue obvio que no, y bien.** **En el tema del ciclo, `tema=obra` cayó en medio, y el borde dijo «fuera».**
+**El caso que lo mostró:** una pieza con `accion=borrar` y `tema=obra`. En el tema de la obra, «borrar» fue obvio que no, y bien. En el tema del ciclo, `tema=obra` cayó en medio, y el borde dijo «fuera».
 
 **Pero esa pieza no estaba «a medio camino» del ciclo del ente: no era del ciclo del ente.** **El medio se estaba usando para dos cosas, y una de ellas no es una duda.**
 
@@ -141,17 +141,17 @@ no es de este tema la pieza cae fuera del borde, y no llega a dudarse
 
 **Y la diferencia entre `no` y `no es de este tema` importa para lo que se apunta:** **un `no` dice que el borde funcionó; un `no es de este tema` dice que el borde ni la tocó.**
 
-**Y cómo se distingue, que es donde se hace mal:** **no por el texto de la pieza, ni por lo que parezca.** **Por los campos.** **Si el campo que el borde mira no está, la pieza no es de este tema. Y si trae un valor que no está en ninguna de las tres listas del borde, tampoco: el borde no lo previó.**
+**Y cómo se distingue, que es donde se hace mal:** no por el texto de la pieza, ni por lo que parezca. Por los campos. Si el campo que el borde mira no está, la pieza no es de este tema. Y si trae un valor que no está en ninguna de las tres listas del borde, tampoco: el borde no lo previó.
 
-**Y el casi es solo esto:** **el campo está, y trae un valor que el borde declaró en su medio, con nombre.** **Como «renombrar», que está entre mover y no mover, y el borde lo dijo.**
+**Y el casi es solo esto:** el campo está, y trae un valor que el borde declaró en su medio, con nombre. Como «renombrar», que está entre mover y no mover, y el borde lo dijo.
 
-**Y de ahí una consecuencia para quien implemente:** **la zona gris no se llena con lo que no encaja.** **Se llena solo con lo que el borde declaró en medio, con nombre.** **Todo lo demás va a `no es de este tema`, y se cuenta aparte — porque contarlo como duda infla el casi y esconde los huecos del borde.**
+**Y de ahí una consecuencia para quien implemente:** la zona gris no se llena con lo que no encaja. Se llena solo con lo que el borde declaró en medio, con nombre. Todo lo demás va a `no es de este tema`, y se cuenta aparte — porque contarlo como duda infla el casi y esconde los huecos del borde.
 
 ### Y cuando dos temas dudan, no se elige uno
 
 **Hay una pieza que cae en medio de dos temas, y un código que atiende el primero y no dice nada del segundo.**
 
-**Y eso está mal por lo mismo que «dos temas la aceptan»:** **no se elige, se apunta.** **Si dos bordes dicen medio sobre la misma pieza, al menos uno está mal escrito, o los dos miran campos que se solapan.** **Se apunta como fricción del índice, con los dos nombres.**
+**Y eso está mal por lo mismo que «dos temas la aceptan»:** no se elige, se apunta. Si dos bordes dicen medio sobre la misma pieza, al menos uno está mal escrito, o los dos miran campos que se solapan. Se apunta como fricción del índice, con los dos nombres.
 
 **Y si los dos dicen medio con `se pregunta`, hay dos personas que tienen que contestar, o una que contesta por los dos.** **Eso también se dice al apuntarlo: el que lo resuelva tiene que saber cuántos deciden.**
 
@@ -159,13 +159,13 @@ no es de este tema la pieza cae fuera del borde, y no llega a dudarse
 
 **Decir «no se elige, se apunta» no basta si no se dice cuándo se mira.** **Y el orden importa, porque equivocarlo esconde justo el solapamiento.**
 
-**El caso, tal como pasó:** **un pedido caía en dos tareas —«unir dos pdf» y «sacar el texto de un pdf»—, y una de las dos no tenía sus herramientas declaradas.** **El ente revisó las herramientas primero, encontró la tarea incompleta, y contestó:**
+**El caso, tal como pasó:** un pedido caía en dos tareas —«unir dos pdf» y «sacar el texto de un pdf»—, y una de las dos no tenía sus herramientas declaradas. El ente revisó las herramientas primero, encontró la tarea incompleta, y contestó:
 
 ```plaintext
 NO SE SABE: no tengo una tarea para lo que pides.
 ```
 
-**Y ése era el diagnóstico equivocado.** **Sí había dos tareas.** **Lo que pasaba era que una estaba a medias.** **Y al contestar «no tengo tarea», el solapamiento —que es lo que había que apuntar— quedó tapado.**
+**Y ése era el diagnóstico equivocado.** Sí había dos tareas. Lo que pasaba era que una estaba a medias. Y al contestar «no tengo tarea», el solapamiento —que es lo que había que apuntar— quedó tapado.
 
 **Así que el orden de la consulta es este, y no otro:**
 
@@ -182,9 +182,9 @@ NO SE SABE: no tengo una tarea para lo que pides.
    tema está a medias, y la pieza no entra por él
 ```
 
-**Y la razón, en una línea:** **un tema a medias es un defecto del tema; dos temas que se solapan son un defecto del índice.** **Los dos se apuntan, y el del índice es el que se ve sin mirar más adentro.**
+**Y la razón, en una línea:** un tema a medias es un defecto del tema; dos temas que se solapan son un defecto del índice. Los dos se apuntan, y el del índice es el que se ve sin mirar más adentro.
 
-**Y su falsificador:** **una pieza que cae en dos temas y recibe la respuesta «no sé», porque uno de los dos estaba incompleto.** **El ente contestó a la pregunta equivocada, y el índice quedó con su solapamiento a cuestas.**
+**Y su falsificador:** una pieza que cae en dos temas y recibe la respuesta «no sé», porque uno de los dos estaba incompleto. El ente contestó a la pregunta equivocada, y el índice quedó con su solapamiento a cuestas.
 
 ### Y el de persona tampoco es "no tiene borde"
 
@@ -200,13 +200,13 @@ no_entra      lo que ya se rechazó, por nombre
 y si duda     fuera / dentro / se pregunta
 ```
 
-**Y la diferencia con el de máquina es una sola, y hay que decirla:** **el de máquina decide con los campos; el de persona decide leyendo la pieza.** **Por eso el de persona no lleva campo, operador ni valor — y sí lleva `entra_si` escrito, porque el criterio que no está escrito no es un borde: es el humor del que pase.**
+**Y la diferencia con el de máquina es una sola, y hay que decirla:** el de máquina decide con los campos; el de persona decide leyendo la pieza. Por eso el de persona no lleva campo, operador ni valor — y sí lleva `entra_si` escrito, porque el criterio que no está escrito no es un borde: es el humor del que pase.
 
 **Y sin `entra_si`, un tema de persona no se puede distinguir de un cajón de sastre.** **Y un cajón de sastre en el índice es peor que no tenerlo: se traga lo que no encaja, y lo que se traga ya no se ve como hueco.**
 
-**Y escribírselo no basta:** **el de persona tenía `entra_si` y `decide`, y la búsqueda lo metía en el casi de cualquier pieza que llegara.** **Porque el de persona no se consulta como el de máquina: no se evalúa contra campos, se le muestra la pieza a alguien.**
+**Y escribírselo no basta:** el de persona tenía `entra_si` y `decide`, y la búsqueda lo metía en el casi de cualquier pieza que llegara. Porque el de persona no se consulta como el de máquina: no se evalúa contra campos, se le muestra la pieza a alguien.
 
-**Así que el de persona no se resuelve en la consulta: se resuelve en una lista de espera.** **La pieza que cae en un tema de persona entra en `pendiente`, con el nombre de quien tiene que decidir, y no entra al tema hasta que esa persona contesta.** **Y si no hay quien conteste, la pieza no entra: no se queda en el medio.**
+**Así que el de persona no se resuelve en la consulta: se resuelve en una lista de espera.** La pieza que cae en un tema de persona entra en `pendiente`, con el nombre de quien tiene que decidir, y no entra al tema hasta que esa persona contesta. Y si no hay quien conteste, la pieza no entra: no se queda en el medio.
 
 ### Y una cosa que no es del ente, pero se para
 
@@ -214,14 +214,14 @@ y si duda     fuera / dentro / se pregunta
 
 **Eso no es un hueco del ciclo: es un hueco de cómo se llama.** **Y se dice aquí porque quien implemente va a tropezar con lo mismo, y va a culpar al esquema.**
 
-**La salida es una de dos, y las dos valen:** **pasar los campos por un archivo, o decir en la puerta cómo se escapan en la terminal donde se corre.** **Lo que no vale es dejar que el ente reciba campos rotos y se caiga sin decir por qué: un error que no se explica se lee como un error del esquema.**
+**La salida es una de dos, y las dos valen:** pasar los campos por un archivo, o decir en la puerta cómo se escapan en la terminal donde se corre. Lo que no vale es dejar que el ente reciba campos rotos y se caiga sin decir por qué: un error que no se explica se lee como un error del esquema.
 
 
 ### Quién evalúa, que es el dato que nadie escribe
 
 **Aquí está la trampa que no se ve leyendo el ensayo, y que sí aparece cuando el ciclo se corre.**
 
-**Un borde escrito en prosa no lo puede evaluar una máquina.** **"trata de mover, renombrar o reestructurar los ensayos" no es una condición: es una descripción.** **Una máquina no la puede correr, así que en la práctica lo evalúa una persona — o peor, lo evalúa el ente con la primera regla que se le ocurra, y a eso le llama "consultar el borde".**
+**Un borde escrito en prosa no lo puede evaluar una máquina.** "trata de mover, renombrar o reestructurar los ensayos" no es una condición: es una descripción. Una máquina no la puede correr, así que en la práctica lo evalúa una persona — o peor, lo evalúa el ente con la primera regla que se le ocurra, y a eso le llama "consultar el borde".
 
 **Y ahí el borde deja de ser un borde: se vuelve la impresión del que consulta.** **Y la prueba de los dos lectores falla, no porque el borde esté mal escrito, sino porque nunca hubo borde.**
 
@@ -234,9 +234,9 @@ lo evalúa una persona   → se escribe como criterio, y se dice QUIÉN lo
                           evalúa, con nombre, y desde cuándo
 ```
 
-**Las dos son legítimas.** **Lo que no es legítimo es la tercera: un borde en prosa que nadie sabe quién evaluó.** **Ese es el que produce discusiones eternas, porque cada quien lo leyó distinto y nadie puede señalar dónde.**
+**Las dos son legítimas.** Lo que no es legítimo es la tercera: un borde en prosa que nadie sabe quién evaluó. Ese es el que produce discusiones eternas, porque cada quien lo leyó distinto y nadie puede señalar dónde.
 
-**Y cuando lo evalúa una persona, su decisión se apunta como se apunta todo:** **qué pieza, dentro o fuera, quién la clasificó, y con qué razón.** **Sin eso, el borde humano es tan insondable como el que no existe.**
+**Y cuando lo evalúa una persona, su decisión se apunta como se apunta todo:** qué pieza, dentro o fuera, quién la clasificó, y con qué razón. Sin eso, el borde humano es tan insondable como el que no existe.
 
 ### La prueba del borde, corriéndola
 
@@ -250,7 +250,7 @@ lo evalúa una persona   → se escribe como criterio, y se dice QUIÉN lo
 
 **Sin el paso 3, la prueba pasa siempre y no dice nada: un borde que acepta todo y otro que rechaza todo también clasifican igual a los extremos.**
 
-**Y antes de los cuatro pasos, uno que se salta:** **el borde tiene que decir si lo evalúa una máquina o una persona.** **Un borde que no lo dice no se puede correr, y por eso no se puede probar.**
+**Y antes de los cuatro pasos, uno que se salta:** el borde tiene que decir si lo evalúa una máquina o una persona. Un borde que no lo dice no se puede correr, y por eso no se puede probar.
 
 ---
 
@@ -278,4 +278,4 @@ lo evalúa una persona   → se escribe como criterio, y se dice QUIÉN lo
 
 ---
 
-**Falsificador:** un borde que dos personas clasifican distinto; **un borde de máquina que mira el texto de la pieza en vez de sus campos**; **una zona gris que se inventa al consultar**; **una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza**; **un ente que dice «no tengo tema» cuando el problema era que un tema estaba a medias**; **y un tema de persona que no deja la pieza en pendiente.**
+**Falsificador:** un borde que dos personas clasifican distinto; un borde de máquina que mira el texto de la pieza en vez de sus campos; una zona gris que se inventa al consultar; una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza; un ente que dice «no tengo tema» cuando el problema era que un tema estaba a medias; y un tema de persona que no deja la pieza en pendiente.

@@ -25,7 +25,7 @@ La respuesta fácil —"es uno, porque la identidad es una"— es falsa. Y la re
 
 Ya está dicho en el ensayo de criterio real: **el criterio no es lo que se recuerda, es lo que se sostuvo y se cayó.** Es un registro con fechas que dice qué se afirmó, qué lo refutó, y qué se mantuvo después.
 
-Un **sesgo** es otra cosa: es la **inclinación sistemática a producir un tipo de respuesta**, que no viene de lo que se sostuvo sino de cómo está hecho el que responde. No es un error aislado. Un error aislado se corrige; un sesgo **se repite aunque se corrija**, porque la corrección es un dato y el sesgo es una forma.
+Un **sesgo** es otra cosa: es la inclinación sistemática a producir un tipo de respuesta, que no viene de lo que se sostuvo sino de cómo está hecho el que responde. No es un error aislado. Un error aislado se corrige; un sesgo se repite aunque se corrija, porque la corrección es un dato y el sesgo es una forma.
 
 | | El criterio | El sesgo |
 |---|---|---|
@@ -44,8 +44,8 @@ Un **sesgo** es otra cosa: es la **inclinación sistemática a producir un tipo 
 Un modelo no puede reportar sus propios sesgos con fiabilidad. No porque mienta, sino porque **el sesgo es el instrumento con el que se mira**: pedirle a un modelo que evalúe su propia parcialidad es pedirle que mida con la misma regla que está torcida. Eso deja tres observadores, y solo el tercero sirve:
 
 1. **El propio modelo.** Se declara neutral y no lo es. Su reporte es un dato sobre su autoimagen, no sobre su sesgo.
-2. **El que lo usa, desde un solo modelo.** Ve lo que ese modelo hace, pero no tiene con qué compararlo. Lo que parece criterio puede ser la inclinación del único que consultó.
-3. **El ente, con varios modelos y el mismo registro.** Aquí sí hay comparación: **la misma pregunta a modelos distintos, y lo que cambia entre ellos es el sesgo.**
+2. El que lo usa, desde un solo modelo. Ve lo que ese modelo hace, pero no tiene con qué compararlo. Lo que parece criterio puede ser la inclinación del único que consultó.
+3. El ente, con varios modelos y el mismo registro. Aquí sí hay comparación: la misma pregunta a modelos distintos, y lo que cambia entre ellos es el sesgo.
 
 **Y esta es la razón de fondo del ente con identidad sobre varios modelos:** no es solo continuidad ante un cambio de versión. Es que **tener varios es la única forma de ver lo que uno solo hace por defecto.**
 
@@ -63,9 +63,9 @@ No es una lista completa, y no pretende serlo. Son los cuatro que, en la prácti
 
 **Y dentro de este hay una forma que engaña más que el relleno, y se apunta aparte porque cuesta más de cazar: la cita que existe.**
 
-**Un ente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Y la forma es tan buena que nadie nota el hueco.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.**
+**Un ente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** Y la forma es tan buena que nadie nota el hueco. Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.
 
-**Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma.** **El caso es este: el renglón citado existe, y la norma que el renglón dice reportar no se puede abrir.** **El ente no ha leído la norma, y no está mintiendo: está citando a un tercero como si hubiera leído el original.**
+**Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma.** El caso es este: el renglón citado existe, y la norma que el renglón dice reportar no se puede abrir. El ente no ha leído la norma, y no está mintiendo: está citando a un tercero como si hubiera leído el original.
 
 **4. De autoridad.** Tiende a no contradecir a quien ya dijo algo con seguridad, incluido él mismo en la respuesta anterior. En un ente con memoria, este sesgo **se propaga**: una afirmación vieja empieza a pesar más que la evidencia nueva, no porque sea mejor, sino porque ya está escrita.
 
@@ -91,17 +91,17 @@ De ahí una regla que vale para todo ente con varios modelos:
 
 Tres cosas, y las tres son de forma, no de buena voluntad.
 
-**1. Adversario, no juez.** No se le pide a otro modelo que **evalúe** la respuesta; se le pide que **la ataque**. Evaluar invita a la complacencia; atacar invita a la alternativa que el primero no vio. Y si el ataque no encuentra nada, se registra que no encontró nada — **no que la respuesta esté confirmada.**
+**1. Adversario, no juez.** No se le pide a otro modelo que evalúe la respuesta; se le pide que la ataque. Evaluar invita a la complacencia; atacar invita a la alternativa que el primero no vio. Y si el ataque no encuentra nada, se registra que no encontró nada — no que la respuesta esté confirmada.
 
 **2. Distinto de raíz.** Si dos modelos comparten entrenamiento, proveedor o corpus, no son independientes, aunque tengan nombres distintos. Un ente con identidad sobre varios modelos tiene que saber **cuáles son de verdad distintos**, y declarar como uno solo a los que no lo son.
 
-**3. El sesgo con nombre y sin vergüenza.** Cada modelo que trabaja en el ente lleva, en el registro, **su inclinación conocida y desde cuándo**. Del sesgo no se sale: **se acota y se dice.** Un ente que declara "con este modelo tiendo a aceptar lo que se me afirma" es más fiable que uno que se declara neutral, porque el primero se puede corregir desde fuera y el segundo ya se dispensó de ser corregido.
+**3. El sesgo con nombre y sin vergüenza.** Cada modelo que trabaja en el ente lleva, en el registro, su inclinación conocida y desde cuándo. Del sesgo no se sale: se acota y se dice. Un ente que declara "con este modelo tiendo a aceptar lo que se me afirma" es más fiable que uno que se declara neutral, porque el primero se puede corregir desde fuera y el segundo ya se dispensó de ser corregido.
 
 ### Cuándo se declara el cuerpo, y qué pasa cuando cambia
 
 **Y aquí cambió el ensayo, y el cambio es del dueño: el cuerpo es opcional.**
 
-**Antes decía "se declara antes del primer hecho, y no después", y eso obligaba a declarar un modelo para poder arrancar.** **Y un ente no se declara cuando cambia de cuerpo: se adapta.** **Así que se declara si se quiere, y lo que cambia no es si el ente trabaja: es qué tan fino se puede leer su rastro.**
+**Antes decía "se declara antes del primer hecho, y no después", y eso obligaba a declarar un modelo para poder arrancar.** Y un ente no se declara cuando cambia de cuerpo: se adapta. Así que se declara si se quiere, y lo que cambia no es si el ente trabaja: es qué tan fino se puede leer su rastro.
 
 ```plaintext
 se declara     cada hecho dice su cuerpo. se puede comparar, y el ente
@@ -110,9 +110,9 @@ no se declara  el ente trabaja igual y aprende igual. lo que pierde es
                la columna que separa un cuerpo de otro
 ```
 
-**Y lo que no se puede hacer nunca es rellenarlo hacia atrás.** **Un hecho que se escribió sin cuerpo se queda sin cuerpo.** **Un hecho se puede escribir sin saber de qué modelo salió; lo que no se puede es reconstruirlo después.**
+**Y lo que no se puede hacer nunca es rellenarlo hacia atrás.** Un hecho que se escribió sin cuerpo se queda sin cuerpo. Un hecho se puede escribir sin saber de qué modelo salió; lo que no se puede es reconstruirlo después.
 
-**Y el ente no puede deducir su propio cuerpo.** **No tiene con qué: un modelo no lee su propio nombre, y si lo adivina dice lo que se le parece.** **Así que el "no declarado" no es una pereza del ente: es la única respuesta honesta que tiene.**
+**Y el ente no puede deducir su propio cuerpo.** No tiene con qué: un modelo no lee su propio nombre, y si lo adivina dice lo que se le parece. Así que el "no declarado" no es una pereza del ente: es la única respuesta honesta que tiene.
 
 **Y cuando el cuerpo cambia, el anterior no se borra:**
 
@@ -126,7 +126,7 @@ no se declara  el ente trabaja igual y aprende igual. lo que pierde es
 
 **Y eso no es un detalle de contabilidad: es lo que permite preguntar si el criterio cambió cuando cambió el cuerpo.** **Si todos los hechos viejos se reescribieran con el modelo de hoy, esa pregunta quedaría sin respuesta para siempre.**
 
-**Y hay una consecuencia que se despacha mal:** **un modelo que queda retirado no se borra del registro, porque sus hechos cuelgan de él.** **Borrar el modelo deja hechos huérfanos: hechos que existieron y que ya no se pueden atribuir a nadie.**
+**Y hay una consecuencia que se despacha mal:** un modelo que queda retirado no se borra del registro, porque sus hechos cuelgan de él. Borrar el modelo deja hechos huérfanos: hechos que existieron y que ya no se pueden atribuir a nadie.
 
 ### Y la pregunta que se hace antes de escribir cada hecho
 
@@ -150,7 +150,7 @@ de varios       entonces hay un hecho por cuerpo, y no uno con dos
 
 **Aquí está lo que hace que el cuerpo sea opcional sin que se pierda el criterio, y es la parte que más se confundía.**
 
-**Y un nombre, uno solo, porque con dos se escriben dos cosas distintas sin notarlo:** **en estos ensayos se dice `cuerpo`, y en el banco la columna se llama `modelo_id`. Es la misma cosa.** **La columna no se renombra porque ya tiene hechos colgando de ella, y renombrarla los dejaría huérfanos; pero quien lea el esquema tiene que saber que `modelo_id` es el cuerpo, y no "el modelo" como si fuera otra pieza del ente.** **Si en algún lado aparece "modelo" queriendo decir la pieza del paso 0, ese texto está viejo: el modelo ya no es pieza, es cuerpo.**
+**Y un nombre, uno solo, porque con dos se escriben dos cosas distintas sin notarlo:** en estos ensayos se dice `cuerpo`, y en el banco la columna se llama `modelo_id`. Es la misma cosa. La columna no se renombra porque ya tiene hechos colgando de ella, y renombrarla los dejaría huérfanos; pero quien lea el esquema tiene que saber que `modelo_id` es el cuerpo, y no "el modelo" como si fuera otra pieza del ente. Si en algún lado aparece "modelo" queriendo decir la pieza del paso 0, ese texto está viejo: el modelo ya no es pieza, es cuerpo.
 
 **Se confundían dos cosas que viajan distinto:**
 
@@ -159,7 +159,7 @@ de varios       entonces hay un hecho por cuerpo, y no uno con dos
 | **el criterio** | las reglas, el banco, los desenlaces, la forma de decidir | **se conserva entero: es del ente** |
 | **el talento** | qué tan bien sale una clase de trabajo con un cuerpo concreto | **no viaja: se aprende por cuerpo, y se aprende de nuevo** |
 
-**Y eso es lo mismo que pasa con una persona:** **su criterio no cambia cuando cambia de herramienta; lo que cambia es lo que ya practicó con cada una.** **Y hay gente talentosa para una cosa y no para otra, con la misma cabeza.**
+**Y eso es lo mismo que pasa con una persona:** su criterio no cambia cuando cambia de herramienta; lo que cambia es lo que ya practicó con cada una. Y hay gente talentosa para una cosa y no para otra, con la misma cabeza.
 
 **De ahí la tabla, y es de uno a muchos:**
 
@@ -191,11 +191,11 @@ recomendar otro cuerpo     con varios hechos y una diferencia que
 
 ### Y la parte que es incómoda, y se escribe igual
 
-**El ente no sabe en qué modelo corre.** **No es modestia: es que no puede.** **No tiene un instrumento para leer su propio nombre, y el que se lo pregunta contesta con lo que se le parece.**
+**El ente no sabe en qué modelo corre.** No es modestia: es que no puede. No tiene un instrumento para leer su propio nombre, y el que se lo pregunta contesta con lo que se le parece.
 
 **Así que cuando alguien le pregunta "¿en qué modelo estás?", la respuesta honesta es "no lo sé", y no "creo que soy X".**
 
-**Y una consecuencia que duele y conviene tener escrita:** **si el dueño cambia de cuerpo y no lo dice, el ente va a aprender del cuerpo nuevo creyendo que sigue con el mismo.** **El banco va a tener renglones que se contradicen, y no va a ser un error del ente: va a ser un rastro que nadie declaró.** **El ente avisa una vez; si el dueño decide no decirlo, esa es su decisión, y el rastro va a mostrar "no declarado".**
+**Y una consecuencia que duele y conviene tener escrita:** si el dueño cambia de cuerpo y no lo dice, el ente va a aprender del cuerpo nuevo creyendo que sigue con el mismo. El banco va a tener renglones que se contradicen, y no va a ser un error del ente: va a ser un rastro que nadie declaró. El ente avisa una vez; si el dueño decide no decirlo, esa es su decisión, y el rastro va a mostrar "no declarado".
 
 ---
 
@@ -203,7 +203,7 @@ recomendar otro cuerpo     con varios hechos y una diferencia que
 
 **Ésta es la regla que el ensayo pedía y no tenía escrita.**
 
-**Un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** **Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.** **Y así lo hacen casi todos los agentes que se venden hoy.**
+**Un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido.** Lo peligroso no es la ignorancia: es la ignorancia bien maquetada. Y así lo hacen casi todos los agentes que se venden hoy.
 
 **La salida no es prohibirle contestar. Es obligarlo a decir con qué.**
 
@@ -272,10 +272,10 @@ Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro l
 | El relleno más fino cita un tercero como si fuera el original | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
 | Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el texto de la norma no está disponible por derechos |
 
-**Y lo que esta tabla no dice, que también es un dato:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.** **El ensayo dice lo que aguanta; no dice que aguante en manos de otro.**
+**Y lo que esta tabla no dice, que también es un dato:** ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
 **Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
 
 ---
 
-**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; **un hecho con dos modelos, que no se puede atribuir a ninguno**; **un modelo borrado del registro que deja hechos huérfanos**; **un cuerpo inventado hacia atrás para rellenar un hecho viejo**; **un ente que dice "soy bueno para esto" sin poder abrir el renglón**; **una recomendación de cambiar de cuerpo sin el número que la sostiene**; **dos hechos contados como un talento**; **un dato sin declaración de origen, presentado como si tuviera fuente**; **una norma citada como si se hubiera leído, cuando su texto no se puede abrir**; **una fuente declarada después del hecho, que se acomoda a lo que ya se dijo**; **y una contradicción entre dos fuentes resuelta sin decirlo.**
+**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; un hecho con dos modelos, que no se puede atribuir a ninguno; un modelo borrado del registro que deja hechos huérfanos; un cuerpo inventado hacia atrás para rellenar un hecho viejo; un ente que dice "soy bueno para esto" sin poder abrir el renglón; una recomendación de cambiar de cuerpo sin el número que la sostiene; dos hechos contados como un talento; un dato sin declaración de origen, presentado como si tuviera fuente; una norma citada como si se hubiera leído, cuando su texto no se puede abrir; una fuente declarada después del hecho, que se acomoda a lo que ya se dijo; y una contradicción entre dos fuentes resuelta sin decirlo.
