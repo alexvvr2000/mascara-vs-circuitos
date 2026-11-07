@@ -179,6 +179,32 @@ el conteo, que ahora sí suma
 
 ---
 
+### Y la pregunta vieja: esfuerzo o talento
+
+**La pregunta se hace desde hace siglos, y casi siempre se contesta mal porque se contesta con una preferencia.**
+
+**La respuesta de este ensayo no es una preferencia: es que la pregunta está mal planteada cuando se hace sin el tercer término.**
+
+```plaintext
+talento     lo que sale sin tener que forzarlo
+esfuerzo    lo que se sostiene cuando no sale
+y los dos    ninguno dice si lo que se hizo hacía falta
+```
+
+**Y ahí está lo que este ensayo puede decir con números, que es lo único que puede decir:** **la tabla de talento no mide si alguien es bueno. Mide si el trabajo se hizo, tantas de tantas, y con qué costo.**
+
+**Y eso tiene una consecuencia que incomoda en las dos direcciones:**
+
+**Un talento aplicado a la clase de problema equivocada hace daño.** **Y lo hace con más eficacia que la falta de talento, porque el que no tiene talento se equivoca lento y se da cuenta; el que lo tiene, produce mucho de lo que no se necesitaba y a tiempo.** **El cálculo no premia eso: lo cobra igual que cualquier otro intento, porque el resultado es lo que cuenta y el resultado no servía.**
+
+**Y el esfuerzo sin objetivo no es una virtud: es actividad sostenida.** **Se ve igual de ocupado que el trabajo, y no deja resultado verificado, así que la cuenta lo pone donde va.**
+
+**Por eso lo que decide no es ni el talento ni el esfuerzo, sino si había un para qué escrito, y si lo que se hizo lo cumple.** **El talento acelera, el esfuerzo sostiene, y ninguno de los dos sabe hacia dónde.**
+
+**Y su falsificador:** **un talento medido por su fama y no por su renglón**; **y un esfuerzo contado por horas sin un resultado verificado que lo respalde.** **Los dos se ven bien y los dos mienten igual.**
+
+---
+
 ## IX. Lo suficiente no es una rendición
 
 **Este ensayo mide costo por resultado. Y medir el costo obliga a una pregunta que casi nunca se hace: ¿cuánto de lo que se compra hacía falta?**

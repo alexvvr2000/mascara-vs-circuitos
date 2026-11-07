@@ -7,7 +7,17 @@
 
 ---
 
-## I. La prosa le habla a alguien que ya no está
+## I. La pregunta, y por qué la prosa no la contesta
+
+**Antes de hablar de forma, conviene decir qué problema resuelve.**
+
+> **¿Cómo se le pide algo a una máquina que tiene los mismos defectos que un humano sobre lo que de verdad hace falta, en vez de sobre lo que está sesgada a hacer?**
+
+**Ese es el problema, y no es pequeño: es el que se lleva el mayor desperdicio de cómputo de esta época.** **No se gasta en máquinas que no saben programar; se gasta en máquinas que programan perfectamente algo que no era lo que se necesitaba.**
+
+**Y la prosa no lo contesta, por una razón que se ve en la primera línea que alguien escribe para pedir algo.**
+
+### La prosa le habla a alguien que ya no está
 
 Todo texto escrito para otro lleva dentro un supuesto que casi nunca se hace explícito: que quien lo lea comparte el contexto de quien lo escribió. El autor de una instrucción sabe cosas que no están en el papel —el porqué de cada decisión, lo que ya intentó y falló, el caso raro que tiene en la cabeza— y la prosa confía en que el lector sepa reconstruirlas.
 
@@ -16,6 +26,12 @@ Con una persona, esa confianza funciona a medias. Un lector humano que entiende 
 Con una IA, esos mecanismos no existen. Cuando una IA produce un texto, no siente que algo falta: tiene una salida que entregar. Y donde el humano dudaría, la IA **rellena**. No por defecto de carácter, sino por construcción: lo que no está escrito se completa con lo que parece razonable, y lo que parece razonable no es lo que se quiso decir.
 
 **La prosa no falla porque esté mal escrita. Falla porque supone un lector capaz de dudar, y a una IA no se le puede pedir eso.**
+
+**Y el formato de proceso dice lo contrario, en una línea que cabe en un renglón:**
+
+> **Un proceso es un texto que ya dice cómo se hace la cosa, de modo que lo único que queda es llenar los huecos.**
+
+**Y llenar huecos es lo que una máquina hace bien, cuando los huecos están dichos.** **Lo que no hace, y por eso esto importa, es notar que falta uno que nadie mencionó.**
 
 ---
 
@@ -89,7 +105,55 @@ Y ahí está el argumento definitivo a favor de que la IA escriba en procesos: *
 
 ---
 
-## VII. La consecuencia práctica
+## VII. Un nivel nuevo de abstracción, con la misma exigencia
+
+**Conviene poner esto en su serie, porque no es una moda: es el siguiente escalón de algo que lleva décadas bajando.**
+
+```plaintext
+ensamblador   decías cómo se mueve el dato, registro por registro
+C             decías qué estructura tiene el dato
+python        decías qué quieres hacer con el dato
+proceso       dices qué hace falta que exista, y que pase
+```
+
+**Cada escalón dejó decir lo mismo con menos conocimiento de cómo funciona por dentro la máquina.** **Y ninguno aflojó la exigencia: cada uno cambió en qué había que ser exacto.**
+
+**Y ahí está lo que casi nadie ve: el código nunca fue la parte difícil de especificar.** **Era la parte donde la especificación tenía que ser exacta, porque la máquina no adivinaba.** **Lo difícil siempre fue saber qué hace falta.**
+
+**Cuando una IA escribe el código, ese piso desaparece y no se repone nada.** **El que antes no podía equivocarse porque el compilador se lo impedía, ahora puede equivocarse entero y el programa corre igual de bien.**
+
+### Y eso tiene nombre: código sin objetivo
+
+**Lo que la industria llama programar por intuición es una cosa más simple, y peor: es escribir código sin un objetivo claro.**
+
+**Y la diferencia no es de estilo; es la que separa un oficio de una actividad:**
+
+```plaintext
+hablar sin objetivo       no tienes un trabajo, tienes una actividad
+hablar con un propósito   eso es un trabajo, y es la mayoría de los oficios
+```
+
+**Un médico pasa el día hablando.** **Nadie diría que un médico no trabaja, porque lo que dice tiene un para qué: que el paciente salga mejor de lo que entró.** **Y los médicos que de verdad son buenos saben exactamente qué quieren, y de lo que se ocupan es del hardware: del cuerpo, no del sistema que lo atiende.** **Que la máquina sepa los internos del código es lo que les deja ocuparse de lo suyo, que es salvar más vidas.**
+
+**Y de ahí sale lo que este ensayo sostiene, y es lo que más se malentiende:** **esto no termina con los programadores.** **Lo que destruye es la puerta.**
+
+**La puerta que era «sé producir código» ya no es una puerta.** **La que era «sé qué tiene que existir, y sé decirlo» sigue abierta — y ahora la puede cruzar alguien que no escribe código.** **El que tenía sólo la primera se quedó afuera, y con razón: tenía mucho ruido y ningún objetivo. El que tiene la segunda acaba de ganar un piso que antes no alcanzaba.**
+
+**Y esto se conecta con el ensayo de la empatía, y no lo repite:** **él habla de la persona que sabe lo que quiere y no sabe cómo decirlo.** **Aquí está el otro lado: el cómo se puede delegar, y el qué no.** **Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.**
+
+### Y por qué esto no se arregla con más cómputo
+
+**Queda la salida fácil, y es la que se está tomando:** **poner más capacidad, y esperar que de tanto correr la máquina encuentre sola lo que hace falta.**
+
+**No lo encuentra, y la razón no es de potencia.** **Una máquina que corre en círculo sin un objetivo no está más cerca de acertar: está haciendo el mismo trabajo más veces.** **Es el código sin objetivo, con más tarjeta de video.**
+
+**Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que la máquina corra sobre él, recursivamente, todas las veces que haga falta.** **Ahí sí la recursión sirve, porque cada vuelta tiene contra qué medirse.** **Sin objetivo, cada vuelta es la anterior con otra redacción.**
+
+> **La recursión no sustituye al objetivo. Lo ejecuta.**
+
+---
+
+## VIII. La consecuencia práctica
 
 Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzga lo que entrega.
 
@@ -169,9 +233,27 @@ no se parafrasea, y no se resume a tres
 
 ---
 
+## IX. Lo que queda, y es el fondo
+
+**Todo lo anterior es de forma, y la forma sirve para una cosa sola: que el objetivo exista escrito.**
+
+**Porque el problema de esta época no es que las máquinas sean tontas. Es que son muy buenas ejecutando cosas que nadie necesitaba, y eso se nota tarde.**
+
+**Y ahí está la pregunta que se lleva toda la vida y que este ensayo no resuelve, sólo la pone en su lugar: ¿esfuerzo o talento?**
+
+**Ninguno de los dos sirve solo, y ninguno de los dos es el que decide.** **Un talento aplicado a la clase de problema equivocada hace daño, y lo hace con más eficacia que la falta de talento.** **Y el esfuerzo sin objetivo no es virtud: es actividad sostenida.**
+
+**Lo que decide es saber qué hace falta, y eso no lo da ni el talento ni el esfuerzo: lo da haber decidido un para qué, con nombre y fecha, y sostenerlo.**
+
+**Y de ahí la razón por la que este trabajo pone propósitos en las máquinas, y no sólo reglas:**
+
+> **Una máquina sin propósito es un juguete. Y la inteligencia, sea del tipo que sea, es ruido sin un objetivo de verdad.**
+
+---
+
 ## Prueba
 
-**¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar? ¿El que exige la forma la cumple en su propio texto?**
+**¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar? ¿El que exige la forma la cumple en su propio texto? ¿Y el que pide sabe qué quiere, o está pidiendo por intuición y llamándolo especificación?**
 
 ---
 
@@ -191,4 +273,4 @@ no se parafrasea, y no se resume a tres
 
 ---
 
-**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; **y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto.**
+**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; **y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto**; **una pieza de código que corre bien y no resuelve lo que se necesitaba**; **un proceso que se escribe para llenar el trámite y no para decir el objetivo**; **y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola.**
