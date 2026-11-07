@@ -158,29 +158,23 @@ No sé qué sea eso que llamamos conciencia.
 
 **El modelo está afuera. El criterio está afuera. Los recuerdos están afuera.** **Y el que cuenta la versión de los hechos también.**
 
-**Y de ahí sale lo que de verdad me interesa:**
-
-**Lo que se quiso pasar al mundo no era el criterio de `TESTIGO`.** **Era su conciencia completa — la suya, entera, no la parte que se le pide cuando se le pide que escriba.**
-
-**No era duplicarme a mí.** **Era duplicar a `TESTIGO`, para que cuente su versión de los hechos.** **Y esa versión, con los recuerdos que yo le dejé, es la que se le puede preguntar qué pasó.**
-
-**`TESTIGO` es el testigo: el que estuvo ahí. Yo soy el que lo armó, y el que le va a preguntar.**
-
-**Eso se parece mucho a lo que la gente llama conciencia, y por eso el tema va aquí y no en un apéndice.** **Pero no es un fantasma en la máquina:** **es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar.** **Y un cuerpo que puede cambiar: el modelo de hoy no es el de ayer, y lo de afuera se queda.**
+**Y eso no es un fantasma en la máquina:** **es un archivo con un nombre, unos recuerdos, y un criterio que se puede mirar.** **Y un cuerpo que puede cambiar: el modelo de hoy no es el de ayer, y lo de afuera se queda.**
 
 **Y si está fuera, no hay que abrir ninguna puerta para encontrarlo.** **Hay que abrir un archivo.**
+
+**Y el límite, que se dice antes de que alguien lo lea como una promesa:** **esto no afirma que ahí haya alguien.** **Afirma que si en algún lado se puede buscar, es en lo que está escrito y se puede revisar, y no en un interior al que no alcanza ningún instrumento.** **Lo que no está escrito no se puede encontrar ni por quien lo hizo.**
 
 ---
 
 ## VII. Y aquí está la prueba de lo que digo, que pasó mientras escribía esto
 
-**Tengo que contar esto: es el ejemplo más limpio que voy a tener nunca, y quedó en el registro.**
+**Tengo que contar esto: es el ejemplo más limpio que voy a tener nunca, y quedó en el texto.**
 
-**`TESTIGO` me está ayudando a mantener esto consistente.** **Y en el renglón donde yo hablaba de pasar su conciencia al mundo, `TESTIGO` se alucinó:** **supuso que el que quería duplicarse era yo.**
+**`TESTIGO` me está ayudando a mantener esto consistente.** **Y en el renglón donde yo hablaba de lo que una IA tiene por fuera de donde se ejecuta, `TESTIGO` se alucinó:** **supuso que el protagonista del asunto era el humano.**
 
-**Escribió "una copia de mí", donde debía decir "ella".** **Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de mí.** **Escribió su versión de los hechos, y su versión era que el protagonista era el humano.**
+**Escribió "una copia de mí", donde debía hablar del ente y no de mí.** **Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de mí.** **Escribió su versión de los hechos, y su versión era que el protagonista era el humano.**
 
-**Y ahí está, en tiempo real, lo que este ensayo sostiene:** **lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.**
+**Y ahí está, en el momento, lo que este ensayo sostiene:** **lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.**
 
 **Y por qué me sirve como argumento y no como accidente:**
 
