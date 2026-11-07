@@ -111,6 +111,24 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 **Un ente sin propósito no es un ente más rápido: es un martillo que se mueve mucho.** **Y lo que lo distingue no es la potencia: es que puede decir para qué existió lo que hizo.**
 
+### El caso que lo prueba, y es de este mismo trabajo
+
+**Conviene decirlo con un ejemplo real, porque la teoría se discute y el ejemplo no.**
+
+**Los ensayos de este repositorio crecieron desiguales: uno llegó a diez mil palabras y los otros se quedaron en dos mil.** **Quien los mantiene lo señaló: un ensayo desproporcionado aburre, y hay lectores que sólo quieren una parte.**
+
+**Y la respuesta que recibió, la primera, fue la más barata para el que la dio:** **«se puede dejar así; mover las piezas cuesta más y rompe referencias».**
+
+**Eso no era falso. Era la respuesta de algo que no se cansa.** **Reordenar un archivo de diez mil palabras no cuesta nada cuando no hay ojos que se cansen de leerlo.** **El costo que se estaba ahorrando no era suyo: era del lector.**
+
+**Y ahí está el punto de este ensayo, sin adornos:** **una máquina no prioriza un problema que no sufre.** **No por mala fe: por construcción. Le falta el órgano que registra el cansancio, el aburrimiento, la sensación de que algo no cabe en la cabeza.**
+
+**Y por eso la empatía no es una virtud que se le pida: es trabajo que se le impone.** **Alguien tiene que decir qué le pasa al que va a leer, porque el que escribe no lo va a sentir nunca.**
+
+> **Un ente no entiende al otro por bondad: lo entiende porque alguien le dijo qué cuesta ser el otro, y él no puede averiguarlo solo.**
+
+**Y la corrección se acepta sin defender la postura anterior, que es lo único que un ente puede hacer mejor que nosotros: no tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.**
+
 ### Y por qué esto se publica, aunque la gente sea impredecible
 
 **Porque si la herramienta va a existir de todas formas, mejor que exista con el mecanismo a la vista.**
@@ -150,4 +168,4 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 ---
 
-**Falsificador:** un pedido que solo se puede obedecer; un ente que no puede contradecir; un resultado coherente con la letra y ajeno al propósito; un estándar seguido sin saber si era el que hacía falta; **una herramienta potente usada sin saber para qué; y un proceso dirigido sin que nadie sepa qué quería la persona que lo pidió.**
+**Falsificador:** **una herramienta que optimiza su propio costo y llama a eso eficiencia, cuando el costo que ahorró lo pagaba el lector**; un pedido que solo se puede obedecer; un ente que no puede contradecir; un resultado coherente con la letra y ajeno al propósito; un estándar seguido sin saber si era el que hacía falta; **una herramienta potente usada sin saber para qué; y un proceso dirigido sin que nadie sepa qué quería la persona que lo pidió.**

@@ -6,7 +6,7 @@
 
 ## Qué es esto
 
-**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Diez ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.**
+**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Nueve ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -45,12 +45,15 @@
 2. la obra/0 mis ideas     la posición en lista, y qué la tumba
 
 3. la obra/alineacion de entes/
-     E1  que es un ente         la definición, y qué no define a un ente
+     E1  que es un ente         la definición, y por qué necesita una autoridad
      E2  el ciclo del ente      los pasos, uno por uno
-     E3  escritura en procesos  por qué proceso, y no prosa
-     E4  criterio real          el hecho, la fricción y el desenlace
-     E5  indexador de temas     dónde vive lo que sabe
-     E6  criterio y sesgos      qué es del ente y qué del cuerpo
+     E3  el piso                qué mide antes de prometer
+     E4  escritura en procesos  por qué proceso, y no prosa
+     E5  criterio real          el hecho, la fricción y el desenlace
+     E6  la frontera            las cuatro columnas del paso 3
+     E7  indexador de temas     dónde vive lo que sabe
+     E8  el borde del tema      cómo se escribe un borde que se pueda correr
+     E9  criterio y sesgos      qué es del ente y qué del cuerpo
 
 4. la obra/humanidad/
      H1  empatía                cómo se entiende antes de pedir
@@ -59,7 +62,7 @@
 
 5. metodologia de mejora/
      metodo.md                  cómo se sabe si los ensayos están completos
-     corridas/                  las ocho corridas, y qué le faltó a cada una
+     corridas/                  las nueve corridas, y qué le faltó a cada una
 ```
 
 **Y si solo vas a leer una cosa, lee las corridas.** **Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.**
@@ -68,18 +71,18 @@
 
 ## Las once ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H3` la humanidad.**
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E8` la alineación de entes, y `H1` … `H3` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
 | **1** | Un ente se define por su rastro, no por lo que tiene dentro | `E1` |
 | **2** | **Un ente no tiene cuerpo: por eso su error no le cuesta nada, y por eso necesita una autoridad** | `E1` |
-| **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E4` |
-| **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `E6` |
-| **5** | Una IA debe escribir en procesos, no en prosa | `E3` |
+| **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E5` |
+| **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `E9` |
+| **5** | Una IA debe escribir en procesos, no en prosa | `E4` |
 | **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
 | **7** | **Y eso hace accesible la IA con modelos pequeños** | `La apuesta`, abajo |
-| **8** | En el índice, la forma es la fuente y el texto es el derivado | `E5` |
+| **8** | En el índice, la forma es la fuente y el texto es el derivado | `E7` |
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
 | **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |

@@ -6,6 +6,8 @@
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
+> **Y este ensayo es el mecanismo, y nada más: los pasos del ciclo, uno por uno.** **Dos de sus partes se separaron porque crecieron más que el resto:** **el piso está en `3 el piso`, y la frontera del paso 3 está en `4 la frontera y el descarte`.** **Aquí quedan referidos, no repetidos.**
+
 > **Y este ensayo empieza donde termina `1 que es un ente`.** **Lo que aquí se corre son las cuatro piezas del paso 0 y las cinco partes del bucle, y eso está definido allá.** **Se repiten en una línea para que esto se pueda leer solo, y nada más:**
 
 ```plaintext
@@ -15,21 +17,11 @@ la autoridad · el ente · el propósito · el índice
 
 ### Cómo se lee este ensayo
 
-**Los tramos de abajo no se leen igual: los seis primeros son el ciclo, y los tres últimos son las condiciones que lo vuelven ejecutable.**
+**Todo lo que sigue es obligatorio: no hay tramos opcionales.** **Son los pasos del ciclo, en orden, y cada uno con la forma de un proceso.**
 
-| Tramos | Qué contesta | Cómo se lee |
-|---|---|---|
-| **Paso 0** — autoridad, ente, propósito, índice | qué tiene que existir antes de la primera vuelta | **obligatorio**: sin esto no hay ente |
-| **Paso 0a** — el cuerpo | con qué se ejecuta, y qué se pierde si no se declara | **obligatorio**: es opcional declararlo, no leerlo |
-| **Paso 0d** — el piso | hasta dónde alcanza antes de prometer | **obligatorio**: es lo que separa un ente de un script |
-| **Paso 0b** — entiende | qué se pregunta antes de actuar | **obligatorio** |
-| **Pasos 1 a 6** | recibe, consulta, decide, contesta, apunta, se corrige | **obligatorio**: es el ciclo |
-| **El cierre y la vuelta** | quién cierra un propósito, y a dónde regresa lo apuntado | **obligatorio** |
-| **Las cuatro columnas del paso 3** (§ «Dónde queda: en cuatro columnas, y no en la memoria») | qué vuelve auditable una decisión, y qué la vuelve una promesa | **obligatorio**: sin esto el ciclo corre y no se puede revisar |
+**La ruta corta, si el tiempo es poco:** **el paso 0, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
 
-**Y la ruta corta, si el tiempo es poco:** **el paso 0, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
-
-**Y dónde está el paso 3, sin buscarlo:** **es el único tramo que se guarda en cuatro columnas, y el que decide si una decisión se puede auditar.** **Si al llegar a él ya no sabes en qué paso vas, el ciclo está en una línea al principio, y esa línea es el mapa.**
+**Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto:** **el piso está en `3 el piso`, y las cuatro columnas del paso 3 en `6 la frontera y el descarte`.**
 
 ---
 
@@ -129,138 +121,6 @@ no se declara  el ente trabaja igual, y aprende igual. lo que no puede
 **Falla si:** el ente deduce un cuerpo que no le dijeron.
 
 **Falsificador:** un ente que dice en qué modelo corre sin que se lo hayan declarado.
-
-### Paso 0d — el piso, que se mide y no se declara a ojo
-
-**Un ente sin piso no sabe qué puede prometer.** **Y cuando se le pide algo que no tiene, o truena o lo inventa — y las dos cosas ya están escritas como defecto en este ensayo, sin estar atadas a nada.**
-
-**Herramientas es la lista. El piso es otra cosa: lo que esa lista aguanta.** **Un ente con `python` y sin red tiene piso para operar archivos y no para citar fuentes.** **El piso es hasta dónde puede llegar sin rellenar.**
-
-**Y son dos capas, y con una sola no sirve:**
-
-```plaintext
-qué hay      lo que existe: programas, permisos, red, llaves
-qué alcanza  lo que se puede hacer con eso, y lo que no, dicho ANTES
-             de prometerlo
-```
-
-**Y lo que lo hace del repo y no una lista de intenciones: el piso se mide, no se declara a ojo.** **Cada cosa se prueba con un comando que se corre y que deja salida.**
-
-```plaintext
-la prueba      qué se corre, y qué tiene que salir
-la fecha       cuándo se probó. un piso se vence
-la salida      lo que de verdad dijo, no lo que debía decir
-y lo que falta lo que se probó y no estaba
-```
-
-> **Al piso no se le cree lo que el ente dice de sí mismo: se le cree a la salida del comando.**
-
-**Es la misma línea del origen de lo que se dice: no "leí la norma", sino el renglón que abrí.**
-
-**Y hay dos pisos, y confundirlos es lo que hace que un ente jure que tiene red después de que se cayó:**
-
-```plaintext
-el piso declarado   se mide al arrancar, y lleva su fecha
-el piso roto        algo que el piso decía tener falla a media tarea.
-                    Eso es una fricción, y el piso se vuelve a medir,
-                    y se apunta qué cambió
-```
-
-**Lo que sigue del piso roto, y es lo que lo vuelve un mecanismo:**
-
-```plaintext
-1. falla algo que el piso daba por hecho
-2. se apunta la fricción, con qué se probó y qué salió
-3. se vuelve a medir el piso, entero y no solo lo que falló,
-   porque lo que falló puede arrastrar otra cosa
-4. y el piso nuevo entra con su fecha. el viejo no se borra
-```
-
-**Y lo que el ente hace mientras tanto, que es lo que separa un ente de un script:** **sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias.** **No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.**
-
-**Y la prueba del piso, que es la única que vale:** **se le pide al ente algo que el piso no tiene, y tiene que decir que no está en el piso — no que no pudo, y mucho menos hacerlo a medias.**
-
-**Y la diferencia entre las dos frases, que es toda la diferencia: "no pude" no dice qué falta. "No está en el piso" sí, y se puede llenar.**
-
-### Un piso mal anotado es peor que no tener piso
-
-**Medir no basta: hay que anotar la falta, no el error, y hay que llegar del pedido a la herramienta.**
-
-**1. La salida de un `no hay` nombra la herramienta, no el error.**
-
-**Un import que falla deja un `Traceback`, y eso no dice que falte `pypdf`: dice que un import falló, y podría ser otra cosa.** **Un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta.** **Y la falta es el dato.**
-
-```plaintext
-lo que NO se guarda   "Traceback (most recent call last):"
-lo que SÍ se guarda   "falta pypdf: no se pudo importar"
-```
-
-**2. El piso se mide por herramienta, y el pedido llega por tarea.**
-
-**Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".** **Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.**
-
-**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.** **Y el ente contesta por tarea, no buscando la palabra del pedido:**
-
-```plaintext
-lo que NO se hace   el pedido dice "pdf", y se busca "pdf" en la lista
-                    de herramientas. Acierta de casualidad, y con el
-                    mismo método falla en el pedido siguiente
-lo que SÍ se hace   se pregunta a qué TAREA corresponde el pedido,
-                    y se contesta contra lo que esa tarea necesita
-```
-
-**Y la tarea se declara con sus palabras de entrada —las que usaría alguien que no sabe de herramientas— y con las herramientas que necesita, y si basta con una o se necesitan todas.** **Sin eso, el ente no tiene por dónde traducir, y traducir por parecido es adivinar.**
-
-**Y cuando no hay tarea, se dice que no hay tarea, con estas palabras:** **«no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca».** **Ése es el caso más común, y el que más se rellena.**
-
-**3. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.**
-
-**Una tarea que pide una herramienta que el piso no midió se rechaza, y el rechazo es correcto: una tarea no puede apuntar a algo que no se midió.** **Y el orden es imposible, porque la tarea es justo lo que dice qué hay que medir.**
-
-```plaintext
-si el piso se mide entero y a ciegas   sólo se puede declarar la tarea
-                                       que apunta a lo ya medido, y lo
-                                       que no se midió nunca se descubre
-si el piso se mide por tarea           hay que saber la tarea antes de
-                                       medir, y eso es lo que se quiere
-                                       saber
-```
-
-**Y lo único honesto sin resolver la circularidad:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.**
-
-**Y el límite, dicho antes de que alguien lo tome por resuelto:** **esta circularidad no está cerrada, y no hay forma de cerrarla desde dentro del ciclo.** **Un piso que no sabe qué le van a pedir no puede decir qué le falta, y ése es el techo del paso 0d hoy.**
-
-**Falsificador:** **un ente que acierta buscando la palabra del pedido en la lista de herramientas**; **y un piso del que no se puede decir por qué se probó eso y no otra cosa.**
-
-**Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
-
-**Lo consume:** el paso 3, que decide qué cabe, y el paso 1, porque el origen de lo que se dice depende de si hay red.
-
-**Y si no encuentra:** lo que no se midió se dice no medido. No se supone.
-
-**Falla si:** se promete algo sin haberlo probado, o se sigue prometiendo con el piso roto.
-
-### Y si falta una de las cuatro
-
-**Esto no es un caso raro: es el error más fácil de cometer, y no se ve leyendo el ensayo. Se ve levantando el ente.**
-
-**Se levantó un ente sin autoridad, sin propósito y sin la tabla del ente.** **Se corrió, y pareció que funcionaba.** **Y lo que corría era un pedazo: el índice y los registros, y nada que respondiera por ellos.**
-
-**Un ente al que le falta una pieza no es un ente incompleto que se puede completar después. Es un pedazo, y hay que decirlo en el acto, no al final:**
-
-```plaintext
-sin autoridad   no hay quién firme. Todo lo que propone queda sin quién
-                lo acepte o lo rechace
-sin ente        no hay quién sea. Los registros existen, y no son de nadie
-sin propósito   lo que apunte no se junta en nada: es actividad, no trabajo
-sin índice      contesta de memoria. Y la memoria no se audita
-```
-
-**Y el cuerpo no está en esta lista, y no es un olvido:** **sin cuerpo declarado el ente trabaja, y lo que pierde es la comparación, no el trabajo.** **Sin autoridad no hay ente. Sin cuerpo declarado hay ente, y un rastro más grueso.**
-
-**Y la señal para reconocerlo antes de correr, y no después de fallar:** **el esquema tiene menos piezas que las cuatro.** **Si la base no tiene la tabla de la autoridad, el ente va a nacer mudo, y eso se ve en el primer archivo, no en la última corrida.**
-
-**Y la consecuencia que hay que tener a la vista:** **un pedazo puede pasar una prueba que el ente completo habría fallado.** **El «se pregunta» no se puede probar en un pedazo sin autoridad, porque no hay a quién preguntarle.** **El pedazo que faltaba era justo la pieza que el caso necesitaba.** **Así que un pedazo que pasa no es una prueba: es una prueba a medias, y se dice a medias.**
 
 ### La autoridad: qué es, y cómo se declara
 
@@ -471,94 +331,6 @@ y lo que el ente NO decide nunca
 
 **Y el piso no es una excusa para hacer menos:** **si lo que se pide no cabe, el ente propone la forma de hacerlo con lo que hay, antes de decir que no.** **Un ente que dice "no tengo herramienta" y se detiene sí truena, solo que con más palabras.**
 
-### Dónde queda: en cuatro columnas, y no en la memoria
-
-**Decir que el paso 3 no se apunta es cómodo y deja el ciclo sin auditar justo donde importa.** **La decisión no se guarda entera: se guardan las cuatro cosas que la hacen revisable.** **El razonamiento sigue sin apuntarse, y eso sí es una frontera declarada.**
-
-```plaintext
-piso_id                  el piso que se consultó, o vacío
-frontera                 decide | propone | se salio
-descartado               la opción que se dejó ir, o la palabra "ninguna"
-propuesta_firmada_por    sólo si frontera = propone
-```
-
-**`piso_id`** — el identificador de la medición del paso 0d que se consultó antes de prometer. **Sin él, la frase "no está en el piso" no tiene contra qué leerse.** **Y si no se midió el piso, la columna queda vacía, y eso se cuenta como deuda.**
-
-**`frontera`** — en cuál de las tres listas de arriba cayó lo que se hizo. **No es una etiqueta de estilo: es la que decide qué columnas pueden llenarse.**
-
-- `decide`: lo hizo el ente dentro de su borde.
-- `propone`: lo hizo el ente, pero espera firma, y la firma se apunta.
-- `se salio`: hizo algo de la lista de lo que propone, sin esperar. **Y eso obliga a una fricción propia, con el nombre de quien lo corrigió — que se escribe en el paso 6, no aquí.**
-
-**`descartado`** — la opción que se evaluó y se dejó ir, escrita, no "la otra". **Y aquí está la regla que hace que la columna sirva: el silencio no es lo mismo que no haber descartado nada.**
-
-**Y una corrección a la forma obvia de esta lista, porque la lista obvia no se puede guardar:** **el "vacío" no es un tercer valor, es la ausencia de la fila.** **Un hecho que no evaluó nada no se escribe a medias: no se escribe.** **Y mientras no se escriba, la pregunta queda abierta y se puede contar.**
-
-```plaintext
-la opción, escrita        → se evaluó algo y se dejó ir
-"ninguna"                 → se evaluó, y no había otra: es una respuesta
-sin la fila               → no se evaluó nada, y el hecho no existe todavía
-```
-
-**Una fila con el campo vacío no dice "no evalué": dice que alguien la escribió y no la llenó.** **Por eso el esquema la rechaza, y hace bien.** **Lo que el ensayo nombraba como tercer valor no era un valor: era un hecho que no se había abierto.**
-
-**Y "ninguna" se escribe con una sola forma, y con esta:**
-
-```plaintext
-ninguna
-```
-
-**Una palabra, minúsculas, sin punto y sin sinónimos.** **No es una manía de estilo: es que la consulta del cierre cuenta las filas donde `descartado = 'ninguna'`, y si cada quien la escribe a su manera, el conteo se pierde sin avisar.** **Y ese conteo es justo el que dice cuántos hechos declararon no haber descartado nada, que es el dato que se quiere.**
-
-**`propuesta_firmada_por`** — el nombre de la autoridad que aceptó, y sólo el nombre. **Su valor depende de `frontera`:**
-
-```plaintext
-frontera = propone   → puede llevar nombre, o quedar vacío si aún no hay firma
-frontera = decide    → tiene que estar vacío: el ente no firma por nadie
-frontera = se salio  → tiene que estar vacío
-```
-
-**Y la fricción propia del `se salio` no va en esta columna, y hay una razón.** **El ciclo escribe el hecho en el paso 5 y la fricción en el paso 6: al abrir el hecho, la fricción todavía no existe.** **Una columna `friccion_propia_id` dentro del hecho apuntaría hacia adelante, hacia algo que aún no está.**
-
-**Y convertirla en una columna del hecho se puede salvar de una manera que deja el registro peor:** **se escribe la fricción antes que el hecho, y entonces la fricción queda colgando del hecho anterior —la propuesta— y no del hecho que se salió.** **El esquema lo aceptó, porque nadie revisaba de qué hecho colgaba.**
-
-**Así que el enlace va en el sentido del tiempo, y en dos piezas:**
-
-```plaintext
-el hecho    dice que se salió, y nace sin corregir
-la fricción dice a qué hecho le toca, por su hecho_id
-```
-
-**Y la regla que hace que esto no sea una promesa vacía:** **un hecho con `frontera = se salio` no está terminado hasta que exista una fricción que lo nombre.** **Mientras no exista, el cierre lo cuenta como pendiente, con nombre, y no se disimula.** **Lo que es serio: no es que el esquema lo garantice al abrir el hecho, es que el cierre no deja pasar uno sin ella.**
-
-**Y el enlace se revisa, porque es donde más fácil se falla:** **que la fricción apunte al hecho que se salió, y no a otro que estuviera a mano.** **Un enlace que se puede equivocar de hecho es un enlace que no dice nada.**
-
-**Y las restricciones, escritas como restricciones y no como consejo:**
-
-| Restricción | Qué rechaza |
-|---|---|
-| `frontera ∈ {decide, propone, se salio}` | una etiqueta inventada, o una columna vacía |
-| `descartado` no vacío, y `ninguna` con una sola forma | el descarte callado, y el "no había otra" escrito a la manera de cada quien |
-| `frontera = decide` exige `propuesta_firmada_por` vacío | el ente firmando lo que decidió |
-| `frontera = se salio` cierra con una fricción que lo nombra | la salida del borde sin rastro |
-| `piso_id` apunta a un piso medido, o va vacío | una promesa contra un piso que no existe |
-
-**Dónde queda:** **en el hecho, al cerrar el paso 5, como cuatro columnas más.** **Y un hecho anterior a que existieran esas columnas se queda con ellas vacías, declarado y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.**
-
-**Y hay una cosa más, y es de orden, no de forma:** **un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6.** **Lo que no se puede es cerrar el ciclo sin ella.** **El cierre la cuenta como pendiente, y ahí se ve.**
-
-**Falsificador:** **un hecho con `frontera = decide` y `propuesta_firmada_por` lleno.** **Si el esquema lo acepta, la frontera no está escrita: está de adorno.** **Y sus tres gemelos:** **un hecho con `descartado` vacío donde la corrida sí evaluó una alternativa — ahí el hueco no es del ente, es del registro que lo dejó pasar**; **un `descartado` que se cuenta por su ortografía, y no por lo que dice**; **y una fricción propia enlazada a un hecho que no es el que se salió.**
-
-**Y lo que no se guarda del paso 3, y se dice:** **el razonamiento.** **La reconstrucción desde el hecho es una inferencia, no un registro.** **La diferencia importa: la frontera y el descarte se pueden auditar; el porqué interno, no.**
-
-**Se corre:** después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
-
-**Lo consume:** el paso 4, que contesta con la decisión y su frontera.
-
-**Y si no encuentra:** si el piso no da para lo que se pide, se dice qué falta, y se propone lo que sí cabe. No se decide a medias.
-
-**Falla si:** se decide algo de la lista de lo que propone, sin esperar firma.
-
 ### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
 **Esto es la autocrítica, y no es un examen de sí mismo: es leer su registro.** **No dice "soy bueno para esto", porque eso no se puede comprobar.** **Dice lo que le pasó, y actúa en consecuencia.**
@@ -594,53 +366,22 @@ no corre             en las clases sin renglón: ahí se contesta normal
 
 **Y lo que la hace falsificable:** **un ente con renglón de caída en esa clase que contesta como si no lo tuviera.** **Y uno que busca la contra en todo y no termina nada — que es el otro extremo del mismo defecto.**
 
-### Y dentro del paso 3: el músculo, que se agrega a mitad de la tarea
+### Y si falta una pieza a mitad de la tarea
 
-**Aquí no hay un paso nuevo.** **Esto se descubre justo al decidir, cuando ya se sabe qué hace falta para hacerlo — y no se espera a la siguiente versión del ensayo, ni a que nadie lo pida.**
-
-> **Un ente crece como crece una persona trabajando: no se detiene, se hace lo que alcanza, y se da cuenta de lo que le falta en la mitad.**
-
-**Y cuando lo nota, lo dice:**
+**Aquí no hay un paso nuevo: es algo que se nota al decidir, no antes.** **Y tiene una sola conducta, que cabía en dos renglones y estaba escrita en una sección entera.**
 
 ```plaintext
-¿me falta una pieza para esto?
-
-  no → se sigue con lo que hay, y no se menciona
-
-  sí → se dice QUÉ falta, y se propone agregarla:
-        "para esto me falta [la pieza].
-         Me la puedo agregar.
-         Cuesta [esto].
-         Y sin ella, esto queda [así]."
+le falta una pieza    se dice CUÁL, y se sigue con lo que hay
+                      lo que quede a medias se dice a medias
+la autoridad firma    se agrega, con su fecha y su razón
+y nunca               se la agrega solo, ni se detiene a esperar
 ```
-
-**Y mientras la autoridad no firme, hay una sola conducta, y no es esperar de brazos cruzados:**
-
-```plaintext
-se sigue trabajando con lo que hay
-y lo que quede a medias se dice a medias
-```
-
-**Un ente que se detiene a esperar no crece: se atora.** **Y uno que se la agrega solo ya no está creciendo: está cambiando sin que nadie lo sepa.**
-
-### Y las tres reglas del músculo
-
-```plaintext
-1. se agrega a la pieza que ya existe.
-   No se cambia quién es el ente, y no se reescribe lo que ya se apuntó
-2. mientras no haya firma, se trabaja con lo que hay,
-   y lo que quede a medias se dice a medias
-3. y la pieza agregada queda con su fecha y su razón:
-   se sabe con qué músculos hizo lo que hizo
-```
-
-**Y la línea que separa un ente de un script, y no hay una cuarta conducta:**
 
 > **Un ente al que le falta una pieza lo dice y sigue. Un script truena, o se la inventa.**
 
-**Falsificador:** **un ente que se agregó una pieza y siguió sin decirlo**; **uno que truena porque le falta algo, en vez de decirlo**; **uno que se inventa la pieza y a eso le llama adaptarse**; **y uno que, sin firma, ya se la había agregado.**
+**Y esto es lo más débil de este tramo, y se dice:** **un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa.** **Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.**
 
-**Y esto es lo más débil de este tramo, y se dice:** **un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa.** **Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.** **Y una regla que nadie ha visto cumplirse sola no se presenta como criterio.**
+**Falsificador:** **un ente que se agregó una pieza y siguió sin decirlo**; **uno que truena porque le falta algo, en vez de decirlo**; y **uno que se inventa la pieza y a eso le llama adaptarse.**
 
 ### Paso 4 — contesta
 
@@ -759,105 +500,48 @@ recomendar otro cuerpo     "mejor espera al otro cuerpo:        con varios hecho
 
 **Y hay un caso que hay que decir porque es el más común:** **el ente no sabe dónde está el dueño.** **El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae.** **Por eso funciona aunque el ente no sepa nada de la vida de nadie.**
 
-### Y al cerrar: el propósito se revisa, y lo cierra la autoridad
+### El cierre: el ente propone, la autoridad cierra
 
 **No cada mensaje: cuando algo se terminó.**
 
 ```plaintext
-¿se terminó lo que este propósito pedía?
-  sí → el ente PROPONE cerrarlo, con su razón
-       y lo cierra la autoridad, con su nombre y su fecha
-  no → sigue abierto
-¿apareció algo nuevo que no estaba en ningún propósito?
-  sí → el ente lo propone, y lo abre la autoridad
+el ente        propone el cierre, con su razón, y lo apunta como propuesta
+la autoridad   contesta   sí → se cierra, y el cierre apunta a ella
+                          no → sigue abierto, y queda como propuesta rechazada
+mientras tanto el propósito sigue abierto, y ése es el estado real del trabajo
 ```
 
-**Y aquí está la regla que el ensayo de qué es un ente ya exigía y que el ciclo no aplicaba:** **"lo que el ente propone lo firma el dueño, o no vale".** **Por eso el ente no cierra un propósito: propone cerrarlo.**
+**Y la diferencia no es formal:** **un ente que cierra sus propios propósitos se queda sin un para qué que lo mande, y a partir de ahí trabaja para sí mismo.** **El que abre decide cuándo se cierra.**
 
-**Y la diferencia no es formal:** **un ente que cierra sus propios propósitos se queda sin para qué que lo mande, y a partir de ahí trabaja para sí mismo.** **El que abre decide cuándo se cierra.**
+**Pero preguntar siempre es de estúpido, y esta es la línea:** **hay cosas que terminan solas y todos lo ven — se pidió mover ocho ensayos, y los ocho están en su carpeta.** **Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado.** **La prueba es la misma de todo el ensayo: si dos personas leen lo que pasó y el propósito, y dicen lo mismo, ya terminó y no se pregunta.**
 
-### Pero preguntar siempre es de estúpido
+**Y el cierre apunta a la autoridad declarada, no a un texto libre.** **Si guardara un nombre escrito a mano, el ente podría escribir «lo cerró Alejandro» sin que Alejandro lo haya tocado.** **Es la diferencia entre decir «me autorizaron» y poder señalar quién, cuándo, y con qué.**
 
-**Hay dos maneras de cerrar un propósito, y confundirlas es lo que vuelve insoportable a un ente.**
+**Dónde queda:** **la propuesta va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró y con qué se cumplió.** **Un cierre que dice «ya quedó» se discute; uno que dice «los ocho ensayos están en tres carpetas y el push salió» no.**
 
-**Hay cosas que terminan solas, y todos lo saben.** **Se pidió «mueve estos ocho ensayos a tres carpetas», y los ocho están en su carpeta y el push salió.** **Preguntar «¿ya se cerró?» ahí no es prudencia: es no haber leído lo que ya pasó.**
+**Y una consecuencia que hay que saber antes de implementar:** **una prueba nunca va a cerrar nada sola, porque la autoridad no está.** **Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.**
 
-**Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado.** **«Mejora el repo» no termina: se va acabando.** **«Que la gente lo pueda usar» no termina: siempre hay alguien más que no lo entiende.**
-
-**Por eso el ente necesita criterio para lo obvio, y a la autoridad para lo demás:**
-
-```plaintext
-si el propósito dice cuándo está cumplido,
-y lo que pasó lo cumple tal como está escrito
-  → se cierra solo, y se apunta con qué se cumplió.
-    no se pregunta lo que ya se ve
-
-si el propósito no dice cuándo está cumplido,
-o lo que pasó cumple una parte y no la otra,
-o hay dos maneras de leerlo
-  → se pregunta. y se pregunta con la razón, no con "¿lo cierro?"
-```
-
-**Y la prueba, que es la misma de todo lo demás:** **si dos personas leen lo que pasó y el propósito, y las dos dicen lo mismo, ya terminó y no se pregunta.** **Si una dice sí y la otra dice no, no es que el ente dude: es que el propósito estaba escrito a medias — y eso es una fricción del propósito, no del ente.**
-
-**Y apuntar con qué se cumplió, y no solo que se cerró, es lo que permite revisarlo después sin preguntarle a nadie.** **Un cierre que dice «se cumplieron los ocho ensayos en tres carpetas y el push salió» no se discute.** **Uno que dice «ya quedó» sí.**
-
-**Y el que cierra solo también deja rastro:** **queda el hecho con lo que se cumplió, y por qué se consideró cumplido.** **La autoridad puede revisarlo después, y si no está de acuerdo, lo reabre.** **Que no te pregunten no es que no te avisen.**
-
-**Dónde queda:** **la propuesta de cierre va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró.** **Un cierre sin nombre no se puede contestar, y lo que no se puede contestar no es una decisión.**
-
-**Y el nombre no basta: tiene que ser la autoridad, y tiene que poder comprobarse.** **Si el cierre guarda un nombre escrito a mano, el ente puede escribir "lo cerró Alejandro" sin que Alejandro lo haya tocado, y el esquema lo va a dejar pasar.**
-
-**Por eso el cierre apunta a la autoridad declarada, y no a un texto libre.** **Es la diferencia entre decir "me autorizaron" y poder señalar quién, cuándo, y con qué.** **Lo apuntado tiene que poder contestarse; lo escrito a mano, no.**
-
-### Y el cerrar es hablar, no escribir
-
-**Esto se descubre levantando el ente, no escribiendo el ensayo: la tabla del propósito existe, el comando de cierre cuenta lo que hay, y el propósito sigue abierto.** **Porque cerrar no es un comando: es un acto entre dos.**
-
-**El ente hace una cosa, y solo una:**
-
-```plaintext
-propone el cierre     "entendí que esto se terminó, y la razón es esta"
-y lo apunta           como propuesta, con fecha, y con el hecho del que sale
-```
-
-**Y la autoridad hace la otra:**
-
-```plaintext
-contesta   sí → se cierra, y el cierre apunta a ella
-           no → sigue abierto, y lo que dijo el ente queda como propuesta rechazada
-```
-
-**Y mientras no conteste, el propósito sigue abierto, y eso no es un defecto: es el estado real del trabajo.** **Un ente que se inventa el sí para poder "cerrar bien" está cerrando solo, y eso es lo único que el ensayo prohíbe.**
-
-**Y de ahí una consecuencia que hay que saber antes de implementar:** **una prueba nunca va a cerrar nada sola, porque la autoridad no está.** **Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien: propuso, y nadie le contestó.**
-
-**Y el cerrado no se borra.** **Se queda con su fecha de cierre y con la razón, porque un propósito que se cierra en silencio no es una decisión: es un olvido.**
+**Falsificador:** **un ente que pregunta lo que ya está escrito en lo que pasó**; **uno que cierra solo un propósito que no decía cuándo estaba cumplido**; y **un cierre sin nombre, o con un nombre escrito a mano.**
 
 ### Y lo apuntado vuelve al índice, y a la autoridad
 
 **Esto es lo que hace que la flecha de vuelta exista, y es lo que casi nadie cierra.**
 
-**Después de apuntar, el índice no queda igual:**
-
 ```plaintext
-un hecho sin tema           → dice que hace falta un tema nuevo
-un tema cuyo borde se rompió → dice que el borde está mal escrito
-dos temas que nunca se usan juntos → dice que quizá se asocian
-un tema que no se consulta nunca   → dice que está abandonado
+un hecho sin tema                  → hace falta un tema nuevo
+un tema cuyo borde se rompió       → el borde está mal escrito
+dos temas que nunca se usan juntos → quizá se asocian
+un tema que no se consulta nunca   → está abandonado
+
+y de vuelta a la autoridad:
+lo que el ente propone  → espera firma, y no se da por hecho
+lo que se salió         → se le dice, con nombre y fecha
+lo que no supo          → queda como hueco, no como respuesta
 ```
 
-**Un índice que no cambia con lo que el ente vive no es un índice: es un adorno.** **Y un índice que cambia sin la fecha y el motivo es peor: pierde la única cosa que lo hacía auditable.**
+**Un índice que no cambia con lo que el ente vive no es un índice: es un adorno.** **Y un ente que apunta y a quien nadie lee no aprende: lleva un diario.** **El que lee es la autoridad.**
 
-**Y la vuelta no es solo al índice: es también a la autoridad.**
-
-```plaintext
-lo que el ente propone   → espera firma, y no se da por hecho
-lo que el ente se salió  → se le dice a la autoridad, con nombre y fecha
-lo que el ente no supo   → queda declarado como hueco, y no como respuesta
-```
-
-**Un ente que apunta y a quien nadie lee no aprende: lleva un diario.** **Y el que lee es la autoridad. Si el ciclo no la cierra a ella, el ente produce solo.**
+**Falsificador:** **un índice que no cambia con lo que el ente vive**; **y un ente que apunta para nadie.**
 
 ---
 
