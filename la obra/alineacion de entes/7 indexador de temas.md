@@ -9,11 +9,11 @@
 
 ### Cómo se lee este ensayo
 
-**Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que correr.** **Sólo §XII y las Fuentes se pueden saltear, y se leen al citarlo.**
+**Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que correr.** **Sólo §XI y las Fuentes se pueden saltear, y se leen al citarlo.**
 
-**La ruta corta, si el tiempo es poco:** **§II (la inversión), §VII (el borde como dato) y el falsificador del final.** **Con eso se levanta un índice; el resto dice qué le falta.**
+**La ruta corta, si el tiempo es poco:** **§II (la inversión), §IV (el borde, y de ahí a su ensayo) y el falsificador del final.** **Con eso se levanta un índice; el resto dice qué le falta.**
 
-**Y dónde está lo que más se olvida, sin buscarlo:** **el «se pregunta» del §VII es el único valor del borde que necesita que alguien esté del otro lado.** **Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.**
+**Y dónde está lo que más se olvida, sin buscarlo:** **el «se pregunta» del borde es el único valor que necesita que necesita que alguien esté del otro lado.** **Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.**
 
 ---
 
@@ -65,6 +65,8 @@ Un tema tiene que decir dónde termina. Dos formas de hacerlo, y se puede usar c
 
 **La regla:** un tema sin borde no es un tema, es una intención. Y el borde no se puede dejar a la interpretación de quien pone la pieza: **si dos personas leen el borde y clasifican distinto, el borde está mal escrito** — el problema es del texto, no del que lo lee.
 
+**Y un borde que no se puede correr no es un borde: es una intención con buena redacción.** **Cómo se escribe para que se pueda correr, con sus casos y su prueba, está en `8 el borde del tema`.** **Aquí basta la regla; allá está el mecanismo.**
+
 ---
 
 ## V. Cómo cambia el índice
@@ -90,17 +92,9 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 ---
 
-## VII. El borde como dato, no como idea
+## VII. Las tablas del índice, y las operaciones que lo cambian
 
-**El borde del tema, con sus casos y su prueba, tiene ensayo propio porque creció más que el resto:** **está en `8 el borde del tema`.**
-
-**Y lo único que este ensayo necesita decir aquí:** **un borde que no se puede correr no es un borde, es una intención.** **Si dos personas lo leen y clasifican distinto, el borde está mal escrito — y el problema es del texto, no del que lo lee.**
-
----
-
-## VIII. Las tablas del índice, y las operaciones que lo cambian
-
-**El §III dice las tres relaciones y el §IX los tres datos de la supersesión.** **Falta decir en qué se guardan, porque un grafo sin forma no se puede consultar.**
+**El §III dice las tres relaciones y el §VIII los tres datos de la supersesión.** **Falta decir en qué se guardan, porque un grafo sin forma no se puede consultar.**
 
 **Son dos cosas, y el resto cuelga de ellas:**
 
@@ -137,7 +131,7 @@ entra la pieza → se compara contra cada tema vigente
 
 ---
 
-## IX. La supersesión, y dónde se guarda su pérdida
+## VIII. La supersesión, y dónde se guarda su pérdida
 
 **Este mismo ensayo dice — y lo dice también el §V — que el que cambia el índice tiene que decir qué se pierde con el cambio.** **Falta decir dónde se guarda eso, porque un "qué se pierde" que vive en la cabeza no es una pérdida: es un comentario.**
 
@@ -157,7 +151,7 @@ qué se pierde   qué deja de caber cuando el nuevo entra
 
 ---
 
-## X. Cuándo se consulta, que es lo que lo vuelve un ciclo
+## IX. Cuándo se consulta, que es lo que lo vuelve un ciclo
 
 **Un índice que no dice cuándo se abre no es un paso del ciclo: es un apéndice.** **Y el ensayo de escritura en procesos ya lo dijo para los procesos: lo que no dice cuándo ocurre, no ocurre.**
 
@@ -179,7 +173,7 @@ qué se pierde   qué deja de caber cuando el nuevo entra
 
 ---
 
-## XI. La reconstrucción, y de qué piezas se rehace
+## X. La reconstrucción, y de qué piezas se rehace
 
 **El §VI dice que el índice se puede tirar y volver a armar, y el §II dice que el grafo manda y el texto se deriva.** **Falta decir de qué se rehace, porque "las piezas" no dice nada.**
 
@@ -204,7 +198,7 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
 
 ---
 
-## XII. Lo que este ensayo no da
+## XI. Lo que este ensayo no da
 
 **No da una herramienta.** Lo que aquí se propone es una forma, y la forma no presupone ninguna tecnología: se puede llevar en archivos de texto con una convención de anotaciones, en una base de datos relacional, o en un grafo dedicado. La elección depende de cuántas piezas hay, de quién las toca y de qué tan rápido cambian.
 

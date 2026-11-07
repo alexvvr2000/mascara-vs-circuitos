@@ -5,11 +5,29 @@
 
 > **Para qué sirve este archivo.** Quien lea tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
 
-**Y antes de las diez, una advertencia:** **este trabajo no sale de la nada.** **Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md).** **Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.**
+**Y antes de la lista, una advertencia:** **este trabajo no sale de la nada.** **Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md).** **Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.**
 
 ---
 
 ## Las once afirmaciones
+
+**Y no son once ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.**
+
+```plaintext
+un ente es su rastro                          (1)
+por eso no tiene cuerpo, y necesita autoridad (2)
+por eso el criterio no se recuerda: se apunta  (3)
+y como el que piensa cambia, el sesgo se separa del criterio (4)
+y como la máquina rellena, se escribe en proceso (5)
+y como eso cuesta, se mide por resultado verificable (6)
+y si el costo baja, sirve para modelos pequeños (7)
+y para que nada de eso se pierda, la forma manda en el índice (8)
+y nada de eso sirve si no se entiende al que pide (9)
+y lo que se busca no está adentro (10)
+y lo único que no llegó con la máquina es el esfuerzo (11)
+```
+
+**Si se cae el eslabón 1, los otros diez no se sostienen solos.** **Por eso el ensayo que lo defiende es el primero, y por eso cada afirmación vive en un ensayo con su falsificador.**
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
@@ -142,7 +160,7 @@ Lo que no sirve es discutir el ánimo: **si el trabajo se cae, se cae por su pru
 | En el índice, la forma es la fuente | [`ente 4 - CANTERA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el borde mira los campos, no el texto |
 | Los entes necesitan el piso medido | [`ente 7 - PISO`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | midió, y dijo qué falta en vez de «no pude» |
 
-**Y lo que esta tabla no dice:** **ninguna de estas diez ideas ha sido probada por alguien que no sea el autor.** **Se sostienen, y no se presentan como validadas.**
+**Y lo que esta tabla no dice:** **ninguna de estas once ideas ha sido probada por alguien que no sea el autor.** **Se sostienen, y no se presentan como validadas.**
 
 ---
 

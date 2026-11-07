@@ -101,15 +101,9 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 **Por eso el oficio cambió, y aquí se dice.** **Escribir código es cada vez menos el trabajo, y dirigir procesos es cada vez más.** Y ahí está el problema, que no es nuevo pero ahora duele más: **se dirigen procesos que no entienden lo que se les pide.** Un pedido claro a un proceso que no comprende el para qué produce algo coherente con la letra y ajeno al propósito — **y como el resultado se ve bien, el malentendido se descubre en la segunda versión.**
 
-**Y de ahí la frase que cierra el ensayo:**
+**Y de ahí una distinción que ordena el resto del ensayo, y que se contesta mal casi siempre:** **¿haces lo que quieres, o usas las herramientas que tienes?** **Son dos preguntas distintas, y casi siempre se contesta la segunda pensando que era la primera.**
 
-> **¿Haces lo que quieres, o usas las herramientas que tienes?**
-
-**Son dos preguntas distintas, y casi siempre se contesta la segunda pensando que era la primera.** Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se quería. **Una herramienta que parece una persona y no sabe lo que quieres es exactamente un martillo con mejor conversación.**
-
-**La empatía es la que impide que esa confusión pase sin verse.** Preguntar qué parte es requisito y qué es costumbre; averiguar cómo está hecha la otra parte antes de pedirle algo; **y decir el para qué antes de pedir el cómo.** Sin eso, el criterio del §VI no tiene sobre qué ser criterio: **solo sabe por qué uno tenía razón sobre lo que se le pidió, y no sobre lo que hacía falta.**
-
-**Un ente sin propósito no es un ente más rápido: es un martillo que se mueve mucho.** **Y lo que lo distingue no es la potencia: es que puede decir para qué existió lo que hizo.**
+**Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se quería.** **Una herramienta que parece una persona y no sabe lo que quieres es un martillo con mejor conversación.**
 
 ### El caso que lo prueba, y es de este mismo trabajo
 
@@ -144,6 +138,16 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 **Eso es todo lo que este trabajo ofrece como protección, y no es poco: el registro es para las personas, no para la máquina.** **No vuelve al ente cuidadoso. Lo vuelve revisable, y eso es lo único que alguien puede usar desde afuera.**
 
 **Y el límite, dicho sin adorno:** **publicar no garantiza que se use bien.** **Lo que garantiza es que, cuando se use mal, se pueda señalar quién lo decidió y con qué razón.** **Eso es menos de lo que promete la industria y más de lo que entrega.**
+
+---
+
+### Y por qué esto cierra el ensayo, y no lo abre
+
+**La empatía es la que impide que esa confusión pase sin verse.** **Preguntar qué parte es requisito y qué es costumbre; averiguar cómo está hecha la otra parte antes de pedirle algo; y decir el para qué antes de pedir el cómo.**
+
+**Sin eso, el criterio del §VI no tiene sobre qué ser criterio: solo sabe por qué uno tenía razón sobre lo que se le pidió, y no sobre lo que hacía falta.**
+
+**Y un ente sin propósito no es un ente más rápido: es un martillo que se mueve mucho.** **Y lo que lo distingue de un martillo no es la potencia: es que puede decir para qué existió lo que hizo.**
 
 ---
 

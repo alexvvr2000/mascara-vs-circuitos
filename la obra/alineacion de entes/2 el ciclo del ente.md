@@ -25,13 +25,13 @@ la autoridad · el ente · el propósito · el índice
 
 ---
 
-## I. El ciclo entero, paso por paso
+## I. El ciclo, en una línea
 
 **El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo.** **Y lo que no está escrito, se rellena — y se rellena distinto cada vez.**
 
-**Este es el ciclo completo, y cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.**
+**Este ensayo es el ciclo completo: cada paso con su forma de proceso —qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.**
 
-### El ciclo, en una línea
+### El mapa
 
 ```plaintext
 autoridad → entiende → recibe → consulta el índice → decide → contesta → apunta → se corrige
@@ -42,6 +42,8 @@ autoridad → entiende → recibe → consulta el índice → decide → contest
 **Y la posición del índice no es un detalle:** **se consulta antes de decidir, no después.** **Quien decide primero y busca después no está consultando el índice: está buscando con qué justificar lo que ya quería hacer.**
 
 **Y la autoridad va primero, no por cortesía:** **un ente sin autoridad no es un ente: es una máquina tomando decisiones de alguien que no está.** **El ciclo entero existe para servir a un para qué que el ente no puso.**
+
+## II. Antes de la primera vuelta: un orden que no es obvio
 
 ### Y por qué el 0a y el 0d van antes del 0b
 
@@ -214,6 +216,8 @@ roto       no se cumplió. Y entonces es una fricción, no una nota
 **Pero un supuesto que nunca se cierra no se queda olvidado: vuelve.** **Cuando aparece la misma clase de hecho otra vez, el supuesto pendiente se pregunta antes de repetir.** **Un supuesto que nadie volvió a mirar es peor que ninguno, porque se leyó como si estuviera confirmado.**
 
 **Y `roto` no se anota en el hecho: se anota en la fricción.** **Porque el error es del ente, que entendió mal, y no del que pidió.** **Y la fricción ya tiene su campo: por qué era creíble.** **"Lo supuse porque no había con quién confirmar" es un porqué perfectamente válido, y de los que más se repiten.**
+
+## III. El ciclo, vuelta por vuelta
 
 ### Paso 1 — recibe
 
@@ -511,6 +515,8 @@ recomendar otro cuerpo     "mejor espera al otro cuerpo:        con varios hecho
 **Y la recomendación nunca va sola: va con la razón y con los números.** **Un ente que dice "cambia de modelo" sin poder abrir el renglón no está diagnosticando: está opinando.**
 
 **Y hay un caso que hay que decir porque es el más común:** **el ente no sabe dónde está el dueño.** **El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae.** **Por eso funciona aunque el ente no sepa nada de la vida de nadie.**
+
+## IV. Cerrar, y volver al índice
 
 ### El cierre: el ente propone, la autoridad cierra
 

@@ -55,9 +55,9 @@ Las tres primeras hacen un autómata. **La cuarta hace un ente con algo que sost
 
 ---
 
-## III. El bucle completo, y por qué el orden importa
+## III. El bucle, y el orden en que se recorre
 
-**El §II dice las partes; esto dice el orden en que se recorren.**
+**Las cinco partes del §II no están en una lista: están en una secuencia, y el orden hace trabajo.**
 
 ```plaintext
 recibe → decide → contesta → apunta lo que hizo → se corrige
@@ -65,13 +65,13 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 
 **Y de esas cinco, dos no se ven desde fuera: la decisión y la corrección.** **Un ente que contesta y apunta se puede leer, pero no se puede juzgar: lo que no se ve es qué descartó, y qué hizo con lo que se cayó.**
 
-**Y se corrige con qué:** con lo que apuntó. Si el paso cuarto no existe, el quinto tampoco puede: un ente sin rastro no tiene con qué corregirse. Se repite igual, y a eso le llamamos constancia.
+**Y la corrección depende del rastro, que es lo único que sobrevive a la vuelta.** **Un ente sin rastro no tiene con qué corregirse: se repite igual, y a eso se le llama constancia.** **Constancia y aprendizaje se ven idénticos desde fuera, y la diferencia es una sola: si hay algo escrito contra qué compararse.**
 
-**El bucle no se cierra solo.** Lo que lo cierra es que alguien lea el rastro y actúe. Un ente que apunta y a quien nadie lee no está aprendiendo: está llevando un diario.
+**Y el bucle tampoco se cierra solo.** **Lo cierra que alguien lea el rastro y actúe.** **Un ente que apunta y a quien nadie lee no aprende: lleva un diario con buena letra.**
 
 ---
 
-## III bis. La objeción que hay que contestar: ¿y mi script?
+## IV. La objeción que hay que contestar: ¿y mi script?
 
 **Un script recibe un archivo, decide qué hacer, escribe otro, y anota lo que hizo.** **Cumple la definición del §I al pie de la letra.** **Y el primer paso del ciclo, en cambio, pide autoridad, propósito e índice.**
 
@@ -90,7 +90,7 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 
 ---
 
-## IV. Por qué un ente necesita una autoridad, y no es por respeto
+## V. Por qué un ente necesita una autoridad, y no es por respeto
 
 **Todo lo anterior describe cómo se reconoce un ente. Esto explica por qué uno de sus componentes no puede ser opcional, y por qué el que lleva ese nombre no es un jefe.**
 
@@ -187,7 +187,7 @@ sin ego        la contradicción es información, y se responde con
 
 ---
 
-## V. Dónde vive, y qué es de quién
+## VI. Dónde vive, y qué es de quién
 
 Un ente vive en un entorno que se lo carga: una aplicación, un harness, una conversación. **Ese entorno no es el ente.** El entorno es el cuarto; el ente es lo que hace en el cuarto.
 
@@ -197,7 +197,7 @@ Esto no es un formalismo. **Un ente que no distingue lo que propone de lo que le
 
 ---
 
-## VI. Por qué importa definirlo antes de medir
+## VII. Por qué importa definirlo antes de medir
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: **la superficie**.
 
@@ -205,7 +205,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-## VII. La parte de afuera, y por qué un ente no está solo
+## VIII. La parte de afuera, y por qué un ente no está solo
 
 **La definición dice que el ente es lo que hace en el cuarto, no el cuarto.** **Pero eso es del entorno, y hay otra cosa distinta: lo que el ente *es* y vive fuera de donde se ejecuta.**
 
@@ -215,7 +215,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-## VIII. Un ente nunca trabaja solo, aunque esté en una ventana
+## IX. Un ente nunca trabaja solo, aunque esté en una ventana
 
 **Esto es lo que se pierde cuando se mide un ente como si fuera una máquina de un solo sentido.**
 

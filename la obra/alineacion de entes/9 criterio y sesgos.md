@@ -201,7 +201,7 @@ recomendar otro cuerpo     con varios hechos y una diferencia que
 
 ---
 
-## VIII. De dónde salió esto: declarar, no alucinar
+## VIII. Declarar, y no alucinar: el origen de lo que se afirma
 
 **Ésta es la regla que el ensayo pedía y no tenía escrita.**
 

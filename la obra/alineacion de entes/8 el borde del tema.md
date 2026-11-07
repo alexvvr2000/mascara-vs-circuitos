@@ -6,7 +6,7 @@
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> **Y este ensayo es la §VII del indexador, sola.** **Se separó porque creció más que el resto: el borde es la parte del índice que decide, y estaba dentro de un ensayo que habla de todo lo demás.** **El índice completo está en `7 indexador de temas`.**
+> **Y este ensayo es la parte del borde del indexador, sola.** **Se separó porque creció más que el resto: el borde es la parte del índice que decide, y estaba dentro de un ensayo que habla de todo lo demás.** **El índice completo está en `7 indexador de temas`.**
 
 ---
 

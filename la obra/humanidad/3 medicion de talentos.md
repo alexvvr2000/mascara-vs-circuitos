@@ -179,7 +179,7 @@ el conteo, que ahora sí suma
 
 ---
 
-### Y la pregunta vieja: esfuerzo o talento
+## IX. Y la pregunta vieja: esfuerzo o talento
 
 **La pregunta se hace desde hace siglos, y casi siempre se contesta mal porque se contesta con una preferencia.**
 
@@ -205,7 +205,7 @@ y los dos    ninguno dice si lo que se hizo hacía falta
 
 ---
 
-## IX. Lo suficiente no es una rendición
+## X. Lo suficiente no es una rendición
 
 **Este ensayo mide costo por resultado. Y medir el costo obliga a una pregunta que casi nunca se hace: ¿cuánto de lo que se compra hacía falta?**
 
