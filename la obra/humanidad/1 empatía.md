@@ -113,7 +113,7 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 ### El caso que lo prueba, y es de este mismo trabajo
 
-**Conviene decirlo con un ejemplo real, porque la teoría se discute y el ejemplo no.**
+**Y aquí está el caso, que no es una suposición: pasó en este mismo trabajo.**
 
 **Los ensayos de este repositorio crecieron desiguales: uno llegó a diez mil palabras y los otros se quedaron en dos mil.** **Quien los mantiene lo señaló: un ensayo desproporcionado aburre, y hay lectores que sólo quieren una parte.**
 
