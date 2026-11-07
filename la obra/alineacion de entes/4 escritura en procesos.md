@@ -122,9 +122,9 @@ proceso       dices qué hace falta que exista, y que pase
 
 **Cuando una IA escribe el código, ese piso desaparece y no se repone nada.** **El que antes no podía equivocarse porque el compilador se lo impedía, ahora puede equivocarse entero y el programa corre igual de bien.**
 
-### Y eso tiene nombre: código sin objetivo
+### Y eso tiene nombre: vibe coding
 
-**Lo que la industria llama programar por intuición es una cosa más simple, y peor: es escribir código sin un objetivo claro.**
+**A eso se le llama «vibe coding», y el término se usa tal cual, porque es el nombre que ya tiene.** **Y describe una cosa más simple, y peor, de lo que su nombre sugiere: es escribir código sin un objetivo claro.**
 
 **Y la diferencia no es de estilo; es la que separa un oficio de una actividad:**
 

@@ -81,7 +81,30 @@
 
 ---
 
-## 5. La licencia, y qué puedes hacer
+## 5. En qué idioma está escrito, y por qué así
+
+**Está escrito en español, y no traduce los términos que ya tienen nombre en su oficio.**
+
+**No es descuido ni mezcla: es la forma de no sonar a doblaje.** **Un término que la industria usa —`vibe coding`, `harness`, `repo`, `prompt`— se queda como está, porque traducido inventa una frase que nadie dice y esconde la cosa que se está nombrando.**
+
+**Y la línea que separa eso del spanglish:**
+
+```plaintext
+se queda igual      el término que nombra una práctica, una herramienta
+                    o un objeto que existe con ese nombre
+
+se escribe en
+español             todo lo demás: lo que se explica, lo que se afirma,
+                    lo que se demuestra
+```
+
+**Y la prueba, que es la misma de siempre:** **si alguien del oficio lee el término y sabe de qué se habla, se queda.** **Si hay que traducirlo para que se entienda, entonces no era un término: era una palabra que se podía escribir en español desde el principio.**
+
+**Lo que esto no es:** **no es permiso para meter inglés a media frase.** **Una oración no se parte para usar la palabra de moda; se usa el término donde es el nombre de algo, y el resto se dice en español.**
+
+---
+
+## 6. La licencia, y qué puedes hacer
 
 **Este trabajo está bajo `CC BY 4.0`.** **Puedes leerlo, citarlo, compartirlo y construir encima, con atribución.**
 
