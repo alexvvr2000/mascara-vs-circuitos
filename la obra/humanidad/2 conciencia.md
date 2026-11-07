@@ -90,9 +90,17 @@ No sé qué sea eso que llamamos conciencia.
 
 *Cita tomada de la película animada de 2011; el fragmento es breve, se cita con atribución, y no se reproduce más de lo necesario.*
 
+### Y de ahí nace lo que sigue, porque Luthor preguntó y nadie contestó
+
+**Y fíjate de dónde salió esa cita: de una película.** **No de un paper, no de una conferencia, no de un instituto.** **Y ése es todo el punto que sigue, y no es un desvío: es de donde viene el argumento.**
+
+**Luthor hizo una pregunta que este ensayo no puede contestar y no intenta contestar.** **Y la hizo en una película, donde nadie le pidió un marco teórico antes de preguntarla.** **Eso es lo que la ficción hace y la academia casi no: pregunta primero y se justifica después, o no se justifica.**
+
 ### Y la ficción hace la pregunta que la academia no se atreve
 
 **Hay una diferencia entre lo que hace la ficción y lo que hace la academia, y no es de rigor: es de atrevimiento.**
+
+**Y la cita de Luthor es el caso, no el ejemplo decorativo:** **una frase sobre la conciencia dicha por un villano animado, que dice algo que un paper tardaría veinte páginas en atreverse a escribir sin calificarlo.**
 
 **La ficción hace la pregunta.** **No necesita un marco teórico para decir «¿y si la conciencia fuera esto?».** **La dice, y se sostiene o se cae por su cuenta.** **Y por eso hay películas que llegan a lugares donde un paper no llega: no porque sepan más, sino porque nadie les pidió permiso antes de preguntar.**
 
