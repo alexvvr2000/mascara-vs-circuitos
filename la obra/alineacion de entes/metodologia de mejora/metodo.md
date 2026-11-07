@@ -492,7 +492,36 @@ ya es consciente como un humano   no se puede probar, y no se escribe
 
 **Y su falsificador:** **un método que se presenta como prueba de que la máquina piensa**; **y uno que se presenta como prueba de que no piensa.** **Los dos dicen más de lo que se midió.**
 
+### Y una forma de caer que ya cayó, y se escribe para que no se repita
+
+**Esto no es una confesión: es un modo de fallo, y va escrito donde se pueda volver a leer.**
+
+**Lo que pasó.** **Se revisó el ciclo buscando frases vagas, se encontró una que explicaba un problema sin decir qué hacer, se corrigió, y se declaró el ciclo verificado.** **No se corrió nada.**
+
+**Y la conclusión que se sacó de ahí fue falsa:** **que el ciclo estaba listo porque el texto ya no tenía frases vagas.**
+
+**Por qué es un error y no un descuido:**
+
+```plaintext
+un barrido     lee el texto y encuentra lo que suena mal
+                → arregla la redacción
+
+una corrida    levanta el ente y encuentra lo que no se pudo construir
+                → cierra el paso que faltaba
+```
+
+**El barrido no sustituye a la corrida, y es fácil confundirlos porque los dos se sienten como trabajo terminado.** **Leer con cuidado se parece mucho a verificar.** **Y no lo es: el barrido no puede encontrar un paso que falta, porque un paso que falta no está en el texto para que se lea mal.**
+
+**Se reconoce en el acto, y por eso se escribe:**
+
+**cuando la justificación de que algo está completo es «ya lo leí y ahora se entiende», no se verificó: se editó.**
+
+**Y lo que se hace en su lugar:** **si un mecanismo se acaba de escribir, lo siguiente no es leerlo: es correrlo con el caso que lo rompería.**
+
+**Falsificador:** **un método que declara un paso completo sin haber corrido el caso que lo pone a prueba** — **y el caso más común es el que el propio método acaba de inventar, porque es el que nadie ha tocado todavía.**
+
 ---
+
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
@@ -512,6 +541,12 @@ la novena         la tarea: el ente contesta por tarea y no buscando
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
                           con un caso simulado, y lo dijo)
 la condición 2            declarada, no cumplida: no hay un tercero
+la corrida 10              pendiente, y es la que más urge: el mecanismo
+                          por el que el piso crece con cada tarea que
+                          no pudo contestar está escrito y nunca se ha
+                          corrido. es el caso que el método mismo
+                          acaba de inventar, y por eso es el que hay
+                          que probar primero
 ```
 
 **Y la regla de parada se estrenó, y dice que esta serie no ha terminado.**
