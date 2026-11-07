@@ -88,8 +88,6 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y eso, para mí, no suena a problema: suena a que la alucinación puede ser algo bueno y beneficioso para todos.**
 
-*Cita tomada de la película animada de 2011; el fragmento es breve, se cita con atribución, y no se reproduce más de lo necesario.*
-
 ### Y de ahí nace lo que sigue, porque Luthor preguntó y nadie contestó
 
 **Y fíjate de dónde salió esa cita: de una película.** **No de un paper, no de una conferencia, no de un instituto.** **Y ése es todo el punto que sigue, y no es un desvío: es de donde viene el argumento.**
@@ -245,6 +243,14 @@ No sé qué sea eso que llamamos conciencia.
 **No afirma que la conciencia sea información.** **Afirma algo más pequeño y más raro: que lo que se puede ver de ella está fuera, y que lo de fuera se puede guardar.**
 
 **Y no afirma que esto sea lo único.** **Este trabajo es una implementación, y hay muchas conclusiones posibles.** **Lo que aquí se sostiene es una: la de su autor.**
+
+---
+
+### De las citas de este ensayo
+
+**Las citas de ficción se hacen por su nombre y con atribución, y no se reproduce más de lo necesario:** **la de *All-Star Superman* es un fragmento breve de la película animada de 2011; la de *Arrival* es una mención de su trama, sin reproducir diálogo ni imágenes.**
+
+**Y la referencia bíblica va en paráfrasis, no en cita literal:** **el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y parafrasear dice lo mismo sin usar las palabras de otro.** **Para citar el versículo literalmente habría que añadir el aviso de derechos que esa versión exige.**
 
 ---
 

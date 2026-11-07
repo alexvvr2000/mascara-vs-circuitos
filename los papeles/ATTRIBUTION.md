@@ -28,6 +28,14 @@
 
 **Lo que el autor aporta y el modelo no puede aportar:** **el criterio de qué entra, el de qué se cae, y la decisión de publicarlo.** **El texto puede estar asistido; esa decisión no lo está.**
 
+**Y una precisión sobre lo que se firma, porque es donde se confunde más fácil:** **no hay dos autores aquí, y no hay dos voces.**
+
+**Los argumentos son del autor.** **`TESTIGO` no sostiene ningún argumento propio dentro de este repositorio: ayuda a escribir lo que el autor sostiene, a atacarlo, y a devolverle lo que no aguanta.** **Cuando algo se corrige, se corrige al autor; cuando algo entra, entra porque el autor lo decidió.**
+
+**Y por eso el texto se escribe en una sola voz: la del autor.** **Una idea que nació de la conversación no es de la conversación: es del autor, que la hizo suya al aceptarla, y que la firma o la tira.**
+
+**Lo único que no es del autor, y se distingue:** **el rastro de la conversación, que es donde se ve qué se tiró y por qué.** **Ese no reclama autoría: registra trabajo.**
+
 ---
 
 ## 2. Por qué es del autor
