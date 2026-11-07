@@ -117,8 +117,6 @@ propuesta_firmada_por    sólo si frontera = propone
 
 **`descartado`** — la opción que se evaluó y se dejó ir, escrita, no "la otra". **Y aquí está la regla que hace que la columna sirva: el silencio no es lo mismo que no haber descartado nada.**
 
-**Y una corrección a la forma obvia de esta lista, porque la lista obvia no se puede guardar:** **el "vacío" no es un tercer valor, es la ausencia de la fila.** **Un hecho que no evaluó nada no se escribe a medias: no se escribe.** **Y mientras no se escriba, la pregunta queda abierta y se puede contar.**
-
 ```plaintext
 la opción, escrita        → se evaluó algo y se dejó ir
 "ninguna"                 → se evaluó, y no había otra: es una respuesta

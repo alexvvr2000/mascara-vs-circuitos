@@ -106,9 +106,25 @@ si el piso se mide por tarea           hay que saber la tarea antes de
                                        saber
 ```
 
-**Y lo único honesto sin resolver la circularidad:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.**
+**Y lo que se hace hasta que la circularidad se resuelve, que es lo de abajo:** **el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone.** **Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.**
 
-**Y el límite, dicho antes de que alguien lo tome por resuelto:** **esta circularidad no está cerrada, y no hay forma de cerrarla desde dentro del ciclo.** **Un piso que no sabe qué le van a pedir no puede decir qué le falta, y ése es el techo del paso 0d hoy.**
+**Y cómo se sale de la circularidad, que es lo que de verdad importa.** **No se sale midiendo más: se sale midiendo en el orden en que llegan las preguntas.**
+
+```plaintext
+1. se mide lo que se sabe pedir hoy       las herramientas que ya se
+                                          usaron alguna vez
+2. llega una tarea que pide otra cosa     el piso no la tiene
+3. NO se dice "no existe"                 se dice "no medido"
+4. se mide esa herramienta, ahora         una prueba, con su comando y
+                                          su salida, en el momento
+5. la tarea pasa a estar cubierta         y el piso creció un renglón
+```
+
+**Y la regla que lo vuelve un mecanismo y no una excusa:** **el piso crece con cada pregunta que no pudo contestar, y nunca hacia atrás.** **Un piso que no cambió después de una tarea nueva no se midió: se supuso.**
+
+**Y lo que esto deja de ser:** **ya no hay que adivinar qué va a pedir alguien.** **Se mide lo que existe, y lo que falta se mide cuando se hace falta.** **La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.**
+
+**Y el límite que queda, y es de tiempo, no de método:** **la primera vez que llega una tarea nueva, la respuesta va a ser «no medido, y me falta medirlo».** **Eso no es una falla: es la respuesta correcta.** **Un piso que contestara «sí» sin haberlo medido sería el error que este ensayo previene.**
 
 **Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
 

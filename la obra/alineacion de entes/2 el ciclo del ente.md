@@ -564,7 +564,7 @@ lo que no supo          → queda como hueco, no como respuesta
 | La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
 | El paso 3 se guarda en cuatro columnas | [`ente 8`](metodologia%20de%20mejora/corridas/ente%208%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
 | El ente contesta por tarea y no buscando palabras | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
-| El piso no se puede medir a ciegas | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
+| El piso crece con cada tarea que no pudo contestar | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
 
 **Y lo que esta tabla no dice, que también es un dato:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.** **El ensayo dice lo que aguanta; no dice que aguante en manos de otro.**
 
