@@ -407,7 +407,7 @@ te dice que no sabe        la frontera: no_alcanza, el hueco declarado
 hace cosas y las deja      el criterio, el rastro, la fricción, el desenlace
 escritas sin que se lo pidas
 
-y puede trabajar con       ESTO ES LO QUE FALTA, Y ES DE ESTA SECCIÓN
+y puede trabajar con       esto es lo que este ensayo pide
 alguien que no sabe lo
 que él sabe
 ```
@@ -550,7 +550,7 @@ una corrida    levanta el ente y encuentra lo que no se pudo construir
 
 **cuando la justificación de que algo está completo es «ya lo leí y ahora se entiende», no se verificó: se editó.**
 
-**Y lo que se hace en su lugar:** **si un mecanismo se acaba de escribir, lo siguiente no es leerlo: es correrlo con el caso que lo rompería.**
+**Y lo que se hace en su lugar:** **un mecanismo recién escrito no se lee para darlo por bueno: se corre con el caso que lo rompería.**
 
 **Falsificador:** **un método que declara un paso completo sin haber corrido el caso que lo pone a prueba** — **y el caso más común es el que el propio método acaba de inventar, porque es el que nadie ha tocado todavía.**
 

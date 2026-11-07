@@ -309,6 +309,18 @@ y lo que el ente NO decide nunca
 
 **Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia.** **Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.**
 
+**Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en `6 la frontera y el descarte`.**
+
+**Se corre:** después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
+
+**Lo consume:** el paso 4, que contesta con la decisión y su frontera.
+
+**Y si no encuentra:** si el piso no da para lo que se pide, se dice qué falta, y se propone lo que sí cabe. No se decide a medias.
+
+**Falla si:** se decide algo de la lista de lo que propone, sin esperar firma.
+
+**Falsificador:** un hecho que se salió del borde sin su fricción propia; y uno que se apunta con una firma que el ente no tenía.
+
 ### Y al decidir, el ente mira el piso antes de prometer
 
 **Esto va en el paso 3 y no en el 0d, porque es donde se decide qué se va a hacer.** **El piso se midió al arrancar; aquí se consulta.**

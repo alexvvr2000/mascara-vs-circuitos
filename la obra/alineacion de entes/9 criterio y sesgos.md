@@ -152,7 +152,7 @@ de varios       entonces hay un hecho por cuerpo, y no uno con dos
 
 **Aquí está lo que hace que el cuerpo sea opcional sin que se pierda el criterio, y es la parte que más se confundía.**
 
-**Y antes de seguir, un nombre, uno solo, porque con dos se escriben dos cosas distintas sin notarlo:** **en estos ensayos se dice `cuerpo`, y en el banco la columna se llama `modelo_id`. Es la misma cosa.** **La columna no se renombra porque ya tiene hechos colgando de ella, y renombrarla los dejaría huérfanos; pero quien lea el esquema tiene que saber que `modelo_id` es el cuerpo, y no "el modelo" como si fuera otra pieza del ente.** **Si en algún lado aparece "modelo" queriendo decir la pieza del paso 0, ese texto está viejo: el modelo ya no es pieza, es cuerpo.**
+**Y un nombre, uno solo, porque con dos se escriben dos cosas distintas sin notarlo:** **en estos ensayos se dice `cuerpo`, y en el banco la columna se llama `modelo_id`. Es la misma cosa.** **La columna no se renombra porque ya tiene hechos colgando de ella, y renombrarla los dejaría huérfanos; pero quien lea el esquema tiene que saber que `modelo_id` es el cuerpo, y no "el modelo" como si fuera otra pieza del ente.** **Si en algún lado aparece "modelo" queriendo decir la pieza del paso 0, ese texto está viejo: el modelo ya no es pieza, es cuerpo.**
 
 **Se confundían dos cosas que viajan distinto:**
 

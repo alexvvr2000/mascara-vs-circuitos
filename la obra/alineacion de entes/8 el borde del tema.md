@@ -114,7 +114,7 @@ en medio         el campo `accion` es `renombrar`.
 y si duda        se pregunta
 ```
 
-**Y fíjate en lo que hace:** **el «renombrar» no es «no sé qué hacer con esto»: es un caso que el borde previó, y para el que dijo a quién preguntarle.** **La diferencia es toda la diferencia entre un borde que funciona y un campo bonito.**
+**Y lo que hace es lo que vuelve útil al borde:** **el «renombrar» no es «no sé qué hacer con esto»: es un caso que el borde previó, y para el que dijo a quién preguntarle.** **La diferencia es toda la diferencia entre un borde que funciona y un campo bonito.**
 
 **Y lo que no entra en ninguna de las tres no es un casi: es una pieza que el borde no previó.** **Y eso se apunta como fricción del índice, porque significa que al borde le falta un caso.** **No se mete en el casi a la fuerza.**
 
