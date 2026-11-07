@@ -131,7 +131,7 @@ lo que se ganó     entender que el código es el uno por ciento del
 4. la obra/humanidad/
      H1  empatía                cómo se entiende antes de pedir
      H2  conciencia             qué hacemos con una palabra que no sabemos definir
-     H3  medicion de talentos   cómo se sabe si el trabajo es de verdad
+     H3  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
 
 5. metodologia de mejora/
      metodo.md                  cómo se sabe si los ensayos están completos

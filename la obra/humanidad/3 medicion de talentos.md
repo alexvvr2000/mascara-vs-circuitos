@@ -1,12 +1,12 @@
-# 10. Medición de talentos
+# 3. Medición de talentos
 
-**Medir el talento sin creerle al que lo dice: qué se cuenta, qué cifra se guarda, y cómo se sabe que un número no es una opinión con decimales.**
+**Cómo saber si un trabajo se hizo de verdad, con números que salen del registro y no de la opinión del que trabajó.**
 
 **Alejandro Valenzuela Rivera.**
 
-> **Antes de leer.** **Necesita `5 criterio real`. Si no, basta con esto: se mide lo que se apuntó, no lo que el modelo dice de sí mismo.**
+> **Antes de leer.** **Este ensayo se lee solo.** **No hace falta saber nada de computación ni de modelos: lo único que se necesita es aceptar una idea, y es la primera que se explica: se mide lo que quedó escrito, no lo que alguien dice de sí mismo.**
 >
-> **Al terminar sabrás cómo se mide si un trabajo se hizo de verdad, con números y sin preguntarle al modelo qué tan bueno es.**
+> **Al terminar sabrás calcular el costo real de un trabajo, leer su varianza, contar dónde se cae, y comparar dos cuerpos sin creerle a ninguno.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -20,13 +20,29 @@
 
 > **¿Cómo sabe alguien que el ente está haciendo trabajo de verdad, y no solo produciendo texto que suena a trabajo?**
 
-**Porque la respuesta fácil es preguntarle.** Y esa respuesta está cerrada desde el principio, por una razón que ya está en el ensayo de criterio y sesgos: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
+**Porque la respuesta fácil es preguntarle.** Y esa respuesta está cerrada desde el principio, por una razón simple: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
 
 **Así que la pregunta se cambia por otra, y esta sí tiene piso:**
 
 > **¿Qué queda escrito cuando el ente trabaja, que no se pueda escribir sin haber trabajado?**
 
-**Eso es lo que este ensayo mide: no al ente, sino lo que el ente deja.** Y lo que deja ya existe en el banco: el hecho, la fricción y el desenlace. Aquí no se inventa un registro nuevo; se le sacan los números al que ya hay.
+**Eso es lo que este ensayo mide: no al ente, sino lo que el ente deja.**
+
+**Y aquí hay algo que conviene decir antes de seguir, porque se entiende mal:** **ese registro no es del ente. Es de la autoridad.**
+
+**El ente escribe en él, porque el ciclo lo obliga a dejar rastro de lo que hizo.** **Pero el registro lo abre, lo guarda y lo lee quien paga las consecuencias.** **El ente no se mide a sí mismo: entrega material, y la medición la hace quien responde por el trabajo.**
+
+**Y esa diferencia no es de palabras.** **Si el ente midiera su propio talento, estaría otra vez midiendo con la regla torcida.** **La cuenta la lleva quien tiene algo que perder si el número está mal.**
+
+**Lo que el registro guarda son tres cosas, y solo tres:**
+
+```plaintext
+el hecho      qué se pidió, qué se hizo, y con qué cuerpo
+la fricción   qué se cayó, por qué era creíble, y por dónde se reconoce
+el desenlace  qué pasó cuando se volvió a intentar
+```
+
+**Aquí no se inventa un registro nuevo: se le sacan los números al que ya existe.**
 
 ---
 
@@ -42,43 +58,108 @@
 
 > **Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.**
 
-**Un ente puede decir "soy bueno para esto", y eso es una frase.** Un ente puede abrir su banco y mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.
+**Un ente puede decir "soy bueno para esto", y eso es una frase.** El registro puede mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.
 
 ---
 
-## III. Qué se cuenta
+## III. Qué se cuenta, y cómo se calcula
 
-**Cuatro números, y ninguno necesita que nadie se evalúe.** **Los cuatro salen del banco que el ciclo ya escribe.**
+**Cuatro números, y ninguno necesita que nadie se evalúe.** **Los cuatro salen del registro que el ciclo ya escribe, y los cuatro se calculan con aritmética de primaria.**
 
-### 1. El costo real: intentos, corrección y verificación
+### 1. El costo real de un resultado (CRE)
 
-> **CRE = (todos los intentos + la corrección + la verificación) ÷ resultados exitosos verificados**
+> **CRE = (intentos + correcciones + verificaciones) ÷ resultados exitosos verificados**
 
-| El término | Dónde está en el banco | Por qué entra |
+**Cada término es un conteo, y se saca así:**
+
+| El término | De dónde sale | Cómo se cuenta |
 |---|---|---|
-| **los intentos** | cada hecho de la misma clase: uno por intento | **un cuerpo que acierta a la tercera se pagó tres veces** |
-| **la corrección** | las fricciones que hubo que levantar | **si hay que limpiar lo que salió, la limpieza es parte del precio** |
-| **la verificación** | el desenlace: si se volvió a probar, o no se ha probado | **un éxito que no se verificó es un intento más, no un éxito** |
-| **los exitosos verificados** | los hechos con desenlace `cumplida` | **el divisor no son los que salieron: los que salieron y aguantaron** |
+| **intentos** | los hechos de la clase | uno por cada hecho abierto, salga bien o mal |
+| **correcciones** | las fricciones de esos hechos | uno por cada fricción que hubo que levantar |
+| **verificaciones** | los desenlaces | uno por cada vez que se volvió a probar algo |
+| **exitosos verificados** | desenlaces `cumplida` | uno por cada regla que aguantó al volver a probarla |
 
-**Y la regla que hace que este número sirva de algo:** el cuerpo barato que falla tres veces es más caro que el caro que acierta. Comparar precio por llamada es comparar harina con pan: el pan lleva la harina, el horno y las que se quemaron.
+**Y con un ejemplo, porque así se entiende y de otra forma no:**
+
+```plaintext
+clase: "revisar lo apuntado buscando una repetición"
+
+  intentos          5    se pidió cinco veces
+  correcciones      3    tres salieron mal y hubo que rehacerlas
+  verificaciones    4    cuatro se volvieron a probar después
+  exitosos          2    dos aguantaron la segunda prueba
+
+  CRE = (5 + 3 + 4) ÷ 2 = 12 ÷ 2 = 6
+```
+
+**Se lee así: cada resultado que aguantó costó seis intentos de trabajo.** **No seis llamadas: seis unidades de esfuerzo, contando los que fallaron y los que hubo que rehacer.**
+
+**Y por qué el divisor es tan chico, que es lo que casi todo el mundo hace mal:** **los que salieron no son los exitosos.** **Un resultado que se produjo y no se volvió a probar es un intento más, no un éxito.** **Si el divisor fueran los cinco, el CRE saldría 2.4, y ese número dice que el trabajo salió bien cinco veces, cuando solo dos aguantaron.**
+
+**Y la comparación que hace útil el número:** **un cuerpo barato que falla tres veces de cinco es más caro que uno que cuesta el triple por intento y acierta a la primera.**
+
+```plaintext
+cuerpo A   $1 por intento, 5 intentos, 2 exitosos   →  $2.50 por resultado
+cuerpo B   $3 por intento, 1 intento,  1 exitoso    →  $3.00 por resultado
+```
+
+**Casi empatan, y A parecía tres veces más barato.** **Y si A hubiera fallado cuatro veces en vez de tres, B gana por goleada.** **Comparar precio por llamada es comparar harina con pan: el pan lleva la harina, el horno, y las que se quemaron.**
 
 ### 2. La varianza, con dos números y no con un promedio
 
 **Un cuerpo que a veces cuesta uno y a veces cuesta diez es peligroso aunque su promedio sea bajo.** **Y el promedio es justo lo que lo esconde.**
 
 ```plaintext
-el P50    el costo de la mitad de las veces. Con este se decide
-el P90    el costo de las nueve de cada diez. Con este se presupuesta
+el P50   el costo de la mitad de las veces. Con este se decide
+el P90   el costo de nueve de cada diez. Con este se presupuesta
 ```
 
-**Y la señal que se mira en el acto:** si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. Porque lo que va a pasar no es el promedio: es la vez que salió mal, y el promedio no la cobra.
+**Cómo se calculan, y no es difícil:**
+
+```plaintext
+1. se toman los CRE de cada vez, y se ordenan de menor a mayor
+2. el P50 es el del medio: la mitad costó eso o menos
+3. el P90 es el que deja el noventa por ciento por debajo
+   (con pocos casos, es el segundo más caro)
+```
+
+**Con un ejemplo de veinte veces, que es donde los dos números se separan de verdad:**
+
+```plaintext
+CRE por vez, ordenados:
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 30
+
+P50 = 1      la mitad de las veces costó uno o menos
+P90 = 2      dieciocho de veinte costaron dos o menos
+máximo = 30  una vez costó treinta
+
+promedio = 2.5    y ese 2.5 no le pasó a nadie nunca
+```
+
+**Y ahí está el problema del promedio: dice 4.8, y el trabajo en realidad cuesta dos, salvo la vez que se va a veinte.** **Quien presupueste con el promedio se queda corto justo el día que importa.**
+
+**Y la señal que se mira en el acto:** **si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer.** **En el ejemplo el P90 es 2 y el P50 es 1: el doble, todavía por debajo del umbral. Pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer.** **Esa clase no está lista para escalar, y el promedio lo estaba escondiendo.**
 
 ### 3. La caída, por su puerta y no por su tamaño
 
-**No se cuenta "falló". Se cuenta dónde falló, porque la puerta es lo único que se puede corregir.** **"Falló tres de cuatro veces" no dice qué hacer; "falló tres de cuatro veces, y siempre en lo mismo, al apuntar" sí.**
+**No se cuenta "falló". Se cuenta dónde falló, porque la puerta es lo único que se puede corregir.**
 
-**Y ese conteo ya existe en el banco: es la fricción con su señal.** **Agrupar las fricciones por su señal, y contar cuántas veces sale cada una, es la mitad de la medición.**
+**"Falló tres de cuatro veces" no dice qué hacer.** **"Falló tres de cuatro, y siempre en lo mismo: la columna se fue de lugar" sí.**
+
+**Y ese conteo ya está en el registro: es la fricción con su señal.** **Se agrupa por señal, y cada grupo es una puerta:**
+
+```plaintext
+puerta: "apuntar la columna"
+   cae 3 de 4
+
+puerta: "leer la fuente antes de citarla"
+   cae 0 de 4
+
+puerta: "cerrar el propósito sin firma"
+   sin probar
+```
+
+**Y ese cuadro es todo el diagnóstico.** **No dice que el cuerpo sea malo: dice que en una puerta concreta se cae tres de cada cuatro veces, y en otra no se cae nunca.**
 
 ### 4. Lo que falta, que también es un número
 
@@ -92,7 +173,7 @@ el P90    el costo de las nueve de cada diez. Con este se presupuesta
 
 **Aquí está el hueco que se come todas las mediciones, y conviene verlo antes de contar nada:**
 
-**Un pedido llega en español y cada vez distinto.** "Revisa estas fricciones y dime si se repite el mismo error" y "mira si en lo apuntado hay un patrón" son la misma clase de trabajo, y para el banco son dos renglones que no se pueden juntar. Y si no se juntan, no hay número: hay anécdotas con fecha.
+**Un pedido llega en español y cada vez distinto.** "Revisa estas fricciones y dime si se repite el mismo error" y "mira si en lo apuntado hay un patrón" son la misma clase de trabajo, y para el registro son dos renglones que no se pueden juntar. Y si no se juntan, no hay número: hay anécdotas con fecha.
 
 **Así que la medición no empieza contando: empieza nombrando.**
 
@@ -106,7 +187,7 @@ el hecho, con esa clase
 el conteo, que ahora sí suma
 ```
 
-**Y la regla para nombrar:** el nombre dice qué se está haciendo, no de qué trata. "Revisar lo apuntado buscando una repetición" es una clase; "revisar las fricciones del banco de TESTIGO sobre el JSON" es una tarea.
+**Y la regla para nombrar:** el nombre dice qué se está haciendo, no de qué trata. "Revisar lo apuntado buscando una repetición" es una clase; "revisar las fricciones del registro de un ente concreto sobre un archivo concreto" es una tarea.
 
 **Y una advertencia que cuesta cara:** una clase con un solo hecho no tiene número. Un cuerpo que hizo una cosa una vez no es bueno ni malo en eso. Es un caso.
 
@@ -139,9 +220,11 @@ el conteo, que ahora sí suma
 
 ---
 
-## VI. Los tres estados del talento, y nunca hay un cuarto
+## VI. Los tres estados, y nunca hay un cuarto
 
-**Todo lo que un cuerpo sabe hacer en una clase de trabajo está en uno de tres estados, y el estado se escribe al lado del número:**
+**Cada número que se saque lleva un estado, y el estado dice de dónde salió.** **Sin eso, un número de un cuerpo se lee como si fuera del otro, y la tabla miente sola.**
+
+**Todo lo que se sabe de un cuerpo en una clase de trabajo está en uno de estos tres, y no hay un cuarto:**
 
 | Estado | Qué significa | Cómo se reconoce |
 |---|---|---|
@@ -173,9 +256,9 @@ el conteo, que ahora sí suma
 
 ## VIII. Para qué sirve, en una frase
 
-**Para que un ente sepa que puede hacer esto, que no ha probado esto otro, y que esto de acá le cuesta el triple con el cuerpo que trae puesto — y lo diga antes de que se lo pregunten.**
+**Para saber, antes de contratar un cuerpo o de confiarle un paso, qué le cuesta cada cosa, dónde se cae, y qué no ha probado nunca — sin preguntarle a él.**
 
-**Y para que quien lo lea no tenga que creerle:** el número está en el banco, con la fecha, la clase de trabajo y el cuerpo que lo hizo. Un ente que dice saber de sí mismo y no puede abrir el renglón es un ente que está adivinando, y la adivinanza se ve en el acto: no hay renglón.
+**Y para poder enseñarle el renglón a quien no te cree:** **el número está en el registro, con su fecha, su clase de trabajo y el cuerpo que lo hizo.** **Un ente que dice saber de sí mismo y no puede abrir el renglón está adivinando, y la adivinanza se ve en el acto: no hay renglón.**
 
 **Y la línea que separa esto de la conciencia, porque la pregunta va a llegar:** esto no es que el ente sepa qué es. Es que sabe cómo se rompe, y en qué se rompe. No es lo mismo, y lo segundo es lo único que se puede comprobar.
 
@@ -241,7 +324,7 @@ y los dos    ninguno dice si lo que se hizo hacía falta
 
 ## Prueba
 
-**¿Cada número sale del banco, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
+**¿Cada número sale del registro, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
 
 ---
 
