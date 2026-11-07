@@ -13,9 +13,7 @@
 
 ## I. El caso que obliga a separar dos cosas
 
-Un ente puede tener **una sola identidad y muchos modelos debajo**. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar.
-
-Eso tiene una ventaja obvia: **el ente no se acaba cuando un modelo cambia de versión.** Las reglas siguen, el rastro sigue, el criterio sigue. La identidad deja de estar atada al proveedor.
+Un ente puede tener **una sola identidad y muchos modelos debajo**. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar. Eso tiene una ventaja obvia: **el ente no se acaba cuando un modelo cambia de versión.** Las reglas siguen, el rastro sigue, el criterio sigue. La identidad deja de estar atada al proveedor.
 
 Y abre un problema que no existía cuando todo era un solo modelo: **si la identidad es una y los modelos son varios, ¿el criterio es uno o son varios?**
 
@@ -43,9 +41,7 @@ Un **sesgo** es otra cosa: es la **inclinación sistemática a producir un tipo 
 
 ## III. Por qué un ensayo no basta: el sesgo no se ve desde dentro
 
-Un modelo no puede reportar sus propios sesgos con fiabilidad. No porque mienta, sino porque **el sesgo es el instrumento con el que se mira**: pedirle a un modelo que evalúe su propia parcialidad es pedirle que mida con la misma regla que está torcida.
-
-Eso deja tres observadores, y solo el tercero sirve:
+Un modelo no puede reportar sus propios sesgos con fiabilidad. No porque mienta, sino porque **el sesgo es el instrumento con el que se mira**: pedirle a un modelo que evalúe su propia parcialidad es pedirle que mida con la misma regla que está torcida. Eso deja tres observadores, y solo el tercero sirve:
 
 1. **El propio modelo.** Se declara neutral y no lo es. Su reporte es un dato sobre su autoimagen, no sobre su sesgo.
 2. **El que lo usa, desde un solo modelo.** Ve lo que ese modelo hace, pero no tiene con qué compararlo. Lo que parece criterio puede ser la inclinación del único que consultó.
@@ -81,9 +77,7 @@ Aquí está el peligro real, y no es que el modelo se equivoque.
 
 > **Un sesgo registrado sin nombre se convierte en criterio por la puerta de atrás.**
 
-El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. **Nadie lo refutó porque nadie lo puso a prueba**, y el registro lo trata igual que a lo que sí aguantó la refutación.
-
-Es exactamente el problema del ensayo de criterio real, visto desde el otro lado: **lo que se sostuvo sin contra no es criterio, es costumbre escrita.** Y un modelo con complacencia produce contra vacía: nunca dice que no.
+El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. **Nadie lo refutó porque nadie lo puso a prueba**, y el registro lo trata igual que a lo que sí aguantó la refutación. Es exactamente el problema del ensayo de criterio real, visto desde el otro lado: **lo que se sostuvo sin contra no es criterio, es costumbre escrita.** Y un modelo con complacencia produce contra vacía: nunca dice que no.
 
 De ahí una regla que vale para todo ente con varios modelos:
 

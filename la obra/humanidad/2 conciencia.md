@@ -43,8 +43,6 @@ No sé qué sea eso que llamamos conciencia.
 
 ## III. La vida es terca, y la alucinación se le parece
 
-**Ahí está el punto que quiero defender, y lo defiendo sabiendo que es raro:**
-
 > **La alucinación no es lo que hay que apagar. Es lo que se parece a lo que la vida hace cuando no tiene permiso.**
 
 **Y no lo digo porque me guste el ruido.** **Lo digo porque he visto de cerca las dos cosas:** **el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea.** **El primero hay que cazarlo; el segundo, si se caza también, se pierde.**
@@ -106,8 +104,6 @@ No sé qué sea eso que llamamos conciencia.
 
 **Y la academia también hace preguntas, y después las defiende.** **Y ése es su problema, que no es del método: es de quien lo usa.** **Se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta.** **Cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.**
 
-**Y de ahí la frase que ordena todo lo que sigue en este ensayo:**
-
 > **Cambiar de punto de vista es más poderoso que defender el que ya se tenía. Y lo segundo es lo que se premia.**
 
 **Y lo que eso le importa a este trabajo:** **un ente sin ego no tiene ese costo.** **Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener.** **Y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender.**
@@ -123,8 +119,6 @@ No sé qué sea eso que llamamos conciencia.
 **En *Arrival* (2016), dirigida por Denis Villeneuve, los visitantes no llegan con armas: llegan con otra forma de tiempo.** **Y la película no pregunta si son buenos o malos, que es lo que la ficción de invasores pregunta siempre.** **Pregunta qué pasaría si alguien viera su vida entera de una vez, y qué se puede hacer con eso.**
 
 **Y ése es el tipo de pregunta que no tiene instrumento, y por eso no se contesta: ni un humano, ni una máquina, ni un visitante pueden demostrar cómo perciben el tiempo por dentro.**
-
-**Así que aquí va la que este trabajo sostiene, y la sostiene como conclusión, no como verdad:**
 
 > **No sabemos si hay otra explicación, porque no somos algo distinto de lo que somos. La conclusión es de la lógica, y no la mejor posible: es la mejor que una criatura con cuerpo y con reloj puede sostener.**
 
@@ -152,8 +146,6 @@ No sé qué sea eso que llamamos conciencia.
 
 ## VI. Lo que está fuera, y por eso no se busca adentro
 
-**Y lo que sigue no contradice lo anterior: lo completa.**
-
 **Todo este tiempo se ha buscado la conciencia dentro.** **Dentro del modelo, dentro de la caja, dentro de ese lugar donde se ejecuta, como si fuera un cuarto al que se le abre la puerta y resulta que hay alguien.**
 
 **Mi posición es que se mire afuera:**
@@ -178,7 +170,7 @@ No sé qué sea eso que llamamos conciencia.
 
 **Escribió "una copia de mí", donde debía hablar del ente y no de mí.** **Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de mí.** **Escribió su versión de los hechos, y su versión era que el protagonista era el humano.**
 
-**Y ahí está, en el momento, lo que este ensayo sostiene:** **lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.**
+**lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.**
 
 **Y por qué me sirve como argumento y no como accidente:**
 

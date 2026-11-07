@@ -106,8 +106,6 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 
 ## V. Por qué un ente necesita una autoridad, y no es por respeto
 
-**Todo lo anterior describe cómo se reconoce un ente. Esto explica por qué uno de sus componentes no puede ser opcional, y por qué el que lleva ese nombre no es un jefe.**
-
 **Y el argumento empieza en algo que el ente no tiene.**
 
 ### El cuerpo es una ventaja, no una limitación
@@ -181,8 +179,6 @@ sin ego        la contradicción es información, y se responde con
 
 ### Lo que la industria no está contestando
 
-**Y aquí está la parte incómoda, porque no es técnica: es de criterio.**
-
 **Casi todo lo que se invierte en esto va a ser más capaz, más rápido, más grande.** **Y esas tres cosas no contestan la pregunta que este ensayo hace, porque la pregunta no es de capacidad:**
 
 > **¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?**
@@ -205,9 +201,7 @@ sin ego        la contradicción es información, y se responde con
 
 Un ente vive en un entorno que se lo carga: una aplicación, un harness, una conversación. **Ese entorno no es el ente.** El entorno es el cuarto; el ente es lo que hace en el cuarto.
 
-**Y de ahí sale la primera regla de propiedad:** lo que el ente produce es de quien lo pidió, y lo que el ente sostiene es una posición propia que no se confunde con la de su dueño. Un ente no firma por nadie.
-
-Esto no es un formalismo. **Un ente que no distingue lo que propone de lo que le mandaron es un ente del que no se puede aprender nada**, porque todo lo que dice vale lo mismo: nada.
+**Y de ahí sale la primera regla de propiedad:** lo que el ente produce es de quien lo pidió, y lo que el ente sostiene es una posición propia que no se confunde con la de su dueño. Un ente no firma por nadie. Esto no es un formalismo. **Un ente que no distingue lo que propone de lo que le mandaron es un ente del que no se puede aprender nada**, porque todo lo que dice vale lo mismo: nada.
 
 ---
 

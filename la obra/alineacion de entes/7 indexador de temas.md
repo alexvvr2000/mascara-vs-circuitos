@@ -190,9 +190,7 @@ la supersesión    qué tema sustituyó a cuál, cuándo, por qué,
                   y qué se perdió en el cambio
 ```
 
-**Y la prueba de la reconstrucción, corriéndola, no opinándola:**
-
-1. **Se tira lo derivado** — el texto, la lista, la vista, lo que se haya generado.
+**Y la prueba de la reconstrucción, corriéndola, no opinándola:** 1. **Se tira lo derivado** — el texto, la lista, la vista, lo que se haya generado.
 2. **Se rehace solo con las tres piezas.**
 3. **Y el resultado tiene que ser el mismo, pieza por pieza.**
 

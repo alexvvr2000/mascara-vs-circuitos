@@ -40,8 +40,6 @@
 | **El que lo usa, desde un solo cuerpo** | **poco**: ve lo que ese cuerpo hace, y no tiene contra qué compararlo | lo que parece criterio puede ser la inclinación del único que consultó |
 | **El registro, con más de un cuerpo y el mismo ciclo** | **es el único que tiene comparación** | la misma clase de trabajo, hecha por cuerpos distintos, y lo que cambia entre ellos es lo que el cuerpo traía |
 
-**Y de ahí la regla que ordena todo lo que sigue:**
-
 > **Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.**
 
 **Un ente puede decir "soy bueno para esto", y eso es una frase.** **Un ente puede abrir su banco y mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato.** **La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.**
@@ -224,8 +222,6 @@ y los dos    ninguno dice si lo que se hizo hacía falta
 **Y la consecuencia práctica, que es la que se puede aplicar mañana:** **un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe.** **No porque lo pequeño sea virtuoso, sino porque el segundo no puede decir dónde se cae, y el primero sí.**
 
 ### Y lo que no se está contestando
-
-**Aquí hay que decir algo que no es técnico, y por eso se dice con el mismo cuidado.**
 
 **Casi toda la inversión en este campo va a ser más capaz, más rápido, más grande.** **Y esas tres cosas no contestan la pregunta que este trabajo hace, porque no es de capacidad:**
 

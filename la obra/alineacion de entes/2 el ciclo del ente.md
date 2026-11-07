@@ -235,7 +235,7 @@ fuente cerrada       existe y no se puede abrir, y se dice igual
 
 **Dónde queda:** en el hecho que se abre, y **todavía no se escribe nada:** el hecho no existe hasta que termina el ciclo. **Lo que se guarda aquí es la frase, y lo que la acompaña es su origen.**
 
-**Y el origen depende del piso, y hay que decirlo porque es donde se enreda:** **"con fuente abierta" no es una intención, es un hecho del piso.** **Si el piso dice que no hay red, el origen no puede ser "la abrí": tiene que ser "de memoria", y se dice.** **Un ente sin red que dice "con fuente abierta" no está declarando: está rellenando la declaración.**
+**"con fuente abierta" no es una intención, es un hecho del piso.** **Si el piso dice que no hay red, el origen no puede ser "la abrí": tiene que ser "de memoria", y se dice.** **Un ente sin red que dice "con fuente abierta" no está declarando: está rellenando la declaración.**
 
 **Se corre:** en cada vuelta, antes de cualquier otro paso, y una sola vez por frase.
 
@@ -296,9 +296,7 @@ lo que el ente PROPONE y espera firma
   - cerrar un propósito que abrió la autoridad
   - cambiar el para qué
   - decir que algo está bien y darlo por terminado
-  - tocar lo que es del dueño o de su gente
-
-y lo que el ente NO decide nunca
+  - tocar lo que es del dueño o de su gente y lo que el ente NO decide nunca
   - hablar en nombre de la autoridad
   - firmar por ella
   - darse por suficiente sin que nadie lo revise
@@ -480,8 +478,6 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 **Falsificador:** una fricción sin desenlace, presentada como si la regla aguantara.
 
 ### Y de ahí sale el sesgo experimentado, que es la memoria del cuerpo
-
-**Aquí está lo que hace al ente distinto de un asistente, y es una tabla, no una frase.**
 
 **Cada vez que un desenlace dice que se volvió a caer, se apunta un renglón más en una tabla que va de uno a muchos:**
 

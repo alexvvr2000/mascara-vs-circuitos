@@ -50,8 +50,6 @@ el piso roto        algo que el piso decía tener falla a media tarea.
                     y se apunta qué cambió
 ```
 
-**Lo que sigue del piso roto, y es lo que lo vuelve un mecanismo:**
-
 ```plaintext
 1. falla algo que el piso daba por hecho
 2. se apunta la fricción, con qué se probó y qué salió

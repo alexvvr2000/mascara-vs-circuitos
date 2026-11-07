@@ -16,7 +16,7 @@
 
 ## I. El borde no es una idea: es un dato
 
-**Decir que el borde se escribe no basta: hay que decir en qué forma se escribe para que se pueda auditar.** Un borde que solo describe en prosa **se puede leer de dos maneras**, y ahí se pierde lo que el §IV exigía.
+Un borde que solo describe en prosa **se puede leer de dos maneras**, y ahí se pierde lo que el §IV exigía.
 
 **El borde tiene dos mitades, y cada una se escribe de una manera:**
 

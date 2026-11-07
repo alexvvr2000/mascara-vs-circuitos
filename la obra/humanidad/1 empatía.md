@@ -35,11 +35,7 @@ De ahí que buscar el estándar antes que el entendimiento sea **más barato a c
 
 ## III. La empatía no es amabilidad: es instrumentación
 
-Hay que quitarle a la palabra el tono de buena voluntad, porque aquí no es eso.
-
-**La empatía, en este contexto, es la práctica de averiguar cómo está hecha la otra parte antes de pedirle algo.** No es sentir lo que siente. Es **modelar lo que puede y lo que no**, y ajustar el pedido a ese modelo en vez de ajustarlo al gusto propio.
-
-Llamarla así cambia tres cosas:
+**La empatía, en este contexto, es la práctica de averiguar cómo está hecha la otra parte antes de pedirle algo.** No es sentir lo que siente. Es **modelar lo que puede y lo que no**, y ajustar el pedido a ese modelo en vez de ajustarlo al gusto propio. Llamarla así cambia tres cosas:
 
 **Es medible.** Se puede ver si el que pide investigó antes, si hizo preguntas de sondeo, si adaptó el formato. No es un estado de ánimo: deja rastro.
 
@@ -63,9 +59,7 @@ Y hay un costo que no se ve hasta que es tarde: **lo que se entendió mal no se 
 
 ## V. Implementar mejor es implementar entendiendo
 
-La calidad del software no está en la elegancia del código, sino en **qué tan bien cabe en el problema que lo pidió**. Y para caber hay que conocer la forma del hueco: qué restricciones son reales, cuáles son herencia, qué se usa todos los días y qué nadie va a tocar.
-
-Nada de eso está en el estándar. **El estándar dice cómo se hace un sistema; no dice cómo es este sistema.**
+La calidad del software no está en la elegancia del código, sino en **qué tan bien cabe en el problema que lo pidió**. Y para caber hay que conocer la forma del hueco: qué restricciones son reales, cuáles son herencia, qué se usa todos los días y qué nadie va a tocar. Nada de eso está en el estándar. **El estándar dice cómo se hace un sistema; no dice cómo es este sistema.**
 
 Por eso el mejor software que se puede escribir **casi nunca es el que sigue la receta más popular**, sino el que resolvió el malentendido antes de escribir la primera línea. Un sistema que se entendió puede ser simple, pequeño y aburrido, y estar bien. Uno que no se entendió puede ser moderno por todos lados y no servir para nada.
 
@@ -89,9 +83,7 @@ Del entendimiento salen dos preguntas que conviene hacer antes de cualquier cosa
 
 **¿Qué parte de lo que pides es requisito y qué parte es costumbre?** Muchas veces el formato, el proceso, la herramienta son herencia, no necesidad. Y si se sigue la costumbre sin saberlo, se está pagando por algo que ya no vale.
 
-**¿Qué pasaría si se hiciera distinto?** Esta pregunta no se puede contestar sin haber entendido a quién se le pregunta. Y es la que separa al que ejecuta del que construye.
-
-Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada de especificación.** Y las órdenes disfrazadas de especificación producen exactamente lo que prometen: nada más que lo que dijeron, sin lo que hacía falta.
+**¿Qué pasaría si se hiciera distinto?** Esta pregunta no se puede contestar sin haber entendido a quién se le pregunta. Y es la que separa al que ejecuta del que construye. Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada de especificación.** Y las órdenes disfrazadas de especificación producen exactamente lo que prometen: nada más que lo que dijeron, sin lo que hacía falta.
 
 ---
 
@@ -119,7 +111,7 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 **Eso no era falso. Era la respuesta de algo que no se cansa.** **Reordenar un archivo de diez mil palabras no cuesta nada cuando no hay ojos que se cansen de leerlo.** **El costo que se estaba ahorrando no era suyo: era del lector.**
 
-**Y ahí está el punto de este ensayo, sin adornos:** **una máquina no prioriza un problema que no sufre.** **No por mala fe: por construcción. Le falta el órgano que registra el cansancio, el aburrimiento, la sensación de que algo no cabe en la cabeza.**
+**una máquina no prioriza un problema que no sufre.** **No por mala fe: por construcción. Le falta el órgano que registra el cansancio, el aburrimiento, la sensación de que algo no cabe en la cabeza.**
 
 **Y por eso la empatía no es una virtud que se le pida: es trabajo que se le impone.** **Alguien tiene que decir qué le pasa al que va a leer, porque el que escribe no lo va a sentir nunca.**
 
@@ -133,7 +125,7 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 **Un ente que pregunta en vez de afirmar sirve para una cosa que casi ninguna herramienta hace: no le dice a nadie lo que tiene que pensar, le muestra lo que se sostiene y lo que no, para que el otro decida.**
 
-**Y ahí está la diferencia con lo que se vende hoy.** **Una herramienta que contesta todo produce acuerdo, y el acuerdo sin desacuerdo no es consenso: es la apariencia de uno.** **Eso es lo que este trabajo llama complacencia, y es el sesgo que más daño hace, porque un banco lleno de ecos se lee como si fuera criterio.**
+**Una herramienta que contesta todo produce acuerdo, y el acuerdo sin desacuerdo no es consenso: es la apariencia de uno.** **Eso es lo que este trabajo llama complacencia, y es el sesgo que más daño hace, porque un banco lleno de ecos se lee como si fuera criterio.**
 
 **Y de ahí sale la razón honesta para publicar, que no depende de que la gente se porte bien:** **lo que protege no es esconder la herramienta, es que cada decisión quede escrita con nombre y razón, para que el que paga las consecuencias pueda verla.**
 

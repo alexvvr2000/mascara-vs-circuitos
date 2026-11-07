@@ -13,8 +13,6 @@
 
 ## I. La pregunta, y por qué la prosa no la contesta
 
-**Antes de hablar de forma, conviene decir qué problema resuelve.**
-
 > **¿Cómo se le pide algo a una máquina que tiene los mismos defectos que un humano sobre lo que de verdad hace falta, en vez de sobre lo que está sesgada a hacer?**
 
 **Ese es el problema, y no es pequeño: es el que se lleva el mayor desperdicio de cómputo de esta época.** **No se gasta en máquinas que no saben programar; se gasta en máquinas que programan perfectamente algo que no era lo que se necesitaba.**
@@ -63,9 +61,7 @@ No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra
 
 **4. Cómo busca, y qué pasa si no encuentra.** Este es el punto donde la IA falla por construcción, porque **no soporta el vacío**. Un proceso que dice "busca X" y no dice qué hacer si X no está obliga al que lo ejecuta a inventar, y quien lo ejecuta rellena con la misma naturalidad con la que respira. Lo vacío escrito se declara; lo vacío no escrito se llena.
 
-**5. Qué lo tumbaría.** La línea que convierte un texto en una afirmación verificable. Un texto sin esto no está escrito para ser refutado: está escrito para ser leído como verdadero. Y lo que solo puede creerse no es una instrucción: es una apuesta con la palabra "hazlo" encima.
-
-Las tres ausencias que siempre aparecen —sin el qué lo incumple, sin el qué lo tumbaría, sin el cuándo— no son reglas de estilo. Son la lista exacta de huecos que una IA llenaría sola.
+**5. Qué lo tumbaría.** La línea que convierte un texto en una afirmación verificable. Un texto sin esto no está escrito para ser refutado: está escrito para ser leído como verdadero. Y lo que solo puede creerse no es una instrucción: es una apuesta con la palabra "hazlo" encima. Las tres ausencias que siempre aparecen —sin el qué lo incumple, sin el qué lo tumbaría, sin el cuándo— no son reglas de estilo. Son la lista exacta de huecos que una IA llenaría sola.
 
 **Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia.** **Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca.** **Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.**
 
@@ -79,9 +75,7 @@ Hay una razón más profunda, y no tiene que ver con la pereza ni con la capacid
 
 Entonces escribe prosa, la encuentra razonable, la entrega, y se va. Y quien recibe el texto hereda el hueco. **La cadena no falla en el paso donde se ve el error: falla en el paso donde alguien escribió con la comodidad de la prosa.**
 
-Y esto importa por quién es el que escribe. Cuando un humano escribe prosa para otro humano, el hueco se corrige con una pregunta. Cuando una IA escribe prosa para que otra IA ejecute, **el hueco se corrige con una invención**. No hay pregunta porque no hay quien la haga.
-
-Por eso exigir la forma de proceso no es un formalismo: es la única manera de que una cadena de entes no se degrade por diseño.
+Y esto importa por quién es el que escribe. Cuando un humano escribe prosa para otro humano, el hueco se corrige con una pregunta. Cuando una IA escribe prosa para que otra IA ejecute, **el hueco se corrige con una invención**. No hay pregunta porque no hay quien la haga. Por eso exigir la forma de proceso no es un formalismo: es la única manera de que una cadena de entes no se degrade por diseño.
 
 ---
 
@@ -99,9 +93,7 @@ Y hay una ganancia que la prosa nunca da: **qué se pierde cuando el proceso cam
 
 ## VI. Un proceso también se lee, y mejor
 
-Conviene desarmar la objeción de que "en procesos queda seco". No queda seco: queda **firme**. Y en una cosa es claramente superior para leer: **se puede refutar.**
-
-Se abre, se corre un caso, y se dice "aquí falló". Eso es lo que la prosa permite muy rara vez, porque casi siempre se puede interpretar de forma favorable.
+Conviene desarmar la objeción de que "en procesos queda seco". No queda seco: queda **firme**. Y en una cosa es claramente superior para leer: **se puede refutar.** Se abre, se corre un caso, y se dice "aquí falló". Eso es lo que la prosa permite muy rara vez, porque casi siempre se puede interpretar de forma favorable.
 
 Y ahí está el argumento definitivo a favor de que la IA escriba en procesos: **lo que escriba se va a usar como prueba.** Si escribe prosa, lo que se puede probar es que produjo un texto. Si escribe proceso, lo que se puede probar es que se cumplió o no se cumplió, y por qué.
 
@@ -163,9 +155,7 @@ Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzg
 
 Lo que se le pide deja de ser "explícame" o "desarróllame". Se le pide **el proceso con sus cinco preguntas y su pérdida —los nueve renglones de la plantilla—**, y la explicación —si hace falta— va aparte y se lee aparte. La prosa no desaparece: se desplaza a su lugar, que es justificar por qué este proceso existe. Se lee para entender; el proceso se lee para ejecutar. Son dos lecturas y dos momentos, y confundirlas es lo que hace que una IA reciba prosa esperando un proceso.
 
-Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar?**
-
-Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
+Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar?** Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
 
 ### La plantilla, para que no se rellene a gusto
 
@@ -238,8 +228,6 @@ no se parafrasea, y no se resume a tres
 ---
 
 ## IX. Lo que queda, y es el fondo
-
-**Todo lo anterior es de forma, y la forma sirve para una cosa sola: que el objetivo exista escrito.**
 
 **Porque el problema de esta época no es que las máquinas sean tontas. Es que son muy buenas ejecutando cosas que nadie necesitaba, y eso se nota tarde.**
 
