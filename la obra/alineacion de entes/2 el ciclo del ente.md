@@ -4,36 +4,25 @@
 
 **Alejandro Valenzuela Rivera.**
 
-> **Antes de leer.** **Conviene haber leído `1 que es un ente`. Si no, basta con esto: un ente recibe, decide, contesta y deja rastro.**
->
-> **Al terminar sabrás qué pasos corre un ente, y qué tiene que decir cada uno para que se pueda correr sin preguntarle a nadie.**
+> **Antes de leer.** **Conviene haber leído `1 que es un ente`. Si no, basta con esto: un ente recibe, decide, contesta y deja rastro.** **Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.**
 
 > **Sobre el origen de estas ideas.** Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> **Y este ensayo es el mecanismo, y nada más: los pasos del ciclo, uno por uno.** **Dos de sus partes se separaron porque crecieron más que el resto:** **el piso está en `3 el piso`, y la frontera del paso 3 está en `4 la frontera y el descarte`.** **Aquí quedan referidos, no repetidos.**
+---
 
-> **Y este ensayo empieza donde termina `1 que es un ente`.** **Lo que aquí se corre son las cuatro piezas del paso 0 y las cinco partes del bucle, y eso está definido allá.** **Se repiten en una línea para que esto se pueda leer solo, y nada más:**
+## I. Qué se pierde cuando el ciclo no está escrito, y el mapa
 
-```plaintext
-la autoridad · el ente · el propósito · el índice
-       y el bucle: recibe, decide, contesta, apunta, se corrige
-```
+**Un ente puede funcionar sin esto, y funciona mal de una manera que no se ve.**
 
-### Cómo se lee este ensayo
+**El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo.** **Y lo que no está escrito, se rellena — y se rellena distinto cada vez.** **Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.**
 
-**Todo lo que sigue es obligatorio: no hay tramos opcionales.** **Son los pasos del ciclo, en orden, y cada uno con la forma de un proceso.**
+**Y dos piezas que tiene que haber antes de la primera vuelta:** **la autoridad, el ente, el propósito y el índice** (en `1 que es un ente`); **y el bucle que se recorre en cada vuelta:** **recibe, decide, contesta, apunta, se corrige.**
+
+**Y cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.**
 
 **La ruta corta, si el tiempo es poco:** **el paso 0, el paso 3, y el falsificador del final.** **Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.**
 
 **Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto:** **el piso está en `3 el piso`, y las cuatro columnas del paso 3 en `6 la frontera y el descarte`.**
-
----
-
-## I. El ciclo, en una línea
-
-**El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo.** **Y lo que no está escrito, se rellena — y se rellena distinto cada vez.**
-
-**Este ensayo es el ciclo completo: cada paso con su forma de proceso —qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.**
 
 ### El mapa
 

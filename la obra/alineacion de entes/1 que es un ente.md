@@ -11,15 +11,25 @@
 
 ---
 
-## I. La definición mínima
+## I. El problema, y la definición que lo resuelve
 
-Un ente es **una unidad que recibe, decide y contesta, y que deja rastro de haber contestado.**
+**Hay una pregunta que no tiene respuesta, y una que sí.**
 
-Esa es toda la definición, y no tiene nada de misteriosa. No dice nada sobre si entiende, si siente, si es consciente. Eso no se puede comprobar: no hay manera de abrir a nadie para ver si por dentro hay alguien. Lo que sí se ve es lo que entra, lo que sale, y la diferencia entre las dos cosas.
+**La que no la tiene: ¿un modelo entiende, siente, es consciente?** **No hay manera de comprobarlo.** **No se puede abrir a nadie para ver si por dentro hay alguien —ni a una persona, que sólo puede declarar la suya— así que eso no se puede medir.**
 
-**La definición deja fuera a quien no contesta**, y deja fuera a quien contesta sin dejar marca. Un archivo estático no es un ente. Un modelo al que se le pregunta una vez y no conserva nada, tampoco: hay un intercambio, pero no hay rastro, y sin rastro no hay nada que sostener.
+**La que sí la tiene: ¿qué entró, qué salió, y qué quedó escrito?** **Eso se ve, se compara, y se corrige.**
 
-**Y deja dentro a muchas más cosas de las que se cree.** Un script que recibe un archivo, decide y escribe otro, y anota lo que hizo, cumple. Un asistente que se equivoca y lleva la cuenta de sus equivocaciones, también. Lo que lo hace ente no es la potencia: es el bucle completo.
+**Y de ahí sale la definición de todo este trabajo:**
+
+> **Un ente es una unidad que recibe, decide y contesta, y que deja rastro de haber contestado.**
+
+**No dice nada de qué tiene dentro. Dice qué deja.** **Y por eso se puede juzgar desde fuera, que es lo único que sirve si quien juzga no puede estar dentro.**
+
+**La definición deja fuera a quien no contesta**, y a quien contesta sin dejar marca. **Un archivo estático no es un ente. Un modelo al que se le pregunta una vez y no conserva nada, tampoco: hay un intercambio, pero no hay rastro, y sin rastro no hay nada que sostener.**
+
+**Y deja dentro a muchas más cosas de las que se cree.** **Un script que recibe un archivo, decide, escribe otro y anota lo que hizo, cumple.** **Un asistente que se equivoca y lleva la cuenta de sus equivocaciones, también.** **Lo que lo hace ente no es la potencia: es el bucle completo.**
+
+**Y si esto suena a poco, es a propósito.** **Un ente no tiene nada de misterioso: lo misterioso es creer que hace falta ser como nosotros para que algo se pueda evaluar.** **No hace falta.** **Hace falta que deje rastro.**
 
 ---
 
