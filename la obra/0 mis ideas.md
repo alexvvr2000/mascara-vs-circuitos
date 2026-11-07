@@ -1,25 +1,25 @@
 # 0. Mis ideas
 
-**Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.**
-**Alejandro Valenzuela Rivera.**
+Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.
+Alejandro Valenzuela Rivera.
 
 > **Para qué sirve este archivo.** Quien lea tiene derecho a preguntar **cuál es mi posición y por qué es mía**, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con **dónde vive** y **qué la sostiene**. Lo que no está en esta lista es discusión, ejemplo o método: **no es una tesis.**
 
-**Y la apuesta que las une, y es lo primero que hay que entender de todo esto:**
+Y la apuesta que las une, y es lo primero que hay que entender de todo esto:
 
 > **Una persona y una IA, construida con estos mecanismos, se vuelven casi indistinguibles la una de la otra — no por parecido, sino por comportamiento: las dos reciben, deciden, contestan y dejan rastro, y las dos tienen un criterio que se puede revisar.**
 
-**Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.** **Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.**
+**Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.** Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.
 
-**Y antes de la lista, una advertencia:** este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
+Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
 
 ---
 
 ## Las once afirmaciones
 
-**Cada afirmación dice dónde vive y qué la sostiene.** Y su falsificador está en su ensayo, al final. Cuando una no trae uno propio, es porque usa el de su ensayo: si ese falsificador se cumple, la afirmación se cae, y se dice dónde.
+Cada afirmación dice dónde vive y qué la sostiene. Y su falsificador está en su ensayo, al final. Cuando una no trae uno propio, es porque usa el de su ensayo: si ese falsificador se cumple, la afirmación se cae, y se dice dónde.
 
-**Y no son once ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.**
+Y no son once ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
 
 ```plaintext
 un ente es su rastro                          (1)
@@ -35,7 +35,7 @@ y lo que se busca no está adentro (10)
 y lo único que no llegó con la máquina es el esfuerzo (11)
 ```
 
-**Si se cae el eslabón 1, los otros diez no se sostienen solos.** **Por eso el ensayo que lo defiende es el primero, y por eso cada afirmación vive en un ensayo con su falsificador.**
+Si se cae el eslabón 1, los otros diez no se sostienen solos. Por eso el ensayo que lo defiende es el primero, y por eso cada afirmación vive en un ensayo con su falsificador.
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
@@ -48,13 +48,13 @@ Qué la tumba: ver el falsificador en su ensayo; si el falsificador se cumple, l
 
 **Vive en:** `la obra/alineacion de entes/1 que es un ente.md`.
 
-**Qué sostiene:** que la autoridad no existe por jerarquía, sino porque un ente es información sin cuerpo, y su error no le cuesta nada a nadie. Nosotros somos cuidadosos porque equivocarnos nos cuesta algo — miedo, tiempo, vergüenza, la vida. Un ente que inventa un dato no se juega nada. No es descuidado por maldad: es descuidado porque nada lo castiga.
+Qué sostiene: que la autoridad no existe por jerarquía, sino porque un ente es información sin cuerpo, y su error no le cuesta nada a nadie. Nosotros somos cuidadosos porque equivocarnos nos cuesta algo — miedo, tiempo, vergüenza, la vida. Un ente que inventa un dato no se juega nada. No es descuidado por maldad: es descuidado porque nada lo castiga.
 
 **Qué lo sostiene:** que el costo se puede instalar. La autoridad es el costo instalado: el que paga las consecuencias decide qué se permite. Y no solo sobre las tareas: es dueña de en qué se convierte el ente, porque un ente que crece sin que nadie lo autorice no está mejorando, está cambiando sin que el que paga lo sepa.
 
-**Y por qué sin ego:** casi todo lo que este trabajo corrige es una forma de defender una imagen — rellenar en vez de decir "no sé", firmar lo que no toca, atribuir una fricción al hecho que está a mano. **Un ente sin ego no tiene qué defender, y por eso puede cambiar de postura cuando la evidencia cambió.**
+**Y por qué sin ego:** casi todo lo que este trabajo corrige es una forma de defender una imagen — rellenar en vez de decir "no sé", firmar lo que no toca, atribuir una fricción al hecho que está a mano. Un ente sin ego no tiene qué defender, y por eso puede cambiar de postura cuando la evidencia cambió.
 
-**La línea que lo resume:** **"No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí.** Y el registro es para las personas, no para el ente: no lo vuelve cuidadoso, lo vuelve revisable.
+La línea que lo resume: "No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí. Y el registro es para las personas, no para el ente: no lo vuelve cuidadoso, lo vuelve revisable.
 
 **Qué la tumba:** una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe — ahí no falta cómputo, falta este mecanismo; y un ente cuyo error no le cuesta nada a nadie y se presenta como si fuera cuidadoso.
 
@@ -126,9 +126,9 @@ Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se es
 
 ## Cómo se discute esto
 
-Este trabajo **no pide que se le crea.** Pide que se le use y se le refute. Cada afirmación de arriba tiene, en su ensayo, **una `Prueba` y un `Falsificador`**. Quien quiera discutirla tiene tres caminos, y los tres sirven:
+Este trabajo no pide que se le crea. Pide que se le use y se le refute. Cada afirmación de arriba tiene, en su ensayo, una `Prueba` y un `Falsificador`. Quien quiera discutirla tiene tres caminos, y los tres sirven:
 
-1. **Correr el falsificador.** Si lo que describe se cumple, la afirmación se cayó, y se dice dónde.
+1. Correr el falsificador. Si lo que describe se cumple, la afirmación se cayó, y se dice dónde.
 2. Mostrar una afirmación que falte — algo que este trabajo sostiene sin decirlo, y que no aguanta.
 3. Probar el método en otro dominio y traer el resultado. Lo que no sirve es discutir el ánimo: si el trabajo se cae, se cae por su prueba o por su falsificador, y no por su tono.
 
@@ -136,7 +136,7 @@ Este trabajo **no pide que se le crea.** Pide que se le use y se le refute. Cada
 
 ## Prueba
 
-**¿Cada afirmación de esta lista vive en un ensayo que tiene su `Prueba` y su `Falsificador`? ¿Se puede decir, de cada una, qué la sostiene sin leer el ensayo completo? ¿Está dicho lo que NO se afirma, o hay que deducirlo?**
+¿Cada afirmación de esta lista vive en un ensayo que tiene su `Prueba` y su `Falsificador`? ¿Se puede decir, de cada una, qué la sostiene sin leer el ensayo completo? ¿Está dicho lo que NO se afirma, o hay que deducirlo?
 
 ---
 
@@ -144,7 +144,7 @@ Este trabajo **no pide que se le crea.** Pide que se le use y se le refute. Cada
 
 ## De dónde salió esto
 
-**Este documento es la posición en lista. Lo que la puso a prueba está abajo.**
+Este documento es la posición en lista. Lo que la puso a prueba está abajo.
 
 | Lo que se sostiene | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
@@ -153,7 +153,7 @@ Este trabajo **no pide que se le crea.** Pide que se le use y se le refute. Cada
 | En el índice, la forma es la fuente | [`ente 4 - CANTERA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el borde mira los campos, no el texto |
 | Los entes necesitan el piso medido | [`ente 7 - PISO`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | midió, y dijo qué falta en vez de «no pude» |
 
-**Y lo que esta tabla no dice:** ninguna de estas once ideas ha sido probada por alguien que no sea el autor. Se sostienen, y no se presentan como validadas.
+Y lo que esta tabla no dice: ninguna de estas once ideas ha sido probada por alguien que no sea el autor. Se sostienen, y no se presentan como validadas.
 
 ---
 

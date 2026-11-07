@@ -1,16 +1,16 @@
 # Metodología de mejora
 
-**Cómo se mejora la alineación de entes, y las nueve veces que se mejoró.**
+Cómo se mejora la alineación de entes, y las nueve veces que se mejoró.
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
+Alejandro Valenzuela Rivera · `TESTIGO`.
 
 ---
 
 ## Qué es esto
 
-**Los ensayos de al lado (`1 que es un ente` … `6 criterio y sesgos`) dicen cómo funciona un ente.** **Aquí está cómo se sabe si están completos.**
+Los ensayos de al lado (`1 que es un ente` … `6 criterio y sesgos`) dicen cómo funciona un ente. Aquí está cómo se sabe si están completos.
 
-**Y no por opinión: por corrida.** **Se levanta un ente desde cero, usando solo los ensayos, y lo que haya que inventar es un hueco del ensayo.**
+Y no por opinión: por corrida. Se levanta un ente desde cero, usando solo los ensayos, y lo que haya que inventar es un hueco del ensayo.
 
 ---
 
@@ -24,7 +24,7 @@
 2. corridas/          las nueve veces que se corrió, en orden
 ```
 
-**Y cada corrida tiene dos cosas:**
+Y cada corrida tiene dos cosas:
 
 ```plaintext
 corridas/ente N - NOMBRE/
@@ -35,7 +35,7 @@ corridas/ente N - NOMBRE/
                       dueño, qué se rompió, y qué hueco salió
 ```
 
-**Y las nueve carpetas se leen en orden, porque cada una corrige la anterior.**
+Y las nueve carpetas se leen en orden, porque cada una corrige la anterior.
 
 | Ente | Qué se probaba | Huecos |
 |---|---|---|
@@ -51,13 +51,13 @@ corridas/ente N - NOMBRE/
 
 ## Y una cosa que se dice antes de que la descubran
 
-**Las nueve carpetas tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
+Las nueve carpetas tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.
 
-**No es un error de copia: es la evolución, y se ve comparando.** **Por eso están todas y no solo la última — el que quiera ver qué cambió y en qué corrida, lo ve.**
+No es un error de copia: es la evolución, y se ve comparando. Por eso están todas y no solo la última — el que quiera ver qué cambió y en qué corrida, lo ve.
 
-**Y los scripts también se repiten, por el mismo motivo: `crear.py` de la primera no es `vara.py` de la segunda, ni `fuente.py` de la sexta, ni `piso.py` de la séptima.**
+Y los scripts también se repiten, por el mismo motivo: `crear.py` de la primera no es `vara.py` de la segunda, ni `fuente.py` de la sexta, ni `piso.py` de la séptima.
 
-**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay nueve intentos, y el bueno es el que salga después.**
+El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay nueve intentos, y el bueno es el que salga después.
 
 ---
 
@@ -67,7 +67,7 @@ corridas/ente N - NOMBRE/
 - **No prueba que el método funcione con otro autor.** **Se ha corrido con este, y con este dueño.**
 - **No es un producto.** **Es un registro, y crece cada vez que se corre otra vez.**
 
-**Y la línea que lo hace confiable:** **si una corrida no encontró nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.**
+Y la línea que lo hace confiable: si una corrida no encontró nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.
 
 ---
 
@@ -83,10 +83,10 @@ corridas/ente N - NOMBRE/
 6. se repite. Y no se para en "no encontré nada": ver el §VI del método
 ```
 
-**Y faltan cuatro pasos que no están en este repo, y son de quien corre:**
+Y faltan cuatro pasos que no están en este repo, y son de quien corre:
 
-**El que corre se mejora a sí mismo al final de cada corrida.** **Su puerta aprende la regla que la corrida cambió, y su banco se muda al esquema que la corrida dejó, sin reescribir los hechos viejos.**
+El que corre se mejora a sí mismo al final de cada corrida. Su puerta aprende la regla que la corrida cambió, y su banco se muda al esquema que la corrida dejó, sin reescribir los hechos viejos.
 
-**Está en el §III del método, y se publica por un motivo:** **el que corra el ciclo tiene que saber que le toca a él, y no solo al papel.** **Si su ente no lo hace, ese es el hueco que no está en ningún ensayo: el de él.**
+Está en el §III del método, y se publica por un motivo: el que corra el ciclo tiene que saber que le toca a él, y no solo al papel. Si su ente no lo hace, ese es el hueco que no está en ningún ensayo: el de él.
 
-**Y hasta que no queden huecos, no hay guía para levantar el ente.** **Los ensayos se prueban levantando entes, no escribiendo una guía para levantarlos.**
+Y hasta que no queden huecos, no hay guía para levantar el ente. Los ensayos se prueban levantando entes, no escribiendo una guía para levantarlos.

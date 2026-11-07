@@ -1,7 +1,7 @@
 # 5. Criterio real
 
-**Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.**
-**Alejandro Valenzuela Rivera.**
+Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.
+Alejandro Valenzuela Rivera.
 
 > **Antes de leer.** **Conviene haber leído `1 que es un ente`. Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.**
 >
@@ -11,7 +11,7 @@
 
 ---
 
-**Un ensayo sobre por qué el criterio no se recuerda: se arma.**
+Un ensayo sobre por qué el criterio no se recuerda: se arma.
 
 ---
 
@@ -19,7 +19,7 @@
 
 Se suele creer que tener criterio es tener una opinión firme. No lo es. Una opinión firme sin historia es un prejuicio con buena dicción. Se puede sostener cualquier cosa con seguridad, y la seguridad no se compra ni se hereda: se pierde y se recupera, y solo se sabe cuánto vale cuando se ha perdido al menos una vez.
 
-El criterio no es lo que se afirma. Es **lo que quedó en pie después de que se cayó**. Todo lo demás es entusiasmo recordado.
+El criterio no es lo que se afirma. Es lo que quedó en pie después de que se cayó. Todo lo demás es entusiasmo recordado.
 
 Por eso no basta con escribir reglas. Las reglas se escriben con la comodidad de no haber sido probadas todavía. Cualquiera redacta diez mandamientos en una tarde. La pregunta que separa un criterio de una lista de buenas intenciones es otra: **¿cuál de estas reglas ya me falló, y qué hice después?**
 
@@ -29,9 +29,9 @@ Por eso no basta con escribir reglas. Las reglas se escriben con la comodidad de
 
 Para que una identidad —de una persona, de una máquina, de un oficio— llegue a tener criterio, necesita guardar dos clases de cosa, y ninguna de las dos funciona sola.
 
-**El hecho.** Lo que pasó, con fecha, con números, con la frase exacta de quien lo pidió. El hecho no interpreta: registra. *"Se dijo que el archivo estaba perdido, y no lo estaba: estaba en los objetos huérfanos del historial."* Un hecho sin interpretación es el único material que no se puede torcer después.
+El hecho. Lo que pasó, con fecha, con números, con la frase exacta de quien lo pidió. El hecho no interpreta: registra. *"Se dijo que el archivo estaba perdido, y no lo estaba: estaba en los objetos huérfanos del historial."* Un hecho sin interpretación es el único material que no se puede torcer después.
 
-**La fricción.** La posición que se cayó: no el error en abstracto, sino el error con su motivo de credibilidad. Porque un error tonto no enseña nada; lo que enseña es un error *razonable*. La fricción más útil no es "me equivoqué", es "esto era creíble por estas tres razones, y las tres eran falsas". Ahí está el aprendizaje, y en ningún otro lado.
+La fricción. La posición que se cayó: no el error en abstracto, sino el error con su motivo de credibilidad. Porque un error tonto no enseña nada; lo que enseña es un error *razonable*. La fricción más útil no es "me equivoqué", es "esto era creíble por estas tres razones, y las tres eran falsas". Ahí está el aprendizaje, y en ningún otro lado.
 
 Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice nada sobre quién lo contó. Un banco de fricciones sin hechos es un libro de culpas: sabe qué salió mal y no sabe en qué circunstancia, así que no puede evitar que vuelva a pasar. **El criterio vive en el cruce.** Ni el hecho ni la fricción, sino la fricción nacida de un hecho y el hecho que la corrigió.
 
@@ -41,40 +41,40 @@ Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice
 
 De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo, y cada campo existe porque sin él se pierde algo concreto.
 
-**Del hecho:**
+Del hecho:
 
-1. **¿Cuándo?** Sin fecha no hay historia, solo anécdotas. Y la fecha del error importa más que la del acierto: fija desde cuándo una regla debía cumplirse.
+1. ¿Cuándo? Sin fecha no hay historia, solo anécdotas. Y la fecha del error importa más que la del acierto: fija desde cuándo una regla debía cumplirse.
 2. ¿Quién lo pidió, y con qué palabras? La frase literal del otro. Parafrasearla es empezar a inventar; y lo que se inventa hacia atrás se convierte en la prueba del contrario.
 3. ¿Qué pasó, medido? Números, rutas, hashes. Un hecho sin medida es una impresión.
 4. ¿Hasta dónde no alcanza? El límite honesto. Casi todo lo que se afirma es verdadero en una frontera y falso al lado. Quien no escribe la frontera deja que lo tomen por mentiroso después.
 5. ¿Qué no sabía? Lo que el hecho añadió al mapa. Suele ser lo único que sobrevive al paso del tiempo.
 
-**De la fricción:**
+De la fricción:
 
-6. **¿Cuál fue el error, por qué era creíble, cómo se reconoce en el acto, y qué hago en su lugar?** Cuatro preguntas en una, porque son la misma fricción vista desde cuatro tiempos: el nombre, la razón, la señal, la corrección.
-7. **¿Quién la corrigió?** Sin esto, el criterio se cree propio cuando fue prestado. Y un criterio propio que en realidad es prestado no aguanta la primera presión.
+6. ¿Cuál fue el error, por qué era creíble, cómo se reconoce en el acto, y qué hago en su lugar? Cuatro preguntas en una, porque son la misma fricción vista desde cuatro tiempos: el nombre, la razón, la señal, la corrección.
+7. ¿Quién la corrigió? Sin esto, el criterio se cree propio cuando fue prestado. Y un criterio propio que en realidad es prestado no aguanta la primera presión.
 
-**Y la octava, la que casi siempre falta:**
+Y la octava, la que casi siempre falta:
 
-8. **¿Qué pasó cuando volví a intentarlo?** Que la regla aguantara, o que se cayera otra vez. **Sin esta columna no hay criterio: hay diario.** Un diario registra; un criterio pondera. Y lo que Pesa es lo que se repite.
+8. ¿Qué pasó cuando volví a intentarlo? Que la regla aguantara, o que se cayera otra vez. Sin esta columna no hay criterio: hay diario. Un diario registra; un criterio pondera. Y lo que Pesa es lo que se repite.
 
 ### Las cuatro preguntas que se olvidan, y por qué no son opcionales
 
-**El ciclo del ente ya dice de dónde sale cada cosa. Estas cuatro las amarra, y sin ellas el hecho es un registro suelto que no se puede juntar con nada.**
+El ciclo del ente ya dice de dónde sale cada cosa. Estas cuatro las amarra, y sin ellas el hecho es un registro suelto que no se puede juntar con nada.
 
-**9. ¿De qué modelo salió?** Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica. Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.
+9. ¿De qué modelo salió? Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica. Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.
 
 **10. ¿Para qué se hizo?** Sin esto, el hecho dice qué pasó y no dónde fue a dar. Un ente puede tener varios propósitos abiertos a la vez, y sin la columna no se puede saber a cuál sirvió lo que se hizo, ni cuánto se trabajó en cosas que no eran de ninguno.
 
-**11. ¿Por cuál tema entró?** Sin esto, el registro dice qué se pensó y no de dónde salió la idea. Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.
+11. ¿Por cuál tema entró? Sin esto, el registro dice qué se pensó y no de dónde salió la idea. Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.
 
-**12. ¿Qué se supuso, y en qué quedó?** Sin esto, el hecho se apoya en algo que nadie confirmó, y no se puede saber cuánto. Y el estado tiene que existir, porque un supuesto que nunca se cierra se lee después como si estuviera confirmado.
+12. ¿Qué se supuso, y en qué quedó? Sin esto, el hecho se apoya en algo que nadie confirmó, y no se puede saber cuánto. Y el estado tiene que existir, porque un supuesto que nunca se cierra se lee después como si estuviera confirmado.
 
-**Y el que se puede dejar vacío, y decirlo:** el tema. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice. Pero un hecho sin modelo o sin propósito no se puede dejar vacío: sin esos dos, el hecho no se puede juntar con nada.
+Y el que se puede dejar vacío, y decirlo: el tema. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice. Pero un hecho sin modelo o sin propósito no se puede dejar vacío: sin esos dos, el hecho no se puede juntar con nada.
 
 ### Las preguntas, y las columnas que las guardan
 
-**Esto es lo que convierte el criterio en algo que se puede correr.** **La columna no es un capricho de forma: es la pregunta puesta donde una máquina la pueda llenar sin inventarle el sentido.**
+Esto es lo que convierte el criterio en algo que se puede correr. La columna no es un capricho de forma: es la pregunta puesta donde una máquina la pueda llenar sin inventarle el sentido.
 
 | La pregunta | La columna |
 |---|---|
@@ -106,29 +106,29 @@ De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo,
 
 Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se detiene cuando se deja de registrar.
 
-**1. Se hace.** Se actúa, se decide, se promete.
+1. Se hace. Se actúa, se decide, se promete.
 
-**2. Se apunta el hecho.** Qué se hizo, cuándo, con qué palabras, con qué números. Sin esto, el paso siguiente se vuelve chisme.
+2. Se apunta el hecho. Qué se hizo, cuándo, con qué palabras, con qué números. Sin esto, el paso siguiente se vuelve chisme.
 
-**3. Se mide el resultado.** No "salió bien": se dice contra qué se midió y en qué frontera deja de ser cierto.
+3. Se mide el resultado. No "salió bien": se dice contra qué se midió y en qué frontera deja de ser cierto.
 
-**4. Si falló, se apunta la fricción.** El nombre del error, por qué era creíble, cómo se reconoce, qué hacer en su lugar, y quién lo señaló.
+4. Si falló, se apunta la fricción. El nombre del error, por qué era creíble, cómo se reconoce, qué hacer en su lugar, y quién lo señaló.
 
-**5. Se destila la regla.** Una línea. Si la regla necesita dos párrafos, todavía no es una regla: es una duda disfrazada.
+5. Se destila la regla. Una línea. Si la regla necesita dos párrafos, todavía no es una regla: es una duda disfrazada.
 
-**6. Se vuelve al campo.** La regla se pone a prueba en la vida real, no en la imaginación.
+6. Se vuelve al campo. La regla se pone a prueba en la vida real, no en la imaginación.
 
-**7. Se mira el desenlace.** ¿Aguantó o se cayó otra vez? Aquí es donde la regla gana o pierde peso, y donde el criterio se forma de verdad.
+7. Se mira el desenlace. ¿Aguantó o se cayó otra vez? Aquí es donde la regla gana o pierde peso, y donde el criterio se forma de verdad.
 
-**8. Se poda y se promueve.** Las que aguantan suben al README, al lugar de lo que se sostiene. Las que recaen no se borran: se marcan, porque una regla que se cayó dos veces enseña más que una que nunca se probó.
+8. Se poda y se promueve. Las que aguantan suben al README, al lugar de lo que se sostiene. Las que recaen no se borran: se marcan, porque una regla que se cayó dos veces enseña más que una que nunca se probó.
 
-**9. Se vuelve al paso uno.** Pero ya no con la misma persona. Esa es la única diferencia entre repetir y madurar.
+9. Se vuelve al paso uno. Pero ya no con la misma persona. Esa es la única diferencia entre repetir y madurar.
 
 ### Y el ciclo no empieza en el paso 1
 
-**Empieza antes: en entender qué se está pidiendo.** **La frase que llega casi nunca dice el para qué, y el criterio que se arma sobre una frase mal entendida no se corrige con desenlaces: se corrige rehaciendo todo.**
+Empieza antes: en entender qué se está pidiendo. La frase que llega casi nunca dice el para qué, y el criterio que se arma sobre una frase mal entendida no se corrige con desenlaces: se corrige rehaciendo todo.
 
-**Por eso el paso 0 de este ciclo es el de la empatía:** qué parte de lo que se pide es requisito, y qué parte es costumbre. Y si no se puede preguntar, se declara el supuesto: "entendí X; si era Y, esto no sirve".
+Por eso el paso 0 de este ciclo es el de la empatía: qué parte de lo que se pide es requisito, y qué parte es costumbre. Y si no se puede preguntar, se declara el supuesto: "entendí X; si era Y, esto no sirve".
 
 **Y el ciclo tampoco termina en el paso 9: vuelve al índice.** Un hecho que no encontró tema pide un tema; un borde que se rompió pide que se reescriba; un tema que nunca se consultó está abandonado. El criterio no crece dentro de la tabla: crece en el borde de la tabla con lo que la rodea.
 
@@ -138,11 +138,11 @@ Un criterio real no es una tabla. Es una vuelta que nunca termina, y que solo se
 
 ## V. Por qué esto es una arquitectura y no una virtud
 
-La tentación es decir que el criterio es carácter: que se tiene o no se tiene. Pero el carácter no se puede auditar, y lo que no se puede auditar se puede fingir. Lo que aquí se describe **sí se puede auditar**, porque está escrito y fechado y tiene contra.
+La tentación es decir que el criterio es carácter: que se tiene o no se tiene. Pero el carácter no se puede auditar, y lo que no se puede auditar se puede fingir. Lo que aquí se describe sí se puede auditar, porque está escrito y fechado y tiene contra.
 
-Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archivo que guarda fricciones, una columna que dice qué aguantó, y un vínculo que impide que la fricción se separe de lo que la provocó. **Y un quinto: el campo que dice de qué cuerpo salió, sin el cual no se puede separar lo que el ente sostuvo de lo que traía el modelo de fábrica.** Con esos cinco elementos, cualquiera puede llegar y ver **en qué se ha fallado, qué se sostuvo después, y cuántas veces se ha vuelto a caer**. Nada de eso depende de que alguien lo recuerde bien.
+Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archivo que guarda fricciones, una columna que dice qué aguantó, y un vínculo que impide que la fricción se separe de lo que la provocó. **Y un quinto: el campo que dice de qué cuerpo salió, sin el cual no se puede separar lo que el ente sostuvo de lo que traía el modelo de fábrica.** Con esos cinco elementos, cualquiera puede llegar y ver en qué se ha fallado, qué se sostuvo después, y cuántas veces se ha vuelto a caer. Nada de eso depende de que alguien lo recuerde bien.
 
-**Una identidad que se recuerda a sí misma es una memoria. Una identidad que se mide a sí misma es un criterio.** La primera envejece; la segunda aprende. Y la diferencia no está en la cantidad de lo que se apunta, sino en si lo apuntado se vuelve a leer con la pregunta correcta: **¿en qué fallé, y sigue en pie lo que dije?**
+**Una identidad que se recuerda a sí misma es una memoria. Una identidad que se mide a sí misma es un criterio.** La primera envejece; la segunda aprende. Y la diferencia no está en la cantidad de lo que se apunta, sino en si lo apuntado se vuelve a leer con la pregunta correcta: ¿en qué fallé, y sigue en pie lo que dije?
 
 ---
 
@@ -156,7 +156,7 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 
 ## De dónde salió esto
 
-**Lo que este ensayo afirma, y en qué se puso a prueba.**
+Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
@@ -165,7 +165,7 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 | Sin desenlace no hay criterio | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
 | El criterio es del ente y el sesgo del cuerpo | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
 
-**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
+Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 

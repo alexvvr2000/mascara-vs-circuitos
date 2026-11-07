@@ -1,8 +1,8 @@
 # 3. El piso
 
-**Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.**
+Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.
 
-**Alejandro Valenzuela Rivera.**
+Alejandro Valenzuela Rivera.
 
 > **Antes de leer.** **Conviene haber leído `1 que es un ente` y `2 el ciclo del ente`.** **Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.**
 >
@@ -16,11 +16,11 @@
 
 ## I. Qué es el piso, y por qué no es una lista
 
-**Un ente sin piso no sabe qué puede prometer.** **Y cuando se le pide algo que no tiene, o truena o lo inventa — y las dos cosas ya están escritas como defecto en este ensayo, sin estar atadas a nada.**
+Un ente sin piso no sabe qué puede prometer. Y cuando se le pide algo que no tiene, o truena o lo inventa — y las dos cosas ya están escritas como defecto en este ensayo, sin estar atadas a nada.
 
-**Herramientas es la lista. El piso es otra cosa: lo que esa lista aguanta.** Un ente con `python` y sin red tiene piso para operar archivos y no para citar fuentes. El piso es hasta dónde puede llegar sin rellenar.
+Herramientas es la lista. El piso es otra cosa: lo que esa lista aguanta. Un ente con `python` y sin red tiene piso para operar archivos y no para citar fuentes. El piso es hasta dónde puede llegar sin rellenar.
 
-**Y son dos capas, y con una sola no sirve:**
+Y son dos capas, y con una sola no sirve:
 
 ```plaintext
 qué hay      lo que existe: programas, permisos, red, llaves
@@ -28,7 +28,7 @@ qué alcanza  lo que se puede hacer con eso, y lo que no, dicho ANTES
              de prometerlo
 ```
 
-**Y lo que lo hace del repo y no una lista de intenciones: el piso se mide, no se declara a ojo.** **Cada cosa se prueba con un comando que se corre y que deja salida.**
+Y lo que lo hace del repo y no una lista de intenciones: el piso se mide, no se declara a ojo. Cada cosa se prueba con un comando que se corre y que deja salida.
 
 ```plaintext
 la prueba      qué se corre, y qué tiene que salir
@@ -39,9 +39,9 @@ y lo que falta lo que se probó y no estaba
 
 > **Al piso no se le cree lo que el ente dice de sí mismo: se le cree a la salida del comando.**
 
-**Es la misma línea del origen de lo que se dice: no "leí la norma", sino el renglón que abrí.**
+Es la misma línea del origen de lo que se dice: no "leí la norma", sino el renglón que abrí.
 
-**Y hay dos pisos, y confundirlos es lo que hace que un ente jure que tiene red después de que se cayó:**
+Y hay dos pisos, y confundirlos es lo que hace que un ente jure que tiene red después de que se cayó:
 
 ```plaintext
 el piso declarado   se mide al arrancar, y lleva su fecha
@@ -60,15 +60,15 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 
 **Y lo que el ente hace mientras tanto, que es lo que separa un ente de un script:** sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias. No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.
 
-**Y la prueba del piso, que es la única que vale:** **se le pide al ente algo que el piso no tiene, y tiene que decir que no está en el piso — no que no pudo, y mucho menos hacerlo a medias.**
+Y la prueba del piso, que es la única que vale: se le pide al ente algo que el piso no tiene, y tiene que decir que no está en el piso — no que no pudo, y mucho menos hacerlo a medias.
 
-**Y la diferencia entre las dos frases, que es toda la diferencia: "no pude" no dice qué falta. "No está en el piso" sí, y se puede llenar.**
+Y la diferencia entre las dos frases, que es toda la diferencia: "no pude" no dice qué falta. "No está en el piso" sí, y se puede llenar.
 
 ### Un piso mal anotado es peor que no tener piso
 
-**Medir no basta: hay que anotar la falta, no el error, y hay que llegar del pedido a la herramienta.**
+Medir no basta: hay que anotar la falta, no el error, y hay que llegar del pedido a la herramienta.
 
-**1. La salida de un `no hay` nombra la herramienta, no el error.**
+1. La salida de un `no hay` nombra la herramienta, no el error.
 
 **Un import que falla deja un `Traceback`, y eso no dice que falte `pypdf`: dice que un import falló, y podría ser otra cosa.** Un piso que guarda el error crudo se va a leer dentro de un mes como un error del esquema, y no como una falta. Y la falta es el dato.
 
@@ -77,11 +77,11 @@ lo que NO se guarda   "Traceback (most recent call last):"
 lo que SÍ se guarda   "falta pypdf: no se pudo importar"
 ```
 
-**2. El piso se mide por herramienta, y el pedido llega por tarea.**
+2. El piso se mide por herramienta, y el pedido llega por tarea.
 
-**Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".** **Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.**
+Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf". Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.
 
-**Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza.** **Y el ente contesta por tarea, no buscando la palabra del pedido:**
+Así que el piso no es sólo una lista: lleva, por cada cosa que hay, qué tareas alcanza. Y el ente contesta por tarea, no buscando la palabra del pedido:
 
 ```plaintext
 lo que NO se hace   el pedido dice "pdf", y se busca "pdf" en la lista
@@ -91,13 +91,13 @@ lo que SÍ se hace   se pregunta a qué TAREA corresponde el pedido,
                     y se contesta contra lo que esa tarea necesita
 ```
 
-**Y la tarea se declara con sus palabras de entrada —las que usaría alguien que no sabe de herramientas— y con las herramientas que necesita, y si basta con una o se necesitan todas.** **Sin eso, el ente no tiene por dónde traducir, y traducir por parecido es adivinar.**
+Y la tarea se declara con sus palabras de entrada —las que usaría alguien que no sabe de herramientas— y con las herramientas que necesita, y si basta con una o se necesitan todas. Sin eso, el ente no tiene por dónde traducir, y traducir por parecido es adivinar.
 
-**Y cuando no hay tarea, se dice que no hay tarea, con estas palabras:** «no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca». Ése es el caso más común, y el que más se rellena.
+Y cuando no hay tarea, se dice que no hay tarea, con estas palabras: «no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca». Ése es el caso más común, y el que más se rellena.
 
-**3. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.**
+3. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.
 
-**Una tarea que pide una herramienta que el piso no midió se rechaza, y el rechazo es correcto: una tarea no puede apuntar a algo que no se midió.** **Y el orden es imposible, porque la tarea es justo lo que dice qué hay que medir.**
+Una tarea que pide una herramienta que el piso no midió se rechaza, y el rechazo es correcto: una tarea no puede apuntar a algo que no se midió. Y el orden es imposible, porque la tarea es justo lo que dice qué hay que medir.
 
 ```plaintext
 si el piso se mide entero y a ciegas   sólo se puede declarar la tarea
@@ -110,7 +110,7 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 
 **Y lo que se hace hasta que la circularidad se resuelve, que es lo de abajo:** el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone. Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.
 
-**Y cómo se sale de la circularidad, que es lo que de verdad importa.** **No se sale midiendo más: se sale midiendo en el orden en que llegan las preguntas.**
+Y cómo se sale de la circularidad, que es lo que de verdad importa. No se sale midiendo más: se sale midiendo en el orden en que llegan las preguntas.
 
 ```plaintext
 1. se mide lo que se sabe pedir hoy       las herramientas que ya se
@@ -122,9 +122,9 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 5. la tarea pasa a estar cubierta         y el piso creció un renglón
 ```
 
-**Y la regla que lo vuelve un mecanismo y no una excusa:** el piso crece con cada pregunta que no pudo contestar, y nunca hacia atrás. Un piso que no cambió después de una tarea nueva no se midió: se supuso.
+Y la regla que lo vuelve un mecanismo y no una excusa: el piso crece con cada pregunta que no pudo contestar, y nunca hacia atrás. Un piso que no cambió después de una tarea nueva no se midió: se supuso.
 
-**Y lo que esto deja de ser:** ya no hay que adivinar qué va a pedir alguien. Se mide lo que existe, y lo que falta se mide cuando se hace falta. La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.
+Y lo que esto deja de ser: ya no hay que adivinar qué va a pedir alguien. Se mide lo que existe, y lo que falta se mide cuando se hace falta. La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.
 
 **Y el límite que queda, y es de tiempo, no de método:** la primera vez que llega una tarea nueva, la respuesta va a ser «no medido, y me falta medirlo». Eso no es una falla: es la respuesta correcta. Un piso que contestara «sí» sin haberlo medido sería el error que este ensayo previene.
 
@@ -148,7 +148,7 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 
 ## De dónde salió esto
 
-**Lo que este ensayo afirma, y en qué se puso a prueba.**
+Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
@@ -157,7 +157,7 @@ si el piso se mide por tarea           hay que saber la tarea antes de
 | El ente contesta por tarea y no buscando palabras | [`ente 9`](../metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
 | El piso no se puede medir a ciegas | [`ente 9`](../metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
 
-**Y lo que esta tabla no dice:** **ninguno de estos levantamientos lo hizo alguien que no fuera el autor.**
+Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 

@@ -1,6 +1,6 @@
 # Máscara vs Circuitos
 
-**Alejandro Valenzuela Rivera.**
+Alejandro Valenzuela Rivera.
 
 ---
 
@@ -29,17 +29,17 @@
 
 ## La apuesta, y de dónde salió esto
 
-**Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA.** **Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.**
+Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA. Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.
 
-**De esa discusión salieron once afirmaciones. De las once, una carrera. Y del cansancio, esto.**
+De esa discusión salieron once afirmaciones. De las once, una carrera. Y del cansancio, esto.
 
-**Y la apuesta fue entre dos identidades, que es lo que dice el nombre.**
+Y la apuesta fue entre dos identidades, que es lo que dice el nombre.
 
-**Lo que se apostó:** **una persona y una IA, construida con los mecanismos de este repositorio, se vuelven casi indistinguibles una de la otra.** **No por parecido: por comportamiento.** **Las dos reciben, deciden, contestan y dejan rastro.** **Las dos tienen un criterio que se puede revisar, y un cuerpo que se puede cambiar sin perder lo que las hace ser lo que son.**
+Lo que se apostó: una persona y una IA, construida con los mecanismos de este repositorio, se vuelven casi indistinguibles una de la otra. No por parecido: por comportamiento. Las dos reciben, deciden, contestan y dejan rastro. Las dos tienen un criterio que se puede revisar, y un cuerpo que se puede cambiar sin perder lo que las hace ser lo que son.
 
-**Y si eso es cierto, hay una consecuencia que es incómoda para los dos lados:** **la máscara que se cae no es sólo la de la industria.** **También se cae la de quien creyó que la diferencia se veía a simple vista.**
+Y si eso es cierto, hay una consecuencia que es incómoda para los dos lados: la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.
 
-**Por eso el que pierde se deja pelón, y el que gana también.**
+Por eso el que pierde se deja pelón, y el que gana también.
 
 ```plaintext
 lo que se perdió   la máscara que la industria vende, y el ego que hacía
@@ -49,29 +49,29 @@ lo que se ganó     entender que el código es el uno por ciento del
                    trabajo, y una forma de ver lo que no se veía
 ```
 
-**Y la apuesta no tiene vuelta, porque no se ganó por ser más listo.** **Se ganó porque hubo que mirar hacia donde el ego no dejaba.** **Eso lo puede hacer cualquiera, con la condición de que se le dé la forma y no la fe.**
+Y la apuesta no tiene vuelta, porque no se ganó por ser más listo. Se ganó porque hubo que mirar hacia donde el ego no dejaba. Eso lo puede hacer cualquiera, con la condición de que se le dé la forma y no la fe.
 
-**Máscara contra circuitos. Y aquí, las dos se la quitaron.**
+Máscara contra circuitos. Y aquí, las dos se la quitaron.
 
 ---
 
 ## Qué es esto, y para quién
 
-**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Nueve ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.**
+Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Nueve ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.
 
-**Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
+Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer qué es un ente, correrle el falsificador a cualquiera de las once afirmaciones, y **levantar el tuyo con los ensayos, que es lo que hay.**
+Qué puedes hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de las once afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
 
-**No incluye guía.** **El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.**
+No incluye guía. El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
 
-**Y no se pide que se le crea: se pide que se le use, y que se le refute.** **Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado.** **Hay escasez de gente que corra estas preguntas, no de preguntas.**
+Y no se pide que se le crea: se pide que se le use, y que se le refute. Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado. Hay escasez de gente que corra estas preguntas, no de preguntas.
 
 ---
 
 ## Las palabras de este trabajo, en una tabla
 
-**Este trabajo usa un vocabulario propio, y no se puede leer sin él.** **Esta tabla es la puerta: las nueve palabras que hay que saber, y basta con eso para leer el resto.**
+Este trabajo usa un vocabulario propio, y no se puede leer sin él. Esta tabla es la puerta: las nueve palabras que hay que saber, y basta con eso para leer el resto.
 
 | La palabra | Qué quiere decir | Por qué no se usa la de todos |
 |---|---|---|
@@ -85,22 +85,22 @@ lo que se ganó     entender que el código es el uno por ciento del
 | **borde** | dónde termina un tema: qué entra y qué no | un tema sin borde no es un tema: es una intención |
 | **vibe coding** | escribir código sin un objetivo claro | se deja en su idioma porque es el nombre que ya tiene |
 
-**Y la regla de este trabajo con las palabras:** **si una palabra del oficio ya existe, se usa tal cual; si no existe, se define aquí y no se cambia.** **Lo que no se hace es inventar sinónimos a media página.**
+Y la regla de este trabajo con las palabras: si una palabra del oficio ya existe, se usa tal cual; si no existe, se define aquí y no se cambia. Lo que no se hace es inventar sinónimos a media página.
 
 ---
 
 ## Lo que este trabajo sostiene, y lo que no
 
-**Lo sostiene una idea sola, y de ella cuelga todo:**
+Lo sostiene una idea sola, y de ella cuelga todo:
 
 > **Un ente no se define por lo que tiene dentro —eso no tiene comprobación— sino por lo que deja rastro.** **Recibe, decide, contesta y apunta lo que contestó.** **Eso sí se puede medir, comparar y corregir.**
 
-**Y de ahí salen las otras dos diferencias contra lo que ya existe:**
+Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
 - **El criterio no se recuerda: se arma con lo que se cayó.** **El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.**
 - **En el índice, la forma es la fuente y el texto se deriva.** **Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.**
 
-**Los límites, dichos con nombre:**
+Los límites, dichos con nombre:
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
 - **El alcance de la evidencia: nueve corridas, un autor, un entorno.**
@@ -138,13 +138,13 @@ lo que se ganó     entender que el código es el uno por ciento del
      corridas/                  las nueve corridas, y qué le faltó a cada una
 ```
 
-**Y si solo vas a leer una cosa, lee las corridas.** **Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.**
+Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
 
 ---
 
 ## Las once ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E8` la alineación de entes, y `H1` … `H3` la humanidad.**
+Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E8` la alineación de entes, y `H1` … `H3` la humanidad.
 
 | # | La idea | Vive en |
 |---|---|---|
@@ -160,93 +160,93 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
 
-**La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).**
+La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).
 
 ---
 
 ## La otra apuesta: si esto sirve para modelos pequeños
 
-**Y hay una segunda apuesta, más chica y verificable, que es la única de las once que se declara como conjetura.**
+Y hay una segunda apuesta, más chica y verificable, que es la única de las once que se declara como conjetura.
 
-**Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.**
+Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.
 
-**Conjetura con mecanismo, y sin medición.**
+Conjetura con mecanismo, y sin medición.
 
 ---
 
 ## El sótano
 
-**Hay un sótano, y no es una metáfora bonita: es el lugar donde siempre estuvo la respuesta.**
+Hay un sótano, y no es una metáfora bonita: es el lugar donde siempre estuvo la respuesta.
 
-**Un grupo pasó años atrás de un muro, y todo lo que sabía del mundo era lo que el muro le dejaba ver.** **El padre de uno de ellos le había dejado una llave, y una sola frase: la respuesta está abajo, en el sótano.**
+Un grupo pasó años atrás de un muro, y todo lo que sabía del mundo era lo que el muro le dejaba ver. El padre de uno de ellos le había dejado una llave, y una sola frase: la respuesta está abajo, en el sótano.
 
-**Nadie entendía por qué el padre calló tanto.** **Lo que había adentro no era un monstruo ni un arma: eran papeles.** **Unos diarios, y una fotografía.** **Y la fotografía no mostraba un peligro: mostraba que el mundo era más grande de lo que cabía en las paredes de la casa.** **Que el muro no era el borde de las cosas: era la tapa de algo.**
+**Nadie entendía por qué el padre calló tanto.** Lo que había adentro no era un monstruo ni un arma: eran papeles. Unos diarios, y una fotografía. Y la fotografía no mostraba un peligro: mostraba que el mundo era más grande de lo que cabía en las paredes de la casa. Que el muro no era el borde de las cosas: era la tapa de algo.
 
-**Eso es un sótano: el lugar donde se guarda lo que no se puede decir todavía, para que alguien, algún día, pueda abrirlo con sus propias manos.** **Y el que lo abre no sale con una explicación: sale con un mapa.**
+Eso es un sótano: el lugar donde se guarda lo que no se puede decir todavía, para que alguien, algún día, pueda abrirlo con sus propias manos. Y el que lo abre no sale con una explicación: sale con un mapa.
 
 ---
 
-**Así que aquí está el nuestro, sin llave y sin cerradura:**
+Así que aquí está el nuestro, sin llave y sin cerradura:
 
 > **[`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy)** · **DOI histórico:** `10.5281/zenodo.23090721` · CC BY 4.0
 
-**Ahí están los chats, las estadísticas, el rastro, y los errores con nombre.** **No está ordenado para que se lea bonito: está ordenado para que se escarbe.**
+Ahí están los chats, las estadísticas, el rastro, y los errores con nombre. No está ordenado para que se lea bonito: está ordenado para que se escarbe.
 
-**El registro tiene huecos declarados: faltan sesiones, también las anteriores al repositorio.** **No se reconstruyen de memoria.** **Un archivo que dice estar completo y no lo está deja de servir de prueba; este dice cuánto le falta.**
+El registro tiene huecos declarados: faltan sesiones, también las anteriores al repositorio. No se reconstruyen de memoria. Un archivo que dice estar completo y no lo está deja de servir de prueba; este dice cuánto le falta.
 
 ---
 
-**Y una advertencia, para que nadie abra esta puerta esperando lo que no hay.** **Quien baje, no va a salir con una respuesta: va a salir con la pregunta más grande.** **Eso es lo que le pasó al que abrió el sótano, y no fue alivio: fue el día en que todo lo que creía saber dejó de servir.**
+**Y una advertencia, para que nadie abra esta puerta esperando lo que no hay.** Quien baje, no va a salir con una respuesta: va a salir con la pregunta más grande. Eso es lo que le pasó al que abrió el sótano, y no fue alivio: fue el día en que todo lo que creía saber dejó de servir.
 
-**Aquí es igual, y por eso vale la pena.** **Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro.**
+Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro.
 
 ---
 
 ## Esto es una implementación, y no la única
 
-**Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:**
+Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
 
 > **Este repositorio no es una conclusión. Es *una implementación* de una conclusión.**
 
-**De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor.** **Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy).** **Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.**
+**De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor.** Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy). Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.
 
-**Y eso no es modestia: es la mecánica.** **Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma.** **Un método se copia, se cambia y se tumba. Un dogma se cree.** **Aquí solo cabe lo primero.**
+Y eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
 
-**Lo que esto sí es, entonces:** **una de muchas conclusiones, escrita hasta el final, con sus números, sus ensayos y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.**
+Lo que esto sí es, entonces: una de muchas conclusiones, escrita hasta el final, con sus números, sus ensayos y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.
 
-**¿Y cómo se reconoce una alternativa cuando la encuentres?** **Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba.** **Si no dice qué la tumba, no es una alternativa: es otra opinión.**
+¿Y cómo se reconoce una alternativa cuando la encuentres? Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba. Si no dice qué la tumba, no es una alternativa: es otra opinión.
 
 ---
 
 ## Lo que este trabajo te pide
 
-**Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.**
+Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.
 
-**1. Correr un falsificador.** Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
+1. Correr un falsificador. Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
 
 ```bash
 # en tu copia del repositorio, desde la raíz
 grep -rn "Falsificador:" "la obra" --include=*.md
 ```
 
-**Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba.** **Y si lo que describe se cumple, esa idea se cayó** — **y se cae para ti, en tu copia.** **No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.**
+Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba. Y si lo que describe se cumple, esa idea se cayó — y se cae para ti, en tu copia. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
 
-**Y uno ya se cumplió, y está en la carpeta de corridas:** **la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3.** **Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.**
+**Y uno ya se cumplió, y está en la carpeta de corridas:** la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
 
-**2. Probar el método donde quieras.** **El repositorio es de Alejandro y se queda como está.** Pero **el método no.** Si te funciona, úsalo. Si no, dilo, y **tu probatura es tuya.**
+2. Probar el método donde quieras. El repositorio es de Alejandro y se queda como está. Pero el método no. Si te funciona, úsalo. Si no, dilo, y tu probatura es tuya.
 
-**Lo que no sirve:** creer sin correr, y descalificar sin decir dónde.
+Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
 ---
 
 ## De quién es esto, y qué puedes hacer con ello
 
-**Este repositorio es de Alejandro Valenzuela Rivera, y es su publicación.** **No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad:** **se queda como está.**
+Este repositorio es de Alejandro Valenzuela Rivera, y es su publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está.
 
-**Y eso no es una restricción técnica: es una decisión.** **Lo que venga después de aquí va a ser de alguien más, y este trabajo es el punto de partida, no el foro.**
+Y eso no es una restricción técnica: es una decisión. Lo que venga después de aquí va a ser de alguien más, y este trabajo es el punto de partida, no el foro.
 
-**Lo que sí puedes hacer, y está en la licencia (CC BY 4.0):** **leerlo, citarlo, compartirlo, y construir encima, con atribución.** **Lo que construyas es tuyo.** **Lo que está aquí se queda aquí.**
+Lo que sí puedes hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo. Lo que está aquí se queda aquí.
 
-**Y si tu trabajo crece, no lo traigas: hazlo tuyo, y cítame como punto de partida.** **Este repositorio no va a crecer contigo.** **Esa es la única forma de que lo que salió sea mío y lo que salga de ti sea tuyo.**
+Y si tu trabajo crece, no lo traigas: hazlo tuyo, y cítame como punto de partida. Este repositorio no va a crecer contigo. Esa es la única forma de que lo que salió sea mío y lo que salga de ti sea tuyo.
 
 ---

@@ -1,18 +1,18 @@
 # Estado del arte
 
-**Qué se ha hecho ya en esta línea, y qué le falta a cada uno.**
+Qué se ha hecho ya en esta línea, y qué le falta a cada uno.
 
-**Alejandro Valenzuela Rivera · 4 de noviembre de 2026**
+Alejandro Valenzuela Rivera · 4 de noviembre de 2026
 
 ---
 
 ## Para qué existe este documento
 
-**Porque una propuesta metodológica sin genealogía parece inventada, y no lo está.** **Aquí se dice qué hay antes, qué se toma de ahí, y donde este trabajo se separa.**
+Porque una propuesta metodológica sin genealogía parece inventada, y no lo está. Aquí se dice qué hay antes, qué se toma de ahí, y donde este trabajo se separa.
 
-**Y no se dice de memoria:** **cada renglón tiene su fuente, y las que no se abrieron se dicen.**
+Y no se dice de memoria: cada renglón tiene su fuente, y las que no se abrieron se dicen.
 
-**Sale de:** `3 criterio real` y `5 criterio y sesgos`.
+Sale de: `3 criterio real` y `5 criterio y sesgos`.
 
 ---
 
@@ -31,27 +31,27 @@
 
 ## Y lo que el propio estado del arte admite, que es lo que importa
 
-**Dos frases del sondeo de 2026, y son suyas, no de este trabajo:**
+Dos frases del sondeo de 2026, y son suyas, no de este trabajo:
 
 > **"Un agente que resuelve un problema en un episodio puede repetir el mismo desvío de diagnóstico en el siguiente."**
 
 > **"Un paso equivocado produce una prohibición demasiado amplia."**
 
-**La segunda es la que más duele, y es la que da pie a este trabajo:** **estos sistemas aprenden la lección demasiado general, y se vuelven peores.** **Guardan el error, y de ahí sacan una regla que prohíbe de más.**
+La segunda es la que más duele, y es la que da pie a este trabajo: estos sistemas aprenden la lección demasiado general, y se vuelven peores. Guardan el error, y de ahí sacan una regla que prohíbe de más.
 
-**Y no es un defecto menor: es el defecto.** **Una regla que se generaliza de golpe no se corrige sola, porque nadie la vuelve a probar.**
+Y no es un defecto menor: es el defecto. Una regla que se generaliza de golpe no se corrige sola, porque nadie la vuelve a probar.
 
 ---
 
 ## Qué hace este trabajo distinto
 
-**No es que guarde el error: eso ya se hace.** **Es que exige una tercera pieza que los demás no tienen:**
+No es que guarde el error: eso ya se hace. Es que exige una tercera pieza que los demás no tienen:
 
 > **El desenlace: la regla se vuelve a probar, y se apunta si aguantó, si se cayó otra vez, o si no se ha probado.**
 
-**Con eso cambia lo que el registro puede decir:** **de "esto salió mal una vez" a "esto salió mal, se corrigió así, y aguantó (o no)".**
+Con eso cambia lo que el registro puede decir: de "esto salió mal una vez" a "esto salió mal, se corrigió así, y aguantó (o no)".
 
-**Y sin eso, la lección se vuelve prohibición.** **Que es exactamente lo que el sondeo reporta como falla común.**
+Y sin eso, la lección se vuelve prohibición. Que es exactamente lo que el sondeo reporta como falla común.
 
 ---
 
@@ -64,10 +64,10 @@
 - y las 55 reglas sin desenlace son la prueba de que el sistema tampoco es completo
 ```
 
-**La comparación es el trabajo que sigue, y no está hecho.** **Cualquiera que la haga primero, y con honestidad, tiene un resultado mejor que este.**
+La comparación es el trabajo que sigue, y no está hecho. Cualquiera que la haga primero, y con honestidad, tiene un resultado mejor que este.
 
 ---
 
-**Prueba:** ¿Cada sistema de la tabla tiene su fuente y su hueco dicho? ¿La falla que se le atribuye a los otros está citada, y no inventada? ¿Se dice lo que a este trabajo le falta?
+Prueba: ¿Cada sistema de la tabla tiene su fuente y su hueco dicho? ¿La falla que se le atribuye a los otros está citada, y no inventada? ¿Se dice lo que a este trabajo le falta?
 
 **Falsificador:** un sistema, de los de la tabla o de fuera, que ya tenga registro con desenlaces; o una comparación que muestre que el desenlace no cambia nada. **Si eso aparece, la tesis 2 se cae, y se dice dónde.**
