@@ -255,9 +255,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| La definición se puede aplicar a algo concreto | [`ente 1 - PRUEBA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
-| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`ente 5 - 2026-11-05_153210`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
-| El modelo no define al ente | [`ente 6 - FUENTE`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
+| La definición se puede aplicar a algo concreto | [`ente 1 - PRUEBA`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
+| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`ente 5 - 2026-11-05_153210`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
+| El modelo no define al ente | [`ente 6 - FUENTE`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
