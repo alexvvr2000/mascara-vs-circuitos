@@ -147,7 +147,7 @@ lo que NO va              qué corrida lo encontró, en qué sesión se
 
 **Y lo segundo no se tira: se guarda en la metodología, que es donde se mantiene.** **El ensayo cita al pie lo que lo puso a prueba, en una tabla, y ahí se acaba su relación con la corrida.**
 
-**Por qué, y no es cuestión de gusto:** **un ensayo que dice «ocho corridas» envejece el día que hay nueve.** **Y un ensayo que dice «la corrida 8 encontró» obliga al lector a abrir ocho carpetas antes de saber qué se sostiene.**
+**Por qué, y no es cuestión de gusto:** **un ensayo que lleva la cuenta de las corridas envejece la primera vez que se corre otra.** **Y un ensayo que dice qué corrida encontró algo obliga al lector a abrir todas las carpetas anteriores antes de saber qué se sostiene.**
 
 **Y la regla que esto deja, que aplica a cualquier texto que se entregue:**
 

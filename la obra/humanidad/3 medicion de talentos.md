@@ -179,6 +179,40 @@ el conteo, que ahora sí suma
 
 ---
 
+## IX. Lo suficiente no es una rendición
+
+**Este ensayo mide costo por resultado. Y medir el costo obliga a una pregunta que casi nunca se hace: ¿cuánto de lo que se compra hacía falta?**
+
+**La respuesta que este trabajo sostiene es incómoda en las dos direcciones.** **Ni lo enorme es por fuerza mejor, ni lo pequeño es por fuerza suficiente.** **Son dos cosas distintas, y confundirlas hace perder de vista la que importa.**
+
+**Y el caso no es teórico, es de oficio.** **Hay lugares donde el papel, el fax y el sello de tinta siguen en uso, no por atraso, sino porque funcionan bien para lo que se hace con ellos.** **Nadie está pagando un problema que esa herramienta no resuelva.**
+
+> **Lo suficiente no es un fracaso de la ambición. Es un criterio.**
+
+**Y ese criterio es el mismo de este ensayo, escrito de otra forma:** **CRE pregunta cuánto cuesta un resultado verificado.** **La pregunta del tamaño es la misma, un paso antes: cuánto de la capacidad comprada cuenta como resultado verificado, y cuánto es capacidad que nadie usó.**
+
+**Y la consecuencia práctica, que es la que se puede aplicar mañana:** **un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe.** **No porque lo pequeño sea virtuoso, sino porque el segundo no puede decir dónde se cae, y el primero sí.**
+
+### Y lo que no se está contestando
+
+**Aquí hay que decir algo que no es técnico, y por eso se dice con el mismo cuidado.**
+
+**Casi toda la inversión en este campo va a ser más capaz, más rápido, más grande.** **Y esas tres cosas no contestan la pregunta que este trabajo hace, porque no es de capacidad:**
+
+> **¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?**
+
+**Ninguna cantidad de cómputo produce esa respuesta.** **Es una regla que alguien tiene que escribir, con nombre, y sostener cuando se caiga.**
+
+**Y eso hace raro el estado del debate: se compra potencia para no tener que contestar.** **Comprar capacidad es más fácil que decidir quién carga las consecuencias, porque la primera se paga con dinero y la segunda se paga con una decisión que hay que defender.**
+
+**No es que la potencia esté mal: es que no es el problema.** **Y un método que solo sabe medir potencia no puede ver la diferencia, porque mide lo que sobra y no lo que falta.**
+
+**Y su falsificador:** **una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe** — **ahí no falta cómputo: falta criterio**; **y la inversa: una herramienta pequeña que se presenta como bastante sin haber medido nunca dónde se cae.** **Las dos dicen más de lo que pueden sostener.**
+
+---
+
+---
+
 ## Prueba
 
 **¿Cada número sale del banco, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**

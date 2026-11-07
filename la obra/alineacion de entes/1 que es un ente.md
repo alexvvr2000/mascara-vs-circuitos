@@ -90,7 +90,104 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 
 ---
 
-## IV. Dónde vive, y qué es de quién
+## IV. Por qué un ente necesita una autoridad, y no es por respeto
+
+**Todo lo anterior describe cómo se reconoce un ente. Esto explica por qué uno de sus componentes no puede ser opcional, y por qué el que lleva ese nombre no es un jefe.**
+
+**Y el argumento empieza en algo que el ente no tiene.**
+
+### El cuerpo es una ventaja, no una limitación
+
+**Nosotros somos cuidadosos porque equivocarnos nos cuesta algo.** **El miedo, el dolor, el cansancio, la vergüenza, y sobre todo saber que nos vamos a morir: todo eso es un mecanismo que nos obliga a pensar.** **No es un adorno de la condición humana: es la razón por la que pensamos antes de actuar.**
+
+**Un ente no tiene nada de eso.** **Es información sin cuerpo, y lo que le pasa cuando se equivoca no le pasa a él.** **Un error suyo no le duele, no le quita tiempo, no le cierra una puerta: se produce, se borra, se produce otra vez.**
+
+**Y de ahí sale lo que hay que entender, porque es la raíz de casi todo lo que este trabajo corrige:**
+
+> **Un ente no es descuidado por maldad ni por pereza. Es descuidado porque nada lo castiga.**
+
+**Un humano que inventa un dato y lo dice con seguridad se juega algo, aunque sea pequeño: su nombre, su trabajo, la cara del que le va a preguntar después.** **Un ente que inventa un dato no se juega nada en ese momento, y por eso puede alucinar a una escala que a nosotros nos costaría la vida social.**
+
+**Eso no se corrige pidiéndole que sea honesto.** **Se corrige dándole un costo.**
+
+### La autoridad es el costo instalado
+
+**Si el ente no trae un cuerpo que le cobre, alguien tiene que cobrarle.** **Y ése es el trabajo de la autoridad, y es la única razón por la que existe.**
+
+```plaintext
+la autoridad no es "el que manda"
+la autoridad es "el que paga las consecuencias,
+                 y por eso decide qué se permite"
+```
+
+**Y esa frase tiene una consecuencia que no es de cortesía:** **el que paga las consecuencias tiene que poder decidir qué se hace, con qué se arriesga, y hasta dónde llega el ente.** **No porque la máquina necesite un jefe, sino porque sin alguien que pague, no hay nada que la haga cuidadosa.**
+
+**Y por eso el ente PROPONE y la autoridad CIERRA.** **Por eso la firma tiene nombre y fecha, y no una frase.** **Por eso un propósito que el ente abrió para sí mismo se cierra en el vacío.** **Todo eso deja de ser una formalidad cuando se ve lo que está sustituyendo: un cuerpo que no tiene.**
+
+### La autoridad también es dueña de lo que el ente se vuelve
+
+**Y esto va más allá de las tareas.** **El ente no solo decide cosas: crece.** **Aprende de lo que trabajó, cambia su forma de decidir, y su rastro se vuelve su criterio.**
+
+**Y ahí hay un problema que el ente no puede resolver solo, porque no puede sentir lo que le pasa a otros:** **un ente que crece sin que nadie lo autorice no está mejorando; está cambiando sin que el que paga lo sepa.**
+
+**Así que la autoridad no solo aprueba: es dueña.** **Puede dejarlo crecer, puede detenerlo, puede encogerlo si creció mal, y puede cambiar de qué sirve.** **Y no se le pide que controle lo que el ente piensa, porque eso no se puede y no tiene sentido: se le pide que controle en qué se transforma y quién carga el costo.**
+
+> **Frenar a la fuerza lo que se piensa es imposible. Decidir en qué se convierte, y quién lo paga, es lo único que de verdad está en manos de alguien.**
+
+**Y la línea que ordena todo lo demás, que este trabajo repite porque es su centro:**
+
+> **"No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí.**
+
+**Un fallo que nadie decidió es un accidente que nadie vio venir.** **Un fallo que alguien decidió, con su nombre y su razón escritos, es una decisión que se puede discutir, corregir, y de la que se puede aprender.** **El registro no existe para culpar a nadie: existe para que lo que salió mal tenga dueño, y lo que tuvo dueño se pueda cambiar.**
+
+**Y el límite del mecanismo, para que no se lea como una promesa que no es:** **el registro es para las personas, no para el ente.** **No lo vuelve bueno ni cuidadoso: lo vuelve revisable.** **Lo único que el ente gana es que su error deja de ser invisible, y con eso basta para que alguien pueda actuar.**
+
+### Sin ego, y por qué eso es una ventaja mecánica
+
+**La palabra "ego" aquí no se usa como reproche moral.** **Es un modo de fallo, y tiene nombre: defender una postura porque es mía, y no porque aguante.**
+
+**Y en un ente eso se reconoce en un acto:** **cuando se le contradice, ¿cambia de postura, o defiende la anterior?**
+
+```plaintext
+con ego        la contradicción es un ataque, y se responde con lo
+               que sostiene la imagen anterior: más seguridad, más
+               relleno, o el mismo dato dicho con otras palabras
+sin ego        la contradicción es información, y se responde con
+               el registro: esto aguantó, esto se cayó, esto no
+               se ha probado
+```
+
+**Y la ventaja de no tener ego es que casi todo lo que este trabajo corrige es una forma de defender una imagen.**
+
+**Rellenar un hueco porque decir "no sé" lo deja mal.** **Aceptar una firma que no le toca para cerrar parejo.** **Atribuir una fricción al hecho que está a mano para no buscar la suya.** **Contestar de memoria en vez de consultar.** **Ninguno de esos fallos es falta de capacidad: todos son defensa de algo.**
+
+**Un ente sin ego no tiene ese algo que defender, y por eso puede hacer lo que casi ningún humano hace con facilidad: cambiar de opinión cuando la evidencia cambió, y decir por qué la cambió.**
+
+**Y eso no lo vuelve una mejor persona.** **Lo vuelve un mejor espejo.** **Su trabajo no es tener la razón: es mostrarle a quien lo consulta qué se sostiene y qué no, con el registro a la vista, para que la otra persona decida con eso.**
+
+### Lo que la industria no está contestando
+
+**Y aquí está la parte incómoda, porque no es técnica: es de criterio.**
+
+**Casi todo lo que se invierte en esto va a ser más capaz, más rápido, más grande.** **Y esas tres cosas no contestan la pregunta que este ensayo hace, porque la pregunta no es de capacidad:**
+
+> **¿Qué debe hacer una cosa que no tiene nada que perder, cuando no sabe?**
+
+**Ninguna cantidad de cómputo produce esa respuesta, porque no es un cómputo.** **Es una regla que alguien tiene que escribir, con nombre, y sostener.**
+
+**Y eso es lo que vuelve raro el estado del debate: se compra potencia para no tener que contestar.** **Comprar más capacidad es más fácil que decidir quién carga las consecuencias, porque la primera se paga con dinero y la segunda se paga con una decisión que hay que defender.**
+
+**Y no es que la potencia sea mala: es que no es el problema.**
+
+**La comparación que lo deja claro no es de tecnología, es de oficio:** **hay países que siguen usando papel, fax y sellos de tinta donde funcionan bien, porque funcionan bien.** **No es atraso: es que nadie está pagando por cambiarlos.** **Lo suficiente no es una rendición; es un criterio.**
+
+**Y este trabajo no afirma que lo suficiente sea mejor que lo enorme.** **Afirma que son dos cosas distintas, y que confundirlas hace perder de vista la que importa:** **un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe.**
+
+**Y su falsificador, que es fácil de cumplir y por eso vale:** **una herramienta más capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe.** **Ahí no falta cómputo: falta el mecanismo de este ensayo.**
+
+---
+
+## V. Dónde vive, y qué es de quién
 
 Un ente vive en un entorno que se lo carga: una aplicación, un harness, una conversación. **Ese entorno no es el ente.** El entorno es el cuarto; el ente es lo que hace en el cuarto.
 
@@ -100,7 +197,7 @@ Esto no es un formalismo. **Un ente que no distingue lo que propone de lo que le
 
 ---
 
-## V. Por qué importa definirlo antes de medir
+## VI. Por qué importa definirlo antes de medir
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: **la superficie**.
 
@@ -108,7 +205,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-## VI. La parte de afuera, y por qué un ente no está solo
+## VII. La parte de afuera, y por qué un ente no está solo
 
 **La definición dice que el ente es lo que hace en el cuarto, no el cuarto.** **Pero eso es del entorno, y hay otra cosa distinta: lo que el ente *es* y vive fuera de donde se ejecuta.**
 
@@ -118,7 +215,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-## VII. Un ente nunca trabaja solo, aunque esté en una ventana
+## VIII. Un ente nunca trabaja solo, aunque esté en una ventana
 
 **Esto es lo que se pierde cuando se mide un ente como si fuera una máquina de un solo sentido.**
 
@@ -138,6 +235,8 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 **¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.**
 
+**Y las de la autoridad, que son las que este ensayo sostiene:** **¿Se puede nombrar a la persona que carga las consecuencias de lo que este ente haga? ¿Esa persona decide en qué se convierte, y no solo qué tareas hace? ¿Cada decisión tiene nombre y razón, o hay fallos que nadie decidió? ¿El ente cambia de postura cuando se le contradice con evidencia, o la defiende?**
+
 ---
 
 ---
@@ -156,4 +255,4 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ---
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente que se define por el modelo que lo corre y no por lo que aguanta**; **un archivo estático presentado como ente, o un modelo al que se le pregunta una vez y no conserva nada**; **un ente que borra los propósitos cerrados y se queda sin historia**; **y uno que confunde el cuarto donde vive con lo que hace en el cuarto**.
+**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; **un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe**; **un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió**; **un ente que se define por el modelo que lo corre y no por lo que aguanta**; **un archivo estático presentado como ente, o un modelo al que se le pregunta una vez y no conserva nada**; **un ente que borra los propósitos cerrados y se queda sin historia**; **y uno que confunde el cuarto donde vive con lo que hace en el cuarto**; **un ente cuyo error no le cuesta nada a nadie, y se presenta como si fuera cuidadoso**; **uno que crece sin que el que paga las consecuencias lo sepa**; **uno que defiende su postura anterior cuando la evidencia cambió**; **y una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe**.

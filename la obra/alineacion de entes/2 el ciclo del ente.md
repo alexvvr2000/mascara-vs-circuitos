@@ -266,6 +266,14 @@ sin índice      contesta de memoria. Y la memoria no se audita
 
 **La autoridad no es "el usuario".** **El usuario es quien pregunta hoy; la autoridad es quien responde por el para qué.** **Pueden ser la misma persona, y no se confunden: el usuario puede cambiar cada mensaje, y la autoridad es una y con nombre.**
 
+**Y la razón por la que existe no es jerárquica, y está en `1 que es un ente`:** **un ente no tiene cuerpo, y por eso su error no le cuesta nada.** **La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.**
+
+**De ahí dos cosas que este paso da por hechas y que hay que decir aquí:**
+
+**La autoridad no solo aprueba tareas: es dueña de en qué se convierte el ente.** **Puede dejarlo crecer, detenerlo, o encogerlo. Lo que no se le pide es controlar lo que piensa, porque eso no se puede: se controla en qué se transforma y quién lo paga.**
+
+**Y el registro es para las personas, no para el ente.** **Que un fallo tenga nombre no vuelve al ente cuidadoso: lo vuelve revisable. Lo único que gana es que su error deja de ser invisible.**
+
 **Se declara con cuatro cosas, y las cuatro son obligatorias:**
 
 ```plaintext

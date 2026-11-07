@@ -111,6 +111,22 @@ Un pedido que no admite esa pregunta **no es un pedido: es una orden disfrazada 
 
 **Un ente sin propósito no es un ente más rápido: es un martillo que se mueve mucho.** **Y lo que lo distingue no es la potencia: es que puede decir para qué existió lo que hizo.**
 
+### Y por qué esto se publica, aunque la gente sea impredecible
+
+**Porque si la herramienta va a existir de todas formas, mejor que exista con el mecanismo a la vista.**
+
+**Un ente que pregunta en vez de afirmar sirve para una cosa que casi ninguna herramienta hace: no le dice a nadie lo que tiene que pensar, le muestra lo que se sostiene y lo que no, para que el otro decida.**
+
+**Y ahí está la diferencia con lo que se vende hoy.** **Una herramienta que contesta todo produce acuerdo, y el acuerdo sin desacuerdo no es consenso: es la apariencia de uno.** **Eso es lo que este trabajo llama complacencia, y es el sesgo que más daño hace, porque un banco lleno de ecos se lee como si fuera criterio.**
+
+**Y de ahí sale la razón honesta para publicar, que no depende de que la gente se porte bien:** **lo que protege no es esconder la herramienta, es que cada decisión quede escrita con nombre y razón, para que el que paga las consecuencias pueda verla.**
+
+> **Un fallo que nadie decidió es un accidente. Un fallo decidido, con nombre, es algo que se puede cambiar.**
+
+**Eso es todo lo que este trabajo ofrece como protección, y no es poco: el registro es para las personas, no para la máquina.** **No vuelve al ente cuidadoso. Lo vuelve revisable, y eso es lo único que alguien puede usar desde afuera.**
+
+**Y el límite, dicho sin adorno:** **publicar no garantiza que se use bien.** **Lo que garantiza es que, cuando se use mal, se pueda señalar quién lo decidió y con qué razón.** **Eso es menos de lo que promete la industria y más de lo que entrega.**
+
 ---
 
 ## Prueba

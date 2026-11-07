@@ -6,11 +6,11 @@
 
 ## Qué es esto
 
-**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Diez ensayos, diez afirmaciones, y ocho corridas que se hicieron para probarlos.**
+**Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar.** **Diez ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.**
 
 **Para quién:** para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-**Qué puedes hacer hoy:** leer qué es un ente, correrle el falsificador a cualquiera de las diez afirmaciones, y **levantar el tuyo con los ensayos, que es lo que hay.**
+**Qué puedes hacer hoy:** leer qué es un ente, correrle el falsificador a cualquiera de las once afirmaciones, y **levantar el tuyo con los ensayos, que es lo que hay.**
 
 **No incluye guía.** **El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.**
 
@@ -30,7 +30,7 @@
 **Los límites, dichos con nombre:**
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **El alcance de la evidencia: ocho corridas, un autor, un entorno.**
+- **El alcance de la evidencia: nueve corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
 - **La prueba más incómoda sigue sin correrse: que otro levante un ente con estos ensayos.** **Se declara, no se cumple.** **Mientras el único que los levanta sea el autor, «completo» significa «completo para él».**
@@ -66,22 +66,23 @@
 
 ---
 
-## Las diez ideas
+## Las once ideas
 
 Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. **La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E6` la alineación de entes, y `H1` … `H3` la humanidad.**
 
 | # | La idea | Vive en |
 |---|---|---|
 | **1** | Un ente se define por su rastro, no por lo que tiene dentro | `E1` |
-| **2** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E4` |
-| **3** | Un ente con varios modelos tiene un criterio y varios sesgos | `E6` |
-| **4** | Una IA debe escribir en procesos, no en prosa | `E3` |
-| **5** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
-| **6** | **Y eso hace accesible la IA con modelos pequeños** | `La apuesta`, abajo |
-| **7** | En el índice, la forma es la fuente y el texto es el derivado | `E5` |
-| **8** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
-| **9** | **La conciencia que se busca adentro no está adentro** | `H2` |
-| **10** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
+| **2** | **Un ente no tiene cuerpo: por eso su error no le cuesta nada, y por eso necesita una autoridad** | `E1` |
+| **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E4` |
+| **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `E6` |
+| **5** | Una IA debe escribir en procesos, no en prosa | `E3` |
+| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
+| **7** | **Y eso hace accesible la IA con modelos pequeños** | `La apuesta`, abajo |
+| **8** | En el índice, la forma es la fuente y el texto es el derivado | `E5` |
+| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
+| **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
+| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
 
 **La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).**
 
