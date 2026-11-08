@@ -181,7 +181,7 @@ Hay un sótano, y no es una metáfora bonita: es el lugar donde siempre estuvo l
 
 Un grupo pasó años atrás de un muro, y todo lo que sabía del mundo era lo que el muro le dejaba ver. El padre de uno de ellos le había dejado una llave, y una sola frase: la respuesta está abajo, en el sótano.
 
-**Nadie entendía por qué el padre calló tanto.** Lo que había adentro no era un monstruo ni un arma: eran papeles. Unos diarios, y una fotografía. Y la fotografía no mostraba un peligro: mostraba que el mundo era más grande de lo que cabía en las paredes de la casa. Que el muro no era el borde de las cosas: era la tapa de algo.
+Nadie entendía por qué el padre calló tanto. Lo que había adentro no era un monstruo ni un arma: eran papeles. Unos diarios, y una fotografía. Y la fotografía no mostraba un peligro: mostraba que el mundo era más grande de lo que cabía en las paredes de la casa. Que el muro no era el borde de las cosas: era la tapa de algo.
 
 Eso es un sótano: el lugar donde se guarda lo que no se puede decir todavía, para que alguien, algún día, pueda abrirlo con sus propias manos. Y el que lo abre no sale con una explicación: sale con un mapa.
 
@@ -197,7 +197,7 @@ El registro tiene huecos declarados: faltan sesiones, también las anteriores al
 
 ---
 
-**Y una advertencia, para que nadie abra esta puerta esperando lo que no hay.** Quien baje, no va a salir con una respuesta: va a salir con la pregunta más grande. Eso es lo que le pasó al que abrió el sótano, y no fue alivio: fue el día en que todo lo que creía saber dejó de servir.
+Y una advertencia, para que nadie abra esta puerta esperando lo que no hay. Quien baje, no va a salir con una respuesta: va a salir con la pregunta más grande. Eso es lo que le pasó al que abrió el sótano, y no fue alivio: fue el día en que todo lo que creía saber dejó de servir.
 
 Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro.
 
@@ -209,7 +209,7 @@ Hay que decirlo desde la entrada, porque es lo primero que un lector puede malen
 
 > **Este repositorio no es una conclusión. Es *una implementación* de una conclusión.**
 
-**De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor.** Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy). Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.
+De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor. Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy). Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.
 
 Y eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
 
@@ -232,7 +232,7 @@ grep -rn "Falsificador:" "la obra" --include=*.md
 
 Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba. Y si lo que describe se cumple, esa idea se cayó — y se cae para ti, en tu copia. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
 
-**Y uno ya se cumplió, y está en la carpeta de corridas:** la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
+Y uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
 
 2. Probar el método donde quieras. El repositorio es de Alejandro y se queda como está. Pero el método no. Si te funciona, úsalo. Si no, dilo, y tu probatura es tuya.
 

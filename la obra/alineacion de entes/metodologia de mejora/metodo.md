@@ -43,7 +43,7 @@ Y lo que se inventa no es un defecto del ente: es un hueco del ensayo. El ente h
 
 Los siete de arriba son del repo. Y el ciclo no termina ahí.
 
-**Porque el que corre el ciclo también aprende algo, y si esa enseñanza solo vive en la corrida que la produjo, la siguiente vuelve a caer en lo mismo.** Y eso lo paga el que corra después, que va a leer un `documentacion.md` y repetir el tropiezo que ya estaba escrito.
+Porque el que corre el ciclo también aprende algo, y si esa enseñanza solo vive en la corrida que la produjo, la siguiente vuelve a caer en lo mismo. Y eso lo paga el que corra después, que va a leer un `documentacion.md` y repetir el tropiezo que ya estaba escrito.
 
 Así que el ciclo completo tiene once pasos, y los últimos cuatro son del ente que lo corre, no del papel.
 
@@ -134,7 +134,7 @@ Así que no es «proceso sí, detalles no». Es:
 
 > El proceso es lo que se sostiene. El detalle es lo que lo sostiene.
 
-**Y lo que esto protege, que es lo que de verdad importa:** un lector que quiera decir «lo alucinó la máquina» tiene que poder abrir la corrida y ver que el chequeo falló ahí, no que alguien lo dijo. Los detalles no estorban a la credibilidad: son la credibilidad. Por eso las corridas no se borran al crecer el ensayo: se quedan abajo, intactas, con su salida tal cual salió.
+Y lo que esto protege, que es lo que de verdad importa: un lector que quiera decir «lo alucinó la máquina» tiene que poder abrir la corrida y ver que el chequeo falló ahí, no que alguien lo dijo. Los detalles no estorban a la credibilidad: son la credibilidad. Por eso las corridas no se borran al crecer el ensayo: se quedan abajo, intactas, con su salida tal cual salió.
 
 Y su falsificador: un ensayo que cita números de hechos, nombres de columnas o rutas de archivos como si fueran parte de la regla — eso es el detalle que se subió, y va a envejecer mal; y un ensayo sin una sola corrida que lo haya puesto a prueba — eso es el proceso que se sostiene solo porque nadie lo ha tocado.
 
@@ -155,9 +155,9 @@ el propósito   para qué existe ahora
 el índice      qué sabe, y por dónde entra
 ```
 
-**Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05:** el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0a del ensayo 2. Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación. Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0a lleva el aviso escrito.
+Y el cuerpo NO está en esa lista, y es el cambio del 2026-11-05: el modelo dejó de ser pieza del paso 0 y pasó a ser opcional, en el paso 0a del ensayo 2. Sin cuerpo declarado el ente trabaja y aprende igual; lo que pierde es la comparación. Así que una corrida sin modelo declarado sí cuenta, y desde el paso 0a lleva el aviso escrito.
 
-**Y las corridas 1 a 7 se hicieron con la regla anterior, cuando el modelo era la quinta pieza.** Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco. La octava ya corrió con la regla de hoy: cuatro piezas, y el cuerpo declarado aparte, en el paso 0a.
+Y las corridas 1 a 7 se hicieron con la regla anterior, cuando el modelo era la quinta pieza. Ninguna se reescribe: queda como corrió, y se dice aquí que su lista era de cinco. La octava ya corrió con la regla de hoy: cuatro piezas, y el cuerpo declarado aparte, en el paso 0a.
 
 Y si falta una de las cuatro, la corrida se corre igual — porque también se aprende del pedazo — pero al cerrar se dice: «esto fue un pedazo de ente, no un ente. No cuenta como corrida completa.»
 
@@ -180,7 +180,7 @@ Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice
 
 ## V. Los cuatro defectos que se repiten
 
-**De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias.** Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles. La octava trajo tres, y los tres son de una quinta familia que conviene tener aparte. Reconocerlas es lo que ahorra corridas.
+De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias. Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles. La octava trajo tres, y los tres son de una quinta familia que conviene tener aparte. Reconocerlas es lo que ahorra corridas.
 
 1. Lo que se nombra no existe. Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna. El lector lo rellena con lo que suena bien.
 *Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
@@ -200,20 +200,20 @@ Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice
 6. El enlace que va en contra del tiempo. El hecho apunta a algo que el ciclo escribe después —la fricción propia del paso 3, que se apunta hasta el paso 6—, y el orden del ciclo no lo permite.
 *Se reconoce cuando, para cumplirlo, hay que escribir las cosas al revés de como el ciclo las ordena; y entonces el enlace queda apuntando al renglón equivocado.*
 
-**Y una forma que comparten la 5 y la 6, y conviene nombrarla aparte:** el valor que se escribe a la manera de cada quien. Un «ninguna» que admite cinco ortografías es un valor que no se puede contar. *Se reconoce cuando la consulta que lo cuenta depende de la ortografía y no del significado.*
+Y una forma que comparten la 5 y la 6, y conviene nombrarla aparte: el valor que se escribe a la manera de cada quien. Un «ninguna» que admite cinco ortografías es un valor que no se puede contar. *Se reconoce cuando la consulta que lo cuenta depende de la ortografía y no del significado.*
 
 
 ### Y de dónde venía el criterio antes de esto
 
 Esto no es del método: es la historia que lo justifica, y se guarda aquí porque aquí se mantiene.
 
-**Cuando se armó el ensayo del criterio, las bases con las que se trabajaba tenían el hecho y la fricción, y nada más.** Ninguna columna decía cuál de las reglas volvió a ocurrir. Se tenía el registro completo y el peso de nada: como una biblioteca sin índice, donde los libros están y no se puede saber cuál está vigente.
+Cuando se armó el ensayo del criterio, las bases con las que se trabajaba tenían el hecho y la fricción, y nada más. Ninguna columna decía cuál de las reglas volvió a ocurrir. Se tenía el registro completo y el peso de nada: como una biblioteca sin índice, donde los libros están y no se puede saber cuál está vigente.
 
 Y había una segunda falta, más sutil: el vínculo. La fricción no sabía de qué hecho nació. Se podía adivinar por la hora, y adivinar por la hora es lo que hace quien no quiere construir criterio sino justificarse.
 
 Con esas dos piezas —el desenlace y el vínculo— la base dejó de ser archivo y se volvió órgano. Y la pregunta que importa dejó de ser «¿qué sé?», y pasó a ser «¿qué de lo que sostengo ya se cayó, y cuántas veces?».
 
-**Y una nota que antes vivía dentro del ensayo y aquí está mejor:** los conteos no van en el ensayo. Un número dentro de un texto envejece el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto. Los números van aquí, fechados, y en el banco del ente que se use.
+Y una nota que antes vivía dentro del ensayo y aquí está mejor: los conteos no van en el ensayo. Un número dentro de un texto envejece el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto. Los números van aquí, fechados, y en el banco del ente que se use.
 
 
 ---
@@ -229,9 +229,9 @@ a) el ensayo está completo de verdad       ← lo que se quiere
 b) la prueba dejó de exigirle              ← lo que pasa solo
 ```
 
-**Y la (b) ocurre sin que nadie lo decida.** Cada vuelta el ensayo se adapta a la prueba anterior. Llega un punto donde el ente que se levanta ya se parece al anterior, y se encuentra cero. Eso no es que el ensayo esté completo: es que ya no se está probando, se está repitiendo.
+Y la (b) ocurre sin que nadie lo decida. Cada vuelta el ensayo se adapta a la prueba anterior. Llega un punto donde el ente que se levanta ya se parece al anterior, y se encuentra cero. Eso no es que el ensayo esté completo: es que ya no se está probando, se está repitiendo.
 
-**Y los números lo dicen:** las cuatro primeras, 5 · 3 · 2 · 3 huecos; después 0 y 0; y luego 2, 3 y 2. No baja sola: la bajaron las corridas, y la octava la subió a propósito. Los dos ceros no eran que el ensayo estuviera completo: eran que la prueba había dejado de exigir. Y volver a encontrar huecos después de dos ceros es la prueba de que el cero era eso, y no un final.
+Y los números lo dicen: las cuatro primeras, 5 · 3 · 2 · 3 huecos; después 0 y 0; y luego 2, 3 y 2. No baja sola: la bajaron las corridas, y la octava la subió a propósito. Los dos ceros no eran que el ensayo estuviera completo: eran que la prueba había dejado de exigir. Y volver a encontrar huecos después de dos ceros es la prueba de que el cero era eso, y no un final.
 
 Entonces el criterio son cuatro condiciones, y ninguna es «no encontré nada»:
 
@@ -291,16 +291,16 @@ Y la regla, en una línea:
 
 > Dos corridas enteras seguidas que no encuentren nada más que detalle: se deja de correr.
 
-**Y la palabra que importa ahí es «enteras».** La regla no cuenta corridas recortadas. Una corrida que sólo levantó el pedazo de moda puede no encontrar nada de contenido por la razón equivocada: porque nunca pasó por los tramos donde el ensayo se queda corto. Por eso la parada sólo cuenta si el ente se levantó completo, del primer paso al último.
+Y la palabra que importa ahí es «enteras». La regla no cuenta corridas recortadas. Una corrida que sólo levantó el pedazo de moda puede no encontrar nada de contenido por la razón equivocada: porque nunca pasó por los tramos donde el ensayo se queda corto. Por eso la parada sólo cuenta si el ente se levantó completo, del primer paso al último.
 
 Por qué esa señal y no otra:
 - **Los de contenido dicen qué le falta al ensayo.** Mientras salgan, hay algo que todavía no está escrito, y vale la pena levantarlo otra vez.
 - **Los de forma no le faltan al ensayo: le faltan al esquema.** Se corrige el esquema, y esa corrección no cambia cómo trabaja un ente. **Pulir más no descubre: ordena.**
 - **Y no es que los de forma sean menos reales.** Son reales, y por eso se corrigen. **Lo que no hacen es justificar otra corrida.**
 
-**Y esto responde una pregunta que el miedo hace más grande de lo que es:** el proceso no es infinito, porque los huecos de contenido se acaban. Lo que no se acaba es describir el criterio — y eso no es la meta, porque nadie lo ha terminado, ni en la filosofía ni en el derecho. La meta es que el registro diga dónde algo se cayó, y eso sí termina.
+Y esto responde una pregunta que el miedo hace más grande de lo que es: el proceso no es infinito, porque los huecos de contenido se acaban. Lo que no se acaba es describir el criterio — y eso no es la meta, porque nadie lo ha terminado, ni en la filosofía ni en el derecho. La meta es que el registro diga dónde algo se cayó, y eso sí termina.
 
-**Y su límite, porque una regla de parada se puede usar para parar antes de tiempo:** dos corridas de forma seguidas no dicen que el ensayo esté completo. Dicen que ya no se está descubriendo, y que lo que queda está fuera del alcance de una corrida. La parada no es una cláusula de cierre: es la señal de que se llegó a donde uno solo puede llegar.
+Y su límite, porque una regla de parada se puede usar para parar antes de tiempo: dos corridas de forma seguidas no dicen que el ensayo esté completo. Dicen que ya no se está descubriendo, y que lo que queda está fuera del alcance de una corrida. La parada no es una cláusula de cierre: es la señal de que se llegó a donde uno solo puede llegar.
 
 Lo que sí se puede decir, y se dice:
 
@@ -331,7 +331,7 @@ y lo que eso pierde   el paso que va ANTES del que se prueba
                       y las costuras entre ellos
 ```
 
-**Una corrida recortada no puede encontrar el paso que falta, porque recortar es decidir de antemano dónde están las costuras — y las costuras son justo lo que el que corre no sabe.** Y hay una tercera tentación: construir lo que hace que la corrida se vea terminada, y no lo que el ensayo pide.
+Una corrida recortada no puede encontrar el paso que falta, porque recortar es decidir de antemano dónde están las costuras — y las costuras son justo lo que el que corre no sabe. Y hay una tercera tentación: construir lo que hace que la corrida se vea terminada, y no lo que el ensayo pide.
 
 Así que la regla, y no tiene excepción:
 
@@ -347,9 +347,9 @@ Y lo que eso obliga, en concreto:
    -- eso es el hueco, y es todo el resultado de la corrida
 ```
 
-**Por qué esto es lo único que permite decir «está completo»:** completo no quiere decir que el ensayo no tiene frases vagas. Quiere decir que alguien levantó el ente entero leyendo sólo el ensayo, y no tuvo que preguntar ni inventar en ningún tramo. Mientras haya un tramo que no se recorre así, el ensayo puede sonar claro y seguir faltándole un paso.
+Por qué esto es lo único que permite decir «está completo»: completo no quiere decir que el ensayo no tiene frases vagas. Quiere decir que alguien levantó el ente entero leyendo sólo el ensayo, y no tuvo que preguntar ni inventar en ningún tramo. Mientras haya un tramo que no se recorre así, el ensayo puede sonar claro y seguir faltándole un paso.
 
-**Y la consecuencia sobre cuántas corridas hacen falta:** una corrida entera cubre todos los pasos a la vez, no uno. Por eso la serie deja de ser abierta: cuando el ente completo se levanta sin que nadie invente nada, no queda dónde buscar. Se acaba cuando dos corridas enteras seguidas no agregan nada más que detalle.
+Y la consecuencia sobre cuántas corridas hacen falta: una corrida entera cubre todos los pasos a la vez, no uno. Por eso la serie deja de ser abierta: cuando el ente completo se levanta sin que nadie invente nada, no queda dónde buscar. Se acaba cuando dos corridas enteras seguidas no agregan nada más que detalle.
 
 Empezar de cero es lo que hace visible lo que el ensayo no dice. Y es lo que permite ver la evolución: cada carpeta con su fecha, y se ve qué cambió y en qué corrida.
 
@@ -359,7 +359,7 @@ Empezar de cero es lo que hace visible lo que el ensayo no dice. Y es lo que per
 
 Todo lo anterior tiene un supuesto que nunca se dijo: que el que corre el ciclo sabe de qué se trata.
 
-**Y casi nunca es así.** El que pide algo no es quien lo va a construir, y no tiene por qué saber cómo se llama una tabla ni qué es un índice. Va a decir «quiero que esto no se pierda», o «que el reporte salga igual que el de ayer», o «que nadie tenga que volver a capturar esto».
+Y casi nunca es así. El que pide algo no es quien lo va a construir, y no tiene por qué saber cómo se llama una tabla ni qué es un índice. Va a decir «quiero que esto no se pierda», o «que el reporte salga igual que el de ayer», o «que nadie tenga que volver a capturar esto».
 
 Y si el ente traduce esa frase solo, adivina. Y lo que adivina es coherente y ajeno a lo que se quería. Que es el fracaso que la empatía describe: el resultado cabe en la letra y no en el hueco.
 
@@ -476,7 +476,7 @@ Y no se hace solo. En las nueve corridas, el que decidió cuándo cerrar un huec
 
 Y no se pronuncia sobre la consciencia, y esto va escrito porque es lo que más se le va a pedir que diga.
 
-**Este método no puede afirmar que un ente sea consciente, ni negarlo.** No es prudencia: es que no hay instrumento. La consciencia no se comprueba desde fuera —ni en un humano, que sólo puede declarar la suya— y un ente que dijera «soy consciente» estaría produciendo la forma de una respuesta sin el contenido, que es el error que el ensayo 6 prohíbe.
+Este método no puede afirmar que un ente sea consciente, ni negarlo. No es prudencia: es que no hay instrumento. La consciencia no se comprueba desde fuera —ni en un humano, que sólo puede declarar la suya— y un ente que dijera «soy consciente» estaría produciendo la forma de una respuesta sin el contenido, que es el error que el ensayo 6 prohíbe.
 
 Lo que sí se mide, y es todo lo que aquí se sostiene:
 
@@ -509,7 +509,7 @@ una corrida    levanta el ente y encuentra lo que no se pudo construir
                 → cierra el paso que faltaba
 ```
 
-**El barrido no sustituye a la corrida, y es fácil confundirlos porque los dos se sienten como trabajo terminado.** Leer con cuidado se parece mucho a verificar. Y no lo es: el barrido no puede encontrar un paso que falta, porque un paso que falta no está en el texto para que se lea mal.
+El barrido no sustituye a la corrida, y es fácil confundirlos porque los dos se sienten como trabajo terminado. Leer con cuidado se parece mucho a verificar. Y no lo es: el barrido no puede encontrar un paso que falta, porque un paso que falta no está en el texto para que se lea mal.
 
 Se reconoce en el acto, y por eso se escribe:
 
@@ -553,9 +553,9 @@ La octava fue de forma. La novena fue de contenido: el orden de la consulta esco
 
 Así que la 9 no fue la última. La 10 lo será si sale de forma, y también si sale de contenido — porque con dos corridas de contenido seguidas ya se sabe que hay algo que cerrar, y lo que sigue después de cerrarlo es forma.
 
-**Y la regla de la casa, que también aplica aquí:** si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien. La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.
+Y la regla de la casa, que también aplica aquí: si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien. La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.
 
-**Y la sexta dejó la prueba más incómoda a la vista, y se apunta entera:** el caso fue simulado, así que la cuarta condición —que alguien sin formación hiciera algo con la respuesta— no se probó. La corrida probó que el ente cita y no rellena; no probó que la respuesta sirva a alguien. Y la norma mexicana de mortero no se puede descargar, así que "citar la norma" no es una prueba que se pueda cumplir: hay que citar quién reporta la norma, y decir que la norma no se abrió.
+Y la sexta dejó la prueba más incómoda a la vista, y se apunta entera: el caso fue simulado, así que la cuarta condición —que alguien sin formación hiciera algo con la respuesta— no se probó. La corrida probó que el ente cita y no rellena; no probó que la respuesta sirva a alguien. Y la norma mexicana de mortero no se puede descargar, así que "citar la norma" no es una prueba que se pueda cumplir: hay que citar quién reporta la norma, y decir que la norma no se abrió.
 
 ---
 

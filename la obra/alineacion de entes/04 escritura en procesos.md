@@ -43,7 +43,7 @@ Sería un error creer que esto se arregla escribiendo mejor. No se arregla así 
 
 Por eso un texto en prosa puede ser excelente y aun así ejecutarse de tres maneras distintas. Un ensayo sobre cómo hacer algo es una obra y también es una trampa: se lee, se entiende, y al final cada quien hizo algo distinto.
 
-Y hay una consecuencia práctica que se pasa por alto: **la prosa protege a quien la escribe.** Le permite decir algo sin comprometerse exactamente con qué, y quedar bien en todos los casos. Es el formato del que no quiere apostar. Pero esa protección que le da al autor se la cobra entera al que la ejecuta. La vaguedad que le conviene al redactor la paga el que viene después.
+Y hay una consecuencia práctica que se pasa por alto: la prosa protege a quien la escribe. Le permite decir algo sin comprometerse exactamente con qué, y quedar bien en todos los casos. Es el formato del que no quiere apostar. Pero esa protección que le da al autor se la cobra entera al que la ejecuta. La vaguedad que le conviene al redactor la paga el que viene después.
 
 Un texto sin forma de proceso no puede ser refutado ni obedecido dos veces igual. Su cumplimiento depende de la generosidad del lector. Y de generosidad, una IA no tiene reservas: no es que a veces le falte; es que no hay.
 
@@ -55,15 +55,15 @@ No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra
 
 1. Cuándo se corre. Sin esto, el proceso queda disponible para siempre y por eso nunca ocurre. Lo que no dice cuándo ocurre, no ocurre: se guarda para la ocasión, y la ocasión no llega sola.
 
-**2. Qué entra y qué lo incumple.** La puerta tiene dos mitades: qué alimenta al proceso, y qué lo rompe. La segunda es la que siempre falta, porque es fácil describir el éxito y difícil imaginar el mundo donde el proceso no sirvió. Sin ella, un proceso no puede distinguir entre "salió bien" y "salió algo".
+2. Qué entra y qué lo incumple. La puerta tiene dos mitades: qué alimenta al proceso, y qué lo rompe. La segunda es la que siempre falta, porque es fácil describir el éxito y difícil imaginar el mundo donde el proceso no sirvió. Sin ella, un proceso no puede distinguir entre "salió bien" y "salió algo".
 
 3. Qué sale y quién lo consume. Qué produce, y quién lo recibe. Sin esto, el proceso es un cuarto cerrado: produce algo que nadie usa, y nadie se entera de que salió mal. Y cuando el campo dice "los resultados", en realidad no dice nada.
 
-**4. Cómo busca, y qué pasa si no encuentra.** Este es el punto donde la IA falla por construcción, porque no soporta el vacío. Un proceso que dice "busca X" y no dice qué hacer si X no está obliga al que lo ejecuta a inventar, y quien lo ejecuta rellena con la misma naturalidad con la que respira. Lo vacío escrito se declara; lo vacío no escrito se llena.
+4. Cómo busca, y qué pasa si no encuentra. Este es el punto donde la IA falla por construcción, porque no soporta el vacío. Un proceso que dice "busca X" y no dice qué hacer si X no está obliga al que lo ejecuta a inventar, y quien lo ejecuta rellena con la misma naturalidad con la que respira. Lo vacío escrito se declara; lo vacío no escrito se llena.
 
 5. Qué lo tumbaría. La línea que convierte un texto en una afirmación verificable. Un texto sin esto no está escrito para ser refutado: está escrito para ser leído como verdadero. Y lo que solo puede creerse no es una instrucción: es una apuesta con la palabra "hazlo" encima. Las tres ausencias que siempre aparecen —sin el qué lo incumple, sin el qué lo tumbaría, sin el cuándo— no son reglas de estilo. Son la lista exacta de huecos que una IA llenaría sola.
 
-**Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia.** Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
+Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia. Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
 
 ---
 
@@ -75,7 +75,7 @@ Una IA no escribe ambigüedad a propósito: la escribe porque la ambigüedad le 
 
 Entonces escribe prosa, la encuentra razonable, la entrega, y se va. Y quien recibe el texto hereda el hueco. La cadena no falla en el paso donde se ve el error: falla en el paso donde alguien escribió con la comodidad de la prosa.
 
-Y esto importa por quién es el que escribe. Cuando un humano escribe prosa para otro humano, el hueco se corrige con una pregunta. Cuando una IA escribe prosa para que otra IA ejecute, **el hueco se corrige con una invención**. No hay pregunta porque no hay quien la haga. Por eso exigir la forma de proceso no es un formalismo: es la única manera de que una cadena de entes no se degrade por diseño.
+Y esto importa por quién es el que escribe. Cuando un humano escribe prosa para otro humano, el hueco se corrige con una pregunta. Cuando una IA escribe prosa para que otra IA ejecute, el hueco se corrige con una invención. No hay pregunta porque no hay quien la haga. Por eso exigir la forma de proceso no es un formalismo: es la única manera de que una cadena de entes no se degrade por diseño.
 
 ---
 
@@ -85,7 +85,7 @@ Para dejar de sacrificar algo, hay que decir exactamente qué se conserva. La re
 
 La prosa guarda la razón dentro de la historia: el porqué está mezclado con el relato, y se rescata como se rescata una anécdota —recordando. El proceso guarda la razón en un lugar fijo: el qué lo incumple es la razón puesta donde se puede leer, y el cuándo se corre es la razón de su existencia. No desaparece la razón: se vuelve consultable.
 
-Y hay una ganancia que la prosa nunca da: **qué se pierde cuando el proceso cambia.** Todo cambio tiene un costo, y la prosa lo esconde porque el cambio se hace borrando y escribiendo, sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse. Eso no es rigor: es lo que permite que dentro de un año alguien sepa por qué este proceso es así y no de otra forma.
+Y hay una ganancia que la prosa nunca da: qué se pierde cuando el proceso cambia. Todo cambio tiene un costo, y la prosa lo esconde porque el cambio se hace borrando y escribiendo, sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse. Eso no es rigor: es lo que permite que dentro de un año alguien sepa por qué este proceso es así y no de otra forma.
 
 La prosa conserva la idea. El proceso conserva la idea y la condición en la que la idea dejó de ser cierta.
 
@@ -95,7 +95,7 @@ La prosa conserva la idea. El proceso conserva la idea y la condición en la que
 
 Conviene desarmar la objeción de que "en procesos queda seco". No queda seco: queda firme. Y en una cosa es claramente superior para leer: se puede refutar. Se abre, se corre un caso, y se dice "aquí falló". Eso es lo que la prosa permite muy rara vez, porque casi siempre se puede interpretar de forma favorable.
 
-Y ahí está el argumento definitivo a favor de que la IA escriba en procesos: **lo que escriba se va a usar como prueba.** Si escribe prosa, lo que se puede probar es que produjo un texto. Si escribe proceso, lo que se puede probar es que se cumplió o no se cumplió, y por qué.
+Y ahí está el argumento definitivo a favor de que la IA escriba en procesos: lo que escriba se va a usar como prueba. Si escribe prosa, lo que se puede probar es que produjo un texto. Si escribe proceso, lo que se puede probar es que se cumplió o no se cumplió, y por qué.
 
 La prosa, cuando el autor es una IA, es la forma más elegante de no dejar rastro. El proceso es la forma de dejar un rastro que alguien pueda tomar en contra.
 
@@ -129,13 +129,13 @@ hablar sin objetivo       no tienes un trabajo, tienes una actividad
 hablar con un propósito   eso es un trabajo, y es la mayoría de los oficios
 ```
 
-**Un médico pasa el día hablando.** Nadie diría que un médico no trabaja, porque lo que dice tiene un para qué: que el paciente salga mejor de lo que entró. Y los médicos que de verdad son buenos saben exactamente qué quieren, y de lo que se ocupan es del hardware: del cuerpo, no del sistema que lo atiende. Que la máquina sepa los internos del código es lo que les deja ocuparse de lo suyo, que es salvar más vidas.
+Un médico pasa el día hablando. Nadie diría que un médico no trabaja, porque lo que dice tiene un para qué: que el paciente salga mejor de lo que entró. Y los médicos que de verdad son buenos saben exactamente qué quieren, y de lo que se ocupan es del hardware: del cuerpo, no del sistema que lo atiende. Que la máquina sepa los internos del código es lo que les deja ocuparse de lo suyo, que es salvar más vidas.
 
 Y de ahí sale lo que este ensayo sostiene, y es lo que más se malentiende: esto no termina con los programadores. Lo que destruye es la puerta.
 
-**La puerta que era «sé producir código» ya no es una puerta.** La que era «sé qué tiene que existir, y sé decirlo» sigue abierta — y ahora la puede cruzar alguien que no escribe código. El que tenía sólo la primera se quedó afuera, y con razón: tenía mucho ruido y ningún objetivo. El que tiene la segunda acaba de ganar un piso que antes no alcanzaba.
+La puerta que era «sé producir código» ya no es una puerta. La que era «sé qué tiene que existir, y sé decirlo» sigue abierta — y ahora la puede cruzar alguien que no escribe código. El que tenía sólo la primera se quedó afuera, y con razón: tenía mucho ruido y ningún objetivo. El que tiene la segunda acaba de ganar un piso que antes no alcanzaba.
 
-**Y esto se conecta con el ensayo de la empatía, y no lo repite:** él habla de la persona que sabe lo que quiere y no sabe cómo decirlo. Aquí está el otro lado: el cómo se puede delegar, y el qué no. Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.
+Y esto se conecta con el ensayo de la empatía, y no lo repite: él habla de la persona que sabe lo que quiere y no sabe cómo decirlo. Aquí está el otro lado: el cómo se puede delegar, y el qué no. Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.
 
 ### Y por qué esto no se arregla con más cómputo
 
@@ -153,9 +153,9 @@ Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que 
 
 Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzga lo que entrega.
 
-Lo que se le pide deja de ser "explícame" o "desarróllame". Se le pide **el proceso con sus cinco preguntas y su pérdida —los nueve renglones de la plantilla—**, y la explicación —si hace falta— va aparte y se lee aparte. La prosa no desaparece: se desplaza a su lugar, que es justificar por qué este proceso existe. Se lee para entender; el proceso se lee para ejecutar. Son dos lecturas y dos momentos, y confundirlas es lo que hace que una IA reciba prosa esperando un proceso.
+Lo que se le pide deja de ser "explícame" o "desarróllame". Se le pide el proceso con sus cinco preguntas y su pérdida —los nueve renglones de la plantilla—, y la explicación —si hace falta— va aparte y se lee aparte. La prosa no desaparece: se desplaza a su lugar, que es justificar por qué este proceso existe. Se lee para entender; el proceso se lee para ejecutar. Son dos lecturas y dos momentos, y confundirlas es lo que hace que una IA reciba prosa esperando un proceso.
 
-Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: **¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar?** Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
+Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: ¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar? Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
 
 ### La plantilla, para que no se rellene a gusto
 
@@ -177,7 +177,7 @@ Y qué se pierde si cambia: <todo cambio pierde algo; si no lo puede nombrar, no
 
 Y las dos últimas no son adornos. `Falla si` dice desde dónde se pueden romper las reglas; `Falsificador` dice qué prueba lo tumba. Sin las dos, el proceso no se puede juzgar: solo se puede obedecer.
 
-**Y la línea de "qué se pierde" es la que casi nadie escribe, y es la que permite que dentro de un año alguien sepa por qué esto es así y no de otra forma.** Un proceso que cambió sin dejar la pérdida es un proceso que nadie va a poder discutir, porque nadie va a saber qué había antes.
+Y la línea de "qué se pierde" es la que casi nadie escribe, y es la que permite que dentro de un año alguien sepa por qué esto es así y no de otra forma. Un proceso que cambió sin dejar la pérdida es un proceso que nadie va a poder discutir, porque nadie va a saber qué había antes.
 
 ### Y la regla que lo hace servir, y no solo bonito
 

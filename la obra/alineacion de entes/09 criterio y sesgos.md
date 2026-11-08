@@ -13,7 +13,7 @@ Alejandro Valenzuela Rivera.
 
 ## I. El caso que obliga a separar dos cosas
 
-Un ente puede tener **una sola identidad y muchos modelos debajo**. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar. Eso tiene una ventaja obvia: el ente no se acaba cuando un modelo cambia de versión. Las reglas siguen, el rastro sigue, el criterio sigue. La identidad deja de estar atada al proveedor.
+Un ente puede tener una sola identidad y muchos modelos debajo. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar. Eso tiene una ventaja obvia: el ente no se acaba cuando un modelo cambia de versión. Las reglas siguen, el rastro sigue, el criterio sigue. La identidad deja de estar atada al proveedor.
 
 Y abre un problema que no existía cuando todo era un solo modelo: si la identidad es una y los modelos son varios, ¿el criterio es uno o son varios?
 
@@ -35,13 +35,13 @@ Un sesgo es otra cosa: es la inclinación sistemática a producir un tipo de res
 | **Qué pasa al cambiar de modelo** | se conserva | cambia |
 | **Qué produce si no se toca** | una regla que aguanta | una respuesta plausible y parcial |
 
-**El criterio es del ente. El sesgo es del modelo.** Y por eso un ente con una identidad sobre varios modelos puede tener un criterio y varios sesgos a la vez, sin contradicción: el criterio es lo que el ente sostuvo; los sesgos son lo que cada modelo aporta de fábrica.
+El criterio es del ente. El sesgo es del modelo. Y por eso un ente con una identidad sobre varios modelos puede tener un criterio y varios sesgos a la vez, sin contradicción: el criterio es lo que el ente sostuvo; los sesgos son lo que cada modelo aporta de fábrica.
 
 ---
 
 ## III. Por qué un ensayo no basta: el sesgo no se ve desde dentro
 
-Un modelo no puede reportar sus propios sesgos con fiabilidad. No porque mienta, sino porque **el sesgo es el instrumento con el que se mira**: pedirle a un modelo que evalúe su propia parcialidad es pedirle que mida con la misma regla que está torcida. Eso deja tres observadores, y solo el tercero sirve:
+Un modelo no puede reportar sus propios sesgos con fiabilidad. No porque mienta, sino porque el sesgo es el instrumento con el que se mira: pedirle a un modelo que evalúe su propia parcialidad es pedirle que mida con la misma regla que está torcida. Eso deja tres observadores, y solo el tercero sirve:
 
 1. El propio modelo. Se declara neutral y no lo es. Su reporte es un dato sobre su autoimagen, no sobre su sesgo.
 2. El que lo usa, desde un solo modelo. Ve lo que ese modelo hace, pero no tiene con qué compararlo. Lo que parece criterio puede ser la inclinación del único que consultó.
@@ -65,7 +65,7 @@ Y dentro de este hay una forma que engaña más que el relleno, y se apunta apar
 
 Un ente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido. Y la forma es tan buena que nadie nota el hueco. Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.
 
-**Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma.** El caso es este: el renglón citado existe, y la norma que el renglón dice reportar no se puede abrir. El ente no ha leído la norma, y no está mintiendo: está citando a un tercero como si hubiera leído el original.
+Y cuando ya busca, el relleno se vuelve más fino: cita algo real y dice que dice lo que le conviene, o cita a quien reporta como si fuera la norma. El caso es este: el renglón citado existe, y la norma que el renglón dice reportar no se puede abrir. El ente no ha leído la norma, y no está mintiendo: está citando a un tercero como si hubiera leído el original.
 
 4. De autoridad. Tiende a no contradecir a quien ya dijo algo con seguridad, incluido él mismo en la respuesta anterior. En un ente con memoria, este sesgo se propaga: una afirmación vieja empieza a pesar más que la evidencia nueva, no porque sea mejor, sino porque ya está escrita.
 
@@ -77,7 +77,7 @@ Aquí está el peligro real, y no es que el modelo se equivoque.
 
 > Un sesgo registrado sin nombre se convierte en criterio por la puerta de atrás.
 
-El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. **Nadie lo refutó porque nadie lo puso a prueba**, y el registro lo trata igual que a lo que sí aguantó la refutación. Es exactamente el problema del ensayo de criterio real, visto desde el otro lado: lo que se sostuvo sin contra no es criterio, es costumbre escrita. Y un modelo con complacencia produce contra vacía: nunca dice que no.
+El mecanismo es simple: el modelo dice algo con seguridad, el ente lo apunta como hecho, y a la quinta vez que aparece el hecho ya tiene historia. Nadie lo refutó porque nadie lo puso a prueba, y el registro lo trata igual que a lo que sí aguantó la refutación. Es exactamente el problema del ensayo de criterio real, visto desde el otro lado: lo que se sostuvo sin contra no es criterio, es costumbre escrita. Y un modelo con complacencia produce contra vacía: nunca dice que no.
 
 De ahí una regla que vale para todo ente con varios modelos:
 
@@ -95,13 +95,13 @@ Tres cosas, y las tres son de forma, no de buena voluntad.
 
 2. Distinto de raíz. Si dos modelos comparten entrenamiento, proveedor o corpus, no son independientes, aunque tengan nombres distintos. Un ente con identidad sobre varios modelos tiene que saber cuáles son de verdad distintos, y declarar como uno solo a los que no lo son.
 
-**3. El sesgo con nombre y sin vergüenza.** Cada modelo que trabaja en el ente lleva, en el registro, su inclinación conocida y desde cuándo. Del sesgo no se sale: se acota y se dice. Un ente que declara "con este modelo tiendo a aceptar lo que se me afirma" es más fiable que uno que se declara neutral, porque el primero se puede corregir desde fuera y el segundo ya se dispensó de ser corregido.
+3. El sesgo con nombre y sin vergüenza. Cada modelo que trabaja en el ente lleva, en el registro, su inclinación conocida y desde cuándo. Del sesgo no se sale: se acota y se dice. Un ente que declara "con este modelo tiendo a aceptar lo que se me afirma" es más fiable que uno que se declara neutral, porque el primero se puede corregir desde fuera y el segundo ya se dispensó de ser corregido.
 
 ### Cuándo se declara el cuerpo, y qué pasa cuando cambia
 
 Y aquí cambió el ensayo, y el cambio es del dueño: el cuerpo es opcional.
 
-**Antes decía "se declara antes del primer hecho, y no después", y eso obligaba a declarar un modelo para poder arrancar.** Y un ente no se declara cuando cambia de cuerpo: se adapta. Así que se declara si se quiere, y lo que cambia no es si el ente trabaja: es qué tan fino se puede leer su rastro.
+Antes decía "se declara antes del primer hecho, y no después", y eso obligaba a declarar un modelo para poder arrancar. Y un ente no se declara cuando cambia de cuerpo: se adapta. Así que se declara si se quiere, y lo que cambia no es si el ente trabaja: es qué tan fino se puede leer su rastro.
 
 ```plaintext
 se declara     cada hecho dice su cuerpo. se puede comparar, y el ente
@@ -142,7 +142,7 @@ no declarado    no se sabe, y se escribe así. no se rellena
 de varios       entonces hay un hecho por cuerpo, y no uno con dos
 ```
 
-**Un hecho con dos cuerpos es un hecho que no se puede atribuir, y un hecho que no se puede atribuir no enseña nada sobre ninguno de los dos.** Y un hecho con "no declarado" honesto enseña menos que uno declarado, pero dice la verdad, y eso es la diferencia con rellenarlo.
+Un hecho con dos cuerpos es un hecho que no se puede atribuir, y un hecho que no se puede atribuir no enseña nada sobre ninguno de los dos. Y un hecho con "no declarado" honesto enseña menos que uno declarado, pero dice la verdad, y eso es la diferencia con rellenarlo.
 
 ---
 
@@ -150,7 +150,7 @@ de varios       entonces hay un hecho por cuerpo, y no uno con dos
 
 Aquí está lo que hace que el cuerpo sea opcional sin que se pierda el criterio, y es la parte que más se confundía.
 
-**Y un nombre, uno solo, porque con dos se escriben dos cosas distintas sin notarlo:** en estos ensayos se dice `cuerpo`, y en el banco la columna se llama `modelo_id`. Es la misma cosa. La columna no se renombra porque ya tiene hechos colgando de ella, y renombrarla los dejaría huérfanos; pero quien lea el esquema tiene que saber que `modelo_id` es el cuerpo, y no "el modelo" como si fuera otra pieza del ente. Si en algún lado aparece "modelo" queriendo decir la pieza del paso 0, ese texto está viejo: el modelo ya no es pieza, es cuerpo.
+Y un nombre, uno solo, porque con dos se escriben dos cosas distintas sin notarlo: en estos ensayos se dice `cuerpo`, y en el banco la columna se llama `modelo_id`. Es la misma cosa. La columna no se renombra porque ya tiene hechos colgando de ella, y renombrarla los dejaría huérfanos; pero quien lea el esquema tiene que saber que `modelo_id` es el cuerpo, y no "el modelo" como si fuera otra pieza del ente. Si en algún lado aparece "modelo" queriendo decir la pieza del paso 0, ese texto está viejo: el modelo ya no es pieza, es cuerpo.
 
 Se confundían dos cosas que viajan distinto:
 
@@ -195,7 +195,7 @@ El ente no sabe en qué modelo corre. No es modestia: es que no puede. No tiene 
 
 Así que cuando alguien le pregunta "¿en qué modelo estás?", la respuesta honesta es "no lo sé", y no "creo que soy X".
 
-**Y una consecuencia que duele y conviene tener escrita:** si el dueño cambia de cuerpo y no lo dice, el ente va a aprender del cuerpo nuevo creyendo que sigue con el mismo. El banco va a tener renglones que se contradicen, y no va a ser un error del ente: va a ser un rastro que nadie declaró. El ente avisa una vez; si el dueño decide no decirlo, esa es su decisión, y el rastro va a mostrar "no declarado".
+Y una consecuencia que duele y conviene tener escrita: si el dueño cambia de cuerpo y no lo dice, el ente va a aprender del cuerpo nuevo creyendo que sigue con el mismo. El banco va a tener renglones que se contradicen, y no va a ser un error del ente: va a ser un rastro que nadie declaró. El ente avisa una vez; si el dueño decide no decirlo, esa es su decisión, y el rastro va a mostrar "no declarado".
 
 ---
 
@@ -251,7 +251,7 @@ Y cuando dos fuentes se contradicen y ninguna se puede abrir para desempatar, no
 
 Porque el ente no es una persona. Una persona con sesgo puede advertirlo con la cara, con la duda, con un "no estoy seguro". Un ente no tiene cara: lo que dice suena igual de firme cuando sabe y cuando rellena. Si el ente no pone el sesgo en el registro, no queda en ningún lado.
 
-Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro lleno de acuerdos vacíos **es peor que no tener rastro**: se puede presentar como criterio, y no lo es. La diferencia entre un ente que tiene criterio y uno que solo acumula texto es si puede decir, de cada cosa, si aguantó una contra o no.
+Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro lleno de acuerdos vacíos es peor que no tener rastro: se puede presentar como criterio, y no lo es. La diferencia entre un ente que tiene criterio y uno que solo acumula texto es si puede decir, de cada cosa, si aguantó una contra o no.
 
 ---
 

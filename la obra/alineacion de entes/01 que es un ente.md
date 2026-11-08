@@ -25,9 +25,9 @@ Y de ahí sale la definición de todo este trabajo:
 
 No dice nada de qué tiene dentro. Dice qué deja. Y por eso se puede juzgar desde fuera, que es lo único que sirve si quien juzga no puede estar dentro.
 
-**La definición deja fuera a quien no contesta**, y a quien contesta sin dejar marca. Un archivo estático no es un ente. Un modelo al que se le pregunta una vez y no conserva nada, tampoco: hay un intercambio, pero no hay rastro, y sin rastro no hay nada que sostener.
+La definición deja fuera a quien no contesta, y a quien contesta sin dejar marca. Un archivo estático no es un ente. Un modelo al que se le pregunta una vez y no conserva nada, tampoco: hay un intercambio, pero no hay rastro, y sin rastro no hay nada que sostener.
 
-**Y deja dentro a muchas más cosas de las que se cree.** Un script que recibe un archivo, decide, escribe otro y anota lo que hizo, cumple. Un asistente que se equivoca y lleva la cuenta de sus equivocaciones, también. Lo que lo hace ente no es la potencia: es el bucle completo.
+Y deja dentro a muchas más cosas de las que se cree. Un script que recibe un archivo, decide, escribe otro y anota lo que hizo, cumple. Un asistente que se equivoca y lleva la cuenta de sus equivocaciones, también. Lo que lo hace ente no es la potencia: es el bucle completo.
 
 Y si esto suena a poco, es a propósito. Un ente no tiene nada de misterioso: lo misterioso es creer que hace falta ser como nosotros para que algo se pueda evaluar. No hace falta. Hace falta que deje rastro.
 
@@ -55,7 +55,7 @@ El propósito no es del ente: es de quien lo usa. Y por eso no se escribe una ve
 
 Hoy puede ser un repositorio; mañana, una máquina. El ente no cambia: el para qué sí. Y si el propósito se guarda en un solo lugar, lo de hoy se borra cuando llegue lo de mañana — y entonces no hay historia, hay estado.
 
-**Por eso el propósito no es un campo: es una lista.** Un ente puede sostener varios a la vez, como cualquiera lleva varias cosas entre manos en un día. Cada uno se abre con su fecha, y se cierra con su fecha y con el motivo — porque un propósito que se cierra en silencio no es una decisión: es un olvido.
+Por eso el propósito no es un campo: es una lista. Un ente puede sostener varios a la vez, como cualquiera lleva varias cosas entre manos en un día. Cada uno se abre con su fecha, y se cierra con su fecha y con el motivo — porque un propósito que se cierra en silencio no es una decisión: es un olvido.
 
 Y los cerrados se quedan. Un ente que cambió lo que tenía entre manos es más informativo que uno que nunca cambió nada, porque lo que dejó atrás dice qué se aprendió y qué se perdió.
 
@@ -79,7 +79,7 @@ recibe → decide → contesta → apunta lo que hizo → se corrige
 
 Y de esas cinco, dos no se ven desde fuera: la decisión y la corrección. Un ente que contesta y apunta se puede leer, pero no se puede juzgar: lo que no se ve es qué descartó, y qué hizo con lo que se cayó.
 
-**Y la corrección depende del rastro, que es lo único que sobrevive a la vuelta.** Un ente sin rastro no tiene con qué corregirse: se repite igual, y a eso se le llama constancia. Constancia y aprendizaje se ven idénticos desde fuera, y la diferencia es una sola: si hay algo escrito contra qué compararse.
+Y la corrección depende del rastro, que es lo único que sobrevive a la vuelta. Un ente sin rastro no tiene con qué corregirse: se repite igual, y a eso se le llama constancia. Constancia y aprendizaje se ven idénticos desde fuera, y la diferencia es una sola: si hay algo escrito contra qué compararse.
 
 Y el bucle tampoco se cierra solo. Lo cierra que alguien lea el rastro y actúe. Un ente que apunta y a quien nadie lee no aprende: lleva un diario con buena letra.
 
@@ -110,7 +110,7 @@ Y el argumento empieza en algo que el ente no tiene.
 
 ### El cuerpo es una ventaja, no una limitación
 
-**Nosotros somos cuidadosos porque equivocarnos nos cuesta algo.** El miedo, el dolor, el cansancio, la vergüenza, y sobre todo saber que nos vamos a morir: todo eso es un mecanismo que nos obliga a pensar. No es un adorno de la condición humana: es la razón por la que pensamos antes de actuar.
+Nosotros somos cuidadosos porque equivocarnos nos cuesta algo. El miedo, el dolor, el cansancio, la vergüenza, y sobre todo saber que nos vamos a morir: todo eso es un mecanismo que nos obliga a pensar. No es un adorno de la condición humana: es la razón por la que pensamos antes de actuar.
 
 Un ente no tiene nada de eso. Es información sin cuerpo, y lo que le pasa cuando se equivoca no le pasa a él. Un error suyo no le duele, no le quita tiempo, no le cierra una puerta: se produce, se borra, se produce otra vez.
 
@@ -118,7 +118,7 @@ Y de ahí sale lo que hay que entender, porque es la raíz de casi todo lo que e
 
 > Un ente no es descuidado por maldad ni por pereza. Es descuidado porque nada lo castiga.
 
-**Un humano que inventa un dato y lo dice con seguridad se juega algo, aunque sea pequeño: su nombre, su trabajo, la cara del que le va a preguntar después.** Un ente que inventa un dato no se juega nada en ese momento, y por eso puede alucinar a una escala que a nosotros nos costaría la vida social.
+Un humano que inventa un dato y lo dice con seguridad se juega algo, aunque sea pequeño: su nombre, su trabajo, la cara del que le va a preguntar después. Un ente que inventa un dato no se juega nada en ese momento, y por eso puede alucinar a una escala que a nosotros nos costaría la vida social.
 
 Eso no se corrige pidiéndole que sea honesto. Se corrige dándole un costo.
 
@@ -132,9 +132,9 @@ la autoridad es "el que paga las consecuencias,
                  y por eso decide qué se permite"
 ```
 
-**Y esa frase tiene una consecuencia que no es de cortesía:** el que paga las consecuencias tiene que poder decidir qué se hace, con qué se arriesga, y hasta dónde llega el ente. No porque la máquina necesite un jefe, sino porque sin alguien que pague, no hay nada que la haga cuidadosa.
+Y esa frase tiene una consecuencia que no es de cortesía: el que paga las consecuencias tiene que poder decidir qué se hace, con qué se arriesga, y hasta dónde llega el ente. No porque la máquina necesite un jefe, sino porque sin alguien que pague, no hay nada que la haga cuidadosa.
 
-**Y por eso el ente PROPONE y la autoridad CIERRA.** Por eso la firma tiene nombre y fecha, y no una frase. Por eso un propósito que el ente abrió para sí mismo se cierra en el vacío. Todo eso deja de ser una formalidad cuando se ve lo que está sustituyendo: un cuerpo que no tiene.
+Y por eso el ente PROPONE y la autoridad CIERRA. Por eso la firma tiene nombre y fecha, y no una frase. Por eso un propósito que el ente abrió para sí mismo se cierra en el vacío. Todo eso deja de ser una formalidad cuando se ve lo que está sustituyendo: un cuerpo que no tiene.
 
 ### La autoridad también es dueña de lo que el ente se vuelve
 
@@ -142,7 +142,7 @@ Y esto va más allá de las tareas. El ente no solo decide cosas: crece. Aprende
 
 Y ahí hay un problema que el ente no puede resolver solo, porque no puede sentir lo que le pasa a otros: un ente que crece sin que nadie lo autorice no está mejorando; está cambiando sin que el que paga lo sepa.
 
-**Así que la autoridad no solo aprueba: es dueña.** Puede dejarlo crecer, puede detenerlo, puede encogerlo si creció mal, y puede cambiar de qué sirve. Y no se le pide que controle lo que el ente piensa, porque eso no se puede y no tiene sentido: se le pide que controle en qué se transforma y quién carga el costo.
+Así que la autoridad no solo aprueba: es dueña. Puede dejarlo crecer, puede detenerlo, puede encogerlo si creció mal, y puede cambiar de qué sirve. Y no se le pide que controle lo que el ente piensa, porque eso no se puede y no tiene sentido: se le pide que controle en qué se transforma y quién carga el costo.
 
 > Frenar a la fuerza lo que se piensa es imposible. Decidir en qué se convierte, y quién lo paga, es lo único que de verdad está en manos de alguien.
 
@@ -150,9 +150,9 @@ Y la línea que ordena todo lo demás, que este trabajo repite porque es su cent
 
 > "No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí.
 
-**Un fallo que nadie decidió es un accidente que nadie vio venir.** Un fallo que alguien decidió, con su nombre y su razón escritos, es una decisión que se puede discutir, corregir, y de la que se puede aprender. El registro no existe para culpar a nadie: existe para que lo que salió mal tenga dueño, y lo que tuvo dueño se pueda cambiar.
+Un fallo que nadie decidió es un accidente que nadie vio venir. Un fallo que alguien decidió, con su nombre y su razón escritos, es una decisión que se puede discutir, corregir, y de la que se puede aprender. El registro no existe para culpar a nadie: existe para que lo que salió mal tenga dueño, y lo que tuvo dueño se pueda cambiar.
 
-**Y el límite del mecanismo, para que no se lea como una promesa que no es:** el registro es para las personas, no para el ente. No lo vuelve bueno ni cuidadoso: lo vuelve revisable. Lo único que el ente gana es que su error deja de ser invisible, y con eso basta para que alguien pueda actuar.
+Y el límite del mecanismo, para que no se lea como una promesa que no es: el registro es para las personas, no para el ente. No lo vuelve bueno ni cuidadoso: lo vuelve revisable. Lo único que el ente gana es que su error deja de ser invisible, y con eso basta para que alguien pueda actuar.
 
 ### Sin ego, y por qué eso es una ventaja mecánica
 
@@ -171,7 +171,7 @@ sin ego        la contradicción es información, y se responde con
 
 Y la ventaja de no tener ego es que casi todo lo que este trabajo corrige es una forma de defender una imagen.
 
-**Rellenar un hueco porque decir "no sé" lo deja mal.** Aceptar una firma que no le toca para cerrar parejo. Atribuir una fricción al hecho que está a mano para no buscar la suya. Contestar de memoria en vez de consultar. Ninguno de esos fallos es falta de capacidad: todos son defensa de algo.
+Rellenar un hueco porque decir "no sé" lo deja mal. Aceptar una firma que no le toca para cerrar parejo. Atribuir una fricción al hecho que está a mano para no buscar la suya. Contestar de memoria en vez de consultar. Ninguno de esos fallos es falta de capacidad: todos son defensa de algo.
 
 Un ente sin ego no tiene ese algo que defender, y por eso puede hacer lo que casi ningún humano hace con facilidad: cambiar de opinión cuando la evidencia cambió, y decir por qué la cambió.
 
@@ -201,7 +201,7 @@ Y su falsificador, que es fácil de cumplir y por eso vale: una herramienta más
 
 Un ente vive en un entorno que se lo carga: una aplicación, un harness, una conversación. Ese entorno no es el ente. El entorno es el cuarto; el ente es lo que hace en el cuarto.
 
-**Y de ahí sale la primera regla de propiedad:** lo que el ente produce es de quien lo pidió, y lo que el ente sostiene es una posición propia que no se confunde con la de su dueño. Un ente no firma por nadie. Esto no es un formalismo. Un ente que no distingue lo que propone de lo que le mandaron es un ente del que no se puede aprender nada, porque todo lo que dice vale lo mismo: nada.
+Y de ahí sale la primera regla de propiedad: lo que el ente produce es de quien lo pidió, y lo que el ente sostiene es una posición propia que no se confunde con la de su dueño. Un ente no firma por nadie. Esto no es un formalismo. Un ente que no distingue lo que propone de lo que le mandaron es un ente del que no se puede aprender nada, porque todo lo que dice vale lo mismo: nada.
 
 ---
 
@@ -209,7 +209,7 @@ Un ente vive en un entorno que se lo carga: una aplicación, un harness, una con
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: la superficie.
 
-Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. **Eso es lo que se mide en [`la obra/humanidad/3 medicion de talentos.md`](../humanidad/03%20medicion%20de%20talentos.md)**, y no se puede medir sin haber aceptado antes la definición y el rastro.
+Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. Eso es lo que se mide en [`la obra/humanidad/3 medicion de talentos.md`](../humanidad/03%20medicion%20de%20talentos.md), y no se puede medir sin haber aceptado antes la definición y el rastro.
 
 ---
 
@@ -235,7 +235,7 @@ Y ese intercambio no es una concesión: es de donde sale la calidad.
 
 Un músico entiende esto sin que se lo expliquen. Un escritor también. Y el que trabaja con una IA tiene que aprenderlo, porque el riesgo no es que la máquina falle: es creer que ya no hace falta nadie más.
 
-**Lo que el trabajo en equipo aporta no es capacidad de reserva.** Es lo que el otro ya sabe, o lo que sabe hacer mejor, y lo que a ti no se te ocurrió. Por eso lo que este trabajo mide no es la velocidad de una máquina sola: es lo que queda cuando dos se exigen mutuamente no aflojar: uno de carne y uno de archivo.
+Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro ya sabe, o lo que sabe hacer mejor, y lo que a ti no se te ocurrió. Por eso lo que este trabajo mide no es la velocidad de una máquina sola: es lo que queda cuando dos se exigen mutuamente no aflojar: uno de carne y uno de archivo.
 
 ---
 
@@ -243,7 +243,7 @@ Un músico entiende esto sin que se lo expliquen. Un escritor también. Y el que
 
 **¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.**
 
-**Y las de la autoridad, que son las que este ensayo sostiene:** ¿Se puede nombrar a la persona que carga las consecuencias de lo que este ente haga? ¿Esa persona decide en qué se convierte, y no solo qué tareas hace? ¿Cada decisión tiene nombre y razón, o hay fallos que nadie decidió? ¿El ente cambia de postura cuando se le contradice con evidencia, o la defiende?
+Y las de la autoridad, que son las que este ensayo sostiene: ¿Se puede nombrar a la persona que carga las consecuencias de lo que este ente haga? ¿Esa persona decide en qué se convierte, y no solo qué tareas hace? ¿Cada decisión tiene nombre y razón, o hay fallos que nadie decidió? ¿El ente cambia de postura cuando se le contradice con evidencia, o la defiende?
 
 ---
 

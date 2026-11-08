@@ -55,7 +55,7 @@ Y el origen se declara, que es lo que pide la norma editorial del reciclaje:
 
 > Valenzuela Rivera, A. *Man-Made Empathy: el sesgo declarado, medido en acciones.* v2, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · DOI conceptual: `10.5281/zenodo.23090721` · CC BY 4.0.
 
-**Ninguna frase de este trabajo es copia literal del anterior: las ideas están reformuladas con palabras de aquí, y el origen está dicho en el `README` y en cada ensayo.** La declaración no sustituye la reescritura: la acompaña. Y no es continuación de aquel: es un trabajo aparte, que se puede leer sin abrirlo.
+Ninguna frase de este trabajo es copia literal del anterior: las ideas están reformuladas con palabras de aquí, y el origen está dicho en el `README` y en cada ensayo. La declaración no sustituye la reescritura: la acompaña. Y no es continuación de aquel: es un trabajo aparte, que se puede leer sin abrirlo.
 
 ---
 
@@ -65,11 +65,11 @@ Y esto va aquí, y no en un ensayo, porque no es un argumento: es un dato sobre 
 
 El autor no escribió esto desde un lugar cómodo. Empezó sin tener lo que quería tener, y el repositorio es lo que salió de eso. Él mismo lo dice así, y con sus palabras: no se considera bueno, y no presenta esto como testimonio de que lo sea.
 
-**Se escribe porque quien lea puede encontrar delusiones, o afirmaciones que no debieron decirse.** Y en vez de juzgar eso como si el trabajo hubiera salido de la nada, conviene saber dos cosas: que no había nada antes, y que lo que hay se construyó probándolo — nueve levantamientos, veinte huecos con nombre, y las correcciones a la vista.
+Se escribe porque quien lea puede encontrar delusiones, o afirmaciones que no debieron decirse. Y en vez de juzgar eso como si el trabajo hubiera salido de la nada, conviene saber dos cosas: que no había nada antes, y que lo que hay se construyó probándolo — nueve levantamientos, veinte huecos con nombre, y las correcciones a la vista.
 
 Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador, y está al final de cada ensayo.
 
-**Y por qué esto es también un argumento del trabajo, y no sólo una nota:** una obra en la que el que la hizo tiene algo que defender se lee distinto que una en la que no. Aquí el autor no reclama haber llegado: reclama haber dejado el rastro de cómo llegó, para que otro lo corrija. Un ente sin ego hace eso por construcción; una persona lo hace a propósito, y eso cuesta más.
+Y por qué esto es también un argumento del trabajo, y no sólo una nota: una obra en la que el que la hizo tiene algo que defender se lee distinto que una en la que no. Aquí el autor no reclama haber llegado: reclama haber dejado el rastro de cómo llegó, para que otro lo corrija. Un ente sin ego hace eso por construcción; una persona lo hace a propósito, y eso cuesta más.
 
 ---
 

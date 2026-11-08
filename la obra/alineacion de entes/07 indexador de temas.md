@@ -17,7 +17,7 @@ Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que
 
 La ruta corta, si el tiempo es poco: §II (la inversión), §IV (el borde, y de ahí a su ensayo) y el falsificador del final. Con eso se levanta un índice; el resto dice qué le falta.
 
-**Y dónde está lo que más se olvida, sin buscarlo:** el «se pregunta» del borde es el único valor que necesita que necesita que alguien esté del otro lado. Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.
+Y dónde está lo que más se olvida, sin buscarlo: el «se pregunta» del borde es el único valor que necesita que necesita que alguien esté del otro lado. Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.
 
 ---
 
@@ -39,7 +39,7 @@ La propuesta tiene una sola idea, y de ella cae todo lo demás:
 
 > El grafo es la fuente de verdad estructural. El índice de texto es un derivado.
 
-Es la inversión de lo que se hace por costumbre. Normalmente el texto es lo que existe —los archivos, los documentos— y los temas son un índice encima, reconstruido cada vez que hace falta. Aquí se invierte: **la forma del conocimiento se guarda aparte y con prioridad, y el índice textual se deriva de ella.**
+Es la inversión de lo que se hace por costumbre. Normalmente el texto es lo que existe —los archivos, los documentos— y los temas son un índice encima, reconstruido cada vez que hace falta. Aquí se invierte: la forma del conocimiento se guarda aparte y con prioridad, y el índice textual se deriva de ella.
 
 Por qué importa: si el índice derivado sale mal, se tira y se vuelve a construir sin perder nada. Si la fuente de verdad fuera el texto, un índice mal armado sería una pérdida de información, porque el texto no dice por sí solo qué tema contiene a cuál.
 
@@ -149,9 +149,9 @@ qué se pierde   qué deja de caber cuando el nuevo entra
 
 Y los tres son obligatorios. Una supersesión sin "qué se pierde" no es una decisión: es una sustitución — y la diferencia entre las dos es la que permite auditar dentro de un año.
 
-**Y el tema viejo no se borra.** Queda marcado como superado, con la fecha de cuándo dejó de mandar, y con la razón. La supersesión es, en el fondo, una afirmación sobre el tiempo: esto vino después de aquello. Sin fecha no existe; y sin razón, no se puede distinguir de un accidente.
+Y el tema viejo no se borra. Queda marcado como superado, con la fecha de cuándo dejó de mandar, y con la razón. La supersesión es, en el fondo, una afirmación sobre el tiempo: esto vino después de aquello. Sin fecha no existe; y sin razón, no se puede distinguir de un accidente.
 
-**Por qué la pérdida es el dato que manda:** un cambio que no puede nombrar lo que deja atrás no sabía qué estaba cambiando. Se puede sustituir por moda, por aburrimiento, o por no acordarse de por qué estaba así. Y ninguno de los tres es un cambio: son tres maneras de no haber entendido el anterior.
+Por qué la pérdida es el dato que manda: un cambio que no puede nombrar lo que deja atrás no sabía qué estaba cambiando. Se puede sustituir por moda, por aburrimiento, o por no acordarse de por qué estaba así. Y ninguno de los tres es un cambio: son tres maneras de no haber entendido el anterior.
 
 ---
 
@@ -169,7 +169,7 @@ Se consulta en un momento exacto, y no antes ni después: antes de concluir.
 5. y solo entonces se contesta
 ```
 
-**El paso 4 es el que se salta casi siempre, y es el único que no se puede saltar.** Un ente que contesta algo que no está en su índice está contestando de memoria, y la memoria no se puede auditar. "No tengo tema para esto" no es una falla: es el dato que dice que el índice va a crecer.
+El paso 4 es el que se salta casi siempre, y es el único que no se puede saltar. Un ente que contesta algo que no está en su índice está contestando de memoria, y la memoria no se puede auditar. "No tengo tema para esto" no es una falla: es el dato que dice que el índice va a crecer.
 
 Y el paso 3 deja rastro: cada hecho apunta a qué tema sirvió, igual que apunta a qué propósito y a qué modelo. Con eso se puede preguntar qué temas se usan de verdad y cuáles están criando polvo — y un tema que nunca se consultó no está probado.
 
@@ -204,7 +204,7 @@ Y lo que hace que esto no sea ceremonia: si el texto fuera la fuente, un índice
 
 No da una herramienta. Lo que aquí se propone es una forma, y la forma no presupone ninguna tecnología: se puede llevar en archivos de texto con una convención de anotaciones, en una base de datos relacional, o en un grafo dedicado. La elección depende de cuántas piezas hay, de quién las toca y de qué tan rápido cambian.
 
-**Y sí da la forma de la herramienta, que es otra cosa:** la del borde como predicado y como lista de lo que no entra (§VII); las tablas del índice y sus cuatro operaciones (§VIII); la de la supersesión con sus tres datos y su pérdida (§IX); el momento exacto en que se consulta (§X); y de qué piezas se rehace (§XI). Con eso, quien lo implemente no está inventando: está copiando.
+Y sí da la forma de la herramienta, que es otra cosa: la del borde como predicado y como lista de lo que no entra (§VII); las tablas del índice y sus cuatro operaciones (§VIII); la de la supersesión con sus tres datos y su pérdida (§IX); el momento exacto en que se consulta (§X); y de qué piezas se rehace (§XI). Con eso, quien lo implemente no está inventando: está copiando.
 
 No da los temas. Qué temas tiene un ente es cosa de ese ente. Lo único que se puede decir es que un tema que no se ha usado nunca no está probado, y que un tema que lleva mucho sin cambiar en una época de cambio no está quieto: está abandonado.
 
@@ -226,19 +226,19 @@ Este ensayo propone una inversión de una práctica que ya existe. Lo que antece
 
 Y la diferencia, que es lo que este ensayo aporta: lo que está publicado construye el grafo desde el texto; este ensayo propone lo contrario: el grafo manda, y el texto se deriva.
 
-**Por qué esa inversión no es un detalle de orden, sino la pieza entera.** Si el texto es la fuente, el grafo es una interpretación de los datos: puede estar mejor o peor construido, pero siempre depende de lo que el texto diga. Si el grafo es la fuente, entonces la forma del conocimiento es un dato propio, y el texto es el que se adapta. Y de ahí salen tres cosas que con el orden habitual no se pueden hacer:
+Por qué esa inversión no es un detalle de orden, sino la pieza entera. Si el texto es la fuente, el grafo es una interpretación de los datos: puede estar mejor o peor construido, pero siempre depende de lo que el texto diga. Si el grafo es la fuente, entonces la forma del conocimiento es un dato propio, y el texto es el que se adapta. Y de ahí salen tres cosas que con el orden habitual no se pueden hacer:
 
 1. Se puede tirar y reconstruir. Si el índice derivado sale mal, se bota y se vuelve a armar; no se perdió nada, porque la forma vive aparte.
 2. El cambio queda escrito en la estructura, no en la costumbre. Cuando un tema se divide o se supera, el acto queda registrado y fechado, y no en el hecho de que alguien renombró una carpeta.
 3. Se puede preguntar por lo que se dejó de sostener. Un tema superado sigue ahí, con su fecha y su motivo. Con el grafo derivado del texto, lo que ya no se usa desaparece sin dejar rastro.
 
-**Lo que este ensayo NO hace:** no se presenta como un resultado que reemplace a los anteriores, ni como una mejora medida de nada. No se midió contra GraphRAG. Se presenta como una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer, no en lo que demuestra ser mejor, y que quien lo lea puede probar y refutar con lo que ya existe.
+Lo que este ensayo NO hace: no se presenta como un resultado que reemplace a los anteriores, ni como una mejora medida de nada. No se midió contra GraphRAG. Se presenta como una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer, no en lo que demuestra ser mejor, y que quien lo lea puede probar y refutar con lo que ya existe.
 
 ---
 
 ## Prueba
 
-**¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue **no de no es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?
+¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue no de no es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?
 
 ---
 

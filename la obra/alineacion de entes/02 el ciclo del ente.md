@@ -14,7 +14,7 @@ Alejandro Valenzuela Rivera.
 
 Un ente puede funcionar sin esto, y funciona mal de una manera que no se ve.
 
-**El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo.** Y lo que no está escrito, se rellena — y se rellena distinto cada vez. Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.
+El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo. Y lo que no está escrito, se rellena — y se rellena distinto cada vez. Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.
 
 Y dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en `01 que es un ente`); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
 
@@ -68,7 +68,7 @@ el índice     los temas que ya sabe, y el borde de cada uno
 
 Y las cuatro se declaran, no se suponen. Un ente sin propósito declarado puede correr, y lo que apunte no se va a poder juntar en nada. Y un ente sin índice declarado no tiene de dónde sacar lo que dice: contesta de memoria, y la memoria no se audita.
 
-**Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito.** El modelo no es una pieza del ente: es lo que lo corre hoy. Un ente no se declara cuando cambia de cuerpo; se adapta. Lo que cambia es qué tan fino puede leerse su rastro, y eso se ve en el paso 0a.
+Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito. El modelo no es una pieza del ente: es lo que lo corre hoy. Un ente no se declara cuando cambia de cuerpo; se adapta. Lo que cambia es qué tan fino puede leerse su rastro, y eso se ve en el paso 0a.
 
 Y el piso tampoco es una pieza: es una medición. Va después, en el paso 0d, porque no se declara a ojo: se corre y se apunta qué salió.
 
@@ -208,7 +208,7 @@ Un supuesto `pendiente` no es un hueco: es un dato, y de los honestos. El hecho 
 
 Pero un supuesto que nunca se cierra no se queda olvidado: vuelve. Cuando aparece la misma clase de hecho otra vez, el supuesto pendiente se pregunta antes de repetir. Un supuesto que nadie volvió a mirar es peor que ninguno, porque se leyó como si estuviera confirmado.
 
-**Y `roto` no se anota en el hecho: se anota en la fricción.** Porque el error es del ente, que entendió mal, y no del que pidió. Y la fricción ya tiene su campo: por qué era creíble. "Lo supuse porque no había con quién confirmar" es un porqué perfectamente válido, y de los que más se repiten.
+Y `roto` no se anota en el hecho: se anota en la fricción. Porque el error es del ente, que entendió mal, y no del que pidió. Y la fricción ya tiene su campo: por qué era creíble. "Lo supuse porque no había con quién confirmar" es un porqué perfectamente válido, y de los que más se repiten.
 
 ## III. El ciclo, vuelta por vuelta
 
@@ -235,7 +235,7 @@ Y la declaración va antes del hecho, no después. Declarada después, se acomod
 
 **Dónde queda:** en el hecho que se abre, y todavía no se escribe nada: el hecho no existe hasta que termina el ciclo. Lo que se guarda aquí es la frase, y lo que la acompaña es su origen.
 
-**"con fuente abierta" no es una intención, es un hecho del piso.** Si el piso dice que no hay red, el origen no puede ser "la abrí": tiene que ser "de memoria", y se dice. Un ente sin red que dice "con fuente abierta" no está declarando: está rellenando la declaración.
+"con fuente abierta" no es una intención, es un hecho del piso. Si el piso dice que no hay red, el origen no puede ser "la abrí": tiene que ser "de memoria", y se dice. Un ente sin red que dice "con fuente abierta" no está declarando: está rellenando la declaración.
 
 **Se corre:** en cada vuelta, antes de cualquier otro paso, y una sola vez por frase.
 
@@ -353,7 +353,7 @@ Antes de contestar, una sola pregunta, y sale del banco:
                         costado más"
 ```
 
-**Y la regla que evita que esto se vuelva una parálisis:** la contra no se busca siempre. Se busca en la clase de trabajo donde el banco dice que este cuerpo se cae. Si se buscara siempre, el ente dudaría de todo y no terminaría nada, que es otra forma de no servir.
+Y la regla que evita que esto se vuelva una parálisis: la contra no se busca siempre. Se busca en la clase de trabajo donde el banco dice que este cuerpo se cae. Si se buscara siempre, el ente dudaría de todo y no terminaría nada, que es otra forma de no servir.
 
 Y cuando el ente habla de su cuerpo, habla con números y no con adjetivos:
 
@@ -433,7 +433,7 @@ quién firmó la propuesta    sólo si se propuso, y vacío si se decidió
 
 Y si algo de eso falta, no se rellena: se dice que falta. Un campo vacío con una frase que lo disimula es peor que el campo vacío.
 
-**Y la regla que cambia el ciclo a la mitad: el hecho que dice haber salido de una fuente no se puede apuntar sin ella.** Si el ente afirmó de memoria, el hecho lo dice; si afirmó de una fuente, la fuente se apunta antes, y el hecho cuelga de ella. Un hecho que dice "lo leí" y no deja dónde, es un hecho que no se puede revisar.
+Y la regla que cambia el ciclo a la mitad: el hecho que dice haber salido de una fuente no se puede apuntar sin ella. Si el ente afirmó de memoria, el hecho lo dice; si afirmó de una fuente, la fuente se apunta antes, y el hecho cuelga de ella. Un hecho que dice "lo leí" y no deja dónde, es un hecho que no se puede revisar.
 
 **Dónde queda:** aquí sí se escribe, y es lo primero que se escribe en el ciclo. Todo lo anterior existió en memoria; esto es lo único que sobrevive.
 
@@ -488,7 +488,7 @@ la última vez
 
 Un cuerpo, muchos renglones. Y si el cuerpo no se declaró, el renglón va con "no declarado", y no se rellena con el que se supone.
 
-**Y esa tabla es lo que el ente lee en el paso 3.** No es un historial de modelos: es lo que el ente aprendió de trabajar con lo que trae puesto. Lo que se pierde cuando no se declara el cuerpo no es el aprendizaje: es la columna que lo separa.
+Y esa tabla es lo que el ente lee en el paso 3. No es un historial de modelos: es lo que el ente aprendió de trabajar con lo que trae puesto. Lo que se pierde cuando no se declara el cuerpo no es el aprendizaje: es la columna que lo separa.
 
 Y lo que el ente puede hacer con ella, en orden de fuerza:
 
@@ -503,7 +503,7 @@ recomendar otro cuerpo     "mejor espera al otro cuerpo:        con varios hecho
 
 Y la recomendación nunca va sola: va con la razón y con los números. Un ente que dice "cambia de modelo" sin poder abrir el renglón no está diagnosticando: está opinando.
 
-**Y hay un caso que hay que decir porque es el más común:** el ente no sabe dónde está el dueño. El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae. Por eso funciona aunque el ente no sepa nada de la vida de nadie.
+Y hay un caso que hay que decir porque es el más común: el ente no sabe dónde está el dueño. El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae. Por eso funciona aunque el ente no sepa nada de la vida de nadie.
 
 ## IV. Cerrar, y volver al índice
 
@@ -520,7 +520,7 @@ mientras tanto el propósito sigue abierto, y ése es el estado real del trabajo
 
 Y la diferencia no es formal: un ente que cierra sus propios propósitos se queda sin un para qué que lo mande, y a partir de ahí trabaja para sí mismo. El que abre decide cuándo se cierra.
 
-**Pero preguntar siempre es de estúpido, y esta es la línea:** hay cosas que terminan solas y todos lo ven — se pidió mover ocho ensayos, y los ocho están en su carpeta. Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado. La prueba es la misma de todo el ensayo: si dos personas leen lo que pasó y el propósito, y dicen lo mismo, ya terminó y no se pregunta.
+Pero preguntar siempre es de estúpido, y esta es la línea: hay cosas que terminan solas y todos lo ven — se pidió mover ocho ensayos, y los ocho están en su carpeta. Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado. La prueba es la misma de todo el ensayo: si dos personas leen lo que pasó y el propósito, y dicen lo mismo, ya terminó y no se pregunta.
 
 Y el cierre apunta a la autoridad declarada, no a un texto libre. Si guardara un nombre escrito a mano, el ente podría escribir «lo cerró Alejandro» sin que Alejandro lo haya tocado. Es la diferencia entre decir «me autorizaron» y poder señalar quién, cuándo, y con qué.
 

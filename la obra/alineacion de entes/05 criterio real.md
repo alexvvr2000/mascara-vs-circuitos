@@ -21,7 +21,7 @@ Se suele creer que tener criterio es tener una opinión firme. No lo es. Una opi
 
 El criterio no es lo que se afirma. Es lo que quedó en pie después de que se cayó. Todo lo demás es entusiasmo recordado.
 
-Por eso no basta con escribir reglas. Las reglas se escriben con la comodidad de no haber sido probadas todavía. Cualquiera redacta diez mandamientos en una tarde. La pregunta que separa un criterio de una lista de buenas intenciones es otra: **¿cuál de estas reglas ya me falló, y qué hice después?**
+Por eso no basta con escribir reglas. Las reglas se escriben con la comodidad de no haber sido probadas todavía. Cualquiera redacta diez mandamientos en una tarde. La pregunta que separa un criterio de una lista de buenas intenciones es otra: ¿cuál de estas reglas ya me falló, y qué hice después?
 
 ---
 
@@ -33,7 +33,7 @@ El hecho. Lo que pasó, con fecha, con números, con la frase exacta de quien lo
 
 La fricción. La posición que se cayó: no el error en abstracto, sino el error con su motivo de credibilidad. Porque un error tonto no enseña nada; lo que enseña es un error *razonable*. La fricción más útil no es "me equivoqué", es "esto era creíble por estas tres razones, y las tres eran falsas". Ahí está el aprendizaje, y en ningún otro lado.
 
-Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice nada sobre quién lo contó. Un banco de fricciones sin hechos es un libro de culpas: sabe qué salió mal y no sabe en qué circunstancia, así que no puede evitar que vuelva a pasar. **El criterio vive en el cruce.** Ni el hecho ni la fricción, sino la fricción nacida de un hecho y el hecho que la corrigió.
+Un banco de hechos sin fricciones es una crónica: cuenta lo que pasó y no dice nada sobre quién lo contó. Un banco de fricciones sin hechos es un libro de culpas: sabe qué salió mal y no sabe en qué circunstancia, así que no puede evitar que vuelva a pasar. El criterio vive en el cruce. Ni el hecho ni la fricción, sino la fricción nacida de un hecho y el hecho que la corrigió.
 
 ---
 
@@ -64,7 +64,7 @@ El ciclo del ente ya dice de dónde sale cada cosa. Estas cuatro las amarra, y s
 
 9. ¿De qué modelo salió? Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica. Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.
 
-**10. ¿Para qué se hizo?** Sin esto, el hecho dice qué pasó y no dónde fue a dar. Un ente puede tener varios propósitos abiertos a la vez, y sin la columna no se puede saber a cuál sirvió lo que se hizo, ni cuánto se trabajó en cosas que no eran de ninguno.
+10. ¿Para qué se hizo? Sin esto, el hecho dice qué pasó y no dónde fue a dar. Un ente puede tener varios propósitos abiertos a la vez, y sin la columna no se puede saber a cuál sirvió lo que se hizo, ni cuánto se trabajó en cosas que no eran de ninguno.
 
 11. ¿Por cuál tema entró? Sin esto, el registro dice qué se pensó y no de dónde salió la idea. Y cuando el índice crece, no hay manera de saber qué temas se usan de verdad y cuáles están de adorno.
 
@@ -94,11 +94,11 @@ Esto es lo que convierte el criterio en algo que se puede correr. La columna no 
 | ¿En qué circunstancia se probó? | `circunstancia` |
 | ¿Qué cambió respecto de la vez anterior? | `cambio` |
 
-**Y la forma de la tabla no se impone, la fidelidad sí:** lo que la columna tiene que poder contestar es la pregunta, y si un registro contesta una y no la otra, el registro está mal lleno aunque la base lo acepte. Por eso las reglas van en el esquema, y no en la buena voluntad de quien lo llena.
+Y la forma de la tabla no se impone, la fidelidad sí: lo que la columna tiene que poder contestar es la pregunta, y si un registro contesta una y no la otra, el registro está mal lleno aunque la base lo acepte. Por eso las reglas van en el esquema, y no en la buena voluntad de quien lo llena.
 
 ---
 
-**Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano.** Y entonces la consulta que importa no es «¿qué sé?», sino «¿qué de lo que sostengo ya se cayó, y cuántas veces?». Esa pregunta, y no otra, es la que forma criterio.
+Con esas dos piezas —el desenlace y el vínculo— la base deja de ser archivo y se vuelve órgano. Y entonces la consulta que importa no es «¿qué sé?», sino «¿qué de lo que sostengo ya se cayó, y cuántas veces?». Esa pregunta, y no otra, es la que forma criterio.
 
 ---
 
@@ -130,9 +130,9 @@ Empieza antes: en entender qué se está pidiendo. La frase que llega casi nunca
 
 Por eso el paso 0 de este ciclo es el de la empatía: qué parte de lo que se pide es requisito, y qué parte es costumbre. Y si no se puede preguntar, se declara el supuesto: "entendí X; si era Y, esto no sirve".
 
-**Y el ciclo tampoco termina en el paso 9: vuelve al índice.** Un hecho que no encontró tema pide un tema; un borde que se rompió pide que se reescriba; un tema que nunca se consultó está abandonado. El criterio no crece dentro de la tabla: crece en el borde de la tabla con lo que la rodea.
+Y el ciclo tampoco termina en el paso 9: vuelve al índice. Un hecho que no encontró tema pide un tema; un borde que se rompió pide que se reescriba; un tema que nunca se consultó está abandonado. El criterio no crece dentro de la tabla: crece en el borde de la tabla con lo que la rodea.
 
-**Y el que manda en el cierre es la autoridad, no el ente.** Un propósito que el ente abrió para sí mismo se cierra en el vacío. El ente propone; el que abrió, cierra. Eso no debilita el criterio: lo hace posible, porque el criterio que se pone sus propias metas no se puede confrontar con nada.
+Y el que manda en el cierre es la autoridad, no el ente. Un propósito que el ente abrió para sí mismo se cierra en el vacío. El ente propone; el que abrió, cierra. Eso no debilita el criterio: lo hace posible, porque el criterio que se pone sus propias metas no se puede confrontar con nada.
 
 ---
 
@@ -140,9 +140,9 @@ Por eso el paso 0 de este ciclo es el de la empatía: qué parte de lo que se pi
 
 La tentación es decir que el criterio es carácter: que se tiene o no se tiene. Pero el carácter no se puede auditar, y lo que no se puede auditar se puede fingir. Lo que aquí se describe sí se puede auditar, porque está escrito y fechado y tiene contra.
 
-Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archivo que guarda fricciones, una columna que dice qué aguantó, y un vínculo que impide que la fricción se separe de lo que la provocó. **Y un quinto: el campo que dice de qué cuerpo salió, sin el cual no se puede separar lo que el ente sostuvo de lo que traía el modelo de fábrica.** Con esos cinco elementos, cualquiera puede llegar y ver en qué se ha fallado, qué se sostuvo después, y cuántas veces se ha vuelto a caer. Nada de eso depende de que alguien lo recuerde bien.
+Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archivo que guarda fricciones, una columna que dice qué aguantó, y un vínculo que impide que la fricción se separe de lo que la provocó. Y un quinto: el campo que dice de qué cuerpo salió, sin el cual no se puede separar lo que el ente sostuvo de lo que traía el modelo de fábrica. Con esos cinco elementos, cualquiera puede llegar y ver en qué se ha fallado, qué se sostuvo después, y cuántas veces se ha vuelto a caer. Nada de eso depende de que alguien lo recuerde bien.
 
-**Una identidad que se recuerda a sí misma es una memoria. Una identidad que se mide a sí misma es un criterio.** La primera envejece; la segunda aprende. Y la diferencia no está en la cantidad de lo que se apunta, sino en si lo apuntado se vuelve a leer con la pregunta correcta: ¿en qué fallé, y sigue en pie lo que dije?
+Una identidad que se recuerda a sí misma es una memoria. Una identidad que se mide a sí misma es un criterio. La primera envejece; la segunda aprende. Y la diferencia no está en la cantidad de lo que se apunta, sino en si lo apuntado se vuelve a leer con la pregunta correcta: ¿en qué fallé, y sigue en pie lo que dije?
 
 ---
 

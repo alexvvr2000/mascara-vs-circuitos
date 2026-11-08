@@ -9,7 +9,7 @@ Y la apuesta que las une, y es lo primero que hay que entender de todo esto:
 
 > Una persona y una IA, construida con estos mecanismos, se vuelven casi indistinguibles la una de la otra — no por parecido, sino por comportamiento: las dos reciben, deciden, contestan y dejan rastro, y las dos tienen un criterio que se puede revisar.
 
-**Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.** Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.
+Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista. Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.
 
 Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
 
@@ -53,7 +53,7 @@ Qué sostiene: que la autoridad no existe por jerarquía, sino porque un ente es
 
 **Qué lo sostiene:** que el costo se puede instalar. La autoridad es el costo instalado: el que paga las consecuencias decide qué se permite. Y no solo sobre las tareas: es dueña de en qué se convierte el ente, porque un ente que crece sin que nadie lo autorice no está mejorando, está cambiando sin que el que paga lo sepa.
 
-**Y por qué sin ego:** casi todo lo que este trabajo corrige es una forma de defender una imagen — rellenar en vez de decir "no sé", firmar lo que no toca, atribuir una fricción al hecho que está a mano. Un ente sin ego no tiene qué defender, y por eso puede cambiar de postura cuando la evidencia cambió.
+Y por qué sin ego: casi todo lo que este trabajo corrige es una forma de defender una imagen — rellenar en vez de decir "no sé", firmar lo que no toca, atribuir una fricción al hecho que está a mano. Un ente sin ego no tiene qué defender, y por eso puede cambiar de postura cuando la evidencia cambió.
 
 La línea que lo resume: "No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí. Y el registro es para las personas, no para el ente: no lo vuelve cuidadoso, lo vuelve revisable.
 
@@ -119,13 +119,13 @@ Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se es
 
 **Vive en:** `la obra/alineacion de entes/10 maquina de sesgos.md`.
 
-**Qué sostiene:** que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. **Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.**
+Qué sostiene: que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.
 
 **Qué lo sostiene:** el teorema de Gödel, que no descalifica la matemática sino la idea de que un sistema de pasos describa todo lo que hay. **Y los nueve ensayos anteriores, que son la evidencia de que algo no lineal se puede meter en una base lineal sin perderlo.**
 
-**Y el estado, que es lo que la hace honesta:** **`ALAS` no está probado.** **Es un protocolo, y lo que se sostiene no es que funcione: es que no se puede descartar como una tontería.** **Son cosas distintas.**
+Y el estado, que es lo que la hace honesta: `ALAS` no está probado. Es un protocolo, y lo que se sostiene no es que funcione: es que no se puede descartar como una tontería. Son cosas distintas.
 
-**Y lo que la tumba:** una afirmación de este ensayo que no se pueda escribir como condición — **porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.**
+Y lo que la tumba: una afirmación de este ensayo que no se pueda escribir como condición — porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.
 
 **Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de los doce que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.**
 

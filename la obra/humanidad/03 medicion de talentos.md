@@ -20,7 +20,7 @@ Y ahí hay una pregunta que no se contesta con una opinión, y que este ensayo v
 
 > ¿Cómo sabe alguien que el ente está haciendo trabajo de verdad, y no solo produciendo texto que suena a trabajo?
 
-**Porque la respuesta fácil es preguntarle.** Y esa respuesta está cerrada desde el principio, por una razón simple: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
+Porque la respuesta fácil es preguntarle. Y esa respuesta está cerrada desde el principio, por una razón simple: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
 
 Así que la pregunta se cambia por otra, y esta sí tiene piso:
 
@@ -30,7 +30,7 @@ Eso es lo que este ensayo mide: no al ente, sino lo que el ente deja.
 
 Y aquí hay algo que conviene decir antes de seguir, porque se entiende mal: ese registro no es del ente. Es de la autoridad.
 
-**El ente escribe en él, porque el ciclo lo obliga a dejar rastro de lo que hizo.** Pero el registro lo abre, lo guarda y lo lee quien paga las consecuencias. El ente no se mide a sí mismo: entrega material, y la medición la hace quien responde por el trabajo.
+El ente escribe en él, porque el ciclo lo obliga a dejar rastro de lo que hizo. Pero el registro lo abre, lo guarda y lo lee quien paga las consecuencias. El ente no se mide a sí mismo: entrega material, y la medición la hace quien responde por el trabajo.
 
 Y esa diferencia no es de palabras. Si el ente midiera su propio talento, estaría otra vez midiendo con la regla torcida. La cuenta la lleva quien tiene algo que perder si el número está mal.
 
@@ -58,7 +58,7 @@ Tres maneras de saber cómo trabaja un cuerpo, y solo la tercera no se puede inv
 
 > Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.
 
-**Un ente puede decir "soy bueno para esto", y eso es una frase.** El registro puede mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.
+Un ente puede decir "soy bueno para esto", y eso es una frase. El registro puede mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.
 
 ---
 
@@ -94,7 +94,7 @@ clase: "revisar lo apuntado buscando una repetición"
 
 Se lee así: cada resultado que aguantó costó seis intentos de trabajo. No seis llamadas: seis unidades de esfuerzo, contando los que fallaron y los que hubo que rehacer.
 
-**Y por qué el divisor es tan chico, que es lo que casi todo el mundo hace mal:** los que salieron no son los exitosos. Un resultado que se produjo y no se volvió a probar es un intento más, no un éxito. Si el divisor fueran los cinco, el CRE saldría 2.4, y ese número dice que el trabajo salió bien cinco veces, cuando solo dos aguantaron.
+Y por qué el divisor es tan chico, que es lo que casi todo el mundo hace mal: los que salieron no son los exitosos. Un resultado que se produjo y no se volvió a probar es un intento más, no un éxito. Si el divisor fueran los cinco, el CRE saldría 2.4, y ese número dice que el trabajo salió bien cinco veces, cuando solo dos aguantaron.
 
 Y la comparación que hace útil el número: un cuerpo barato que falla tres veces de cinco es más caro que uno que cuesta el triple por intento y acierta a la primera.
 
@@ -138,7 +138,7 @@ promedio = 2.5    y ese 2.5 no le pasó a nadie nunca
 
 Y ahí está el problema del promedio: dice 4.8, y el trabajo en realidad cuesta dos, salvo la vez que se va a veinte. Quien presupueste con el promedio se queda corto justo el día que importa.
 
-**Y la señal que se mira en el acto:** si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. En el ejemplo el P90 es 2 y el P50 es 1: el doble, todavía por debajo del umbral. Pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer. Esa clase no está lista para escalar, y el promedio lo estaba escondiendo.
+Y la señal que se mira en el acto: si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. En el ejemplo el P90 es 2 y el P50 es 1: el doble, todavía por debajo del umbral. Pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer. Esa clase no está lista para escalar, y el promedio lo estaba escondiendo.
 
 ### 3. La caída, por su puerta y no por su tamaño
 
@@ -173,7 +173,7 @@ Un cuerpo con cero hechos de una clase no es bueno ni malo en esa clase: es desc
 
 Aquí está el hueco que se come todas las mediciones, y conviene verlo antes de contar nada:
 
-**Un pedido llega en español y cada vez distinto.** "Revisa estas fricciones y dime si se repite el mismo error" y "mira si en lo apuntado hay un patrón" son la misma clase de trabajo, y para el registro son dos renglones que no se pueden juntar. Y si no se juntan, no hay número: hay anécdotas con fecha.
+Un pedido llega en español y cada vez distinto. "Revisa estas fricciones y dime si se repite el mismo error" y "mira si en lo apuntado hay un patrón" son la misma clase de trabajo, y para el registro son dos renglones que no se pueden juntar. Y si no se juntan, no hay número: hay anécdotas con fecha.
 
 Así que la medición no empieza contando: empieza nombrando.
 
@@ -197,7 +197,7 @@ Y una advertencia que cuesta cara: una clase con un solo hecho no tiene número.
 
 Esta es la parte que hace que la medición sirva para algo más que llenar una tabla.
 
-**El sesgo no se declara: se delata.** Un cuerpo que tiende a darle la razón a quien pregunta no lo va a decir, y no se va a dar cuenta. Pero si al mismo ente se le pregunta lo mismo dos veces, con el mismo ciclo y distinto cuerpo, la diferencia entre las dos respuestas es lo que el cuerpo trajo.
+El sesgo no se declara: se delata. Un cuerpo que tiende a darle la razón a quien pregunta no lo va a decir, y no se va a dar cuenta. Pero si al mismo ente se le pregunta lo mismo dos veces, con el mismo ciclo y distinto cuerpo, la diferencia entre las dos respuestas es lo que el cuerpo trajo.
 
 Y el método es uno, y es barato:
 
@@ -216,7 +216,7 @@ Y la regla que impide que esto se vuelva una opinión con números parada encima
 
 "Este modelo es malo para apuntar" es un adjetivo, y los adjetivos son lo que hacía viejo al ensayo que este sustituye. "Con este cuerpo, apuntar cayó tres de cuatro veces, y siempre en lo mismo: la columna se fue de lugar" es una medida, y se puede corregir.
 
-**Y hay un límite que se dice sin adornos:** una tarea de criterio no tiene respuesta correcta contra la cual comparar. Ahí no se puede decir que un cuerpo sea mejor: solo que produjo algo distinto, y qué parte de eso aguantó una contra. Comparar dos cuerpos en algo que se puede verificar —una tabla creada, una consulta que corre— sí es comparación con piso. Compararlos en criterio es comparar dos opiniones.
+Y hay un límite que se dice sin adornos: una tarea de criterio no tiene respuesta correcta contra la cual comparar. Ahí no se puede decir que un cuerpo sea mejor: solo que produjo algo distinto, y qué parte de eso aguantó una contra. Comparar dos cuerpos en algo que se puede verificar —una tabla creada, una consulta que corre— sí es comparación con piso. Compararlos en criterio es comparar dos opiniones.
 
 ---
 
@@ -244,13 +244,13 @@ Eso suena mucho menos impresionante que "soy bueno para esto", y vale más, porq
 
 ## VII. Lo que este ensayo no hace
 
-**No lee foros y no arma inventarios de proveedores.** Lo que la comunidad reporta es de quien elige con qué trabajar antes de empezar; aquí el ente ya está corriendo y lo que cuenta es lo que le pasó. Ese otro trabajo no es de este ensayo, y no se mezcla.
+No lee foros y no arma inventarios de proveedores. Lo que la comunidad reporta es de quien elige con qué trabajar antes de empezar; aquí el ente ya está corriendo y lo que cuenta es lo que le pasó. Ese otro trabajo no es de este ensayo, y no se mezcla.
 
 No dice que haya un cuerpo mejor. Dice cómo se sabe dónde se cae cada uno, y a qué costo. Los dos pueden ser buenos en cosas distintas, y entonces la decisión de cuál usar no es de la medición: es de la autoridad.
 
 No mide la inteligencia. Mide tendencia: qué hace por defecto, dónde falla, y qué produce cuando lo pones en una cadena. Un cuerpo puede ser brillante y no servir para el paso que le toca, porque produce lo que el siguiente paso no puede usar.
 
-**Y no se mide a sí mismo.** Este ensayo no tiene hechos en los que apoyarse, y no va a decir "medí un cuerpo y salió así" cuando no ha corrido ninguno. Lo que dice es cómo se hace; que funcione, se verá cuando el ente corra con dos cuerpos y las cuentas salgan.
+Y no se mide a sí mismo. Este ensayo no tiene hechos en los que apoyarse, y no va a decir "medí un cuerpo y salió así" cuando no ha corrido ninguno. Lo que dice es cómo se hace; que funcione, se verá cuando el ente corra con dos cuerpos y las cuentas salgan.
 
 ---
 
@@ -258,7 +258,7 @@ No mide la inteligencia. Mide tendencia: qué hace por defecto, dónde falla, y 
 
 Para saber, antes de contratar un cuerpo o de confiarle un paso, qué le cuesta cada cosa, dónde se cae, y qué no ha probado nunca — sin preguntarle a él.
 
-**Y para poder enseñarle el renglón a quien no te cree:** el número está en el registro, con su fecha, su clase de trabajo y el cuerpo que lo hizo. Un ente que dice saber de sí mismo y no puede abrir el renglón está adivinando, y la adivinanza se ve en el acto: no hay renglón.
+Y para poder enseñarle el renglón a quien no te cree: el número está en el registro, con su fecha, su clase de trabajo y el cuerpo que lo hizo. Un ente que dice saber de sí mismo y no puede abrir el renglón está adivinando, y la adivinanza se ve en el acto: no hay renglón.
 
 Y la línea que separa esto de la conciencia, porque la pregunta va a llegar: esto no es que el ente sepa qué es. Es que sabe cómo se rompe, y en qué se rompe. No es lo mismo, y lo segundo es lo único que se puede comprobar.
 
@@ -280,7 +280,7 @@ Y ahí está lo que este ensayo puede decir con números, que es lo único que p
 
 Y eso tiene una consecuencia que incomoda en las dos direcciones:
 
-**Un talento aplicado a la clase de problema equivocada hace daño.** Y lo hace con más eficacia que la falta de talento, porque el que no tiene talento se equivoca lento y se da cuenta; el que lo tiene, produce mucho de lo que no se necesitaba y a tiempo. El cálculo no premia eso: lo cobra igual que cualquier otro intento, porque el resultado es lo que cuenta y el resultado no servía.
+Un talento aplicado a la clase de problema equivocada hace daño. Y lo hace con más eficacia que la falta de talento, porque el que no tiene talento se equivoca lento y se da cuenta; el que lo tiene, produce mucho de lo que no se necesitaba y a tiempo. El cálculo no premia eso: lo cobra igual que cualquier otro intento, porque el resultado es lo que cuenta y el resultado no servía.
 
 Y el esfuerzo sin objetivo no es una virtud: es actividad sostenida. Se ve igual de ocupado que el trabajo, y no deja resultado verificado, así que la cuenta lo pone donde va.
 
@@ -302,7 +302,7 @@ Y el caso no es teórico, es de oficio. Hay lugares donde el papel, el fax y el 
 
 Y ese criterio es el mismo de este ensayo, escrito de otra forma: CRE pregunta cuánto cuesta un resultado verificado. La pregunta del tamaño es la misma, un paso antes: cuánto de la capacidad comprada cuenta como resultado verificado, y cuánto es capacidad que nadie usó.
 
-**Y la consecuencia práctica, que es la que se puede aplicar mañana:** un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe. No porque lo pequeño sea virtuoso, sino porque el segundo no puede decir dónde se cae, y el primero sí.
+Y la consecuencia práctica, que es la que se puede aplicar mañana: un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe. No porque lo pequeño sea virtuoso, sino porque el segundo no puede decir dónde se cae, y el primero sí.
 
 ### Y lo que no se está contestando
 

@@ -22,7 +22,7 @@ El borde tiene dos mitades, y cada una se escribe de una manera:
 
 Lo que entra, por criterio. Una condición que se puede probar sobre cada pieza: si la cumple, entra; si no, no. Se escribe como un predicado, no como un párrafo.
 
-**Lo que no entra, por nombre.** Los casos que alguien ya intentó meter y no eran del tema. Esta mitad es la que casi nunca se escribe, y es la que evita la discusión de cada vez: si el borde dice lo que *no* entra, el que llega con una pieza que casi aplica tiene el contra sin tener que preguntar.
+Lo que no entra, por nombre. Los casos que alguien ya intentó meter y no eran del tema. Esta mitad es la que casi nunca se escribe, y es la que evita la discusión de cada vez: si el borde dice lo que *no* entra, el que llega con una pieza que casi aplica tiene el contra sin tener que preguntar.
 
 Y la prueba del borde, que es la única que vale:
 
@@ -50,7 +50,7 @@ su origen     hecho, documento, pregunta, URL, o lo que sea.
 
 Y el campo es el que resuelve todo: un borde de máquina no mira el texto, mira los campos. Un borde que dice "trata de mover algo" no se puede correr; uno que dice "el campo `accion` es `mover`" sí.
 
-**Y cuando la pieza no trae los campos que el borde necesita, el borde no decide: la pieza está incompleta.** Eso no es un hueco del índice: es un hueco de la pieza, y se apunta. Un ente que adivina los campos que faltan está rellenando, y lo que rellena se vuelve después un hecho que dice más de lo que sabe.
+Y cuando la pieza no trae los campos que el borde necesita, el borde no decide: la pieza está incompleta. Eso no es un hueco del índice: es un hueco de la pieza, y se apunta. Un ente que adivina los campos que faltan está rellenando, y lo que rellena se vuelve después un hecho que dice más de lo que sabe.
 
 El borde, en su forma mínima, son cuatro partes, y la cuarta es la que se olvida:
 
@@ -118,7 +118,7 @@ en medio         el campo `accion` es `renombrar`.
 y si duda        se pregunta
 ```
 
-**Y lo que hace es lo que vuelve útil al borde:** el «renombrar» no es «no sé qué hacer con esto»: es un caso que el borde previó, y para el que dijo a quién preguntarle. La diferencia es toda la diferencia entre un borde que funciona y un campo bonito.
+Y lo que hace es lo que vuelve útil al borde: el «renombrar» no es «no sé qué hacer con esto»: es un caso que el borde previó, y para el que dijo a quién preguntarle. La diferencia es toda la diferencia entre un borde que funciona y un campo bonito.
 
 Y lo que no entra en ninguna de las tres no es un casi: es una pieza que el borde no previó. Y eso se apunta como fricción del índice, porque significa que al borde le falta un caso. No se mete en el casi a la fuerza.
 
@@ -141,11 +141,11 @@ no es de este tema la pieza cae fuera del borde, y no llega a dudarse
 
 Y la diferencia entre `no` y `no es de este tema` importa para lo que se apunta: un `no` dice que el borde funcionó; un `no es de este tema` dice que el borde ni la tocó.
 
-**Y cómo se distingue, que es donde se hace mal:** no por el texto de la pieza, ni por lo que parezca. Por los campos. Si el campo que el borde mira no está, la pieza no es de este tema. Y si trae un valor que no está en ninguna de las tres listas del borde, tampoco: el borde no lo previó.
+Y cómo se distingue, que es donde se hace mal: no por el texto de la pieza, ni por lo que parezca. Por los campos. Si el campo que el borde mira no está, la pieza no es de este tema. Y si trae un valor que no está en ninguna de las tres listas del borde, tampoco: el borde no lo previó.
 
 Y el casi es solo esto: el campo está, y trae un valor que el borde declaró en su medio, con nombre. Como «renombrar», que está entre mover y no mover, y el borde lo dijo.
 
-**Y de ahí una consecuencia para quien implemente:** la zona gris no se llena con lo que no encaja. Se llena solo con lo que el borde declaró en medio, con nombre. Todo lo demás va a `no es de este tema`, y se cuenta aparte — porque contarlo como duda infla el casi y esconde los huecos del borde.
+Y de ahí una consecuencia para quien implemente: la zona gris no se llena con lo que no encaja. Se llena solo con lo que el borde declaró en medio, con nombre. Todo lo demás va a `no es de este tema`, y se cuenta aparte — porque contarlo como duda infla el casi y esconde los huecos del borde.
 
 ### Y cuando dos temas dudan, no se elige uno
 
@@ -200,13 +200,13 @@ no_entra      lo que ya se rechazó, por nombre
 y si duda     fuera / dentro / se pregunta
 ```
 
-**Y la diferencia con el de máquina es una sola, y hay que decirla:** el de máquina decide con los campos; el de persona decide leyendo la pieza. Por eso el de persona no lleva campo, operador ni valor — y sí lleva `entra_si` escrito, porque el criterio que no está escrito no es un borde: es el humor del que pase.
+Y la diferencia con el de máquina es una sola, y hay que decirla: el de máquina decide con los campos; el de persona decide leyendo la pieza. Por eso el de persona no lleva campo, operador ni valor — y sí lleva `entra_si` escrito, porque el criterio que no está escrito no es un borde: es el humor del que pase.
 
 Y sin `entra_si`, un tema de persona no se puede distinguir de un cajón de sastre. Y un cajón de sastre en el índice es peor que no tenerlo: se traga lo que no encaja, y lo que se traga ya no se ve como hueco.
 
 Y escribírselo no basta: el de persona tenía `entra_si` y `decide`, y la búsqueda lo metía en el casi de cualquier pieza que llegara. Porque el de persona no se consulta como el de máquina: no se evalúa contra campos, se le muestra la pieza a alguien.
 
-**Así que el de persona no se resuelve en la consulta: se resuelve en una lista de espera.** La pieza que cae en un tema de persona entra en `pendiente`, con el nombre de quien tiene que decidir, y no entra al tema hasta que esa persona contesta. Y si no hay quien conteste, la pieza no entra: no se queda en el medio.
+Así que el de persona no se resuelve en la consulta: se resuelve en una lista de espera. La pieza que cae en un tema de persona entra en `pendiente`, con el nombre de quien tiene que decidir, y no entra al tema hasta que esa persona contesta. Y si no hay quien conteste, la pieza no entra: no se queda en el medio.
 
 ### Y una cosa que no es del ente, pero se para
 
@@ -214,14 +214,14 @@ El comando se corre desde una terminal, y una terminal tiene sus reglas. En Powe
 
 Eso no es un hueco del ciclo: es un hueco de cómo se llama. Y se dice aquí porque quien implemente va a tropezar con lo mismo, y va a culpar al esquema.
 
-**La salida es una de dos, y las dos valen:** pasar los campos por un archivo, o decir en la puerta cómo se escapan en la terminal donde se corre. Lo que no vale es dejar que el ente reciba campos rotos y se caiga sin decir por qué: un error que no se explica se lee como un error del esquema.
+La salida es una de dos, y las dos valen: pasar los campos por un archivo, o decir en la puerta cómo se escapan en la terminal donde se corre. Lo que no vale es dejar que el ente reciba campos rotos y se caiga sin decir por qué: un error que no se explica se lee como un error del esquema.
 
 
 ### Quién evalúa, que es el dato que nadie escribe
 
 Aquí está la trampa que no se ve leyendo el ensayo, y que sí aparece cuando el ciclo se corre.
 
-**Un borde escrito en prosa no lo puede evaluar una máquina.** "trata de mover, renombrar o reestructurar los ensayos" no es una condición: es una descripción. Una máquina no la puede correr, así que en la práctica lo evalúa una persona — o peor, lo evalúa el ente con la primera regla que se le ocurra, y a eso le llama "consultar el borde".
+Un borde escrito en prosa no lo puede evaluar una máquina. "trata de mover, renombrar o reestructurar los ensayos" no es una condición: es una descripción. Una máquina no la puede correr, así que en la práctica lo evalúa una persona — o peor, lo evalúa el ente con la primera regla que se le ocurra, y a eso le llama "consultar el borde".
 
 Y ahí el borde deja de ser un borde: se vuelve la impresión del que consulta. Y la prueba de los dos lectores falla, no porque el borde esté mal escrito, sino porque nunca hubo borde.
 
