@@ -1,4 +1,4 @@
-# 0. Mis ideas
+# 00. Mis ideas
 
 Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.
 Alejandro Valenzuela Rivera.
@@ -40,14 +40,14 @@ Si se cae el eslabón 1, los otros diez no se sostienen solos. Por eso el ensayo
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
-**Vive en:** `la obra/alineacion de entes/1 que es un ente.md`.
+**Vive en:** `la obra/alineacion de entes/01 que es un ente.md`.
 Qué sostiene: un ente es una unidad que recibe, decide, contesta y deja rastro de haber contestado. No dice nada de conciencia ni de interioridad, porque son preguntas sin comprobación: no hay manera de abrir a alguien para ver si por dentro hay alguien, y sí hay manera de ver qué entró, qué salió y qué quedó escrito.
 Qué lo sostiene: el borde. Lo que descalifica a un ente está escrito — sin rastro, sin distinguir lo que propone de lo que le mandaron, o apuntando para nadie — y eso lo hace comprobable.
 Qué la tumba: ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 
 ### 2. Un ente no tiene cuerpo, y por eso necesita una autoridad
 
-**Vive en:** `la obra/alineacion de entes/1 que es un ente.md`.
+**Vive en:** `la obra/alineacion de entes/01 que es un ente.md`.
 
 Qué sostiene: que la autoridad no existe por jerarquía, sino porque un ente es información sin cuerpo, y su error no le cuesta nada a nadie. Nosotros somos cuidadosos porque equivocarnos nos cuesta algo — miedo, tiempo, vergüenza, la vida. Un ente que inventa un dato no se juega nada. No es descuidado por maldad: es descuidado porque nada lo castiga.
 
@@ -61,19 +61,19 @@ La línea que lo resume: "No sabía" no es una defensa aceptable. "Lo decidí yo
 
 ### 3. El criterio no se recuerda: se arma, y su pieza que falta es el desenlace
 
-**Vive en:** `la obra/alineacion de entes/5 criterio real.md`.
+**Vive en:** `la obra/alineacion de entes/05 criterio real.md`.
 Qué sostiene: tener criterio no es tener convicciones firmes, sino saber qué de lo sostenido se cayó y qué se hizo después. De ahí salen tres registros: el hecho, la fricción y el desenlace.
 Qué lo sostiene: la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
 
 ### 4. Un ente con varios modelos tiene un criterio y varios sesgos
 
-**Vive en:** `la obra/alineacion de entes/9 criterio y sesgos.md`.
+**Vive en:** `la obra/alineacion de entes/09 criterio y sesgos.md`.
 Qué sostiene: la identidad puede vivir en un lado —reglas, registro, memoria— y los modelos pasar. Lo que se conserva es el criterio; lo que cambia con cada modelo es el sesgo. Y el riesgo concreto: un sesgo registrado sin nombre se vuelve criterio por la puerta atrás.
 Qué lo sostiene: si el sesgo no se ve desde dentro, la comparación entre modelos distintos es el único instrumento que lo revela. Y de ahí una regla: repetición no es verificación.
 
 ### 5. Una IA debe escribir en forma de proceso, no en prosa
 
-**Vive en:** `la obra/alineacion de entes/4 escritura en procesos.md`.
+**Vive en:** `la obra/alineacion de entes/04 escritura en procesos.md`.
 Qué sostiene: la prosa supone un lector capaz de dudar; una IA no duda de un texto, lo rellena. Donde falta el `Falla si`, el `Cuándo se corre` o el `Falsificador`, la IA no se detiene: inventa.
 Qué lo sostiene: la prosa protege al que escribe y le cobra al que ejecuta. Un texto que solo se puede creer no es una instrucción: es una apuesta con la palabra "hazlo" encima.
 
@@ -91,7 +91,7 @@ Qué lo sostiene: nada todavía. Es una hipótesis con mecanismo y sin medición
 
 ### 8. En el índice, la forma es la fuente y el texto es el derivado
 
-**Vive en:** `la obra/alineacion de entes/7 indexador de temas.md`.
+**Vive en:** `la obra/alineacion de entes/07 indexador de temas.md`.
 Qué sostiene: la inversión de la práctica habitual. Lo publicado construye el grafo desde el corpus; aquí el grafo manda y el texto se deriva, y eso permite tres cosas que con el orden habitual no se pueden: tirar y reconstruir, dejar el cambio escrito en la estructura, y preguntar por lo que se dejó de sostener.
 Qué lo sostiene: no es una mejora medida —no se midió contra nada— sino una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer. Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
 

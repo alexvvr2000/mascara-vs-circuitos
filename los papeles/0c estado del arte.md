@@ -12,7 +12,7 @@ Porque una propuesta metodológica sin genealogía parece inventada, y no lo est
 
 Y no se dice de memoria: cada renglón tiene su fuente, y las que no se abrieron se dicen.
 
-Sale de: `3 criterio real` y `5 criterio y sesgos`.
+Sale de: `05 criterio real` y `09 criterio y sesgos`.
 
 ---
 

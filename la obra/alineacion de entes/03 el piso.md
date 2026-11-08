@@ -1,16 +1,16 @@
-# 3. El piso
+# 03. El piso
 
 Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído `1 que es un ente` y `2 el ciclo del ente`. Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.
+> Antes de leer. Conviene haber leído `01 que es un ente` y `02 el ciclo del ente`. Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.
 >
 > Al terminar sabrás cómo un ente dice qué le falta en vez de decir «no pude», y cómo crece cuando le piden algo que no midió.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> Y este ensayo es el paso 0d del ciclo, solo: el que decide si un ente sirve o tropieza. El ciclo completo está en `2 el ciclo del ente`.
+> Y este ensayo es el paso 0d del ciclo, solo: el que decide si un ente sirve o tropieza. El ciclo completo está en `02 el ciclo del ente`.
 
 ---
 

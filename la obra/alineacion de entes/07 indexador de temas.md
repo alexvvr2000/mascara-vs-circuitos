@@ -1,4 +1,4 @@
-# 7. Indexador de temas
+# 07. Indexador de temas
 
 Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.
 Alejandro Valenzuela Rivera.
@@ -69,7 +69,7 @@ Por criterio. El tema declara una condición que se puede probar sobre cada piez
 
 La regla: un tema sin borde no es un tema, es una intención. Y el borde no se puede dejar a la interpretación de quien pone la pieza: si dos personas leen el borde y clasifican distinto, el borde está mal escrito — el problema es del texto, no del que lo lee.
 
-Y un borde que no se puede correr no es un borde: es una intención con buena redacción. Cómo se escribe para que se pueda correr, con sus casos y su prueba, está en `8 el borde del tema`. Aquí basta la regla; allá está el mecanismo.
+Y un borde que no se puede correr no es un borde: es una intención con buena redacción. Cómo se escribe para que se pueda correr, con sus casos y su prueba, está en `08 el borde del tema`. Aquí basta la regla; allá está el mecanismo.
 
 ---
 

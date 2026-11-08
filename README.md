@@ -114,24 +114,24 @@ Los límites, dichos con nombre:
 ```plaintext
 1. esta entrada            qué hay, y qué no
 
-2. la obra/0 mis ideas     la posición en lista, y qué la tumba
+2. la obra/00 mis ideas    la posición en lista, y qué la tumba
 
 3. la obra/alineacion de entes/
-     E1  que es un ente         la definición, y por qué necesita una autoridad
-     E2  el ciclo del ente      los pasos, uno por uno
-     E3  el piso                qué mide antes de prometer
-     E4  escritura en procesos  por qué proceso, y no prosa
-     E5  criterio real          el hecho, la fricción y el desenlace
-     E6  la frontera            las cuatro columnas del paso 3
-     E7  indexador de temas     dónde vive lo que sabe
-     E8  el borde del tema      cómo se escribe un borde que se pueda correr
-     E9  criterio y sesgos      qué es del ente y qué del cuerpo
-     E10 maquina de sesgos      lo que este trabajo no puede probar
+     01  que es un ente         la definición, y por qué necesita una autoridad
+     02  el ciclo del ente      los pasos, uno por uno
+     03  el piso                qué mide antes de prometer
+     04  escritura en procesos  por qué proceso, y no prosa
+     05  criterio real          el hecho, la fricción y el desenlace
+     06  la frontera            las cuatro columnas del paso 3
+     07  indexador de temas     dónde vive lo que sabe
+     08  el borde del tema      cómo se escribe un borde que se pueda correr
+     09  criterio y sesgos      qué es del ente y qué del cuerpo
+     10  maquina de sesgos      lo que este trabajo no puede probar
 
 4. la obra/humanidad/
-     H1  empatía                cómo se entiende antes de pedir
-     H2  conciencia             qué hacemos con una palabra que no sabemos definir
-     H3  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
+     01  empatía                cómo se entiende antes de pedir
+     02  conciencia             qué hacemos con una palabra que no sabemos definir
+     03  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
 
 5. metodologia de mejora/
      metodo.md                  cómo se sabe si los ensayos están completos
@@ -161,7 +161,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
 | **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `E10` |
 
-La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).
+La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/00 mis ideas.md`](./la%20obra/00%20mis%20ideas.md).
 
 ---
 

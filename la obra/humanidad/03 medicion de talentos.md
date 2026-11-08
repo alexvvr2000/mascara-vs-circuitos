@@ -1,4 +1,4 @@
-# 3. Medición de talentos
+# 03. Medición de talentos
 
 Cómo saber si un trabajo se hizo de verdad, con números que salen del registro y no de la opinión del que trabajó.
 

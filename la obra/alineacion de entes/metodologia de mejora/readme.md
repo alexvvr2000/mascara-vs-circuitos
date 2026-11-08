@@ -8,7 +8,7 @@ Alejandro Valenzuela Rivera · `TESTIGO`.
 
 ## Qué es esto
 
-Los ensayos de al lado (`1 que es un ente` … `6 criterio y sesgos`) dicen cómo funciona un ente. Aquí está cómo se sabe si están completos.
+Los ensayos de al lado (`01 que es un ente` … `10 maquina de sesgos`) dicen cómo funciona un ente. Aquí está cómo se sabe si están completos.
 
 Y no por opinión: por corrida. Se levanta un ente desde cero, usando solo los ensayos, y lo que haya que inventar es un hueco del ensayo.
 
