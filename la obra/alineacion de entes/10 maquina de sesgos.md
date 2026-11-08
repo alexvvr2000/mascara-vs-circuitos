@@ -98,6 +98,8 @@ Y ahí está la parte que este ensayo no puede probar y no va a fingir que prueb
 
 ## VI. Por qué esto se publica igual
 
+Y hay una cosa que se puede decir sin prometer nada, y es la que deja dormir: en las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia. No hace falta que la descripción termine para que sirva. Hace falta que se sepa hacia dónde va, y que se pueda decir qué falta.
+
 Porque puede ser un juguete. Y porque lo que venga después va a ser mucho más grande y probablemente va a necesitar matemáticas que todavía no existen.
 
 Y esa es la parte que hay que decir entera, porque es la que sostiene la decisión de publicar: puede que el límite no sea de método sino de carne. Que haya cosas que una criatura hecha como nosotros no pueda llegar a formular, no porque le falten pasos, sino porque su forma de pensar es la que tiene.

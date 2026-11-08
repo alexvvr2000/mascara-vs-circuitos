@@ -6,6 +6,18 @@
 
 ---
 
+## Antes del método: por qué hay un número
+
+**En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia.**
+
+**Nadie escribe todas las cifras de un número que no termina. Se escribe lo que sigue, y con eso ya se puede trabajar, calcular, predecir.**
+
+**Con la descripción de un ente pasa lo mismo.** **No hay un día en que un ensayo diga todo lo que hay que decir sobre un ente, porque el mundo cambia y el ensayo se queda.** **Buscar ese día es buscar un número que no termina.**
+
+**Lo que sí termina es la lista de lo que el ensayo afirma.** **Y cada cosa que afirma se puede romper a propósito.** **Eso es lo que hace este plan: no promete el final, acota la tendencia y la deja contable.**
+
+---
+
 ## El problema, en una línea
 
 **La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle».** **Eso es esperar a que no aparezca nada, y no aparece nada cuando el que busca es el mismo que ya sabe dónde no buscar.**

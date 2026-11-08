@@ -18,6 +18,16 @@
 
 ---
 
+## Y por qué esto no es infinito
+
+**En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia.** **Nadie escribe todas las cifras de un número que no termina; se escribe lo que sigue, y con eso ya se calcula.**
+
+**Con un ensayo pasa igual:** **no hay un día en que diga todo lo que hay que decir, y buscarlo es buscar un número que no termina.** **Lo que sí termina es la lista de lo que afirma, y cada cosa que afirma se puede romper a propósito.**
+
+**Ése es el [plan de prueba de criterio](criterio/plan.md), y es lo que convierte «ya casi» en una resta.**
+
+---
+
 ## La cadena, que es lo que ordena todo
 
 ```plaintext

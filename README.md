@@ -125,6 +125,20 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
 
 **Y lo que se puede contar hoy:** **417 reglas en los doce ensayos, y cero mutantes corridos todavía.** **Ese número es el que falta, y por eso el plan sirve: se puede restar.**
 
+### Por qué hay un número y no un «ya casi»
+
+**En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia.** **Nadie escribe todas las cifras de un número que no termina. Se escribe lo que sigue, y con eso se puede trabajar.**
+
+**Con un texto pasa lo mismo.** **No existe el día en que un ensayo diga todo lo que hay que decir, y buscar ese día es buscar un número que no termina.**
+
+**Lo que sí termina es esto:** **cada regla que el ensayo afirma tiene un mutante, y el mutante muere.** **Eso no es el 100% de nada. Es la tendencia, dicha con los números que hay.**
+
+**Y por eso este trabajo se puede leer desde afuera sin creerle nada:** **no pide fe en una cifra que no existe. Pide que se le rompa una regla a propósito y se mire si el ente lo nota.**
+
+**Si no lo nota, el ensayo hablaba de más, y se corrige. Si lo nota, la regla aguanta, y ya no hay que preguntarle a nadie si está bien.**
+
+**Y ésa es la promesa entera, que es más chica de lo que suena y más grande de lo que se suele ofrecer:** **un ensayo cuyas reglas se pueden romper a propósito es un ensayo que un desconocido puede usar sin tener que confiar en quien lo escribió.**
+
 **Y su límite, para que no se use para parar antes de tiempo:** **dos corridas de forma no dicen que el ensayo esté completo.** **Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.**
 
 Los límites, dichos con nombre:
