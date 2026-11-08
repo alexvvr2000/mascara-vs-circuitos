@@ -1,4 +1,4 @@
-# AGENTS.md
+# Hoja de reglas
 
 **Esta carpeta se copia al proyecto. Esta hoja se obedece. No se edita.**
 

@@ -1,49 +1,58 @@
 # Lo que se copia
 
-**Una carpeta, cuatro pasos, y queda funcionando.** **Con el stack ya elegido.**
+**Una carpeta, y seis pasos.** **Los dos primeros son renombrar, y sin ellos no funciona.**
+
+**Y el stack ya viene puesto: no hay que elegir motor, catálogo ni base.**
 
 ---
 
 ## Los pasos
 
-**1.** Se copia esta carpeta entera al proyecto donde se va a trabajar.
+**1 · Se copia esta carpeta entera al proyecto.**
 
-**2.** Se llenan los renglones vacíos de `autoridad.md`, `proposito.md` y `cuerpo.md`.
+**2 · Se renombran dos archivos.** **Y hay que hacerlo, porque el nombre que el motor lee no puede estar aquí dentro:**
 
-**3.** Se escriben los temas en `indice/`, uno por archivo, cuando aparezcan.
+```plaintext
+hoja de reglas.md   ->  AGENTS.md          en la raíz del proyecto
+skills/ente/la habilidad.md  ->  skills/ente/SKILL.md
+```
 
-**4.** Y se trabaja.
+**Y por qué se renombran al copiar y no vienen ya puestos:** **si estos dos archivos tuvieran su nombre dentro de este repositorio, el motor de cualquiera que lo abriera los leería como si fueran sus instrucciones.** **Y aplicaría las reglas de un ente a un proyecto que no es ese ente, sin que nadie se lo pidiera.**
 
-**Y no hay que instalar nada del motor ni elegir nada.** **El stack ya viene puesto, y se cambia en la tabla del stack si se quiere otro.**
+**3 · Se llenan los renglones vacíos** de `autoridad.md`, `proposito.md` y `cuerpo.md`.
+
+**4 · Se escriben los temas en `indice/`**, uno por archivo, cuando aparezcan.
+
+**5 · Se crea `registro.db`.** **Nace vacío la primera vez.**
+
+**6 · Y se trabaja.**
 
 ---
 
-## Qué queda en el proyecto
+## Cómo se ve el proyecto después
 
 ```plaintext
 mi-proyecto/
-  AGENTS.md          la hoja que se obedece, y no se edita
-  autoridad.md       quién decide lo que el ente no
-  proposito.md       para qué existe
-  cuerpo.md          qué modelo piensa
-  indice/            los temas, y su borde
-  skills/ente/       la habilidad, por si el stack lee habilidades
-  registro.db        los hechos, las fricciones y los desenlaces
+  AGENTS.md              ← era "hoja de reglas.md"
+  autoridad.md
+  proposito.md
+  cuerpo.md
+  indice/
+  skills/ente/SKILL.md   ← era "la habilidad.md"
+  registro.db
 ```
 
-**Y `registro.db` nace vacío la primera vez.**
+**Y los seis pasos de arriba son todo.** **No hay nada que instalar, ni qué registrar, ni qué configurar en ningún lado.**
 
 ---
 
 ## Qué stack trae
 
-| La pieza | Qué es |
-|---|---|
-| **el motor** | **donde el ente vive** |
-| **el catálogo** | **lo que hay disponible para instalar** |
-| **la base** | **donde vive el criterio: un grafo, porque el índice lo es** |
+**Una versión con un stack ya elegido:** **un motor donde el ente vive, un catálogo de lo que se puede instalar, y una base donde vive el criterio.**
 
 **Y el catálogo no es para instalar esto: es para instalar lo que el ente necesite usar.**
+
+**Si se quiere otro stack, se cambia ahí.** **La carpeta funciona igual, porque lo que pide es una carpeta de texto y un registro.**
 
 ---
 
@@ -59,6 +68,6 @@ mi-proyecto/
 
 **Se dice qué falta, con nombre.** **Y no se rellena el hueco con lo que parecía.**
 
-**Y si lo que falla es el stack, y no la hoja, eso también se dice: es del stack, y no del ente.**
+**Y si lo que falla es el stack y no la hoja, eso también se dice: es del stack, y no del ente.**
 
-**Falsificador:** una carpeta copiada con los renglones vacíos. **La señal, en el acto:** **el ente trabaja y no sabe quién decide.**
+**Falsificador:** una carpeta copiada sin renombrar los dos archivos. **La señal, en el acto:** **el motor no lee nada y el ente trabaja sin reglas.**
