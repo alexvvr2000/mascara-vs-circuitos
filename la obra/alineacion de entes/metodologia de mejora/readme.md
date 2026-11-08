@@ -45,7 +45,7 @@ y el stack      es una implementación de la conclusión. hay muchas
 1. metodo.md          el ejercicio: el ciclo entero, qué se apunta, los
                       defectos que se repiten, cuándo se para, y lo que
                       pasa cuando el que corre ya no entiende lo que corre
-2. corridas/          las dieciséis veces que se corrió, en orden
+2. corridas/          las diecisiete veces que se corrió, en orden
 ```
 
 **Y cada corrida tiene dos cosas:**
@@ -74,16 +74,17 @@ corridas/ente N - NOMBRE/
 | **[14 · PISO SANO](corridas/ente%2014%20-%20PISO%20SANO/documentacion.md)** | la tarea que sí cabe, y el cierre limpio | **3** |
 | **[15 · LIMPIA](corridas/ente%2015%20-%20LIMPIA/documentacion.md)** | el no de la autoridad, y el supuesto roto | **2** |
 | **[16 · NUNCA SE BORRA](corridas/ente%2016%20-%20NUNCA%20SE%20BORRA/documentacion.md)** | el no que no se puede borrar, y las llaves apagadas | **1** |
+| **[17 · TRES NOES](corridas/ente%2017%20-%20TRES%20NOES/documentacion.md)** | cuatro noes, la corrección, y el cuerpo que falta | **3** |
 
-**Y las dieciséis carpetas se leen en orden, porque cada una corrige la anterior.**
+**Y las diecisiete carpetas se leen en orden, porque cada una corrige la anterior.**
 
 ---
 
 ## Y una cosa que se dice antes de que la descubran
 
-**Las dieciséis tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
+**Las diecisiete tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
 
-**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay dieciséis intentos, y el bueno es el que salga después.**
+**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay diecisiete intentos, y el bueno es el que salga después.**
 
 ---
 

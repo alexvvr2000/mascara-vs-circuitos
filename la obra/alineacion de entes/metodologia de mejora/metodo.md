@@ -470,13 +470,13 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 ## XI. Lo que se dice hoy
 
-**Dieciséis corridas, y treinta y tres detalles que los ensayos no decían.**
+**Diecisiete corridas, y treinta y seis detalles que los ensayos no decían.**
 
 **El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](readme.md).** **Aquí sólo lo que se puede decir del conjunto:**
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
-                   · 2 · 2 · 1 · 2 · 3 · 2 · 1, y no tiende a cero
+                   · 2 · 2 · 1 · 2 · 3 · 2 · 1 · 3, y no tiende a cero
 
 lo que cambió      la clase. las primeras eran de mecanismo: algo no
                    estaba y hubo que inventarlo. las últimas son de
@@ -493,12 +493,17 @@ en la 16           es suya: prender las llaves foráneas. con las llaves
                    dieciséis corridas no lo vieron porque cada script
                    las prendía antes de probar
 
+lo que apareció    la corrección. un hecho corregido dos veces sóla enseña
+en la 17           la última, porque la corrección era una columna; y el
+                   supuesto que se apoyaba en ese hecho se quedo roto.
+                   la corrección es un enlace, no una marca
+
 lo que sigue       el cero. dos corridas de forma seguidas no han
 sin resolverse     pasado nunca, así que la regla de parada no se ha
                    ejercitado
 ```
 
-**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **dieciséis corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en dieciséis corridas es sospechoso; uno que sigue encontrando detalles después de dieciséis es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
+**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **diecisiete corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en diecisiete corridas es sospechoso; uno que sigue encontrando detalles después de diecisiete es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
 
 **Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.**
 

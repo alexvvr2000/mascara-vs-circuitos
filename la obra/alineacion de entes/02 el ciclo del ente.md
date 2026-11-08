@@ -584,6 +584,12 @@ Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cie
 
 Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
 
+Y una quinta, que se vio al saltarse el paso: si el cuerpo no está declarado, el cierre tiene que decirlo.
+
+El cuerpo es opcional, y por eso se olvida. Y no se nota al abrir: se nota al escribir el primer hecho, cuando el hecho apunta a un cuerpo que no existe y la escritura falla. Ése es el peor momento para enterarse, porque el trabajo ya empezó.
+
+Así que el cierre mira si el cuerpo está, y si no está lo dice con esas palabras: «el cuerpo no se declaró, y los hechos que vengan tampoco lo van a llevar».
+
 Y una quinta, que es la que se descubrió probando el no: el no de la autoridad no es una marca que se apaga.
 
 ```plaintext

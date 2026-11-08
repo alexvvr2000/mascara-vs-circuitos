@@ -161,6 +161,14 @@ Y en el otro extremo hay un error simétrico, que casi nadie mira: un supuesto q
 
 Un supuesto se rompe contra un hecho, y ese hecho es del registro. Si no está, no se rompió: se supuso que se rompió, que es peor que el supuesto original, porque ahora parece corregido.
 
+Y una tercera, que se ve cuando un hecho se corrige: la corrección no es una columna del hecho viejo.
+
+Una columna que dice «me corrigió el 4» admite que se sobrescriba. Y entonces la corrección del 2 deja de verse, y no se borró: se tapó, que es peor, porque un registro tapado se lee como uno limpio.
+
+La corrección es un enlace: el hecho nuevo apunta al viejo, se puede corregir muchas veces, y todas las correcciones se ven. La última no tapa a las anteriores.
+
+Y si el hecho viejo era el apoyo de un supuesto roto, corregirlo reabre el supuesto. Pero eso sólo pasa si el que corrige marca el viejo en la misma operación. Si la marca es un paso aparte, se puede olvidar, y el supuesto se queda roto contra algo que ya no dice lo que decía.
+
 Y hay una cosa más, y es la que casi nadie mira: que el registro rechace lo que debe no depende del registro. Depende de quien lo abre.
 
 Lo que el registro no deja pasar tiene que estar en el registro mismo, y no en una instrucción que alguien da antes de tocarlo. Si rechazar depende de que quien llega se acuerde de algo, no hay regla: hay costumbre.
