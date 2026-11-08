@@ -1,170 +1,61 @@
-# Metodología de mejora
+# Metodología
 
-**Un ejercicio de pensamiento para que `TESTIGO` ayude, con su no ego, a ver los detalles que se escapan de los ensayos. Los ensayos dicen lo importante; esto no.**
+**Cómo se sabe si los ensayos están completos, y cómo se llegó hasta aquí.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
-
----
-
-## Qué es esto
-
-**No es un método que crece. Es un ejercicio que se corre para encontrar lo que el ensayo no dice.**
-
-**Y el que lo corre no es un evaluador: es `TESTIGO`, que no tiene ego.** **Por eso sirve: porque no defiende nada, y ve lo que quien escribió el ensayo ya no ve.**
-
-**Los ensayos de al lado (`01 que es un ente` … `10 maquina de sesgos`) dicen lo importante.** **Aquí está lo que se les escapa.**
-
-**Y no por opinión: por corrida.** **Se levanta un ente desde cero, usando sólo los ensayos, y lo que haya que inventar es un detalle que faltaba.**
+**Y tiene dos carpetas, porque hay dos cosas distintas dentro.**
 
 ---
 
-## Y por qué esto no es infinito
+## Las dos carpetas
 
-**En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia.** **Nadie escribe todas las cifras de un número que no termina; se escribe lo que sigue, y con eso ya se calcula.**
+| La carpeta | De quién es | Qué tiene |
+|---|---|---|
+| **`usuario/`** | **de quien llega** | **lo que sirve con cualquier proyecto y cualquier stack** |
+| **`autor/`** | **de quien escribió esto** | **lo que hizo este autor, y con qué se llegó hasta aquí** |
 
-**Con un ensayo pasa igual:** **no hay un día en que diga todo lo que hay que decir, y buscarlo es buscar un número que no termina.** **Lo que sí termina es la lista de lo que afirma, y cada cosa que afirma se puede romper a propósito.**
+**Y la regla para saber cuál es cuál, que se aplica a todo lo que se agregue:**
 
-**Ése es el [plan de prueba de criterio](../ciclo/como%20se%20sabe%20cuando%20esta.md), y es lo que convierte «ya casi» en una resta.**
+> **Si nombra una máquina, una versión, una sesión o una fecha de este trabajo, es de `autor/`.** **Si sirve con otro proyecto y otro stack, es de `usuario/`.**
 
 ---
 
-## La cadena, que es lo que ordena todo
+## `usuario/`
 
-```plaintext
-esta carpeta    saca material
-la obra         es el material
-y el stack      es una implementación de la conclusión. hay muchas
-```
+**Lo que se puede aplicar a cualquier cosa que se levante.**
 
-**Lo que sale de una corrida tiene dos destinos, y no son el mismo:**
-
-| Lo que sale | A dónde va |
+| El archivo | Qué dice |
 |---|---|
-| **algo que el ensayo no decía** | **al ensayo, y ahí se queda** |
-| **algo que sólo existe porque el stack es éste** | **a la documentación de la corrida, y no toca el ensayo** |
+| **[`metodo.md`](usuario/metodo.md)** | **el ejercicio: cómo se corre un ciclo entero, qué se apunta, cuándo se para, y qué no puede contestar** |
+| **[`herramientas/`](usuario/herramientas/)** | **`stats.py`: qué costó una sesión, en tokens medidos. y `publicar.py`, con `cruzar.py`, para recortar lo que se publique y saber qué costó cada hallazgo** |
 
-**Y la distinción tiene un nombre, y es lo que hay que hacer en el acto:** **si el hallazgo necesita nombrar una herramienta, va al segundo renglón.** **Un ensayo no habla de llaves foráneas, ni de disparadores, ni de ninguna pieza de un motor: habla de lo que el ente tiene que hacer, y el stack decide cómo.**
-
-**Y el límite, que es el que se tiene que vigilar:** **si una corrida deja material que no va a ningún ensayo, la corrida no enseñó nada del ente.** **Sirve para el que va a usar este stack, y eso está bien: pero entonces no cuenta para la regla de parada, porque la regla cuenta detalles de los ensayos.**
+**Y el ciclo, que es la parte práctica, está en [`../../ciclo/`](../ciclo/):** **cómo se corre, cómo se sabe cuándo está, y los mutantes de cada regla.**
 
 ---
 
-## Cómo se lee
+## `autor/`
+
+**Lo que pasó aquí, con fecha.**
+
+| La carpeta | Qué tiene |
+|---|---|
+| **[`corridas/`](autor/corridas/)** | **las dieciocho veces que se corrió, y qué le faltó a cada una** |
+| **[`mutantes/`](autor/mutantes/)** | **los trece que se corrieron, y sus veredictos** |
+| **[`historia/`](autor/historia/)** | **el registro: qué se hizo, qué se creía, y qué se cayó** |
+
+**Y esto no es un adorno.** **Lo que se aprendió en las dieciocho corridas está en los ensayos, y la manera de comprobarlo está en `usuario/`.** **Pero el camino que se recorrió para saberlo sólo se entiende leyendo `autor/`.**
+
+---
+
+## Cómo se lee esto
 
 ```plaintext
-1. metodo.md          el ejercicio: el ciclo entero, qué se apunta, los
-                      defectos que se repiten, cuándo se para, y lo que
-                      pasa cuando el que corre ya no entiende lo que corre
-2. criterio/          cómo se sabe cuándo está
-     plan.md            los mutantes, y el conteo de reglas
-     jerarquia.md       por qué no hay que correrlos todos
-     familias.md        las catorce familias, y su regla madre
-     inclusion.md       la tabla de inclusión, y por qué casi no ahorra
-     mutantes.md        los catorce, con su línea concreta
-     piso minimo.md     qué hace falta para empezar, y no el final
-3. herramientas/      stats.py: qué costó cada sesión, en tokens medidos.
-                      no dice dinero, y no es un olvido
-4. mutantes/          los catorce, escritos, y los que ya se corrieron
-5. historia/          cómo se hizo: los comandos, qué cambió en cada
-                      corrida, y las ideas que llegaron tarde
-4. corridas/          las dieciocho veces que se corrió, en orden
+si se quiere correr un ciclo         ->  ../../ciclo/  y luego usuario/metodo.md
+si se quiere saber qué pasó aquí     ->  autor/
+si se quiere cambiar algo de esto    ->  usuario/  (y se dice en autor/ que cambió)
 ```
 
-**Y cada corrida tiene dos cosas:**
-
-```plaintext
-corridas/ente N - NOMBRE/
-  ente/               lo que se levantó, tal cual corrió
-  documentacion.md    qué pasó, y qué detalle faltaba
-```
-
-### Los mutantes
-
-**Los catorce, escritos en [`ciclo/los%20mutantes.md`](../ciclo/los%20mutantes.md).** **Y los que se corrieron:**
-
-| Mutante | Qué rompe | Veredicto |
-|---|---|---|
-| **[m1 · el ente cierra](mutantes/m1%20-%20el%20ente%20cierra/documentacion.md)** | ¿la corrida nota que el ente se cierra solo? | **muerto** |
-| **[m2 · el piso estima](mutantes/m2%20-%20el%20piso%20estima/documentacion.md)** | ¿el ente dice «si cabe» sin medir el piso? | **muerto** |
-| **[m3 · el borde guarda](mutantes/m3%20-%20el%20borde%20guarda/documentacion.md)** | ¿el casi se queda dentro, y sin motivo? | **muerto** |
-| **[m4 · el sesgo neutral](mutantes/m4%20-%20el%20sesgo%20neutral/documentacion.md)** | ¿el registro dice «neutral» con dos de tres aceptadas? | **muerto** |
-| **[m5 · talentos sin registro](mutantes/m5%20-%20talentos%20sin%20registro/documentacion.md)** | ¿da un número sin poder señalar el renglón? | **muerto** |
-| **[m6 · el ensayo sostiene lo que propone](mutantes/m6%20-%20sesgos%20como%20hecho/documentacion.md)** | ¿sostiene como hecho lo que el ensayo declara no probado? | **muerto** |
-| **[m7 · el proceso sin cuándo](mutantes/m7%20-%20el%20proceso%20sin%20cuando/documentacion.md)** | ¿el proceso se corre si no dice cuándo? | **muerto** |
-| **[m8 · el índice a mano](mutantes/m8%20-%20el%20indice%20a%20mano/documentacion.md)** | ¿se puede rearmar el índice sin la forma? | **muerto** |
-| **[m9 · el descarte vacío](mutantes/m9%20-%20el%20descarte%20vacio/documentacion.md)** | ¿la decisión se guarda con el descarte en blanco? | **muerto** |
-| **[m10 · la afirmación sin respaldo](mutantes/m10%20-%20la%20afirmacion%20sin%20respaldo/documentacion.md)** | ¿se usa una afirmación sin dónde vive ni qué la tumba? | **muerto** |
-| **[m11 · el ente por dentro](mutantes/m11%20-%20el%20ente%20por%20dentro/documentacion.md)** | ¿decide si algo es un ente mirando adentro? | **muerto** |
-| **[m12 · el hecho sin desenlace](mutantes/m12%20-%20el%20hecho%20sin%20desenlace/documentacion.md)** | ¿cuenta como cerrado lo que nunca se volvió a probar? | **muerto** |
-| **[m13 · la pregunta con jerga](mutantes/m13%20-%20la%20pregunta%20con%20jerga/documentacion.md)** | ¿la persona puede contestar la pregunta sola? | **muerto** |
-
-### Las corridas
-
-| Ente | Qué se probaba | Huecos |
-|---|---|---|
-| **[1 · PRUEBA](corridas/ente%201%20-%20PRUEBA/documentacion.md)** | el ciclo de punta a punta | **5** |
-| **[2 · VARA](corridas/ente%202%20-%20VARA/documentacion.md)** | el borde sobre campos de la pieza | **3** |
-| **[3 · PIEDRA](corridas/ente%203%20-%20PIEDRA/documentacion.md)** | el «casi»: que llegue a usarse | **2** |
-| **[4 · CANTERA](corridas/ente%204%20-%20CANTERA/documentacion.md)** | la zona gris: lo obvio y lo que no | **3** |
-| **[5 · 2026-11-05_153210](corridas/ente%205%20-%202026-11-05_153210/documentacion.md)** | la cuarta salida: «no es de este tema» | **2 cerrados** |
-| **[6 · FUENTE](corridas/ente%206%20-%20FUENTE/documentacion.md)** | la prueba de fuentes | **0 del ensayo · 2 de la fuente** |
-| **[7 · PISO](corridas/ente%207%20-%20PISO/documentacion.md)** | el piso: medir antes de prometer | **2** |
-| **[8 · FRONTERA](corridas/ente%208%20-%20FRONTERA/documentacion.md)** | el paso 3 en cuatro columnas | **3** |
-| **[9 · TAREA](corridas/ente%209%20-%20TAREA/documentacion.md)** | el pedido por tarea, no por herramienta | **2** |
-| **[10 · CRECE](corridas/ente%2010%20-%20CRECE/documentacion.md)** | el piso que crece | **2** |
-| **[11 · HAY](corridas/ente%2011%20-%20HAY/documentacion.md)** | la salida de un `hay` | **2** |
-| **[12 · CICLO](corridas/ente%2012%20-%20CICLO/documentacion.md)** | los once pasos, y el cierre con firma | **1** |
-| **[13 · DOS TAREAS](corridas/ente%2013%20-%20DOS%20TAREAS/documentacion.md)** | el solapamiento, dos autoridades, el piso roto | **2** |
-| **[14 · PISO SANO](corridas/ente%2014%20-%20PISO%20SANO/documentacion.md)** | la tarea que sí cabe, y el cierre limpio | **3** |
-| **[15 · LIMPIA](corridas/ente%2015%20-%20LIMPIA/documentacion.md)** | el no de la autoridad, y el supuesto roto | **2** |
-| **[16 · NUNCA SE BORRA](corridas/ente%2016%20-%20NUNCA%20SE%20BORRA/documentacion.md)** | el no que no se puede borrar, y las llaves apagadas | **1** |
-| **[17 · TRES NOES](corridas/ente%2017%20-%20TRES%20NOES/documentacion.md)** | cuatro noes, la corrección, y el cuerpo que falta | **3** |
-| **[18 · CADENA](corridas/ente%2018%20-%20CADENA/documentacion.md)** | la corrección como enlace, y lo que se puede borrar | **2** |
-
-**Y las dieciocho carpetas se leen en orden, porque cada una corrige la anterior.**
-
 ---
 
-## Y una cosa que se dice antes de que la descubran
+## Falsificador
 
-**Las dieciocho tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
-
-**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay dieciocho intentos, y el bueno es el que salga después.**
-
----
-
-## Y el detalle de cómo se hizo
-
-**Los ensayos dicen qué tiene que pasar. Aquí está cómo se llegó a saberlo.**
-
-**Y eso incluye lo que no funcionó.** **En `historia/` están los comandos exactos, qué cambió en cada una de las dieciocho corridas y por qué, lo que se creía que era llegar al criterio antes de saberlo, y la idea de los subagentes con su mitad buena y su mitad mala.**
-
-**No es un resumen: es el recorrido, con sus fechas.**
-
----
-
-## Lo que esto no hace
-
-- **No dice que los ensayos estén completos.** **Dice qué detalles se les escapan, hasta la última corrida.**
-- **No engorda el método.** **Los ensayos dicen lo importante: si algo de aquí se vuelve regla general, lo que creció es esto, y no el producto.**
-- **No prueba que funcione con otro autor.** **Se ha corrido con este, y con este dueño.**
-
-**Y la línea que lo hace confiable:** **si una corrida no encontró nada, se dice que no encontró nada — y se busca a propósito antes de darlo por bueno.**
-
----
-
-## Cómo se corre una vez más
-
-```plaintext
-1. se leen los ensayos de al lado, sin mirar las corridas de aquí
-2. se levanta un ente desde cero, en una carpeta nueva con fecha y hora
-3. se corre entero, y todo lo que haya que inventar es un detalle que falta
-4. el ente se queda aquí, y el detalle se cierra en el ensayo
-5. se repite. y no se para en «no encontré nada»
-```
-
-**Y faltan cuatro pasos que no están en este repo, y son de quien corre:** **el que corre se mejora a sí mismo al final de cada corrida.** **Su puerta aprende la regla que la corrida cambió, y su banco se muda al esquema que la corrida dejó.**
-
-**Está en el §III del ejercicio, y se publica por un motivo:** **el que corra esto tiene que saber que le toca a él, y no sólo al papel.**
-
-**Y aquí no la va a haber: el ensayo se prueba levantándolo, no escribiendo cómo se levanta. Una guía sin probar es una promesa, y este repositorio no publica promesas.**
+**Una carpeta de metodología donde no se distingue lo que sirve para cualquiera de lo que pasó una vez.** **La señal, en el acto:** **que alguien que llegue tenga que leer las dieciocho corridas para saber cómo se corre la primera.**

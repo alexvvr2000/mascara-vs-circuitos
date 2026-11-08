@@ -223,12 +223,12 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El piso se mide antes de prometer, y se dice qué falta | [`ente 7`](../metodologia/corridas/ente%207%20-%20PISO/) | cuatro cosas faltaban, dichas por su nombre antes de que nadie pidiera nada |
-| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](../metodologia/corridas/ente%207%20-%20PISO/) | se guardó el `Traceback`, y esa es la corrección que este ensayo ya incorpora |
-| El ente contesta por tarea y no buscando palabras | [`ente 9`](../metodologia/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
-| El piso no se puede medir a ciegas | [`ente 9`](../metodologia/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
-| El piso crece con cada tarea que no pudo contestar | [`ente 10`](../metodologia/corridas/ente%2010%20-%20CRECE/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
-| La salida de un `hay` prueba la herramienta, y no el programa | [`ente 11`](../metodologia/corridas/ente%2011%20-%20HAY/) | **falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía** |
+| El piso se mide antes de prometer, y se dice qué falta | [`ente 7`](../metodologia/autor/corridas/ente%207%20-%20PISO/) | cuatro cosas faltaban, dichas por su nombre antes de que nadie pidiera nada |
+| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](../metodologia/autor/corridas/ente%207%20-%20PISO/) | se guardó el `Traceback`, y esa es la corrección que este ensayo ya incorpora |
+| El ente contesta por tarea y no buscando palabras | [`ente 9`](../metodologia/autor/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
+| El piso no se puede medir a ciegas | [`ente 9`](../metodologia/autor/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
+| El piso crece con cada tarea que no pudo contestar | [`ente 10`](../metodologia/autor/corridas/ente%2010%20-%20CRECE/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
+| La salida de un `hay` prueba la herramienta, y no el programa | [`ente 11`](../metodologia/autor/corridas/ente%2011%20-%20HAY/) | **falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía** |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

@@ -199,10 +199,10 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El hecho se apunta sin resumir | [`ente 1 - PRUEBA`](../metodologia/corridas/ente%201%20-%20PRUEBA/) | el primer registro completo: fecha, frase literal y medida |
-| La fricción necesita su porqué, o es un lamento | [`ente 2 - VARA`](../metodologia/corridas/ente%202%20-%20VARA/) | las fricciones sin razón no se podían volver a leer |
-| Sin desenlace no hay criterio | [`ente 6 - FUENTE`](../metodologia/corridas/ente%206%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
-| El criterio es del ente y el sesgo del cuerpo | [`ente 6 - FUENTE`](../metodologia/corridas/ente%206%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
+| El hecho se apunta sin resumir | [`ente 1 - PRUEBA`](../metodologia/autor/corridas/ente%201%20-%20PRUEBA/) | el primer registro completo: fecha, frase literal y medida |
+| La fricción necesita su porqué, o es un lamento | [`ente 2 - VARA`](../metodologia/autor/corridas/ente%202%20-%20VARA/) | las fricciones sin razón no se podían volver a leer |
+| Sin desenlace no hay criterio | [`ente 6 - FUENTE`](../metodologia/autor/corridas/ente%206%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
+| El criterio es del ente y el sesgo del cuerpo | [`ente 6 - FUENTE`](../metodologia/autor/corridas/ente%206%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

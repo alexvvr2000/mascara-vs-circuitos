@@ -31,7 +31,7 @@ Alejandro Valenzuela Rivera.
 >
 > **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y con qué se sabría.
 >
-> **[El registro de cómo se llegó](la%20obra/metodologia/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
+> **[El registro de cómo se llegó](la%20obra/metodologia/autor/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
 >
 > **Y por qué las dos:** **esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó.** **Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas.** **Con el camino a la vista, hay una tercera: revisarlo.**
 
@@ -198,12 +198,18 @@ Los límites, dichos con nombre:
      13  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
      14  lo inexplicable        cómo se escribe «cuánto falta» cuando no hay final
 
-5. la obra/metodologia/     CÓMO SE LLEGÓ
-     metodo.md                  el ejercicio: cómo se corre y cuándo se para
-     corridas/                  las dieciocho, y qué le faltó a cada una
-     mutantes/                  los trece corridos
-     herramientas/              stats.py: qué costó, en tokens medidos
-     historia/                  el registro, con fecha y con los errores
+5. la obra/metodologia/     CÓMO SE LLEGÓ, Y CÓMO SE SIGUE
+     usuario/                   lo que sirve con cualquier stack
+       metodo.md                  el ejercicio: cómo se corre y cuándo se para
+       herramientas/              stats.py: qué costó, en tokens medidos
+     autor/                     lo que pasó aquí, con fecha
+       corridas/                  las dieciocho, y qué le faltó a cada una
+       mutantes/                  los trece corridos
+       historia/                  el registro, y los ocho errores propios
+
+6. implementacion/          DONDE SE DEJA, Y CON QUÉ SE SIGUE SIN EL AUTOR
+     autor/                     el stack elegido, y el punto donde se deja
+     usuario/                   el formato vacío, para llenarlo con lo que se quiera
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
@@ -277,7 +283,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 **Y eso no es una frase amable: es la condición del trabajo.** **Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
 
-**Y el stack que se eligió está en [`los papeles/implementacion del autor/stack.md`](los%20papeles/implementacion%20del%20autor/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
+**Y el stack que se eligió está en [`implementacion/autor/stack.md`](implementacion/autor/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
 
 
 **Y una distinción que ahí se hace y conviene saber antes:** **el motor y el mercado son gusto; la base de grafos no lo es.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones, y `graphdblite` es una base de grafos embebida con Cypher.** **Un motor es un motor; un grafo no es una tabla.**
