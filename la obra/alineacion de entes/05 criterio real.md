@@ -157,6 +157,10 @@ De ahí la regla, y es incómoda:
 
 > Un cero no es un resultado. Es la ausencia de búsqueda.
 
+Y en el otro extremo hay un error simétrico, que casi nadie mira: un supuesto que se rompe contra algo que no existe. El registro dice «se rompió», y no dice contra qué, o dice contra un hecho que no está en ninguna parte.
+
+Un supuesto se rompe contra un hecho, y ese hecho es del registro. Si no está, no se rompió: se supuso que se rompió, que es peor que el supuesto original, porque ahora parece corregido.
+
 Y no se arregla corriendo otra vez, porque la segunda vez busca el mismo que la primera, y busca donde ya sabe. Se arregla con alguien que no estaba: una persona que abra el registro y pregunte por lo que no está.
 
 Y mientras esa persona no exista, el cero se escribe como cero, con esa palabra. No como limpio, no como completo, no como superado.

@@ -548,7 +548,22 @@ lo que sí         que el cierre lleve su propio registro: que se preguntó,
 
 Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cierra porque alguien contestó una pregunta. Si eso no queda en un campo, la diferencia entre haber preguntado y haber supuesto vive en la redacción, y la redacción se escribe sola.
 
-Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
+Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
+
+Y una quinta, que es la que se descubrió probando el no: el no de la autoridad no es una marca que se apaga.
+
+```plaintext
+lo que NO basta   impedir que un propósito rechazado se cierre.
+                  eso deja pasar el caso que se estaba probando:
+                  se apaga la marca, y el propósito se cierra como
+                  si nunca hubieran dicho que no
+
+lo que sí         que el no sea un registro con su fecha y su razón,
+                  y que no se pueda deshacer. un no que se puede
+                  borrar no fue un no: fue una pausa
+```
+
+Y el límite, que se dice: el ente no decide si el no fue justo. Lo que hace es que el no quede, y que volver a proponer el mismo propósito no borre el que hubo. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
 
 **Falsificador:** un ente que pregunta lo que ya está escrito en lo que pasó; uno que cierra solo un propósito que no decía cuándo estaba cumplido; y un cierre sin nombre, o con un nombre escrito a mano.
 
