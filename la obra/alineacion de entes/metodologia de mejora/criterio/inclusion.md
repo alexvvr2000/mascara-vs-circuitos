@@ -1,130 +1,124 @@
-# La tabla de inclusión — familia por familia
+# La tabla de inclusión — las catorce familias
 
-**Para cada familia: cuál es la madre, cuáles son sus hijas, y si la hija muere cuando muere la madre.**
+**Cuántas reglas hay de verdad, y cuántas hay que correr.**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 
 ---
 
-## Cómo se llena esta tabla, y qué significa cada columna
+## El resultado, primero
+
+**La jerarquía de inclusión no ahorra casi nada, y se sabe por qué.**
 
 ```plaintext
-la regla     la línea del ensayo, tal como está escrita
-la madre     cuál es la regla que la contiene, si tiene
-¿muere?      si al romper la madre, esta regla también se rompe
-             sí   → se da por muerta por inclusión, y se dice
-             no   → se corre aparte
+las reglas de estos ensayos no son unas casos de otras.
+son puntos distintos, y cada uno se puede cumplir o incumplir solo.
 ```
 
-**Y el criterio para decir «sí»:** **la regla hija es un caso, una parte, o una condición de la madre.** **Si al quitar la madre no queda dónde cumplir la hija, la hija muere.**
-
-**Y el criterio para decir «no», que es el que se olvida:** **la hija puede fallar sola.** **La madre puede estar rota y la hija correcta, o al revés.**
-
----
-
-# Familia 1 · El ciclo, paso por paso — 145 reglas
-
-**La madre:** **«el ciclo se corre entero: del primer paso al último, sin saltarse ninguno.»** **Mutante 1, muerto.**
-
-**Y sus hijas son los nueve pasos, más las reglas de cada paso.**
-
-| Regla hija | ¿Muere con la madre? | Por qué |
-|---|---|---|
-| **paso 0 · las cuatro piezas antes de nada** | **NO** | se puede correr entero y sin las cuatro piezas: la corrida camina y el ente no es un ente |
-| **paso 0a · el cuerpo, opcional y se avisa** | **NO** | el ciclo entero corre sin cuerpo; lo que falla es el registro, no el paso |
-| **paso 0b · entiende antes de recibir** | **NO** | se entiende después; el ciclo camina y el pedido queda mal |
-| **paso 1 · recibe la frase literal** | **NO** | se puede recibir una paráfrasis y el ciclo no se entera |
-| **paso 2 · consulta el índice antes de decidir** | **NO** | se decide sin índice, y el ciclo sigue |
-| **paso 3 · decide, con la frontera de la autoridad** | **NO** | es el paso entero: el ciclo corre y la autoridad no existe |
-| **paso 4 · contesta** | **NO** | se contesta mal y el ciclo camina |
-| **paso 5 · apunta** | **NO** | se corre sin apuntar, y no queda rastro |
-| **paso 6 · se corrige, y aprende de qué cuerpo** | **NO** | no hay corrección, y el ciclo termina igual |
-| **y el cierre: el ente propone, la autoridad cierra** | **NO** | **lo corrió el mutante 1, y murió por su cuenta** |
-
-### Y esto es el resultado de la tabla, y es incómodo
-
-**De 145 reglas de la familia del ciclo, la madre mata… una.**
-
-**Y las nueve del ciclo no mueren con ella, porque no son casos de la madre: son sus partes.** **Quitar el ciclo entero no rompe el paso 3: quita el paso 3.**
-
-**La inclusión es al revés de lo que el plan esperaba.** **No es que las hijas mueran con la madre: es que cada paso es su propia madre, y los nueve no están probados.**
-
-**Y eso hay que decirlo así de claro:** **la jerarquía no ahorra trabajo en esta familia. Lo multiplica: hay nueve madres, no una.**
-
----
-
-# Familia 2 · El piso — 58 reglas
-
-**La madre:** **«el piso se mide antes de prometer.»** **Mutante 2, muerto.**
-
-| Regla hija | ¿Muere con la madre? | Por qué |
-|---|---|---|
-| **la salida de un `no hay` nombra la herramienta** | **NO** | se mide y se guarda el `Traceback`: la madre cumple, la hija no |
-| **la salida de un `hay` se puede volver a correr** | **NO** | se mide y se guarda la salida de otro programa: la madre cumple, la hija no |
-| **la medición y la tarea que la declara son la misma** | **NO** | se mide y se enlaza a otra tarea: la madre cumple, la hija no |
-| **las mediciones repetidas se quedan, con su fecha** | **NO** | se mide una vez y se borra: la madre cumple, la hija no |
-| **el `y si duda` del borde…** | — | no es de esta familia |
-| **el piso roto se vuelve a medir entero** | **NO** | se mide al arrancar y nunca más: la madre cumple |
-
-**Otra vez: la madre mata una. Las otras cuatro no mueren con ella.**
-
----
-
-# Lo que la tabla dice del método, y no es lo que se esperaba
-
-**El plan decía que con catorce madres se corría catorce veces.** **La tabla dice otra cosa.**
+**Y el ahorro real, medido sobre las familias que se revisaron una por una:**
 
 ```plaintext
-las familias no son jerarquías: son listas
-cada regla importante es su propia madre
-y la inclusión, cuando existe, no es por contener sino por depender
+reglas revisadas          203   (el ciclo y el piso)
+muertas por inclusión       0
+que hay que correr        203
 ```
 
-**Una regla hija depende de la madre cuando** **sin la madre no hay con qué cumplirla.** **Y eso pasa poco: casi todas las reglas de estos ensayos se pueden cumplir por separado.**
-
-**Lo que sí es cierto, y es todo lo que la jerarquía da:** **un mutante con dos hijas que dependen de él ahorra dos corridas.** **Y son pocas.**
+**Cero.** **Y el número no se va a estirar para que el plan se vea mejor.**
 
 ---
 
-## Y el número honesto, ahora que la tabla está a medio llenar
+## Las catorce, con su madre y su resultado
 
-**No se pueden contar las 417 sin hacer las catorce tablas.** **Llevo dos, y las dos dicen lo mismo.**
-
-**Y lo que se sabe con las dos hechas:**
-
-```plaintext
-reglas de las dos familias    203
-madres que las cubren         2
-hijas que mueren con su madre 0
-hijas que hay que correr      201
-```
-
-**Es decir: la jerarquía no ahorra nada en las dos familias más grandes.** **Y se dice antes de que alguien la use creyendo que ahorra.**
+| Familia | Reglas | Madre | ¿Cubre a las hijas? |
+|---|---|---|---|
+| **El ciclo, paso por paso** | 145 | «el ciclo se corre entero» | **no: los nueve pasos son partes, no casos** |
+| **El piso** | 58 | «el piso se mide antes de prometer» | **no: cada regla del piso se cumple sola** |
+| **El borde del tema** | 54 | «el borde no es una idea: es un dato» | **no: el casi, el solapamiento y el de persona son puntos distintos** |
+| **Los sesgos** | 38 | «el sesgo se declara con nombre» | **no: el origen, el cuerpo y la clase son tres campos, y cada uno falla solo** |
+| **La medición de talentos** | 33 | «cada número sale del registro» | **no: la varianza, los percentiles y el CRE fallan por separado** |
+| **La máquina de sesgos** | 25 | «distingue lo que demuestra de lo que propone» | **no: cada afirmación tiene su propio estado** |
+| **Escritura en procesos** | 22 | «un proceso dice cuándo se corre» | **no: también dice qué entra, qué sale y qué falla** |
+| **El índice** | 14 | «la forma es la fuente» | **parcialmente: tirar y rearmar sí cubre varias** |
+| **La frontera** | 13 | «el descarte no puede quedar vacío» | **no: la firma y la frontera fallan por separado** |
+| **Las afirmaciones** | 13 | «cada una dice dónde vive y qué la tumba» | **no: son dos campos, y fallan por separado** |
+| **Qué es un ente** | 12 | «se define por su rastro» | **no: recibe, decide, contesta y apunta son cuatro** |
+| **El criterio real** | 1 | «un hecho sin desenlace es una anécdota» | **es la madre y no tiene hijas** |
+| **Empatía** | 2 | «la pregunta no lleva jerga» | **no: son dos reglas distintas** |
+| **Conciencia** | 0 | — | **no afirma cómo funciona un ente: no hay regla** |
 
 ---
 
-## Lo que esto cambia del plan
-
-**El plan decía: catorce mutantes, y lo que sobreviva se abre.**
-
-**Lo que la tabla muestra: casi todas las reglas son madres de sí mismas.**
-
-**Así que hay dos caminos, y hay que elegir:**
+## El número que sale
 
 ```plaintext
-a) se corre una madre por familia, y las otras 403 reglas quedan sin
-   probar — y se dice que quedan sin probar
-
-b) se corre una regla importante por cada punto del ensayo, que son
-   muchas más de catorce, y se sabe cuántas después de contar
+reglas en los doce ensayos           417
+que no afirman nada de un ente        25   (conciencia: 0 · máquina de sesgos: 25
+                                            de borde, no de conducta)
+─────────────────────────────────────────
+reglas que un ente puede cumplir      392
+muertas por inclusión                   0
+que hay que correr                    392
 ```
 
-**Y la respuesta honesta es que (a) es lo que se puede hacer, y (b) es lo que hacía falta.** **El plan de catorce madres fue una optimización que la tabla desmiente.**
+**Y el dato que importa, y no es el del plan: son casi cuatrocientas, no catorce.**
+
+---
+
+## Por qué la jerarquía funcionó tan mal aquí
+
+**La inclusión existe para criterios de cobertura de código, donde una prueba cubre muchos caminos a la vez.** **Una prueba que ejecuta una función cubre sus cinco sentencias.**
+
+**Estas reglas no son así.** **Una regla se cumple o no se cumple, y cumplir una no implica cumplir otra.**
+
+```plaintext
+en código       cubrir A implica cubrir las sentencias que A ejecuta
+aquí            cumplir «el piso se mide» no implica cumplir «el `no hay`
+                nombra la herramienta»
+```
+
+**Y la razón de fondo, que es la que el ensayo dice en otra parte:** **una regla de conducta no contiene a otra: se suma a otra.**
+
+---
+
+## Lo que esto le hace al plan
+
+**El plan decía catorce corridas y catorce mutantes.** **La tabla dice: catorce familias y 392 reglas.**
+
+**Y las dos salidas, otra vez, con el número puesto:**
+
+```plaintext
+a) trece mutantes, uno por familia
+   → 13 reglas probadas de 392, y 379 sin probar, y se dice
+
+b) 392 reglas, una por una
+   → cada familia en detalle, y un número real
+```
+
+**Y una tercera, que no estaba en el plan y es la que el repo ya sabía hacer:**
+
+```plaintext
+c) las corridas
+   → no prueban una regla: prueban el ensayo entero con un caso nuevo.
+     treinta y ocho detalles en dieciocho corridas es más de dos por
+     corrida, y cada uno cerró una regla que nadie estaba buscando
+```
+
+**Y esa es la que hay que mirar en serio.** **Los mutantes prueban reglas que están escritas.** **Las corridas encuentran reglas que no lo están.**
+
+---
+
+## Lo que la tabla no pudo contar, y se dice
+
+- **No se hizo familia por familia:** **el «no» de las doce familias que faltan está deducido de su estructura, y no de una tabla como las dos primeras.** **Es una deducción y no una medida.**
+- **No se buscó ni una hija que dependa de su madre de verdad.** **Si existe, está en el índice, y no se buscó.**
+- **Y las 392 están contadas por el método anterior** —renglones de proceso, bloques, y negritas sueltas—, **que sobrecuenta y subcuenta.** **El número exacto no existe todavía; éste es el mejor que hay.**
 
 ---
 
 ## Falsificador
 
-**Una tabla de inclusión donde todo «muere con la madre».** **Suele significar que no se buscó el caso donde la hija falla sola.**
+**Una tabla de inclusión que dice «el 97% de las reglas mueren por inclusión».** **Suele salir de contar como hija a lo que en realidad es una paráfrasis de la madre.**
 
-**Y el más probable de todos, y es el que esta tabla acaba de cometer:** **escribir catorce madres, correr trece, y decir que se probaron 417 reglas.**
+**Y el que esta tabla comete, y se apunta:** **deducir el «no» de doce familias sin hacerles la tabla.** **Si una de esas doce sí ahorra, el número de 392 está alto y aquí se dijo.**
+
+**Y el más grande de todos:** **creer que reducir de 417 a 392 es un progreso.** **No lo es: es el mismo trabajo con el nombre correcto.**

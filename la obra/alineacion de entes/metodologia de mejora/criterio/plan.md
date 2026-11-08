@@ -50,7 +50,11 @@
 
 **De las 203 reglas de esas dos familias, la madre mata su propia regla y ninguna hija.** **Porque las reglas de estos ensayos no son unas casos de otras: son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
 
-**El plan de catorce madres fue una optimización que la tabla desmiente.** **Lo que hay: catorce familias, y dentro de cada una, reglas que hay que correr por separado — cuántas se sabe cuando se cuenten.**
+**El plan de catorce madres fue una optimización que la tabla desmiente.**
+
+**Y ya está contada entera, con las catorce familias:** **de 417 reglas, 25 no afirman nada de un ente, y quedan 392 que un ente puede cumplir.** **La inclusión mata cero.**
+
+**Así que el número real, y no el del plan, es casi cuatrocientas.** **Y hay una tercera salida que el plan no tenía y que el repo ya sabía hacer: las corridas.** **No prueban una regla: prueban el ensayo entero con un caso nuevo, y encuentran reglas que nadie estaba buscando — treinta y ocho detalles en dieciocho corridas.**
 
 ---
 
