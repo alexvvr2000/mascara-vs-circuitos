@@ -270,6 +270,8 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 **Y lo que el stack elegido hace, en concreto, está en [`los papeles/EL STACK.md`](los%20papeles/EL%20STACK.md):** **`DSH`, `dshmarket` y `graphdblite`, cada uno con lo que aporta y lo que no.**
 
+**Y si lo que se quiere es levantar uno: [`los papeles/COMO ENTRAR A DSH.md`](los%20papeles/COMO%20ENTRAR%20A%20DSH.md).** **Ahí está qué copiar, qué instalar y dónde va cada archivo, sin leer once ensayos antes.**
+
 **Y una distinción que ahí se hace y conviene saber antes:** **el motor y el mercado son gusto; la base de grafos no lo es.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones, y `graphdblite` es una base de grafos embebida con Cypher.** **Un motor es un motor; un grafo no es una tabla.**
 
 Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
