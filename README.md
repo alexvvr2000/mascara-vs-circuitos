@@ -207,8 +207,8 @@ Los límites, dichos con nombre:
      ejemplo/                   con stack puesto: se arrastra y se trabaja
      usuario/                   sin stack: la puerta, para quien sólo quiere rapidez
 
-7. la obra/metodologia/autor/el aproximado.md
-                            cuánto falta para terminar lo que se empezó
+7. metodologia/el aproximado.md
+                            cuánto falta, medido con lo que se hizo
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
@@ -332,9 +332,9 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 | **dieciocho corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
 | **los 38 detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
 | **486 reglas contadas** | `la obra/ciclo/como se sabe cuando esta.md`, una por una, y cada una con su mutante |
-| **el registro de cómo se hizo** | `la obra/metodologia/autor/historia/`, con fechas, incluidas las ideas que se cayeron |
+| **el registro de cómo se hizo** | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
-**Y lo que falta, que no se esconde: la implementación mínima, y que el piso quede lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto.** **Lo segundo no es un requisito de terceros: es lo que el trabajo tiene que dejar puesto.**
+**Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia.** **No hay binario, ni instalador, ni soporte.** **El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.**
 
 **Esos dos no están hechos.** **Todo lo de la tabla de arriba sí, y se puede comprobar hoy sin pedirle permiso a nadie.**
 

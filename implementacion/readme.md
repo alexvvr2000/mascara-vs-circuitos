@@ -58,13 +58,11 @@ vienes a hacer el tuyo          ->  usuario/
 
 ---
 
-## Lo que todavía falta
+## Hasta dónde llegan
 
-**Las dos carpetas están escritas en su primera versión, y a las dos les falta lo que las vuelve usables de verdad: los skills y los scripts.**
+**Lo que se copia es texto: la hoja de reglas, las piezas, el índice y la habilidad.** **El ente trabaja con eso, porque lo que necesita es una carpeta y un registro.**
 
-**Hoy traen el `AGENTS.md` y los archivos que se llenan. Falta lo que se ejecuta.**
-
-**Y no se escribe a ciegas: se escribe cuando se pueda probar que se copia y funciona en un proyecto que no sea éste.**
+**Y lo que no traen es código propio.** **No hay scripts de este repositorio, y no hace falta: los comandos son los del stack que se elija, y el ente los corre.** **Un script propio sería una dependencia más que copiar, y el punto es arrastrar una carpeta.**
 
 ---
 

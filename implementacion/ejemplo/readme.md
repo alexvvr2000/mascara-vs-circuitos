@@ -11,7 +11,7 @@
 | **[`para copiar/`](para%20copiar/)** | **la carpeta que se arrastra al proyecto** |
 | **[`stack.md`](stack.md)** | **el stack, en una tabla: qué motor, qué catálogo, qué base** |
 | **[`cuando muta el stack.md`](cuando%20muta%20el%20stack.md)** | **la regla: cuando un ensayo cambia, el stack se vuelve a mirar** |
-| **[`codigo/`](codigo/)** | **vacía: va cuando exista** |
+| **[`codigo/`](codigo/)** | **lo que el stack produce al correr, si el que lo usa quiere dejarlo aquí** |
 
 ---
 

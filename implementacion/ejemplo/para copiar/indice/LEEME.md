@@ -34,8 +34,8 @@ se pregunta     el caso dudoso se consulta, y hasta que se conteste no entra
 
 ---
 
-## Lo que todavía no hay
+## Cómo nace esta carpeta
 
-**Esta carpeta está vacía.** **Los temas se escriben cuando aparezcan, uno por archivo.**
+**Con un solo archivo: este.** **Y un tema entra cuando aparece, uno por archivo, con su borde escrito.** **Un índice que se llena antes de tener temas no es un índice: es una lista de deseos.**
 
 **Falsificador:** un tema que se traga lo que no es suyo; **y un índice que sólo tiene los temas que alguien se acordó de escribir.**

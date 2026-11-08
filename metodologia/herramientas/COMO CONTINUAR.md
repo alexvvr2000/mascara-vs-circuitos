@@ -96,7 +96,7 @@ python publicar.py crudo.json --comprobar # falla si queda algo que identifique
 | **un defecto del script** | a la documentación de la corrida, y se corrige ahí |
 | **una cosa del entorno** | a la documentación, y no se toca el ensayo |
 | **algo que sólo existe porque el stack es éste** | a la documentación: es del stack |
-| **un error del mantenedor** | a `metodologia/autor/historia/`, con fecha |
+| **un error del mantenedor** | a `metodologia/historia/`, con fecha |
 
 **Y la señal para decidir en el acto:** **si el hallazgo necesita nombrar una herramienta, es del stack y no del ensayo.**
 
@@ -113,7 +113,7 @@ python -c "import sys; sys.stdout.reconfigure(encoding='utf-8')" && \
 grep -c '^\*\*Falsificador:' "la obra/ensayos/"*.md
 
 # que el árbol de cada corrida sea el mismo
-ls "la obra/metodologia/autor/corridas/" | head
+ls "metodologia/corridas/" | head
 ```
 
 **Y lo que se mira a ojo, porque no hay script:** **que cada ensayo empiece por su título y acabe en `Falsificador:`.**
