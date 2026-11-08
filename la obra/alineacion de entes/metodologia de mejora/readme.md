@@ -59,6 +59,8 @@ y el stack      es una implementación de la conclusión. hay muchas
      plan.md            los mutantes, y el conteo de reglas
      jerarquia.md       por qué no hay que correrlos todos
      familias.md        las catorce familias, y su regla madre
+     inclusion.md       la tabla de inclusión, y por qué casi no ahorra
+     mutantes.md        los catorce, con su línea concreta
 3. herramientas/      stats.py: qué costó cada sesión, en tokens medidos.
                       no dice dinero, y no es un olvido
 4. mutantes/          los catorce, escritos, y los que ya se corrieron

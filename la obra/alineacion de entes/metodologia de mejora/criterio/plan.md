@@ -46,6 +46,12 @@
 
 **Está en [`jerarquia.md`](jerarquia.md), y la lista de familias con sus 417 reglas en [`familias.md`](familias.md).**
 
+**Y una corrección que costó dos familias descubrir, y va aquí antes de que alguien planee con el número viejo:** **[`inclusion.md`](inclusion.md) es la tabla, hecha para las dos familias más grandes, y dice que la inclusión casi no ahorra.**
+
+**De las 203 reglas de esas dos familias, la madre mata su propia regla y ninguna hija.** **Porque las reglas de estos ensayos no son unas casos de otras: son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
+
+**El plan de catorce madres fue una optimización que la tabla desmiente.** **Lo que hay: catorce familias, y dentro de cada una, reglas que hay que correr por separado — cuántas se sabe cuando se cuenten.**
+
 ---
 
 ## Cómo se hace, en cuatro pasos
