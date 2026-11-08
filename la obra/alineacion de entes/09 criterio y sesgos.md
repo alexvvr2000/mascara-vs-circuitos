@@ -232,6 +232,24 @@ Y hay una consecuencia que obliga a más que a declarar: la fuente se declara AN
 
 Y no es un detalle de México: muchas normas no son descargables por derechos.
 
+Y aquí hay una distinción que cuesta no hacer, y es la que separa un registro honesto de uno cómodo: **no es lo mismo una fuente que no existe que una que existe y no se deja abrir, y tampoco es lo mismo una que se bloquea al lector automático.**
+
+```plaintext
+no existe            la dirección no responde, o responde que no está
+                     se dice: la fuente no existe
+
+existe y está cerrada  responde, y manda un muro: derechos de autor,
+                     pago, o registro. el texto está, y no se puede leer
+                     se dice: existe y no se pudo abrir, y por qué
+
+existe y bloquea       responde que no a un lector automático, y sí a
+al lector automático   una persona. el texto probablemente está, y
+                     desde aquí no se puede comprobar
+                     se dice: se bloqueó el acceso, y no se pudo leer
+```
+
+**Y la diferencia entre las dos últimas importa, porque se confunden todo el tiempo:** **un bloqueo a un lector automático no prueba que el texto no exista: prueba que el sitio no deja leerlo desde aquí.** **Decir que la fuente "no está disponible" cuando en realidad está bloqueada es una forma de relleno, y la más común, porque suena responsable.**
+
 Ahí hay dos maneras de citar, y solo una sirve:
 
 ```plaintext
@@ -270,7 +288,7 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
 | El relleno más fino cita un tercero como si fuera el original | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
-| Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el texto de la norma no está disponible por derechos |
+| Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el texto de la norma no se pudo abrir, y se dice por qué |
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
