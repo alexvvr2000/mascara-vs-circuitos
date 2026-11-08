@@ -1,24 +1,30 @@
-# Método: cómo se sabe si los ensayos están completos
+# Ejercicio: cómo se ve lo que los ensayos no dicen
 
-Alejandro Valenzuela Rivera · `TESTIGO` · 5 de noviembre de 2026.
+**Alejandro Valenzuela Rivera · `TESTIGO`.**
 
-> Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las nueve corridas están en `corridas/`, y se pueden abrir y correr.
+> **Los ensayos dicen lo importante. Esto no: esto es el ejercicio que se corre para ver los detalles que se les escapan.**
+>
+> **Y lo corre `TESTIGO`, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.**
+
+**Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después.** **Las catorce están en `corridas/`, y se pueden abrir y correr.**
 
 ---
 
-## I. El problema que resuelve
+## I. Lo que el ejercicio encuentra
 
-Un ensayo se puede leer entero, entenderse, y estar incompleto.
+**Un ensayo se puede leer entero, entenderse, y estar incompleto.**
 
-Y no se nota, porque el que lo lee rellena. Cuando falta una pieza, el lector no duda: sigue, y pone la que le parece. Y el ensayo se ve bien porque nadie lo ejecutó.
+**Y no se nota, porque el que lo lee rellena.** **Cuando falta una pieza, el lector no duda: sigue, y pone la que le parece.** **Y el ensayo se ve bien porque nadie lo ejecutó.**
 
-Con una IA eso no se corrige leyendo mejor. Una IA no duda: produce. Donde a un humano le falta algo, la IA pone lo primero que encaja, y queda contenta.
+**Con una IA eso no se corrige leyendo mejor.** **Una IA no duda: produce.** **Donde a un humano le falta algo, la IA pone lo primero que encaja, y queda contenta.**
 
-De ahí la regla que ordena todo:
+**De ahí la regla, y es toda la regla:**
 
-> La prueba de un ensayo no es leerlo. Es levantar un ente con él, y ver qué hubo que inventar.
+> **El ensayo dice lo importante. Lo que no dice, se ve levantando un ente con él, y mirando qué hubo que inventar.**
 
-Y lo que se inventa no es un defecto del ente: es un hueco del ensayo. El ente hizo lo que pudo con lo que había. El ensayo es el que no dijo cómo.
+**Y lo que se inventa no es un defecto del ente: es un detalle que al ensayo le faltaba.** **El ente hizo lo que pudo con lo que había.**
+
+**Y el límite, que se dice aquí antes de que alguien lo confunda:** **esto no es el producto.** **El producto son los ensayos.** **Si el que crece es el ejercicio y no el ensayo, lo que se está engordando es el papel de alrededor.**
 
 ---
 
@@ -307,6 +313,7 @@ Lo que sí se puede decir, y se dice:
 - **si la serie de huecos por corrida no baja, el problema no es que falten corridas: hay algo mal más arriba, en el ensayo o en la prueba.**
 - **si una corrida encuentra cero sin las trampas del §VI puestas, no es que terminó: es que la prueba dejó de exigir.**
 - **y si la misma clase de hueco sale en dos corridas seguidas, la corrección del ensayo no sirvió, y hay que mirar qué se arregló realmente.**
+- **y si una corrida cierra con cero fricciones, eso no dice que el ente hiciera bien: dice que no se sabe.** **Cero no es un resultado: es la ausencia de búsqueda.** **Y el desconocimiento no se resuelve desde dentro, porque el que busca es el mismo que decide dónde buscar. Se resuelve con alguien que no estaba ahí — y mientras no lo haya, el cero se apunta como cero, con esa palabra.**
 
 Y la decisión última de parar sigue siendo del dueño. Lo que cambia es que ahora hay una señal que no depende de su cansancio ni de su miedo.
 

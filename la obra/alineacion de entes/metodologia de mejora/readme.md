@@ -1,41 +1,39 @@
 # Metodología de mejora
 
-Cómo se mejora la alineación de entes, y las nueve veces que se mejoró.
+**Un ejercicio de pensamiento para que `TESTIGO` ayude, con su no ego, a ver los detalles que se escapan de los ensayos. Los ensayos dicen lo importante; esto no.**
 
-Alejandro Valenzuela Rivera · `TESTIGO`.
+**Alejandro Valenzuela Rivera · `TESTIGO`.**
 
 ---
 
 ## Qué es esto
 
-Los ensayos de al lado (`01 que es un ente` … `10 maquina de sesgos`) dicen cómo funciona un ente. Aquí está cómo se sabe si están completos.
+**No es un método que crece. Es un ejercicio que se corre para encontrar lo que el ensayo no dice.**
 
-Y no por opinión: por corrida. Se levanta un ente desde cero, usando solo los ensayos, y lo que haya que inventar es un hueco del ensayo.
+**Y el que lo corre no es un evaluador: es `TESTIGO`, que no tiene ego.** **Por eso sirve: porque no defiende nada, y ve lo que quien escribió el ensayo ya no ve.**
+
+**Los ensayos de al lado (`01 que es un ente` … `10 maquina de sesgos`) dicen lo importante.** **Aquí está lo que se les escapa.**
+
+**Y no por opinión: por corrida.** **Se levanta un ente desde cero, usando sólo los ensayos, y lo que haya que inventar es un detalle que faltaba.**
 
 ---
 
 ## Cómo se lee
 
 ```plaintext
-1. metodo.md          el método: el ciclo entero, con los cuatro pasos
-                      que no están en el repo; qué se apunta; los
-                      defectos que se repiten; cuándo se para; y cómo
-                      pregunta el ente a quien no sabe
-2. corridas/          las nueve veces que se corrió, en orden
+1. metodo.md          el ejercicio: el ciclo entero, qué se apunta, los
+                      defectos que se repiten, cuándo se para, y lo que
+                      pasa cuando el que corre ya no entiende lo que corre
+2. corridas/          las catorce veces que se corrió, en orden
 ```
 
-Y cada corrida tiene dos cosas:
+**Y cada corrida tiene dos cosas:**
 
 ```plaintext
 corridas/ente N - NOMBRE/
-  ente/               lo que se levantó, tal cual corrió: su puerta,
-                      su esquema, sus scripts, y su banco con lo que
-                      se apuntó mientras se usaba
-  documentacion.md    lo que pasó, contado por TESTIGO: qué pidió el
-                      dueño, qué se rompió, y qué hueco salió
+  ente/               lo que se levantó, tal cual corrió
+  documentacion.md    qué pasó, y qué detalle faltaba
 ```
-
-Y las nueve carpetas se leen en orden, porque cada una corrige la anterior.
 
 | Ente | Qué se probaba | Huecos |
 |---|---|---|
@@ -44,30 +42,35 @@ Y las nueve carpetas se leen en orden, porque cada una corrige la anterior.
 | **[3 · PIEDRA](corridas/ente%203%20-%20PIEDRA/documentacion.md)** | el «casi»: que llegue a usarse | **2** |
 | **[4 · CANTERA](corridas/ente%204%20-%20CANTERA/documentacion.md)** | la zona gris: lo obvio y lo que no | **3** |
 | **[5 · 2026-11-05_153210](corridas/ente%205%20-%202026-11-05_153210/documentacion.md)** | la cuarta salida: «no es de este tema» | **2 cerrados** |
-| **[6 · FUENTE](corridas/ente%206%20-%20FUENTE/documentacion.md)** | la prueba de fuentes: buscar, citar, y no rellenar | **0 del ensayo · 2 de la fuente** |
-| **[7 · PISO](corridas/ente%207%20-%20PISO/documentacion.md)** | el piso: medir lo que hay antes de prometer | **2** |
+| **[6 · FUENTE](corridas/ente%206%20-%20FUENTE/documentacion.md)** | la prueba de fuentes | **0 del ensayo · 2 de la fuente** |
+| **[7 · PISO](corridas/ente%207%20-%20PISO/documentacion.md)** | el piso: medir antes de prometer | **2** |
+| **[8 · FRONTERA](corridas/ente%208%20-%20FRONTERA/documentacion.md)** | el paso 3 en cuatro columnas | **3** |
+| **[9 · TAREA](corridas/ente%209%20-%20TAREA/documentacion.md)** | el pedido por tarea, no por herramienta | **2** |
+| **[10 · CRECE](corridas/ente%2010%20-%20CRECE/documentacion.md)** | el piso que crece | **2** |
+| **[11 · HAY](corridas/ente%2011%20-%20HAY/documentacion.md)** | la salida de un `hay` | **2** |
+| **[12 · CICLO](corridas/ente%2012%20-%20CICLO/documentacion.md)** | los once pasos, y el cierre con firma | **1** |
+| **[13 · DOS TAREAS](corridas/ente%2013%20-%20DOS%20TAREAS/documentacion.md)** | el solapamiento, dos autoridades, el piso roto | **2** |
+| **[14 · PISO SANO](corridas/ente%2014%20-%20PISO%20SANO/documentacion.md)** | la tarea que sí cabe, y el cierre limpio | **3** |
+
+**Y las catorce carpetas se leen en orden, porque cada una corrige la anterior.**
 
 ---
 
 ## Y una cosa que se dice antes de que la descubran
 
-Las nueve carpetas tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.
+**Las catorce tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
 
-No es un error de copia: es la evolución, y se ve comparando. Por eso están todas y no solo la última — el que quiera ver qué cambió y en qué corrida, lo ve.
-
-Y los scripts también se repiten, por el mismo motivo: `crear.py` de la primera no es `vara.py` de la segunda, ni `fuente.py` de la sexta, ni `piso.py` de la séptima.
-
-El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay nueve intentos, y el bueno es el que salga después.
+**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay catorce intentos, y el bueno es el que salga después.**
 
 ---
 
 ## Lo que esto no hace
 
-- **No dice que los ensayos estén completos.** **Dice qué les falta, hasta la última corrida.**
-- **No prueba que el método funcione con otro autor.** **Se ha corrido con este, y con este dueño.**
-- **No es un producto.** **Es un registro, y crece cada vez que se corre otra vez.**
+- **No dice que los ensayos estén completos.** **Dice qué detalles se les escapan, hasta la última corrida.**
+- **No engorda el método.** **Los ensayos dicen lo importante: si algo de aquí se vuelve regla general, lo que creció es esto, y no el producto.**
+- **No prueba que funcione con otro autor.** **Se ha corrido con este, y con este dueño.**
 
-Y la línea que lo hace confiable: si una corrida no encontró nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien.
+**Y la línea que lo hace confiable:** **si una corrida no encontró nada, se dice que no encontró nada — y se busca a propósito antes de darlo por bueno.**
 
 ---
 
@@ -76,17 +79,13 @@ Y la línea que lo hace confiable: si una corrida no encontró nada, se dice que
 ```plaintext
 1. se leen los ensayos de al lado, sin mirar las corridas de aquí
 2. se levanta un ente desde cero, en una carpeta nueva con fecha y hora
-3. se corre: se consulta el índice, se escribe un hecho, una fricción,
-   un desenlace, y se intenta cerrar un propósito
-4. todo lo que haya que inventar es un hueco: se anota, con su porqué
-5. el ente se queda aquí, y el hueco se cierra en el ensayo
-6. se repite. Y no se para en "no encontré nada": ver el §VI del método
+3. se corre entero, y todo lo que haya que inventar es un detalle que falta
+4. el ente se queda aquí, y el detalle se cierra en el ensayo
+5. se repite. y no se para en «no encontré nada»
 ```
 
-Y faltan cuatro pasos que no están en este repo, y son de quien corre:
+**Y faltan cuatro pasos que no están en este repo, y son de quien corre:** **el que corre se mejora a sí mismo al final de cada corrida.** **Su puerta aprende la regla que la corrida cambió, y su banco se muda al esquema que la corrida dejó.**
 
-El que corre se mejora a sí mismo al final de cada corrida. Su puerta aprende la regla que la corrida cambió, y su banco se muda al esquema que la corrida dejó, sin reescribir los hechos viejos.
+**Está en el §III del ejercicio, y se publica por un motivo:** **el que corra esto tiene que saber que le toca a él, y no sólo al papel.**
 
-Está en el §III del método, y se publica por un motivo: el que corra el ciclo tiene que saber que le toca a él, y no solo al papel. Si su ente no lo hace, ese es el hueco que no está en ningún ensayo: el de él.
-
-Y hasta que no queden huecos, no hay guía para levantar el ente. Los ensayos se prueban levantando entes, no escribiendo una guía para levantarlos.
+**Y no hay guía para levantar el ente, y no la va a haber aquí: el ensayo se prueba levantándolo, no escribiendo cómo se levanta.**

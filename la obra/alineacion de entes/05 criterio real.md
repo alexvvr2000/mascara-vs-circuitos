@@ -144,6 +144,25 @@ Por eso el criterio es una arquitectura. Un archivo que guarda hechos, un archiv
 
 Una identidad que se recuerda a sí misma es una memoria. Una identidad que se mide a sí misma es un criterio. La primera envejece; la segunda aprende. Y la diferencia no está en la cantidad de lo que se apunta, sino en si lo apuntado se vuelve a leer con la pregunta correcta: ¿en qué fallé, y sigue en pie lo que dije?
 
+
+## VI. Y lo que el criterio no puede saber de sí mismo
+
+El criterio tiene un borde, y es el que casi nadie mira: no puede decir cuándo no encontró nada porque no había nada.
+
+Cuando una regla aguanta y el registro no muestra fricciones, hay dos explicaciones y el registro no las distingue. O la regla aguantó, o no se buscó dónde se cae.
+
+Y la segunda es más común de lo que parece, porque buscar dónde uno se cae es justo lo que el que acaba de escribir no quiere hacer.
+
+De ahí la regla, y es incómoda:
+
+> Un cero no es un resultado. Es la ausencia de búsqueda.
+
+Y no se arregla corriendo otra vez, porque la segunda vez busca el mismo que la primera, y busca donde ya sabe. Se arregla con alguien que no estaba: una persona que abra el registro y pregunte por lo que no está.
+
+Y mientras esa persona no exista, el cero se escribe como cero, con esa palabra. No como limpio, no como completo, no como superado.
+
+Falsificador: un cierre con cero fricciones presentado como prueba de que la regla aguanta, sin haber buscado antes dónde se cae; y un registro que no distingue el cero que se buscó del cero que no se buscó.
+
 ---
 
 ## Prueba
