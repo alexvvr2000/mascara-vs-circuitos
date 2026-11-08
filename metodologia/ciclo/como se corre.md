@@ -72,8 +72,8 @@ ALAS               deja el símbolo para que el siguiente caso lo parta
 
 ```plaintext
 lo que hay        cuatro piezas, un ciclo de nueve pasos, un registro de
-                  hecho · fricción · desenlace, trece ensayos escritos, y
-                  trece reglas probadas con su mutante
+                  hecho · fricción · desenlace, los ensayos escritos, y
+                  una regla probada con su mutante por familia
 
 lo que falta      que el que sabe menos pueda empezar. eso no se prueba
                   con más escritura: se prueba con alguien
@@ -81,7 +81,7 @@ lo que falta      que el que sabe menos pueda empezar. eso no se prueba
 y lo que NO falta el final. el final no hace falta para empezar
 ```
 
-**El mínimo no es el 392 de las reglas.** **El mínimo es lo que hace falta para que otra persona levante un ente y produzca algo.**
+**El mínimo no es el número de reglas.** **El mínimo es lo que hace falta para que otra persona levante un ente y produzca algo.**
 
 **Y eso puede ser mucho menos de lo que la cuenta sugiere.** **Puede ser una página, con las cuatro piezas y un ejemplo.**
 

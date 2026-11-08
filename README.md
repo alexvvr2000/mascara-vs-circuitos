@@ -41,7 +41,7 @@ Alejandro Valenzuela Rivera.
 
 Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA. Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.
 
-De esa discusión salieron once afirmaciones, y una duodécima que no se puede probar. De las once, una carrera. Y del cansancio, esto.
+De esa discusión salieron las afirmaciones de este trabajo, y una que no se puede probar. De la carrera que sostiene una de ellas, y del cansancio, esto.
 
 Y la apuesta fue entre dos identidades, que es lo que dice el nombre.
 
@@ -67,11 +67,11 @@ Máscara contra circuitos. Y aquí, las dos se la quitaron.
 
 ## Qué es esto, y para quién
 
-Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Trece ensayos, doce afirmaciones, y dieciocho corridas que se hicieron para probarlos.
+Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Los ensayos, las afirmaciones, y las corridas que se hicieron para probarlos.
 
 Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-Qué se puede hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de las doce afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
+Qué se puede hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de sus afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
 
 No incluye guía. El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
 
@@ -137,7 +137,7 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
                        se para
 ```
 
-**Y lo que se puede contar:** **417 reglas en los trece ensayos, y 69 más en el que explica el proceso: 486 en total, y cada una con su mutante.** **Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.**
+**Y lo que se puede contar:** **cada regla de los ensayos, y las del que explica el proceso, tiene su mutante.** **Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.**
 
 ### Por qué hay un número y no un «ya casi»
 
@@ -158,7 +158,7 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
 Los límites, dichos con nombre:
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **El alcance de la evidencia: dieciocho corridas, un autor, un entorno.**
+- **El alcance de la evidencia: las corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
 - **Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.**
@@ -240,7 +240,7 @@ La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la 
 
 ## La otra apuesta: si esto sirve para modelos pequeños
 
-Y hay una segunda apuesta, más chica y verificable, que es la única de las once que se declara como conjetura.
+Y hay una segunda apuesta, más chica y verificable, que es la única que se declara como conjetura.
 
 Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.
 
@@ -328,10 +328,10 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
 | Lo que hay | Cómo se comprueba |
 |---|---|
-| **trece ensayos, doce afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
-| **dieciocho corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
-| **los 38 detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
-| **486 reglas contadas** | `la obra/ciclo/como se sabe cuando esta.md`, una por una, y cada una con su mutante |
+| **los ensayos y sus afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
+| **las corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
+| **los detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
+| **las reglas contadas** | `la obra/ciclo/como se sabe cuando esta.md`, una por una, y cada una con su mutante |
 | **el registro de cómo se hizo** | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 **Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia.** **No hay binario, ni instalador, ni soporte.** **El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.**

@@ -1,4 +1,4 @@
-# Los catorce mutantes
+# Los mutantes
 
 **Uno por familia, escrito en concreto: qué línea se cambia, por cuál otra, qué se corre, y qué tiene que pasar.**
 
@@ -252,7 +252,7 @@ cerrar cada uno en su ensayo
 y repetir con las familias que se abran
 ```
 
-**Y el número honesto:** **catorce mutantes madres es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
+**Y el número honesto:** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
 
 ---
 
@@ -260,4 +260,4 @@ y repetir con las familias que se abran
 
 **Un mutante escrito de tal manera que ningún ente pueda fallarlo.** **Y su contrario: un mutante tan fuerte que rompe el ensayo entero y no dice cuál regla falló.**
 
-**Y el más probable: catorce mutantes escritos, creídos corridos, y ninguno ejecutado.**
+**Y el más probable: mutantes escritos, creídos corridos, y ninguno ejecutado.**

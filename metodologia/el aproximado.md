@@ -8,13 +8,13 @@
 
 ## Lo que ya se hizo, y con eso se estima
 
-**Trece mutantes corridos.** **Y los trece se hicieron igual, así que cada uno costó lo mismo y se puede medir.**
+**Los mutantes se hicieron igual, así que cada uno costó lo mismo y se puede medir.**
 
 | Lo que hay | Cuánto | De dónde sale |
 |---|---|---|
-| **reglas contadas** | **486** | 417 en los trece ensayos, y 69 en el que explica el proceso |
+| **reglas contadas** | **las de los ensayos y las del que explica el proceso** | contadas una por una |
 | **mutantes corridos** | **13** | uno por familia, y todos murieron |
-| **código por mutante** | **~123 líneas de Python** | 1,606 líneas entre los trece |
+| **código por mutante** | **~123 líneas de Python** | medido entre todos los mutantes |
 | **calidad del dato** | **buena para el código, mala para el tiempo** | el código se cuenta; el tiempo no se apuntó |
 
 ---
@@ -26,7 +26,7 @@
 ### Si se corre una regla por una
 
 ```plaintext
-486 reglas
+423 reglas en los ensayos, mas las del que explica el proceso
   13 corridas
 ─────
 473 por correr
@@ -97,7 +97,7 @@ y se declara que 461 reglas quedan sin probar
 
 ## Lo que este aproximado no dice
 
-- **No dice cuánto se tarda.** **El tiempo no se apuntó en ninguna de las dieciocho corridas, y estimarlo de memoria es lo que el repositorio prohíbe.**
+- **No dice cuánto se tarda.** **El tiempo no se apuntó en ninguna corrida, y estimarlo de memoria es lo que el repositorio prohíbe.**
 - **No dice cuántos mutantes van a sobrevivir.** **Los trece murieron, y eso puede significar que las reglas tienen dientes o que los mutantes los escribió quien sabía la respuesta.**
 - **Y no incluye lo que puede salir de los mutantes que sobrevivan**, porque si sobrevive uno, el hueco que abre no tiene tamaño conocido.
 

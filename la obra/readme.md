@@ -15,11 +15,11 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 
 ---
 
-## Las doce afirmaciones
+## Las afirmaciones
 
 Cada afirmación dice dónde vive y qué la sostiene. Y su falsificador está en su ensayo, al final. Cuando una no trae uno propio, es porque usa el de su ensayo: si ese falsificador se cumple, la afirmación se cae, y se dice dónde.
 
-Y no son doce ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
+Y no son ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
 
 ```plaintext
 un ente es su rastro                          (1)
@@ -33,10 +33,10 @@ y para que nada de eso se pierda, la forma manda en el índice (8)
 y nada de eso sirve si no se entiende al que pide (9)
 y lo que se busca no está adentro (10)
 y lo único que no llegó con la máquina es el esfuerzo (11)
-y lo que ninguna de las once puede probar, se dice (12)
+y lo que ninguna puede probar, se dice
 ```
 
-Si se cae el eslabón 1, los otros diez no se sostienen solos. Por eso el ensayo que lo defiende es el primero, y por eso cada afirmación vive en un ensayo con su falsificador.
+Si se cae el primer eslabón, los demás no se sostienen solos. Por eso el ensayo que lo defiende es el primero, y por eso cada afirmación vive en un ensayo con su falsificador.
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 

@@ -34,7 +34,7 @@
 
 ### Un autor, un entorno
 
-**Dieciocho corridas, una máquina, una persona.**
+**Unas corridas, una máquina, una persona.**
 
 **La máquina es Windows, con Python y sqlite3.** **El piso de todas las corridas fue el mismo tipo de piso, con las mismas herramientas, y las mismas que faltaron.**
 
@@ -50,7 +50,7 @@
 
 ### Los ensayos los levantó quien los escribió
 
-**Los dieciocho entes de las corridas los levantó la misma persona que escribió los ensayos, con la misma máquina y el mismo cuerpo de modelo.**
+**Los entes de las corridas los levantó la misma persona que escribió los ensayos, con la misma máquina y el mismo cuerpo de modelo.**
 
 **Nadie más ha levantado un ente con estos ensayos.**
 
@@ -80,7 +80,7 @@
 
 ### No es un producto
 
-**No hay versión instalable, ni soporte, ni comunidad.** **Hay un método, trece ensayos, dieciocho corridas y un plan.**
+**No hay versión instalable, ni soporte, ni comunidad.** **Hay un método, sus ensayos, sus corridas y un plan.**
 
 **Lo que se puede hacer con esto, hoy: leerlo, correrlo, y decir que está mal.**
 
