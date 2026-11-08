@@ -169,7 +169,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 10 · Las afirmaciones
 
-**Familia:** `00 mis ideas` · 13 reglas
+**Familia:** `la obra/readme.md` · 13 reglas
 
 **Regla madre:** *«Cada afirmación dice dónde vive y qué la tumba.»*
 

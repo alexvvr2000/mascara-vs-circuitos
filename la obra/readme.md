@@ -1,4 +1,4 @@
-# 00. Mis ideas
+# La posición, en lista
 
 Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.
 Alejandro Valenzuela Rivera.

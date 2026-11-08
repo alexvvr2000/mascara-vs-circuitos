@@ -172,7 +172,7 @@ Los límites, dichos con nombre:
 ```plaintext
 1. esta entrada            qué hay, y qué no
 
-2. la obra/00 mis ideas    la posición en lista, y qué la tumba
+2. la obra/readme.md       la posición en lista, y qué la tumba
 
 3. metodologia/             EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
      LEEME.md                   qué se hace aquí, y dónde se apunta cada cosa
@@ -234,7 +234,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
 | **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `E10` |
 
-La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/00 mis ideas.md`](./la%20obra/00%20mis%20ideas.md).
+La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/readme.md`](./la%20obra/readme.md).
 
 ---
 
