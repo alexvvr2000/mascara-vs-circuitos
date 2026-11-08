@@ -128,6 +128,29 @@ Y lo que esto deja de ser: ya no hay que adivinar qué va a pedir alguien. Se mi
 
 Y el límite que queda, y es de tiempo, no de método: la primera vez que llega una tarea nueva, la respuesta va a ser «no medido, y me falta medirlo». Eso no es una falla: es la respuesta correcta. Un piso que contestara «sí» sin haberlo medido sería el error que este ensayo previene.
 
+### Y falta decir quién hace el enlace, que es lo que el paso 5 da por hecho
+
+**El paso 5 dice que «la tarea pasa a estar cubierta» y no dice quién la cubre.**
+
+**Y hay dos candidatos, y no son el mismo:**
+
+```plaintext
+el que mide        mide la herramienta, y al medirla tendria que marcar
+                   cuales tareas quedaron cubiertas. pero para eso tiene
+                   que saber que tarea pidio la medicion, y medir no
+                   siempre lo sabe
+
+el que declara     declara la tarea, y vuelve despues de que se mida
+la tarea           para decir "ya la tengo". pero si vuelve, tiene que
+                   volver a proposito, y nadie se lo pide
+```
+
+**Y sin decir cuál es, el mecanismo se queda en la mitad: el renglón del piso entra, y la tarea no se entera.**
+
+**La regla que este ensayo adopta, y se puede correr:** **el enlace lo hace el que mide, y la medición lleva anotado qué tarea la pidió.** **Medir sin decir para qué se mide es medir de más, y no saber a quién se le acaba de responder.**
+
+**Y una segunda cosa, que se ve al intentarlo:** **si el enlace falla, no se lleva la tarea consigo.** **Una tarea sin enlace es un dato que se puede volver a preguntar; una tarea borrada por un error de enlace es un dato que ya no existe.** **El orden es: primero la tarea, después el enlace, y lo que falle se apunta en vez de borrar.**
+
 **Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
 
 **Lo consume:** el paso 3, que decide qué cabe, y el paso 1, porque el origen de lo que se dice depende de si hay red.
@@ -156,9 +179,10 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | se guardó el `Traceback`, y esa es la corrección que este ensayo ya incorpora |
 | El ente contesta por tarea y no buscando palabras | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
 | El piso no se puede medir a ciegas | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
+| El piso crece con cada tarea que no pudo contestar | [`ente 10`](metodologia%20de%20mejora/corridas/ente%2010%20-%20COMPLETO/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 
-**Falsificador:** un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.
+**Falsificador:** **un piso que crece y no cubre la tarea que lo hizo crecer**; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.
