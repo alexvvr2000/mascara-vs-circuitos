@@ -9,6 +9,7 @@
 | El archivo | Qué es |
 |---|---|
 | **[`stack.md`](stack.md)** | **el stack elegido, en una tabla que se llena a mano** |
+| **[`cuando muta el stack.md`](cuando%20muta%20el%20stack.md)** | **la regla: cuando un ensayo cambia, el stack se vuelve a mirar** |
 | **[`codigo/`](codigo/)** | **va cuando acabe todo. hoy está vacía** |
 
 **Y la tabla no está repetida aquí.** **Está en `stack.md`, y se llena allá.**

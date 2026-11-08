@@ -2,6 +2,8 @@
 
 **Dónde se deja lo que se construyó, para que se pueda seguir sin quien lo construyó.**
 
+> **Y una regla que vale para las dos carpetas: cuando un ensayo cambia, el stack se vuelve a mirar.** **On demand, no en cada corrida.** **Está en [`autor/cuando muta el stack.md`](autor/cuando%20muta%20el%20stack.md), y es lo que impide que la implementación se vuelva vieja en silencio.**
+
 ---
 
 ## Las dos carpetas, y qué es cada una
