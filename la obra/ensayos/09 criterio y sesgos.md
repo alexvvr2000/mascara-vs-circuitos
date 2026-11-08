@@ -287,8 +287,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El relleno más fino cita un tercero como si fuera el original | [`ente 6`](../metodologia/autor/corridas/ente%206%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
-| Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](../metodologia/autor/corridas/ente%206%20-%20FUENTE/) | el texto de la norma no se pudo abrir, y se dice por qué |
+| El relleno más fino cita un tercero como si fuera el original | [`ente 6`](../metodologia/autor/corridas/06%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
+| Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](../metodologia/autor/corridas/06%20-%20FUENTE/) | el texto de la norma no se pudo abrir, y se dice por qué |
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

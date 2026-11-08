@@ -176,10 +176,10 @@ Este documento es la posición en lista. Lo que la puso a prueba está abajo.
 
 | Lo que se sostiene | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Un ente se define por su rastro | [`ente 1 - PRUEBA`](metodologia/autor/corridas/ente%201%20-%20PRUEBA/) | el primer ente levantado con los ensayos y nada más |
-| El criterio se arma con lo que se cayó | [`ente 3 - PIEDRA`](metodologia/autor/corridas/ente%203%20-%20PIEDRA/) | lo escrito en la vuelta anterior no funcionaba |
-| En el índice, la forma es la fuente | [`ente 4 - CANTERA`](metodologia/autor/corridas/ente%204%20-%20CANTERA/) | el borde mira los campos, no el texto |
-| Los entes necesitan el piso medido | [`ente 7 - PISO`](metodologia/autor/corridas/ente%207%20-%20PISO/) | midió, y dijo qué falta en vez de «no pude» |
+| Un ente se define por su rastro | [`01 - PRUEBA`](metodologia/autor/corridas/01%20-%20PRUEBA/) | el primer ente levantado con los ensayos y nada más |
+| El criterio se arma con lo que se cayó | [`03 - PIEDRA`](metodologia/autor/corridas/03%20-%20PIEDRA/) | lo escrito en la vuelta anterior no funcionaba |
+| En el índice, la forma es la fuente | [`04 - CANTERA`](metodologia/autor/corridas/04%20-%20CANTERA/) | el borde mira los campos, no el texto |
+| Los entes necesitan el piso medido | [`07 - PISO`](metodologia/autor/corridas/07%20-%20PISO/) | midió, y dijo qué falta en vez de «no pude» |
 
 Y lo que esta tabla no dice: ninguna de estas doce ideas ha sido probada por alguien que no sea el autor. Se sostienen, y no se presentan como validadas.
 

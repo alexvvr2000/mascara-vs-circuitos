@@ -12,6 +12,7 @@
 |---|---|---|
 | **`usuario/`** | **de quien llega** | **lo que sirve con cualquier proyecto y cualquier stack** |
 | **`autor/`** | **de quien escribió esto** | **lo que hizo este autor, y con qué se llegó hasta aquí** |
+| **`mantenedor/`** | **de quien se queda con el repositorio** | **cómo se sigue, con qué se mide, y el ensayo que explica el proceso** |
 
 **Y la regla para saber cuál es cuál, que se aplica a todo lo que se agregue:**
 
@@ -26,9 +27,22 @@
 | El archivo | Qué dice |
 |---|---|
 | **[`metodo.md`](usuario/metodo.md)** | **el ejercicio: cómo se corre un ciclo entero, qué se apunta, cuándo se para, y qué no puede contestar** |
-| **[`herramientas/`](usuario/herramientas/)** | **`stats.py`: qué costó una sesión, en tokens medidos. y `publicar.py`, con `cruzar.py`, para recortar lo que se publique y saber qué costó cada hallazgo** |
+
 
 **Y el ciclo, que es la parte práctica, está en [`../../ciclo/`](../ciclo/):** **cómo se corre, cómo se sabe cuándo está, y los mutantes de cada regla.**
+
+---
+
+## `mantenedor/`
+
+**Para quien mantiene el repositorio.** **No es el autor, y no es quien lo usa.**
+
+| El archivo | Qué dice |
+|---|---|
+| **[`lo inexplicable que tiende al infinito.md`](mantenedor/lo%20inexplicable%20que%20tiende%20al%20infinito.md)** | **el proceso de describir algo que no se termina, con su forma matemática** |
+| **[`herramientas/`](mantenedor/herramientas/)** | **`stats.py`, `cruzar.py`, `publicar.py`, y `COMO CONTINUAR.md`** |
+
+**Ahí está lo que se hace, en qué orden, con qué se comprueba, y qué se apunta.**
 
 ---
 

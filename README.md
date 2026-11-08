@@ -67,7 +67,7 @@ Máscara contra circuitos. Y aquí, las dos se la quitaron.
 
 ## Qué es esto, y para quién
 
-Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Once ensayos, doce afirmaciones, y dieciocho corridas que se hicieron para probarlos.
+Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Trece ensayos, doce afirmaciones, y dieciocho corridas que se hicieron para probarlos.
 
 Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -196,16 +196,18 @@ Los límites, dichos con nombre:
      11  empatía                cómo se entiende antes de pedir
      12  conciencia             qué hacemos con una palabra que no sabemos definir
      13  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
-     14  lo inexplicable        cómo se escribe «cuánto falta» cuando no hay final
 
 5. la obra/metodologia/     CÓMO SE LLEGÓ, Y CÓMO SE SIGUE
      usuario/                   lo que sirve con cualquier stack
        metodo.md                  el ejercicio: cómo se corre y cuándo se para
-       herramientas/              stats.py: qué costó, en tokens medidos
      autor/                     lo que pasó aquí, con fecha
-       corridas/                  las dieciocho, y qué le faltó a cada una
+       corridas/                  las dieciocho, en árbol uniforme
        mutantes/                  los trece corridos
        historia/                  el registro, y los ocho errores propios
+       el aproximado.md           cuánto falta para terminar lo que se empezó
+     mantenedor/                para quien se queda con el repositorio
+       lo inexplicable.md         cómo se persigue algo que no se termina
+       herramientas/              stats · cruzar · publicar · CÓMO CONTINUAR
 
 6. implementacion/          DONDE SE DEJA, Y CON QUÉ SE SIGUE SIN EL AUTOR
      autor/                     el stack elegido, y el punto donde se deja
