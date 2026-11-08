@@ -1,4 +1,4 @@
-# 03. Medición de talentos
+# 13. Medición de talentos
 
 Cómo saber si un trabajo se hizo de verdad, con números que salen del registro y no de la opinión del que trabajó.
 
@@ -336,9 +336,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El costo se mide por resultado verificado, no por llamada | [`ente 6 - FUENTE`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
-| La caída se cuenta por su puerta, no sólo contada | [`ente 8 - FRONTERA`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%208%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
-| Cada talento lleva su estado | [`ente 9 - TAREA`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
+| El costo se mide por resultado verificado, no por llamada | [`ente 6 - FUENTE`](../metodologia/corridas/ente%206%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
+| La caída se cuenta por su puerta, no sólo contada | [`ente 8 - FRONTERA`](../metodologia/corridas/ente%208%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
+| Cada talento lleva su estado | [`ente 9 - TAREA`](../metodologia/corridas/ente%209%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
 
 Y lo que esta tabla no dice: el costo por resultado exitoso no está calculado en ninguna parte. Se tiene el material y no se ha sumado, y este ensayo no lo presenta como si estuviera medido.
 

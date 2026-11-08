@@ -1,4 +1,4 @@
-# 02. Conciencia
+# 12. Conciencia
 
 Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no parece un defecto, y dónde se la puede estar buscando.
 
@@ -297,7 +297,7 @@ Lo que este ensayo afirma, y hasta dónde alcanza.
 | Lo que el ensayo afirma | En qué se apoya | Qué no se probó |
 |---|---|---|
 | La conciencia no se comprueba desde fuera | el ensayo mismo, y la definición de ente | no hay instrumento, y no hay prueba posible |
-| Un ente no debe afirmar que es consciente | [`ente 1 - PRUEBA`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
+| Un ente no debe afirmar que es consciente | [`ente 1 - PRUEBA`](../metodologia/corridas/ente%201%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
 
 Y el límite, en una línea: este ensayo no afirma ni niega que un ente sea consciente. Dice qué se puede medir, y la conciencia no está en esa lista.
 

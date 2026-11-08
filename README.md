@@ -31,7 +31,7 @@ Alejandro Valenzuela Rivera.
 >
 > **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y con qué se sabría.
 >
-> **[El registro de cómo se llegó](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
+> **[El registro de cómo se llegó](la%20obra/metodologia/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
 >
 > **Y por qué las dos:** **esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó.** **Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas.** **Con el camino a la vista, hay una tercera: revisarlo.**
 
@@ -116,11 +116,11 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 >
 > **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
 >
-> **Y la meta de todo esto no es el final: es [el piso mínimo](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/piso%20minimo.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
+> **Y la meta de todo esto no es el final: es [el piso mínimo](la%20obra/ciclo/como%20se%20corre.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia de mejora/criterio/plan.md`](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/plan.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia de mejora/la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md`](la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -174,7 +174,15 @@ Los límites, dichos con nombre:
 
 2. la obra/00 mis ideas    la posición en lista, y qué la tumba
 
-3. la obra/alineacion de entes/
+3. la obra/ciclo/           LO QUE SE COPIA Y SE CORRE
+     como se corre              el piso mínimo: qué hace falta para empezar
+     como se sabe cuando esta   los mutantes, y la resta de lo que falta
+     los mutantes               los catorce, con su línea concreta
+     las familias               las reglas, agrupadas, y su regla madre
+     por que no se corre todo   la inclusión, y por qué casi no ahorra
+     la tabla de inclusion      cuántas reglas hay de verdad
+
+4. la obra/ensayos/         EL MATERIAL
      01  que es un ente         la definición, y por qué necesita una autoridad
      02  el ciclo del ente      los pasos, uno por uno
      03  el piso                qué mide antes de prometer
@@ -185,16 +193,17 @@ Los límites, dichos con nombre:
      08  el borde del tema      cómo se escribe un borde que se pueda correr
      09  criterio y sesgos      qué es del ente y qué del cuerpo
      10  maquina de sesgos      lo que este trabajo no puede probar
+     11  empatía                cómo se entiende antes de pedir
+     12  conciencia             qué hacemos con una palabra que no sabemos definir
+     13  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
+     14  lo inexplicable        cómo se escribe «cuánto falta» cuando no hay final
 
-4. la obra/humanidad/
-     01  empatía                cómo se entiende antes de pedir
-     02  conciencia             qué hacemos con una palabra que no sabemos definir
-     03  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
-     04  lo inexplicable        cómo se escribe «cuánto falta» cuando no hay final
-
-5. metodologia de mejora/
-     metodo.md                  cómo se sabe si los ensayos están completos
-     corridas/                  las dieciocho corridas, y qué le faltó a cada una
+5. la obra/metodologia/     CÓMO SE LLEGÓ
+     metodo.md                  el ejercicio: cómo se corre y cuándo se para
+     corridas/                  las dieciocho, y qué le faltó a cada una
+     mutantes/                  los trece corridos
+     herramientas/              stats.py: qué costó, en tokens medidos
+     historia/                  el registro, con fecha y con los errores
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
@@ -318,7 +327,7 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 | **diez ensayos, doce afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
 | **dieciocho corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
 | **los 38 detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
-| **417 reglas contadas** | `metodologia de mejora/criterio/plan.md`, una por una, y cada una con su mutante |
+| **417 reglas contadas** | `metodologia de mejora/la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md`, una por una, y cada una con su mutante |
 | **el registro de cómo se hizo** | `metodologia de mejora/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 **Y lo que falta, que no se esconde: la implementación mínima, y que el piso quede lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto.** **Lo segundo no es un requisito de terceros: es lo que el trabajo tiene que dejar puesto.**

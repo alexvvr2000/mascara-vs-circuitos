@@ -209,7 +209,7 @@ Y de ahí sale la primera regla de propiedad: lo que el ente produce es de quien
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: la superficie.
 
-Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. Eso es lo que se mide en [`la obra/humanidad/03 medicion de talentos.md`](../humanidad/03%20medicion%20de%20talentos.md), y no se puede medir sin haber aceptado antes la definición y el rastro.
+Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. Eso es lo que se mide en [`la obra/ensayos/13 medicion de talentos.md`](13 medicion%20de%20talentos.md), y no se puede medir sin haber aceptado antes la definición y el rastro.
 
 ---
 
@@ -269,9 +269,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| La definición se puede aplicar a algo concreto | [`ente 1 - PRUEBA`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%201%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
-| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`ente 5 - 2026-11-05_153210`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%205%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
-| El modelo no define al ente | [`ente 6 - FUENTE`](../alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%206%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
+| La definición se puede aplicar a algo concreto | [`ente 1 - PRUEBA`](../metodologia/corridas/ente%201%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
+| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`ente 5 - 2026-11-05_153210`](../metodologia/corridas/ente%205%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
+| El modelo no define al ente | [`ente 6 - FUENTE`](../metodologia/corridas/ente%206%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

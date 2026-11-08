@@ -1,4 +1,4 @@
-# 04. Lo inexplicable que tiende al infinito
+# 14. Lo inexplicable que tiende al infinito
 
 **Una herramienta para cualquiera que persiga algo que no se termina — el criterio, la identidad, la belleza, la justicia — y necesite una forma de decir cuánto le falta.**
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **Antes de leer.** Conviene haber leído `01 empatía` y `02 conciencia`. Este ensayo no habla de entes: habla de cualquier cosa profunda que se persigue y no se alcanza del todo.
+> **Antes de leer.** Conviene haber leído `11 empatía` y `12 conciencia`. Este ensayo no habla de entes: habla de cualquier cosa profunda que se persigue y no se alcanza del todo.
 >
 > **Al terminar habrá una forma de escribir la pregunta «¿cuánto falta?» que no se queda en una sensación, y que no finge que el final existe.**
 

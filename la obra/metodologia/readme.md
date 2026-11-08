@@ -24,7 +24,7 @@
 
 **Con un ensayo pasa igual:** **no hay un día en que diga todo lo que hay que decir, y buscarlo es buscar un número que no termina.** **Lo que sí termina es la lista de lo que afirma, y cada cosa que afirma se puede romper a propósito.**
 
-**Ése es el [plan de prueba de criterio](criterio/plan.md), y es lo que convierte «ya casi» en una resta.**
+**Ése es el [plan de prueba de criterio](../ciclo/como%20se%20sabe%20cuando%20esta.md), y es lo que convierte «ya casi» en una resta.**
 
 ---
 
@@ -80,7 +80,7 @@ corridas/ente N - NOMBRE/
 
 ### Los mutantes
 
-**Los catorce, escritos en [`criterio/mutantes.md`](criterio/mutantes.md).** **Y los que se corrieron:**
+**Los catorce, escritos en [`ciclo/los%20mutantes.md`](../ciclo/los%20mutantes.md).** **Y los que se corrieron:**
 
 | Mutante | Qué rompe | Veredicto |
 |---|---|---|

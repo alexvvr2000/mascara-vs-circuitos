@@ -268,11 +268,11 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El casi hay que alcanzarlo, o el borde no sirve | [`ente 3`](metodologia%20de%20mejora/corridas/ente%203%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
-| Hay un cuarto sitio: no es de este tema | [`ente 4`](metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
-| Dos temas que dudan no se resuelven eligiendo uno | [`ente 4`](metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
-| El tema de persona se resuelve en lista de espera | [`ente 2`](metodologia%20de%20mejora/corridas/ente%202%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
-| El solapamiento se mira antes que lo demás | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
+| El casi hay que alcanzarlo, o el borde no sirve | [`ente 3`](../metodologia/corridas/ente%203%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
+| Hay un cuarto sitio: no es de este tema | [`ente 4`](../metodologia/corridas/ente%204%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
+| Dos temas que dudan no se resuelven eligiendo uno | [`ente 4`](../metodologia/corridas/ente%204%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
+| El tema de persona se resuelve en lista de espera | [`ente 2`](../metodologia/corridas/ente%202%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
+| El solapamiento se mira antes que lo demás | [`ente 9`](../metodologia/corridas/ente%209%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

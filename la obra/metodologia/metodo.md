@@ -275,7 +275,7 @@ Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no e
 
 **Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque.** **Eso tiene nombre —saturación— y es el criterio débil.**
 
-**La primera es otra, y está en el [plan de prueba de criterio](criterio/plan.md):**
+**La primera es otra, y está en el [plan de prueba de criterio](../ciclo/como%20se%20sabe%20cuando%20esta.md):**
 
 ```plaintext
 cada regla de cada ensayo tiene su mutante
@@ -295,7 +295,7 @@ y el mutante muere
                   ahorra: se corrieron trece madres, y cada una mata
                   su propia regla y nada mas. así que esto son casi
                   cuatrocientas corridas, y no catorce.
-                  está en criterio/plan.md e inclusion.md
+                  está en ciclo/como%20se%20sabe%20cuando%20esta.md e inclusion.md
 2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
                   esto cubre lo que ningún ensayo escribió
 ```
@@ -306,7 +306,7 @@ y el mutante muere
 
 **La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba:** **el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.**
 
-**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
+**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../ensayos/02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
 
 ---
 

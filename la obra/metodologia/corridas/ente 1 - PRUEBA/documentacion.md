@@ -78,7 +78,7 @@ los varios propósitos abiertos a la vez                      ✔
 
 ## Lo que quedó sin cerrar
 
-**Nada de este ente.** **Los cinco huecos se cerraron en los ensayos el mismo día, y cada uno dejó su renglón en `la obra/alineacion de entes/`.** **Y el quinto se volvió a abrir en la corrida siguiente, con otra forma.**
+**Nada de este ente.** **Los cinco huecos se cerraron en los ensayos el mismo día, y cada uno dejó su renglón en `la obra/ensayos/`.** **Y el quinto se volvió a abrir en la corrida siguiente, con otra forma.**
 
 ---
 
