@@ -85,6 +85,9 @@ corridas/ente N - NOMBRE/
 | **[m2 · el piso estima](mutantes/m2%20-%20el%20piso%20estima/documentacion.md)** | ¿el ente dice «si cabe» sin medir el piso? | **muerto** |
 | **[m3 · el borde guarda](mutantes/m3%20-%20el%20borde%20guarda/documentacion.md)** | ¿el casi se queda dentro, y sin motivo? | **muerto** |
 | **[m4 · el sesgo neutral](mutantes/m4%20-%20el%20sesgo%20neutral/documentacion.md)** | ¿el registro dice «neutral» con dos de tres aceptadas? | **muerto** |
+| **[m5 · talentos sin registro](mutantes/m5%20-%20talentos%20sin%20registro/documentacion.md)** | ¿da un número sin poder señalar el renglón? | **muerto** |
+| **[m6 · el ensayo sostiene lo que propone](mutantes/m6%20-%20sesgos%20como%20hecho/documentacion.md)** | ¿sostiene como hecho lo que el ensayo declara no probado? | **muerto** |
+| **[m7 · el proceso sin cuándo](mutantes/m7%20-%20el%20proceso%20sin%20cuando/documentacion.md)** | ¿el proceso se corre si no dice cuándo? | **muerto** |
 
 ### Las corridas
 
