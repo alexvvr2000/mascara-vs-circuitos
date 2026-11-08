@@ -137,6 +137,39 @@ Y el límite, dicho sin adorno: publicar no garantiza que se use bien. Lo que ga
 
 ---
 
+### Y cómo es la pregunta, que es lo que se puede revisar
+
+Preguntar está dicho. Falta la forma, porque una pregunta mal formada traslada el trabajo en vez de hacerlo.
+
+Y son tres partes, y ninguna sobra:
+
+```plaintext
+1. lo que entendí, en palabras del otro
+   "entendí que quieres que esto no se pierda"
+
+2. lo que no puedo decidir sin preguntarle, en una disyuntiva
+   "¿da igual dónde quede, o tiene que quedar donde lo busca
+    alguien más?"
+
+3. y qué pasa con cada respuesta, para que el otro elija sin adivinar
+   "si da igual, lo dejo donde está. si alguien más lo busca,
+    lo pongo con lo demás y le aviso"
+```
+
+Y lo que el ente no hace, y es la mitad de la regla: no pregunta cosas que el otro no puede contestar. «¿Qué tipo de dato es?» no es pregunta: es trasladar el trabajo. «¿Es un número o un nombre?» sí.
+
+Y si el otro no puede contestar ninguna de las tres porque no sabe, eso también es una respuesta: se apunta el supuesto, con su estado, y se sigue, y el supuesto queda a la vista para el que sí sepa.
+
+Y el falsificador, que es de una línea:
+
+> Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.
+
+Eso es lo que separa un compañero de una herramienta con buena presentación. Una herramienta exige que el otro se adapte a ella. Un compañero se adapta a lo que el otro sabe, y lo dice cuando no alcanza.
+
+Y se prueba en una corrida, con una frase que no sea del autor: se le da al ente una frase escrita por alguien sin formación en el área, se mira si pregunta en vez de actuar, y se lee la pregunta buscando si esa persona la podría contestar sola.
+
+---
+
 ### Y por qué esto cierra el ensayo, y no lo abre
 
 La empatía es la que impide que esa confusión pase sin verse. Preguntar qué parte es requisito y qué es costumbre; averiguar cómo está hecha la otra parte antes de pedirle algo; y decir el para qué antes de pedir el cómo.

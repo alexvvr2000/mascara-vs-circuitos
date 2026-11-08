@@ -190,7 +190,7 @@ Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice
 
 ---
 
-## V. Los cuatro defectos que se repiten
+## V. Los seis defectos que se repiten
 
 De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias. Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles. La octava trajo tres, y los tres son de una quinta familia que conviene tener aparte. Reconocerlas es lo que ahorra corridas.
 
@@ -215,20 +215,6 @@ De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro
 Y una forma que comparten la 5 y la 6, y conviene nombrarla aparte: el valor que se escribe a la manera de cada quien. Un «ninguna» que admite cinco ortografías es un valor que no se puede contar. *Se reconoce cuando la consulta que lo cuenta depende de la ortografía y no del significado.*
 
 
-### Y de dónde venía el criterio antes de esto
-
-Esto no es del método: es la historia que lo justifica, y se guarda aquí porque aquí se mantiene.
-
-Cuando se armó el ensayo del criterio, las bases con las que se trabajaba tenían el hecho y la fricción, y nada más. Ninguna columna decía cuál de las reglas volvió a ocurrir. Se tenía el registro completo y el peso de nada: como una biblioteca sin índice, donde los libros están y no se puede saber cuál está vigente.
-
-Y había una segunda falta, más sutil: el vínculo. La fricción no sabía de qué hecho nació. Se podía adivinar por la hora, y adivinar por la hora es lo que hace quien no quiere construir criterio sino justificarse.
-
-Con esas dos piezas —el desenlace y el vínculo— la base dejó de ser archivo y se volvió órgano. Y la pregunta que importa dejó de ser «¿qué sé?», y pasó a ser «¿qué de lo que sostengo ya se cayó, y cuántas veces?».
-
-Y una nota que antes vivía dentro del ensayo y aquí está mejor: los conteos no van en el ensayo. Un número dentro de un texto envejece el día que se registra el siguiente hecho, y entonces el texto dice algo que ya no es cierto. Los números van aquí, fechados, y en el banco del ente que se use.
-
-
----
 
 ## VI. Cuándo se para — y por qué «no encontré nada» no basta
 
@@ -396,48 +382,19 @@ Y lo tercero no es «explicar la IA». Es una cosa concreta y verificable:
 
 Y las palabras del otro no son las suyas. Va a decir «accion». El otro va a decir «moverlo de lugar».
 
-### La forma de la pregunta, que es lo que se puede correr
+### Y lo que este método añade a preguntar
 
-La pregunta del ente no lleva jerga, y no supone que el otro sepa cómo está hecho el sistema. Lleva tres partes:
-
-```plaintext
-1. lo que entendí, en palabras del otro
-   "entendí que quieres que esto no se pierda"
-
-2. lo que no puedo decidir sin preguntarle, en una disyuntiva
-   "¿da igual dónde quede, o tiene que quedar donde lo busca
-    alguien más?"
-
-3. y qué pasa con cada respuesta, para que el otro elija sin adivinar
-   "si da igual, lo dejo donde está. Si alguien más lo busca,
-    lo pongo con lo demás y le aviso"
-```
-
-Y lo que el ente NO hace, y es la mitad de la regla: no pregunta cosas que el otro no puede contestar. "¿Qué tipo de dato es?" no es pregunta: es trasladar el trabajo. "¿Es un número o un nombre?" sí.
-
-Y si el otro no puede contestar ninguna de las tres porque no sabe, eso también es una respuesta: se apunta el supuesto, con su estado, y se sigue — y el supuesto queda a la vista para el que sí sepa.
-
-### Y la línea que lo hace falsificable
-
-> Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.
-
-Eso es lo que separa un compañero de una herramienta con buena presentación. Una herramienta exige que el otro se adapte a ella. Un compañero se adapta a lo que el otro sabe, y lo dice cuando no alcanza.
-
-### Su prueba, y se corre en una corrida
+**El ensayo de la empatía dice por qué se pregunta. Aquí está cómo se corre la prueba, y es de una sola línea:**
 
 ```plaintext
-1. se le da al ente una frase escrita por alguien sin formación
-   en el área: un contador, un almacenista, un médico
-2. el ente no actúa: pregunta
-3. se mira la pregunta: ¿la puede contestar esa persona, sola, sin
-   ayuda de nadie?
-4. si necesita que alguien le explique cómo está hecho el sistema,
-   la pregunta está mal hecha, y se reescribe
-5. y si la frase cae en un tema de persona, el ente deja la pieza
-   en pendiente, con nombre, y no la deja pasar
+se le da al ente una frase escrita por alguien sin formación en el área
+--un contador, un almacenista, un médico-- y se mira si la pregunta
+que devuelve la puede contestar esa persona, sola, sin ayuda de nadie
 ```
 
-No cuesta meses: cuesta una corrida, con una frase que no sea del autor. Y su resultado es el mismo que el de todo lo demás: o sale un hueco, o no sale nada — y entonces se dice que no salió nada.
+**Si la pregunta necesita que el otro sepa algo de IA para contestarla, está mal hecha.**
+
+**Y lo que este método agrega a eso es cuándo se corre: en la misma corrida, con una frase que no sea del autor.** **No cuesta meses, y su resultado es el de siempre: o sale un detalle, o no sale nada, y entonces se dice que no salió nada.**
 
 ### Y lo que esta sección no es
 
@@ -552,59 +509,29 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 ---
 
-## XI. Lo que se dice hoy, con los números de hoy
+## XI. Lo que se dice hoy
+
+**Catorce corridas, y treinta detalles que los ensayos no decían.**
+
+**El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](readme.md).** **Aquí sólo lo que se puede decir del conjunto:**
 
 ```plaintext
-corridas          14
-huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2 · 2 · 2 · 1 · 2 · 3  = 30
-cerrados en el ensayo   los 12 primeros, los 3 de la octava, y los 2 de la novena
-la quinta         cerró los dos de la cuarta, sin huecos nuevos
-la sexta          la prueba de fuentes: buscó, citó y no rellenó.
-                  no encontró huecos del ensayo, y encontró 2 de la fuente
-la séptima        el piso: midió, dijo qué falta en vez de "no pude",
-                  y dejó 2 huecos del ensayo, los dos sobre el piso
-la octava         la frontera: el falsificador se cumplió —el esquema
-                  rechaza un hecho con frontera = decide y firma llena—
-                  y dejó 3 huecos, los tres de forma
-la novena         la tarea: el ente contesta por tarea y no buscando
-                  palabras, y dejó 2 huecos, los dos DE CONTENIDO
-la décima         el ciclo ENTERO, sin recortar. el piso creció de verdad
-                  y no pudo enlazar la tarea que lo hizo crecer. dejó 2
-                  huecos, los dos de contenido
-la undécima       confirmación del ciclo entero. el enlace funcionó, y por
-                  eso mismo se vio algo peor: el piso guardó «hay» para una
-                  herramienta que no estaba. dejó 2 huecos, de contenido
-la duodécima      el ciclo ENTERO, los once pasos, y el cierre con la
-                  autoridad contestando por primera vez. dejó 1 hueco: una
-                  herramienta se mide más de una vez, y el ensayo no lo decía
-la decimotercera  dos tareas que se solapan, dos autoridades, un propósito
-                  sin criterio y el piso roto. dejó 2 huecos: la vista del
-                  piso no servia para escribir sobre el, y un cierre sin
-                  criterio se distinguia por una frase
-la decimocuarta   el piso SANO por primera vez: la tarea cabia, y el ente la
-                  hizo. el primer cierre dijo «no hice: nada», y eso se
-                  miro con desconfianza: buscando a proposito, se encontraron
-                  3 huecos. los dos de fondo: una tarea puede enlazar la
-                  medicion de otra, y un cierre acepta razon vacia
-lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
-                          con un caso simulado, y lo dijo)
-la corrida 10              pendiente, y es la que más urge: el mecanismo
-                          por el que el piso crece con cada tarea que
-                          no pudo contestar está escrito y nunca se ha
-                          corrido. es el caso que el método mismo
-                          acaba de inventar, y por eso es el que hay
-                          que probar primero
+lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
+                   · 2 · 2 · 1 · 2 · 3, y no tiende a cero
+
+lo que cambió      la clase. las primeras eran de mecanismo: algo no
+                   estaba y hubo que inventarlo. las últimas son de
+                   registro: algo se puede escribir de dos maneras y
+                   sólo una se puede revisar
+
+lo que sigue       el cero. dos corridas de forma seguidas no han
+sin resolverse     pasado nunca, así que la regla de parada no se ha
+                   ejercitado
 ```
 
-Y la regla de parada se estrenó, y dice que esta serie no ha terminado.
+**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **catorce corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en catorce corridas es sospechoso; uno que sigue encontrando detalles después de catorce es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
 
-La octava fue de forma. La novena fue de contenido: el orden de la consulta escondía un solapamiento, y el piso no se puede medir antes de saber qué se va a pedir. Dos huecos de contenido, y ninguno de forma.
-
-Así que la 9 no fue la última. La 10 lo será si sale de forma, y también si sale de contenido — porque con dos corridas de contenido seguidas ya se sabe que hay algo que cerrar, y lo que sigue después de cerrarlo es forma.
-
-Y la regla de la casa, que también aplica aquí: si una corrida no encuentra nada, se dice que no encontró nada, y no se presenta como que el ensayo ya está bien. La quinta no encontró huecos nuevos — pero no probó todo lo que el ensayo pide. Corrida limpia sin trampas no es corrida completa.
-
-Y la sexta dejó la prueba más incómoda a la vista, y se apunta entera: el caso fue simulado, así que la cuarta condición —que alguien sin formación hiciera algo con la respuesta— no se probó. La corrida probó que el ente cita y no rellena; no probó que la respuesta sirva a alguien. Y la norma mexicana de mortero no se puede descargar, así que "citar la norma" no es una prueba que se pueda cumplir: hay que citar quién reporta la norma, y decir que la norma no se abrió.
+**Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.**
 
 ---
 
