@@ -167,6 +167,10 @@ Una columna que dice «me corrigió el 4» admite que se sobrescriba. Y entonces
 
 La corrección es un enlace: el hecho nuevo apunta al viejo, se puede corregir muchas veces, y todas las correcciones se ven. La última no tapa a las anteriores.
 
+Y el enlace tiene el mismo problema que la columna, si nadie lo cuida: se puede borrar. Un enlace que se borra devuelve la historia atrás, y lo hace sin dejar huella, que es peor que sobrescribir una marca.
+
+Así que la regla no es sobre la forma. Es sobre el registro entero: lo que el registro dice que pasó no se borra, sea marca, enlace o fila. Y cuando algo se corrige mal, se corrige con otra corrección, y no editando la anterior.
+
 Y si el hecho viejo era el apoyo de un supuesto roto, corregirlo reabre el supuesto. Pero eso sólo pasa si el que corrige marca el viejo en la misma operación. Si la marca es un paso aparte, se puede olvidar, y el supuesto se queda roto contra algo que ya no dice lo que decía.
 
 Y hay una cosa más, y es la que casi nadie mira: que el registro rechace lo que debe no depende del registro. Depende de quien lo abre.

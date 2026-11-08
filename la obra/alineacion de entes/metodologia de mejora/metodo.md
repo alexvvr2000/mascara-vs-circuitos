@@ -206,6 +206,14 @@ Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice
 
 **Y la razón de que estos dos sí sean de aquí:** **uno se confunde con un hueco del ensayo, y el otro con un hueco del ciclo.** **Los dos estropean la corrida sin que el ensayo tenga nada que arreglar.**
 
+**Y uno más, que es del que hace la prueba y no del ente: la prueba que no podía fallar.**
+
+Se prueba «se puede borrar un rechazo» con `DELETE ... WHERE id=1`, y el esquema lo «acepta» — porque no había ningún rechazo con ese id. Un borrado que no borra nada no es una prueba: es una línea que salió bien.
+
+*Se reconoce cuando la prueba pasa y no se sabe por qué, y cuando el caso que la prueba usa no está puesto antes a propósito.*
+
+**Y el contra, en una línea:** antes de decir que algo se acepta, hay que comprobar que había algo que aceptar.
+
 
 ## VI. Cuándo se para — y por qué «no encontré nada» no basta
 
@@ -470,13 +478,13 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 ## XI. Lo que se dice hoy
 
-**Diecisiete corridas, y treinta y seis detalles que los ensayos no decían.**
+**Dieciocho corridas, y treinta y ocho detalles que los ensayos no decían.**
 
 **El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](readme.md).** **Aquí sólo lo que se puede decir del conjunto:**
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
-                   · 2 · 2 · 1 · 2 · 3 · 2 · 1 · 3, y no tiende a cero
+                   · 2 · 2 · 1 · 2 · 3 · 2 · 1 · 3 · 2, y no tiende a cero
 
 lo que cambió      la clase. las primeras eran de mecanismo: algo no
                    estaba y hubo que inventarlo. las últimas son de
@@ -498,12 +506,17 @@ en la 17           la última, porque la corrección era una columna; y el
                    supuesto que se apoyaba en ese hecho se quedo roto.
                    la corrección es un enlace, no una marca
 
+lo que apareció    el enlace tampoco alcanza, si nadie lo cuida: una
+en la 18           corrección se borra y la historia vuelve atrás, y su
+                   razón se reescribe. la regla no es la forma: lo que
+                   el registro dice que pasó no se borra
+
 lo que sigue       el cero. dos corridas de forma seguidas no han
 sin resolverse     pasado nunca, así que la regla de parada no se ha
                    ejercitado
 ```
 
-**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **diecisiete corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en diecisiete corridas es sospechoso; uno que sigue encontrando detalles después de diecisiete es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
+**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **dieciocho corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en dieciocho corridas es sospechoso; uno que sigue encontrando detalles después de dieciocho es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
 
 **Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.**
 
