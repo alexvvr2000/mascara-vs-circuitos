@@ -69,6 +69,22 @@
 
 ---
 
+## Y el número, para quien quiera cerrar lo que se empezó
+
+**Lo que falta del lado del autor está medido, y está en [`../la obra/metodologia/autor/el aproximado.md`](../la%20obra/metodologia/autor/el%20aproximado.md):**
+
+```plaintext
+486 reglas contadas · 13 mutantes corridos
+~123 líneas de código por mutante
+entre 30 y 50 sesiones para el resto
+```
+
+**Y el resto —el código, y que alguien más lo levante— no tiene número, porque no hay con qué sacarlo.**
+
+**Y si alguien quiere el número de las cuatro salidas: la cuarta no se termina.** **Se está en ella.**
+
+---
+
 ## Falsificador
 
 **Cuatro salidas escritas y ninguna ejercida.** **La señal, en el acto:** **si las cuatro están aquí y las cuatro siguen sin que nadie haya tomado ninguna.**

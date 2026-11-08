@@ -210,6 +210,9 @@ Los límites, dichos con nombre:
 6. implementacion/          DONDE SE DEJA, Y CON QUÉ SE SIGUE SIN EL AUTOR
      autor/                     el stack elegido, y el punto donde se deja
      usuario/                   el formato vacío, para llenarlo con lo que se quiera
+
+7. la obra/metodologia/autor/el aproximado.md
+                            cuánto falta para terminar lo que se empezó
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
