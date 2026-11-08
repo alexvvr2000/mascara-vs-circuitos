@@ -526,7 +526,16 @@ Y el cierre apunta a la autoridad declarada, no a un texto libre. Si guardara un
 
 **Dónde queda:** la propuesta va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró y con qué se cumplió. Un cierre que dice «ya quedó» se discute; uno que dice «los ocho ensayos están en tres carpetas y el push salió» no.
 
-Y una consecuencia que hay que saber antes de implementar: una prueba nunca va a cerrar nada sola, porque la autoridad no está. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
+Y una consecuencia que hay que saber antes de implementar: una prueba nunca va a cerrar nada sola, porque la autoridad no está.
+
+Y una más, que se ve al correr el ciclo entero por primera vez: el cierre del propósito y el cierre del piso son dos cosas distintas, y se confunden.
+
+```plaintext
+el propósito   se termina cuando algo se acabó, y lo cierra la autoridad
+el piso        no se termina: sigue diciendo lo que falta, con nombre
+```
+
+Un trabajo puede estar terminado y el piso seguir diciendo que falta una herramienta. No es una contradicción: es el estado real. Un ente que cerrara el piso al cerrar el propósito estaría tapando la falta con una firma. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
 
 **Falsificador:** un ente que pregunta lo que ya está escrito en lo que pasó; uno que cierra solo un propósito que no decía cuándo estaba cumplido; y un cierre sin nombre, o con un nombre escrito a mano.
 

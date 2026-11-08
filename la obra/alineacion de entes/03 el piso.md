@@ -167,6 +167,15 @@ la tarea           para decir "ya la tengo". pero si vuelve, tiene que
 
 **La regla que este ensayo adopta, y se puede correr:** **el enlace lo hace el que mide, y la medición lleva anotado qué tarea la pidió.** **Medir sin decir para qué se mide es medir de más, y no saber a quién se le acaba de responder.**
 
+**Y una tercera, que se encuentra al correr el ciclo entero: una herramienta se mide más de una vez, y las dos mediciones se quedan.**
+
+```plaintext
+la del arranque    mide lo que hay, y no la pidió ninguna tarea
+la de después      mide lo que una tarea pidió, y lleva esa tarea anotada
+```
+
+**Y no se borra la vieja para que la vista se vea limpia.** **Un piso que borra su historia no se puede revisar: no se puede decir cuándo se midió, ni por qué.** **La vista toma la última, y la última es la que vale; las anteriores son el rastro de haber medido.**
+
 **Y una segunda cosa, que se ve al intentarlo:** **si el enlace falla, no se lleva la tarea consigo.** **Una tarea sin enlace es un dato que se puede volver a preguntar; una tarea borrada por un error de enlace es un dato que ya no existe.** **El orden es: primero la tarea, después el enlace, y lo que falle se apunta en vez de borrar.**
 
 **Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
@@ -197,8 +206,8 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | se guardó el `Traceback`, y esa es la corrección que este ensayo ya incorpora |
 | El ente contesta por tarea y no buscando palabras | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
 | El piso no se puede medir a ciegas | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
-| El piso crece con cada tarea que no pudo contestar | [`ente 10`](metodologia%20de%20mejora/corridas/ente%2010%20-%20COMPLETO/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
-| La salida de un `hay` prueba la herramienta, y no el programa | [`ente 11`](metodologia%20de%20mejora/corridas/ente%2011%20-%20CONFIRMA/) | **falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía** |
+| El piso crece con cada tarea que no pudo contestar | [`ente 10`](metodologia%20de%20mejora/corridas/ente%2010%20-%20CRECE/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
+| La salida de un `hay` prueba la herramienta, y no el programa | [`ente 11`](metodologia%20de%20mejora/corridas/ente%2011%20-%20HAY/) | **falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía** |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
