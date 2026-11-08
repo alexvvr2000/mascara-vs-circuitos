@@ -15,11 +15,11 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 
 ---
 
-## Las once afirmaciones
+## Las doce afirmaciones
 
 Cada afirmación dice dónde vive y qué la sostiene. Y su falsificador está en su ensayo, al final. Cuando una no trae uno propio, es porque usa el de su ensayo: si ese falsificador se cumple, la afirmación se cae, y se dice dónde.
 
-Y no son once ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
+Y no son doce ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
 
 ```plaintext
 un ente es su rastro                          (1)
@@ -33,6 +33,7 @@ y para que nada de eso se pierda, la forma manda en el índice (8)
 y nada de eso sirve si no se entiende al que pide (9)
 y lo que se busca no está adentro (10)
 y lo único que no llegó con la máquina es el esfuerzo (11)
+y lo que ninguna de las once puede probar, se dice (12)
 ```
 
 Si se cae el eslabón 1, los otros diez no se sostienen solos. Por eso el ensayo que lo defiende es el primero, y por eso cada afirmación vive en un ensayo con su falsificador.
@@ -114,6 +115,22 @@ Qué lo sostiene: una regla de lectura, no una creencia. Lo de afuera se puede s
 Qué sostiene: lo que la máquina no trajo es el esfuerzo, y lo que se destruye al quitar los seguros para ir más rápido es eso mismo. La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos. Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.
 Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se escribió y se corrigió, cuando lo barato era dejarla pasar. Y ese renglón, corregido a mano, es la prueba de que el esfuerzo dejó marca.
 
+### 12. Máquina de sesgos: lo que no puedo probar
+
+**Vive en:** `la obra/alineacion de entes/10 maquina de sesgos.md`.
+
+**Qué sostiene:** que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. **Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.**
+
+**Qué lo sostiene:** el teorema de Gödel, que no descalifica la matemática sino la idea de que un sistema de pasos describa todo lo que hay. **Y los nueve ensayos anteriores, que son la evidencia de que algo no lineal se puede meter en una base lineal sin perderlo.**
+
+**Y el estado, que es lo que la hace honesta:** **`ALAS` no está probado.** **Es un protocolo, y lo que se sostiene no es que funcione: es que no se puede descartar como una tontería.** **Son cosas distintas.**
+
+**Y lo que la tumba:** una afirmación de este ensayo que no se pueda escribir como condición — **porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.**
+
+**Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de los doce que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.**
+
+---
+
 ## Lo que NO se afirma
 
 - **No se afirma que exista una conciencia dentro de un modelo**, ni dentro de un ente. Se trabaja **sobre el rastro**, y el rastro no requiere resolver esa pregunta.
@@ -153,7 +170,7 @@ Este documento es la posición en lista. Lo que la puso a prueba está abajo.
 | En el índice, la forma es la fuente | [`ente 4 - CANTERA`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%204%20-%20CANTERA/) | el borde mira los campos, no el texto |
 | Los entes necesitan el piso medido | [`ente 7 - PISO`](alineacion%20de%20entes/metodologia%20de%20mejora/corridas/ente%207%20-%20PISO/) | midió, y dijo qué falta en vez de «no pude» |
 
-Y lo que esta tabla no dice: ninguna de estas once ideas ha sido probada por alguien que no sea el autor. Se sostienen, y no se presentan como validadas.
+Y lo que esta tabla no dice: ninguna de estas doce ideas ha sido probada por alguien que no sea el autor. Se sostienen, y no se presentan como validadas.
 
 ---
 

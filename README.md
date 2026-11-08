@@ -31,7 +31,7 @@ Alejandro Valenzuela Rivera.
 
 Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA. Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.
 
-De esa discusión salieron once afirmaciones. De las once, una carrera. Y del cansancio, esto.
+De esa discusión salieron once afirmaciones, y una duodécima que no se puede probar. De las once, una carrera. Y del cansancio, esto.
 
 Y la apuesta fue entre dos identidades, que es lo que dice el nombre.
 
@@ -57,11 +57,11 @@ Máscara contra circuitos. Y aquí, las dos se la quitaron.
 
 ## Qué es esto, y para quién
 
-Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Nueve ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.
+Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Diez ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.
 
 Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-Qué puedes hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de las once afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
+Qué puedes hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de las doce afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
 
 No incluye guía. El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
 
@@ -126,6 +126,7 @@ Los límites, dichos con nombre:
      E7  indexador de temas     dónde vive lo que sabe
      E8  el borde del tema      cómo se escribe un borde que se pueda correr
      E9  criterio y sesgos      qué es del ente y qué del cuerpo
+     E10 maquina de sesgos      lo que este trabajo no puede probar
 
 4. la obra/humanidad/
      H1  empatía                cómo se entiende antes de pedir
@@ -141,7 +142,7 @@ Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que deber�
 
 ---
 
-## Las once ideas
+## Las doce ideas
 
 Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E8` la alineación de entes, y `H1` … `H3` la humanidad.
 
@@ -158,6 +159,7 @@ Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsifica
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
 | **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
+| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `E10` |
 
 La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/0 mis ideas.md`](./la%20obra/0%20mis%20ideas.md).
 
