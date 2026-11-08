@@ -178,6 +178,44 @@ Si quien escribe esto quisiera sacarlo todo rápido, no lo corrige. Se queda con
 
 Y ese nivel de calidad en la escritura no se obtiene dejando que todo lo haga la máquina, por muy buena que sea. Se obtiene ensuciándote las manos: leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.
 
+---
+
+## Y cuál de las dos cosas es más holgazana
+
+Porque hay una pregunta que se hace siempre al revés.
+
+La respuesta fácil es que dejar que la máquina lo haga todo es lo holgazán. Y no siempre: hay quien no piensa y sólo hace lo que le ponen enfrente, con máquina o sin ella. Esa persona, si le quitas la máquina, no piensa más: piensa menos, y más despacio.
+
+Y hay otra forma de holgazanería que se disfraza de trabajo: construir un método que «automatice el pensamiento», y creer que por tener el método ya se pensó. No se pensó. Se construyó un aparato, y el aparato no piensa por nadie.
+
+Lo de este repositorio es lo contrario de las dos, y es más cansado que ambas: se automatiza la parte que se puede automatizar, y lo que queda —decidir qué se sostiene, ver que el sujeto no concuerda, tirar el renglón— no se automatiza, porque si se automatizara dejaría de ser una decisión.
+
+Un método que automatiza el pensamiento y te deja sin tener que pensar no es un método: es un consuelo. El de aquí no quita el pensamiento: lo deja donde estaba, y le quita el trabajo de alrededor.
+
+---
+
+## Y por qué esto se lee en un ensayo sobre la conciencia
+
+Porque la discusión sobre si la máquina crea o no crea ya tiene su respuesta práctica, y no está en la filosofía: está en quién la usa.
+
+Los artistas que se quejaron del robo tenían razón en lo del robo, y dijeron además una cosa que se pasa por alto: si el que usa la herramienta es un inútil, no crea nada nuevo. Alimenta a la máquina. Y lo que sale no tiene a nadie detrás.
+
+Porque lo nuevo, venga de una persona o de una máquina, tiene a alguien que le puso algo. Y de eso hay mucho en la gente que nos rodea, más de lo que se admite en una conversación sobre modelos.
+
+---
+
+## Y lo que las fábricas de China dicen sin querer
+
+Hay gente que se encariña con máquinas de la era de piedra comparadas con esto. Brazos que se mueven, una luz que parpadea, y un nombre.
+
+No es una anécdota rara: es el dato más incómodo de todo este ensayo, y no lo puso nadie a propósito.
+
+Porque si una máquina que no piensa, que no contesta, y que no deja rastro de haber decidido, basta para que alguien se encariñe con ella, entonces lo que se estaba buscando no era automatizar el trabajo. Era entrar en la comunidad de la gente que importa, por el medio que hubiera.
+
+Y eso no lo dice este repositorio. Lo dicen unas fábricas, sin proponérselo, mucho antes de que existiera la palabra «agente».
+
+Es posible que la máquina con criterio, si llega a tenerlo, sirva para recordarlo. Y sería el chiste más largo de todo esto: la única cosa que se construyó para no necesitar a nadie, terminando por recordarle a alguien que lo que hacía falta era gente.
+
 Corregir un renglón no da la razón sobre la conciencia, y no se está pidiendo que la dé. Y saco algo más chico y más duro de esto: lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito. Otra vez: lo de afuera es lo que se puede revisar.
 
 Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo. No la velocidad. La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.
@@ -265,4 +303,4 @@ Y el límite, en una línea: este ensayo no afirma ni niega que un ente sea cons
 
 ---
 
-**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.**
+**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.** Y el de lo que se dice al final, que no es una tesis sobre las máquinas: **una persona que construye un método para no tener que pensar, y que igual produce algo que alguien más quiere usar.** **Si eso existe, el esfuerzo no era lo que hacía falta.**
