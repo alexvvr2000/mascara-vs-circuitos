@@ -27,6 +27,14 @@ Alejandro Valenzuela Rivera.
 
 ---
 
+> **Antes de creerme nada, dos páginas:**
+>
+> **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y que nada de esto lo revisó nadie más que quien lo escribió.
+>
+> **[Dónde está esto hoy](los%20papeles/ESTADO.md)** — lo que está hecho, y la lista completa de lo que falta, con nombre.
+
+---
+
 ## La apuesta, y de dónde salió esto
 
 Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA. Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.
@@ -144,9 +152,12 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
 Los límites, dichos con nombre:
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **El alcance de la evidencia: catorce corridas, un autor, un entorno.**
+- **El alcance de la evidencia: dieciocho corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
+- **Los 417 mutantes del plan de prueba no se han corrido, y el plan que dice cuánto falta no ha empezado a restar.** **Es una intención con números, y se dice.**
+
+**Y lo que puede estar equivocado, no solo lo que falta, está en [`los papeles/LIMITES.md`](los%20papeles/LIMITES.md).** **Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.**
 
 ---
 

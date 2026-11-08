@@ -79,6 +79,32 @@ Luis Ángel Gutiérrez Rodríguez revisó la versión inicial de este trabajo. D
 
 Su revisión no lo vuelve autor de lo que está escrito, y no se le atribuye. Lo que se le atribuye es lo que hizo: señalar dónde el texto no sostenía lo que decía, antes de que lo señalara un lector.
 
+### Y lo que nadie revisó
+
+**Esto va aquí, con la misma letra que lo demás, porque decir quién revisó sin decir qué quedó sin revisar es contarlo a medias.**
+
+```plaintext
+no revisó       nadie de afuera los doce ensayos ni las dieciocho corridas.
+                lo que está revisado, lo revisó quien lo escribió y la
+                máquina que lo ayudó
+
+no hubo         un segundo autor de las corridas: una persona, una
+                máquina, el mismo cuerpo de modelo en las dieciocho
+
+no hubo         comparación medida contra otro trabajo, solo contraste
+                de forma
+
+no hubo         mutantes corridos: el plan que dice cuánto falta existe,
+                y todavía no se ha restado nada
+
+no hubo         una forma de saber si esto sirve: eso sólo se ve si
+                alguien lo usa, y eso no está en manos de quien lo escribió
+```
+
+**Y el límite de este párrafo, que también se dice:** **que yo declare que no hubo revisión externa no vuelve el trabajo más sólido.** **Lo vuelve más creíble al leerlo, que no es lo mismo.**
+
+**Un error declarado sigue siendo un error.** **La declaración sirve para que nadie se lleve una sorpresa, no para absolver.**
+
 ---
 
 ## 5. En qué idioma está escrito, y por qué así
