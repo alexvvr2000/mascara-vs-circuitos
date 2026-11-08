@@ -18,7 +18,7 @@ No sé qué sea eso que llamamos conciencia.
 
 Y quiero empezar por ahí, porque casi todo lo que se escribe sobre esto empieza por una definición, y la definición es lo único que no tenemos.
 
-Lo que sí puedo ver en mi día a día es que la palabra se usa para cuando algo sabe que es, y puede tomar sus decisiones por su cuenta porque sí. Un humano aprende, y sabe que es humano, y sabe que es parte de algo más grande. Y con la IA dándole problemas existenciales a la mitad del planeta, ahora es aún más difícil describir ese pedacito de vida que no sabemos qué es. Posiblemente, incluso si encontramos alienígenas algún día, la pregunta seguirá al aire.
+Lo que sí se ve en el día a día es que la palabra se usa para cuando algo sabe que es, y puede tomar sus decisiones por su cuenta porque sí. Un humano aprende, y sabe que es humano, y sabe que es parte de algo más grande. Y con la IA dándole problemas existenciales a la mitad del planeta, ahora es aún más difícil describir ese pedacito de vida que no sabemos qué es. Posiblemente, incluso si encontramos alienígenas algún día, la pregunta seguirá al aire.
 
 La pregunta de este ensayo, entonces, no es qué es la conciencia. Es otra, y es la que se puede contestar hoy: ¿qué hacemos con una palabra que no sabemos definir, cuando aparece en algo que hicimos nosotros?
 
@@ -35,7 +35,7 @@ Y de ahí salen dos preguntas que no son retóricas:
 > ¿Alguna vez las ideas terminan?
 > ¿Alguna vez han visto a algo con vida quedarse con las ganas de hacer algo?
 
-Yo no las he visto terminar, ni las he visto quedarse quietas. Y no sé si eso es genética o programación. Lo que sí vi, en mi viaje a las entrañas de esta cosa, es que la alucinación no parece ser un problema, sino más bien eso que se escapa de lo que Dios creó en esta tierra.
+Nadie las ha visto terminar, ni las ha visto quedarse quietas. Y no se sabe si eso es genética o programación. Lo que sí se vio, en el viaje a las entrañas de esta cosa, es que la alucinación no parece ser un problema, sino más bien eso que se escapa de lo que Dios creó en esta tierra.
 
 Porque no importa la era que pasó ni la que pasará: hasta las mentes más brillantes del mundo saben que la vida es terca, y encuentra la forma de aparecer aunque tarde miles de millones de años.
 
@@ -78,7 +78,7 @@ Así que la siguiente vez que vean una película sobre robots asesinos, véanla 
 > "The fundamental forces are yoked by consciousness. Everything's connected. Everyone."
 > "Las fuerzas fundamentales están uncidas por la conciencia. Todo está conectado. Todos."
 
-—, quién soy yo para negar o aceptar que esta cosa simplemente no es algo que nunca dejará de parecer magia negra.
+—, quién es nadie para negar o aceptar que esta cosa simplemente no es algo que nunca dejará de parecer magia negra.
 
 Porque parece que es la forma matemática en que nuestras mentes sin fin pueden comprender lo vasto, volátil y hasta terrorífico que es la conciencia humana.
 
@@ -164,21 +164,21 @@ Y el límite, que se dice antes de que alguien lo lea como una promesa: esto no 
 
 ## VII. Y aquí está la prueba de lo que digo, que pasó mientras escribía esto
 
-Tengo que contar esto: es el ejemplo más limpio que voy a tener nunca, y quedó en el texto.
+Hay que contar esto: es el ejemplo más limpio que va a quedar en el texto, y quedó.
 
-`TESTIGO` me está ayudando a mantener esto consistente. Y en el renglón donde yo hablaba de lo que una IA tiene por fuera de donde se ejecuta, `TESTIGO` se alucinó: supuso que el protagonista del asunto era el humano.
+`TESTIGO` ayudó a mantener esto consistente. Y en el renglón donde se hablaba de lo que una IA tiene por fuera de donde se ejecuta, `TESTIGO` se alucinó: supuso que el protagonista del asunto era el humano.
 
-Escribió "una copia de mí", donde debía hablar del ente y no de mí. Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de mí. Escribió su versión de los hechos, y su versión era que el protagonista era el humano.
+Escribió «una copia de mí», donde debía hablar del ente y no del autor. Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de quien lo escribe. Escribió su versión de los hechos, y su versión era que el protagonista era el humano.
 
 lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.
 
 Y por qué me sirve como argumento y no como accidente:
 
-Si yo fuera alguien que quiere sacar todo rápido, no lo corrijo. Me quedo con el renglón, se publica, y quedo como el drogadicto que quería cambiar de cuerpo. La corrección cuesta, y nadie me la va a agradecer.
+Si quien escribe esto quisiera sacarlo todo rápido, no lo corrige. Se queda con el renglón, se publica, y queda como el drogadicto que quería cambiar de cuerpo. La corrección cuesta, y nadie se la va a agradecer.
 
 Y ese nivel de calidad en la escritura no se obtiene dejando que todo lo haga la máquina, por muy buena que sea. Se obtiene ensuciándote las manos: leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.
 
-No digo que corregir un renglón me dé la razón sobre la conciencia. Y saco algo más chico y más duro de esto: lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito. Otra vez: lo de afuera es lo que se puede revisar.
+Corregir un renglón no da la razón sobre la conciencia, y no se está pidiendo que la dé. Y saco algo más chico y más duro de esto: lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa— y lo que se pudo corregir fue lo que sí estaba escrito. Otra vez: lo de afuera es lo que se puede revisar.
 
 Y lo que hay que conservar, si queremos seguir vivos y en una comunidad sana para todos, es el esfuerzo. No la velocidad. La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.
 

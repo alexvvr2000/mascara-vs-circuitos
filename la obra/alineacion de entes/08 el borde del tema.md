@@ -90,7 +90,7 @@ El borde no dice "no sé". Dice dónde termina lo obvio.
 ```plaintext
 de aquí para acá   es obvio que sí. Y no se discute
 de aquí para allá  es obvio que no. Y no se discute
-y en medio         no lo digo yo. Lo dice lo que el borde declare
+y en medio         no lo dice quien escribe. Lo dice lo que el borde declare
                    en `y si duda`, y con eso ya basta para decidir
 ```
 

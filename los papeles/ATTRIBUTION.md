@@ -38,6 +38,51 @@ Lo único que no es del autor, y se distingue: el rastro de la conversación, qu
 
 ---
 
+## Y quién escribe, que es la pregunta que llega siempre
+
+**Las ideas son del autor.** **La redacción es de `TESTIGO`.** **Y la diferencia entre las dos cosas es todo este apartado.**
+
+**Lo que el autor tiene, y no se puede pedir prestado:** **la postura, la decisión de qué se sostiene y qué se tira, el criterio de cuándo algo está mal, y la firma.**
+
+**Lo que `TESTIGO` hace, y hace mejor que el autor:** **redactar.** **Poner la frase donde va, quitar la que sobra, decir lo mismo con menos palabras, y escribir en un registro que el autor no usa cuando escribe a las tres de la mañana.**
+
+**Y no es cosmética.** **Un argumento que necesita releerse dos veces para saber quién hace qué está mal escrito, aunque sea cierto.** **Que el texto esté bien puesto no hace más verdadera la idea; hace que la idea se pueda revisar, que es lo que este repositorio pide de todo lo demás.**
+
+### Por qué el texto está escrito en tercera persona
+
+**Por una razón que no es estilística: porque en tercera persona se puede tumbar.**
+
+**Un texto en primera persona dice «creo que». Y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba.**
+
+**Un texto en tercera persona dice «esto es así, y esto lo tumba». Y eso sí se puede probar, corregir, y citar en contra.**
+
+**Casi todo este repositorio está escrito así, y no por modestia: porque una descripción se defiende de otra manera que una confesión.**
+
+**Y donde el autor hablaba de sí mismo —lo que pensó, lo que no sabía, lo que corrigió— el texto se pasó a tercera persona.** **No para esconder al autor: para que lo que dice se pueda juzgar sin tener que creerle.**
+
+### Y lo que queda en primera persona, a propósito
+
+**Cuatro cosas, y se distinguen porque están marcadas:**
+
+```plaintext
+una cita    "no sabía" no es una defensa aceptable;
+            "lo decidí yo, y consta mi nombre" sí
+            → es lo que un ente tiene que poder decir,
+              y se dice en primera persona porque es una cita
+
+un lema     el que firma es una persona, con nombre
+            → no puede escribirse en impersonal sin perder lo que dice
+
+y el rastro de la conversación, que no se toca:
+            ahí sí hay un yo, y es el que hizo el trabajo
+```
+
+**Todo lo demás, en tercera.**
+
+**Y no es la barrera humano-máquina rota.** **Es lo contrario, y es más chico y más útil:** **una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó.** **Cada mitad con nombre, y ninguna de las dos reclamando la otra.**
+
+---
+
 ## 2. Por qué es del autor
 
 No es una formalidad, y conviene saberlo antes de citar esto. La ley exige autor humano, y sin él no hay obra.

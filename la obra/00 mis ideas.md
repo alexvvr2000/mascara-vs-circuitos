@@ -3,7 +3,7 @@
 Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.
 Alejandro Valenzuela Rivera.
 
-> Para qué sirve este archivo. Quien lea tiene derecho a preguntar cuál es mi posición y por qué es mía, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con dónde vive y qué la sostiene. Lo que no está en esta lista es discusión, ejemplo o método: no es una tesis.
+> Para qué sirve este archivo. Quien lea tiene derecho a preguntar cuál es la posición de este trabajo y por qué es suya, sin tener que reconstruirla leyendo veinte mil palabras. Aquí están las afirmaciones que se sostienen, cada una con dónde vive y qué la sostiene. Lo que no está en esta lista es discusión, ejemplo o método: no es una tesis.
 
 Y la apuesta que las une, y es lo primero que hay que entender de todo esto:
 
