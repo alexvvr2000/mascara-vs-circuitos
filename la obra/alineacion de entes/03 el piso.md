@@ -60,6 +60,17 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 
 Y lo que el ente hace mientras tanto, que es lo que separa un ente de un script: sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias. No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.
 
+Y una cosa que se descubre al intentarlo, y es del piso roto y no del sano: romper el piso es lo primero que escribe sobre él.
+
+```plaintext
+el piso sano     se lee: qué hay, qué falta, y con qué fecha
+el piso roto     se escribe encima: qué falló, cuándo, y si se volvió
+                 a medir. y para escribir sobre una medición hay que
+                 poder señalarla
+```
+
+Así que un piso que sólo se puede leer no sirve para romperse. La medición tiene que poder señalarse: un id, una fecha, y de qué tarea vino. Y lo que se lee no tiene por qué venir de la misma vista que lo que se escribe: para leer basta lo vigente, y para escribir se va a la tabla.
+
 Y la prueba del piso, que es la única que vale: se le pide al ente algo que el piso no tiene, y tiene que decir que no está en el piso — no que no pudo, y mucho menos hacerlo a medias.
 
 Y la diferencia entre las dos frases, que es toda la diferencia: "no pude" no dice qué falta. "No está en el piso" sí, y se puede llenar.

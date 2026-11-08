@@ -524,8 +524,8 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          12
-huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2 · 2 · 2 · 1  = 25
+corridas          13
+huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2 · 2 · 2 · 1 · 2  = 27
 cerrados en el ensayo   los 12 primeros, los 3 de la octava, y los 2 de la novena
 la quinta         cerró los dos de la cuarta, sin huecos nuevos
 la sexta          la prueba de fuentes: buscó, citó y no rellenó.
@@ -546,6 +546,10 @@ la undécima       confirmación del ciclo entero. el enlace funcionó, y por
 la duodécima      el ciclo ENTERO, los once pasos, y el cierre con la
                   autoridad contestando por primera vez. dejó 1 hueco: una
                   herramienta se mide más de una vez, y el ensayo no lo decía
+la decimotercera  dos tareas que se solapan, dos autoridades, un propósito
+                  sin criterio y el piso roto. dejó 2 huecos: la vista del
+                  piso no servia para escribir sobre el, y un cierre sin
+                  criterio se distinguia por una frase
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
                           con un caso simulado, y lo dijo)
 la corrida 10              pendiente, y es la que más urge: el mecanismo

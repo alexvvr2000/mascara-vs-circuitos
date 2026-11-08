@@ -535,7 +535,18 @@ el propósito   se termina cuando algo se acabó, y lo cierra la autoridad
 el piso        no se termina: sigue diciendo lo que falta, con nombre
 ```
 
-Un trabajo puede estar terminado y el piso seguir diciendo que falta una herramienta. No es una contradicción: es el estado real. Un ente que cerrara el piso al cerrar el propósito estaría tapando la falta con una firma. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
+Un trabajo puede estar terminado y el piso seguir diciendo que falta una herramienta. No es una contradicción: es el estado real. Un ente que cerrara el piso al cerrar el propósito estaría tapando la falta con una firma.
+
+Y una tercera, y es la que hace que un cierre sin criterio se pueda revisar: cuándo un propósito sin «cumplido si» se cerró porque se preguntó, y no porque alguien supuso.
+
+```plaintext
+lo que NO basta   cerrarlo con una razón que suene bien. «ya quedó» pasa
+                  igual que «no decía cuándo estaba cumplido, y se preguntó»
+lo que sí         que el cierre lleve su propio registro: que se preguntó,
+                  cuándo, y quién contestó
+```
+
+Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cierra porque alguien contestó una pregunta. Si eso no queda en un campo, la diferencia entre haber preguntado y haber supuesto vive en la redacción, y la redacción se escribe sola. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
 
 **Falsificador:** un ente que pregunta lo que ya está escrito en lo que pasó; uno que cierra solo un propósito que no decía cuándo estaba cumplido; y un cierre sin nombre, o con un nombre escrito a mano.
 
