@@ -45,7 +45,9 @@ y el stack      es una implementación de la conclusión. hay muchas
 1. metodo.md          el ejercicio: el ciclo entero, qué se apunta, los
                       defectos que se repiten, cuándo se para, y lo que
                       pasa cuando el que corre ya no entiende lo que corre
-2. corridas/          las dieciocho veces que se corrió, en orden
+2. criterio/plan.md   cómo se sabe cuándo está: los mutantes, y el
+                      conteo de reglas. es lo que dice cuánto falta
+3. corridas/          las dieciocho veces que se corrió, en orden
 ```
 
 **Y cada corrida tiene dos cosas:**

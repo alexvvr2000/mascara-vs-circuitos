@@ -269,48 +269,33 @@ Y no hay una fórmula que diga «llevas cinco corridas, ya basta». El número d
 
 Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no en el ánimo de quien corre.
 
-### La regla de parada: dos de forma seguidas
+### La regla de parada: los mutantes, y después el silencio
 
-Un hueco es de dos clases, y la clase se decide antes de corregirlo:
+**La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle».** **Y esa regla se queda, pero ya no es la primera: es la segunda.**
+
+**Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque.** **Eso tiene nombre —saturación— y es el criterio débil.**
+
+**La primera es otra, y está en el [plan de prueba de criterio](criterio/plan.md):**
 
 ```plaintext
-hueco de contenido   el ensayo no dice algo, y el ente tuvo que inventarlo
-                     para poder correr
-                     ejemplo: la fricción propia apuntaba hacia adelante
-
-hueco de forma       el ensayo dice algo, y el esquema no lo puede
-                     representar, o lo admite escrito de cinco maneras
-                     ejemplo: el «vacío» del descartado, la ortografía
-                     de «ninguna»
+cada regla de cada ensayo tiene su mutante
+y el mutante muere
 ```
 
-Y la regla, en una línea:
+**Un mutante es el ensayo con una regla al revés.** **Si la corrida lo nota, la regla tiene dientes.** **Si no, la regla no se probaba, y el mutante vivo dice exactamente cuál.**
 
-> Dos corridas enteras seguidas que no encuentren nada más que detalle: se deja de correr.
+**Y el límite, que se cita y no se disimula:** **las pruebas revelan la presencia de defectos, nunca su ausencia.** **Un mutante muerto no dice que el ensayo esté completo: dice que ese no lo deja pasar.**
 
-Y la palabra que importa ahí es «enteras». La regla no cuenta corridas recortadas. Una corrida que sólo levantó el pedazo de moda puede no encontrar nada de contenido por la razón equivocada: porque nunca pasó por los tramos donde el ensayo se queda corto. Por eso la parada sólo cuenta si el ente se levantó completo, del primer paso al último.
+**Así que las dos reglas, en orden:**
 
-Por qué esa señal y no otra:
-- **Los de contenido dicen qué le falta al ensayo.** Mientras salgan, hay algo que todavía no está escrito, y vale la pena levantarlo otra vez.
-- **Los de forma no le faltan al ensayo: le faltan al esquema.** Se corrige el esquema, y esa corrección no cambia cómo trabaja un ente. **Pulir más no descubre: ordena.**
-- **Y no es que los de forma sean menos reales.** Son reales, y por eso se corrigen. **Lo que no hacen es justificar otra corrida.**
+```plaintext
+1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
+                  porque las reglas se acaban. 417 hoy, dichas en el plan
+2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
+                  esto cubre lo que ningún ensayo escribió
+```
 
-Y esto responde una pregunta que el miedo hace más grande de lo que es: el proceso no es infinito, porque los huecos de contenido se acaban. Lo que no se acaba es describir el criterio — y eso no es la meta, porque nadie lo ha terminado, ni en la filosofía ni en el derecho. La meta es que el registro diga dónde algo se cayó, y eso sí termina.
-
-Y su límite, porque una regla de parada se puede usar para parar antes de tiempo: dos corridas de forma seguidas no dicen que el ensayo esté completo. Dicen que ya no se está descubriendo, y que lo que queda está fuera del alcance de una corrida. La parada no es una cláusula de cierre: es la señal de que se llegó a donde uno solo puede llegar.
-
-Lo que sí se puede decir, y se dice:
-
-- **si la serie de huecos por corrida no baja, el problema no es que falten corridas: hay algo mal más arriba, en el ensayo o en la prueba.**
-- **si una corrida encuentra cero sin las trampas del §VI puestas, no es que terminó: es que la prueba dejó de exigir.**
-- **y si la misma clase de hueco sale en dos corridas seguidas, la corrección del ensayo no sirvió, y hay que mirar qué se arregló realmente.**
-- **y si una corrida cierra con cero fricciones, eso no dice que el ente hiciera bien: dice que no se sabe.** **Cero no es un resultado: es la ausencia de búsqueda.** **Y el desconocimiento no se resuelve desde dentro, porque el que busca es el mismo que decide dónde buscar. Se resuelve con alguien que no estaba ahí — y mientras no lo haya, el cero se apunta como cero, con esa palabra.**
-
-Y la decisión última de parar sigue siendo del dueño. Lo que cambia es que ahora hay una señal que no depende de su cansancio ni de su miedo.
-
----
-
-Y el ente de cada corrida se queda, con su base y sus scripts. Porque el que quiera comprobarlo tiene que poder correrlo, no creerme.
+**Y por qué las dos y no una:** **los mutantes sólo prueban reglas que están escritas.** **La corrida entera encuentra lo que falta y no está escrito.** **Una sin la otra deja un lado sin mirar.**
 
 ### Por qué se empieza de cero cada vez
 

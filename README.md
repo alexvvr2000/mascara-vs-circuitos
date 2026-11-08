@@ -102,7 +102,13 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
 **Y cuándo se termina, que es la meta y se dice entera:**
 
-> **Dos corridas enteras seguidas que no encuentren nada más que detalle. Ahí se para, y se publica.**
+> **Cada regla de cada ensayo tiene su mutante, y el mutante muere.**
+>
+> **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
+
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`criterio/plan.md`](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/plan.md), con sus fuentes.**
+
+**La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
 **La regla completa, con su porqué:**
 
@@ -116,6 +122,8 @@ un hueco de forma      el ensayo lo dice, y el esquema no lo puede guardar
 dos de forma seguidas  ya no se está descubriendo: se está ordenando.
                        se para
 ```
+
+**Y lo que se puede contar hoy:** **417 reglas en los doce ensayos, y cero mutantes corridos todavía.** **Ese número es el que falta, y por eso el plan sirve: se puede restar.**
 
 **Y su límite, para que no se use para parar antes de tiempo:** **dos corridas de forma no dicen que el ensayo esté completo.** **Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.**
 

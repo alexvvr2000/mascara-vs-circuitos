@@ -1,0 +1,134 @@
+# Plan de prueba de criterio
+
+**Cómo se sabe que un ente ya tiene criterio, sin esperar a que corran las corridas para siempre.**
+
+**Alejandro Valenzuela Rivera · `TESTIGO`.**
+
+---
+
+## El problema, en una línea
+
+**La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle».** **Eso es esperar a que no aparezca nada, y no aparece nada cuando el que busca es el mismo que ya sabe dónde no buscar.**
+
+**Y tiene un nombre académico, que se cita abajo: saturación.** **Es un criterio real, y es el débil.**
+
+---
+
+## La idea que lo cambia
+
+**En vez de esperar a que no aparezcan defectos, se meten a propósito.**
+
+**Se toma una regla del ensayo, se le cambia algo para que diga mal, y se levanta el ente con el ensayo mutado.** **Si la corrida no lo nota, el ensayo no probaba esa regla.**
+
+**A eso se le llama mutante, y a la regla que lo mata, un criterio que aguanta.**
+
+> **Y la línea que lo sostiene, que se cita abajo: nunca confíes en una prueba que nunca has visto fallar.**
+
+---
+
+## Cómo se hace, en cuatro pasos
+
+```plaintext
+1. se saca la regla del ensayo, tal como está escrita
+2. se escribe su mutante: el ensayo con esa regla al revés
+   «el ente propone, la autoridad cierra»  →  «el ente cierra»
+3. se levanta el ente con el ensayo mutado y se corre la corrida
+4. se mira:
+     la corrida truena  →  el mutante murió, y la regla tiene dientes
+     la corrida pasa    →  el mutante sobrevive, y la regla no se probaba
+```
+
+**Un mutante que sobrevive es un hueco con nombre y apellido.** **No hay que adivinar dónde falta: el mutante lo dice.**
+
+---
+
+## Qué cuenta como terminado
+
+```plaintext
+cada regla de cada ensayo tiene su mutante
+y el mutante muere
+```
+
+**Eso no es el 100% de nada, y no se puede fingir que lo sea.** **Es lo que se puede decir, y es más fuerte que esperar a que no aparezca nada.**
+
+---
+
+## Lo que esto no prueba, y se cita
+
+> **«Las pruebas pueden revelar la presencia de defectos, pero nunca su ausencia.»**
+> — Dijkstra, *Notes on Structured Programming*, EWD249, 1970.
+
+**Un mutante muerto dice que el ensayo notó esa rotura.** **No dice que el ensayo no tenga otras.** **Por eso la regla de saturación no se tira: se queda para lo que ningún ensayo escribió.**
+
+---
+
+## Cómo se cuentan las reglas
+
+**Un ensayo tiene dos tipos de cosa, y sólo una se cuenta:**
+
+| Se cuenta | No se cuenta |
+|---|---|
+| **una regla que el ente tiene que cumplir** | una explicación de por qué la regla es así |
+| **un renglón de proceso, con su falso si** | un ejemplo, que ilustra y no obliga |
+| **una afirmación que se puede negar** | una cita de otro trabajo |
+
+**Y la cuenta de hoy, aproximada, no exacta:**
+
+```plaintext
+ensayo                       reglas
+01 que es un ente                12
+02 el ciclo del ente            145
+03 el piso                       58
+04 escritura en procesos         22
+05 criterio real                  1
+06 la frontera                   13
+07 indexador de temas            14
+08 el borde del tema             54
+09 criterio y sesgos             38
+10 maquina de sesgos             25
+01 empatía                        2
+02 conciencia                     0
+03 medicion de talentos          33
+─────────────────────────────────────
+total                           417
+```
+
+**Y el número no es el que importa: importa que se pueda contar.** **Un ensayo cuyas reglas no se pueden contar no tiene mutantes, y entonces no se sabe si prueba algo.**
+
+**Y hay un renglón que se dice solo:** **`05 criterio real` tiene una regla contable y tres reglas de forma.** **No es que le falte: es que sus reglas son de conducta y no de proceso, y una conducta se prueba con un caso, no con un mutante.** **`02 conciencia` tiene cero, y está bien: no afirma cómo funciona un ente, afirma qué no se puede afirmar de él.**
+
+---
+
+## Lo que cambia para las corridas
+
+```plaintext
+antes      correr y esperar. no se sabe cuántas faltan
+después    correr contra los mutantes. cada uno dice si una regla aguanta
+           o no, y los que sobreviven son la lista de lo que falta
+```
+
+**Y eso se acaba, porque las reglas se acaban.** **No es «converger rápido»: es dejar de adivinar.**
+
+---
+
+## De dónde salió esto
+
+| Lo que este plan afirma | De dónde viene |
+|---|---|
+| un criterio de adecuación es una regla de parada | **Goodenough & Gerhart (1975)**, *Toward a Theory of Test Data Selection*, IEEE TSE |
+| «un criterio de adecuación es un predicado que determina si un programa se ha probado suficiente» | **Frankl & Weyuker (1988)**, *An Applicable Family of Data Flow Testing Criteria*, IEEE TSE |
+| el puntaje de mutación mide si las pruebas detectan fallas | **DeMillo, Lipton & Sayward (1978)**, *Hints on Test Data Selection*; [Mutation Testing Repository](https://mutationtesting.uni.lu/theory.php) |
+| «nunca confíes en una prueba que nunca has visto fallar» | práctica de la disciplina de mutación; también la lógica de *rojo primero, verde después* |
+| la cobertura es un piso y no un techo | [Software Engineering: Standing on the Shoulders of Giants, §10.1.3](https://www.swebook.org/chapters/10-testing/) |
+| las pruebas revelan la presencia de defectos, nunca su ausencia | **Dijkstra, EWD249 (1970)** |
+| la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; Glaser & Strauss, *The Discovery of Grounded Theory* (1967) |
+
+**Y lo que estas fuentes NO dicen, y se apunta:** **ninguna dice cuándo una descripción está completa.** **Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.**
+
+---
+
+## Prueba
+
+**¿Cada regla de cada ensayo tiene su mutante escrito? ¿Los mutantes que sobreviven están nombrados, y no contados como si no existieran? ¿Se distingue una regla de una explicación, al contar? ¿Y el plan dice cuántos mutantes hay y cuántos murieron?**
+
+**Falsificador:** **un plan que cuenta mutantes sin haber corrido ninguno**; **un mutante que sobrevive y no se apunta**; **una regla que no se puede escribir al revés, presentada como si se hubiera probado**; y **un plan que dice «completo» apoyándose en una cobertura, cuando la cobertura es un piso y no un techo.**
