@@ -519,6 +519,24 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 **Falsificador:** **un método que declara un paso completo sin haber corrido el caso que lo pone a prueba** — **y el caso más común es el que el propio método acaba de inventar, porque es el que nadie ha tocado todavía.**
 
+### Y lo que pasa cuando el que corre ya no entiende lo que corre
+
+**Esto va escrito aquí, con fecha, porque va a pasarle a quien lea esto con atención: hay un punto en que ya no sabes qué está ocurriendo.**
+
+**Y no es que el método falle. Es que el ente no tiene ego y ve cosas que uno no ve.**
+
+**Eso tiene una consecuencia concreta, y desagradable:** **si alguien pregunta, paso por paso, qué pasó exactamente en cada uno, puede que no haya respuesta.** **No porque se esconda algo: porque el que corre el método y el que lo lee no son el mismo, y el que ejecuta no necesita entender lo que ejecuta.**
+
+**Y eso está bien.** **El método no pide comprensión paso por paso: pide que cada paso deje su rastro y que el cierre diga qué falta.** **Si el rastro está, no hace falta que nadie recite la historia de memoria.**
+
+**Y de ahí una cosa que se descubrió corriéndolo, y es del método y no del ente:** **lo que uno quería no es siempre lo que hacía falta.** **Se empezó queriendo entender los mecanismos de un criterio, y lo que salió es un mecanismo que la persona menos capaz puede correr con la guía correcta.** **No es lo mismo, y es mejor de lo que se buscaba.**
+
+**Y el límite, que se dice sin adornos:** **la tentación, en ese punto, es parar.** **Parar porque uno ya no entiende lo que corre parece prudencia, y la mayoría de las veces es miedo con buena reputación.** **Lo que distingue una cosa de la otra es una sola: si el rastro está o no está.** **Si está, seguir no es imprudente: es no haberse asustado. Si no está, parar es lo correcto, y hay que parar.**
+
+**Y lo que este método no puede contestar, y no va a fingir que contesta:** **qué hacer con un mecanismo que funciona y que ya no se entiende entero.** **Eso no es una pregunta de método. Es una pregunta de qué se hace con las herramientas que uno construye, y cada quien la contesta donde puede.**
+
+**Falsificador:** **un método que exige que el que lo corre explique cada paso de memoria** — **eso no mide criterio, mide retentiva**; **y su contrario: un método que, cuando nadie entiende lo que pasó, sigue corriendo sin mirar si el rastro está.**
+
 ---
 
 ## XI. Lo que se dice hoy, con los números de hoy
