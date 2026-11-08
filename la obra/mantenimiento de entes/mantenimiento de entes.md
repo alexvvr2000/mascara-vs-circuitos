@@ -275,7 +275,7 @@ Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no e
 
 **Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque.** **Eso tiene nombre —saturación— y es el criterio débil.**
 
-**La primera es otra, y está en el [plan de prueba de criterio](../../ciclo/como%20se%20sabe%20cuando%20esta.md):**
+**La primera es otra, y está en el [plan de prueba de criterio](../../metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md):**
 
 ```plaintext
 cada regla de cada ensayo tiene su mutante
@@ -306,7 +306,7 @@ y el mutante muere
 
 **La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba:** **el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.**
 
-**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../../ensayos/02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
+**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../ensayos/02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
 
 ---
 
@@ -470,7 +470,7 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 **Dieciocho corridas, y treinta y ocho detalles que los ensayos no decían.**
 
-**El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](../readme.md).** **Aquí sólo lo que se puede decir del conjunto:**
+**El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](../00%20mis%20ideas.md).** **Aquí sólo lo que se puede decir del conjunto:**
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2

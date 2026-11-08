@@ -80,7 +80,7 @@ python publicar.py crudo.json --comprobar # falla si queda algo que identifique
 | **los tokens** | `stats.py` | el informe de la sesión |
 | **el costo por hallazgo** | `cruzar.py` | el informe |
 | **los hallazgos por corrida** | la cuenta de la documentación | `../autor/el aproximado.md` |
-| **lo que se probó de las reglas** | un mutante por familia | `../../ciclo/los mutantes.md` |
+| **lo que se probó de las reglas** | un mutante por familia | `../../metodologia/ciclo/los mutantes.md` |
 
 **Y lo que nunca se mide de memoria:** **el tiempo.** **No se apuntó en las dieciocho corridas, y estimarlo después es inventar.**
 

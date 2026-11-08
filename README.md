@@ -31,7 +31,7 @@ Alejandro Valenzuela Rivera.
 >
 > **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y con qué se sabría.
 >
-> **[El registro de cómo se llegó](la%20obra/metodologia/autor/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
+> **[El registro de cómo se llegó](metodologia/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
 >
 > **Y por qué las dos:** **esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó.** **Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas.** **Con el camino a la vista, hay una tercera: revisarlo.**
 
@@ -116,11 +116,11 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 >
 > **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
 >
-> **Y la meta de todo esto no es el final: es [el piso mínimo](la%20obra/ciclo/como%20se%20corre.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
+> **Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/ciclo/como%20se%20corre.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`la obra/ciclo/como se sabe cuando esta.md`](la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`la obra/ciclo/como se sabe cuando esta.md`](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -174,15 +174,17 @@ Los límites, dichos con nombre:
 
 2. la obra/00 mis ideas    la posición en lista, y qué la tumba
 
-3. la obra/ciclo/           LO QUE SE COPIA Y SE CORRE
-     como se corre              el piso mínimo: qué hace falta para empezar
-     como se sabe cuando esta   los mutantes, y la resta de lo que falta
-     los mutantes               los catorce, con su línea concreta
-     las familias               las reglas, agrupadas, y su regla madre
-     por que no se corre todo   la inclusión, y por qué casi no ahorra
-     la tabla de inclusion      cuántas reglas hay de verdad
+3. metodologia/             EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
+     LEEME.md                   qué se hace aquí, y dónde se apunta cada cosa
+     indice.md                  una línea por corrida, y cabe en una pantalla
+     ciclo/                     cómo se corre, cuándo se para, y los mutantes
+     corridas/                  las dieciocho, en árbol uniforme
+     mutantes/                  los trece corridos
+     herramientas/              stats · cruzar · publicar · CÓMO CONTINUAR
+     historia/                  el registro con fecha, y los errores propios
+     el aproximado.md           cuánto falta, medido con lo que se hizo
 
-4. la obra/ensayos/         EL MATERIAL
+4. la obra/ensayos/         QUÉ DEBE SER UN ENTE
      01  que es un ente         la definición, y por qué necesita una autoridad
      02  el ciclo del ente      los pasos, uno por uno
      03  el piso                qué mide antes de prometer
@@ -197,21 +199,13 @@ Los límites, dichos con nombre:
      12  conciencia             qué hacemos con una palabra que no sabemos definir
      13  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
 
-5. la obra/metodologia/     CÓMO SE LLEGÓ, Y CÓMO SE SIGUE
-     usuario/                   lo que sirve con cualquier stack
-       metodo.md                  el ejercicio: cómo se corre y cuándo se para
-     autor/                     lo que pasó aquí, con fecha
-       corridas/                  las dieciocho, en árbol uniforme
-       mutantes/                  los trece corridos
-       historia/                  el registro, y los ocho errores propios
-       el aproximado.md           cuánto falta para terminar lo que se empezó
-     mantenedor/                para quien se queda con el repositorio
-       lo inexplicable.md         cómo se persigue algo que no se termina
-       herramientas/              stats · cruzar · publicar · CÓMO CONTINUAR
+5. la obra/mantenimiento de entes/   CÓMO SE MANTIENE UNO
+     mantenimiento de entes.md  la dirección genérica
+     lo inexplicable.md         cómo se persigue algo que no se termina
 
-6. implementacion/          DONDE SE DEJA, Y CON QUÉ SE SIGUE SIN EL AUTOR
-     autor/                     el stack elegido, y el punto donde se deja
-     usuario/                   el formato vacío, para llenarlo con lo que se quiera
+6. implementacion/          LAS DOS QUE SE COPIAN A UN PROYECTO
+     ejemplo/                   con stack puesto: se arrastra y se trabaja
+     usuario/                   sin stack: la puerta, para quien sólo quiere rapidez
 
 7. la obra/metodologia/autor/el aproximado.md
                             cuánto falta para terminar lo que se empezó
@@ -288,7 +282,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 **Y eso no es una frase amable: es la condición del trabajo.** **Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
 
-**Y el stack que se eligió está en [`implementacion/autor/stack.md`](implementacion/autor/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
+**Y el stack que se eligió está en [`implementacion/ejemplo/stack.md`](implementacion/ejemplo/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
 
 
 **Y una distinción que ahí se hace y conviene saber antes:** **el motor y el mercado son gusto; la base de grafos no lo es.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones, y `graphdblite` es una base de grafos embebida con Cypher.** **Un motor es un motor; un grafo no es una tabla.**

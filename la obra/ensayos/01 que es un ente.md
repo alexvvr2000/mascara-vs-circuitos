@@ -269,9 +269,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| La definición se puede aplicar a algo concreto | [`01 - PRUEBA`](../metodologia/autor/corridas/01%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
-| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`05 - 2026-11-05_153210`](../metodologia/autor/corridas/05%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
-| El modelo no define al ente | [`06 - FUENTE`](../metodologia/autor/corridas/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
+| La definición se puede aplicar a algo concreto | [`01 - PRUEBA`](../../metodologia/corridas/01%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
+| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`05 - 2026-11-05_153210`](../../metodologia/corridas/05%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
+| El modelo no define al ente | [`06 - FUENTE`](../../metodologia/corridas/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
