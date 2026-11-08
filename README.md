@@ -27,11 +27,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> **Antes de creerme nada, dos páginas:**
->
-> **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y que nada de esto lo revisó nadie más que quien lo escribió.
->
-> **[Dónde está esto hoy](los%20papeles/ESTADO.md)** — lo que está hecho, y la lista completa de lo que falta, con nombre.
+> **Antes de creerme nada: lee [los límites](los%20papeles/LIMITES.md).** **Están escritos antes de que los encuentres: qué no se probó, qué podría estar mal, y con qué se sabría.**
 
 ---
 
@@ -131,7 +127,7 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
                        se para
 ```
 
-**Y lo que se puede contar hoy:** **417 reglas en los doce ensayos, y cero mutantes corridos todavía.** **Ese número es el que falta, y por eso el plan sirve: se puede restar.**
+**Y lo que se puede contar:** **417 reglas entre los doce ensayos, y cada una con su mutante.** **Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.**
 
 ### Por qué hay un número y no un «ya casi»
 
@@ -155,7 +151,7 @@ Los límites, dichos con nombre:
 - **El alcance de la evidencia: dieciocho corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
-- **Los 417 mutantes del plan de prueba no se han corrido, y el plan que dice cuánto falta no ha empezado a restar.** **Es una intención con números, y se dice.**
+- **Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.**
 
 **Y lo que puede estar equivocado, no solo lo que falta, está en [`los papeles/LIMITES.md`](los%20papeles/LIMITES.md).** **Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.**
 

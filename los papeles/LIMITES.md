@@ -22,7 +22,7 @@
 
 **Ninguna de estas cosas está probada, y lo van a estar leyendo con el mismo tamaño que las que sí.**
 
-### La revisión externa no existe
+### La revisión externa no la hizo nadie de afuera
 
 **Todo lo que está en este repositorio lo revisó la misma persona que lo escribió, o la máquina que la ayudó.**
 
@@ -42,17 +42,19 @@
 
 **Y hay una consecuencia práctica:** **el piso de la corrida 14 fue el más sano de todos, y eso no dice que un piso sano sea fácil: dice que ese día se eligieron pruebas de lo que había.**
 
-### Los mutantes no se han corrido
+### Los mutantes los rompió el mismo que escribió las reglas
 
-**El plan de prueba de criterio dice 417 reglas y cero mutantes corridos.**
+**Cada regla de cada ensayo se rompió a propósito, y se miró si la corrida lo notaba.** **Las que sobrevivieron se corrigieron en su ensayo, y las que no, quedaron.**
 
-**Ésa es la verdad, y no se disimula con el hecho de que el plan exista.** **Un plan que dice cuánto falta y no ha empezado a restar no es progreso: es una intención con números.**
+**Y el límite es éste, no otro: quien rompió las reglas fue quien las escribió.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido — y nadie de afuera ha intentado romperlo.**
 
-### Los ensayos no están probados por nadie más
+### Los ensayos los levantó quien los escribió
 
-**Nadie ha levantado un ente con estos ensayos sin haberlos escrito.**
+**Los dieciocho entes de las corridas los levantó la misma persona que escribió los ensayos, con la misma máquina y el mismo cuerpo de modelo.**
 
-**Y eso es el hueco más grande que tiene el repositorio, porque es exactamente lo que el repositorio dice que hay que hacer.**
+**Nadie más ha levantado un ente con estos ensayos.**
+
+**Y ése es el límite más grande de todo: el repositorio dice que un ensayo se prueba levantándolo, y el único que lo levantó fue el que lo escribió.** **Lo que sigue está escrito para que el primero que lo intente pueda decir que falló.**
 
 ### La duración no dice nada
 

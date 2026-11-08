@@ -84,7 +84,7 @@ y el mutante muere
 | **un renglón de proceso, con su falso si** | un ejemplo, que ilustra y no obliga |
 | **una afirmación que se puede negar** | una cita de otro trabajo |
 
-**Y la cuenta de hoy, aproximada, no exacta:**
+**La cuenta, aproximada y no exacta, porque contar reglas es contar de más a veces:**
 
 ```plaintext
 ensayo                       reglas

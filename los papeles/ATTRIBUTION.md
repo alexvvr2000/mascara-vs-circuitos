@@ -94,8 +94,9 @@ no hubo         un segundo autor de las corridas: una persona, una
 no hubo         comparación medida contra otro trabajo, solo contraste
                 de forma
 
-no hubo         mutantes corridos: el plan que dice cuánto falta existe,
-                y todavía no se ha restado nada
+y los mutantes   los rompió quien escribió las reglas, no un tercero:
+                un ensayo que aguanta a su propio autor todavía no
+                aguanta a un desconocido
 
 no hubo         una forma de saber si esto sirve: eso sólo se ve si
                 alguien lo usa, y eso no está en manos de quien lo escribió

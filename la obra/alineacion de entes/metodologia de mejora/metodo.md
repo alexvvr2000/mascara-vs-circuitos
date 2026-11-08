@@ -290,7 +290,8 @@ y el mutante muere
 
 ```plaintext
 1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
-                  porque las reglas se acaban. 417 hoy, dichas en el plan
+                  porque las reglas se acaban. son 417, y están en
+                  criterio/plan.md, una por una
 2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
                   esto cubre lo que ningún ensayo escribió
 ```

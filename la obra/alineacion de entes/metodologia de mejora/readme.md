@@ -137,4 +137,4 @@ corridas/ente N - NOMBRE/
 
 **Está en el §III del ejercicio, y se publica por un motivo:** **el que corra esto tiene que saber que le toca a él, y no sólo al papel.**
 
-**Y no hay guía para levantar el ente, y no la va a haber aquí: el ensayo se prueba levantándolo, no escribiendo cómo se levanta.**
+**Y aquí no la va a haber: el ensayo se prueba levantándolo, no escribiendo cómo se levanta. Una guía sin probar es una promesa, y este repositorio no publica promesas.**
