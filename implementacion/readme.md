@@ -6,6 +6,14 @@
 
 ---
 
+## Y esto se queda como está
+
+**La implementación no se pone en ninguna máquina, y no se instala nada.** **Se deja escrita, con lo que investigó, y se continúa cuando haya corridas.**
+
+**Lo que falta para que se pueda publicar como plugin —`package.json`, `cordis.patch.yml`, código, y un `pip install` de verdad— está en [`autor/como llegaria a otras manos.md`](autor/como%20llegaria%20a%20otras%20manos.md), con sus fuentes.**
+
+---
+
 ## Las dos carpetas, y qué es cada una
 
 | La carpeta | De quién es | Qué lleva |

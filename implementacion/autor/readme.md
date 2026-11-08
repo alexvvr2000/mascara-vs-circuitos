@@ -10,6 +10,7 @@
 |---|---|
 | **[`stack.md`](stack.md)** | **el stack elegido, en una tabla que se llena a mano** |
 | **[`cuando muta el stack.md`](cuando%20muta%20el%20stack.md)** | **la regla: cuando un ensayo cambia, el stack se vuelve a mirar** |
+| **[`como llegaria a otras manos.md`](como%20llegaria%20a%20otras%20manos.md)** | **la investigación: qué falta para publicarlo como plugin, con sus fuentes** |
 | **[`codigo/`](codigo/)** | **va cuando acabe todo. hoy está vacía** |
 
 **Y la tabla no está repetida aquí.** **Está en `stack.md`, y se llena allá.**
