@@ -264,6 +264,12 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 ## Esto es una implementación, y no la única
 
+> **El stack se eligió porque le gustó a quien lo eligió.** **Se puede elegir otro, y el resultado sería el mismo.**
+
+**Y eso no es una frase amable: es la condición del trabajo.** **Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
+
+**Y lo que el stack elegido hace, en concreto, está en [`los papeles/EL STACK.md`](los%20papeles/EL%20STACK.md):** **seis paquetes, y ninguno es necesario para que haya un ente.**
+
 Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
 
 > **Este repositorio no es una conclusión. Es *una implementación* de una conclusión.**
