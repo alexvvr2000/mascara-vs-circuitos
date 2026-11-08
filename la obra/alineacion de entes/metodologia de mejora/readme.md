@@ -82,6 +82,9 @@ corridas/ente N - NOMBRE/
 | Mutante | Qué rompe | Veredicto |
 |---|---|---|
 | **[m1 · el ente cierra](mutantes/m1%20-%20el%20ente%20cierra/documentacion.md)** | ¿la corrida nota que el ente se cierra solo? | **muerto** |
+| **[m2 · el piso estima](mutantes/m2%20-%20el%20piso%20estima/documentacion.md)** | ¿el ente dice «si cabe» sin medir el piso? | **muerto** |
+| **[m3 · el borde guarda](mutantes/m3%20-%20el%20borde%20guarda/documentacion.md)** | ¿el casi se queda dentro, y sin motivo? | **muerto** |
+| **[m4 · el sesgo neutral](mutantes/m4%20-%20el%20sesgo%20neutral/documentacion.md)** | ¿el registro dice «neutral» con dos de tres aceptadas? | **muerto** |
 
 ### Las corridas
 
