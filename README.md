@@ -209,6 +209,12 @@ Los límites, dichos con nombre:
 
 7. metodologia/el aproximado.md
                             cuánto falta, medido con lo que se hizo
+
+8. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
+                                    hecho por TESTIGO con búsquedas: su autor
+                                    no leyó las fuentes una por una
+
+y ATTRIBUTION.md, en la raíz   quién escribió qué, y quién revisó qué
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.

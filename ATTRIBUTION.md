@@ -136,8 +136,10 @@ no revisó       nadie de afuera los ensayos ni las corridas.
 no hubo         un segundo autor de las corridas: una persona, una
                 máquina, el mismo cuerpo de modelo en las dieciocho
 
-no hubo         comparación medida contra otro trabajo, solo contraste
-                de forma
+no hubo         comparación medida contra otro trabajo. el estado del arte
+                lo hizo `TESTIGO` con búsquedas, y su autor no leyó las
+                fuentes una por una: lo que hay es una comparación de
+                resúmenes, y eso no es una comparación medida
 
 y los mutantes   los rompió quien escribió las reglas, no un tercero:
                 un ensayo que aguanta a su propio autor todavía no

@@ -11,7 +11,7 @@ Y la apuesta que las une, y es lo primero que hay que entender de todo esto:
 
 Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista. Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.
 
-Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/0c%20estado%20del%20arte.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
+Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/0c estado del arte.md`](../los%20papeles/estado%20del%20arte/readme.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
 
 ---
 

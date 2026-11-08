@@ -2,7 +2,9 @@
 
 **Qué hay antes de este trabajo, en cada campo que toca, y qué le falta a cada uno.** **Con su fuente, y con la fecha en que se abrió.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.**
+**Hecho por `TESTIGO` con búsquedas en el registro público, el 2026-11-08.** **Su autor no leyó las fuentes una por una.**
+
+**Y eso se dice antes de leer nada, porque cambia lo que esta página es:** **es una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura.** **Lo que sigue está escrito con esa advertencia encima.**
 
 ---
 
@@ -226,13 +228,15 @@ Nick Carr              el efecto que se le atribuye a la pantalla no tiene medic
                        y por eso NO se usa como fuente en este documento
 ```
 
-**Y lo que esto significa:** **las columnas de «qué guarda» salen de los resúmenes; la de «qué le falta» es lectura de este trabajo, y no un resultado medido.**
+**Y lo que esto significa, dicho sin rodeos:** **las columnas de «qué guarda» salen de los resúmenes; la de «qué le falta» es lectura de este trabajo, y no un resultado medido.**
+
+**Y falta el renglón que importa:** **ninguna de estas fuentes la leyó el autor de este repositorio.** **Las buscó `TESTIGO`, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes.** **Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.**
 
 ---
 
 ## Prueba
 
-**¿Cada sistema tiene su fuente, su identificador y su año?** **¿La falla que se le atribuye está citada, y no inventada?** **¿Se dice lo que a este trabajo le falta, incluido el trabajo más cercano que lo deja corto?** **¿Y se distingue lo que se tomó de lo que se aportó?**
+**¿Cada sistema tiene su fuente, su identificador y su año?** **¿La falla que se le atribuye está citada, y no inventada?** **¿Se dice lo que a este trabajo le falta, incluido el trabajo más cercano que lo deja corto?** **¿Y se distingue lo que se tomó de lo que se aportó?** **¿Y se dice que lo hizo una máquina, y que el autor no lo revisó?**
 
 ---
 
