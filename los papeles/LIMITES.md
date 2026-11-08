@@ -46,7 +46,7 @@
 
 **Cada regla de cada ensayo se rompió a propósito, y se miró si la corrida lo notaba.** **Las que sobrevivieron se corrigieron en su ensayo, y las que no, quedaron.**
 
-**Y el límite es éste, no otro: quien rompió las reglas fue quien las escribió.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido — y nadie de afuera ha intentado romperlo.**
+**Y el límite es éste, no otro: quien rompió las reglas fue quien las escribió.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido — y ninguno de afuera lo intentó todavía.** **Eso no es un pendiente que le toque a otro: es lo que el piso mínimo, escrito aparte, tiene que hacer posible.**
 
 ### Los ensayos los levantó quien los escribió
 

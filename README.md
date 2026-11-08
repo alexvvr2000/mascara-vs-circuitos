@@ -115,6 +115,10 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 > **Cada regla de cada ensayo tiene su mutante, y el mutante muere.**
 >
 > **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
+>
+> **Y la meta de todo esto no es el final: es [el piso mínimo](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/piso%20minimo.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
+
+**El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
 **La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia de mejora/criterio/plan.md`](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/plan.md), con sus fuentes.**
 
@@ -306,7 +310,7 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 | **417 reglas contadas** | `metodologia de mejora/criterio/plan.md`, una por una, y cada una con su mutante |
 | **el registro de cómo se hizo** | `metodologia de mejora/historia/`, con fechas, incluidas las ideas que se cayeron |
 
-**Y lo que falta, que no se esconde: la implementación mínima, y que alguien que no sea el autor levante un ente con esto.**
+**Y lo que falta, que no se esconde: la implementación mínima, y que el piso quede lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto.** **Lo segundo no es un requisito de terceros: es lo que el trabajo tiene que dejar puesto.**
 
 **Esos dos no están hechos.** **Todo lo de la tabla de arriba sí, y se puede comprobar hoy sin pedirle permiso a nadie.**
 
