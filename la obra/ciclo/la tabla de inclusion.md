@@ -51,7 +51,7 @@ que hay que correr        203
 ## El número que sale
 
 ```plaintext
-reglas en los doce ensayos           417
+reglas en los trece ensayos          417
 que no afirman nada de un ente        25   (conciencia: 0 · máquina de sesgos: 25
                                             de borde, no de conducta)
 ─────────────────────────────────────────

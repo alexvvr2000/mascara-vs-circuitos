@@ -32,7 +32,7 @@
 |---|---|
 | **el stack, elegido y escrito** | **sí** |
 | **la metodología, con sus dieciocho corridas** | **sí** |
-| **los catorce ensayos** | **sí** |
+| **los trece ensayos** | **sí** |
 | **el código, para instalar y usar** | **no** |
 | **un ente levantado con esto, por alguien que no sea su autor** | **no** |
 

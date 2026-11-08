@@ -12,7 +12,7 @@
 
 | Lo que hay | Cuánto | De dónde sale |
 |---|---|---|
-| **reglas contadas** | **486** | los catorce ensayos, contados por renglón de proceso, bloque y afirmación |
+| **reglas contadas** | **486** | 417 en los trece ensayos, y 69 en el que explica el proceso |
 | **mutantes corridos** | **13** | uno por familia, y todos murieron |
 | **código por mutante** | **~123 líneas de Python** | 1,606 líneas entre los trece |
 | **calidad del dato** | **buena para el código, mala para el tiempo** | el código se cuenta; el tiempo no se apuntó |
@@ -43,6 +43,24 @@ y a una corrida por renglón 473 corridas
 ```
 
 **Entre treinta y cincuenta sesiones.** **Y cada sesión es un día de trabajo de este tamaño, no un rato.**
+
+### Y una advertencia sobre las cuentas, porque hay dos y dicen cosas distintas
+
+```plaintext
+486 reglas contadas en total (417 en los trece ensayos, y 69 en el que
+explica el proceso)
+
+486 - 13 ya probadas  =  473 por correr
+486 - 25 que no afirman nada de un ente  =  461
+
+y si se restan las dos cosas:  461 - 13  =  448
+```
+
+**Las tres son ciertas, y cada una responde a una pregunta distinta.** **La de 473 cuenta todo lo que falta.** **La de 461 cuenta lo que un ente de verdad puede cumplir.** **La de 448 es la que queda de lo cumplible.**
+
+**Y la que se usa para planear es 473, porque es la más conservadora: si alguna de las 25 sí se puede cumplir, la de 448 se queda corta.**
+
+---
 
 ### Si se acepta lo que la tabla de inclusión encontró
 

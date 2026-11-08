@@ -72,7 +72,7 @@ ALAS               deja el símbolo para que el siguiente caso lo parta
 
 ```plaintext
 lo que hay        cuatro piezas, un ciclo de nueve pasos, un registro de
-                  hecho · fricción · desenlace, diez ensayos escritos, y
+                  hecho · fricción · desenlace, trece ensayos escritos, y
                   trece reglas probadas con su mutante
 
 lo que falta      que el que sabe menos pueda empezar. eso no se prueba

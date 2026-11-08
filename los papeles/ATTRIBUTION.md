@@ -129,7 +129,7 @@ Su revisión no lo vuelve autor de lo que está escrito, y no se le atribuye. Lo
 **Esto va aquí, con la misma letra que lo demás, porque decir quién revisó sin decir qué quedó sin revisar es contarlo a medias.**
 
 ```plaintext
-no revisó       nadie de afuera los doce ensayos ni las dieciocho corridas.
+no revisó       nadie de afuera los trece ensayos ni las dieciocho corridas.
                 lo que está revisado, lo revisó quien lo escribió y la
                 máquina que lo ayudó
 

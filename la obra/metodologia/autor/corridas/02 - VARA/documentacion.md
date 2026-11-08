@@ -14,7 +14,7 @@
 ## Qué se levantó
 
 ```plaintext
-AGENTS.md                    la puerta, con la tabla de la pieza
+AGENTS.de-esa-corrida.md     la puerta, con la tabla de la pieza
 herramientas/tablas.sql     10 tablas, con `pieza` y con `campos` en JSON
 herramientas/vara.py        todo el ente en un solo archivo
 ```

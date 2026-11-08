@@ -1,6 +1,6 @@
 """abrir.py — cuenta lo que hay, y dice qué fricción frena.
 
-Y esta es la línea que el AGENTS.md pide al abrir cada mensaje.
+Y esta es la línea que el AGENTS.de-esa-corrida.md pide al abrir cada mensaje.
 """
 
 import pathlib

@@ -1,6 +1,6 @@
 """cerrar.py — cuenta, y dice qué quedó sin llenar.
 
-La última línea del AGENTS.md. Y lo que hace es lo que evita el diario:
+La última línea del AGENTS.de-esa-corrida.md. Y lo que hace es lo que evita el diario:
 dice, con nombre, lo que no se ha probado.
 """
 

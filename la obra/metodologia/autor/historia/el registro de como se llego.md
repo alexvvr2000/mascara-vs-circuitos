@@ -32,7 +32,7 @@ cada entrada dice qué se hizo, qué se midió, y qué se creyó que iba a pasar
 
 ## 2026-10 · La apuesta
 
-**Qué se hizo:** doce ensayos escritos desde una discusión de dos semanas.
+**Qué se hizo:** trece ensayos escritos desde una discusión de dos semanas.
 
 **Qué se creía:** **que un ensayo se puede leer entero, entenderse, y estar completo.**
 
@@ -123,7 +123,7 @@ y el decimocuarto          no tiene mutante, y se dice por qué
 **Y lo que se creía que iba a pasar, y no pasó:** **que la jerarquía de inclusión ahorraría trabajo.** **No lo ahorra.**
 
 ```plaintext
-reglas en los doce ensayos           417
+reglas en los trece ensayos          417
 que no afirman nada de un ente        25
 que un ente puede cumplir            392
 muertas por inclusión                  0

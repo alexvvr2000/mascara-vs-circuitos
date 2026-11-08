@@ -80,7 +80,7 @@
 
 ### No es un producto
 
-**No hay versión instalable, ni soporte, ni comunidad.** **Hay un método, doce ensayos, dieciocho corridas y un plan.**
+**No hay versión instalable, ni soporte, ni comunidad.** **Hay un método, trece ensayos, dieciocho corridas y un plan.**
 
 **Lo que se puede hacer con esto, hoy: leerlo, correrlo, y decir que está mal.**
 

@@ -14,7 +14,7 @@
 ## Qué se levantó
 
 ```plaintext
-AGENTS.md             la puerta, escrita desde los ensayos
+AGENTS.de-esa-corrida.md  la puerta, escrita desde los ensayos
 herramientas/tablas.sql        9 tablas
 herramientas/crear.py          crea la base, y prueba las reglas
 herramientas/abrir.py          cuenta lo que hay

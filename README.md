@@ -120,7 +120,7 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia de mejora/la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md`](la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`la obra/ciclo/como se sabe cuando esta.md`](la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -137,7 +137,7 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
                        se para
 ```
 
-**Y lo que se puede contar:** **417 reglas entre los doce ensayos, y cada una con su mutante.** **Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.**
+**Y lo que se puede contar:** **417 reglas en los trece ensayos, y 69 más en el que explica el proceso: 486 en total, y cada una con su mutante.** **Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.**
 
 ### Por qué hay un número y no un «ya casi»
 
@@ -334,11 +334,11 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
 | Lo que hay | Cómo se comprueba |
 |---|---|
-| **diez ensayos, doce afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
+| **trece ensayos, doce afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
 | **dieciocho corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
 | **los 38 detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
-| **417 reglas contadas** | `metodologia de mejora/la%20obra/ciclo/como%20se%20sabe%20cuando%20esta.md`, una por una, y cada una con su mutante |
-| **el registro de cómo se hizo** | `metodologia de mejora/historia/`, con fechas, incluidas las ideas que se cayeron |
+| **486 reglas contadas** | `la obra/ciclo/como se sabe cuando esta.md`, una por una, y cada una con su mutante |
+| **el registro de cómo se hizo** | `la obra/metodologia/autor/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 **Y lo que falta, que no se esconde: la implementación mínima, y que el piso quede lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto.** **Lo segundo no es un requisito de terceros: es lo que el trabajo tiene que dejar puesto.**
 

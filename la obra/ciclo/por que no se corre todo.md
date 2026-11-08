@@ -8,7 +8,7 @@
 
 ## El problema, en números
 
-**417 reglas en los doce ensayos.** **~60 son de conducta y se prueban con un caso.**
+**417 reglas en los trece ensayos.** **~60 son de conducta y se prueban con un caso.**
 
 **Quedan 357, y 357 mutantes corridos uno por uno son 25 sesiones a mano.**
 
@@ -154,7 +154,7 @@ muerto por inclusión     es una deducción, y depende de que la inclusión
 | matar mutantes mide la fuerza de una prueba | **DeMillo, Lipton & Sayward (1978)**; ver también el [Mutation Testing Repository](https://mutationtesting.uni.lu/theory.php) |
 | la mutación tiene un costo que obliga a seleccionar | [Software Engineering: Standing on the Shoulders of Giants, §10.1.5](https://www.swebook.org/chapters/10-testing/) |
 
-**Y lo que estas fuentes no dicen, y se apunta:** **ninguna cuenta cuántos mutantes hay en estos doce ensayos.** **Ese número es de aquí, y se contó aquí.**
+**Y lo que estas fuentes no dicen, y se apunta:** **ninguna cuenta cuántos mutantes hay en estos trece ensayos.** **Ese número es de aquí, y se contó aquí.**
 
 ---
 
