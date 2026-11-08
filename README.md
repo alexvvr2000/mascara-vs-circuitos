@@ -277,7 +277,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 **Y eso no es una frase amable: es la condición del trabajo.** **Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
 
-**Y el stack que se eligió está escrito en [`los papeles/implementacion del autor/stack.yaml`](los%20papeles/implementacion%20del%20autor/stack.yaml):** **`DSH`, `dshmarket` y `graphdblite`, y por qué la base de grafos no es un gusto como el motor y el catálogo.**
+**Y el stack que se eligió está en [`los papeles/implementacion del autor/stack.md`](los%20papeles/implementacion%20del%20autor/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
 
 
 **Y una distinción que ahí se hace y conviene saber antes:** **el motor y el mercado son gusto; la base de grafos no lo es.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones, y `graphdblite` es una base de grafos embebida con Cypher.** **Un motor es un motor; un grafo no es una tabla.**
