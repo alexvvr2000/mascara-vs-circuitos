@@ -1,51 +1,53 @@
-# El stack del usuario
+# Para el usuario
 
-**Lo que hay en esta carpeta, y qué se hace con lo que salga de ella.**
+**Una carpeta, cuatro pasos, y queda funcionando.**
 
 ---
 
-## Qué hay aquí
+## Lo que hay aquí
 
-| El archivo | Qué es |
+| La carpeta | Qué es |
 |---|---|
-| **[`stack.md`](stack.md)** | **la tabla vacía, con lo que va en cada campo, y lo que hay que buscar antes de escribirlo** |
-| **[`codigo/`](codigo/)** | **lo que salga de llenarla. hoy está vacía** |
+| **[`para copiar/`](para%20copiar/)** | **lo que se copia al proyecto. ahí está todo lo que hace falta** |
+| **[`stack.md`](stack.md)** | **la tabla del stack, si se quiere elegir uno** |
+| **[`codigo/`](codigo/)** | **lo que salga de llenarla** |
 
-**Y `codigo/` está vacía a propósito.** **Se llena cuando se llene la tabla, y no antes.**
-
----
-
-## Cómo se usa
-
-**1.** Se copia `stack.md`. **2.** Se llena la tabla, que son nueve renglones. **3.** Se levanta el ente con lo que dio. **4.** Y lo que se produzca va a `codigo/`.
-
-**Y si algo falla, se apunta en el ensayo que le toca, no aquí.** **Esta carpeta es el stack; los ensayos son el criterio.**
+**Y lo que casi todo el mundo va a usar es `para copiar/`.** **Lo demás es para quien quiera cambiar el stack.**
 
 ---
 
-## Por qué el stack es un gusto
+## Los cuatro pasos
 
-**Porque el criterio vive en la base y no en el modelo.**
+**1.** Se copia `para copiar/` al proyecto.
 
-**Y de ahí sale lo que este trabajo persigue:** **terminar con las herramientas que de verdad se necesitan, y no con las que se quieren.**
+**2.** Se llenan los renglones vacíos de `autoridad.md`, `proposito.md` y `cuerpo.md`.
 
-**Un stack llenado con lo que suena bien produce un ente que suena bien.** **Un stack llenado con lo que falló, y corregido con lo que se apuntó, produce un ente que sirve.**
+**3.** Se escriben los temas en `indice/`, cuando aparezcan.
 
-**La diferencia entre los dos no está en la lista: está en el registro de lo que se cayó, y en haberlo vuelto a probar.**
+**4.** Y se trabaja.
+
+**No hay nada que instalar.** **Ni desde un catálogo, ni desde la terminal, ni desde ningún lado.**
+
+---
+
+## Y el stack es de gusto
+
+**`stack.md` es una tabla, y se llena con lo que se quiera: el motor, la base, el modelo.**
+
+**La carpeta de `para copiar/` funciona igual con cualquiera, porque lo que pide es una carpeta de texto y un registro.**
+
+**Y la meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.** **Un stack llenado con lo que falló, y corregido con lo que se apuntó, produce un ente que sirve.**
+
+**Y la única pieza que no es libre es la base, si el índice se quiere como grafo.** **Con una tabla de renglones también funciona, y el recorrido entre temas se escribe a mano.**
 
 ---
 
 ## Lo que se puede hacer con lo que salga
 
-| Se puede | Y no hay que pedir permiso |
-|---|---|
-| **usarlo** | es suyo |
-| **cambiarlo** | es suyo |
-| **publicarlo** | es suyo, citando este repositorio como punto de partida |
-| **devolverlo aquí** | no se acepta, y la razón está en el `README` inicial: una vez que alguien más escribe aquí, esto deja de ser del autor y empieza a ser de nadie |
+**Usarlo, cambiarlo, publicarlo.** **Es suyo, y no hay que pedir permiso.**
+
+**Y devolverlo aquí no se acepta, por una razón del `README` inicial: una vez que alguien más escribe, esto deja de ser de su autor y empieza a ser de nadie.**
 
 ---
 
-## Falsificador
-
-**Una tabla llena y `codigo/` vacía.** **La señal, en el acto:** **los nueve renglones están completos y no hay un solo archivo que haya salido de ellos.**
+**Falsificador:** una carpeta copiada y nunca usada. **La señal, en el acto:** **`registro.db` sigue vacío.**

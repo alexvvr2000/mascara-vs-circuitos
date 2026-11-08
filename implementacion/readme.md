@@ -1,99 +1,68 @@
 # `implementacion/`
 
-**Dónde se deja lo que se construyó, para que se pueda seguir sin quien lo construyó.**
-
-> **Y una regla que vale para las dos carpetas: cuando un ensayo cambia, el stack se vuelve a mirar.** **On demand, no en cada corrida.** **Está en [`autor/cuando muta el stack.md`](autor/cuando%20muta%20el%20stack.md), y es lo que impide que la implementación se vuelva vieja en silencio.**
+**Dos carpetas que se copian a un proyecto.** **Ninguna se instala.**
 
 ---
 
-## Y esto se queda como está
+## Las dos
 
-**La implementación no se pone en ninguna máquina, y no se instala nada.** **Se deja escrita, con lo que investigó, y se continúa cuando haya corridas.**
-
-**Lo que falta para que se pueda publicar como plugin —`package.json`, `cordis.patch.yml`, código, y un `pip install` de verdad— está en [`autor/como llegaria a otras manos.md`](autor/como%20llegaria%20a%20otras%20manos.md), con sus fuentes.**
-
----
-
-## Las dos carpetas, y qué es cada una
-
-| La carpeta | De quién es | Qué lleva |
+| La carpeta | Qué trae | Para quién |
 |---|---|---|
-| **`autor/`** | **de quien escribió el repositorio** | **su stack, su código, y el punto donde lo dejó** |
-| **`usuario/`** | **de quien llega** | **el formato vacío, y lo que produzca con él** |
+| **`autor/`** | **una versión inicial que ya trae un stack elegido: motor, catálogo y base** | **quien quiera empezar con algo probado, y no elegir nada todavía** |
+| **`usuario/`** | **una versión inicial sin stack: sólo lo mínimo para trabajar** | **quien sólo quiere rapidez, y no le interesa la tecnología** |
 
-**Y no se mezclan.** **Lo de `autor/` es un ejemplo que se puede tomar entero. Lo de `usuario/` es un molde que se llena.**
+**Y las dos funcionan desde el primer día.** **No son moldes: se copian y se usan.**
+
+**La diferencia no es de dueño, es de stack.** **La de autor trae uno; la de usuario no.**
+
+---
+
+## Cómo se usa
+
+**1.** Se elige una de las dos.
+
+**2.** Se copia entera al proyecto donde se va a trabajar.
+
+**3.** Y se trabaja.
+
+**Nada más.** **No hay nada que instalar, ni qué registrar, ni qué configurar en ningún lado.**
 
 ---
 
 ## Y las cuatro salidas
 
-**Alguien entra, lee el repositorio, y termina con cuatro opciones.** **Ninguna es mejor que otra, y las cuatro están previstas aquí.**
+**Cualquiera que llegue al repositorio termina con una de estas cuatro, y las cuatro están previstas.**
 
-### 1 · No darle importancia y seguir con su vida
+**1 · No darle importancia y seguir con su vida.** **Se cierra y no pasa nada.**
 
-**Se cierra el repositorio y no pasa nada.** **Está permitido, y no hay nada que instalar para ejercerlo.**
+**2 · Llevarse una de las dos carpetas.** **Se copia, se modifica, y se usa — incluso si no es para mejorar este repositorio.**
 
-### 2 · Llevarse la implementación del autor
+**3 · Mejorar el repositorio sin el autor.** **Con la versión propia, y citando este trabajo como punto de partida.**
 
-**Se copia `autor/` entero y se usa.** **Incluso si no es para mejorar este repositorio, y aunque se modifique hasta que no se reconozca.**
+**4 · Clonar el repositorio y sacar algo propio de él.** **Sin tocar estas carpetas, y sin esperar a que esto se termine.**
 
-**La licencia lo permite, y está escrito esperándolo.**
-
-### 3 · Mejorar el repositorio sin el autor
-
-**Se toma `usuario/`, se llena con un stack propio, y lo que salga vuelve aquí.** **Con el permiso explícito de que sea suyo, y citando este trabajo como punto de partida.**
-
-**Y eso incluye mejorar el propio `autor/`.** **Si otra persona ve una forma mejor, la pone, y el repositorio sigue sin el autor.**
-
-**Las instrucciones de cómo se hace están en [`autor/readme.md`](autor/readme.md), y en [`../la obra/metodologia/`](../la%20obra/metodologia/), que tiene tres: usuario, autor y mantenedor.**
-
-### 4 · Clonar el repositorio y sacar un stack propio de él
-
-**Ésta es la que no cabe en ninguna de las dos carpetas, y es la más grande.**
-
-**Se clona el repositorio, se lee lo que sirve, y se construye un stack con las herramientas de uno — sin tocar nada de aquí, y sin esperar a que esto se termine.**
-
-**Porque esto es un ciclo sin fin, y va a haber quien tenga otra parte de la curva del criterio.** **En el futuro, la gente va a escoger su repositorio de confianza, y va a hacer su stack con su ente, y no va a tener que preocuparse por nada más para empezar a trabajar.**
+**Y la cuarta no se termina: se está en ella.**
 
 ---
 
-## Y para quién es todo esto
+## Y esto es comunidad
 
-**Hay gente a la que no le gusta la tecnología, trabaja de otra cosa, y sólo quiere algo rápido para instalar en su computadora.** **Para esa gente está la implementación del autor, o la que se haga a partir del repositorio que más le guste.**
+**El repositorio es el padre, y la gente clona el suyo.** **Unos se llevan una versión, otros empiezan de cero con la plantilla, y otros toman el repositorio entero y hacen su stack.**
 
-**Y de ahí sale una consecuencia que se dice sin adornos:** **con esto, la tecnología deja de ser una barrera.** **Se queda quien le gusta, que es quien va a seguir construyendo, y el resto trabaja.**
-
----
-
-## Lo que todavía no está
-
-**Y se ve en el acto, porque son dos carpetas vacías:**
-
-| Lo que falta | Dónde iría |
-|---|---|
-| **el código del autor** | [`autor/codigo/`](autor/codigo/) |
-| **el código del usuario** | [`usuario/codigo/`](usuario/codigo/) |
-
-**Y las dos existen vacías desde ahora, para que se vea qué va en cada una y que no está.** **Todo lo demás —los dos `readme.md` y los dos `stack.md`— ya está escrito.**
+**Y lo que hace que eso funcione es que las dos carpetas se puedan copiar y usar sin preguntar nada.**
 
 ---
 
-## Y el número, para quien quiera cerrar lo que se empezó
+## Lo que todavía falta
 
-**Lo que falta del lado del autor está medido, y está en [`../la obra/metodologia/autor/el aproximado.md`](../la%20obra/metodologia/autor/el%20aproximado.md):**
+**Las dos carpetas están escritas en su primera versión, y a las dos les falta lo que las vuelve usables de verdad: los skills y los scripts.**
 
-```plaintext
-486 reglas contadas · 13 mutantes corridos
-~123 líneas de código por mutante
-entre 30 y 50 sesiones para el resto
-```
+**Hoy traen el `AGENTS.md` y los archivos que se llenan. Falta lo que se ejecuta.**
 
-**Y el resto —el código, y que alguien más lo levante— no tiene número, porque no hay con qué sacarlo.**
-
-**Y si alguien quiere el número de las cuatro salidas: la cuarta no se termina.** **Se está en ella.**
+**Y no se escribe a ciegas: se escribe cuando se pueda probar que se copia y funciona en un proyecto que no sea éste.**
 
 ---
 
 ## Falsificador
 
-**Cuatro salidas escritas y ninguna ejercida.** **La señal, en el acto:** **si las cuatro están aquí y las cuatro siguen sin que nadie haya tomado ninguna.**
+**Dos carpetas que se llaman "para copiar" y no se pueden copiar y usar.** **La señal, en el acto:** **alguien las copia, y tiene que llenar cien renglones antes de trabajar.**
