@@ -290,8 +290,10 @@ y el mutante muere
 
 ```plaintext
 1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
-                  porque las reglas se acaban. son 417, y están en
-                  criterio/plan.md, una por una
+                  porque las reglas se acaban. son 417 reglas en
+                  catorce familias, y no se corren todas: se corre la
+                  madre de cada familia, y lo que sobreviva se abre.
+                  está en criterio/plan.md
 2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
                   esto cubre lo que ningún ensayo escribió
 ```

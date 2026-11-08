@@ -55,8 +55,10 @@ y el stack      es una implementación de la conclusión. hay muchas
 1. metodo.md          el ejercicio: el ciclo entero, qué se apunta, los
                       defectos que se repiten, cuándo se para, y lo que
                       pasa cuando el que corre ya no entiende lo que corre
-2. criterio/plan.md   cómo se sabe cuándo está: los mutantes, y el
-                      conteo de reglas. es lo que dice cuánto falta
+2. criterio/          cómo se sabe cuándo está
+     plan.md            los mutantes, y el conteo de reglas
+     jerarquia.md       por qué no hay que correrlos todos
+     familias.md        las catorce familias, y su regla madre
 3. historia/          cómo se hizo: los comandos, qué cambió en cada
                       corrida, y las ideas que llegaron tarde
 4. corridas/          las dieciocho veces que se corrió, en orden

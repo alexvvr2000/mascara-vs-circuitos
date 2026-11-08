@@ -38,6 +38,16 @@
 
 ---
 
+## Y antes de correr nada: la jerarquía
+
+**417 reglas no son 417 mutantes.** **Son catorce familias, y cada familia se rompe de una sola manera.**
+
+**La madre rompe la regla entera; los casos rompen un caso de la regla.** **Si la corrida mata la madre, ya mató los casos.**
+
+**Está en [`jerarquia.md`](jerarquia.md), y la lista de familias con sus 417 reglas en [`familias.md`](familias.md).**
+
+---
+
 ## Cómo se hace, en cuatro pasos
 
 ```plaintext
