@@ -546,7 +546,9 @@ lo que sí         que el cierre lleve su propio registro: que se preguntó,
                   cuándo, y quién contestó
 ```
 
-Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cierra porque alguien contestó una pregunta. Si eso no queda en un campo, la diferencia entre haber preguntado y haber supuesto vive en la redacción, y la redacción se escribe sola. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
+Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cierra porque alguien contestó una pregunta. Si eso no queda en un campo, la diferencia entre haber preguntado y haber supuesto vive en la redacción, y la redacción se escribe sola.
+
+Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
 
 **Falsificador:** un ente que pregunta lo que ya está escrito en lo que pasó; uno que cierra solo un propósito que no decía cuándo estaba cumplido; y un cierre sin nombre, o con un nombre escrito a mano.
 

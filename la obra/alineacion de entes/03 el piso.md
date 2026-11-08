@@ -178,6 +178,16 @@ la tarea           para decir "ya la tengo". pero si vuelve, tiene que
 
 **La regla que este ensayo adopta, y se puede correr:** **el enlace lo hace el que mide, y la medición lleva anotado qué tarea la pidió.** **Medir sin decir para qué se mide es medir de más, y no saber a quién se le acaba de responder.**
 
+**Y una cuarta, y es la que más se esconde: la medición y la tarea que la declara tienen que ser la misma tarea.**
+
+```plaintext
+lo que NO basta   que la medición exista. si existe, la llave foránea la acepta
+lo que sí         que la medición la haya pedido la MISMA tarea que la enlaza.
+                  si no, el piso dice que alcanza, y alcanza para otra cosa
+```
+
+**Y esto no truena, que es lo que lo hace peligroso:** **una tarea se compromete con la prueba de otra, y el registro se ve completo.** **El ente contesta que sí, y contesta de buena fe, con un dato que es cierto y que no es suyo.**
+
 **Y una tercera, que se encuentra al correr el ciclo entero: una herramienta se mide más de una vez, y las dos mediciones se quedan.**
 
 ```plaintext
