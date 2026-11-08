@@ -67,7 +67,7 @@ Máscara contra circuitos. Y aquí, las dos se la quitaron.
 
 ## Qué es esto, y para quién
 
-Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Diez ensayos, doce afirmaciones, y dieciocho corridas que se hicieron para probarlos.
+Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Once ensayos, doce afirmaciones, y dieciocho corridas que se hicieron para probarlos.
 
 Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -190,6 +190,7 @@ Los límites, dichos con nombre:
      01  empatía                cómo se entiende antes de pedir
      02  conciencia             qué hacemos con una palabra que no sabemos definir
      03  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
+     04  lo inexplicable        cómo se escribe «cuánto falta» cuando no hay final
 
 5. metodologia de mejora/
      metodo.md                  cómo se sabe si los ensayos están completos

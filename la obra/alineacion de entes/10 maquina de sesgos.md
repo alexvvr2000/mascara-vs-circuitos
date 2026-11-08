@@ -98,6 +98,8 @@ Y ahí está la parte que este ensayo no puede probar y no va a fingir que prueb
 
 ## VI. Por qué esto se publica igual
 
+Y la forma general de esto, para cualquier cosa que se persiga y no se termine, está en [`04 lo inexplicable que tiende al infinito`](../humanidad/04%20lo%20inexplicable%20que%20tiende%20al%20infinito.md). Ahí se escribe cómo se dice cuánto falta sin fingir que hay un final.
+
 Y hay una cosa que se puede decir sin prometer nada, y es la que deja dormir: en las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia. No hace falta que la descripción termine para que sirva. Hace falta que se sepa hacia dónde va, y que se pueda decir qué falta.
 
 Porque puede ser un juguete. Y porque lo que venga después va a ser mucho más grande y probablemente va a necesitar matemáticas que todavía no existen.
