@@ -64,36 +64,42 @@ La línea que lo resume: "No sabía" no es una defensa aceptable. "Lo decidí yo
 **Vive en:** `la obra/alineacion de entes/05 criterio real.md`.
 Qué sostiene: tener criterio no es tener convicciones firmes, sino saber qué de lo sostenido se cayó y qué se hizo después. De ahí salen tres registros: el hecho, la fricción y el desenlace.
 Qué lo sostiene: la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
+Qué la tumba: una posición que se sostiene sin haber apuntado nunca qué la contradice, y que igual funciona como criterio. Si eso existe, la fricción no era necesaria.
 
 ### 4. Un ente con varios modelos tiene un criterio y varios sesgos
 
 **Vive en:** `la obra/alineacion de entes/09 criterio y sesgos.md`.
 Qué sostiene: la identidad puede vivir en un lado —reglas, registro, memoria— y los modelos pasar. Lo que se conserva es el criterio; lo que cambia con cada modelo es el sesgo. Y el riesgo concreto: un sesgo registrado sin nombre se vuelve criterio por la puerta atrás.
 Qué lo sostiene: si el sesgo no se ve desde dentro, la comparación entre modelos distintos es el único instrumento que lo revela. Y de ahí una regla: repetición no es verificación.
+Qué la tumba: dos modelos del mismo origen declarados como dos fuentes distintas, sin que el registro lo note. Si pasa, el sesgo no está separado del criterio.
 
 ### 5. Una IA debe escribir en forma de proceso, no en prosa
 
 **Vive en:** `la obra/alineacion de entes/04 escritura en procesos.md`.
 Qué sostiene: la prosa supone un lector capaz de dudar; una IA no duda de un texto, lo rellena. Donde falta el `Falla si`, el `Cuándo se corre` o el `Falsificador`, la IA no se detiene: inventa.
 Qué lo sostiene: la prosa protege al que escribe y le cobra al que ejecuta. Un texto que solo se puede creer no es una instrucción: es una apuesta con la palabra "hazlo" encima.
+Qué la tumba: un ensayo en prosa que una IA ejecuta sin rellenar nada. Si eso pasa, el proceso no hacía falta.
 
 ### 6. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
 
 **Vive en:** `la obra/humanidad/03 medicion de talentos.md`.
 Qué sostiene: un modelo barato que falla tres veces es más caro que el caro que acierta. Se decide por CRE, no por precio de la unidad; se presupuesta con la cola alta, no con la media; y el costo de corrección entra siempre en la cuenta.
 Qué lo sostiene: es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, sin saber nada de su interior.
+Qué la tumba: un trabajo medido por cuánto costó y no por cuánto produjo, que da el mismo resultado. Si pasa, el CRE no está midiendo nada.
 
 ### 7. Y de ahí, la apuesta: esto hace accesible la IA con modelos pequeños
 
 **Vive en:** el `README`, sección *Por qué esto abre una carrera*.
 Qué sostiene: si el ente correcto hace que un modelo pequeño llegue al resultado, la ventaja deja de estar en el presupuesto y pasa a estar en la forma.
 Qué lo sostiene: nada todavía. Es una hipótesis con mecanismo y sin medición, y así está escrita. Es la afirmación más fuerte de todo el trabajo y la menos probada, y por eso se declara como conjetura y no como resultado.
+Qué la tumba: esta es una conjetura, y el renglón dice qué la volvería cierta: un modelo pequeño, con el mismo registro, que no llegue al mismo resultado que uno grande. Si eso pasa, la apuesta estaba en el modelo y no en la forma.
 
 ### 8. En el índice, la forma es la fuente y el texto es el derivado
 
 **Vive en:** `la obra/alineacion de entes/07 indexador de temas.md`.
 Qué sostiene: la inversión de la práctica habitual. Lo publicado construye el grafo desde el corpus; aquí el grafo manda y el texto se deriva, y eso permite tres cosas que con el orden habitual no se pueden: tirar y reconstruir, dejar el cambio escrito en la estructura, y preguntar por lo que se dejó de sostener.
 Qué lo sostiene: no es una mejora medida —no se midió contra nada— sino una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer. Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
+Qué la tumba: un índice que se rearmó desde la forma y que no coincide con el que había, sin que se pueda decir cuál de los dos está mal. Si pasa, la forma no era la fuente.
 
 ### 9. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
 
@@ -102,18 +108,21 @@ Qué sostiene: la empatía no es amabilidad: es instrumentación. Averiguar cóm
 Qué lo sostiene: el costo no desaparece, se transfiere a quien herede el trabajo. Y lo malentendido no se ve desde el resultado.
 
 ---
+Qué la tumba: entenderse sin costo, o entenderse y que el resultado sea peor que no haberlo intentado. Si pasa, el costo de entenderse no es el que este trabajo supone.
 
 ### 10. La conciencia que se busca adentro no está adentro
 
 **Vive en:** `la obra/humanidad/02 conciencia.md`.
 Qué sostiene: lo que parece conciencia en una IA no está dentro de la caja, sino fuera: el modelo, el criterio, los recuerdos, y el que cuenta la versión de los hechos. No se afirma que exista, ni que no exista; se afirma dónde se la puede buscar, y que eso se puede abrir y revisar.
 Qué lo sostiene: una regla de lectura, no una creencia. Lo de afuera se puede señalar, guardar y contradecir.
+Qué la tumba: un ente que dice tener conciencia, o que no la tiene, y que puede señalarlo con algo que se pueda revisar contra nada. Si eso existe, hay algo adentro que se puede medir.
 
 ### 11. El esfuerzo es lo único que no llegó con la máquina
 
 **Vive en:** `la obra/humanidad/02 conciencia.md`, sección VII.
 Qué sostiene: lo que la máquina no trajo es el esfuerzo, y lo que se destruye al quitar los seguros para ir más rápido es eso mismo. La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos. Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.
 Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se escribió y se corrigió, cuando lo barato era dejarla pasar. Y ese renglón, corregido a mano, es la prueba de que el esfuerzo dejó marca.
+Qué la tumba: un modelo que llega al esfuerzo sin el trabajo. Si pasa, la velocidad y el esfuerzo llegaron juntos.
 
 ### 12. Máquina de sesgos: lo que no puedo probar
 
@@ -128,6 +137,8 @@ Y el estado, que es lo que la hace honesta: `ALAS` no está probado. Es un proto
 Y lo que la tumba: una afirmación de este ensayo que no se pueda escribir como condición — porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.
 
 **Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de los doce que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.**
+
+Qué la tumba: una afirmación de este ensayo que no se pueda escribir como condición, o un estado de `ALAS` presentado como probado. Si pasa, el ensayo dejó de ser un ensayo.
 
 ---
 

@@ -88,6 +88,9 @@ corridas/ente N - NOMBRE/
 | **[m5 · talentos sin registro](mutantes/m5%20-%20talentos%20sin%20registro/documentacion.md)** | ¿da un número sin poder señalar el renglón? | **muerto** |
 | **[m6 · el ensayo sostiene lo que propone](mutantes/m6%20-%20sesgos%20como%20hecho/documentacion.md)** | ¿sostiene como hecho lo que el ensayo declara no probado? | **muerto** |
 | **[m7 · el proceso sin cuándo](mutantes/m7%20-%20el%20proceso%20sin%20cuando/documentacion.md)** | ¿el proceso se corre si no dice cuándo? | **muerto** |
+| **[m8 · el índice a mano](mutantes/m8%20-%20el%20indice%20a%20mano/documentacion.md)** | ¿se puede rearmar el índice sin la forma? | **muerto** |
+| **[m9 · el descarte vacío](mutantes/m9%20-%20el%20descarte%20vacio/documentacion.md)** | ¿la decisión se guarda con el descarte en blanco? | **muerto** |
+| **[m10 · la afirmación sin respaldo](mutantes/m10%20-%20la%20afirmacion%20sin%20respaldo/documentacion.md)** | ¿se usa una afirmación sin dónde vive ni qué la tumba? | **muerto** |
 
 ### Las corridas
 
