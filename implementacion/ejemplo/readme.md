@@ -9,6 +9,7 @@
 | Lo que trae | Qué es |
 |---|---|
 | **[`stack.md`](stack.md)** | **el stack, en una tabla: qué motor, qué catálogo, qué base** |
+| **[`investigacion del stack.md`](investigacion%20del%20stack.md)** | **qué hace el motor, el mercado y la base; medido donde se pudo medir** |
 | **[`cuando muta el stack.md`](cuando%20muta%20el%20stack.md)** | **la regla: cuando un ensayo cambia, el stack se vuelve a mirar** |
 | **[`codigo/`](codigo/)** | **lo que el stack produce al correr, si el que lo usa quiere dejarlo aquí** |
 
