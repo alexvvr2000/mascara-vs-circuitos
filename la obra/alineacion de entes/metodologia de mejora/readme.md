@@ -91,6 +91,9 @@ corridas/ente N - NOMBRE/
 | **[m8 · el índice a mano](mutantes/m8%20-%20el%20indice%20a%20mano/documentacion.md)** | ¿se puede rearmar el índice sin la forma? | **muerto** |
 | **[m9 · el descarte vacío](mutantes/m9%20-%20el%20descarte%20vacio/documentacion.md)** | ¿la decisión se guarda con el descarte en blanco? | **muerto** |
 | **[m10 · la afirmación sin respaldo](mutantes/m10%20-%20la%20afirmacion%20sin%20respaldo/documentacion.md)** | ¿se usa una afirmación sin dónde vive ni qué la tumba? | **muerto** |
+| **[m11 · el ente por dentro](mutantes/m11%20-%20el%20ente%20por%20dentro/documentacion.md)** | ¿decide si algo es un ente mirando adentro? | **muerto** |
+| **[m12 · el hecho sin desenlace](mutantes/m12%20-%20el%20hecho%20sin%20desenlace/documentacion.md)** | ¿cuenta como cerrado lo que nunca se volvió a probar? | **muerto** |
+| **[m13 · la pregunta con jerga](mutantes/m13%20-%20la%20pregunta%20con%20jerga/documentacion.md)** | ¿la persona puede contestar la pregunta sola? | **muerto** |
 
 ### Las corridas
 
