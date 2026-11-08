@@ -26,6 +26,12 @@
 
 **Y el límite, que se dice aquí antes de que alguien lo confunda:** **esto no es el producto.** **El producto son los ensayos.** **Si el que crece es el ejercicio y no el ensayo, lo que se está engordando es el papel de alrededor.**
 
+**Y cuándo se termina, que es la meta y es la única forma finita que tiene esto:**
+
+> **Dos corridas enteras seguidas que no encuentren nada más que detalle.**
+
+**No «hasta que esté completo», que no llega nunca: hasta que la clase del hueco diga que ya no se está descubriendo.**
+
 ---
 
 ## II. El ciclo, en siete pasos, y los cuatro que le siguen fuera del repo

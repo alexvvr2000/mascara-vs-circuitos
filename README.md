@@ -100,10 +100,29 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 - **El criterio no se recuerda: se arma con lo que se cayó.** **El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.**
 - **En el índice, la forma es la fuente y el texto se deriva.** **Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.**
 
+**Y cuándo se termina, que es la meta y se dice entera:**
+
+> **Dos corridas enteras seguidas que no encuentren nada más que detalle. Ahí se para, y se publica.**
+
+**La regla completa, con su porqué:**
+
+```plaintext
+una corrida ENTERA     el ente se levanta completo, del primer paso al
+                       último. un pedazo no cuenta
+
+un hueco de contenido  el ensayo no dice algo, y hubo que inventarlo
+un hueco de forma      el ensayo lo dice, y el esquema no lo puede guardar
+
+dos de forma seguidas  ya no se está descubriendo: se está ordenando.
+                       se para
+```
+
+**Y su límite, para que no se use para parar antes de tiempo:** **dos corridas de forma no dicen que el ensayo esté completo.** **Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.**
+
 Los límites, dichos con nombre:
 
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **El alcance de la evidencia: nueve corridas, un autor, un entorno.**
+- **El alcance de la evidencia: catorce corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
 - **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
 
