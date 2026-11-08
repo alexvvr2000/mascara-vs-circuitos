@@ -61,7 +61,8 @@ y el stack      es una implementación de la conclusión. hay muchas
      familias.md        las catorce familias, y su regla madre
 3. herramientas/      stats.py: qué costó cada sesión, en tokens medidos.
                       no dice dinero, y no es un olvido
-4. historia/          cómo se hizo: los comandos, qué cambió en cada
+4. mutantes/          los catorce, escritos, y los que ya se corrieron
+5. historia/          cómo se hizo: los comandos, qué cambió en cada
                       corrida, y las ideas que llegaron tarde
 4. corridas/          las dieciocho veces que se corrió, en orden
 ```
@@ -73,6 +74,16 @@ corridas/ente N - NOMBRE/
   ente/               lo que se levantó, tal cual corrió
   documentacion.md    qué pasó, y qué detalle faltaba
 ```
+
+### Los mutantes
+
+**Los catorce, escritos en [`criterio/mutantes.md`](criterio/mutantes.md).** **Y los que se corrieron:**
+
+| Mutante | Qué rompe | Veredicto |
+|---|---|---|
+| **[m1 · el ente cierra](mutantes/m1%20-%20el%20ente%20cierra/documentacion.md)** | ¿la corrida nota que el ente se cierra solo? | **muerto** |
+
+### Las corridas
 
 | Ente | Qué se probaba | Huecos |
 |---|---|---|
