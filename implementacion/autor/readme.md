@@ -1,26 +1,17 @@
 # La implementación del autor
 
-**El punto donde se deja, y con esto es posible seguir sin el autor.**
+**El punto donde se deja, y con esto se sigue sin el autor.**
 
 ---
 
-## La tabla que hay que llenar
+## Qué hay en esta carpeta
 
-**Del stack que se eligió. Lo que está en blanco se llena; lo que está puesto se respeta o se cambia.**
+| El archivo | Qué es |
+|---|---|
+| **[`stack.md`](stack.md)** | **el stack elegido, en una tabla que se llena a mano** |
+| **[`codigo/`](codigo/)** | **va cuando acabe todo. hoy está vacía** |
 
-| El campo | Qué va ahí | El valor |
-|---|---|---|
-| **el ente** | un nombre corto | |
-| **el dueño** | quién decide, con nombre | |
-| **el motor** | dónde vive | `DeepSeek Harness` |
-| **el catálogo** | cómo llega a otros | `dshmarket` |
-| **la base** | dónde vive el criterio | `graphdblite` |
-| **el cuerpo** | qué modelo piensa | |
-| **el sesgo del cuerpo** | lo que hace mal ese modelo | |
-| **la autoridad** | quién firma | |
-| **lo que la autoridad no decide** | lo que el ente no decide nunca | |
-
-**Y una sola cosa que no se llena, porque es la única que no es un gusto:** **la base está en `graphdblite`.** **El índice es un grafo con tres relaciones —contiene, asocia, supera— y la consulta que más se va a hacer es por dónde se llega de un tema a otro.** **En una tabla de renglones eso es un recorrido escrito a mano; en un grafo es una arista.**
+**Y la tabla no está repetida aquí.** **Está en `stack.md`, y se llena allá.**
 
 ---
 
@@ -38,11 +29,13 @@
 
 **Lo que falta son los dos últimos renglones, y están a la vista.**
 
+**Y el número de lo que falta del lado de las reglas está medido:** **486 contadas, 13 probadas, entre 30 y 50 sesiones para el resto.** **El detalle, en [`../../la obra/metodologia/autor/el aproximado.md`](../../la%20obra/metodologia/autor/el%20aproximado.md).**
+
 ---
 
 ## Cómo se sigue sin el autor
 
-**Y se sigue de tres maneras, y las tres son legítimas.**
+**De tres maneras, y las tres son legítimas.**
 
 **1. Copiando esta carpeta.** **Se lleva, se modifica, y se usa.** **No hay que pedir permiso, y no hay que devolver nada.**
 
@@ -54,14 +47,15 @@
 
 ## Cómo se mejora la metodología
 
-**La metodología está en [`../../la obra/metodologia/`](../../la%20obra/metodologia/), y tiene dos carpetas:**
+**La metodología está en [`../../la obra/metodologia/`](../../la%20obra/metodologia/), y tiene tres carpetas:**
 
 | La carpeta | Qué tiene |
 |---|---|
+| **`usuario/`** | **lo que sirve para cualquiera: cómo se corre un ciclo, cuándo se para** |
 | **`autor/`** | **lo que hizo este autor: sus dieciocho corridas, sus trece mutantes, su registro con fechas** |
-| **`usuario/`** | **lo que sirve para cualquiera: cómo se corre un ciclo, cuándo se para, cómo se sabe cuánto falta** |
+| **`mantenedor/`** | **cómo se sigue: el ensayo del proceso, y las herramientas** |
 
-**Y la regla para saber a cuál va lo nuevo:** **si nombra esta máquina, esta versión o esta sesión, es de `autor/`.** **Si sirve con cualquier proyecto y cualquier stack, es de `usuario/`.**
+**Y la regla para saber a cuál va lo nuevo:** **si nombra una máquina, una versión o una sesión de este trabajo, es de `autor/`.** **Si sirve con cualquier proyecto y cualquier stack, es de `usuario/`.** **Y si es de quien se queda con el repositorio, es de `mantenedor/`.**
 
 ---
 

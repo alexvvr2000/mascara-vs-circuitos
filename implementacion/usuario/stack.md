@@ -1,4 +1,4 @@
-# El stack, del usuario
+# La tabla, para llenar
 
 **El formato vacío, para llenarlo con lo que se quiera.** **Y el stack es un gusto.**
 

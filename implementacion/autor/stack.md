@@ -1,4 +1,4 @@
-# La implementación del autor
+# El stack del autor
 
 **El stack que se eligió, en una tabla que se llena a mano.** **No es una configuración: nadie la va a leer con un programa.**
 

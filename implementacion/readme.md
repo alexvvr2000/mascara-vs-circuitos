@@ -35,7 +35,7 @@
 
 **Y eso incluye mejorar el propio `autor/`.** **Si otra persona ve una forma mejor, la pone, y el repositorio sigue sin el autor.**
 
-**Las instrucciones de cómo se hace están en [`autor/readme.md`](autor/readme.md), y en [`../la obra/metodologia/`](../la%20obra/metodologia/), que ahora tiene dos carpetas: una con lo del autor y otra con lo general.**
+**Las instrucciones de cómo se hace están en [`autor/readme.md`](autor/readme.md), y en [`../la obra/metodologia/`](../la%20obra/metodologia/), que tiene tres: usuario, autor y mantenedor.**
 
 ### 4 · Clonar el repositorio y sacar un stack propio de él
 
@@ -57,15 +57,14 @@
 
 ## Lo que todavía no está
 
+**Y se ve en el acto, porque son dos carpetas vacías:**
+
 | Lo que falta | Dónde iría |
 |---|---|
-| **el `readme.md` del autor, con el punto donde lo dejó** | `autor/` |
-| **el `stack.md` del usuario, con el formato vacío** | `usuario/` |
-| **el `readme.md` del usuario, sobre el stack como gusto** | `usuario/` |
-| **el código del autor** | `autor/codigo/` |
-| **el código del usuario** | `usuario/codigo/` |
+| **el código del autor** | [`autor/codigo/`](autor/codigo/) |
+| **el código del usuario** | [`usuario/codigo/`](usuario/codigo/) |
 
-**Y las dos carpetas existen vacías desde ahora, para que se vea qué va en cada una y que no está.**
+**Y las dos existen vacías desde ahora, para que se vea qué va en cada una y que no está.** **Todo lo demás —los dos `readme.md` y los dos `stack.md`— ya está escrito.**
 
 ---
 
