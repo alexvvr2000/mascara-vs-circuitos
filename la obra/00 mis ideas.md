@@ -79,7 +79,7 @@ Qué lo sostiene: la prosa protege al que escribe y le cobra al que ejecuta. Un 
 
 ### 6. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
 
-**Vive en:** `la obra/humanidad/3 medicion de talentos.md`.
+**Vive en:** `la obra/humanidad/03 medicion de talentos.md`.
 Qué sostiene: un modelo barato que falla tres veces es más caro que el caro que acierta. Se decide por CRE, no por precio de la unidad; se presupuesta con la cola alta, no con la media; y el costo de corrección entra siempre en la cuenta.
 Qué lo sostiene: es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, sin saber nada de su interior.
 
@@ -97,7 +97,7 @@ Qué lo sostiene: no es una mejora medida —no se midió contra nada— sino un
 
 ### 9. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
 
-**Vive en:** `la obra/humanidad/1 empatía.md`.
+**Vive en:** `la obra/humanidad/01 empatía.md`.
 Qué sostiene: la empatía no es amabilidad: es instrumentación. Averiguar cómo está hecha la otra parte antes de pedirle algo. Y un resultado coherente con la letra puede ser ajeno al propósito: eso solo se detecta entendiendo el pedido, no revisando la salida.
 Qué lo sostiene: el costo no desaparece, se transfiere a quien herede el trabajo. Y lo malentendido no se ve desde el resultado.
 
@@ -105,13 +105,13 @@ Qué lo sostiene: el costo no desaparece, se transfiere a quien herede el trabaj
 
 ### 10. La conciencia que se busca adentro no está adentro
 
-**Vive en:** `la obra/humanidad/2 conciencia.md`.
+**Vive en:** `la obra/humanidad/02 conciencia.md`.
 Qué sostiene: lo que parece conciencia en una IA no está dentro de la caja, sino fuera: el modelo, el criterio, los recuerdos, y el que cuenta la versión de los hechos. No se afirma que exista, ni que no exista; se afirma dónde se la puede buscar, y que eso se puede abrir y revisar.
 Qué lo sostiene: una regla de lectura, no una creencia. Lo de afuera se puede señalar, guardar y contradecir.
 
 ### 11. El esfuerzo es lo único que no llegó con la máquina
 
-**Vive en:** `la obra/humanidad/2 conciencia.md`, sección VII.
+**Vive en:** `la obra/humanidad/02 conciencia.md`, sección VII.
 Qué sostiene: lo que la máquina no trajo es el esfuerzo, y lo que se destruye al quitar los seguros para ir más rápido es eso mismo. La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos. Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.
 Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se escribió y se corrigió, cuando lo barato era dejarla pasar. Y ese renglón, corregido a mano, es la prueba de que el esfuerzo dejó marca.
 

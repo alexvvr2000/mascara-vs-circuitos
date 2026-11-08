@@ -79,3 +79,11 @@ los varios propósitos abiertos a la vez                      ✔
 ## Lo que quedó sin cerrar
 
 **Nada de este ente.** **Los cinco huecos se cerraron en los ensayos el mismo día, y cada uno dejó su renglón en `la obra/alineacion de entes/`.** **Y el quinto se volvió a abrir en la corrida siguiente, con otra forma.**
+
+---
+
+## Prueba
+
+**¿El ciclo se levantó de punta a punta con cinco ensayos y una terminal? ¿Cada pieza inventada quedó apuntada como hueco del ensayo y no como defecto del ente? ¿El «casi» tenía salida, o se quedó sin ella?**
+
+**Falsificador:** un ente levantado que se dio por bueno sin haber escrito cada cosa que hubo que inventar; **una pieza que existe en el ensayo y no en el código**; y **una corrida que se cierra sin que la autoridad conste.**

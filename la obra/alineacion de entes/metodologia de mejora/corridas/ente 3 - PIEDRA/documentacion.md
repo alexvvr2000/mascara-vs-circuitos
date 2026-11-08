@@ -75,3 +75,11 @@ y en medio         no lo digo yo: lo dice y si duda
 ## Lo que quedó sin cerrar
 
 **Las dos fricciones de este ente, sin desenlace.** **El casi inalcanzable y el cajón de sastre.** **Se cerraron en el ensayo, con el mecanismo de lo obvio, y se fueron a probar a CANTERA.**
+
+---
+
+## Prueba
+
+**¿El «casi» se alcanza desde el flujo normal, o sigue siendo inalcanzable? ¿El borde hace lo que dijo que haría cuando una pieza llega al medio?**
+
+**Falsificador:** un «casi» que se puede escribir y no se puede llegar a él; **y un borde cuyo mecanismo sólo funciona en el ejemplo del ensayo.**

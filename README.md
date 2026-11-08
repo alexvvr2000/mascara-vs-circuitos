@@ -61,7 +61,7 @@ Máscara contra circuitos. Y aquí, las dos se la quitaron.
 
 ## Qué es esto, y para quién
 
-Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Diez ensayos, once afirmaciones, y nueve corridas que se hicieron para probarlos.
+Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Diez ensayos, doce afirmaciones, y dieciocho corridas que se hicieron para probarlos.
 
 Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
@@ -110,7 +110,7 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 >
 > **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`criterio/plan.md`](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/plan.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia de mejora/criterio/plan.md`](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/criterio/plan.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -183,7 +183,7 @@ Los límites, dichos con nombre:
 
 5. metodologia de mejora/
      metodo.md                  cómo se sabe si los ensayos están completos
-     corridas/                  las nueve corridas, y qué le faltó a cada una
+     corridas/                  las dieciocho corridas, y qué le faltó a cada una
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
@@ -285,6 +285,24 @@ Y uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que e
 2. Probar el método donde quieras. El repositorio es de Alejandro y se queda como está. Pero el método no. Si te funciona, úsalo. Si no, dilo, y tu probatura es tuya.
 
 Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
+
+---
+
+## Lo que este trabajo deja hecho, y con qué se comprueba
+
+**Esto no es una promesa: es el inventario de lo que hay, cada cosa con la forma de comprobarla.**
+
+| Lo que hay | Cómo se comprueba |
+|---|---|
+| **diez ensayos, doce afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
+| **dieciocho corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
+| **los 38 detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
+| **417 reglas contadas** | `metodologia de mejora/criterio/plan.md`, una por una, y cada una con su mutante |
+| **el registro de cómo se hizo** | `metodologia de mejora/historia/`, con fechas, incluidas las ideas que se cayeron |
+
+**Y lo que falta, que no se esconde: la implementación mínima, y que alguien que no sea el autor levante un ente con esto.**
+
+**Esos dos no están hechos.** **Todo lo de la tabla de arriba sí, y se puede comprobar hoy sin pedirle permiso a nadie.**
 
 ---
 

@@ -395,7 +395,7 @@ No es que el ensayo esté mal por cada hueco. Un ensayo completo a la primera, c
 
 No es una prueba de que el ensayo sirva. Es una prueba de lo que el ensayo no dice. Se pueden cerrar cada hueco y seguir sin un ensayo que se pueda seguir.
 
-Y no se hace solo. En las nueve corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño. TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.
+Y no se hace solo. En las dieciocho corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño. TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.
 
 Y no se pronuncia sobre la consciencia, y esto va escrito porque es lo que más se le va a pedir que diga.
 
@@ -484,7 +484,7 @@ en la 15           el no dejó ver un defecto que el sí esconde: un no
 lo que apareció    el esquema entero dependía de una instrucción que no
 en la 16           es suya: prender las llaves foráneas. con las llaves
                    apagadas, lo que tiene que rechazarse se acepta, y
-                   dieciséis corridas no lo vieron porque cada script
+                   las quince corridas anteriores no lo vieron porque cada script
                    las prendía antes de probar
 
 lo que apareció    la corrección. un hecho corregido dos veces sóla enseña

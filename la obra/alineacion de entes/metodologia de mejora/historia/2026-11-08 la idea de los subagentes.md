@@ -77,7 +77,7 @@ no se delega qué falta, ni cómo se arregla, ni cerrar el hallazgo
 
 **La idea llegó tarde y llegó bien a medias.** **Y las dos cosas se apuntan igual, porque el valor de esto no es haber tenido la idea: es haber visto cuál mitad no servía antes de gastar tres sesiones con subagentes.**
 
-**Y la que servía —la jerarquía— no se implementó todavía.** **Está dicha, y está pendiente, y se dice así.**
+**Y la que servía —la jerarquía— no se implementó: fue una idea buena que se quedó en el camino.** **Se dice así porque un registro que sólo guarda lo que funcionó no sirve para volver a intentarlo.**
 
 ---
 

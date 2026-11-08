@@ -107,3 +107,11 @@ borrar     → obvio que no          ✔
 **Las dos fricciones de este ente, sin desenlace.** **Y el propósito, abierto, porque solo lo cierra el dueño.**
 
 **Y la frase que sigue pendiente desde el ente 3:** **«el ente está perfecto» no se ha dicho, y no se va a decir hasta que no se corra una vez sin encontrarle nada.**
+
+---
+
+## Prueba
+
+**¿Una pieza cayó en el medio y el borde hizo lo que prometió? ¿El medio significa «no es de este tema», o significa otra cosa? ¿Dos temas en medio a la vez se atienden los dos?**
+
+**Falsificador:** un «casi» que significa una cosa en el ensayo y otra en el código; **dos temas en medio de los que sólo se atiende uno**; y **un tema de persona que se queda con lo que no le toca.**

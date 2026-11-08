@@ -91,3 +91,11 @@ por el hueco 3  se dice en el ensayo que los campos van por archivo
 ## Lo que quedó sin cerrar
 
 **Dos fricciones sin desenlace, y no las volví a probar:** **el campo `y si duda` que no se usa, y el cajón de sastre de persona.** **Se cerraron en el ensayo, no en el ente.** **Y CANTEna las volvió a abrir, con otra forma.**
+
+---
+
+## Prueba
+
+**¿Cada campo del esquema se consulta de verdad, o hay alguno que se puede cargar con cualquier cosa y nada cambia? ¿El tema de persona dejó de ser un cajón? ¿El «casi» tiene los tres valores y se pueden alcanzar?**
+
+**Falsificador:** un campo que existe y no lo lee nadie; **un tema que se traga lo que no es suyo**; y **un valor del borde que está escrito y no se puede alcanzar.**

@@ -89,3 +89,11 @@ la autoridad que contesta "se pregunta"     no se ha corrido
 la reconstrucción del índice                no se ha corrido
 que otro levante un ente sin mí             no se ha probado
 ```
+
+---
+
+## Prueba
+
+**¿La cuarta salida —«no es de este tema»— se ejerció de verdad, o sólo se escribió? ¿El hueco que dejó CANTERA se cerró en el ensayo y se volvió a probar?**
+
+**Falsificador:** un caso que se da por probado porque el ensayo lo describe; **y un hueco que se declara cerrado sin haberlo corrido otra vez.**
