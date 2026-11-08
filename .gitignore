@@ -1,0 +1,14 @@
+# los bancos de los mutantes se regeneran al correr su script:
+# lo que prueba es el script, no la base que dejó
+*.db
+!la obra/alineacion de entes/metodologia de mejora/corridas/**/banco.db
+!la obra/alineacion de entes/metodologia de mejora/corridas/**/registro.db
+
+# y nada de temporales
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+*.old
+.DS_Store
+Thumbs.db
