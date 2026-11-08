@@ -239,6 +239,20 @@ Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro
 
 ---
 
+## Y esto es la base de cualquier implementación
+
+**De este ensayo, y de los que le siguen, se puede hacer lo que sea.**
+
+**Una base de datos, un servidor, una carpeta con textos, un aparato que la gente use con la mano, o una máquina que nadie ha inventado todavía.** **Si el ente recibe, decide, contesta y deja rastro, del resto no dice nada este trabajo.**
+
+**Y hay una razón que importa más que la libertad:** **lo que se escribió en este repositorio es una descripción, y una descripción no tiene que sobrevivir a su stack.** **Un stack cambia cada pocos años; el registro de lo que pasó, no.**
+
+**Y el límite, que es el mismo de todo el trabajo:** **si tu implementación funciona y no puedes decir qué entró, qué decidió, qué salió, y qué quedó apuntado, no implementaste esto: implementaste otra cosa que se ve igual.**
+
+**Falsificador:** una implementación que se sostiene porque nombró una herramienta y no porque cumplió las cuatro cosas.
+
+---
+
 ## Prueba
 
 **¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.**

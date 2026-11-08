@@ -304,46 +304,14 @@ Y la decisión última de parar sigue siendo del dueño. Lo que cambia es que ah
 
 Y el ente de cada corrida se queda, con su base y sus scripts. Porque el que quiera comprobarlo tiene que poder correrlo, no creerme.
 
-### Por qué se empieza de cero cada vez, y por qué la corrida es entera
+### Por qué se empieza de cero cada vez
 
-La tentación es corregir el ente anterior y seguir con él. Se ahorra tiempo, y se pierde la prueba.
+**La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba:** **el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.**
 
-Porque el ente anterior ya tiene las piezas que se inventaron la vez pasada. Y si el ensayo no las dice, el ente nuevo las va a heredar igual — y ya no se ve el hueco.
-
-Pero hay otra tentación, más fina, y es la que de verdad arruina la corrida: levantar sólo el pedazo que se quiere probar.
-
-```plaintext
-lo que se hacía   "esta corrida es sobre el piso, así que levanto la
-                  tabla del piso y lo demás lo dejo de adorno"
-
-y lo que eso pierde   el paso que va ANTES del que se prueba
-                      el paso que va DESPUÉS
-                      y las costuras entre ellos
-```
-
-Una corrida recortada no puede encontrar el paso que falta, porque recortar es decidir de antemano dónde están las costuras — y las costuras son justo lo que el que corre no sabe. Y hay una tercera tentación: construir lo que hace que la corrida se vea terminada, y no lo que el ensayo pide.
-
-Así que la regla, y no tiene excepción:
-
-> Una corrida se corre entera: del primer paso al último, sin saltarse ninguno y sin recortar el ente.
-
-Y lo que eso obliga, en concreto:
-
-```plaintext
-1. se levanta el ente completo desde el primer archivo
-2. se corre de punta a punta: crear, medir, abrir, usar, cerrar
-3. ningún paso se salta "porque no es lo que se está probando"
-4. y lo que no se puede construir sin inventar, se apunta ahí mismo
-   -- eso es el hueco, y es todo el resultado de la corrida
-```
-
-Por qué esto es lo único que permite decir «está completo»: completo no quiere decir que el ensayo no tiene frases vagas. Quiere decir que alguien levantó el ente entero leyendo sólo el ensayo, y no tuvo que preguntar ni inventar en ningún tramo. Mientras haya un tramo que no se recorre así, el ensayo puede sonar claro y seguir faltándole un paso.
-
-Y la consecuencia sobre cuántas corridas hacen falta: una corrida entera cubre todos los pasos a la vez, no uno. Por eso la serie deja de ser abierta: cuando el ente completo se levanta sin que nadie invente nada, no queda dónde buscar. Se acaba cuando dos corridas enteras seguidas no agregan nada más que detalle.
-
-Empezar de cero es lo que hace visible lo que el ensayo no dice. Y es lo que permite ver la evolución: cada carpeta con su fecha, y se ve qué cambió y en qué corrida.
+**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
 
 ---
+
 
 ## VIII. El que pregunta no tiene por qué saber
 

@@ -507,6 +507,40 @@ Y hay un caso que hay que decir porque es el más común: el ente no sabe dónde
 
 ## IV. Cerrar, y volver al índice
 
+### Y por qué el ciclo se corre entero, y no por pedazos
+
+La tentación, cuando lo que se prueba es un paso, es levantar ese paso y dejar los demás de adorno. Se ahorra tiempo, y se pierde la prueba.
+
+```plaintext
+lo que se hace     "esto es sobre el piso, así que levanto la tabla del
+                   piso y lo demás lo pongo de relleno"
+
+lo que eso pierde  el paso que va ANTES del que se prueba
+                   el paso que va DESPUÉS
+                   y las costuras entre ellos
+```
+
+Y las costuras son justo lo que más se rompe. Un paso funciona solo y deja de funcionar cuando el anterior le manda algo distinto, o cuando el siguiente le pide lo que no tiene.
+
+Una corrida recortada no puede encontrar el paso que falta, porque recortar es decidir de antemano dónde está el hueco. Y si ya se sabe dónde está, no hace falta buscarlo.
+
+Así que la regla no tiene excepción:
+
+> El ciclo se corre entero: del primer paso al último, sin saltarse ninguno y sin recortar el ente.
+
+Y lo que eso obliga, en concreto:
+
+```plaintext
+1. se levanta el ente completo desde el primer archivo
+2. se corre de punta a punta: crear, medir, abrir, usar, cerrar
+3. ningún paso se salta "porque no es lo que se está probando"
+4. y lo que no se puede construir sin inventar, se apunta ahí mismo
+```
+
+Y la consecuencia sobre cuántas corridas hacen falta: una corrida entera cubre todos los pasos a la vez, no uno. Por eso hay menos corridas de las que parecerían, y por eso cada una enseña más.
+
+---
+
 ### El cierre: el ente propone, la autoridad cierra
 
 No cada mensaje: cuando algo se terminó.
