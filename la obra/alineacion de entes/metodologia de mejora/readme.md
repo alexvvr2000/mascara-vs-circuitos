@@ -59,7 +59,9 @@ y el stack      es una implementación de la conclusión. hay muchas
      plan.md            los mutantes, y el conteo de reglas
      jerarquia.md       por qué no hay que correrlos todos
      familias.md        las catorce familias, y su regla madre
-3. historia/          cómo se hizo: los comandos, qué cambió en cada
+3. herramientas/      stats.py: qué costó cada sesión, en tokens medidos.
+                      no dice dinero, y no es un olvido
+4. historia/          cómo se hizo: los comandos, qué cambió en cada
                       corrida, y las ideas que llegaron tarde
 4. corridas/          las dieciocho veces que se corrió, en orden
 ```
