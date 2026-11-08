@@ -24,7 +24,7 @@
 1. metodo.md          el ejercicio: el ciclo entero, qué se apunta, los
                       defectos que se repiten, cuándo se para, y lo que
                       pasa cuando el que corre ya no entiende lo que corre
-2. corridas/          las quince veces que se corrió, en orden
+2. corridas/          las dieciséis veces que se corrió, en orden
 ```
 
 **Y cada corrida tiene dos cosas:**
@@ -52,16 +52,17 @@ corridas/ente N - NOMBRE/
 | **[13 · DOS TAREAS](corridas/ente%2013%20-%20DOS%20TAREAS/documentacion.md)** | el solapamiento, dos autoridades, el piso roto | **2** |
 | **[14 · PISO SANO](corridas/ente%2014%20-%20PISO%20SANO/documentacion.md)** | la tarea que sí cabe, y el cierre limpio | **3** |
 | **[15 · LIMPIA](corridas/ente%2015%20-%20LIMPIA/documentacion.md)** | el no de la autoridad, y el supuesto roto | **2** |
+| **[16 · NUNCA SE BORRA](corridas/ente%2016%20-%20NUNCA%20SE%20BORRA/documentacion.md)** | el no que no se puede borrar, y las llaves apagadas | **1** |
 
-**Y las quince carpetas se leen en orden, porque cada una corrige la anterior.**
+**Y las dieciséis carpetas se leen en orden, porque cada una corrige la anterior.**
 
 ---
 
 ## Y una cosa que se dice antes de que la descubran
 
-**Las quince tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
+**Las dieciséis tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
 
-**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay quince intentos, y el bueno es el que salga después.**
+**El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay dieciséis intentos, y el bueno es el que salga después.**
 
 ---
 

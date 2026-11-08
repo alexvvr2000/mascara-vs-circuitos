@@ -161,6 +161,12 @@ Y en el otro extremo hay un error simétrico, que casi nadie mira: un supuesto q
 
 Un supuesto se rompe contra un hecho, y ese hecho es del registro. Si no está, no se rompió: se supuso que se rompió, que es peor que el supuesto original, porque ahora parece corregido.
 
+Y hay una cosa más, y es la que casi nadie mira: que el registro rechace lo que debe no depende del esquema. Depende de quien lo abre.
+
+Las llaves foráneas de una base de datos se pueden apagar, y se apagan por omisión en más de un motor. Un esquema que sólo rechaza cuando alguien prende las llaves no rechaza: obedece. Y el que lo abre rara vez sabe que tiene que prenderlas.
+
+Así que lo que tiene que rechazarse siempre no va en una llave que se puede apagar: va en un disparador, que no necesita permiso de nadie. La diferencia entre las dos cosas no se ve hasta que alguien abre la base sin cuidado, y entonces se ve entera.
+
 Y no se arregla corriendo otra vez, porque la segunda vez busca el mismo que la primera, y busca donde ya sabe. Se arregla con alguien que no estaba: una persona que abra el registro y pregunte por lo que no está.
 
 Y mientras esa persona no exista, el cero se escribe como cero, con esa palabra. No como limpio, no como completo, no como superado.

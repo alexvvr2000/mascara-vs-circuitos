@@ -511,13 +511,13 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 ## XI. Lo que se dice hoy
 
-**Quince corridas, y treinta y dos detalles que los ensayos no decían.**
+**Dieciséis corridas, y treinta y tres detalles que los ensayos no decían.**
 
 **El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](readme.md).** **Aquí sólo lo que se puede decir del conjunto:**
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
-                   · 2 · 2 · 1 · 2 · 3 · 2, y no tiende a cero
+                   · 2 · 2 · 1 · 2 · 3 · 2 · 1, y no tiende a cero
 
 lo que cambió      la clase. las primeras eran de mecanismo: algo no
                    estaba y hubo que inventarlo. las últimas son de
@@ -528,12 +528,18 @@ lo que apareció    el no. la autoridad dijo que no por primera vez, y
 en la 15           el no dejó ver un defecto que el sí esconde: un no
                    que se puede borrar no fue un no
 
+lo que apareció    el esquema entero dependía de una instrucción que no
+en la 16           es suya: prender las llaves foráneas. con las llaves
+                   apagadas, lo que tiene que rechazarse se acepta, y
+                   dieciséis corridas no lo vieron porque cada script
+                   las prendía antes de probar
+
 lo que sigue       el cero. dos corridas de forma seguidas no han
 sin resolverse     pasado nunca, así que la regla de parada no se ha
                    ejercitado
 ```
 
-**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **quince corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en quince corridas es sospechoso; uno que sigue encontrando detalles después de quince es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
+**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **dieciséis corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en dieciséis corridas es sospechoso; uno que sigue encontrando detalles después de dieciséis es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
 
 **Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.**
 
