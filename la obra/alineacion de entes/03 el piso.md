@@ -77,7 +77,25 @@ lo que NO se guarda   "Traceback (most recent call last):"
 lo que SÍ se guarda   "falta pypdf: no se pudo importar"
 ```
 
-2. El piso se mide por herramienta, y el pedido llega por tarea.
+2. La salida de un `hay` tiene que probar la herramienta, y no el programa que la corre.
+
+Porque un falso positivo no truena: contesta que sí.
+
+El caso, y pasó: la prueba se llamaba «leer pdf (pypdf)», y lo que se corrió fue `python --version`. Python contestó `Python 3.14.2`, que es verdad, y el piso guardó `hay`. El ente contestó que la tarea cabía, y `pypdf` no estaba instalado.
+
+```plaintext
+lo que NO se hace   correr el programa y tomar su versión como prueba
+                    de que la herramienta está
+lo que SÍ se hace   correr la prueba DE ESA herramienta, y guardar su
+                    salida. si el comando no habla de la herramienta,
+                    no es una prueba de ella
+```
+
+Y la señal que lo reconoce, y es la única: un `hay` se puede volver a correr y da lo mismo. Si lo que se guardó no se puede repetir sobre esa herramienta, no era una prueba: era la salida de otra cosa.
+
+Y el límite, dicho sin adorno: el `no hay` se nota cuando alguien lo pregunta; el `hay` falso no se nota hasta que algo falla por dentro. Por eso el `hay` necesita más cuidado que el `no hay`, y este ensayo lo tenía al revés.
+
+3. El piso se mide por herramienta, y el pedido llega por tarea.
 
 Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf". Y pasar de uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza.
 
@@ -95,7 +113,7 @@ Y la tarea se declara con sus palabras de entrada —las que usaría alguien que
 
 Y cuando no hay tarea, se dice que no hay tarea, con estas palabras: «no tengo una tarea para lo que pides, y no se contesta con una herramienta que se le parezca». Ése es el caso más común, y el que más se rellena.
 
-3. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.
+4. El piso no se puede medir a ciegas, y la circularidad se nombra en vez de disimularse.
 
 Una tarea que pide una herramienta que el piso no midió se rechaza, y el rechazo es correcto: una tarea no puede apuntar a algo que no se midió. Y el orden es imposible, porque la tarea es justo lo que dice qué hay que medir.
 
@@ -180,9 +198,10 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | El ente contesta por tarea y no buscando palabras | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
 | El piso no se puede medir a ciegas | [`ente 9`](metodologia%20de%20mejora/corridas/ente%209%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
 | El piso crece con cada tarea que no pudo contestar | [`ente 10`](metodologia%20de%20mejora/corridas/ente%2010%20-%20COMPLETO/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
+| La salida de un `hay` prueba la herramienta, y no el programa | [`ente 11`](metodologia%20de%20mejora/corridas/ente%2011%20-%20CONFIRMA/) | **falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía** |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 
-**Falsificador:** **un piso que crece y no cubre la tarea que lo hizo crecer**; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.
+**Falsificador:** **un piso que dice `hay` y cuya salida no se puede volver a correr sobre esa herramienta**; **un piso que crece y no cubre la tarea que lo hizo crecer**; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.

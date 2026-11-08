@@ -524,8 +524,8 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 ## XI. Lo que se dice hoy, con los números de hoy
 
 ```plaintext
-corridas          10
-huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2 · 2  = 22
+corridas          11
+huecos encontrados 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2 · 2 · 2  = 24
 cerrados en el ensayo   los 12 primeros, los 3 de la octava, y los 2 de la novena
 la quinta         cerró los dos de la cuarta, sin huecos nuevos
 la sexta          la prueba de fuentes: buscó, citó y no rellenó.
@@ -540,6 +540,9 @@ la novena         la tarea: el ente contesta por tarea y no buscando
 la décima         el ciclo ENTERO, sin recortar. el piso creció de verdad
                   y no pudo enlazar la tarea que lo hizo crecer. dejó 2
                   huecos, los dos de contenido
+la undécima       confirmación del ciclo entero. el enlace funcionó, y por
+                  eso mismo se vio algo peor: el piso guardó «hay» para una
+                  herramienta que no estaba. dejó 2 huecos, de contenido
 lo que sigue sin correr   la §VIII con una persona real (la sexta la usó
                           con un caso simulado, y lo dijo)
 la corrida 10              pendiente, y es la que más urge: el mecanismo
