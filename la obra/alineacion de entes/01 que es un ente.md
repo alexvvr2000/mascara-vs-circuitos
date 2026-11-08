@@ -247,7 +247,7 @@ Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro
 
 **Y hay una razón que importa más que la libertad:** **lo que se escribió en este repositorio es una descripción, y una descripción no tiene que sobrevivir a su stack.** **Un stack cambia cada pocos años; el registro de lo que pasó, no.**
 
-**Y el límite, que es el mismo de todo el trabajo:** **si tu implementación funciona y no puedes decir qué entró, qué decidió, qué salió, y qué quedó apuntado, no implementaste esto: implementaste otra cosa que se ve igual.**
+**Y el límite, que es el mismo de todo el trabajo:** **una implementación que funciona sin poder decir qué entró, qué decidió, qué salió, y qué quedó apuntado no implementó esto: implementó otra cosa que se ve igual.**
 
 **Falsificador:** una implementación que se sostiene porque nombró una herramienta y no porque cumplió las cuatro cosas.
 

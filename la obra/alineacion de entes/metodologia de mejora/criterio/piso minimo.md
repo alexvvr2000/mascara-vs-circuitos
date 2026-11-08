@@ -20,7 +20,7 @@
 
 **No significa «bueno». Significa:**
 
-> **Que alguien que sabe menos que vos pueda empezar a trabajar con esto, y que el que sabe más pueda seguir desde donde el primero dejó.**
+> **Que alguien que sabe menos pueda empezar a trabajar con esto, y que el que sabe más pueda seguir desde donde el primero dejó.**
 
 **Y las dos mitades son necesarias:**
 

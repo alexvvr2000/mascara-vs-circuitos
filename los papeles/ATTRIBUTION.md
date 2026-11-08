@@ -172,6 +172,36 @@ español             todo lo demás: lo que se explica, lo que se afirma,
 
 Y la prueba, que es la misma de siempre: si alguien del oficio lee el término y sabe de qué se habla, se queda. Si hay que traducirlo para que se entienda, entonces no era un término: era una palabra que se podía escribir en español desde el principio.
 
+### Y en qué español, que también es una decisión
+
+**En español neutro profesional.** **Y eso excluye tres cosas, que se dicen porque las tres aparecen solas:**
+
+```plaintext
+el voseo            «vos», «tenés», «podés», «hacés». es rioplatense, y el
+                    registro de este trabajo no es ese
+
+el tuteo             «tú», «tienes», «puedes». correcto en su lugar, y no
+                    en un texto que describe y no se dirige a nadie
+
+y el imperativo
+dirigido al lector   «haz esto», «mira aquel». es un manual, y este
+                    repositorio no lo es
+```
+
+**Por eso el texto está en tercera persona y en impersonal:** **no es frialdad, es el registro de una descripción.** **Un texto que describe algo no le habla a nadie, y por eso no tiene a quién tutear ni a quién vosear.**
+
+**Y la consecuencia práctica, que es la que se aplica al corregir:** **cuando aparece un «vos», un «tú» o un «tienes» en una frase que describe, la frase está mal, y se reescribe en impersonal.**
+
+```plaintext
+mal    que alguien que sabe menos que vos pueda empezar
+bien   que alguien que sabe menos pueda empezar
+
+mal    tienes que medir el piso antes de prometer
+bien   el piso se mide antes de prometer
+```
+
+**Y lo que sí queda en primera persona, porque no se puede escribir de otra forma:** **las citas, los lemas, y el rastro de la conversación.** **Todo lo demás, en impersonal.**
+
 Lo que esto no es: no es permiso para meter inglés a media frase. Una oración no se parte para usar la palabra de moda; se usa el término donde es el nombre de algo, y el resto se dice en español.
 
 ---

@@ -125,7 +125,7 @@ A eso se le llama «vibe coding», y el término se usa tal cual, porque es el n
 Y la diferencia no es de estilo; es la que separa un oficio de una actividad:
 
 ```plaintext
-hablar sin objetivo       no tienes un trabajo, tienes una actividad
+hablar sin objetivo       no hay un trabajo: hay una actividad
 hablar con un propósito   eso es un trabajo, y es la mayoría de los oficios
 ```
 

@@ -383,7 +383,7 @@ el ciclo de la autonomía    no se acaba. Se regula
 
 El primero para cuando el ensayo está completo. El segundo es continuo, y su freno no es un criterio de parada: es la firma.
 
-Así que no hay un punto en el que el ente deje de proponer. Hay un punto en el que tú dejas de necesitar revisar los ensayos, y sigues firmando las propuestas.
+Así que no hay un punto en el que el ente deje de proponer. Hay un punto en el que ya no hace falta revisar los ensayos, y se sigue firmando lo que se propone.
 
 Y esperar el otro punto —el que no existe— es lo que hace que esto canse.
 

@@ -71,7 +71,7 @@ Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un ras
 
 Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
 
-Qué puedes hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de las doce afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
+Qué se puede hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de las doce afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
 
 No incluye guía. El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
 
@@ -284,15 +284,15 @@ Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.
 1. Correr un falsificador. Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
 
 ```bash
-# en tu copia del repositorio, desde la raíz
+# en una copia del repositorio, desde la raíz
 grep -rn "Falsificador:" "la obra" --include=*.md
 ```
 
-Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba. Y si lo que describe se cumple, esa idea se cayó — y se cae para ti, en tu copia. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
+Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba. Y si lo que describe se cumple, esa idea se cayó — y se cae en la copia de quien lo comprueba. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
 
 Y uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
 
-2. Probar el método donde quieras. El repositorio es de Alejandro y se queda como está. Pero el método no. Si te funciona, úsalo. Si no, dilo, y tu probatura es tuya.
+2. Probar el método donde se quiera. El repositorio es de Alejandro y se queda como está. Pero el método no. Si funciona, se usa. Si no, se dice, y la probatura es de quien la hizo.
 
 Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
@@ -316,7 +316,7 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
 ---
 
-## De quién es esto, qué puedes hacer, y por qué no acepto contribuciones
+## De quién es esto, qué se puede hacer con él, y por qué no acepto contribuciones
 
 Este repositorio es mío, y es mi publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está.
 
@@ -324,10 +324,10 @@ Y lo que sigue es la razón, dicha sin adorno, porque es la única forma de que 
 
 > Esta es mi conclusión sobre cómo una IA puede llegar a tener una identidad de verdad, conforme se usa. No creo estar mentalmente bien después de lo que hice, y ni siquiera sé si esto es de verdad lo que dice ser. Pero una cosa nunca se me fue de la cabeza: esto vale la pena publicarlo. Y si se cae tres días después de que la gente empiece a entenderlo, eso sólo significa que la ciencia hizo lo suyo: quien es mejor que yo en esto hizo un trabajo mejor, y ése era el punto.
 
-Así que haz lo tuyo, y cítame o critícame si quieres. Esto es mi forma de hacer mío lo que hice, y de que lo que tú hagas sea tuyo.
+Así que cada quien hace lo suyo, y cita o critica según haga falta. Esto es mi forma de hacer mío lo que hice, y de que lo que otro haga sea suyo.
 
-Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que otros puedan aportar, es que en el momento en que alguien más escribe aquí, esto deja de ser mío y empieza a ser de nadie. Lo que tú construyas no lo traigas aquí: hazlo tuyo, y cítame como punto de partida.
+Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que otros puedan aportar, es que en el momento en que alguien más escribe aquí, esto deja de ser mío y empieza a ser de nadie. Lo que otro construya no entra aquí: se hace suyo, y se cita este trabajo como punto de partida.
 
-Lo que sí puedes hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo. Lo que está aquí se queda aquí.
+Lo que sí se puede hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo. Lo que está aquí se queda aquí.
 
 ---
