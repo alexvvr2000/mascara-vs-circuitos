@@ -57,7 +57,9 @@ y el stack      es una implementación de la conclusión. hay muchas
                       pasa cuando el que corre ya no entiende lo que corre
 2. criterio/plan.md   cómo se sabe cuándo está: los mutantes, y el
                       conteo de reglas. es lo que dice cuánto falta
-3. corridas/          las dieciocho veces que se corrió, en orden
+3. historia/          cómo se hizo: los comandos, qué cambió en cada
+                      corrida, y las ideas que llegaron tarde
+4. corridas/          las dieciocho veces que se corrió, en orden
 ```
 
 **Y cada corrida tiene dos cosas:**
@@ -98,6 +100,16 @@ corridas/ente N - NOMBRE/
 **Las dieciocho tienen su propio `tablas.sql` y no son iguales: cada una cambió respecto de la anterior, y eso es a propósito.**
 
 **El que venga a buscar el archivo «bueno» no lo va a encontrar, porque no hay uno: hay dieciocho intentos, y el bueno es el que salga después.**
+
+---
+
+## Y el detalle de cómo se hizo
+
+**Los ensayos dicen qué tiene que pasar. Aquí está cómo se llegó a saberlo.**
+
+**Y eso incluye lo que no funcionó.** **En `historia/` están los comandos exactos, qué cambió en cada una de las dieciocho corridas y por qué, lo que se creía que era llegar al criterio antes de saberlo, y la idea de los subagentes con su mitad buena y su mitad mala.**
+
+**No es un resumen: es el recorrido, con sus fechas.**
 
 ---
 
