@@ -8,12 +8,17 @@
 
 | La carpeta | Qué trae | Para quién |
 |---|---|---|
-| **`autor/`** | **una versión inicial que ya trae un stack elegido: motor, catálogo y base** | **quien quiera empezar con algo probado, y no elegir nada todavía** |
-| **`usuario/`** | **una versión inicial sin stack: sólo lo mínimo para trabajar** | **quien sólo quiere rapidez, y no le interesa la tecnología** |
+| **`ejemplo/`** | **el ente, con un stack ya probado. se copia y se usa** | **quien viene por un stack probado, y quiere trabajar ya** |
+| **`usuario/`** | **el manual: cómo tomar ese ente y hacer el tuyo, con tu propio stack** | **quien viene a hacer el suyo desde cero** |
 
-**Y las dos funcionan desde el primer día.** **No son moldes: se copian y se usan.**
+**Y son dos caminos distintos de entrada, no dos versiones de lo mismo.**
 
-**La diferencia no es de dueño, es de stack.** **La de autor trae uno; la de usuario no.**
+```plaintext
+vienes por un stack probado    ->  ejemplo/
+vienes a hacer el tuyo          ->  usuario/
+```
+
+**Y las dos cosas se pueden hacer a la vez:** **se copia `ejemplo/` para empezar rápido, y se lee `usuario/` cuando se quiera cambiar una pieza.**
 
 ---
 

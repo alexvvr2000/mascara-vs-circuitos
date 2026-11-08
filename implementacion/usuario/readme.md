@@ -1,53 +1,109 @@
-# Para el usuario
+# Usuario
 
-**Una carpeta, cuatro pasos, y queda funcionando.**
-
----
-
-## Lo que hay aquí
-
-| La carpeta | Qué es |
-|---|---|
-| **[`para copiar/`](para%20copiar/)** | **lo que se copia al proyecto. ahí está todo lo que hace falta** |
-| **[`stack.md`](stack.md)** | **la tabla del stack, si se quiere elegir uno** |
-| **[`codigo/`](codigo/)** | **lo que salga de llenarla** |
-
-**Y lo que casi todo el mundo va a usar es `para copiar/`.** **Lo demás es para quien quiera cambiar el stack.**
+**El manual: cómo tomar el ente de `ejemplo/` y hacer el tuyo, con tu propio stack.**
 
 ---
 
-## Los cuatro pasos
+## Antes de nada: qué es cada cosa
 
-**1.** Se copia `para copiar/` al proyecto.
+**En `ejemplo/` hay un ente que ya funciona, con un stack puesto.** **No tiene que gustarte ese stack, y no tienes que usarlo.**
 
-**2.** Se llenan los renglones vacíos de `autoridad.md`, `proposito.md` y `cuerpo.md`.
+**Está ahí por una razón:** **es el punto de partida probado.** **Lo que se cambia, se cambia sabiendo que antes funcionaba.**
 
-**3.** Se escriben los temas en `indice/`, cuando aparezcan.
+**Y este manual es lo que se lee para cambiarlo.**
 
-**4.** Y se trabaja.
-
-**No hay nada que instalar.** **Ni desde un catálogo, ni desde la terminal, ni desde ningún lado.**
-
----
-
-## Y el stack es de gusto
-
-**`stack.md` es una tabla, y se llena con lo que se quiera: el motor, la base, el modelo.**
-
-**La carpeta de `para copiar/` funciona igual con cualquiera, porque lo que pide es una carpeta de texto y un registro.**
-
-**Y la meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.** **Un stack llenado con lo que falló, y corregido con lo que se apuntó, produce un ente que sirve.**
-
-**Y la única pieza que no es libre es la base, si el índice se quiere como grafo.** **Con una tabla de renglones también funciona, y el recorrido entre temas se escribe a mano.**
+```plaintext
+vienes por un stack probado y quieres trabajar ya   ->  copia ejemplo/ y usa
+vienes a hacer el tuyo                              ->  este manual
+```
 
 ---
 
-## Lo que se puede hacer con lo que salga
+## Antes de cambiar nada: copia y corre
 
-**Usarlo, cambiarlo, publicarlo.** **Es suyo, y no hay que pedir permiso.**
+**1.** Se copia `ejemplo/para copiar/` a un proyecto **que no sea éste**.
 
-**Y devolverlo aquí no se acepta, por una razón del `README` inicial: una vez que alguien más escribe, esto deja de ser de su autor y empieza a ser de nadie.**
+**2.** Se renombran los dos archivos que el motor lee:
+
+```plaintext
+hoja de reglas.md            ->  AGENTS.md
+skills/ente/la habilidad.md  ->  skills/ente/SKILL.md
+```
+
+**3.** Se llenan `autoridad.md`, `proposito.md` y `cuerpo.md`.
+
+**4.** Y se corre, tal como viene. **Sin cambiar el stack todavía.**
+
+**Y esto no es un trámite:** **si el ente de ejemplo no levanta en tu proyecto, el problema no es tu stack, y no hay que buscar ahí.** **Primero funciona, después se cambia.**
 
 ---
 
-**Falsificador:** una carpeta copiada y nunca usada. **La señal, en el acto:** **`registro.db` sigue vacío.**
+## Los tres cambios, y en qué orden
+
+**El stack tiene tres piezas, y no se cambian todas a la vez.** **Se cambia una, se corre, y se mira si el rastro es el mismo.**
+
+### 1 · El motor
+
+**Es el que menos importa.** **Cualquiera donde el ente pueda recibir, decidir y contestar sirve.**
+
+**Qué cambia:** **el archivo que el motor lee al arrancar, y el nombre que espera.** **En algunos es la hoja de reglas; en otros, otra cosa.** **Los dos nombres que pide el de ejemplo están en el `LEEME` de `para copiar/`.**
+
+**Cómo se sabe que funcionó:** **el ente arranca, contesta, y deja su registro.** **Eso es todo.**
+
+### 2 · La base
+
+**Es la única que no es un gusto.** **El índice es un grafo con tres relaciones —contiene, asocia, supera— y la consulta que más se va a hacer es por dónde se llega de un tema a otro.**
+
+**Si la base es un grafo:** **las tres relaciones son aristas, y el recorrido sale solo.**
+
+**Si la base es una tabla:** **también funciona, y el recorrido entre temas se escribe a mano.** **Es más trabajo, y no es un error.**
+
+**Qué cambia:** **el archivo donde vive el criterio, y las consultas que lo leen.**
+
+**Cómo se sabe que funcionó:** **se tira el índice y se rearma desde los hechos.** **Si el rearmado coincide, la base sirve.**
+
+### 3 · El cuerpo
+
+**Qué modelo piensa.** **Se declara, no se adivina.**
+
+**Qué cambia:** **el renglón de `cuerpo.md`, y los hechos que vienen después.**
+
+**Y lo que no se hace:** **reescribir los hechos viejos.** **Se quedan con el cuerpo que tenían, y eso es un dato.**
+
+---
+
+## La prueba, que es la misma para los tres
+
+> **El ente, con el stack nuevo, produce el mismo rastro que con el viejo.**
+
+**Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack, y hay que decirlo.** **No es un fallo del stack nuevo: es que el ensayo no era tan general como parecía.**
+
+**Y la comprobación concreta:** **el mismo caso, con los dos stacks, y se comparan los hechos.** **Si dicen lo mismo, el cambio sirvió.**
+
+---
+
+## Qué no se cambia, y por qué
+
+**No se cambia la forma de lo que se apunta.** **Un hecho sigue teniendo fecha, lo que se pidió, lo que pasó, hasta dónde no alcanza, y qué no se sabía.** **Eso no es del stack: es del ente.**
+
+**Y no se cambia la hoja de reglas para adaptarla al stack.** **Al revés:** **el stack se adapta.** **Si hay que reescribir la hoja para que el motor la entienda, el motor no sirve para esto.**
+
+---
+
+## Y si algo no se puede cambiar
+
+**Se dice, con nombre.** **Y no se rellena el hueco con lo que parecía.**
+
+**Y se apunta igual:** **qué stack, qué se intentó, y qué falló.** **Eso sirve más que un cambio que funciona a medias y nadie sabe por qué.**
+
+---
+
+## Lo que este manual no hace
+
+- **No elige el stack por nadie.** **Cada quien trabaja como quiere, y este manual no impone un gusto.**
+- **No promete que cualquier stack sirva.** **Hay uno que se probó, y es el de `ejemplo/`.**
+- **Y no dice que el cambio sea rápido.** **Cambiar de motor es un rato; cambiar de base puede ser días.**
+
+---
+
+**Falsificador:** un manual que dice cómo cambiar el stack y no dice cómo se sabe que el cambio funcionó. **La señal, en el acto:** **se cambia todo, y nadie compara el rastro de antes con el de después.**

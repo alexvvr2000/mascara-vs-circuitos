@@ -1,10 +1,10 @@
-# La tabla, para llenar
+# El stack, del usuario
 
-**El formato vacío, para llenarlo con lo que se quiera.** **Y el stack es un gusto.**
+**La tabla, para el que está haciendo el suyo.** **Y no es obligatoria: es para tener en un sitio qué se eligió.**
 
 ---
 
-## Antes de llenarlo, la única regla
+## Antes de llenarla, la única regla
 
 > **La meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.**
 
@@ -13,8 +13,6 @@
 ---
 
 ## La tabla
-
-**Una por renglón. Los ejemplos son ejemplos: se cambian.**
 
 | El campo | Qué va ahí | El valor |
 |---|---|---|
@@ -28,15 +26,7 @@
 | **la autoridad** | quién firma | |
 | **lo que la autoridad no decide** | lo que el ente no decide nunca | |
 
-**Y lo que hay que saber de cada campo, sin más explicación que la necesaria:**
-
-| El campo | Si no se sabe qué poner |
-|---|---|
-| **el motor** | cualquiera donde el ente pueda recibir, decidir y contestar. es lo menos importante |
-| **el catálogo** | opcional. si no hay, el stack se copia a mano y listo |
-| **la base** | **lo único que no es libre: el índice es un grafo, y una tabla de renglones obliga a escribir el recorrido a mano** |
-| **el cuerpo** | cualquiera. se declara, no se adivina |
-| **el sesgo del cuerpo** | si no se sabe, se escribe "no se sabe", y ese es un dato |
+**Y se llena a mano, en un archivo de texto.** **Nadie la va a leer con un programa.**
 
 ---
 
@@ -44,13 +34,9 @@
 
 **Cada stack es un mundo, y meter un ente en uno que no se conoce son semanas.** **Y hay gente que sólo quiere trabajar rápido, y no tiene por qué saber qué base es la mejor este mes.**
 
-**Así que la recomendación es una sola, y se aplica a cada renglón de la tabla:**
-
 > **Busca en internet antes de llenar el renglón. Y busca lo que se instala hoy, no lo que se recordaba.**
 
 **Y por qué:** **las piezas cambian de versión, cada una tiene su forma de instalarse, y la que sirve hoy no es la que sirvió hace un año.** **Un stack mal elegido cuesta más que el trabajo que iba a ahorrar.**
-
-**Y qué buscar, en el orden de la tabla:**
 
 | El campo | Qué buscar antes de escribirlo |
 |---|---|
@@ -63,31 +49,8 @@
 
 ---
 
-## La forma de lo que se produce
-
-**Al llenar la tabla sale esto, y cada cosa existe o no existe:**
-
-| La carpeta o archivo | Qué es | ¿Existe? |
-|---|---|---|
-| **`template.md`** | lo que el ente obedece: qué ejecutar y cuándo | |
-| **`skills/`** | lo que el ente sabe hacer | |
-| **`scripts/`** | lo que el ente corre | |
-| **`entity/`** | la base, y nace al soltarlo en un proyecto | |
-
-**Y la salida de todo eso va a [`codigo/`](codigo/).**
+**Y el manual de cómo se cambia cada pieza está en [`readme.md`](readme.md).**
 
 ---
 
-## Por qué el stack es un gusto, y no es una frase amable
-
-**Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
-
-**Así que el motor se puede cambiar, el catálogo se puede cambiar, y hasta la base se puede cambiar si se acepta escribir el recorrido a mano.**
-
-**Lo que no se cambia es el ensayo.**
-
----
-
-## Falsificador
-
-**Un stack llenado con lo que suena bien y nunca usado.** **La señal, en el acto:** **la tabla está llena y `codigo/` está vacía.**
+**Falsificador:** un stack llenado con lo que suena bien y nunca usado. **La señal, en el acto:** **la tabla está llena y no hay un solo hecho en el registro.**

@@ -149,7 +149,55 @@ Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que 
 
 ---
 
-## VIII. La consecuencia práctica
+## VIII. La IA mató los estándares, y lo que quedó son las direcciones
+
+**Y aquí está lo que este ensayo no había dicho, y es la razón por la que existe.**
+
+**Los estándares de formato se acabaron.** **Nadie va a imponer cuántos encabezados lleva un documento, ni cómo se numera una lista, ni qué plantilla se usa.** **Limitar a una IA a un formato rígido es estúpido: pierde lo que sabe hacer, y produce algo que parece escrito por un formulario.**
+
+**Y dejarla sin ninguna dirección es peor.** **Sin dirección, una IA no escribe mal: escribe lo que cae, y lo que cae es un texto que suena bien y no sirve para ejecutar.**
+
+**Lo que queda, entonces, no son formatos: son direcciones.**
+
+```plaintext
+un formato       dice cómo se ve el texto
+una dirección    dice qué hacer, en qué orden, y cómo se sabe que salió bien
+```
+
+**Y la forma de dar una dirección es este ensayo.** **El proceso.** **No es una plantilla de presentación: es la manera de decirle a una máquina qué hacer sin decirle cómo escribir.**
+
+**Y por eso el proceso tiene los renglones que tiene, y no otros:**
+
+| El renglón | Lo que le dice a la IA |
+|---|---|
+| **cuándo se corre** | **en qué momento, y no "cuando haga falta"** |
+| **qué entra** | **con qué cuenta, y qué la deja sin poder correr** |
+| **qué sale** | **qué produce, y quién lo recibe** |
+| **y si no encuentra** | **qué hace cuando no hay. es el renglón que más se rellena** |
+| **falla si** | **cómo se sabe que se incumplió** |
+| **falsificador** | **qué la tumba, aunque la forma esté bien** |
+
+**Y sin estos renglones, una IA no falla por no ser capaz: falla por no haber recibido la dirección.** **Rellena el hueco con lo que parece razonable, y lo razonable no es lo pedido.**
+
+---
+
+## IX. Y de ahí salen tres direcciones, que no son tres documentos
+
+**Un repositorio con un método adentro tiene que dar tres direcciones distintas, y cada una va a alguien distinto:**
+
+| La dirección | Para quién | Qué dice |
+|---|---|---|
+| **mantener el repo** | **quien se queda con él, y sigue corriendo ciclos** | **dónde se apunta cada cosa, cuándo se para, y cuándo un ciclo encontró algo de verdad** |
+| **hacer un stack** | **quien llega con sus propias herramientas** | **cómo se cambia una pieza por otra, y cómo se sabe que el cambio funcionó** |
+| **y las dos carpetas que las usan** | **un ejemplo probado, y un manual para construir el propio** | **el ejemplo trae un stack que ya funciona; el manual dice cómo hacer el propio desde ahí** |
+
+**Y la consistencia que exigen no es de formato: es de forma.** **Las tres se escriben en proceso, y ninguna impone una plantilla.**
+
+**Y eso es lo que hace que un repositorio se pueda clonar sin que se rompa:** **quien lo clona no hereda el gusto de quien lo escribió. Hereda las direcciones.** **Y con las direcciones se arma lo que necesite, sea cual sea su stack.**
+
+---
+
+## X. La consecuencia práctica
 
 Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzga lo que entrega.
 
@@ -227,7 +275,7 @@ Porque un paso sin Se corre no ocurre, y sin Falla si no se puede juzgar. La for
 
 ---
 
-## IX. Lo que queda, y es el fondo
+## XI. Lo que queda, y es el fondo
 
 Porque el problema de esta época no es que las máquinas sean tontas. Es que son muy buenas ejecutando cosas que nadie necesitaba, y eso se nota tarde.
 
