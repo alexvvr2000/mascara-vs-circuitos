@@ -18,6 +18,27 @@
 
 ---
 
+## La cadena, que es lo que ordena todo
+
+```plaintext
+esta carpeta    saca material
+la obra         es el material
+y el stack      es una implementación de la conclusión. hay muchas
+```
+
+**Lo que sale de una corrida tiene dos destinos, y no son el mismo:**
+
+| Lo que sale | A dónde va |
+|---|---|
+| **algo que el ensayo no decía** | **al ensayo, y ahí se queda** |
+| **algo que sólo existe porque el stack es éste** | **a la documentación de la corrida, y no toca el ensayo** |
+
+**Y la distinción tiene un nombre, y es lo que hay que hacer en el acto:** **si el hallazgo necesita nombrar una herramienta, va al segundo renglón.** **Un ensayo no habla de llaves foráneas, ni de disparadores, ni de ninguna pieza de un motor: habla de lo que el ente tiene que hacer, y el stack decide cómo.**
+
+**Y el límite, que es el que se tiene que vigilar:** **si una corrida deja material que no va a ningún ensayo, la corrida no enseñó nada del ente.** **Sirve para el que va a usar este stack, y eso está bien: pero entonces no cuenta para la regla de parada, porque la regla cuenta detalles de los ensayos.**
+
+---
+
 ## Cómo se lee
 
 ```plaintext

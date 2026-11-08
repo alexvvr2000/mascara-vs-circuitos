@@ -190,30 +190,21 @@ Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice
 
 ---
 
-## V. Los seis defectos que se repiten
+## V. Los dos defectos que sólo se ven al correr
 
-De las cuatro primeras corridas salieron doce huecos, y casi todos son de cuatro familias. Y las dos últimas no trajeron ninguno del ensayo, que también es un dato: o los ensayos están mejor, o las pruebas fueron más fáciles. La octava trajo tres, y los tres son de una quinta familia que conviene tener aparte. Reconocerlas es lo que ahorra corridas.
+**Los otros cuatro —lo que se nombra y no existe, el campo que se guarda y no se usa, el caso que nunca ocurre, y la lista que no se puede guardar— no son de aquí: son del ensayo de la frontera, que es donde se aprende a escribir un borde que se puede correr.**
 
-1. Lo que se nombra no existe. Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna. El lector lo rellena con lo que suena bien.
-*Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
+**Los dos que quedan no se ven leyendo el ensayo, porque no son del ensayo: son de la corrida.**
 
-2. El campo que se guarda y no se usa. Se define un campo, se le pone su regla, y el flujo no lo consulta nunca. Es decoración, y se ve igual de bien que algo que sirve.
-*Se reconoce cuando el campo se puede cargar con cualquier cosa y nada cambia.*
+**Uno. El defecto que se achaca al ente y es del entorno.** El terminal, el índice, o la forma de llamarlo. **Y se convierte en un «hueco» que no lo es, y en una corrección que estropea el ensayo.**
 
-3. El caso previsto que nunca ocurre. Se escribe «y si duda», y el borde no puede llegar a dudar. El caso existe en el texto y no en la ejecución.
-*Se reconoce cuando, buscando el caso, no aparece nunca.*
-
-4. El defecto que se achaca al ente y es del terminal, del índice, o de la forma de llamarlo. Y se convierte en un «hueco» que no lo es, y en una corrección que estropea el ensayo.
 *Se reconoce cuando el error aparece antes de que el ente haga nada.*
 
-5. La lista que no se puede guardar. El ensayo nombra tres o cuatro valores de un campo, y el esquema sólo puede representar dos. El valor que sobra es justo el que más importa, porque es el que dice que algo falta.
-*Se reconoce cuando el ensayo dice «o vacío» y el esquema tiene un `NOT NULL`. La corrida 8 lo encontró en el `descartado`.*
+**Dos. El enlace que va en contra del tiempo.** El hecho apunta a algo que el ciclo escribe después —la fricción propia del paso 3, que se apunta hasta el paso 6—, y el orden del ciclo no lo permite.
 
-6. El enlace que va en contra del tiempo. El hecho apunta a algo que el ciclo escribe después —la fricción propia del paso 3, que se apunta hasta el paso 6—, y el orden del ciclo no lo permite.
 *Se reconoce cuando, para cumplirlo, hay que escribir las cosas al revés de como el ciclo las ordena; y entonces el enlace queda apuntando al renglón equivocado.*
 
-Y una forma que comparten la 5 y la 6, y conviene nombrarla aparte: el valor que se escribe a la manera de cada quien. Un «ninguna» que admite cinco ortografías es un valor que no se puede contar. *Se reconoce cuando la consulta que lo cuenta depende de la ortografía y no del significado.*
-
+**Y la razón de que estos dos sí sean de aquí:** **uno se confunde con un hueco del ensayo, y el otro con un hueco del ciclo.** **Los dos estropean la corrida sin que el ensayo tenga nada que arreglar.**
 
 
 ## VI. Cuándo se para — y por qué «no encontré nada» no basta

@@ -111,6 +111,34 @@ Y no se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede per
 
 ---
 
+## IV. Las cuatro formas de escribir un borde que no se puede correr
+
+Un borde escrito puede verse bien y no servir. Estas son las cuatro formas, y las cuatro se vieron al levantar entes de verdad.
+
+**1. Lo que se nombra no existe.** Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna. El lector lo rellena con lo que suena bien, y el que escribe queda tranquilo.
+
+*Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
+
+**2. El campo que se guarda y no se usa.** Se define un campo, se le pone su regla, y el flujo no lo consulta nunca. Es decoración, y se ve igual de bien que algo que sirve.
+
+*Se reconoce cuando el campo se puede cargar con cualquier cosa y nada cambia.*
+
+**3. El caso previsto que nunca ocurre.** Se escribe «y si duda», y el borde no puede llegar a dudar. El caso existe en el texto y no en la ejecución.
+
+*Se reconoce cuando, buscando el caso, no aparece nunca.*
+
+**4. La lista que no se puede guardar.** Se nombran tres o cuatro valores de un campo, y la forma de guardarlo sólo admite dos. El valor que sobra es justo el que más importa, porque es el que dice que algo falta.
+
+*Se reconoce cuando el ensayo dice «o vacío» y el registro no admite vacío.*
+
+**Y una quinta, que no es de un campo sino de todos: el valor que se escribe a la manera de cada quien.** Un «ninguna» que admite cinco ortografías es un valor que no se puede contar, y el borde que depende de él no cierra nada.
+
+*Se reconoce cuando la cuenta depende de cómo se escribió y no de lo que significa.*
+
+**Y el límite que estas cuatro comparten:** ninguna de ellas tumba una prueba. Las cuatro dejan pasar el caso que se estaba probando, y por eso se descubren buscando el caso que rompe, no corriendo el que funciona.
+
+---
+
 ## Prueba
 
 **¿Cada hecho dice en qué frontera quedó, o hay que adivinarlo del texto? ¿Un hecho con `frontera = decide` y firma llena fue rechazado, o el esquema lo aceptó? ¿El `descartado` distingue la opción que se dejó ir de «ninguna»? ¿La propuesta sin firma quedó abierta en vez de cerrarse sola? ¿Se puede decir, de cada hecho, qué piso consultó?**
