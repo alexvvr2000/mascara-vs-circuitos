@@ -8,7 +8,6 @@
 
 | Lo que trae | Qué es |
 |---|---|
-| **[`para copiar/`](para%20copiar/)** | **la carpeta que se arrastra al proyecto** |
 | **[`stack.md`](stack.md)** | **el stack, en una tabla: qué motor, qué catálogo, qué base** |
 | **[`cuando muta el stack.md`](cuando%20muta%20el%20stack.md)** | **la regla: cuando un ensayo cambia, el stack se vuelve a mirar** |
 | **[`codigo/`](codigo/)** | **lo que el stack produce al correr, si el que lo usa quiere dejarlo aquí** |
@@ -39,9 +38,9 @@
 
 ## Cómo se usa
 
-**1.** Se copia `para copiar/` al proyecto.
+**1.** Se llena [`stack.md`](stack.md), que es dónde se declara con qué se levanta.
 
-**2.** Se llenan los renglones de `autoridad.md` y `proposito.md`.
+**2.** Se levanta el ente con lo que dice la tabla.
 
 **3.** Y se trabaja.
 

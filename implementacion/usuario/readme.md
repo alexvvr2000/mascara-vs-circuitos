@@ -21,18 +21,9 @@ vienes a hacer el tuyo                              ->  este manual
 
 ## Antes de cambiar nada: copia y corre
 
-**1.** Se copia `ejemplo/para copiar/` a un proyecto **que no sea éste**.
+**1.** Se levanta el ente de [`../ejemplo/`](../ejemplo/), con el stack que declara su tabla.
 
-**2.** Se renombran los dos archivos que el motor lee:
-
-```plaintext
-hoja de reglas.md            ->  AGENTS.md
-skills/ente/la habilidad.md  ->  skills/ente/SKILL.md
-```
-
-**3.** Se llenan `autoridad.md`, `proposito.md` y `cuerpo.md`.
-
-**4.** Y se corre, tal como viene. **Sin cambiar el stack todavía.**
+**2.** Se corre, tal como viene. **Sin cambiar el stack todavía.**
 
 **Y esto no es un trámite:** **si el ente de ejemplo no levanta en tu proyecto, el problema no es tu stack, y no hay que buscar ahí.** **Primero funciona, después se cambia.**
 
@@ -46,7 +37,7 @@ skills/ente/la habilidad.md  ->  skills/ente/SKILL.md
 
 **Es el que menos importa.** **Cualquiera donde el ente pueda recibir, decidir y contestar sirve.**
 
-**Qué cambia:** **el archivo que el motor lee al arrancar, y el nombre que espera.** **En algunos es la hoja de reglas; en otros, otra cosa.** **Los dos nombres que pide el de ejemplo están en el `LEEME` de `para copiar/`.**
+**Qué cambia:** **el archivo que el motor lee al arrancar, y el nombre que espera.** **En algunos es uno; en otros, otra cosa.**
 
 **Cómo se sabe que funcionó:** **el ente arranca, contesta, y deja su registro.** **Eso es todo.**
 

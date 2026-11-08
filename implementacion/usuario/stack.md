@@ -1,6 +1,6 @@
 # El stack, del usuario
 
-**La tabla, para el que está haciendo el suyo.** **Y no es obligatoria: es para tener en un sitio qué se eligió.**
+**La tabla, para el que está haciendo el suyo.** **La misma que la del autor, sin los valores puestos.**
 
 ---
 
@@ -19,7 +19,7 @@
 | **el ente** | un nombre corto | |
 | **el dueño** | quién decide, con nombre | |
 | **el motor** | dónde vive el ente | |
-| **el catálogo** | cómo llega a otros, si tiene | |
+| **el catálogo** | de dónde salen las piezas | |
 | **la base** | dónde vive el criterio | |
 | **el cuerpo** | qué modelo piensa | |
 | **el sesgo del cuerpo** | lo que hace mal ese modelo | |
@@ -27,6 +27,8 @@
 | **lo que la autoridad no decide** | lo que el ente no decide nunca | |
 
 **Y se llena a mano, en un archivo de texto.** **Nadie la va a leer con un programa.**
+
+**Y si algo no se sabe, se escribe "no se sabe".** **Eso es un dato, y el que más dice.**
 
 ---
 
@@ -53,4 +55,6 @@
 
 ---
 
-**Falsificador:** un stack llenado con lo que suena bien y nunca usado. **La señal, en el acto:** **la tabla está llena y no hay un solo hecho en el registro.**
+## Falsificador
+
+**Un stack llenado con lo que suena bien y nunca usado.** **La señal, en el acto:** **la tabla está completa y no hay un solo hecho en el registro.**

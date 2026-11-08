@@ -68,4 +68,4 @@ vienes a hacer el tuyo          ->  usuario/
 
 ## Falsificador
 
-**Dos carpetas que se llaman "para copiar" y no se pueden copiar y usar.** **La señal, en el acto:** **alguien las copia, y tiene que llenar cien renglones antes de trabajar.**
+**Dos carpetas que se presentan como un camino y no llevan a ningún lado.** **La señal, en el acto:** **alguien las abre, y no puede empezar sin preguntar.**
