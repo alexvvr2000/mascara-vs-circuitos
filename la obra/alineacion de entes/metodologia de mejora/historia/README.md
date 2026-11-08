@@ -22,6 +22,7 @@
 | **[Qué cambió en cada corrida](que%20cambio%20en%20cada%20corrida.md)** | las dieciocho, una por una: qué se intentaba, qué se cayó, y qué abrió la siguiente |
 | **[Cómo se pensó llegar al criterio](como%20se%20penso%20llegar%20al%20criterio.md)** | lo que se creía que era llegar, y en qué corrida cambió |
 | **[La idea de los subagentes](2026-11-08%20la%20idea%20de%20los%20subagentes.md)** | una idea que llegó bien a medias, y por qué casi sale mal |
+| **[El registro de cómo se llegó](el%20registro%20de%20como%20se%20llego.md)** | todo, en orden, con fecha — y los ocho errores propios |
 
 ---
 

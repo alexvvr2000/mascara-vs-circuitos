@@ -115,6 +115,36 @@ c) las corridas
 
 ---
 
+## Y la curva de las corridas, que dice dónde se está
+
+**Las 392 reglas son cuántas hay.** **Esto otro es cuánto se sigue encontrando.**
+
+```plaintext
+detalles por corrida:  5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
+                       · 2 · 2 · 1 · 2 · 3 · 2 · 1 · 3 · 2
+
+primeras 9 corridas    20 detalles   (2.22 por corrida)
+últimas  9 corridas    18 detalles   (2.00 por corrida)
+```
+
+**La curva no baja.** **Y eso quiere decir una de dos cosas, y no se puede distinguir desde aquí:**
+
+```plaintext
+a) el ensayo todavía tiene cosas que decir     ← y cada corrida encuentra una
+b) las corridas cambiaron de clase             ← ya no encuentran reglas, sino
+                                                 casos de reglas conocidas
+```
+
+**Y hay un dato que inclina hacia la (b), y no es una impresión:** **los últimos detalles no son de mecanismo. Son de registro y de corrección** — el no que se puede borrar, la corrección que tapa, el enlace que se borra.
+
+**Ninguno de los tres ochenta y ocho últimos abrió una familia nueva.** **Todos afinaron una que ya existía.**
+
+**Y eso, si es cierto, cambia el cálculo:** **las 392 reglas son las que hay; las corridas no van a traer cuatrocientas nuevas, van a seguir afinando las mismas.**
+
+**Pero no lo sé.** **Se dice que inclina, y no que es.**
+
+---
+
 ## Falsificador
 
 **Una tabla de inclusión que dice «el 97% de las reglas mueren por inclusión».** **Suele salir de contar como hija a lo que en realidad es una paráfrasis de la madre.**

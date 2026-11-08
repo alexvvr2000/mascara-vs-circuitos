@@ -27,7 +27,13 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> **Antes de creerme nada: lee [los límites](los%20papeles/LIMITES.md).** **Están escritos antes de que los encuentres: qué no se probó, qué podría estar mal, y con qué se sabría.**
+> **Antes de creerme nada, dos páginas:**
+>
+> **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y con qué se sabría.
+>
+> **[El registro de cómo se llegó](la%20obra/alineacion%20de%20entes/metodologia%20de%20mejora/historia/el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
+>
+> **Y por qué las dos:** **esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó.** **Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas.** **Con el camino a la vista, hay una tercera: revisarlo.**
 
 ---
 
