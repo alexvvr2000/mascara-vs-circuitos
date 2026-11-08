@@ -6,6 +6,29 @@
 
 ---
 
+## Antes de llenarla: busca, no adivines
+
+**Ningún stack se sabe de memoria.**
+
+**Las piezas cambian de versión, cada una tiene su forma de instalarse, y la que servía hace un año puede que ya no exista, o que exista con otro nombre.** **Un stack elegido de memoria es un stack inventado, y se nota al primer intento de levantarlo.**
+
+> **Cada renglón se llena después de buscar en internet lo que se instala hoy, y no se llena con lo que se recuerda.**
+
+**Y qué buscar antes de cada uno:**
+
+| El renglón | Qué hay que buscar, y no suponer |
+|---|---|
+| **el motor** | qué harness se instala hoy, cuál está mantenido, y cuál deja que el rastro viva fuera de él |
+| **el catálogo** | de dónde se instalan las piezas, si ese catálogo existe, y si sigue vivo |
+| **la base** | si el índice va como grafo, qué base de grafos es embebida y tiene binding para el lenguaje que ya se usa |
+| **el cuerpo** | cómo se declara ese modelo, y qué se sabe que hace mal |
+
+**Y la prueba que cierra cada búsqueda, que no es leer:** **si se puede instalar en una máquina limpia siguiendo lo que se encontró, sirve.** **Si no se puede, lo que se encontró está viejo, y se busca otra vez.**
+
+**Y si después de buscar no se sabe, se escribe "no se sabe".** **Eso no es una derrota: es la única respuesta honesta, y es la que dice qué hay que buscar la próxima vez.**
+
+---
+
 ## La tabla
 
 | El campo | Qué va ahí | El valor |
@@ -26,4 +49,4 @@
 
 ## Falsificador
 
-**Un stack llenado con lo que suena bien y nunca usado.** **La señal, en el acto:** **la tabla está completa y no hay un solo hecho en el registro.**
+**Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba y nunca se buscó.** **La señal, en el acto:** **alguien va a instalarlo y la pieza ya no se llama así.**
