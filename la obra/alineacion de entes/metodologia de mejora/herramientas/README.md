@@ -114,6 +114,60 @@ y el tiempo de trabajo                      no se apunta, y no es prueba
 
 ---
 
+## `publicar.py` — lo que se puede enseñar sin enseñarlo todo
+
+**Un registro de trabajo lleva, sin querer, mucho más de lo que parece: la ruta de tu máquina, la carpeta donde trabajas, el id de la sesión —que es estable y se puede cruzar entre publicaciones— y la hora exacta.**
+
+**Este script recorta antes de publicar:**
+
+```bash
+python stats.py --json --all > crudo.json
+python publicar.py crudo.json --revisar     # qué se quitaría
+python publicar.py crudo.json > limpio.json # ya se puede enseñar
+python publicar.py crudo.json --comprobar   # falla si queda algo
+```
+
+**Y lo que busca, además de lo que quita a propósito:**
+
+```plaintext
+rutas con nombre de usuario      C:\Users\<alguien>\ · /home/<alguien> · /Users/<alguien>
+correos
+tokens de GitHub y llaves de API
+JWT
+direcciones IP
+```
+
+**Y `--comprobar` sale con error si encuentra alguno.** **Se probó metiendo un correo y una llave a propósito, y los encontró.**
+
+**Y una regla que no se toca:** **`stats.py` no lee el contenido de los mensajes.** **Lee el tipo de cada evento, el `usage`, y el `request/header`. Nada más.** **Eso es lo que permite que alguien más lo corra en su máquina sin tener que creerte.**
+
+---
+
+## `cruzar.py` — cuánto cuesta encontrar un hueco
+
+**Une las dos cosas que nadie junta: lo que costó una sesión, en tokens, y lo que esa sesión produjo, en huecos cerrados en un ensayo.**
+
+```bash
+python stats.py --json --all > crudo.json
+python cruzar.py crudo.json
+```
+
+**Y el número que sale no es «cuánto gastaste». Es cuántos tokens costó encontrar un error que valía la pena encontrar.**
+
+**Y lo que el script dice de sí mismo, que es lo que lo hace honesto:**
+
+```plaintext
+no dice si el hueco valía la pena
+no dice cuánto costó el que no se encontró
+y no dice dinero
+```
+
+**Y el conteo de huecos reconoce tres formatos, porque las corridas no se titularon igual:** **«Hueco N», «Los cinco huecos», y los encabezados de uno en uno.** **Y cuando no puede contar una, lo dice en vez de poner un cero.**
+
+**Ese detalle no es cosmético: la primera versión contaba 33 huecos cuando había 38, y el número de tokens por hueco salía 8 millones más alto.** **Se vio porque el total no cuadraba con lo que el repositorio dice de sí mismo en otros lados.**
+
+---
+
 ## Falsificador
 
 **Un informe de estadísticas que da dinero sin decir de qué precio.** **Y su contraria: uno que da tokens y los presenta como si fueran un resultado, cuando un token es un costo y no una cosa hecha.**
