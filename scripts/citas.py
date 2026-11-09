@@ -14,7 +14,7 @@ import re
 import sys
 import urllib.parse
 
-RAIZ = os.path.dirname(os.path.abspath(__file__))
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LES = "aáeéiíoóuúñ"
 
 # «`03 el piso`», «`01 qué es un ente`»: el número, un espacio, y el título.

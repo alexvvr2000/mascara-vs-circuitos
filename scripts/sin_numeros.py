@@ -17,7 +17,7 @@ import re
 import subprocess
 import sys
 
-RAIZ = os.path.dirname(os.path.abspath(__file__))
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CARPETAS = (os.path.join(RAIZ, "la obra", "funcionamiento ente"),
             os.path.join(RAIZ, "la obra", "humanidad"))
 TITULO = re.compile(r"^# (.+)$", re.M)

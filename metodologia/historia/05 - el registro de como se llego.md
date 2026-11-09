@@ -77,7 +77,7 @@ corridas 5 y 6   CERO
 
 **Qué se hizo:** **nueve corridas en un día, cada una eligiendo la siguiente.**
 
-**Y la historia de cuál eligió a cuál está en [[qué cambió en cada corrida](04%20-%20que%20cambio%20en%20cada%20corrida.md)](04%20-%20que%20cambio%20en%20cada%20corrida.md).**
+**Y la historia de cuál eligió a cuál está en [[qué cambió en cada corrida](03%20-%20que%20cambio%20en%20cada%20corrida.md)](03%20-%20que%20cambio%20en%20cada%20corrida.md).**
 
 **Lo que salió, y no es una lista de éxitos:**
 

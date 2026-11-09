@@ -15,7 +15,7 @@ import re
 import sys
 import urllib.parse
 
-RAIZ = os.path.dirname(os.path.abspath(__file__))
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NUMERO = re.compile(r"(?:^|(?<=/))\d\d\s+")
 
 # Y lo que no se toca: los archivos de historia y de implementacion se citan

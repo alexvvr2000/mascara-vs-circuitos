@@ -18,7 +18,7 @@ mutantes/      un script por familia, su documentación, y los bancos en
                dumps de texto ofuscados. el código
 ```
 
-**Y el build está en la raíz:** **`python build.py` comprueba las cuatro reglas de [`forma.md`](forma.md); `python build.py --lista` dice además qué ensayo trae qué.**
+**Y el build está en la raíz:** **`python scripts/build.py` comprueba las cuatro reglas de [`forma.md`](forma.md); `python scripts/build.py --lista` dice además qué ensayo trae qué.**
 
 **Y el resto es historia:** **lo que estaba en cuatro archivos y ahora vive en `metodo.md` está guardado, con su nombre original, en [`historia/`](../historia/), del 06 al 09.** **Se movió, y no se borró, porque lo que se escribió antes de corregirlo es parte de cómo se llegó.**
 

@@ -33,7 +33,7 @@ import sys
 import unicodedata
 import urllib.parse
 
-RAIZ = os.path.dirname(os.path.abspath(__file__))
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Donde el build se cae: ni historia (se conserva como se escribió) ni
 # implementacion (puede citar el paso de un ensayo para usarlo).

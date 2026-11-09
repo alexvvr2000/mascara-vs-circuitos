@@ -1,6 +1,6 @@
 # Historia
 
-**Cómo se hizo esto, con lo que se creía, lo que se cayó, y las ideas que llegaron tarde.**
+**Cómo se llegó a lo que hoy está en la obra: qué se creía, qué se cayó, y qué lo obligó a cambiar.**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.**
 
@@ -8,48 +8,43 @@
 
 ## Qué es esta carpeta
 
-**No es un resumen de lo que está en los ensayos.** **Lo que está en los ensayos es el resultado; aquí está el recorrido.**
+**No es un resumen de los ensayos.** **Lo que está en la obra es el resultado; aquí está el camino, escrito para que se pueda leer sin fecha en la mano.**
 
-**Y el recorrido incluye lo que no sirvió.** **Una idea que no funcionó, dicha a tiempo, ahorra tres sesiones.** **Una idea buena que se pierde porque venía en el mismo mensaje que la mala, se pierde para siempre si no se apunta.**
+**Y lo que incluye, porque es lo único que enseña:** **la creencia que se cayó, el error propio que la encontró, y la idea que llegó buena a medias.**
 
 ---
 
-## Los cinco, en el orden en que se leen
+## Los diez, en el orden en que se leen
 
-**Y el orden tiene número, y no es cronológico: es el de la cadena que se cuenta.** **Primero lo que se creía, después cómo se pasó de una corrida a la otra, y al final el registro completo que amarra las dos.**
+**Y el orden es de la historia, no de los archivos: se empezó creyendo una cosa, y cada cuaderno deja abierto el siguiente.**
 
-| Qué | Para qué |
+| Qué | Qué cuenta |
 |---|---|
-| **[01 · La idea de los subagentes](01%20-%202026-11-08%20la%20idea%20de%20los%20subagentes.md)** | una idea que llegó bien a medias, y por qué casi sale mal |
-| **[02 · Cómo se corre una corrida](02%20-%20como%20se%20corre%20una%20corrida.md)** | los comandos, el orden, y lo que se escribe en cada momento |
-| **[03 · Cómo se pensó llegar al criterio](03%20-%20como%20se%20penso%20llegar%20al%20criterio.md)** | lo que se creía que era llegar, y en qué corrida cambió |
-| **[04 · Qué cambió en cada corrida](04%20-%20que%20cambio%20en%20cada%20corrida.md)** | las dieciocho, una por una: qué se intentaba, qué se cayó, y qué abrió la siguiente |
-| **[05 · El registro de cómo se llegó](05%20-%20el%20registro%20de%20como%20se%20llego.md)** | todo, en orden, con fecha — y los ocho errores propios |
+| **[01 · cómo se pensó llegar al criterio](01%20-%20como%20se%20penso%20llegar%20al%20criterio.md)** | lo que se creía que era llegar, y las tres veces que cambió |
+| **[02 · cómo se corrió](02%20-%20como%20se%20corrio.md)** | la cadena: cada vuelta eligió la siguiente por el hallazgo de la anterior |
+| **[03 · qué cambió en cada corrida](03%20-%20que%20cambio%20en%20cada%20corrida.md)** | por qué el recorrido se lee como historia y no como lista |
+| **[04 · cómo se corre una corrida](04%20-%20como%20se%20corre%20una%20corrida.md)** | el mecanismo que quedó: el orden, y la razón de cada paso |
+| **[05 · el registro de cómo se llegó](05%20-%20el%20registro%20de%20como%20se%20llego.md)** | el resumen por épocas, y los errores propios con nombre |
+| **[06 · la idea de los subagentes](06%20-%20la%20idea%20de%20los%20subagentes.md)** | la última idea: la mitad que sirvió, y la que no |
+| **[07 · el README de antes de método](07%20-%20el%20README%20de%20antes%20de%20metodo.md)** | el método como estaba escrito antes de unificarse |
+| **[08 · las reglas de antes de método](08%20-%20las%20reglas%20de%20antes%20de%20metodo.md)** | el conteo de reglas, y la tabla de inclusión, antes de unificarse |
+| **[09 · los mutantes de antes de método](09%20-%20los%20mutantes%20de%20antes%20de%20metodo.md)** | las fichas de los mutantes, antes de unificarse |
+| **[10 · el corridas de antes de método](10%20-%20el%20corridas%20de%20antes%20de%20metodo.md)** | la carpeta de corridas como estaba, antes de unificarse |
 
-**Y el número del nombre es un puntero, no un hecho:** **la fecha que cuenta es la de dentro del archivo.** **Si mañana se agrega uno que llegó antes, se le pone el número que le toca por el orden de su fecha, y los demás se corren; el nombre cambia de número y la fecha de dentro no.**
+**Y el anexo que dice qué de todo esto sigue vigente:** [`lo que sigue vivo dentro de historia`](lo%20que%20sigue%20vivo%20dentro%20de%20historia.md).
 
 ---
 
 ## La regla de esta carpeta
 
-**Se escribe el día en que pasó, y no se enmienda después.**
+**Se escribe el día, y no se enmienda después.**
 
-**Si una decisión se vio mal al mes siguiente, se apunta abajo en otra entrada con su fecha.** **Un registro que se corrige para quedar bien deja de ser un registro.**
+**Y se lee sin fecha:** **lo que cuenta cada cuaderno es qué se creía y qué lo tumbó, y eso sigue siendo cierto el día que se lea.** **La fecha que cuenta sigue siendo la de dentro de cada archivo, y viaja con él; el número del nombre es el puesto en la historia, y no la fecha.**
 
-**Y cada entrada trae su falsificador, como todo lo demás de este repositorio.**
-
-**Y una cosa que no es una enmienda, y se apunta porque cambió el mapa:** **el 2026-11-09 la carpeta `la obra/ciclo del ente/` se renombró a `la obra/funcionamiento ente/`.** **Los enlaces de las entradas 06 a 09 se corrigieron para que no se rompieran, y el nombre de dentro de lo que dicen no se tocó.** **Un registro que se rompe por un renombre deja de servir; uno que cambia lo que dice por un renombre deja de ser un registro.**
+**Y cuando un numero medido envejece, no se corrige aquí: la cifra vigente vive en [`metodologia/sostiene/corridas.md`](../sostiene/corridas.md).** **El cuaderno conserva la cuenta de su día, que es un dato histórico, y no la vigente.**
 
 ---
 
-## Prueba
+## Falsificador
 
-**¿Cada entrada dice qué se creía, qué pasó y con qué se sabe?** **¿Se enmendó alguna, en vez de agregar otra entrada con su fecha?** **¿Y cuando cambió el mapa del repositorio, se apuntó el cambio, o sólo se arreglaron los enlaces sin decirlo?**
-
----
-
-**Falsificador:** **un registro en el que nada se cayó**; **una enmienda disfrazada de entrada nueva**; **y un renombre de carpeta que deja los enlaces de aquí apuntando al vacío sin que nadie lo diga.**
-
----
-
-**Falsificador:** **una historia donde todo salió bien a la primera.** **Si no hay una idea que se cayó, una decisión que se deshizo, o una noche perdida, no es historia: es publicidad.**
+**Una historia donde todo salió bien a la primera.** **Si no hay una idea que se cayó, una decisión que se deshizo, o una noche perdida, no es historia: es publicidad.**

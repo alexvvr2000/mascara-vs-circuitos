@@ -4,7 +4,7 @@
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-09.**
 
-> **Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos.** **Y no se ajustan a mano: se ajustan con [`build.py`](../../build.py), que es el que dice si un ensayo la cumple.**
+> **Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos.** **Y no se ajustan a mano: se ajustan con [`scripts/build.py`](../../scripts/build.py), que es el que dice si un ensayo la cumple.**
 >
 > **Y de dónde sale la exigencia:** **el ciclo es el mapa, y cada paso es su detalle.** **Un mapa que hay que corregir cada vez que un detalle cambia no es un mapa: es otro detalle que envejece.** **La forma es lo que deja que cada uno crezca solo.**
 
@@ -28,7 +28,7 @@ FORMA    todo ensayo de la obra trae su Falsificador
          su «Y qué se pierde si cambia»
 ```
 
-**Y la cuarta no es un cero o un uno: es una medida.** **`python build.py --lista` los cuenta y dice cuáles no la cumplen, sin detener el build.** **Así el cambio se puede hacer por partes, y el build no impide trabajar mientras se corrige.**
+**Y la cuarta no es un cero o un uno: es una medida.** **`python scripts/build.py --lista` los cuenta y dice cuáles no la cumplen, sin detener el build.** **Así el cambio se puede hacer por partes, y el build no impide trabajar mientras se corrige.**
 
 ---
 
@@ -128,8 +128,8 @@ no cuenta ensayos                            no hay un número vigente en el rep
 
 ```powershell
 # desde la raíz del repositorio
-python build.py            comprueba las cuatro, y se cae si alguna falla
-python build.py --lista    lo mismo, y además qué ensayo trae qué
+python scripts/build.py            comprueba las cuatro, y se cae si alguna falla
+python scripts/build.py --lista    lo mismo, y además qué ensayo trae qué
 ```
 
 **Y su salida, en dos renglones, que es lo único que un guardián necesita:**
