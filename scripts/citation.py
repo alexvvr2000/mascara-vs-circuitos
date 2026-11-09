@@ -34,9 +34,10 @@ def cuentas():
 
 def texto(ensayos, corridas, mutantes, version, commit, fecha):
     return """# Este archivo lo escribe scripts/citation.py: no se edita a mano.
-# Los números se cuentan de las carpetas, y el commit y la fecha salen de git.
+# Los números se cuentan de las carpetas. La fecha es la del corte, y el commit
+# no se cita: en un repo de un solo commit no hay historia que citar.
 cff-version: 1.2.0
-message: "If you use this work, cite it using the metadata from this file. The 'commit' below is the one that produced it: cite that one, also there."
+message: "If you use this work, cite it using the metadata from this file."
 title: "Máscara vs Circuitos: alineación de entes"
 abstract: >-
   Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un
@@ -57,7 +58,6 @@ authors:
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
 version: "{version}"
-commit: "{commit}"
 date-released: "{fecha}"
 license: "Apache-2.0"
 repository-code: "{url}"
@@ -99,10 +99,8 @@ VERSION = "1.0.0"
 if __name__ == "__main__":
     ensayos, corridas, mutantes = cuentas()
     # el commit del último cambio del repo, que es el que produjo la obra. El CITATION no cita su propio commit: lo cita cuando el cambio se hizo.
-    commit = git("log", "-1", "--format=%H", "--", ":!CITATION.cff")
+    commit = ""
     fecha = git("log", "-1", "--format=%ad", "--date=short")
-    if not commit:
-        sys.exit("sin git, no hay commit que citar")
     nuevo = texto(ensayos, corridas, mutantes, VERSION, commit, fecha)
     viejo = open(P, encoding="utf-8").read() if os.path.exists(P) else ""
 
@@ -110,11 +108,11 @@ if __name__ == "__main__":
         if nuevo != viejo:
             print("CITATION.cff esta atras: corre python scripts/citation.py")
             sys.exit(1)
-        print("CITATION.cff al dia - commit %s - %d ensayos - %d corridas - %d familias" %
-              (commit[:7], ensayos, corridas, mutantes))
+        print("CITATION.cff al dia - %d ensayos - %d corridas - %d familias" %
+              (ensayos, corridas, mutantes))
         sys.exit(0)
 
     with open(P, "w", encoding="utf-8", newline="\n") as f:
         f.write(nuevo)
-    print("CITATION.cff escrito · commit %s · %d ensayos · %d corridas · %d familias" %
-          (commit[:7], ensayos, corridas, mutantes))
+    print("CITATION.cff escrito · %d ensayos · %d corridas · %d familias" %
+          (ensayos, corridas, mutantes))
