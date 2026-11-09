@@ -3,23 +3,19 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-La tabla, para el que está haciendo el suyo. La misma que la del autor, sin los valores puestos, y con la misma regla de antes.
+La tabla, para quien está haciendo el suyo: la misma que la del autor, sin los valores puestos, y con la misma regla de antes.
 
 ---
 
-## Antes de llenarla, la única regla
+## Antes de llenarla, dos reglas
+
+La primera:
 
 > La meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.
 
-Eso lo decide el ente, no la lista de cosas que suenan bien. Se prueba una, se apunta qué falló, y se cambia. Lo que quede al final es lo que sirve, y casi nunca es lo que se quería al principio.
+Eso lo decide el ente, y no la lista de cosas que suenan bien. Se prueba una, se apunta qué falló, y se cambia. Lo que quede al final es lo que sirve, y casi nunca es lo que se quería al principio.
 
----
-
-## Antes de llenarla: busca, no adivines
-
-Ningún stack se sabe de memoria.
-
-Cada stack es un mundo, y meter un ente en uno que no se conoce son semanas. Las piezas cambian de versión, cada una tiene su forma de instalarse, y la que servía hace un año puede que ya no exista.
+La segunda, que sale de lo mismo: ningún stack se sabe de memoria. Cada pieza cambia de versión, cada una tiene su forma de instalarse, y la que servía hace un año puede que ya no exista. Meter un ente en un stack que no se conoce son semanas.
 
 > Cada renglón se llena después de buscar en internet lo que se instala hoy, y no se llena con lo que se recuerda.
 
@@ -30,9 +26,9 @@ Cada stack es un mundo, y meter un ente en uno que no se conoce son semanas. Las
 | la base | si el índice va como grafo, qué base de grafos es embebida y tiene binding para el lenguaje que ya se usa |
 | el cuerpo | cómo se declara ese modelo, y qué se sabe que hace mal |
 
-Y la prueba que cierra cada búsqueda, que no es leer: si se puede instalar en una máquina limpia siguiendo lo que se encontró, sirve. Si no se puede, lo que se encontró está viejo, y se busca otra vez.
+La prueba que cierra cada búsqueda no es leer: si se puede instalar en una máquina limpia siguiendo lo que se encontró, sirve. Si no se puede, lo que se encontró está viejo, y se busca otra vez.
 
-Y si después de buscar no se sabe, se escribe "no se sabe". Eso no es una derrota: es la única respuesta honesta, y es la que dice qué hay que buscar la próxima vez.
+Y si después de buscar no se sabe, se escribe "no se sabe": no es una derrota, es la única respuesta honesta, y es la que dice qué hay que buscar la próxima vez.
 
 ---
 
@@ -50,11 +46,7 @@ Y si después de buscar no se sabe, se escribe "no se sabe". Eso no es una derro
 | la autoridad | quién firma | |
 | lo que la autoridad no decide | lo que el ente no decide nunca | |
 
-Se llena a mano, en un archivo de texto. Nadie la va a leer con un programa.
-
----
-
-Y el manual de cómo se cambia cada pieza está en [README.md](README.md).
+Se llena a mano, en un archivo de texto: nadie la va a leer con un programa. El manual de cómo se cambia cada pieza está en [README.md](README.md).
 
 ---
 
