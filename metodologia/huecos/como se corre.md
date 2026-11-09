@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera · el ente.
 >
 > Y lo corre el ente, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.
 
-Esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las catorce están en `corridas/`, y se pueden abrir y correr.
+Esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las dieciocho están en `corridas/`, y se pueden abrir y correr.
 
 ---
 
@@ -164,7 +164,7 @@ Se levantó un ente desde cero, se corrió, y salió "sin huecos". Y no se vio h
 
 Y un ente sin esas piezas no es un ente: es un pedazo de ente. Y correr un pedazo y llamarlo "corrida sin huecos" no prueba el ensayo: prueba solo la parte que se levantó.
 
-Por eso, antes de correr, se mira que estén las cuatro del paso 0 del ensayo 2:
+Por eso, antes de correr, se mira que estén las cuatro del paso 0, en el ensayo 1:
 
 ```plaintext
 la autoridad   quién manda, y firma
@@ -182,7 +182,9 @@ Y si falta una de las cuatro, la corrida se corre igual — porque también se a
 Y la señal para reconocerlo en el acto, no después: el esquema tiene menos tablas que las cuatro piezas del paso 0. Si el `tablas.sql` no declara la autoridad, la corrida está incompleta desde el primer archivo, y se dice ahí, no al final.
 
 Y una consecuencia que hay que saber: una corrida hecha con un pedazo puede "pasar" y no probar nada del resto. La corrida 5 no probó el «se pregunta» porque no había autoridad a quien preguntarle. El pedazo que faltaba era justo la pieza que el caso necesitaba.
-Hay una quinta cosa que no es pieza pero que también se mide antes de correr, y es nueva: el piso. El paso 0d del ensayo 1 lo pide, y no se declara a ojo: se corre y se apunta qué salió.
+### Y una quinta cosa que no es pieza, y también se mide antes
+
+El piso. El paso 0d del ensayo 1 lo pide, y no se declara a ojo: se corre y se apunta qué salió.
 
 ```plaintext
 la prueba      qué se corre, y qué tiene que salir
@@ -277,40 +279,13 @@ Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no e
 
 ### La regla de parada: los mutantes, y después el silencio
 
-La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle». Y esa regla se queda, pero ya no es la primera: es la segunda.
-
-Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque. Eso tiene nombre —saturación— y es el criterio débil.
-
-La primera es otra, y está en el [Método A · Llenar los huecos](README.md):
-
-```plaintext
-cada regla de cada ensayo tiene su mutante
-y el mutante muere
-```
-
-Un mutante es el ensayo con una regla al revés. Si la corrida lo nota, la regla tiene dientes. Si no, la regla no se probaba, y el mutante vivo dice exactamente cuál.
-
-Y el límite, que se cita y no se disimula: las pruebas revelan la presencia de defectos, nunca su ausencia. Un mutante muerto no dice que el ensayo esté completo: dice que ese no lo deja pasar.
-
-Así que las dos reglas, en orden:
-
-```plaintext
-1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
-                  porque las reglas se acaban. son las que diga el
-                  [El método, entero](../sostiene/metodo.md), y el conteo de
-                  cuáles corrieron y en qué quedaron, en
-                  [Las corridas: todos los números en un solo archivo](../sostiene/corridas.md)
-2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
-                  esto cubre lo que ningún ensayo escribió
-```
-
-Y por qué las dos y no una: los mutantes sólo prueban reglas que están escritas. La corrida entera encuentra lo que falta y no está escrito. Una sin la otra deja un lado sin mirar.
+Son dos reglas, y ya están en el [Método A · Llenar los huecos](README.md), con su porqué: los mutantes, y después las dos corridas enteras seguidas sin nada más que detalle. Aquí sólo se dice que la segunda se queda, y que no es la primera.
 
 ### Por qué se empieza de cero cada vez
 
 La tentación es corregir el ente anterior y seguir con él. Se ahorra tiempo, y se pierde la prueba: el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.
 
-Y que la corrida sea entera no es de aquí: está en el [Metodología](../README.md). Aquí sólo lo que se puede decir del conjunto:
+Y que la corrida sea entera está dicho en el [Método A · Llenar los huecos](README.md). Aquí sólo lo que se puede decir del conjunto:
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
