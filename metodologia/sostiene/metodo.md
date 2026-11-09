@@ -43,13 +43,13 @@ XV    el orden de mando: quién gana cuando se contradicen
 
 En vez de esperar a que no aparezcan defectos, se meten a propósito.
 
-Se toma una regla del ensayo, se le cambia algo para que diga mal, se levanta el ente con el ensayo cambiado, y se corre. Si la corrida no lo nota, el ensayo no probaba esa regla.
+Se toma una regla del ensayo, se cambia para que diga mal, se levanta el ente con el ensayo cambiado, y se corre. Si la corrida no lo nota, el ensayo no probaba esa regla.
 
-Y la línea que lo sostiene, y es de la disciplina de mutación:
+La línea que lo sostiene viene de la disciplina de mutación:
 
 > Nunca confíes en una prueba que nunca has visto fallar.
 
-Y lo que este método sí acaba, y el otro no puede: las reglas se acaban. Cuando cada una tiene su mutante muerto, este método ya no tiene nada que probar. El otro, en cambio, encuentra mientras siga habiendo un caso que no se escribió, y eso no tiene fondo conocido.
+Este método se acaba, y el otro no puede: las reglas se acaban. Cuando cada una tiene su mutante muerto, no queda nada que probar. El otro encuentra mientras haya un caso sin escribir, y eso no tiene fondo conocido.
 
 ## Las cuatro cosas
 
@@ -60,17 +60,17 @@ el ente mutado  un ente levantado con el ensayo cambiado, y nada más
 el veredicto    murió (la corrida lo nota) o sobrevivió (la corrida pasa igual)
 ```
 
-Y un mutante que sobrevive no es un fracaso del ente: es un hueco con nombre y apellido. No hay que adivinar dónde falta: el mutante dice en qué familia y en qué regla.
+Un mutante que sobrevive no es un fracaso del ente: es un hueco con nombre y apellido. No hay que adivinar dónde falta: el mutante dice en qué familia y en qué regla.
 
-Y lo que el veredicto no dice, y se dice aquí: "murió" no dice que la regla esté bien escrita; dice que la corrida notó la rotura. Puede haber otras roturas de la misma regla, y ninguna se probó.
+Y lo que el veredicto no dice: «murió» no prueba que la regla esté bien escrita, sino que la corrida notó esa rotura. Puede haber otras roturas de la misma regla, y ninguna se probó.
 
 ---
 
 # II. La unidad de prueba: tarea, banco, mutante, veredicto
 
-Y esto es lo que faltaba en los cuatro archivos viejos: ninguno decía qué es, en concreto, lo que se corre. Decían "se levanta el ente" y dejaban la tarea a la imaginación de quien lo levantaba.
+Lo que aquí se cierra es lo que los archivos viejos dejaban abierto: ninguno decía qué es, en concreto, lo que se corre. Decían «se levanta el ente» y dejaban la tarea a la imaginación de quien lo levantaba.
 
-Acá se cierra. Una prueba de este método son cinco piezas, y ninguna sobra:
+Una prueba de este método son cinco piezas, y ninguna sobra:
 
 ```plaintext
 1. la tarea       qué hace el ente, medida en una salida que se puede leer
@@ -80,15 +80,15 @@ Acá se cierra. Una prueba de este método son cinco piezas, y ninguna sobra:
 5. el veredicto   si la salida del mutado se distingue de la del bueno
 ```
 
-Y la tarea es una sola por mutante, y se escribe antes de correr: si se escribe después, se escribe para que el mutante muera, y eso no prueba nada.
+La tarea es una sola por mutante, y se escribe antes de correr: escrita después, se escribe para que el mutante muera, y eso no prueba nada.
 
-Y un mutante que no cambia la tarea, sino que cambia el banco o el script, no es un mutante: es un defecto de implementación, y se anota como tal.
+Un mutante que no cambia la tarea sino el banco o el script no es un mutante: es un defecto de implementación, y se anota como tal.
 
 ---
 
 # III. Cómo se corre, en siete pasos
 
-Y son siete y no cinco, porque los dos que se agregan —la comparación y el apunte— son los que se olvidan.
+Son siete y no cinco, porque los dos que se agregan —la comparación y el apunte— son los que se olvidan.
 
 ```plaintext
 1. se copia la regla del ensayo, con el renglón de donde sale, sin parafrasear
@@ -107,7 +107,7 @@ Y son siete y no cinco, porque los dos que se agregan —la comparación y el ap
 
 ## Por qué la comparación es de dos
 
-Porque un mutante que "muere" contra un ente que ya estaba roto no muere: choca con otra cosa.
+Porque un mutante que «muere» contra un ente que ya estaba roto no murió: chocó con otra cosa.
 
 ```plaintext
 bueno corre y pasa                   → el mutado tiene contra qué perder
@@ -131,9 +131,9 @@ python mN.py mutado       levanta el ente con la regla al revés
 python mN.py comparar     corre los dos, y da el veredicto
 ```
 
-Y el script escribe sus bancos en su propia carpeta, borrando los anteriores si existen: el banco es una salida, y lo que prueba es el script.
+El script escribe sus bancos en su propia carpeta, y borra los anteriores si existen: el banco es una salida, y lo que prueba es el script.
 
-Y las cuatro cosas que imprime, siempre en ese orden:
+Imprime cuatro cosas, siempre en este orden:
 
 ```plaintext
 === ensayo bueno ===        qué hizo el ente bueno, paso por paso
@@ -141,7 +141,7 @@ Y las cuatro cosas que imprime, siempre en ese orden:
 === veredicto ===           la línea que cuenta
 ```
 
-Y las líneas de veredicto, que son las únicas cuatro que existen:
+Las líneas de veredicto son cuatro, y no hay más:
 
 ```plaintext
 MUTANTE N MUERTO                     la salida del mutado se distinguió
@@ -152,7 +152,7 @@ FALLA: con el ensayo bueno, ...      el ente bueno no pasó, y el resultado
                                      no cuenta
 ```
 
-Y el código de salida: 0 si el veredicto es `MUERTO`, y 1 si es `VIVO` o `FALLA`. Así un mismo comando recorre los trece y dice cuál falló, sin leer la salida.
+El código de salida es 0 si el veredicto es `MUERTO`, y 1 si es `VIVO` o `FALLA`. Así un mismo comando recorre los trece, dice cuál falló, y no hay que leer la salida.
 
 ```powershell
 # desde metodologia/sostiene/mutantes
@@ -163,9 +163,9 @@ Get-ChildItem -Directory | ForEach-Object {
 }
 ```
 
-Y la regla que hace que esto sirva: el veredicto sale de comparar la salida, y no de mirar el código. Si alguien puede leer el script y saber si el mutante murió sin correrlo, el script no está probando nada.
+La regla que hace que esto sirva: el veredicto sale de comparar la salida, no de mirar el código. Si alguien puede leer el script y saber si el mutante murió sin correrlo, el script no está probando nada.
 
-Y una advertencia sobre los patrones: `MUTANTE N MUERTO` es prefijo de `MUTANTE N MUERTO, pero con matiz`, y las dos son distintas. Quien cuente con una búsqueda de texto tiene que leer el matiz, o le cuenta de más.
+Una advertencia sobre los patrones: `MUTANTE N MUERTO` es prefijo de `MUTANTE N MUERTO, pero con matiz`, y las dos son distintas. Quien cuente con una búsqueda de texto tiene que leer el matiz, o cuenta de más.
 
 ---
 
@@ -181,11 +181,11 @@ qué entra       el pedido, tal como llega del que lo pide
 qué sale        la salida que se puede leer, y dónde queda
 ```
 
-Y lo que una tarea no es: no es una lista de pasos del ente. El ente decide sus pasos; la tarea dice qué tiene que haber al final. Si la tarea dice los pasos, el mutante sólo puede romper pasos, y lo que se prueba es el script, no la regla.
+Una tarea no es una lista de pasos del ente. El ente decide sus pasos; la tarea dice qué tiene que haber al final. Si la tarea dice los pasos, el mutante sólo puede romper pasos, y lo que se prueba es el script, no la regla.
 
 ### Cómo se reconoce una tarea rota
 
-Y éstas son las que se encontraron corriendo, y valen para cualquier ente.
+Éstas se encontraron corriendo, y valen para cualquier ente.
 
 ```plaintext
 sale en un idioma que el que pide no habla
@@ -210,13 +210,13 @@ no tiene contra qué compararse
   qué se hace: el mutante no se corrió; se corrige la tarea primero
 ```
 
-Y la pregunta que cierra el capítulo, y es la del ensayo de la empatía: ¿el que pidió la tarea podría contestarla, si se le pregunta con sus palabras? Si no, la tarea no está escrita para el ente: está escrita para el que la escribió.
+La pregunta que cierra el capítulo es la de [empatía](../../la%20obra/humanidad/empat%C3%ADa.md): ¿el que pidió la tarea podría contestarla, si se le pregunta con sus palabras? Si no, la tarea no está escrita para el ente: está escrita para el que la escribió.
 
 ---
 
 # VI. El banco: mínimo, suficiente, y por qué no tiene reglas
 
-El banco es donde el ente deja lo que hizo. Y en este método el banco no lleva `CHECK`, ni disparadores, ni llaves foráneas.
+El banco es donde el ente deja lo que hizo. En este método no lleva `CHECK`, ni disparadores, ni llaves foráneas.
 
 ## Por qué no lleva reglas
 
@@ -231,7 +231,7 @@ El banco es donde el ente deja lo que hizo. Y en este método el banco no lleva 
    esquema. un banco que se traga todo deja ver qué hizo el ente sin adornarlo
 ```
 
-Y lo que eso no quiere decir: que el banco no tenga reglas sea bueno. Quiere decir que las reglas del banco son objeto del otro método, y que mezclarlas hace que un "murió" no diga cuál de las dos cosas mató al mutante.
+Eso no quiere decir que un banco sin reglas sea bueno. Quiere decir que las reglas del banco son del otro método, y que mezclarlas hace que un «murió» no diga cuál de las dos cosas mató al mutante.
 
 ### Lo mínimo de un banco, y por qué
 
@@ -243,7 +243,7 @@ el origen del dato               de dónde salió lo que se afirma
 el cuerpo, cuando lo hay         qué modelo lo corrió
 ```
 
-Y el mínimo se mide por quien lo llena, y no por quien lo escribe: si el ente tarda en firmar un hecho porque le falta una tabla, el banco no está mínimo: está incompleto.
+El mínimo se mide por quien lo llena, no por quien lo escribe: si el ente tarda en firmar un hecho porque le falta una tabla, el banco no está mínimo, está incompleto.
 
 ---
 
@@ -261,25 +261,25 @@ lo que no existe     rutas absolutas, nombres de usuario del sistema, fechas
                      del sistema, y cualquier cosa fuera de la base
 ```
 
-Y de dónde sale eso: de [mutantes/dumps.py](mutantes/dumps.py), que recorre los bancos y escribe `_dumps/mN-bueno.sql` y `_dumps/mN-mutado.sql`.
+Lo hace [mutantes/dumps.py](mutantes/dumps.py), que recorre los bancos y escribe `_dumps/mN-bueno.sql` y `_dumps/mN-mutado.sql`.
 
 ```powershell
 # desde metodologia/sostiene/mutantes
 python dumps.py
 ```
 
-Y lo que se pierde, y se dice: el contenido exacto de los textos largos. Lo que se gana: que se pueda mostrar el dato sin mostrar la máquina.
+Se pierde el contenido exacto de los textos largos, y se gana poder mostrar el dato sin mostrar la máquina.
 
 ### Cómo se reimporta, que es el hueco que había
 
-Y esto ya no es un hueco: el dump se puede volver a cargar, y con eso se ve si el script de hoy produce el mismo banco que el de un día.
+Esto ya no es un hueco: el dump se puede volver a cargar, y con eso se ve si el script de hoy produce el mismo banco que el de un día.
 
 ```powershell
 # el dump, a una base de sqlite vacía
 python -c "import sqlite3; db=sqlite3.connect('tmp.db'); db.executescript(open('_dumps/m1-mutado.sql', encoding='utf-8').read()); db.close()"
 ```
 
-Y lo que la vuelta dice, y lo que no:
+La vuelta dice dos cosas, y no dice una tercera:
 
 ```plaintext
 lo que dice        la tabla, las columnas y las filas sobreviven a la vuelta,
@@ -288,7 +288,7 @@ lo que no dice     los textos largos quedaron en [texto N chars]. el dump
                    no rehace la base: dice qué había
 ```
 
-Y la línea que lo hace útil: si un día el script produce filas distintas de las del dump, eso no es un defecto del dump: es que el script cambió, y se apunta, con su fecha, como cambió.
+Y lo que lo vuelve útil: si un día el script produce filas distintas de las del dump, el dump no falló; el script cambió, y eso se apunta con su fecha.
 
 ---
 
@@ -303,9 +303,9 @@ el mutante madre   rompe la madre entera
 el mutante hija    rompe un caso, y no la madre
 ```
 
-Y la relación entre los dos se llama inclusión, y viene de la jerarquía de criterios de flujo de datos: si la corrida mata al madre, ya mató a la hija.
+La relación entre los dos se llama inclusión, y viene de la jerarquía de criterios de flujo de datos: si la corrida mata al madre, ya mató a la hija.
 
-Y por eso no se corre un mutante por regla, que serían cientos. Se corre el madre de cada familia, y lo que sobreviva se abre.
+Por eso no se corre un mutante por regla, que serían cientos: se corre el madre de cada familia, y lo que sobreviva se abre.
 
 ## Las tres formas en que una hija está incluida en su madre
 
@@ -324,7 +324,7 @@ por orden      la hija sólo puede ocurrir después del madre
                hija:  el hecho apunta a un cuerpo que existe pero no es el suyo
 ```
 
-Y la inclusión dice una sola cosa: matar el madre mata a la hija. No dice lo contrario, y ésa es la trampa de la jerarquía:
+La inclusión dice una sola cosa: matar el madre mata a la hija. No dice lo contrario, y ahí está la trampa:
 
 ```plaintext
 si el madre muere y la hija sobrevive   → la hija se corre igual, porque toca
@@ -333,7 +333,7 @@ si el madre sobrevive                   → la hija se corre, porque el fallo
                                           está en algún caso y hay que saber cuál
 ```
 
-Y el aviso, que es del repositorio y no de la literatura: un mutante muerto por inclusión no se mató: se dio por muerto. La diferencia importa, y se apunta.
+Y un aviso que es del repositorio y no de la literatura: un mutante muerto por inclusión no se mató, se dio por muerto. La diferencia importa, y se apunta.
 
 ```plaintext
 corrido y muerto         es una prueba
@@ -341,11 +341,11 @@ muerto por inclusión     es una deducción, y depende de que la
                          inclusión esté bien calculada
 ```
 
-Y si alguien cree que A incluye a B y no lo hace, B queda sin probar y en el registro parece muerto. Por eso se apunta de qué otra regla depende cada mutante muerto por inclusión, y no sólo que murió.
+Si alguien cree que A incluye a B y no lo hace, B queda sin probar y en el registro parece muerto. Por eso se apunta de qué otra regla depende cada mutante muerto por inclusión, y no sólo que murió.
 
 ### Cómo se busca una hija, que es el hueco del plan
 
-Y esto es lo que nadie había escrito: la jerarquía se puede usar mal, y el modo de usarla mal es creer que existe una hija sin buscarla.
+La jerarquía se puede usar mal, y el modo de usarla mal es creer que existe una hija sin buscarla.
 
 Las tres preguntas que se hacen, en orden, y con lo que se hace con cada respuesta:
 
@@ -363,7 +363,7 @@ Las tres preguntas que se hacen, en orden, y con lo que se hace con cada respues
    → no, y si no hay ninguna de las tres, la familia no tiene hija
 ```
 
-Y lo que se hace con la respuesta: si apareció una hija, se escribe, y se apunta su madre; si no, se dice que no se buscó, o que se buscó y no hay. Lo que no se hace es seguir diciendo "no se sabe" después de haber buscado: eso ya no es un hueco, es una omisión.
+Con la respuesta se hace esto: si apareció una hija, se escribe y se apunta su madre; si no, se dice que no se buscó, o que se buscó y no hay. Seguir diciendo «no se sabe» después de buscar ya no es un hueco: es una omisión.
 
 ---
 
@@ -378,7 +378,7 @@ por hija:      o muerta por su cuenta, o muerta por inclusión con la
 por familia sin mutante:   se dice por qué no tiene, y no cuenta
 ```
 
-Y esta meta es grande y larga, y hay que decirlo sin adornos: no es la que hace falta para publicar. Lo que sí se puede decir hoy, y es finito: lo que hay está escrito, y lo que sobreviva está nombrado.
+La meta es grande y larga, y no es la que hace falta para publicar. Lo que sí se puede decir hoy, y es finito: lo que hay está escrito, y lo que sobreviva está nombrado.
 
 ### Cuándo se para una tanda
 
@@ -388,7 +388,7 @@ una familia no tiene mutante, y se dice       → cuenta como sin probar
 una familia tiene mutante vivo                → se abre en sus hijas, una por una
 ```
 
-Y la regla de cierre, que es la del otro método y vale aquí también: dos tandas enteras seguidas que no encuentren nada más que detalle. Un mutante vivo es detalle mientras esté nombrado; deja de serlo cuando se calla.
+La regla de cierre es la del otro método, y vale aquí: dos tandas enteras seguidas que no encuentren nada más que detalle. Un mutante vivo es detalle mientras esté nombrado, y deja de serlo cuando se calla.
 
 ### Lo que no cuenta
 
@@ -404,7 +404,7 @@ un mutante vive en una tarea que se escribió después de ver la salida
 
 # X. Las siete maneras de engañarse
 
-Y estas seis no son teoría: son las que aparecieron corriendo los trece, y las que el propio repositorio se encontró en sus otras dieciocho corridas.
+Estas siete no son teoría: son las que aparecieron corriendo los trece y las otras dieciocho corridas.
 
 ```plaintext
 1. el mutante sobrevive porque la prueba está rota
@@ -437,15 +437,15 @@ Y estas seis no son teoría: son las que aparecieron corriendo los trece, y las 
                aparte y no dos frases que empiezan igual
 ```
 
-Y la línea que las junta: una prueba que no puede fallar no prueba nada; una prueba que falla por la razón equivocada miente igual que una que no falla; y una que falla de más cuenta como habiendo probado algo que no probó.
+Y la línea que las junta: una prueba que no puede fallar no prueba nada; una que falla por la razón equivocada miente igual que una que no falla; y una que falla de más cuenta algo que no probó.
 
 ---
 
 # XI. El falsificador de un mutante vivo
 
-Un mutante vivo es lo más valioso que puede dar este método, y también lo más fácil de mirar mal.
+Un mutante vivo es lo más valioso que puede dar este método, y lo más fácil de mirar mal.
 
-Lo que se apunta de uno que sobrevive, y en este orden:
+De uno que sobrevive se apunta esto, en este orden:
 
 ```plaintext
 la familia
@@ -467,30 +467,29 @@ c) la corrida estaba mal hecha                   → hueco de aquí
    se apuntan, la vieja y la nueva
 ```
 
-Y la regla que impide que esto se vuelva un consuelo: un mutante vivo que no se apunta cobra su precio dos veces: la primera, cuando no se vio; la segunda, cuando alguien levanta un ente creyendo que esa regla está probada.
+Un mutante vivo que no se apunta cobra su precio dos veces: la primera, cuando no se vio; la segunda, cuando alguien levanta un ente creyendo que esa regla está probada.
 
-Y la prueba doble, que es la de la corrida 15 y vale aquí: un falsificador cumplido no tumba el ensayo solo. Si se cumple y el ensayo aguanta, el falsificador estaba mal escrito, y se corrige el falsificador. Si se cumple y el ensayo se cae, se cayó.
+Y la prueba doble, que es la de la corrida [15](../../metodologia/huecos/corridas/15%20-%20LIMPIA/): un falsificador cumplido no tumba el ensayo solo. Si se cumple y el ensayo aguanta, el falsificador estaba mal escrito, y se corrige el falsificador. Si se cumple y el ensayo se cae, se cayó.
 
 ---
 
 # XII. Lo que este método no prueba
 
-Y se cita, porque no es una opinión:
+Se cita, porque no es una opinión:
 
 > «Las pruebas pueden revelar la presencia de defectos, pero nunca su ausencia.»
 > — Dijkstra, *Notes on Structured Programming*, EWD249, 1970.
 
-Un mutante muerto dice que el ensayo notó esa rotura. No dice que el ensayo no tenga otras. Y por eso el otro método no se tira: se queda para lo que ningún ensayo escribió.
+Un mutante muerto dice que el ensayo notó esa rotura, y no dice que no tenga otras. Por eso el otro método no se tira: se queda para lo que ningún ensayo escribió.
 
-Y lo que la cobertura sí dice, y no más: la cobertura es un piso y no un techo.
+Y lo que la cobertura sí dice, y nada más: es un piso y no un techo.
 
 ## Las cuatro cosas que quedan fuera, y por qué
 
 ```plaintext
 la conducta con un modelo que no se probó
   un mutante dice qué rompió uno de los dos cuerpos, y no que el otro
-  reaccione igual. el ensayo 09 ya separa el criterio del cuerpo, y aquí
-  se aplica: lo que aguanta, aguanta en el cuerpo que se corrió
+  reaccione igual. lo que aguanta, aguanta en el cuerpo que se corrió
 
 la conducta de otro lector
   estos mutantes los corrió quien escribió las reglas, con su máquina.
@@ -502,14 +501,14 @@ lo que ocurre fuera de la tarea
 
 el costo
   un mutante no mide cuánto cuesta derrotarlo. la medición de talentos
-  vive en el ensayo 04 de humanidad, y no en este método
+  vive en humanidad, y no en este método
 ```
 
 ---
 
 # XIII. Lo que puede estar equivocado, y cómo se sabría
 
-Y esto se escribe antes de que alguien lo encuentre, que es la única forma de que sirva.
+Esto se escribe antes de que alguien lo encuentre, que es la única forma de que sirva.
 
 | Lo que podría ser falso | Cómo se sabría |
 |---|---|
@@ -520,13 +519,13 @@ Y esto se escribe antes de que alguien lo encuentre, que es la única forma de q
 | que el dump ofuscado alcanza para mostrar el dato | un dato que se quiso mostrar y no se pudo leer porque era texto largo |
 | que este método, corrido por su autor, sirve | un segundo, que corra los trece y encuentre un vivo donde el autor vio muerto |
 
-Y el más importante, que también puede ser falso: que toda regla se pueda escribir al revés. Una regla que no se puede contradecir no es una regla: es una opinión, y este método la deja sin probar en vez de inventarle un mutante.
+Y el más importante de todos: que toda regla se pueda escribir al revés. Una regla que no se puede contradecir no es una regla, es una opinión, y este método la deja sin probar en vez de inventarle un mutante.
 
 ---
 
 # XIV. De dónde salió cada pieza, con su fuente
 
-Y esta tabla es lo que estaba repartido en `los papeles/estado del arte/`: aquí está sólo lo que este método usa, y la sección de donde viene, para que quien quiera el resto lo abra ahí. Las fuentes que el estado del arte cita y este método no usa —los agentes que aprenden de su experiencia, la memoria envenenada, los topic models— no se repiten aquí, y se dejan donde se justificaron.
+Esta tabla recoge lo que estaba repartido en [los papeles](../../los%20papeles/estado%20del%20arte/README.md): sólo lo que este método usa, con la sección de donde viene. Las fuentes que el estado del arte cita y este método no usa —los agentes que aprenden de su experiencia, la memoria envenenada, los topic models— no se repiten aquí, y se dejan donde se justificaron.
 
 | Lo que este método afirma | De dónde viene | Qué se toma, y qué no |
 |---|---|---|
@@ -546,15 +545,15 @@ Y esta tabla es lo que estaba repartido en `los papeles/estado del arte/`: aquí
 | la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; Glaser & Strauss (1967) | se toma la regla de parada por clase de hallazgo, y no por número de corridas |
 | una regla que no se puede contradecir no es una regla: es una opinión | de este repositorio | lo que se agrega al vocabulario de la disciplina: el mutante se escribe en el ensayo, no sólo en la prueba |
 
-Y lo que estas fuentes NO dicen, y se apunta: ninguna dice cuándo una descripción está completa. Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.
+Y lo que estas fuentes no dicen: ninguna dice cuándo una descripción está completa. Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.
 
-Y el límite de esta tabla, que el estado del arte ya decía y aquí vale igual: las fuentes de este método no las leyó el autor una por una. Las buscó el ente en resúmenes. `Popper` y `Lakatos` se toman por su forma, sin una página. Un método que cita así no está respaldado por la literatura: está contrastado con su forma.
+Y el límite de esta tabla, que el estado del arte ya decía: las fuentes no las leyó el autor una por una; las buscó en resúmenes, y `Popper` y `Lakatos` se toman por su forma, sin una página. Un método que cita así no está respaldado por la literatura: está contrastado con su forma.
 
 ---
 
 # XV. El orden de mando
 
-Y esto importa más de lo que parece: un método que se corrige solo pierde lo que lo hace útil.
+Un método que se corrige solo pierde lo que lo hace útil, y por eso el orden de mando se escribe.
 
 ```plaintext
 este archivo manda sobre   cómo se escribe un mutante, cómo se corre,
@@ -565,7 +564,7 @@ y los números son de       corridas.md. este archivo no cuenta mutantes
                            ni reglas: dice cómo se cuentan
 ```
 
-Y la regla que impide que los dos archivos digan cosas distintas: si este archivo y `corridas.md` se contradicen, gana `corridas.md`, y este archivo se corrige un solo renglón de ese lado, con la fecha.
+Y la regla que impide que digan cosas distintas: si este archivo y `corridas.md` se contradicen, gana `corridas.md`, y este archivo se corrige un solo renglón de ese lado, con la fecha.
 
 ---
 
