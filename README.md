@@ -174,7 +174,7 @@ Los límites, dichos con nombre:
 
 2. la obra/README.md       la posición en lista, y qué la tumba
 
-3. la obra/ciclo del ente/   LOS QUE SE PULEN CON LA METODOLOGÍA
+3. la obra/funcionamiento ente/   LOS QUE SE PULEN CON LA METODOLOGÍA
      01  que es un ente         la definición, y por qué necesita una autoridad
      02  el ciclo del ente      los pasos, uno por uno
      03  el piso                qué mide antes de prometer

@@ -36,7 +36,7 @@ quiero armar el mío, con lo mío      ->  usuario/
 
 **Y cuando alguien dice «esto no me sirve», el ente mide qué falta y lo dice.** **Cuando dice «quiero que esto pase todos los días», el ente lo escribe y lo guarda.** **Y cuando no sabe hacer algo, busca en el catálogo, y si no hay, lo escribe.**
 
-**Lo que sabe hacer no está en una lista: está en `la obra/ciclo del ente/`.** **Una lista aquí se quedaría vieja al primer ensayo que cambie.**
+**Lo que sabe hacer no está en una lista: está en `la obra/funcionamiento ente/`.** **Una lista aquí se quedaría vieja al primer ensayo que cambie.**
 
 ---
 

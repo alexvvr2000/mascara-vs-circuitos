@@ -38,6 +38,18 @@
 
 **Y cada entrada trae su falsificador, como todo lo demás de este repositorio.**
 
+**Y una cosa que no es una enmienda, y se apunta porque cambió el mapa:** **el 2026-11-09 la carpeta `la obra/ciclo del ente/` se renombró a `la obra/funcionamiento ente/`.** **Los enlaces de las entradas 06 a 09 se corrigieron para que no se rompieran, y el nombre de dentro de lo que dicen no se tocó.** **Un registro que se rompe por un renombre deja de servir; uno que cambia lo que dice por un renombre deja de ser un registro.**
+
+---
+
+## Prueba
+
+**¿Cada entrada dice qué se creía, qué pasó y con qué se sabe?** **¿Se enmendó alguna, en vez de agregar otra entrada con su fecha?** **¿Y cuando cambió el mapa del repositorio, se apuntó el cambio, o sólo se arreglaron los enlaces sin decirlo?**
+
+---
+
+**Falsificador:** **un registro en el que nada se cayó**; **una enmienda disfrazada de entrada nueva**; **y un renombre de carpeta que deja los enlaces de aquí apuntando al vacío sin que nadie lo diga.**
+
 ---
 
 **Falsificador:** **una historia donde todo salió bien a la primera.** **Si no hay una idea que se cayó, una decisión que se deshizo, o una noche perdida, no es historia: es publicidad.**

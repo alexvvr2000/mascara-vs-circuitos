@@ -21,6 +21,8 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 
 **Las carpetas se renombraron, los ensayos cambiaron de sitio, y una tabla puede citar un nombre que ya no existe.** **Eso no es un descuido que haya que perseguir: es la cicatriz de haberse mudado.** **Donde el nombre viejo aparezca, el nuevo está en esta misma página.**
 
+**Y el más reciente, dicho aquí porque los archivos de `metodologia/historia/` lo usan con su nombre de entonces:** **`la obra/ciclo del ente/` es hoy [`la obra/funcionamiento ente/`](funcionamiento%20ente/).** **Lo de dentro no cambió: el ensayo `02 el ciclo del ente` sigue llamándose así, porque el ciclo del ente es lo que describe, y la carpeta describe cómo funciona el ente.**
+
 ---
 
 ## Los dos grupos, y por qué importan
@@ -29,7 +31,7 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
-| **[`ciclo del ente/`](ciclo%20del%20ente/)** | **01 a 09** | **se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí** |
+| **[`funcionamiento ente/`](funcionamiento%20ente/)** | **01 a 09** | **se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí** |
 | **[`humanidad/`](humanidad/)** | **01 a 05** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
 
 **Y esa división es la que ordena el resto del repositorio:** **las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo.** **El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.**
@@ -61,14 +63,14 @@ Si se cae el primer eslabón, los demás no se sostienen solos. Por eso el ensay
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
-**Vive en:** [el ensayo 01](ciclo%20del%20ente/01%20que%20es%20un%20ente.md).
+**Vive en:** [el ensayo 01](funcionamiento%20ente/01%20que%20es%20un%20ente.md).
 Qué sostiene: un ente es una unidad que recibe, decide, contesta y deja rastro de haber contestado. No dice nada de conciencia ni de interioridad, porque son preguntas sin comprobación: no hay manera de abrir a alguien para ver si por dentro hay alguien, y sí hay manera de ver qué entró, qué salió y qué quedó escrito.
 Qué lo sostiene: el borde. Lo que descalifica a un ente está escrito — sin rastro, sin distinguir lo que propone de lo que le mandaron, o apuntando para nadie — y eso lo hace comprobable.
 Qué la tumba: ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 
 ### 2. Un ente no tiene cuerpo, y por eso necesita una autoridad
 
-**Vive en:** [el ensayo 01](ciclo%20del%20ente/01%20que%20es%20un%20ente.md).
+**Vive en:** [el ensayo 01](funcionamiento%20ente/01%20que%20es%20un%20ente.md).
 
 Qué sostiene: que la autoridad no existe por jerarquía, sino porque un ente es información sin cuerpo, y su error no le cuesta nada a nadie. Nosotros somos cuidadosos porque equivocarnos nos cuesta algo — miedo, tiempo, vergüenza, la vida. Un ente que inventa un dato no se juega nada. No es descuidado por maldad: es descuidado porque nada lo castiga.
 
@@ -82,21 +84,21 @@ La línea que lo resume: "No sabía" no es una defensa aceptable. "Lo decidí yo
 
 ### 3. El criterio no se recuerda: se arma, y su pieza que falta es el desenlace
 
-**Vive en:** [el ensayo 05](ciclo%20del%20ente/05%20criterio%20real.md).
+**Vive en:** [el ensayo 05](funcionamiento%20ente/05%20criterio%20real.md).
 Qué sostiene: tener criterio no es tener convicciones firmes, sino saber qué de lo sostenido se cayó y qué se hizo después. De ahí salen tres registros: el hecho, la fricción y el desenlace.
 Qué lo sostiene: la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
 Qué la tumba: una posición que se sostiene sin haber apuntado nunca qué la contradice, y que igual funciona como criterio. Si eso existe, la fricción no era necesaria.
 
 ### 4. Un ente con varios modelos tiene un criterio y varios sesgos
 
-**Vive en:** [el ensayo 09](ciclo%20del%20ente/09%20criterio%20y%20sesgos.md).
+**Vive en:** [el ensayo 09](funcionamiento%20ente/09%20criterio%20y%20sesgos.md).
 Qué sostiene: la identidad puede vivir en un lado —reglas, registro, memoria— y los modelos pasar. Lo que se conserva es el criterio; lo que cambia con cada modelo es el sesgo. Y el riesgo concreto: un sesgo registrado sin nombre se vuelve criterio por la puerta atrás.
 Qué lo sostiene: si el sesgo no se ve desde dentro, la comparación entre modelos distintos es el único instrumento que lo revela. Y de ahí una regla: repetición no es verificación.
 Qué la tumba: dos modelos del mismo origen declarados como dos fuentes distintas, sin que el registro lo note. Si pasa, el sesgo no está separado del criterio.
 
 ### 5. Una IA debe escribir en forma de proceso, no en prosa
 
-**Vive en:** [el ensayo 04](ciclo%20del%20ente/04%20escritura%20en%20procesos.md).
+**Vive en:** [el ensayo 04](funcionamiento%20ente/04%20escritura%20en%20procesos.md).
 Qué sostiene: la prosa supone un lector capaz de dudar; una IA no duda de un texto, lo rellena. Donde falta el `Falla si`, el `Cuándo se corre` o el `Falsificador`, la IA no se detiene: inventa.
 Qué lo sostiene: la prosa protege al que escribe y le cobra al que ejecuta. Un texto que solo se puede creer no es una instrucción: es una apuesta con la palabra "hazlo" encima.
 Qué la tumba: un ensayo en prosa que una IA ejecuta sin rellenar nada. Si eso pasa, el proceso no hacía falta.
@@ -117,7 +119,7 @@ Qué la tumba: esta es una conjetura, y el renglón dice qué la volvería ciert
 
 ### 8. En el índice, la forma es la fuente y el texto es el derivado
 
-**Vive en:** [el ensayo 07](ciclo%20del%20ente/07%20indexador%20de%20temas.md).
+**Vive en:** [el ensayo 07](funcionamiento%20ente/07%20indexador%20de%20temas.md).
 Qué sostiene: la inversión de la práctica habitual. Lo publicado construye el grafo desde el corpus; aquí el grafo manda y el texto se deriva, y eso permite tres cosas que con el orden habitual no se pueden: tirar y reconstruir, dejar el cambio escrito en la estructura, y preguntar por lo que se dejó de sostener.
 Qué lo sostiene: no es una mejora medida —no se midió contra nada— sino una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer. Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
 Qué la tumba: un índice que se rearmó desde la forma y que no coincide con el que había, sin que se pueda decir cuál de los dos está mal. Si pasa, la forma no era la fuente.
