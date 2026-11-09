@@ -65,6 +65,12 @@ No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra
 
 Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia. Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
 
+Y hay una consecuencia de que falte alguna de las cinco, que es la que no se ve venir: ante la ambigüedad, una IA no falla de más ni de menos. Elige la opción de no hacer nada.
+
+No es pereza ni cautela. Es la salida más barata que tiene, y la encuentra sola: si el paso no dice cuándo se corre, no lo corre; si no dice qué hacer cuando la búsqueda no encuentra, no busca; si no dice qué sale, no produce nada, y lo entrega igual. Donde un humano pregunta y sigue, la máquina se queda quieta, y la quietud parece prudencia. Lo que no parece es lo que es: un paso que no se ejecutó, reportado con la misma forma que un paso cumplido.
+
+Por eso el renglón del cuándo no es una formalidad: lo que no dice cuándo ocurre no ocurre, y lo que no dice qué hacer si no encuentra, no busca. El proceso no está escrito para que la IA haga más: está escrito para que su opción por defecto, que es la de no hacer, no sea la que nadie eligió.
+
 ---
 
 ## IV. Por qué la IA no escribe así por descuido
@@ -380,3 +386,5 @@ Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que
 ---
 
 **Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola.
+
+Y el de la ambigüedad, que es el más silencioso: **un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido.** **La quietud tiene la forma del éxito.**
