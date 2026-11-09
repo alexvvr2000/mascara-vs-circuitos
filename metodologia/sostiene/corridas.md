@@ -5,11 +5,11 @@
 
 Cuántas corridas hay, cuántos mutantes nacen de ellas, cuál murió y cuál no, y qué prueba cada uno.
 
-Alejandro Valenzuela Rivera · el ente. Actualizado el 2026-11-08.
+Alejandro Valenzuela Rivera. Actualizado el 2026-11-08.
 
-> Este es el único sitio del repositorio donde viven estos números. Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón pasa a apuntar aquí, y se dijo en [metodo.md](metodo.md).
+> Éste es el único sitio del repositorio donde viven estos números. Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón apunta aquí, y así se dijo en [metodo.md](metodo.md).
 >
-> Y el porqué: una cifra escrita en cinco lugares envejece cinco veces. Una cifra escrita en uno, con su fecha, envejece una sola vez, y se puede volver a hacer la resta contra la tabla de abajo.
+> Y el porqué: una cifra escrita en cinco lugares envejece cinco veces. Una cifra escrita en uno, con su fecha, envejece una sola vez, y la resta se puede volver a hacer contra la tabla de abajo.
 
 ---
 
@@ -22,13 +22,13 @@ prueba        el archivo que se corre, y la línea que da el veredicto
 contra         la tabla de abajo es la resta. los demás archivos apuntan aquí
 ```
 
-Y la distinción que ordena todo este archivo: una familia sin mutante no está viva ni muerta: no está. Contarla como viva infla lo que falta; contarla como muerta lo esconde. Se dice que no está, y no cuenta en la resta.
+La distinción que ordena este archivo: una familia sin mutante no está viva ni muerta, no está. Contarla como viva infla lo que falta; contarla como muerta lo esconde. Se dice que no está, y no cuenta en la resta.
 
 ---
 
 ## I. Las catorce familias, con su mutante y su estado
 
-Y el conteo, primero, porque es lo que este archivo existe para decir.
+El conteo va primero, porque es lo que este archivo existe para decir.
 
 ```plaintext
 familias de mutante madre            14
@@ -44,7 +44,7 @@ mutantes vivos                        0
 mutantes vivos que se dijeron y siguen sin desenlace   1  (m13, primer intento)
 ```
 
-Y la resta que queda abierta, que no es un hueco: de las 392 reglas que un ente puede cumplir, hay 13 madres corridas. Cuántas hijas dependen de cada madre no se sabe todavía, y no se inventa.
+La resta que queda abierta no es un hueco: de las 392 reglas que un ente puede cumplir hay 13 madres corridas, y cuántas hijas dependen de cada madre todavía no se sabe, y no se inventa.
 
 ### La tabla
 
@@ -65,13 +65,13 @@ Y la resta que queda abierta, que no es un hueco: de las 392 reglas que un ente 
 | 13 | Empatía · [`01`](../../la obra/humanidad/empatía.md) | «Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.» | «la pregunta del ente se hace en el vocabulario del sistema, que es el preciso» | corrido · muerto, en el segundo intento | [m13.py](mutantes/m13%20-%20la%20pregunta%20con%20jerga/m13.py) · `MUTANTE 13 MUERTO` | 2026-11-08 |
 | 14 | Conciencia · [`02`](../../la obra/humanidad/lo%20que%20esta%20fuera.md) | no afirma cómo funciona un ente: no hay regla que romper | — | sin mutante, y se dice por qué | — | — |
 
-Y la fila 14 no es un hueco del método, y por eso no se cuenta: no tiene una regla que cumplir, así que no hay una que se pueda escribir al revés. Lo que sí se puede correr, y no es un mutante: darle el ensayo a alguien y ver si sale con más o menos ganas de decir que una máquina es consciente. Eso no es una regla, y no cuenta.
+La fila 14 no es un hueco del método, y por eso no se cuenta: no tiene una regla que cumplir, así que no hay una que se pueda escribir al revés. Lo que sí se puede correr, y no es un mutante: darle el ensayo a alguien y ver si sale con más o menos ganas de decir que una máquina es consciente. Eso no es una regla, y no cuenta.
 
 ---
 
 ## II. Los dos que no cuadran con "trece corridos, trece muertos"
 
-Y se apuntan aquí, y no en su ficha, porque son la razón de que este archivo exista.
+Se apuntan aquí, y no en su ficha, porque son la razón de que este archivo exista.
 
 ### El mutante 13 nació vivo en el primer intento
 

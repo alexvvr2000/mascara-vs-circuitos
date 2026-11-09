@@ -5,21 +5,21 @@
 
 Qué tiene que tener un ensayo para que se pueda leer, citar, partir y engordar sin que nadie vuelva a numerar nada.
 
-Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-09.
+Alejandro Valenzuela Rivera. Escrito el 2026-11-09.
 
-> Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: se ajustan con [scripts/build.py](../../scripts/build.py), que es el que dice si un ensayo la cumple.
+> Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: las revisa [scripts/build.py](../../scripts/build.py), que dice si un ensayo la cumple.
 >
-> Y de dónde sale la exigencia: el ciclo es el mapa, y cada paso es su detalle. Un mapa que hay que corregir cada vez que un detalle cambia no es un mapa: es otro detalle que envejece. La forma es lo que deja que cada uno crezca solo.
+> De dónde sale la exigencia: el ciclo es el mapa, y cada paso es su detalle. Un mapa que hay que corregir cada vez que un detalle cambia no es un mapa, es otro detalle que envejece. La forma es lo que deja que cada uno crezca solo.
 
 ---
 
 ## I. Las cuatro reglas del build
 
-Y son cuatro porque cuatro es lo que se puede comprobar sin que la herramienta opine. Cada una se puede correr, y cada una dice qué archivo y qué pasó.
+Son cuatro porque cuatro es lo que se puede comprobar sin que la herramienta opine. Cada una se corre, y cada una dice qué archivo y qué pasó.
 
 ```plaintext
 H1       el primer título es el nombre del archivo sin el número
-         «la obra/humanidad/05 medir sin preguntarle.md» → «# Maquina de sesgos»
+         «la obra/humanidad/medir sin preguntarle.md» → «# Medir sin preguntarle»
 
 ENLACE   todo enlace relativo resuelve a un archivo que existe
 
@@ -31,7 +31,7 @@ FORMA    todo ensayo de la obra trae su Falsificador
          su «Y qué se pierde si cambia»
 ```
 
-Y la cuarta no es un cero o un uno: es una medida. `python scripts/build.py --lista` los cuenta y dice cuáles no la cumplen, sin detener el build. Así el cambio se puede hacer por partes, y el build no impide trabajar mientras se corrige.
+La cuarta no es un cero o un uno: es una medida. `scripts/build.py --lista` los cuenta y dice cuáles no la cumplen, sin detener el build, para que el cambio se pueda hacer por partes.
 
 ---
 
@@ -44,9 +44,9 @@ lo que hay hoy   01 que es un ente.md  →  «# 01. Qué es un ente»
 lo que queda     que es un ente.md     →  «# Que es un ente»
 ```
 
-Y el número de orden no desaparece: se deriva. Ordena el nombre del archivo, y el que inserta escribe `02 ` delante y corre los demás. Eso es un renombrado de archivos, y no una edición de texto: quien lo hace ve el cambio en su copia, y el lector de la versión publicada ve el orden, sin necesitar un historial que aquí no hay.
+El número de orden no desaparece: se deriva. Ordena el nombre del archivo, y quien inserta escribe `02 ` delante y corre los demás. Es un renombrado de archivos y no una edición de texto: quien lo hace ve el cambio en su copia, y quien lee la versión publicada ve el orden, sin necesitar un historial que aquí no hay.
 
-Y lo que se gana, que es lo único que importa:
+Y lo que se gana:
 
 ```plaintext
 insertar un ensayo     se renombran los que siguen, y no se abre ninguno
@@ -55,7 +55,7 @@ partir un ensayo       el nuevo entra con su nombre, y el build dice que
 renombrar un ensayo    el build se cae en cada enlace roto, y no envejece
 ```
 
-Y lo que se pierde, y se dice: el título pierde su adorno numérico. Quien llegue a la carpeta encuentra el orden en los nombres, que es donde ya estaba el único orden que se mantenía solo.
+Lo que se pierde: el título pierde su adorno numérico. Quien llegue a la carpeta encuentra el orden en los nombres, que es donde ya estaba el único orden que se mantenía solo.
 
 ---
 
@@ -68,15 +68,15 @@ mal    como dice el ensayo 07
 bien   como dice el índice
 ```
 
-Y el build los encuentra: busca un número de dos cifras delante de algo que parece un título, y los lista. No dice a qué ensayo iba: dice dónde está la cita vieja, para que alguien la mire.
+El build los encuentra: busca un número de dos cifras delante de algo que parece un título, y los lista. No dice a qué ensayo iba; dice dónde está la cita vieja, para que alguien la mire.
 
-Y las excepciones, que se dicen y no se disimulan: los archivos de [`historia`](../historia/README.md) no se tocan, porque se conservan como se escribieron. Y en [`implementacion`](../../implementacion/README.md) se puede citar el paso de un ensayo para usarlo, porque una implementación cita su especificación.
+Y las excepciones, dichas y no disimuladas: los archivos de [`historia`](../historia/README.md) no se tocan, porque se conservan como se escribieron; y en [`implementacion`](../../implementacion/README.md) se puede citar el paso de un ensayo para usarlo, porque una implementación cita su especificación.
 
 ---
 
 ## IV. La forma, capítulo por capítulo
 
-Y esta es la forma que este repositorio ya viene cumpliendo a medias. No se inventa: se escribe lo que los procesos del índice ya tenían, y se pone igual en todos.
+Ésta es la forma que el repositorio ya cumplía a medias. No se inventa: se escribe lo que los procesos del índice ya tenían, y se pone igual en todos.
 
 | El renglón | Qué contesta | Obligatorio |
 |---|---|---|
@@ -92,26 +92,26 @@ Y esta es la forma que este repositorio ya viene cumpliendo a medias. No se inve
 | **Falsificador** | qué lo tumba | sí, siempre |
 | Y qué se pierde si cambia | qué deja atrás el cambio | si declara que pierde algo |
 
-Y la regla que hace que la forma sirva para crecer: los nueve renglones no son una plantilla que se rellena: son las preguntas que un ensayo tiene que contestar antes de que alguien lo corra. Un ensayo que no contesta «cuándo se corre» no tiene proceso: tiene prosa.
+Los nueve renglones no son una plantilla que se rellena: son las preguntas que un ensayo contesta antes de que alguien lo corra. Un ensayo que no contesta «cuándo se corre» no tiene proceso, tiene prosa.
 
-Y por qué «Lo visto» va antes de la prueba: lo primero que el lector tiene que saber no es lo que el ensayo afirma, sino que alguien lo vio. Un ensayo sin lo visto se lee como una opinión; uno con lo visto, como un acta. Y el acta es de alguien que estaba ahí, y eso no hace falta escribirlo: se nota.
+«Lo visto» va antes de la prueba porque lo primero que el lector tiene que saber no es lo que el ensayo afirma, sino que alguien lo vio. Un ensayo sin lo visto se lee como una opinión; uno con lo visto, como un acta. Y el acta es de alguien que estaba ahí, y eso no hace falta escribirlo: se nota.
 
-Y lo que la forma no dice, a propósito: no fija cuánto mide un ensayo. Un paso engorda trayendo su tabla de procedencia, sus casos de borde y sus mutantes; un mapa engorda engordando sus enlaces. El tamaño lo pone el detalle, y no la forma.
+Y lo que la forma no dice, a propósito: no fija cuánto mide un ensayo. Un paso engorda con su tabla de procedencia, sus casos de borde y sus mutantes; un mapa engorda con sus enlaces. El tamaño lo pone el detalle, no la forma.
 
 ---
 
 ## V. Cómo el método B llega a cada ensayo
 
-Y esta es la razón de que la forma exista. Cada ensayo tiene su forma; un mutante es una forma con una parte al revés.
+Ésta es la razón de que la forma exista: cada ensayo tiene la suya, y un mutante es una forma con una parte al revés.
 
 ```plaintext
 un mutante de paso    se quita un renglón: «el piso no dice cuándo se mide»
 un mutante de forma   se quita la forma entera: «el ensayo sin Falsificador»
 ```
 
-Y como la forma es la misma en los quince, el método B ya no necesita que el ciclo engorde para probar un paso. Cada paso se muta en su archivo, y el ciclo no se entera.
+Y como la forma es la misma en los quince, el método B ya no necesita que el ciclo engorde para probar un paso: cada paso se muta en su archivo, y el ciclo no se entera.
 
-Y lo que sigue faltando, y se dice: los mutantes de hoy se corrieron contra el ciclo de hoy. Cuando el ciclo se parta en pasos, cada mutante va a declarar cuál de ellos rompe, y eso se re-apunta una vez. Después no: el grupo cita el título, y el título no cambia porque el archivo se mueva.
+Y lo que sigue faltando: los mutantes de hoy se corrieron contra el ciclo de hoy. Cuando el ciclo se parta en pasos, cada mutante declarará cuál rompe, y eso se re-apunta una vez; después no, porque el grupo cita el título, y el título no cambia porque el archivo se mueva.
 
 ---
 
@@ -126,7 +126,7 @@ no reescribe nada                            informa, y alguien decide
 no cuenta ensayos                            no hay un número vigente en el repo
 ```
 
-Y la regla que lo hace honesto: el build verde dice que el repositorio se puede leer sin tropezar. Un ensayo puede ser falso, incompleto y engañoso con el build verde. Lo que no puede es tener enlaces rotos, citas por número ni un falsificador que se olvidó.
+Y la regla que lo hace honesto: el build verde dice que el repositorio se puede leer sin tropezar. Un ensayo puede ser falso, incompleto y engañoso con el build verde; lo que no puede es tener enlaces rotos, citas por número ni un falsificador olvidado.
 
 ---
 
@@ -138,7 +138,7 @@ python scripts/build.py            comprueba las cuatro, y se cae si alguna fall
 python scripts/build.py --lista    lo mismo, y además qué ensayo trae qué
 ```
 
-Y su salida, en dos renglones, que es lo único que un guardián necesita:
+Su salida cabe en dos renglones, y es lo único que hace falta para saber si el repositorio está en pie:
 
 ```text
 BUILD OK      · n archivos, m ensayos, 0 fallos
@@ -167,6 +167,6 @@ Falsificador: un build verde sobre un repositorio en el que un ensayo se puede i
 
 Si el build se ablanda, el repositorio vuelve a lo de antes: enlaces que se rompen en silencio y citas por número que envejecen sin que nadie lo note.
 
-Si el build se endurece de más —si exige la forma completa hoy—, la obra se para: catorce ensayos no cumplen la cuarta regla y ninguno se puede corregir sin abrirlo entero.
+Si el build se endurece de más —si exige la forma completa hoy—, la obra se para: hay ensayos que no cumplen la cuarta regla, y ninguno se corrige sin abrirlo entero.
 
 Lo que se pierde al dejar de numerar los títulos es el adorno, y no el orden. El orden sigue en el nombre del archivo, que es donde ya era el único que se mantenía solo.

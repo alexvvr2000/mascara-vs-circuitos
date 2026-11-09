@@ -3,9 +3,9 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Dos archivos y el código. Uno dice cómo se prueba una regla; el otro dice en qué quedó cada prueba. Y el código es el que se corre, no el que se lee.
+Dos archivos y el código: uno dice cómo se prueba una regla, el otro dice en qué quedó cada prueba, y el código es el que se corre y no el que se lee.
 
-Alejandro Valenzuela Rivera · el ente.
+Alejandro Valenzuela Rivera.
 
 ---
 
@@ -21,9 +21,9 @@ mutantes/      un script por familia, su documentación, y los bancos en
                dumps de texto ofuscados. el código
 ```
 
-Y el build está en la raíz: `python scripts/build.py` comprueba las cuatro reglas de [forma.md](forma.md); `python scripts/build.py --lista` dice además qué ensayo trae qué.
+El build vive en `scripts/`: `python scripts/build.py` comprueba las cuatro reglas de [forma.md](forma.md), y `--lista` dice además qué ensayo trae qué.
 
-Y el resto es historia: lo que estaba en cuatro archivos y ahora vive en `metodo.md` está guardado, con su nombre original, en [historia](../historia/README.md), del 07 al 10. Se movió, y no se borró, porque lo que se escribió antes de corregirlo es parte de cómo se llegó.
+Y el resto es historia: lo que antes estaba en cuatro archivos, y hoy vive en `metodo.md`, se guardó con su nombre original en [historia](../historia/README.md), del 07 al 10. Se movió y no se borró, porque lo escrito antes de corregirlo es parte de cómo se llegó.
 
 ---
 
@@ -33,25 +33,21 @@ Porque lo que un ensayo escribe hay que poder refutarlo.
 
 El otro método, el A, encuentra lo que el ensayo no dice. Éste dice si lo que el ensayo sí dice aguanta: se toma una regla, se le da la vuelta, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.
 
-Y la diferencia, en una línea: una corrida del A levanta un ente y anota lo que hubo que inventar; una del B levanta un ente con el ensayo cambiado, y la pregunta no es qué se inventó: es si la corrida se dio cuenta.
+Una corrida del A levanta un ente y anota lo que hubo que inventar; una del B levanta un ente con el ensayo cambiado, y su pregunta no es qué se inventó, sino si la corrida se dio cuenta.
 
-Y por qué hacen falta los dos: éste sólo prueba reglas que están escritas. El otro encuentra lo que falta y no está escrito.
+Y hacen falta los dos: éste sólo prueba reglas escritas, y el otro encuentra lo que falta y no está escrito.
 
-Y cuándo se acaba éste: cuando cada regla tiene su mutante, y el mutante muere. Eso es finito. El otro no lo es.
+Éste se acaba cuando cada regla tiene su mutante, y el mutante muere. Eso es finito; el otro no lo es.
 
 ---
 
 ## Lo que este README no dice
 
-- No dice cuántos mutantes hay ni cuáles: eso vive en [corridas.md](corridas.md).
-- No dice cómo se escribe ni se corre uno: eso vive en [metodo.md](metodo.md).
-- No dice qué no se probó, ni qué podría estar mal: eso también, en [metodo.md](metodo.md), §XII y §XIII.
+- Cuántos mutantes hay ni cuáles: eso vive en [corridas.md](corridas.md).
+- Cómo se escribe ni se corre uno: eso vive en [metodo.md](metodo.md).
+- Qué no se probó ni qué podría estar mal: eso también, en [metodo.md](metodo.md), §XII y §XIII.
 
-Y la regla que impide que se contradigan: si el texto y `corridas.md` dicen cosas distintas, gana `corridas.md`. Si el README y `metodo.md` se contradicen, gana `metodo.md`.
-
----
-
-Falsificador: un README que repite lo que ya está en el método, y envejece a su lado. Y su contrario: uno que no dice dónde está nada, y obliga a abrirlo todo para saber por dónde empezar.
+Y la regla que impide que se contradigan: si el texto y `corridas.md` dicen cosas distintas, gana `corridas.md`; si el README y `metodo.md` se contradicen, gana `metodo.md`.
 
 ---
 
@@ -61,3 +57,6 @@ Que lo que la obra afirma se puede romper a propósito, y que lo que sobrevive q
 
 Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
+---
+
+Falsificador: un README que repite lo que ya está en el método, y envejece a su lado. Y su contrario: uno que no dice dónde está nada, y obliga a abrirlo todo para saber por dónde empezar.
