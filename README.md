@@ -116,11 +116,11 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 >
 > **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
 >
-> **Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/ciclo/como%20se%20corre.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
+> **Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/ciclo/el%20plan.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [[el plan de prueba](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md)](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [[el plan](metodologia/ciclo/el%20plan.md)](metodologia/ciclo/el%20plan.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -194,7 +194,7 @@ Los límites, dichos con nombre:
 4. metodologia/            EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
      README.md              qué se hace aquí, y dónde se apunta cada cosa
      indice.md              una línea por corrida
-     ciclo/                 cómo se corre, cuándo se para, y los mutantes
+     ciclo/                 el plan, las reglas, y los mutantes
      corridas/              cada una con el mismo árbol
      mutantes/              uno por familia
      herramientas/          lo que mide, recorta y cruza

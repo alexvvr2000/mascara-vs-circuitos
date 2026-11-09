@@ -1,8 +1,8 @@
-# Los mutantes
+# Los mutantes, uno por familia
 
-**Uno por familia, escrito en concreto: qué línea se cambia, por cuál otra, qué se corre, y qué tiene que pasar.**
+**Los que se escribieron, y qué rompe cada uno** — **Los que se escribieron y se corrieron, uno por familia del ciclo del ente.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08.**
+**Alejandro Valenzuela Rivera · `TESTIGO`.**
 
 ---
 
@@ -256,8 +256,8 @@ y repetir con las familias que se abran
 
 ---
 
+---
+
 ## Falsificador
 
-**Un mutante escrito de tal manera que ningún ente pueda fallarlo.** **Y su contrario: un mutante tan fuerte que rompe el ensayo entero y no dice cuál regla falló.**
-
-**Y el más probable: mutantes escritos, creídos corridos, y ninguno ejecutado.**
+**Un mutante escrito, creído corrido, y ninguno ejecutado.** **Y uno que sobrevive y no se apunta: entonces el mutante no dijo dónde falta, y era lo único que tenía que hacer.**

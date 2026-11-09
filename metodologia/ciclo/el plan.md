@@ -1,10 +1,115 @@
-# Plan de prueba de criterio
+# El plan: cómo se corre un ciclo, y cuándo se para
 
-**Cómo se sabe que un ente ya tiene criterio, sin esperar a que corran las corridas para siempre.**
+**De dónde sale este archivo, y qué se hizo con él:**
+
+**Eran dos páginas: una decía cuánto hace falta para empezar, y la otra cómo se sabe cuándo se terminó.** **Son la misma pregunta vista desde los dos extremos, y separarlas obligaba a leer las dos para contestar una.** **Ahora es una.**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.**
 
 ---
+
+## I. Lo suficientemente bueno, que es la meta
+
+**Durante un tiempo se formuló la meta como «tratar de describir un ente hasta que esté completo», y con eso se cayó en la trampa de la tendencia:** **buscar el valor al que converge algo que no termina.**
+
+**La trampa tiene nombre y el repositorio la da en otra parte:** **es la misma de la interioridad.** **Que algo no se pueda probar hasta el final no lo vuelve inútil, y que no se pueda medir por dentro no lo vuelve indiferente.** **Lo que hay que encontrar no es el final: es el punto donde algo sirve.**
+
+**Y ese punto tiene un nombre, y es el que usa todo el que hace herramientas: lo suficientemente bueno.**
+
+---
+
+## Qué significa «lo suficientemente bueno» aquí
+
+**No significa «bueno». Significa:**
+
+> **Que alguien que sabe menos pueda empezar a trabajar con esto, y que el que sabe más pueda seguir desde donde el primero dejó.**
+
+**Y las dos mitades son necesarias:**
+
+```plaintext
+si el que sabe menos no puede empezar     → no hay piso
+si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
+```
+
+**Un piso que sirve hace las dos cosas a la vez.**
+
+---
+
+## Por qué esto no es un final, y por qué eso no es un defecto
+
+**La solución final puede tener huecos, y los va a tener.** **No porque el trabajo esté mal: porque un ente vive en un mundo que cambia, y la descripción se queda.**
+
+**Y el repositorio ya lo tenía escrito sin saberlo, en el ensayo 10:** **se usa el infinito en las fórmulas y el infinito no está en la fórmula, es la tendencia.**
+
+**Aquí se lleva a la práctica:**
+
+```plaintext
+el proceso no termina       cada generación sigue desde la anterior
+lo que sí termina           lo que una generación necesita para empezar
+y eso se puede decir        y se puede tocar, y se ve cuando está
+```
+
+---
+
+## Qué es el piso mínimo, en concreto
+
+**Y aquí está lo que hoy se puede decir, sin adornos:**
+
+```plaintext
+lo que hay        cuatro piezas, el ciclo del ensayo 02, un registro de
+                  hecho · fricción · desenlace, los ensayos escritos, y
+                  una regla probada con su mutante por familia
+
+lo que falta      que el que sabe menos pueda empezar. eso no se prueba
+                  con más escritura: se prueba con alguien
+
+y lo que NO falta el final. el final no hace falta para empezar
+```
+
+**El mínimo no es el número de reglas.** **El mínimo es lo que hace falta para que otra persona levante un ente y produzca algo.**
+
+**Y eso puede ser mucho menos de lo que la cuenta sugiere.** **Puede ser una página, con las cuatro piezas y un ejemplo.**
+
+**No lo sé, y no se sabe hasta que alguien lo intente.**
+
+---
+
+## Y la línea que impide que esto se vuelva una excusa
+
+**«Lo suficientemente bueno» es una meta, y también es la puerta por la que se sale sin hacer el trabajo.**
+
+```plaintext
+lo que NO es lo suficientemente bueno
+  lo que se puede empezar a usar, pero nadie lo empezó
+  y no se sabe por qué
+
+lo que SÍ es
+  lo que se puede empezar a usar, alguien lo empezó, y dijo dónde falló
+```
+
+**La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió.**
+
+**Y sin eso, «lo suficientemente bueno» es una opinión.**
+
+---
+
+## Lo que esta página NO dice
+
+- **No dice que el piso ya esté puesto.** **Dice qué lo definiría, y que eso no se sabe desde adentro.**
+- **No fija un número de corridas ni de mutantes.** **Ésos son el trabajo, y no la meta.**
+- **Y no afirma que la solución final vaya a ser buena.** **Afirma que va a tener huecos, y que eso está previsto y dicho.**
+
+---
+
+
+
+**«Lo suficientemente bueno» dicho por quien lo hizo, y sin que nadie lo haya empezado.**
+
+**Y su contrario: seguir puliendo para siempre porque siempre aparece un detalle más.** **Las dos son la misma trampa — una por abajo y otra por arriba — y la única salida es que alguien lo use.**
+
+---
+
+## II. Y cómo se sabe cuándo está
 
 ## Antes del método: por qué hay un número
 
@@ -44,9 +149,9 @@
 
 **La madre rompe la regla entera; los casos rompen un caso de la regla.** **Si la corrida mata la madre, ya mató los casos.**
 
-**Está en [`jerarquia.md`](por%20que%20no%20se%20corre%20todo.md), y la lista de familias con sus 417 reglas en [`familias.md`](las%20familias.md).**
+**Está en [`las reglas`](las%20reglas.md), y la lista de familias con sus 417 reglas en [`las reglas`](las%20reglas.md).**
 
-**Y una corrección que costó dos familias descubrir, y va aquí antes de que alguien planee con el número viejo:** **[`inclusion.md`](la%20tabla%20de%20inclusion.md) es la tabla, hecha para las dos familias más grandes, y dice que la inclusión casi no ahorra.**
+**Y una corrección que costó dos familias descubrir, y va aquí antes de que alguien planee con el número viejo:** **[`las reglas`](las%20reglas.md) es la tabla, hecha para las dos familias más grandes, y dice que la inclusión casi no ahorra.**
 
 **En esas dos familias, la madre mata su propia regla y ninguna hija.** **Porque las reglas de estos ensayos no son unas casos de otras: son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
 
@@ -159,8 +264,25 @@ después    correr contra los mutantes. cada uno dice si una regla aguanta
 
 ---
 
-## Prueba
+
 
 **¿Cada regla de cada ensayo tiene su mutante escrito? ¿Los mutantes que sobreviven están nombrados, y no contados como si no existieran? ¿Se distingue una regla de una explicación, al contar? ¿Y el plan dice cuántos mutantes hay y cuántos murieron?**
 
 **Falsificador:** **un plan que cuenta mutantes sin haber corrido ninguno**; **un mutante que sobrevive y no se apunta**; **una regla que no se puede escribir al revés, presentada como si se hubiera probado**; y **un plan que dice «completo» apoyándose en una cobertura, cuando la cobertura es un piso y no un techo.**
+
+
+---
+
+## Prueba
+
+**¿Se puede decir qué es lo suficiente sin decir un número? ¿El plan distingue lo que se prueba de lo que no? ¿Un mutante que sobrevive queda nombrado, o se cuenta como si no existiera?**
+
+---
+
+## Falsificador
+
+**«Lo suficientemente bueno» dicho por quien lo hizo, y sin que nadie lo haya empezado.**
+
+**Y su contrario: seguir puliendo para siempre porque siempre aparece un detalle más.**
+
+**Y el del plan: un plan que cuenta mutantes sin haber corrido ninguno**; **un mutante que sobrevive y no se apunta**; **una regla que no se puede escribir al revés, presentada como si se hubiera probado**; y **un plan que dice «completo» apoyándose en una cobertura, cuando la cobertura es un piso y no un techo.**

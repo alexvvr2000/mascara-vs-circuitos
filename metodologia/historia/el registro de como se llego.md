@@ -129,7 +129,7 @@ que un ente puede cumplir            392
 muertas por inclusión                  0
 ```
 
-**Cero.** **Y la razón está en [`ciclo/la%20tabla%20de%20inclusion.md`](../../metodologia/ciclo/la%20tabla%20de%20inclusion.md):** **una regla de conducta no contiene a otra, se suma a otra.**
+**Cero.** **Y la razón está en [`las reglas`](../../metodologia/ciclo/las%20reglas.md):** **una regla de conducta no contiene a otra, se suma a otra.**
 
 ---
 
