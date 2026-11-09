@@ -139,7 +139,7 @@ máximo = 30  una vez costó treinta
 promedio = 2.5    y ese 2.5 no le pasó a nadie nunca
 ```
 
-Ahí está el problema del promedio: éste dice 2.5, que no le pasó a nadie nunca. El trabajo en realidad cuesta uno, salvo la vez que se va a treinta, y quien presupueste con el promedio se queda corto justo el día que importa.
+Ahí está el problema del promedio: éste dice 2.5, y el trabajo en realidad cuesta uno salvo la vez que se va a treinta. Quien presupueste con el promedio se queda corto justo el día que importa.
 
 Y la señal que se mira en el acto: si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. En el ejemplo el P90 es 2 y el P50 es 1, el doble, todavía por debajo del umbral; pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer. La clase no está lista para escalar, y el promedio lo escondía.
 
