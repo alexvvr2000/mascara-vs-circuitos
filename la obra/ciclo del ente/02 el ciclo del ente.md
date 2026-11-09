@@ -651,12 +651,12 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Un ente al que le falta una pieza hay que decirlo en el acto | [`ente 5`](../../metodologia/corridas/05%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
-| El origen de lo que se dice se declara antes del hecho | [`ente 6`](../../metodologia/corridas/06%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
-| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](../../metodologia/corridas/07%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
-| El paso 3 se guarda en cuatro columnas | [`ente 8`](../../metodologia/corridas/08%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
-| El ente contesta por tarea y no buscando palabras | [`ente 9`](../../metodologia/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
-| El piso crece con cada tarea que no pudo contestar | [`ente 9`](../../metodologia/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
+| Un ente al que le falta una pieza hay que decirlo en el acto | [`ente 5`](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
+| El origen de lo que se dice se declara antes del hecho | [`ente 6`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
+| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](../../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
+| El paso 3 se guarda en cuatro columnas | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
+| El ente contesta por tarea y no buscando palabras | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
+| El piso crece con cada tarea que no pudo contestar | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

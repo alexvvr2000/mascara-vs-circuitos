@@ -16,7 +16,7 @@ Alejandro Valenzuela Rivera · 5 de noviembre de 2026.
 
 **Aquí la IA se usa distinto, y se nota.** **`TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo.** **Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro.** **Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.**
 
-**Y lo que se puede revisar está en el repositorio:** **cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/corridas/`](metodologia/corridas/), cada una en su carpeta.**
+**Y lo que se puede revisar está en el repositorio:** **cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/huecos/corridas/`](metodologia/huecos/corridas/), cada una en su carpeta.**
 
 **Y el límite, que es el mismo de todo lo demás:** **eso no vuelve bueno al trabajo.** **Lo vuelve explicable.** **Lo que lo sostiene o lo tumba sigue siendo su falsificador.**
 

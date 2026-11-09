@@ -336,9 +336,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El costo se mide por resultado verificado, no por llamada | [`06 - FUENTE`](../../metodologia/corridas/06%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
-| La caída se cuenta por su puerta, no sólo contada | [`08 - FRONTERA`](../../metodologia/corridas/08%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
-| Cada talento lleva su estado | [`09 - TAREA`](../../metodologia/corridas/09%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
+| El costo se mide por resultado verificado, no por llamada | [`06 - FUENTE`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
+| La caída se cuenta por su puerta, no sólo contada | [`08 - FRONTERA`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
+| Cada talento lleva su estado | [`09 - TAREA`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
 
 Y lo que esta tabla no dice: el costo por resultado exitoso no está calculado en ninguna parte. Se tiene el material y no se ha sumado, y este ensayo no lo presenta como si estuviera medido.
 

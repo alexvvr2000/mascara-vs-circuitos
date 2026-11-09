@@ -165,9 +165,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El paso 3 se guarda en cuatro columnas | [`ente 8`](../../metodologia/corridas/08%20-%20FRONTERA/) | el esquema rechaza un hecho con `decide` y firma llena: el falsificador se cumple |
-| El «vacío» del descartado no es un tercer valor | [`ente 8`](../../metodologia/corridas/08%20-%20FRONTERA/) | no se podía guardar, y se corrige aquí |
-| La fricción propia va después del hecho | [`ente 8`](../../metodologia/corridas/08%20-%20FRONTERA/) | escrita antes, quedó enlazada al hecho equivocado |
+| El paso 3 se guarda en cuatro columnas | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza un hecho con `decide` y firma llena: el falsificador se cumple |
+| El «vacío» del descartado no es un tercer valor | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | no se podía guardar, y se corrige aquí |
+| La fricción propia va después del hecho | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | escrita antes, quedó enlazada al hecho equivocado |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

@@ -80,7 +80,7 @@ python publicar.py crudo.json --comprobar # falla si queda algo que identifique
 | **los tokens** | `stats.py` | el informe de la sesión |
 | **el costo por hallazgo** | `cruzar.py` | el informe |
 | **los hallazgos por corrida** | la cuenta de la documentación | `../autor/el aproximado.md` |
-| **lo que se probó de las reglas** | un mutante por familia | `../../metodologia/ciclo/los mutantes.md` |
+| **lo que se probó de las reglas** | un mutante por familia | `../../metodologia/huecos/los mutantes.md` |
 
 **Y lo que nunca se mide de memoria:** **el tiempo.** **No se apuntó en las dieciocho corridas, y estimarlo después es inventar.**
 
@@ -113,7 +113,7 @@ python -c "import sys; sys.stdout.reconfigure(encoding='utf-8')" && \
 grep -c '^\*\*Falsificador:' "la obra/"*.md
 
 # que el árbol de cada corrida sea el mismo
-ls "metodologia/corridas/" | head
+ls "metodologia/huecos/corridas/" | head
 ```
 
 **Y lo que se mira a ojo, porque no hay script:** **que cada ensayo empiece por su título y acabe en `Falsificador:`.**
@@ -125,8 +125,8 @@ ls "metodologia/corridas/" | head
 **No se estima, se resta.**
 
 ```plaintext
-lo que hay       486 reglas contadas · 13 mutantes corridos
-lo que falta     473 reglas por correr, entre 30 y 50 sesiones
+lo que hay       las reglas contadas en metodologia/sostiene/las reglas.md,
+lo que falta     lo que falta sale de restar contra ese número, y se dice
 lo que no tiene   el código de la implementación, y que alguien más lo levante
 número            
 ```

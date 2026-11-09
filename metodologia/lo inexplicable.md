@@ -90,7 +90,7 @@ para la obra          una corrección, con su razón
 
 **Ese número existe, y cambia con el trabajo.** **Y es mucho mejor que la sensación de que falta algo.**
 
-**En este repositorio:** **las reglas contadas, las que un ente puede cumplir, y las probadas con su mutante:adas, 379 sin probar.** **Esa resta es todo lo que hay, y no hace falta más para saber dónde se está.**
+**En este repositorio:** **las reglas contadas en [`las reglas`](sostiene/las%20reglas.md), las que un ente puede cumplir, y las probadas con su mutante.** **Esa resta es todo lo que hay, y no hace falta más para saber dónde se está.**
 
 ### 4. La curva, que dice más que el número
 

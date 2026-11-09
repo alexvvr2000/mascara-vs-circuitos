@@ -116,11 +116,11 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 >
 > **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
 >
-> **Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/ciclo/el%20plan.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
+> **Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/huecos/README.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [[el plan](metodologia/ciclo/el%20plan.md)](metodologia/ciclo/el%20plan.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [[el plan](metodologia/huecos/README.md)](metodologia/huecos/README.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -192,25 +192,26 @@ Los límites, dichos con nombre:
      04  medicion de talentos   cómo se mide el trabajo de verdad
      05  maquina de sesgos      lo que este trabajo no puede probar
 
-4. metodologia/            EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
-     README.md              qué se hace aquí, y dónde se apunta cada cosa
-     indice.md              una línea por corrida
-     ciclo/                 el plan, las reglas, y los mutantes
-     corridas/              cada una con el mismo árbol
-     mutantes/              uno por familia
+4. metodologia/            DOS METODOS, Y NO SE MEZCLAN
+     README.md              cual contesta que, y donde va cada cosa
+     huecos/                A · llenar los huecos
+       README.md              la meta, y cuando se deja de correr
+       como se corre.md       los comandos, el orden, y que se escribe
+       corridas/              cada una con el mismo arbol
+     sostiene/              B · ver si se sostiene
+       README.md              la idea, los cuatro pasos, y cuando se para
+       las reglas.md          cuantas reglas hay. el unico numero del repo
+       los mutantes.md        las fichas, y mutantes/ con su codigo
      herramientas/          lo que mide, recorta y cruza
      historia/              el registro con fecha, y los errores propios
-     el aproximado.md       cuánto falta, y cómo se cuenta
+     lo inexplicable.md     como se persigue algo que no se termina
+     indice.md              una linea por corrida
 
-5. la obra/mantenimiento de entes/   CÓMO SE MANTIENE UNO
-     mantenimiento de entes.md  la dirección genérica
-     lo inexplicable.md         cómo se persigue algo que no se termina
-
-6. implementacion/         LAS DOS QUE SE COPIAN A UN PROYECTO
+5. implementacion/         LAS DOS QUE SE COPIAN A UN PROYECTO
      ejemplo/                  el stack elegido, ya puesto
      usuario/                  el método, para cualquier stack
 
-7. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
+6. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
 
 y ATTRIBUTION.md, en la raíz   quién escribió qué, y quién revisó qué
 ```
@@ -335,7 +336,7 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 | **los ensayos y sus afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
 | **las corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
 | **lo que las corridas encontraron** | cada hallazgo está cerrado en un ensayo, y su tabla de procedencia dice cuál |
-| **las reglas contadas** | `metodologia/ciclo/`, agrupadas por familia, y cada familia con su mutante |
+| **las reglas contadas** | `metodologia/huecos/`, agrupadas por familia, y cada familia con su mutante |
 | **el registro de cómo se hizo** | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 **Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia.** **No hay binario, ni instalador, ni soporte.** **El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.**

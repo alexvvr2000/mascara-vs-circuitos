@@ -375,8 +375,8 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Un proceso sin «cuándo se corre» no ocurre | [`ente 1`](../../metodologia/corridas/01%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
-| Lo que no dice qué lo incumple no se puede juzgar | [`ente 2`](../../metodologia/corridas/02%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
+| Un proceso sin «cuándo se corre» no ocurre | [`ente 1`](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
+| Lo que no dice qué lo incumple no se puede juzgar | [`ente 2`](../../metodologia/huecos/corridas/02%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
 | El ensayo no es bitácora: la procedencia va al pie | este ensayo | la regla nació de separar los ensayos de la metodología |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.

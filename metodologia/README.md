@@ -1,59 +1,68 @@
 # Metodología
 
-**El registro de cómo se encontraron las reglas.** **No la fuente de las reglas: la fuente es `la obra/`.**
+**Dos métodos, y cada uno contesta una pregunta distinta.** **Y ninguno de los dos tiende al infinito.**
 
-**Quien llega a leer el ciclo para levantar un ente no necesita pasar por aquí.** **Aquí viene el que quiere ver cómo se llegó, y qué se cayó en el camino.**
-
-**Y esto se lee como lo que es: un registro que creció.** **Hay tablas con la numeración de carpetas que ya no existen, y conteos de cuando el repo era más chico.** **Se dejan, porque son la historia.**
+**Alejandro Valenzuela Rivera · `TESTIGO`.**
 
 ---
 
-## Los archivos, y son seis
+## Los dos, y no se mezclan
 
-| El archivo | Qué es |
-|---|---|
-| **[`el plan.md`](ciclo/el%20plan.md)** | **cómo se corre un ciclo, cuánto hace falta para empezar, y cuándo se para** |
-| **[`las reglas.md`](ciclo/las%20reglas.md)** | **cuántas reglas hay, cómo se agrupan, y por qué se prueba una por familia** |
-| **[`los mutantes.md`](ciclo/los%20mutantes.md)** | **los que se escribieron, uno por familia, y qué rompe cada uno** |
-| **[`mantenimiento.md`](mantenimiento.md)** | **la dirección para mantener un ente** |
-| **[`lo inexplicable.md`](lo%20inexplicable.md)** | **cómo se persigue algo que no se termina** |
-| **[`el aproximado.md`](el%20aproximado.md)** | **cuánto falta, y cómo se cuenta** |
+| El método | La pregunta que contesta | Cuándo se acaba |
+|---|---|---|
+| **[A · Llenar los huecos](huecos/README.md)** | **¿qué le falta al ensayo?** | **cuando el ente se puede levantar sin preguntar nada** |
+| **[B · Ver si se sostiene](sostiene/README.md)** | **¿lo que el ensayo dice tiene dientes?** | **cuando lo que sobrevive está nombrado** |
 
-**Y cuatro carpetas, y cada una guarda una cosa distinta:**
+**Y por qué hacen falta los dos, en una línea:** **los mutantes sólo prueban reglas escritas; la corrida entera encuentra lo que falta y no está escrito.** **Una sin la otra deja un lado sin mirar.**
 
-| La carpeta | Qué guarda |
-|---|---|
-| **[`corridas/`](corridas/)** | **una carpeta por corrida, con el mismo árbol siempre** |
-| **[`mutantes/`](mutantes/)** | **el código de cada mutante, con su documentación** |
-| **[`herramientas/`](herramientas/)** | **lo que mide, recorta y cruza** |
-| **[`historia/`](historia/)** | **el registro con fecha, y los errores propios** |
+**Y por qué esto no tiende al infinito:** **el A se acaba por el uso, no por el número de huecos.** **Y el B se acaba porque las reglas se acaban.** **Lo que no tiene final es la autonomía, y ésa no se mide: se firma.**
 
 ---
 
-## La regla de dónde se apunta cada cosa
+## El A, y qué hay adentro
 
-| Lo que sale | A dónde va |
-|---|---|
-| **una corrida** | **su carpeta en `corridas/`, y una línea en [`indice.md`](indice.md)** |
-| **un mutante** | **`mutantes/` para el código, y `los mutantes.md` para su ficha** |
-| **una regla de cómo se trabaja** | **este archivo** |
-| **un error del que mantiene** | **`historia/`, con fecha** |
-| **una herramienta nueva** | **`herramientas/`, con su `README`** |
+```
+A · llenar los huecos     se levanta un ente con el ejemplo, se corre,
+                          y lo que hubo que inventar es el hueco
 
-**Y el límite que lo mantiene legible:** **este archivo no crece.** **Si una sección pasa de un párrafo, es que el contenido va a otro sitio.**
+  README.md               la meta, y cuándo se deja de correr
+  como se corre.md        los comandos, el orden, y lo que se escribe
+  corridas/               una carpeta por corrida, con el mismo árbol
+```
 
----
+## El B, y qué hay adentro
 
-## Y de dónde salen los demás
+```
+B · ver si se sostiene    se rompe una regla a propósito, y se mira
+                          si la corrida lo nota
 
-```plaintext
-la obra/ciclo del ente/   lo que se pule con esta metodología
-la obra/humanidad/        lo que no se pule con corridas
-la obra/README.md         las afirmaciones, y qué las tumba
-implementacion/           lo que se copia a un proyecto
-los papeles/              los límites, la atribución, y el estado del arte
+  README.md               la idea, los cuatro pasos, y cuándo se para
+  las reglas.md           cuántas reglas hay. el único número del repo
+  los mutantes.md         las fichas: qué rompe cada uno
+  mutantes/               el código de cada uno
 ```
 
 ---
 
-**Falsificador:** **una metodología que crece y un índice que no.** **La señal, en el acto:** **hay cuarenta corridas y nadie puede decir, sin abrir ninguna, qué probaba la treinta.**
+## Lo que no es de ninguno de los dos
+
+| Qué | Dónde | Por qué no es un método |
+|---|---|---|
+| **[`historia/`](historia/)** | **el registro con fecha, y los errores propios** | **no se corre: se lee** |
+| **[`herramientas/`](herramientas/)** | **medir el costo de una sesión** | **mide el trabajo, no el ensayo** |
+| **[`lo inexplicable.md`](lo%20inexplicable.md)** | **cómo se persigue algo que no se termina** | **es el porqué de que haya dos métodos y no uno** |
+| **[`indice.md`](indice.md)** | **la lista de las corridas** | **es un índice, no un método** |
+
+---
+
+## Y la regla que los mantiene legibles
+
+**Los números viven en un solo sitio: [`las reglas`](sostiene/las%20reglas.md).**
+
+**Ni este archivo ni los dos métodos hacen cuentas.** **El que las necesite las hace contra el registro, y las puede volver a hacer.**
+
+**Porque una resta que se puede rehacer no envejece; una cifra escrita sí.**
+
+---
+
+**Falsificador:** **una metodología con un método solo.** **Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió.**
