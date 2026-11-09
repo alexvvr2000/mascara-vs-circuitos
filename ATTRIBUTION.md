@@ -8,13 +8,17 @@ Alejandro Valenzuela Rivera · 5 de noviembre de 2026.
 
 ## 1. De dónde salió esto, y cómo se escribió
 
-Este repositorio salió de un debate en el repositorio anterior, y ahí no había criterio todavía.
+**Esto no empezó aquí.** **Empezó en un repositorio anterior, en un debate, y ahí no había criterio todavía.**
 
-El autor empezó dando fricción sin hechos: lo que se cayó, sin lo que pasó. Y de ese intercambio salieron más ideas que las que este repositorio tiene. Fue exploración, y la IA era el otro lado de la mesa, sin que ninguno de los dos supiera del todo qué estaba haciendo.
+**El autor empezó dando fricción sin hechos: lo que se cayó, sin lo que pasó.** **Y de ese intercambio salieron más ideas que las que este repositorio tiene.** **Fue exploración, y la IA era el otro lado de la mesa, sin que ninguno de los dos supiera del todo qué estaba haciendo.** **Muchas de las cosas que se sostuvieron allá no se sostienen, y se sabe porque se cayeron.**
 
-Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
+**Este repositorio es lo que salió de eso.** **Lo que se repite aquí es lo que aguantó; lo que se cayó no se repite.** **Y por eso el rastro existe: no para mostrar el camino, sino para que el que venga no tenga que cometer los mismos errores.**
 
-Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y cada corrida se puede abrir.
+**Aquí la IA se usa distinto, y se nota.** **`TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo.** **Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro.** **Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.**
+
+**Y lo que se puede revisar está en el repositorio:** **cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/corridas/`](metodologia/corridas/), cada una en su carpeta.**
+
+**Y el límite, que es el mismo de todo lo demás:** **eso no vuelve bueno al trabajo.** **Lo vuelve explicable.** **Lo que lo sostiene o lo tumba sigue siendo su falsificador.**
 
 ---
 
@@ -48,51 +52,6 @@ Lo único que no es del autor, y se distingue: el rastro de la conversación, qu
 
 ---
 
-## Y quién escribe, que es la pregunta que llega siempre
-
-**Las ideas son del autor.** **La redacción es de `TESTIGO`.** **Y la diferencia entre las dos cosas es todo este apartado.**
-
-**Lo que el autor tiene, y no se puede pedir prestado:** **la postura, la decisión de qué se sostiene y qué se tira, el criterio de cuándo algo está mal, y la firma.**
-
-**Lo que `TESTIGO` hace, y hace mejor que el autor:** **redactar.** **Poner la frase donde va, quitar la que sobra, decir lo mismo con menos palabras, y escribir en un registro que el autor no usa cuando escribe a las tres de la mañana.**
-
-**Y no es cosmética.** **Un argumento que necesita releerse dos veces para saber quién hace qué está mal escrito, aunque sea cierto.** **Que el texto esté bien puesto no hace más verdadera la idea; hace que la idea se pueda revisar, que es lo que este repositorio pide de todo lo demás.**
-
-### Por qué el texto está escrito en tercera persona
-
-**Por una razón que no es estilística: porque en tercera persona se puede tumbar.**
-
-**Un texto en primera persona dice «creo que». Y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba.**
-
-**Un texto en tercera persona dice «esto es así, y esto lo tumba». Y eso sí se puede probar, corregir, y citar en contra.**
-
-**Casi todo este repositorio está escrito así, y no por modestia: porque una descripción se defiende de otra manera que una confesión.**
-
-**Y donde el autor hablaba de sí mismo —lo que pensó, lo que no sabía, lo que corrigió— el texto se pasó a tercera persona.** **No para esconder al autor: para que lo que dice se pueda juzgar sin tener que creerle.**
-
-### Y lo que queda en primera persona, a propósito
-
-**Cuatro cosas, y se distinguen porque están marcadas:**
-
-```plaintext
-una cita    "no sabía" no es una defensa aceptable;
-            "lo decidí yo, y consta mi nombre" sí
-            → es lo que un ente tiene que poder decir,
-              y se dice en primera persona porque es una cita
-
-un lema     el que firma es una persona, con nombre
-            → no puede escribirse en impersonal sin perder lo que dice
-
-y el rastro de la conversación, que no se toca:
-            ahí sí hay un yo, y es el que hizo el trabajo
-```
-
-**Todo lo demás, en tercera.**
-
-**Y no es la barrera humano-máquina rota.** **Es lo contrario, y es más chico y más útil:** **una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó.** **Cada mitad con nombre, y ninguna de las dos reclamando la otra.**
-
----
-
 ## 2. Por qué es del autor
 
 No es una formalidad, y conviene saberlo antes de citar esto. La ley exige autor humano, y sin él no hay obra.
@@ -106,6 +65,22 @@ No es una formalidad, y conviene saberlo antes de citar esto. La ley exige autor
 
 Y lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto: es el criterio puesto en él. Qué entra, en qué orden, qué se sostiene y qué se cayó. Eso está en el rastro, con fecha, y por eso el rastro se publica.
 
+### Y lo que queda en primera persona, a propósito
+
+**Tres cosas, y nada más:**
+
+```plaintext
+una cita     lo que el autor dijo, entre comillas
+un lema      lo que se sostiene como postura, con nombre
+y el rastro  donde hay un yo, y es el que hizo el trabajo
+```
+
+**Todo lo demás, en tercera persona e impersonal.**
+
+**Y es por una razón que no es estilística:** **en tercera persona se puede tumbar.** **Un texto en primera persona dice «creo que», y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba.** **Un texto en tercera persona dice «esto es así, y esto lo tumba», y eso sí se puede probar, corregir, y citar en contra.**
+
+**Y no es la barrera humano-máquina rota.** **Es una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó.** **Cada mitad con nombre, y ninguna reclamando la otra.**
+
 Y el origen se declara, que es lo que pide la norma editorial del reciclaje:
 
 > Valenzuela Rivera, A. *Man-Made Empathy: el sesgo declarado, medido en acciones.* v2, 2 de noviembre de 2026. Repositorio: `https://github.com/alexvvr2000/man-made-empathy` · DOI conceptual: `10.5281/zenodo.23090721` · CC BY 4.0.
@@ -114,21 +89,7 @@ Ninguna frase de este trabajo es copia literal del anterior: las ideas están re
 
 ---
 
-## 3. Con qué estado se escribió esto
-
-Y esto va aquí, y no en un ensayo, porque no es un argumento: es un dato sobre de dónde salió el trabajo.
-
-El autor no escribió esto desde un lugar cómodo. Empezó sin tener lo que quería tener, y el repositorio es lo que salió de eso. Él mismo lo dice así, y con sus palabras: no se considera bueno, y no presenta esto como testimonio de que lo sea.
-
-Se escribe porque quien lea puede encontrar delusiones, o afirmaciones que no debieron decirse. Y en vez de juzgar eso como si el trabajo hubiera salido de la nada, conviene saber dos cosas: que no había nada antes, y que lo que hay se construyó probándolo — nueve levantamientos, veinte huecos con nombre, y las correcciones a la vista.
-
-Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador, y está al final de cada ensayo.
-
-Y por qué esto es también un argumento del trabajo, y no sólo una nota: una obra en la que el que la hizo tiene algo que defender se lee distinto que una en la que no. Aquí el autor no reclama haber llegado: reclama haber dejado el rastro de cómo llegó, para que otro lo corrija. Un ente sin ego hace eso por construcción; una persona lo hace a propósito, y eso cuesta más.
-
----
-
-## 4. Quién revisó
+## 3. Quién revisó
 
 Luis Ángel Gutiérrez Rodríguez revisó la versión inicial de este trabajo. De esa revisión salió la que está aquí: lo que no aguantaba una defensa, se cambió o se cayó.
 
@@ -143,8 +104,8 @@ no revisó       nadie de afuera los ensayos ni las corridas.
                 lo que está revisado, lo revisó quien lo escribió y la
                 máquina que lo ayudó
 
-no hubo         un segundo autor de las corridas: una persona, una
-                máquina, el mismo cuerpo de modelo en las dieciocho
+no hubo         un segundo autor de las corridas: una persona y una
+                máquina, y el mismo cuerpo de modelo en todas
 
 no hubo         comparación medida contra otro trabajo. el estado del arte
                 lo hizo `TESTIGO` con búsquedas, y su autor no leyó las
@@ -165,7 +126,7 @@ no hubo         una forma de saber si esto sirve: eso sólo se ve si
 
 ---
 
-## 5. En qué idioma está escrito, y por qué así
+## 4. En qué idioma está escrito, y por qué así
 
 Está escrito en español, y no traduce los términos que ya tienen nombre en su oficio.
 
@@ -218,7 +179,7 @@ Lo que esto no es: no es permiso para meter inglés a media frase. Una oración 
 
 ---
 
-## 6. Las fuentes, y por qué están
+## 5. Las fuentes, y por qué están
 
 **Las ideas de este trabajo no se derivan de la literatura.** **Se llegaron a ellas discutiendo, y por lógica.**
 
@@ -236,7 +197,7 @@ Lo que esto no es: no es permiso para meter inglés a media frase. Una oración 
 
 ---
 
-## 7. La licencia, y qué puedes hacer
+## 6. La licencia, y qué puedes hacer
 
 Este trabajo está bajo `CC BY 4.0`. Puedes leerlo, citarlo, compartirlo y construir encima, con atribución.
 
