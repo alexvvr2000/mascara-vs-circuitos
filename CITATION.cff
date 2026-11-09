@@ -1,46 +1,41 @@
+# Este archivo lo escribe scripts/citation.py: no se edita a mano.
+# Los números se cuentan de las carpetas, y el commit y la fecha salen de git.
 cff-version: 1.2.0
-message: "Versión inicial. Si se cita, hacerlo con esta versión y esta fecha."
+message: "Si se usa esto, se cita con estos datos. Y si se cita, se cita el commit de abajo, no «la última versión»."
 title: "Máscara vs Circuitos: alineación de entes"
 abstract: >-
-  Máscara vs Circuitos reúne 14 ensayos sobre el mismo problema: cómo una
-  colaboración entre una persona y un sistema de inteligencia artificial puede
-  dejar un rastro que se pueda juzgar. La obra se divide en dos carpetas. La
-  primera, alineación de entes, define qué es un ente, cuál es el ciclo que
-  corre paso por paso, por qué una IA debe escribir en forma de proceso y no
+  Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un
+  rastro que se pueda juzgar. La obra tiene 14 ensayos, en dos carpetas: la primera define qué es un ente,
+  cuál es el ciclo que corre paso por paso, por qué se escribe en procesos y no
   en prosa, cómo se arma el criterio con el hecho, la fricción y el desenlace,
   dónde vive lo que un ente sabe, y qué es del ente y qué del cuerpo que lo
-  corre. La segunda, humanidad, trata lo que no es maquinaria: la empatía como
-  instrumento antes de pedirle algo a otro, la pregunta por la conciencia sin
-  afirmar que exista ni que no, cómo se sabe si un ente está haciendo trabajo
-  de verdad con números y sin preguntarle al modelo qué tan bueno es.
-  El trabajo no se presenta como la verdad: se presenta como una propuesta
-  metodológica, escrita en primera persona, con sus fuentes declaradas donde
-  se abrieron y dichas donde no. No hay comparación medida contra ningún otro
-  trabajo, y las corridas que sostienen el método las hizo el autor: no
-  hay todavía una corrida hecha por alguien más. Cada afirmación trae su
-  falsificador, y ninguno se ha cumplido todavía. La declaración completa de
-  uso de IA está en Attribution.md.
+  corre. La segunda trata lo que no es maquinaria: la empatía como instrumento
+  antes de pedirle algo a otro, la pregunta por la conciencia sin afirmar que
+  exista ni que no, y cómo se sabe si un ente está haciendo trabajo de verdad.
+  Sostienen el método 18 corridas y 14 familias de mutante, y las hizo el autor: no hay todavía
+  una corrida hecha por alguien más. Cada afirmación trae su falsificador, y lo
+  que no se probó se dice que no se probó. La declaración de uso de IA está en
+  Attribution.md.
 type: book
 authors:
   - family-names: "Valenzuela Rivera"
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
 version: "1.0.0"
-commit: "f4e37a40318074ae78032dea5904e85ba0860733"
+commit: "2160ab2bba8ad729e161a4c7e76fed5b160b61ab"
 date-released: "2026-11-09"
 license: "Apache-2.0"
-license-note: "El código va con Apache 2.0 y la prosa con CC BY 4.0. Ver LICENSES.md."
+repository-code: "https://github.com/alexvvr2000/mascara-vs-circuitos"
+url: "https://github.com/alexvvr2000/mascara-vs-circuitos"
 status: "initial"
 keywords:
   - "inteligencia artificial"
   - "colaboración humano-IA"
   - "criterio"
-  - "memoria"
   - "trazabilidad"
   - "verificación"
   - "escritura en procesos"
   - "propuesta metodológica"
-  - "metodología"
   - "reproducibilidad"
 
 references:
@@ -56,5 +51,5 @@ references:
     license: "CC-BY-4.0"
     identifiers:
       - type: doi
-        description: "DOI conceptual (histórico) de Zenodo: identifica el repositorio completo y todo su historial, no una versión suelta. Cada versión archivada tiene además su propio DOI."
+        description: "DOI conceptual (histórico) de Zenodo: identifica el repositorio completo y todo su historial, no una versión suelta."
         value: "10.5281/zenodo.23090721"

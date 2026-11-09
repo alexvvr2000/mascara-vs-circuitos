@@ -29,6 +29,7 @@ Lo que el build NO hace, y por qué
 
 import os
 import re
+import subprocess
 import sys
 import unicodedata
 import urllib.parse
@@ -174,6 +175,23 @@ def regla_ruta(p, fallos):
         fallos.append((rel(p), "RUTA", "ruta de la maquina: %s" % m.group(0)[:60]))
 
 
+def regla_citation(p, fallos):
+    """CITATION.cff se genera con scripts/citation.py: si está atrás, el build cae.
+
+    Se compara con lo que el generador escribiría ahora, y la variable CITATION_REVISADA
+    impide que el generador, que también recorre archivos .md, vuelva a entrar aquí.
+    """
+    if os.path.abspath(p) != os.path.join(RAIZ, "CITATION.cff"):
+        return
+    if os.environ.get("CITATION_REVISADA"):
+        return
+    entorno = dict(os.environ, CITATION_REVISADA="1")
+    r = subprocess.run([sys.executable, os.path.join(RAIZ, "scripts", "citation.py"), "--comprueba"],
+                       capture_output=True, text=True, encoding="utf-8", errors="replace", env=entorno)
+    if r.returncode != 0:
+        fallos.append((rel(p), "CITATION", (r.stdout + r.stderr).strip().splitlines()[-1][:120] or "está atrás"))
+
+
 def regla_licencias(p, fallos):
     """Las dos licencias siguen ahí, y dicen lo que el repo dice que dicen.
 
@@ -294,7 +312,10 @@ def build(lista=False):
     for p in todos:
         regla_enlaces(p, fallos)
         regla_ruta(p, fallos)
-        regla_licencias(p, fallos)
+
+    # Las dos que miran el repositorio, no el archivo: se corren una vez, sobre su archivo.
+    regla_licencias(os.path.join(RAIZ, "LICENSES.md"), fallos)
+    regla_citation(os.path.join(RAIZ, "CITATION.cff"), fallos)
 
     for p in ensayos():
         regla_h1(p, fallos)
