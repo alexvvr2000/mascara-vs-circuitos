@@ -84,3 +84,31 @@ no se delega qué falta, ni cómo se arregla, ni cerrar el hallazgo
 ## Falsificador
 
 **Una idea de herramienta que se adopta sin haber dicho qué mitad no puede dar la herramienta.** **Y su contraria: una idea buena que no se implementa porque se confundió con la mala que venía en el mismo mensaje.** **La jerarquía está en el segundo caso, y se apunta aquí para que no se pierda.**
+
+---
+
+## Y lo que vino después de esta idea, y no estaba en ella
+
+**Este cuaderno se escribió cuando la cuenta de lo que falta se puso en números, y fue el último de su serie.** **Lo que vino después no fue otra corrida: fue quitarle a la serie lo que la volvía incomparable.**
+
+**El trabajo, en lo que cambió del repositorio:**
+
+```text
+los números del título      se fueron. el orden vive en el nombre del archivo,
+                            y cada ensayo se cita por su título
+la tabla duplicada          el README de la obra copiaba las pruebas de cada
+                            ensayo. se fue: la prueba vive en su ensayo
+los scripts                 viven en scripts/, y cada uno tiene su comando.
+                            el build comprueba enlaces, títulos, citas y forma
+el énfasis                  se quitó el de relleno. si todo va en negrita,
+                            nada lo está
+la persona                  los ensayos describen y no le hablan a nadie
+la historia                 se ordenó como cadena: se empieza creyendo una
+                            cosa, y cada cuaderno deja abierto el siguiente
+```
+
+**Y lo que sigue sin hacerse, y es la razón de esta nota:** **la carpeta del ciclo todavía es nueve ensayos sueltos, y lo que se quiere es un mapa y sus pasos.** **Los cuatro puntales —que un ente no tiene cuerpo, que el piso se mide, que el criterio se apunta, que la forma es la fuente— tienen que elegir si son del mapa o de un paso.** **Hasta que eso se decida, cualquier mudanza arrastra el mismo texto dos veces.**
+
+**El estado de hoy, con lo que se puede comprobar, está en [`estado.md`](../../estado.md), y se saca con `python scripts/piso.py`.**
+
+**Falsificador de esta nota:** **un reordenamiento que se cuenta como si el texto hubiera mejorado.** **Se movieron archivos, se quitaron duplicados y se comprobó lo que enlaza. Lo que el texto dice todavía no se tocó.**

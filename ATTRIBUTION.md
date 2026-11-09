@@ -18,7 +18,7 @@ Este repositorio es lo que salió de eso. Lo que se repite aquí es lo que aguan
 
 Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
 
-Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/huecos/corridas/`](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [`metodologia/sostiene/metodo.md`](metodologia/sostiene/metodo.md), con su conteo en [`corridas.md`](metodologia/sostiene/corridas.md).
+Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/huecos/corridas/`](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [`metodologia/sostiene/metodo.md`](metodologia/sostiene/metodo.md), con su conteo en [`corridas.md`](metodologia/sostiene/corridas.md). **El [piso del repositorio](estado.md) dice qué hay y qué falta, y `python scripts/build.py` comprueba que todo enlace, cita y título siga en pie.**
 
 Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador.
 

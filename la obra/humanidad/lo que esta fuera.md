@@ -258,7 +258,7 @@ Y no la puedo contestar. Pero sí puedo decir dónde no está la respuesta: no e
 
 ### Y una nota sobre de dónde sale esto, que no es un argumento
 
-Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en `los papeles/ATTRIBUTION`, con el estado en que se escribió y lo que el autor dice de sí mismo.
+Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en [`ATTRIBUTION`](../../ATTRIBUTION.md), con el estado en que se escribió y lo que el autor dice de sí mismo.
 
 Lo que se sostiene o se cae sigue siendo lo del falsificador. Esa nota no lo tapa. Pero conviene saber que no salió de la nada, y que lo que hay se construyó probándolo.
 

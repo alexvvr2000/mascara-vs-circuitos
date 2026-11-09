@@ -177,22 +177,22 @@ Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](l
 2. la obra/README.md       la posición en lista, y qué la tumba
 
 3. la obra/funcionamiento ente/   LOS QUE SE PULEN CON LA METODOLOGÍA
-     01  que es un ente         la definición, y por qué necesita una autoridad
-     02  el ciclo del ente      los pasos, uno por uno
-     03  el piso                qué mide antes de prometer
-     04  escritura en procesos  por qué proceso, y no prosa
-     05  criterio real          el hecho, la fricción y el desenlace
-     06  la frontera            las cuatro columnas del paso 3
-     07  indexador de temas     dónde vive lo que sabe
-     08  el borde del tema      cómo se escribe un borde que se pueda correr
-     09  criterio y sesgos      qué es del ente y qué del cuerpo
+     que es un ente             la definición, y por qué necesita una autoridad
+     el ciclo del ente          los pasos, uno por uno
+     el piso                    qué mide antes de prometer
+     escritura en procesos      por qué proceso, y no prosa
+     criterio real              el hecho, la fricción y el desenlace
+     la frontera y el descarte  las cuatro columnas del paso 3
+     indexador de temas         dónde vive lo que sabe
+     el borde del tema          cómo se escribe un borde que se pueda correr
+     criterio y sesgos          qué es del ente y qué del cuerpo
 
    la obra/humanidad/       LOS QUE NO SE PULEN CON CORRIDAS
-     01  empatía                cómo se entiende antes de pedir
-     02  conciencia             qué hacemos con una palabra que no sabemos definir
-     03  concordia              por qué se alinea con la concordia, y no con la moral
-     04  medicion de talentos   cómo se mide el trabajo de verdad
-     05  maquina de sesgos      lo que este trabajo no puede probar
+     empatía                    cómo se entiende antes de pedir
+     lo que esta fuera          qué hacemos con una palabra que no sabemos definir
+     concordia                  por qué se alinea con la concordia, y no con la moral
+     lo que queda por hacer    cómo se mide el trabajo de verdad
+     medir sin preguntarle     lo que este trabajo no puede probar
 
 4. metodologia/            DOS METODOS, Y NO SE MEZCLAN
      README.md              cual contesta que, y donde va cada cosa
@@ -204,10 +204,14 @@ Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](l
                               filas en texto. sin binarios
      sostiene/              B · ver si se sostiene
        README.md              la idea, los cuatro pasos, y cuando se para
-       las reglas.md          cuantas reglas hay. el unico numero del repo
-       los mutantes.md        las fichas, y mutantes/ con su codigo
-       corridas/              vacia, y se dice por que
-     historia/              el registro con fecha, y los errores propios
+       metodo.md              el metodo entero: la regla, las tareas, el
+                              contrato, los bancos, las fuentes
+       forma.md               la forma de la asercion, y las cuatro reglas
+                              que comprueba scripts/build.py
+       corridas.md            en que quedo cada mutante. el unico conteo
+       mutantes/              un script por familia, y sus bancos en dumps
+     historia/              el registro, en el orden en que se lee, y los
+                            errores propios
      lo inexplicable.md     como se persigue algo que no se termina
      indice.md              una linea por corrida
 
@@ -217,7 +221,11 @@ Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](l
 
 6. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
 
-y ATTRIBUTION.md, en la raíz   quién escribió qué, y quién revisó qué
+y en la raíz
+  ATTRIBUTION.md          quién escribió qué, y quién revisó qué
+  estado.md               el piso: qué hay, dónde está y qué falta, generado
+                          con `python scripts/piso.py`
+  build.py, en scripts/   las cuatro reglas, y el comando que las corre
 ```
 
 Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que debería pasar; las corridas dicen lo que pasó cuando se intentó.
@@ -226,7 +234,7 @@ Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que deber�
 
 ## Las doce ideas
 
-Son la posición completa. La columna de la derecha dice en cuál de los trece ensayos vive cada una, con su número, y ahí tiene su falsificador. Dos pueden vivir en el mismo ensayo, y el falsificador es el mismo para las dos. La que no vive en un ensayo lo dice, y es una sola: la que es conjetura.
+Son la posición completa. La columna de la derecha dice en cuál de los trece ensayos vive cada una, y ahí tiene su falsificador. Los ensayos se nombran por su título, y no por un número: el número era el puesto en la carpeta, y la carpeta todavía se está ordenando. Dos pueden vivir en el mismo ensayo, y el falsificador es el mismo para las dos. La que no vive en un ensayo lo dice, y es una sola: la que es conjetura.
 
 | # | La idea | Vive en |
 |---|---|---|

@@ -41,11 +41,12 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
                           si la corrida lo nota
 
   README.md               la idea, los cuatro pasos, y cuándo se para
-  las reglas.md           cuántas reglas hay. el único número del repo
-  los mutantes.md         las fichas: qué rompe cada uno
-  mutantes/               el código de cada uno
-  corridas/               vacía, y se dice por qué: el B no tiene corridas
-                          todavía
+  metodo.md               el método entero: la regla, las tareas, el contrato,
+                          los bancos, y de dónde sale cada pieza
+  forma.md                la forma de la aserción, y las cuatro reglas que
+                          comprueba scripts/build.py
+  corridas.md             en qué quedó cada mutante: el único conteo
+  mutantes/               el código de cada uno, y sus bancos en dumps
 ```
 
 ---
