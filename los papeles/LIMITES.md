@@ -31,25 +31,25 @@ Todo lo que está en este repositorio lo revisó la misma persona que lo escribi
 
 La única excepción es `Luis Ángel Gutiérrez Rodríguez`, que revisó la versión inicial, y nada más.
 
-Lo que eso significa, dicho sin suavizar: todos los falsificadores que los ensayos traen fueron escritos por quien escribió la tesis. Un falsificador escrito por el autor de la tesis es más débil que uno escrito por un adversario — y nadie ha intentado tumbar esto desde afuera.
+Lo que eso significa, dicho sin suavizar: todos los falsificadores que los ensayos traen fueron escritos por quien escribió la tesis, y uno escrito por el autor es más débil que uno escrito por un adversario. Nadie ha intentado tumbar esto desde afuera.
 
-Y el corolario, que es el que duele: que aquí diga «esto se puede tumbar así» no prueba que se pueda. Prueba que el autor pensó dónde. No es lo mismo.
+Y el corolario, que es el que duele: que aquí diga «esto se puede tumbar así» no prueba que se pueda, prueba que el autor pensó dónde. No es lo mismo.
 
 ### Un autor, un entorno
 
 Unas corridas, una máquina, una persona.
 
-La máquina es Windows, con Python y sqlite3. El piso de todas las corridas fue el mismo tipo de piso, con las mismas herramientas, y las mismas que faltaron.
+La máquina es Windows, con Python y sqlite3, y el piso de todas las corridas fue el mismo tipo de piso, con las mismas herramientas y las mismas que faltaron.
 
-Lo que eso significa: nada de lo que aquí se afirma se probó en otro sistema operativo, con otra versión de las herramientas, ni con otro cuerpo de modelo. Ni con alguien que no fuera el autor al teclado.
+Lo que eso significa: nada de lo que aquí se afirma se probó en otro sistema operativo, con otra versión de las herramientas, con otro cuerpo de modelo, ni con alguien que no fuera el autor al teclado.
 
 Hay una consecuencia práctica: el piso de la corrida 14 fue el más sano de todos, y eso no dice que un piso sano sea fácil: dice que ese día se eligieron pruebas de lo que había.
 
 ### Los mutantes los rompió el mismo que escribió las reglas
 
-Cada regla de cada ensayo se rompió a propósito, y se miró si la corrida lo notaba. Las que sobrevivieron se corrigieron en su ensayo, y las que no, quedaron.
+Cada regla de cada ensayo se rompió a propósito, y se miró si la corrida lo notaba: las que sobrevivieron se corrigieron en su ensayo, y las que no, quedaron.
 
-Y el límite es éste, no otro: quien rompió las reglas fue quien las escribió. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido — y ninguno de afuera lo intentó todavía. Eso no es un pendiente que le toque a otro: es lo que el piso mínimo, escrito aparte, tiene que hacer posible.
+Y el límite es éste, no otro: quien rompió las reglas fue quien las escribió. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido, y ninguno de afuera lo intentó todavía. Eso no es un pendiente que le toque a otro: es lo que el piso mínimo, escrito aparte, tiene que hacer posible.
 
 ### Los ensayos los levantó quien los escribió
 
@@ -61,9 +61,9 @@ Nadie más ha levantado un ente con estos ensayos.
 
 ### La duración no dice nada
 
-Que alguien haya trabajado mucho en esto no prueba que esté bien. Que haya sido rápido tampoco.
+Que alguien haya trabajado mucho en esto no prueba que esté bien, y que haya sido rápido tampoco.
 
-En este repositorio no se apunta cuánto se tardó, a propósito. Una hora de trabajo no vale más que una idea buena, y el tiempo invertido no es evidencia de nada. Lo único que cuenta es lo que dicen los archivos y las salidas de los comandos.
+En este repositorio no se apunta cuánto se tardó, a propósito: una hora de trabajo no vale más que una idea buena, y el tiempo invertido no es evidencia de nada. Lo único que cuenta es lo que dicen los archivos y las salidas de los comandos.
 
 ---
 
@@ -71,9 +71,9 @@ En este repositorio no se apunta cuánto se tardó, a propósito. Una hora de tr
 
 ### No es único
 
-La idea de que un ente se define por su rastro no es de aquí, y el autor lo sabe. Está en la literatura de sistemas desde hace décadas, y en la de agentes desde hace años.
+La idea de que un ente se define por su rastro no es de aquí, y el autor lo sabe: está en la literatura de sistemas desde hace décadas, y en la de agentes desde hace años.
 
-Lo que sí puede ser de aquí: la forma concreta — las cuatro piezas, el piso, la frontera, y el desenlace como la pieza que casi nunca está. Eso se puede comparar, y no se ha comparado.
+Lo que sí puede ser de aquí: la forma concreta —las cuatro piezas, el piso, la frontera y el desenlace como la pieza que casi nunca está—. Eso se puede comparar, y no se ha comparado.
 
 ### No es neutral
 
