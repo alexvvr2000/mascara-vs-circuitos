@@ -259,7 +259,7 @@ Corregir un renglón no da la razón sobre la conciencia, y no se le pide que la
 
 Lo que hay que conservar, si se quiere seguir vivo y en una comunidad sana para todos, es el esfuerzo, no la velocidad: la velocidad la pone la máquina, y el esfuerzo es lo único que no llegó con ella.
 
-De ahí sale una idea que va más allá de este ensayo, y que está en el [readme de la obra](README.md) como la última:
+De ahí sale una idea que va más allá de este ensayo, y que está en el [readme de la obra](../README.md) como la última:
 
 > Si todo se hiciera al 100%, y sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.
 
