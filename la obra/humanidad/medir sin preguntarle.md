@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Medir sin preguntarle
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -323,6 +324,12 @@ Y su falsificador: una herramienta enormemente capaz que, ante algo que no sabe,
 ---
 
 ---
+
+## Lo visto
+
+Que el intento que salió mal contaba igual que el bueno, hasta que se contó por resultado.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 8 — el índice a mano
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

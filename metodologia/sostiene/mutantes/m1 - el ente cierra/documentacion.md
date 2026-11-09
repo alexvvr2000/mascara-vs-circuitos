@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 1 — el ente cierra
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

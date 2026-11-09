@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Concordia
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -222,6 +223,12 @@ Falsificador: una burla que ataca a la persona y no al salto; una cita de ficci�
 Y lo que esta tabla no dice, que también es un dato: este ensayo no tiene una corrida que lo respalde. No afirma cómo funciona un ente, y por eso no se puede romper a propósito. Es el segundo de la obra que va sin corrida, después de [máquina de sesgos](medir%20sin%20preguntarle.md).
 
 ---
+
+## Lo visto
+
+Que la pregunta que el otro podía contestar sin saber del oficio se contestó, y la otra no.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

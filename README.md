@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Máscara vs Circuitos
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -372,3 +373,12 @@ Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que
 Lo que sí se puede hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo. Lo que está aquí se queda aquí.
 
 ---
+
+---
+
+## Lo visto
+
+Que el trabajo se puede revisar sin creerle nada: cada afirmación trae lo que la tumba, y cada corrida se puede abrir.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 2 — el piso estima
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

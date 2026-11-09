@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Lo inexplicable que tiende al infinito
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -225,6 +226,12 @@ y dejar escrito qué haría falta para que existiera
 Eso es un resultado. No es el que se quería, y es el que hay.
 
 ---
+
+## Lo visto
+
+Que lo que no termina se puede perseguir sin fingir que tiene final.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

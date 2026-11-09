@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Metodología
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -80,3 +81,12 @@ Y la forma, con su porqué y con lo que el build no comprueba, está en [sostien
 ---
 
 Falsificador: una metodología con un método solo. Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió.
+
+---
+
+## Lo visto
+
+Que los dos métodos se pueden correr sin pedir permiso, y que ninguno se acaba por sí solo.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

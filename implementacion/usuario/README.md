@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # `usuario/`
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -103,3 +104,12 @@ Y no se cambia el borde para que la pieza entre. Si dos temas la aceptan, el bor
 ---
 
 Falsificador: un manual que dice cómo cambiar el stack y no dice cómo se sabe que el cambio funcionó.
+
+---
+
+## Lo visto
+
+Que el método se copia a otro stack, y que el rastro tiene que salir igual.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

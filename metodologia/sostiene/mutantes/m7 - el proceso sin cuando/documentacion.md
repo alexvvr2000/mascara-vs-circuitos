@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 7 — el proceso sin cuándo
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

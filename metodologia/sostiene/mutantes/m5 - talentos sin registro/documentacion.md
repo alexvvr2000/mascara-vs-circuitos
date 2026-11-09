@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 5 — talentos sin registro
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

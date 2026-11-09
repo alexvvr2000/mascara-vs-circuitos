@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 12 — el hecho sin desenlace
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

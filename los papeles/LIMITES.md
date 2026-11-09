@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Los límites, con nombre y sin coartada
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -127,6 +128,12 @@ Si algo de lo que está aquí es falso, el límite no lo arregla. Un error decla
 Y por eso esta página no dice «es lo mejor que se pudo». Dice qué falta, y punto.
 
 ---
+
+## Lo visto
+
+Que todo lo que aquí no se probó está dicho antes de que alguien lo descubra.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

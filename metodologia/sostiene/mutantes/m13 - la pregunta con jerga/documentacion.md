@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 13 — la pregunta con jerga
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

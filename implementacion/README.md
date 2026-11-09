@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # `implementacion/`
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -43,3 +44,12 @@ Lo que sabe hacer no está en una lista: está en [`la obra/funcionamiento ente/
 ---
 
 Falsificador: una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.
+
+---
+
+## Lo visto
+
+Que lo que sabe hacer un ente no está en una lista, y que el stack se elige y se cambia.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

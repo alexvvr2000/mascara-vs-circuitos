@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El stack, del usuario
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -60,3 +61,12 @@ Y el manual de cómo se cambia cada pieza está en [README.md](README.md).
 ## Falsificador
 
 Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba y nunca se buscó. La señal, en el acto: alguien va a instalarlo y la pieza ya no se llama así.
+
+---
+
+## Lo visto
+
+Que la tabla del stack se llena a mano, y que el motor es gusto y el grafo no.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

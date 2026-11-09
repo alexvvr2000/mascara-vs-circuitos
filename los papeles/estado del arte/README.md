@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Estado del arte
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -275,6 +276,12 @@ Y lo que esto significa, dicho sin rodeos: las columnas de «qué guarda» salen
 Y falta el renglón que importa: ninguna de estas fuentes la leyó el autor de este repositorio. Las buscó un agente, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes. Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.
 
 ---
+
+## Lo visto
+
+Que hay trabajos antes de éste, y que ninguno se leyó entero para comparar.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

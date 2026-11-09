@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Lo que está fuera
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -269,6 +270,12 @@ Los artistas darán la razón en esto. Y quien haya trabajado con alguien bueno 
 Nadie llega solo a un trabajo que aguanta. Y lo que este repositorio muestra, con sus fallas, es que el que llega solo y se queda solo no aguanta: el que aguanta es el que se dejó corregir por alguien más.
 
 ---
+
+## Lo visto
+
+Que el renglón alucinado era el del sujeto, y el sujeto no era quien parecía.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Lo que queda por hacer
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -117,6 +118,12 @@ Porque la información no escasea. Está en todas partes, y el problema nunca fu
 Y de eso trata todo lo demás de este repositorio.
 
 ---
+
+## Lo visto
+
+Que la forma de guardar es lineal y lo guardado no, y que el índice nació de ahí.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

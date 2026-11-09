@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El piso del repositorio
 
 **Qué hay, dónde está y en qué estado, para que quien llegue a pulir no tenga que adivinar.**
@@ -132,3 +133,12 @@ la historia                  se lee como una cadena, y los cuatro últimos son e
 ## Falsificador
 
 **Un piso que no se puede volver a sacar con un comando**; **uno que dice «todo bien» cuando algún enlace está roto o algún conteo quedó viejo**; **y uno que esconde en su propia lista la única cosa que falta, cuando la lista es justo lo que prometía no tener.**
+
+---
+
+## Lo visto
+
+Que el estado del repositorio se saca de un comando, y que lo que falta está escrito en vez de en la cabeza.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

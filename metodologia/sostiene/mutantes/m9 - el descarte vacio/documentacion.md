@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 9 — el descarte vacío
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

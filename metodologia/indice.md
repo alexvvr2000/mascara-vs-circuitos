@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El índice de las corridas
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -65,3 +66,12 @@ Un segundo listado aquí parecería el mismo dato, y no lo es: es otro. Cuando u
 ---
 
 Falsificador: un índice que se llena con resúmenes en vez de una línea. La señal, en el acto: el índice deja de caber en una pantalla.
+
+---
+
+## Lo visto
+
+Que una línea por corrida basta, y que si hacen falta dos, la corrida no está bien contada.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

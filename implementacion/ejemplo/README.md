@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # `ejemplo/`
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -60,3 +61,12 @@ Si eso aguanta, el techo deja de ser lo que cuesta el modelo y pasa a ser el cri
 ---
 
 Falsificador: una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.
+
+---
+
+## Lo visto
+
+Que el ejemplo corre, y que lo que no se midió se dice que no se midió.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

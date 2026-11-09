@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 6 — el ensayo sostiene lo que propone
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

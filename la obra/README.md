@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # La posición, en lista
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -202,6 +203,12 @@ Este trabajo no pide que se le crea. Pide que se le use y se le refute. Cada afi
 3. Probar el método en otro dominio y traer el resultado. Lo que no sirve es discutir el ánimo: si el trabajo se cae, se cae por su prueba o por su falsificador, y no por su tono.
 
 ---
+
+## Lo visto
+
+Que ninguna de estas ideas la probó alguien que no sea el autor, y que las que traen corrida la tienen nombrada en su ensayo.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

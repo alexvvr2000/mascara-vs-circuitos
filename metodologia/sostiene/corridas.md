@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Las corridas, en un solo archivo
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -168,6 +169,12 @@ Su cuenta, por corrida, vive en [indice.md](../indice.md), y ahí se hace la res
 Y lo que sí se toma de ahí, porque es de aquí también: trece de los catorce mutantes nacieron después de esas dieciocho corridas, y el ejemplo de cada uno es un caso que una corrida dejó escrito. El mutante no se inventa: se saca de la regla y se prueba con el caso.
 
 ---
+
+## Lo visto
+
+Que las catorce familias se corrieron, y que las que no tienen mutante lo dicen en vez de contarse.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

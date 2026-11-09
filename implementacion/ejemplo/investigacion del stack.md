@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Lo que `DSH` y `graphdblite` hacen, y qué se puede explotar
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -223,3 +224,12 @@ Y lo que sí se probó, se probó con la salida a la vista.
 ---
 
 Falsificador: un skill con el frontmatter escrito que el motor no lista; un hook que no niega lo que dice negar; o un recorrido en `graphdblite` que tarda lo mismo que escanear a mano. Ninguno de los tres se probó aquí.
+
+---
+
+## Lo visto
+
+Que el motor hace lo que el ente no tiene que hacer, y que el ente pone el criterio.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

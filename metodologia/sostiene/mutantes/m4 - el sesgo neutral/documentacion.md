@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 4 — el sesgo neutral
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

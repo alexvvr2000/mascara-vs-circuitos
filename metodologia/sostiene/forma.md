@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # La forma de la aserción
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -145,6 +146,12 @@ BUILD CAIDO   · k fallos · H1 a · ENLACE b · NUMERO c · FORMA d
 ```
 
 ---
+
+## Lo visto
+
+Que un repositorio que crece por añadir ensayos se mantiene con cuatro reglas, y no con memoria.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

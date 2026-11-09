@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Empatía
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -181,6 +182,12 @@ Sin eso, el criterio del §VI no tiene sobre qué ser criterio: solo sabe por qu
 Y un ente sin propósito no es un ente más rápido: es un martillo que se mueve mucho. Y lo que lo distingue de un martillo no es la potencia: es que puede decir para qué existió lo que hizo.
 
 ---
+
+## Lo visto
+
+Que una máquina no se detiene a preguntar: donde le falta el porqué, rellena.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

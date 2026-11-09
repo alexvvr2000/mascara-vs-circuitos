@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 3 — el borde guarda
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

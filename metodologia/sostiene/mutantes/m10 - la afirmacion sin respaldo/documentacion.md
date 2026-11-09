@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Mutante 10 — la afirmación sin respaldo
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->

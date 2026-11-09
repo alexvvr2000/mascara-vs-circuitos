@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El stack, del autor
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -52,3 +53,12 @@ Y una sola cosa no se elige por gusto, porque es la única que no lo es: la base
 ## Falsificador
 
 Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba y nunca se buscó. La señal, en el acto: alguien va a instalarlo y la pieza ya no se llama así.
+
+---
+
+## Lo visto
+
+Que la tabla del stack la llena una persona, y que la base de grafos es lo único que no es gusto.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

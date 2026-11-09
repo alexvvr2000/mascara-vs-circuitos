@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ver si se sostiene
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -51,3 +52,12 @@ Y la regla que impide que se contradigan: si el texto y `corridas.md` dicen cosa
 ---
 
 Falsificador: un README que repite lo que ya está en el método, y envejece a su lado. Y su contrario: uno que no dice dónde está nada, y obliga a abrirlo todo para saber por dónde empezar.
+
+---
+
+## Lo visto
+
+Que lo que la obra afirma se puede romper a propósito, y que lo que sobrevive queda nombrado.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+

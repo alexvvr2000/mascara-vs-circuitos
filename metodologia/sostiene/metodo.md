@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El método entero
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -567,6 +568,12 @@ y los números son de       corridas.md. este archivo no cuenta mutantes
 Y la regla que impide que los dos archivos digan cosas distintas: si este archivo y `corridas.md` se contradicen, gana `corridas.md`, y este archivo se corrige un solo renglón de ese lado, con la fecha.
 
 ---
+
+## Lo visto
+
+Que una regla rota a propósito dice si tenía dientes, y que el que la rompió fue quien la escribió.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

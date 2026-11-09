@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # La regla: el stack muta cuando los ensayos mutan
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -83,3 +84,12 @@ Y lo que el registro deja a la vista, y es cierto hoy: ningún cambio de stack h
 Un stack que no se miró después de veinte corridas, presentado como actualizado.
 
 Y el más probable: cambiarlo en cada corrida, por parecer fino, y terminar con un stack que nadie puede reproducir porque cambió veinte veces sin que nadie apuntara por qué.
+
+---
+
+## Lo visto
+
+Que el stack se puede cambiar sin perder lo que hace al ente ser lo que es.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
