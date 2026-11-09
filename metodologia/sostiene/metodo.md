@@ -2,7 +2,9 @@
 
 **Cómo se prueba una regla de estos ensayos: la regla, el mutante, la tarea que lo corre, el banco donde queda, el resultado que se apunta, y de dónde salió cada pieza.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08.**
+**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-09.**
+
+**Y el corte entre este archivo y [`forma.md`](forma.md), que es de un renglón:** **`forma.md` dice qué forma tiene un ensayo y cómo la comprueba el build.** **Éste dice cómo se prueba lo que el ensayo afirma.** **Se necesitan los dos: sin forma, el mutante no sabe qué romper; sin método, la forma sólo dice que el texto está bien escrito.**
 
 > **Este archivo es el método B, entero, y es el único.** **Antes eran cuatro —`README.md`, `las reglas.md`, `los mutantes.md` y `corridas/`—, y decían lo mismo tres veces, con números que no cuadraban entre sí.** **Los cuatro están guardados en [`historia/`](../historia/), del 06 al 09, y de ahí en adelante manda éste.**
 >

@@ -68,4 +68,12 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
 
 ---
 
+## Y el órgano que deja crecer la obra sin tocarla
+
+**La obra se corrige sola con un comando, no con memoria: [`build.py`](../build.py) comprueba cuatro reglas —el título, los enlaces, las citas por número, y la forma— y se cae con el archivo y el renglón.**
+
+**Y la forma, con su porqué y con lo que el build no comprueba, está en [`sostiene/forma.md`](sostiene/forma.md).** **Sin los números en los títulos, insertar un ensayo deja de ser un mantenimiento: es un renombrado, y el build dice si algo quedó citando al que se movió.**
+
+---
+
 **Falsificador:** **una metodología con un método solo.** **Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió.**
