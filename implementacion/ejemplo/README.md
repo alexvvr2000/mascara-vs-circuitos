@@ -15,9 +15,9 @@ El ente, con el stack que eligió quien mantiene este repositorio. Se copia a un
 | el catálogo | `dshmarket` |
 | la base | `graphdblite`, un archivo |
 
-Y la base no es un gusto como las otras dos. El índice es un grafo con tres relaciones, y la consulta que más se va a hacer es por dónde se llega de un tema a otro. Un recorrido largo no se escribe en SQL: se escribe con `shortestPath`.
+La base, en cambio, no es un gusto como las otras dos: el índice es un grafo con tres relaciones, y la consulta que más se va a hacer es por dónde se llega de un tema a otro. Un recorrido largo no se escribe en SQL; se escribe con `shortestPath`.
 
-Lo que la base no hace: `graphdblite` no valida nada. Las reglas del registro viven en el script que escribe.
+Lo que la base no hace es validar nada: las reglas del registro viven en el script que escribe.
 
 La tabla está en [stack.md](stack.md), y lo medido en [investigacion del stack.md](investigacion%20del%20stack.md).
 
@@ -40,23 +40,21 @@ Cuál va dónde:
 
 > Si tiene que pasar siempre, es un hook. Si necesita juicio, es un skill. Si es frágil, es un script. Y si es una regla que se lee y se obedece, va en la puerta.
 
-Una instrucción se puede saltar; un hook no.
+Una instrucción se puede saltar, y un hook no: por eso lo que no admite excusa va en el hook, aunque suene mejor en la puerta.
 
 ---
 
 ## Lo que el ente busca solo
 
-En `dshmarket`, lo que no sabe hacer. No pregunta antes: si encuentra, lo propone.
+En `dshmarket`, lo que no sabe hacer, y no pregunta antes: si encuentra, lo propone.
 
-Y la regla que evita la trampa: el catálogo resuelve comodidad, no necesidad. Un ente no necesita instalar nada para funcionar.
+La regla que evita la trampa: el catálogo resuelve comodidad, no necesidad. Un ente no necesita instalar nada para funcionar.
 
 ---
 
 ## Y lo que se prueba con esto
 
-Que el criterio es del ente y el sesgo es del cuerpo.
-
-Si eso aguanta, el techo deja de ser lo que cuesta el modelo y pasa a ser el criterio que lo acompaña. Encontrar el cuerpo cuyos sesgos se ajustan, y cambiarlo sin perder la identidad.
+Que el criterio es del ente y el sesgo es del cuerpo. Si eso aguanta, el techo deja de ser lo que cuesta el modelo y pasa a ser el criterio que lo acompaña: encontrar el cuerpo cuyos sesgos se ajustan, y cambiarlo sin perder la identidad.
 
 ---
 
