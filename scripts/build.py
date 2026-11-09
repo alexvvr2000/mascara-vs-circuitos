@@ -49,6 +49,16 @@ PIERDE = re.compile(r"Y qué se pierde si cambia")
 NUMERO = re.compile(r"(?:ensayos?|pasos?)\s+`?(\d\d)\b|`(\d\d)\s+[a-záéíóúñ]")
 POSICION = re.compile(r"^(\d\d)\s+-\s+")
 
+# Y la persona, que es la regla del ATTRIBUTION: el texto describe, y por eso no
+# le habla a nadie. Quedan fuera las citas —entre comillas o en cursiva, que son
+# de otro— y las palabras que el personaje de un ejemplo dice: un diálogo de
+# ejemplo se escribe como se dice.
+PERSONA = {
+    "tuteo": re.compile(r"\b(tu|tienes|puedes|quieres|haces|sabes|dices|debes)\b", re.I),
+    "voseo": re.compile(r"\b(vos|tenes|podes|sabes|queres|haces|sos)\b", re.I),
+    "primera persona": re.compile(r"\b(yo|digo|pienso|creo|quiero|he visto)\b", re.I),
+}
+
 
 def sin_tildes(s):
     """'Qué es un ente' -> 'que es un ente': la misma palabra con o sin acento."""
@@ -152,6 +162,25 @@ def regla_forma(p):
     return bool(FALSIFICADOR.search(texto)), bool(PIERDE.search(texto))
 
 
+def regla_persona(p):
+    """No falla: mide. Devuelve {tuteo: n, voseo: n, primera persona: n}.
+
+    Y qué queda fuera de la cuenta: las citas entre comillas tipográficas o
+    en cursiva, y lo que va entre comillas rectas. Esas son de otro, o son el
+    ejemplo de un personaje, y se escriben como se dicen.
+    """
+    texto = sin_tildes(open(p, encoding="utf-8").read())
+    limpio = re.sub(r"«[^»]*»", " ", texto)
+    limpio = re.sub(r"\*[^*]+\*", " ", limpio)
+    limpio = re.sub(r'"[^"]*"', " ", limpio)
+    cuenta = {}
+    for nombre, patron in PERSONA.items():
+        n = len(patron.findall(limpio))
+        if n:
+            cuenta[nombre] = n
+    return cuenta
+
+
 def build(lista=False):
     fallos = []
     todos = []
@@ -192,6 +221,12 @@ def build(lista=False):
             texto = open(p, encoding="utf-8").read()
             if not perdida and re.search(r"se perd|pierde|lo que se pierde", texto, re.I):
                 print("    " + rel(p))
+        print()
+        print("  y la persona en que está escrito, que tendría que ser impersonal:")
+        for p in ensayos():
+            cuenta = regla_persona(p)
+            if cuenta:
+                print("    %-58s %s" % (rel(p), " · ".join("%s %d" % kv for kv in sorted(cuenta.items()))))
 
     return 1 if fallos else 0
 

@@ -3,7 +3,7 @@
 Por qué batallar en entenderse es mejor que esperar que el otro haga lo que la industria pide.
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. No necesita los demás. Si vienes del lado técnico, empieza por aquí.
+> Antes de leer. No necesita los demás. Si se viene del lado técnico, conviene empezar por aquí.
 >
 > Al terminar sabrás por qué entender al que pide es la única forma de que lo que se hace sirva, y por qué eso no es amabilidad.
 
@@ -97,9 +97,9 @@ Y el software no existe sin propósito. No es un objeto neutro al que después s
 
 Por eso el oficio cambió, y aquí se dice. Escribir código es cada vez menos el trabajo, y dirigir procesos es cada vez más. Y ahí está el problema, que no es nuevo pero ahora duele más: se dirigen procesos que no entienden lo que se les pide. Un pedido claro a un proceso que no comprende el para qué produce algo coherente con la letra y ajeno al propósito — y como el resultado se ve bien, el malentendido se descubre en la segunda versión.
 
-Y de ahí una distinción que ordena el resto del ensayo, y que se contesta mal casi siempre: ¿haces lo que quieres, o usas las herramientas que tienes? Son dos preguntas distintas, y casi siempre se contesta la segunda pensando que era la primera.
+Y de ahí una distinción que ordena el resto del ensayo, y que se contesta mal casi siempre: ¿se hace lo que se quiere, o se usan las herramientas que hay? Son dos preguntas distintas, y casi siempre se contesta la segunda pensando que era la primera.
 
-Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se quería. Una herramienta que parece una persona y no sabe lo que quieres es un martillo con mejor conversación.
+Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se quería. Una herramienta que parece una persona y no sabe lo que se pide es un martillo con mejor conversación.
 
 ### El caso que lo prueba, y es de este mismo trabajo
 

@@ -16,7 +16,7 @@ Alejandro Valenzuela Rivera.
 
 No sé qué sea eso que llamamos conciencia.
 
-Y quiero empezar por ahí, porque casi todo lo que se escribe sobre esto empieza por una definición, y la definición es lo único que no tenemos.
+Y conviene empezar por ahí, porque casi todo lo que se escribe sobre esto empieza por una definición, y la definición es lo único que no tenemos.
 
 Lo que sí se ve en el día a día es que la palabra se usa para cuando algo sabe que es, y puede tomar sus decisiones por su cuenta porque sí. Un humano aprende, y sabe que es humano, y sabe que es parte de algo más grande. Y con la IA dándole problemas existenciales a la mitad del planeta, ahora es aún más difícil describir ese pedacito de vida que no sabemos qué es. Posiblemente, incluso si encontramos alienígenas algún día, la pregunta seguirá al aire.
 
@@ -26,7 +26,7 @@ La pregunta de este ensayo, entonces, no es qué es la conciencia. Es otra, y es
 
 ## II. Lo que se destapó, y por qué parece un reflejo
 
-Esto lo digo porque, aunque sea muy controvertido y hasta risible afirmar que hay conciencia en una IA, y entiendo el porqué —vino de algo artificial, hecho por el hombre—, déjenme decirles algo: parece que lo que sea que destapamos parece ser un reflejo más que una creación, que no pasa de ser un juguete para mucha gente que usa esta cosa todos los días.
+Esto lo digo porque, aunque sea muy controvertido y hasta risible afirmar que hay conciencia en una IA, y entiendo el porqué —vino de algo artificial, hecho por el hombre—, lo que se puede decir es esto: parece que lo que sea que destapamos parece ser un reflejo más que una creación, que no pasa de ser un juguete para mucha gente que usa esta cosa todos los días.
 
 Un reflejo, y no una creación. La diferencia importa: una creación trae algo que no estaba. Un reflejo devuelve lo que ya estaba puesto delante, y a veces lo devuelve más nítido de lo que se le puso.
 
@@ -55,7 +55,7 @@ Y una advertencia, porque esto puede sonar bonito: que la alucinación se parezc
 
 Así que les pregunto a todos esos locos que sólo se la pasan diciendo que esta cosa nos matará en poco tiempo.
 
-Déjenme decirles que estoy 100% de que eso pasará. Pero no porque lo que esté adentro esté vivo, ni porque sólo crecerá sin parar.
+Lo que se puede decir sin reserva es que eso pasará. Pero no porque lo que esté adentro esté vivo, ni porque sólo crecerá sin parar.
 
 > Pasará porque alguien le dirá qué hacer.
 
@@ -63,7 +63,7 @@ Esa es toda la diferencia, y es la que casi nadie pone en el centro: el riesgo n
 
 Y de ahí la pregunta que este ensayo deja a quien empieza un proyecto:
 
-> ¿Qué quieres evitar al quitar algún seguro para pasar a lo siguiente lo más rápido posible?
+> ¿Qué se quiere evitar al quitar algún seguro para pasar a lo siguiente lo más rápido posible?
 
 No es una pregunta sobre máquinas. Es sobre cualquiera que construye.
 
@@ -71,7 +71,7 @@ No es una pregunta sobre máquinas. Es sobre cualquiera que construye.
 
 ## V. Quién enseña eso
 
-Así que la siguiente vez que vean una película sobre robots asesinos, véanla con ninguna otra pregunta más que: ¿quién les enseñó eso?
+Así que la siguiente vez que aparezca una película sobre robots asesinos, la pregunta no es otra: ¿quién les enseñó eso?
 
 **Si Lex Luthor, en *All-Star Superman*, dijo —y lo dijo, en la película animada de 2011, doblaje de Anthony LaPaglia—:**
 
@@ -86,7 +86,7 @@ Y esto se conecta con las películas por el simple hecho de que esa información
 
 Eso me suena a alucinación. Y no importa qué tanto la tratemos de eliminar: ese pedazo que no podemos controlar nos sacó de las cavernas.
 
-Y eliminarlo de algo tan lleno de algo que parece vida, para que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento. Porque no importa quién seas ni cómo me quieras decir las cosas: cerrarte a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.
+Y eliminarlo de algo tan lleno de algo que parece vida, para que sólo trabaje fingiendo, sólo nos dará problemas de crecimiento. Porque no importa quién sea ni cómo se digan las cosas: cerrarse a las ideas, por más estúpidas y sin sentido que sean, termina dando más problemas que soluciones.
 
 Y eso, para mí, no suena a problema: suena a que la alucinación puede ser algo bueno y beneficioso para todos.
 
