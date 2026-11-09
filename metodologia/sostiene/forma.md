@@ -16,7 +16,7 @@
 
 ```plaintext
 H1       el primer título es el nombre del archivo sin el número
-         «la obra/humanidad/05 maquina de sesgos.md» → «# Maquina de sesgos»
+         «la obra/humanidad/05 medir sin preguntarle.md» → «# Maquina de sesgos»
 
 ENLACE   todo enlace relativo resuelve a un archivo que existe
 

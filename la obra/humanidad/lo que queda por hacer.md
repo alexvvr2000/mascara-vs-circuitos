@@ -1,4 +1,4 @@
-# Medición de talentos
+# Lo que queda por hacer
 
 **Lo que este trabajo no puede probar, y por qué aun así se publica.**
 
@@ -138,3 +138,14 @@ Y lo que esta tabla no dice, y es lo más importante de esta página: este ensay
 ---
 
 **Falsificador:** una afirmación de este ensayo que no se pueda escribir como condición — **porque si algo no se puede decir como "si esto, entonces aquello", no es una conclusión: es un estado de ánimo**; y **un estado de `ALAS` que se presente como probado cuando no lo está.**
+
+---
+
+## Y qué se pierde si cambia
+
+**Si se promete que la máquina de sesgos va a llegar, se pierde lo único sostenible de este ensayo: que hoy no está probada, y que aun así vale la pena dejar el registro limpio para quien pueda.**
+
+**Si se retira la distinción entre lo lineal y lo guardado, se pierde la razón por la que existe el índice, y con ella el motivo de que haya tres relaciones y no una lista.**
+
+**Y si se oculta el límite de la carne, se pierde el ensayo: lo que aquí se sostiene no es que la máquina resuelva todo, sino que lo que no puede resolver esta criatura queda escrito de forma que otra lo pueda tomar.**
+

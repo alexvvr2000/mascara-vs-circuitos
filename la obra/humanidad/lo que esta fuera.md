@@ -1,4 +1,4 @@
-# Conciencia
+# Lo que está fuera
 
 Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no parece un defecto, y dónde se la puede estar buscando.
 
@@ -304,3 +304,14 @@ Y el límite, en una línea: este ensayo no afirma ni niega que un ente sea cons
 ---
 
 **Falsificador:** un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.** Y el de lo que se dice al final, que no es una tesis sobre las máquinas: **una persona que construye un método para no tener que pensar, y que igual produce algo que alguien más quiere usar.** **Si eso existe, el esfuerzo no era lo que hacía falta.**
+
+---
+
+## Y qué se pierde si cambia
+
+**Si se vuelve a buscar la conciencia adentro, se pierde lo único que se puede revisar: el archivo.** **Lo de dentro no tiene instrumento; lo de fuera se abre y se lee, y esa es la diferencia entre una creencia y un lugar al que se puede ir.**
+
+**Y si se afirma que una máquina es consciente, o que no lo es, se pierde el ensayo entero: lo que aquí se sostiene no es una respuesta sobre el interior, sino una regla sobre dónde buscar.**
+
+**Y si se retira la prueba del renglón alucinado —el que se confundió de sujeto—, se pierde el argumento más limpio que hay aquí: que lo que está fuera se pudo corregir, y lo que está adentro nadie lo vio.**
+

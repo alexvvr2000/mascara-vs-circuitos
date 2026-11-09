@@ -202,3 +202,14 @@ Y el límite, que este ensayo declara y sostiene: la prueba con una persona real
 ---
 
 **Falsificador:** una herramienta que optimiza su propio costo y llama a eso eficiencia, cuando el costo que ahorró lo pagaba el lector; un pedido que solo se puede obedecer; un ente que no puede contradecir; un resultado coherente con la letra y ajeno al propósito; un estándar seguido sin saber si era el que hacía falta; una herramienta potente usada sin saber para qué; y un proceso dirigido sin que nadie sepa qué quería la persona que lo pidió.
+
+---
+
+## Y qué se pierde si cambia
+
+**Si la empatía se saca del método, se pierde lo que la distingue de la amabilidad: que se puede revisar.** **Una herramienta que no pregunta no se equivoca menos: se equivoca más tarde, cuando ya nadie puede contestar.**
+
+**Y si se conserva como virtud y no como trabajo, se pierde lo único que la hace aplicable a una máquina: alguien tiene que decir qué le cuesta al otro, porque la máquina no lo va a sentir.** **Quitar ese renglón deja la empatía como un deseo, y un deseo no se corre.**
+
+**Y lo que no se gana al recuperarla, y se dice:** **velocidad.** **Entender antes cuesta al principio, y se paga en la primera versión.**
+
