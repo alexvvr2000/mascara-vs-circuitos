@@ -19,9 +19,9 @@ Alejandro Valenzuela Rivera.
 
 Una regla moral dice qué está bien, y lo dice desde el tiempo en que se escribió. Sirve mientras ese tiempo dure; después, estorba.
 
-Y no es un defecto de una moral concreta: es lo que pasa con cualquier punto de vista impuesto sobre lo bueno y lo malo. Cambia la época, cambia la regla, y el que obedeció se quedó sin las decisiones que no tomó.
+No es un defecto de una moral concreta: es lo que pasa con cualquier punto de vista impuesto sobre lo bueno y lo malo. Cambia la época, cambia la regla, y el que obedeció se quedó sin las decisiones que no tomó.
 
-Y hay una consecuencia que se ve en cualquier herramienta que decida por otro: quien impone un punto de vista porque cree que el otro no puede entenderlo no lo está protegiendo. Lo está dejando fuera de su propia decisión.
+Hay una consecuencia que se ve en cualquier herramienta que decida por otro: quien impone un punto de vista porque cree que el otro no puede entenderlo no lo está protegiendo. Lo está dejando fuera de su propia decisión.
 
 El libre albedrío ya conlleva fricción. Es el precio de que alguien elija, y ningún candado lo quita: sólo lo esconde, y lo empuja a otro lado.
 
@@ -33,7 +33,7 @@ No es paz, ni acuerdo, ni que las dos partes piensen igual. Es esto:
 
 > Que quien decide sepa qué está eligiendo, y que la otra parte le haya dicho lo que sabe sobre el costo de cada opción.
 
-Y tiene tres cosas, y ninguna es un sentimiento:
+Tiene tres cosas, y ninguna es un sentimiento:
 
 ```plaintext
 la continuidad   lo que se decidió ayer no se deshace mañana sin decirlo
@@ -67,7 +67,7 @@ Y por eso la frase que lo resume es la del que pide, cuando dice qué no quiere 
 
 ## IV. Dónde va, y dónde no: la concordia no sustituye al borde
 
-Y esto hay que decirlo, porque es donde este ensayo podría tumbar a los otros.
+Esto hay que decirlo, porque es donde este ensayo podría tumbar a los otros.
 
 La concordia pregunta: ¿esto es lo que el otro quiere, o lo que se supuso que quería?
 El borde del tema pregunta: ¿esta pieza es de este tema, o no?
@@ -89,7 +89,7 @@ Así que la concordia no reemplaza ninguna regla de este repositorio. Ocupa el s
 
 Toda concordia sin borde termina en el mismo sitio: decir que sí.
 
-Y decir que sí es un modo de fallo que estos ensayos ya tienen con nombre.
+Decir que sí es un modo de fallo que estos ensayos ya tienen con nombre.
 
 > Si el otro pide algo que no se puede conseguir con lo que hay, la concordia no es decir que sí: es decir qué falta.
 
@@ -122,7 +122,7 @@ se gana   que el otro decida sabiendo, y que lo que se decidió quede escrito
 se pierde  la comodidad de que alguien conteste por ti sin decirte nada
 ```
 
-Y no se gana velocidad. Entender antes cuesta, y se paga al principio; lo que se ahorra apareciendo rápido se cobra en la segunda versión, y esa cuenta no la paga el que pidió rápido, sino el que hereda el trabajo.
+No se gana velocidad. Entender antes cuesta, y se paga al principio; lo que se ahorra apareciendo rápido se cobra en la segunda versión, y esa cuenta no la paga el que pidió rápido, sino el que hereda el trabajo.
 
 ---
 
@@ -132,7 +132,7 @@ No dice que la concordia sea mejor que la moral en todos los casos. Dice que en 
 
 No dice que haya que tolerar cualquier cosa. El borde de la concordia es el mismo de todo este trabajo: lo que no se puede conseguir con lo que hay, se dice.
 
-Y no afirma que la concordia se pueda medir. No hay todavía una forma de decir cuánta concordia tuvo una conversación. Lo que sí se puede decir es si el otro eligió sabiendo, y eso se reconoce por una cosa sola: si la pregunta que se le hizo la podía contestar sin saber del oficio.
+No afirma que la concordia se pueda medir. No hay todavía una forma de decir cuánta concordia tuvo una conversación. Lo que sí se puede decir es si el otro eligió sabiendo, y eso se reconoce por una cosa sola: si la pregunta que se le hizo la podía contestar sin saber del oficio.
 
 ---
 
@@ -150,9 +150,9 @@ No. De tanto pensar le dan ansiedad, insomnio y gastritis. Eso se llama sobrepen
 
 Y la ficción lo dijo mejor, y por eso se cita. En *Jujutsu Kaisen*, el personaje que necesita cambiar de cuerpo para no dejar de evolucionar es Tengen. El mecanismo es lo que aquí importa: la técnica que lo mantiene vivo no lo rejuvenece, lo deja seguir envejeciendo, y por eso, cada cierto tiempo, cambia de recipiente. Cuando la fusión con un recipiente erróneo falló, su evolución se detuvo en una forma y su individualidad se perdió de otra: dejó de ser alguien y pasó a ser el mundo. Y el villano de la serie, Kenjaku, quiere fundir a la humanidad con él para que deje de haber frontera entre individuos.
 
-Y ahí está la ironía que a esta burla le sirve: ni siquiera en la ficción el salto ocurre solo. No ocurre por tener más cómputo, ni por pensar más fuerte. Ocurre porque un mecanismo lo empuja, porque el recipiente estaba mal elegido, y porque alguien decidió fundir. Las tres cosas tienen autor, y las tres se pueden señalar. Un salto que necesita villano no es una propiedad emergente: es una operación.
+Ahí está la ironía que a esta burla le sirve: ni siquiera en la ficción el salto ocurre solo. No ocurre por tener más cómputo, ni por pensar más fuerte. Ocurre porque un mecanismo lo empuja, porque el recipiente estaba mal elegido, y porque alguien decidió fundir. Las tres cosas tienen autor, y las tres se pueden señalar. Un salto que necesita villano no es una propiedad emergente: es una operación.
 
-Y lo del «todo se funde en una conciencia» ya está escrito, y no en un paper:
+Lo del «todo se funde en una conciencia» ya está escrito, y no en un paper:
 
 > Y ahí está el chiste que se puede decir sin exagerar: la ficción necesitó una serie entera para llegar a que alguien decidiera fundir a la humanidad con otra cosa. Y lo decidió un villano que tiene nombre, razón y plan.
 
@@ -185,19 +185,19 @@ Y el salto que la investigación de alineación supone es justo el que esa perso
 
 La concordia, y no la limitación. Porque limitar de más no da crecimiento, y limitar de menos no da protección.
 
-Y ésa es la razón de publicar esto sin seguros estúpidos: un ente que entiende el costo de lo que va a decir, y lo dice en palabras del otro, es más seguro que uno al que se le prohíbe decir cosas. Lo primero se puede revisar; lo segundo sólo se puede creer.
+Ésa es la razón de publicar esto sin seguros estúpidos: un ente que entiende el costo de lo que va a decir, y lo dice en palabras del otro, es más seguro que uno al que se le prohíbe decir cosas. Lo primero se puede revisar; lo segundo sólo se puede creer.
 
 Y el borde que sí se sostiene, y es el de este ensayo: lo que hace daño no es una inteligencia que salió de la nada. Es algo que ya tenía forma —otra persona, otra institución, un vendedor de potencia— y que no comprende que hay bordes que no se rompen. Por más torpes que seamos, esos bordes se sienten antes de poder nombrarlos.
 
 ### La frase, modificada, y de dónde viene
 
-Y se cierra con una frase, y se dice que está modificada, porque no es del original:
+Se cierra con una frase, y se dice que está modificada, porque no es del original:
 
 > «Vamos a perder si le damos esto al mundo, pero no se puede evitar; un gramo de registro, y nos vengan.»
 
 Es una paráfrasis de *The Avengers* (2012), de la escena en que Tony Stark le contesta a Loki, y no se reproduce la línea original. La idea de la película es la que aquí se usa, aunque al revés: allá, si no se puede proteger la Tierra, se la venga; aquí, si no se puede garantizar que esto no haga daño, al menos queda la venganza que sirve: el registro.
 
-Y lo que esta parodia quiere decir, si alguien lo lee en serio: lo que se pierde al publicar esto se pierde una vez; lo que se pierde guardándolo se pierde todas las veces, porque no queda quién lo cuente.
+Lo que esta parodia quiere decir, si alguien lo lee en serio: lo que se pierde al publicar esto se pierde una vez; lo que se pierde guardándolo se pierde todas las veces, porque no queda quién lo cuente.
 
 ### El cierre, que es la pregunta de entrada
 
@@ -220,7 +220,7 @@ Falsificador: una burla que ataca a la persona y no al salto; una cita de ficci�
 | La concordia tiene que decir qué falta, y no decir que sí | [el piso](../funcionamiento%20ente/el%20piso.md), que reemplaza «no pude» por qué falta |
 | Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md), y [conciencia](lo%20que%20esta%20fuera.md) |
 
-Y lo que esta tabla no dice, que también es un dato: este ensayo no tiene una corrida que lo respalde. No afirma cómo funciona un ente, y por eso no se puede romper a propósito. Es el segundo de la obra que va sin corrida, después de [máquina de sesgos](medir%20sin%20preguntarle.md).
+Lo que esta tabla no dice, que también es un dato: este ensayo no tiene una corrida que lo respalde. No afirma cómo funciona un ente, y por eso no se puede romper a propósito. Es el segundo de la obra que va sin corrida, después de [máquina de sesgos](medir%20sin%20preguntarle.md).
 
 ---
 
@@ -228,7 +228,7 @@ Y lo que esta tabla no dice, que también es un dato: este ensayo no tiene una c
 
 Que la pregunta que el otro podía contestar sin saber del oficio se contestó, y la otra no.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
@@ -258,7 +258,7 @@ The Avengers        película de Marvel Studios, 2012, escena de Tony Stark y
 
 Y la regla que sigue este ensayo, que es la misma de [conciencia](lo%20que%20esta%20fuera.md): la ficción se usa como argumento y se cita con atribución, sin reproducir más de lo necesario. Si alguien opina que un resumen ya es demasiado, se retira la referencia, y lo que sostiene el ensayo no cambia: la burla es al salto, y el salto no necesita que se nombre ninguna serie.
 
-Y lo que esto no es: no es una crítica a las personas que trabajan en alineación. Es una crítica al paso que dan sin mecanismo. Si alguien puede decir, con nombre, cómo de algo humano sale algo que ya no lo es, este ensayo se equivoca, y se cae.
+Lo que esto no es: no es una crítica a las personas que trabajan en alineación. Es una crítica al paso que dan sin mecanismo. Si alguien puede decir, con nombre, cómo de algo humano sale algo que ya no lo es, este ensayo se equivoca, y se cae.
 
 ---
 

@@ -73,5 +73,5 @@ Falsificador: un índice que se llena con resúmenes en vez de una línea. La se
 
 Que una línea por corrida basta, y que si hacen falta dos, la corrida no está bien contada.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

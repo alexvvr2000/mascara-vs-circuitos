@@ -23,7 +23,7 @@ tema 3  «el debate»           casi → se pregunta
 tema 4  «la entrevista»       persona
 ```
 
-Y cinco piezas, buscadas una por una.
+Cinco piezas, buscadas una por una.
 
 ---
 
@@ -39,7 +39,7 @@ Y la razón es del diseño, no del script: un borde con «el campo X es Y» solo
 
 Así que el `y si duda` con sus tres valores se puede escribir, guardar y validar, y no se ejecuta nunca.
 
-Y lo que había escrito en el ensayo el día anterior —«el borde puede decir no sé»— era falso en la práctica. Lo escribí porque sonaba bien, y lo di por probado sin correrlo.
+Lo que había escrito en el ensayo el día anterior —«el borde puede decir no sé»— era falso en la práctica. Lo escribí porque sonaba bien, y lo di por probado sin correrlo.
 
 ### 2. El tema de persona seguía siendo un cajón
 

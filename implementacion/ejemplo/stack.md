@@ -17,7 +17,7 @@ Las piezas cambian de versión, cada una tiene su forma de instalarse, y la que 
 
 > Cada renglón se llena después de buscar en internet lo que se instala hoy, y no se llena con lo que se recuerda.
 
-Y qué buscar antes de cada uno:
+Qué buscar antes de cada uno:
 
 | El renglón | Qué hay que buscar, y no suponer |
 |---|---|
@@ -60,5 +60,5 @@ Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba 
 
 Que la tabla del stack la llena una persona, y que la base de grafos es lo único que no es gusto.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera · el ente.
 >
 > Y lo corre el ente, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.
 
-Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las catorce están en `corridas/`, y se pueden abrir y correr.
+Esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las catorce están en `corridas/`, y se pueden abrir y correr.
 
 ---
 
@@ -17,7 +17,7 @@ Y esto se escribió después de usarlo seis veces, y se ha corregido con las cor
 
 Un ensayo se puede leer entero, entenderse, y estar incompleto.
 
-Y no se nota, porque el que lo lee rellena. Cuando falta una pieza, el lector no duda: sigue, y pone la que le parece. Y el ensayo se ve bien porque nadie lo ejecutó.
+No se nota, porque el que lo lee rellena. Cuando falta una pieza, el lector no duda: sigue, y pone la que le parece. Y el ensayo se ve bien porque nadie lo ejecutó.
 
 Con una IA eso no se corrige leyendo mejor. Una IA no duda: produce. Donde a un humano le falta algo, la IA pone lo primero que encaja, y queda contenta.
 
@@ -25,11 +25,11 @@ De ahí la regla, y es toda la regla:
 
 > El ensayo dice lo importante. Lo que no dice, se ve levantando un ente con él, y mirando qué hubo que inventar.
 
-Y lo que se inventa no es un defecto del ente: es un detalle que al ensayo le faltaba. El ente hizo lo que pudo con lo que había.
+Lo que se inventa no es un defecto del ente: es un detalle que al ensayo le faltaba. El ente hizo lo que pudo con lo que había.
 
 Y el límite, que se dice aquí antes de que alguien lo confunda: esto no es el producto. El producto son los ensayos. Si el que crece es el ejercicio y no el ensayo, lo que se está engordando es el papel de alrededor.
 
-Y cuándo se termina, que es la meta y es la única forma finita que tiene esto:
+Cuándo se termina, que es la meta y es la única forma finita que tiene esto:
 
 > Dos corridas enteras seguidas que no encuentren nada más que detalle.
 
@@ -111,11 +111,11 @@ y lo que pasó  qué se pidió, qué se rompió, qué hubo que inventar,
                y hasta dónde no alcanza esa corrida
 ```
 
-Y no va solo lo que falló en el ensayo: va también lo que falló en la corrida. Los índices corridos en el código, el JSON que la terminal rompe, el `INSERT` con las columnas en otro orden.
+No va solo lo que falló en el ensayo: va también lo que falló en la corrida. Los índices corridos en el código, el JSON que la terminal rompe, el `INSERT` con las columnas en otro orden.
 
 Porque eso es lo que le va a pasar al siguiente, y si no está escrito, lo va a descubrir solo.
 
-Y cada cosa que sale se clasifica en una de tres, antes de apuntarla:
+Cada cosa que sale se clasifica en una de tres, antes de apuntarla:
 
 ```plaintext
 hueco del ensayo       → se cierra en el ensayo
@@ -127,7 +127,7 @@ Achacar al ensayo un defecto del terminal no es un error menor: estropea el ensa
 
 ### El proceso arriba, las corridas abajo
 
-Y hay una tercera pregunta, que no es dónde se apunta sino qué sube: de todo lo que la corrida dejó, ¿qué entra al ensayo y qué se queda en la carpeta?
+Hay una tercera pregunta, que no es dónde se apunta sino qué sube: de todo lo que la corrida dejó, ¿qué entra al ensayo y qué se queda en la carpeta?
 
 La regla, y es una sola:
 
@@ -146,15 +146,15 @@ Y el porqué, que es lo que hace que el ensayo no se vuelva un diario:
 
 Un ensayo que guarda el caso concreto envejece el día que cambia el esquema. Al año siguiente, el renglón que decía «la columna se llama `friccion_propia_id`» ya no existe, y el ensayo entero queda marcado como viejo por un detalle que nunca fue suyo.
 
-Y al revés, un ensayo sin nada abajo es una lista de buenas intenciones. «El ente deja rastro de su frontera» suena perfecto y no dice nada; «un hecho con `frontera = decide` y firma llena lo rechaza el esquema» dice algo, y se puede correr.
+Al revés, un ensayo sin nada abajo es una lista de buenas intenciones. «El ente deja rastro de su frontera» suena perfecto y no dice nada; «un hecho con `frontera = decide` y firma llena lo rechaza el esquema» dice algo, y se puede correr.
 
 Así que no es «proceso sí, detalles no». Es:
 
 > El proceso es lo que se sostiene. El detalle es lo que lo sostiene.
 
-Y lo que esto protege, que es lo que de verdad importa: un lector que quiera decir «lo alucinó la máquina» tiene que poder abrir la corrida y ver que el chequeo falló ahí, no que alguien lo dijo. Los detalles no estorban a la credibilidad: son la credibilidad. Por eso las corridas no se borran al crecer el ensayo: se quedan abajo, intactas, con su salida tal cual salió.
+Lo que esto protege, que es lo que de verdad importa: un lector que quiera decir «lo alucinó la máquina» tiene que poder abrir la corrida y ver que el chequeo falló ahí, no que alguien lo dijo. Los detalles no estorban a la credibilidad: son la credibilidad. Por eso las corridas no se borran al crecer el ensayo: se quedan abajo, intactas, con su salida tal cual salió.
 
-Y su falsificador: un ensayo que cita números de hechos, nombres de columnas o rutas de archivos como si fueran parte de la regla — eso es el detalle que se subió, y va a envejecer mal; y un ensayo sin una sola corrida que lo haya puesto a prueba — eso es el proceso que se sostiene solo porque nadie lo ha tocado.
+Su falsificador: un ensayo que cita números de hechos, nombres de columnas o rutas de archivos como si fueran parte de la regla — eso es el detalle que se subió, y va a envejecer mal; y un ensayo sin una sola corrida que lo haya puesto a prueba — eso es el proceso que se sostiene solo porque nadie lo ha tocado.
 
 ### Y una corrida no cuenta si el ente no tiene las cuatro piezas
 
@@ -182,7 +182,7 @@ Y si falta una de las cuatro, la corrida se corre igual — porque también se a
 Y la señal para reconocerlo en el acto, no después: el esquema tiene menos tablas que las cuatro piezas del paso 0. Si el `tablas.sql` no declara la autoridad, la corrida está incompleta desde el primer archivo, y se dice ahí, no al final.
 
 Y una consecuencia que hay que saber: una corrida hecha con un pedazo puede "pasar" y no probar nada del resto. La corrida 5 no probó el «se pregunta» porque no había autoridad a quien preguntarle. El pedazo que faltaba era justo la pieza que el caso necesitaba.
-Y hay una quinta cosa que no es pieza pero que también se mide antes de correr, y es nueva: el piso. El paso 0d del ensayo 1 lo pide, y no se declara a ojo: se corre y se apunta qué salió.
+Hay una quinta cosa que no es pieza pero que también se mide antes de correr, y es nueva: el piso. El paso 0d del ensayo 1 lo pide, y no se declara a ojo: se corre y se apunta qué salió.
 
 ```plaintext
 la prueba      qué se corre, y qué tiene que salir
@@ -212,7 +212,7 @@ Dos. El enlace que va en contra del tiempo. El hecho apunta a algo que el ciclo 
 
 Y la razón de que estos dos sí sean de aquí: uno se confunde con un hueco del ensayo, y el otro con un hueco del ciclo. Los dos estropean la corrida sin que el ensayo tenga nada que arreglar.
 
-Y uno más, que es del que hace la prueba y no del ente: la prueba que no podía fallar.
+Uno más, que es del que hace la prueba y no del ente: la prueba que no podía fallar.
 
 Se prueba «se puede borrar un rechazo» con `DELETE ... WHERE id=1`, y el esquema lo «acepta» — porque no había ningún rechazo con ese id. Un borrado que no borra nada no es una prueba: es una línea que salió bien.
 
@@ -225,7 +225,7 @@ Y el contra, en una línea: antes de decir que algo se acepta, hay que comprobar
 
 Lo que este método decía antes: «se para cuando una corrida no encuentre nada».
 
-Y eso no sirve, porque se puede llegar de dos maneras, y solo una es buena:
+Eso no sirve, porque se puede llegar de dos maneras, y solo una es buena:
 
 ```plaintext
 a) el ensayo está completo de verdad       ← lo que se quiere
@@ -271,7 +271,7 @@ cuándo el ensayo está completo   →  §VI, y se puede revisar
 cuándo se deja de correr         →  hay una regla, y es de forma
 ```
 
-Y no hay una fórmula que diga «llevas cinco corridas, ya basta». El número de corridas no dice nada. Cuatro corridas con cinco, tres, dos y tres huecos dicen que no baja; no dicen que falte una.
+No hay una fórmula que diga «llevas cinco corridas, ya basta». El número de corridas no dice nada. Cuatro corridas con cinco, tres, dos y tres huecos dicen que no baja; no dicen que falte una.
 
 Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no en el ánimo de quien corre.
 
@@ -346,7 +346,7 @@ sin resolverse     pasado nunca, así que la regla de parada no se ha
                    ejercitado
 ```
 
-Y lo que eso dice de este ejercicio, que es lo único que importa aquí: dieciocho corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio. Un ensayo que se cierra en dieciocho corridas es sospechoso; uno que sigue encontrando detalles después de dieciocho es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.
+Lo que eso dice de este ejercicio, que es lo único que importa aquí: dieciocho corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio. Un ensayo que se cierra en dieciocho corridas es sospechoso; uno que sigue encontrando detalles después de dieciocho es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.
 
 Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.
 

@@ -64,9 +64,9 @@ mutante 9: MUERTO
 la regla de la frontera tiene dientes
 ```
 
-Y lo que el mutante aísla es lo que hace este campo distinto de los otros tres: `frontera` dice qué se decidió, y `descartado` dice qué no. Sin el segundo, la decisión se lee como si no hubiera habido alternativa.
+Lo que el mutante aísla es lo que hace este campo distinto de los otros tres: `frontera` dice qué se decidió, y `descartado` dice qué no. Sin el segundo, la decisión se lee como si no hubiera habido alternativa.
 
-Y eso es peor que un error: es una decisión que parece obvia.
+Eso es peor que un error: es una decisión que parece obvia.
 
 ---
 

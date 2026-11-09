@@ -25,7 +25,7 @@ Un ente sin piso no sabe qué puede prometer. Y cuando se le pide algo que no ti
 
 Herramientas es la lista. El piso es otra cosa: lo que esa lista aguanta. Un ente con `python` y sin red tiene piso para operar archivos y no para citar fuentes. El piso es hasta dónde puede llegar sin rellenar.
 
-Y son dos capas, y con una sola no sirve:
+Son dos capas, y con una sola no sirve:
 
 ```plaintext
 qué hay      lo que existe: programas, permisos, red, llaves
@@ -33,7 +33,7 @@ qué alcanza  lo que se puede hacer con eso, y lo que no, dicho ANTES
              de prometerlo
 ```
 
-Y lo que lo hace del repo y no una lista de intenciones: el piso se mide, no se declara a ojo. Cada cosa se prueba con un comando que se corre y que deja salida.
+Lo que lo hace del repo y no una lista de intenciones: el piso se mide, no se declara a ojo. Cada cosa se prueba con un comando que se corre y que deja salida.
 
 ```plaintext
 la prueba      qué se corre, y qué tiene que salir
@@ -46,7 +46,7 @@ y lo que falta lo que se probó y no estaba
 
 Es la misma línea del origen de lo que se dice: no "leí la norma", sino el renglón que abrí.
 
-Y hay dos pisos, y confundirlos es lo que hace que un ente jure que tiene red después de que se cayó:
+Hay dos pisos, y confundirlos es lo que hace que un ente jure que tiene red después de que se cayó:
 
 ```plaintext
 el piso declarado   se mide al arrancar, y lleva su fecha
@@ -63,7 +63,7 @@ el piso roto        algo que el piso decía tener falla a media tarea.
 4. y el piso nuevo entra con su fecha. el viejo no se borra
 ```
 
-Y lo que el ente hace mientras tanto, que es lo que separa un ente de un script: sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias. No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.
+Lo que el ente hace mientras tanto, que es lo que separa un ente de un script: sigue con lo que le queda del piso, y lo que quede a medias lo dice a medias. No se detiene a esperar a que vuelva la red, y no sigue prometiendo como si nada.
 
 Y una cosa que se descubre al intentarlo, y es del piso roto y no del sano: romper el piso es lo primero que escribe sobre él.
 
@@ -142,9 +142,9 @@ si el piso se mide por tarea           hay que saber la tarea antes de
                                        saber
 ```
 
-Y lo que se hace hasta que la circularidad se resuelve, que es lo de abajo: el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone. Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.
+Lo que se hace hasta que la circularidad se resuelve, que es lo de abajo: el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone. Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.
 
-Y cómo se sale de la circularidad, que es lo que de verdad importa. No se sale midiendo más: se sale midiendo en el orden en que llegan las preguntas.
+Cómo se sale de la circularidad, que es lo que de verdad importa. No se sale midiendo más: se sale midiendo en el orden en que llegan las preguntas.
 
 ```plaintext
 1. se mide lo que se sabe pedir hoy       las herramientas que ya se
@@ -158,7 +158,7 @@ Y cómo se sale de la circularidad, que es lo que de verdad importa. No se sale 
 
 Y la regla que lo vuelve un mecanismo y no una excusa: el piso crece con cada pregunta que no pudo contestar, y nunca hacia atrás. Un piso que no cambió después de una tarea nueva no se midió: se supuso.
 
-Y lo que esto deja de ser: ya no hay que adivinar qué va a pedir alguien. Se mide lo que existe, y lo que falta se mide cuando se hace falta. La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.
+Lo que esto deja de ser: ya no hay que adivinar qué va a pedir alguien. Se mide lo que existe, y lo que falta se mide cuando se hace falta. La circularidad no se cierra de golpe: se disuelve en la primera pregunta real.
 
 Y el límite que queda, y es de tiempo, no de método: la primera vez que llega una tarea nueva, la respuesta va a ser «no medido, y me falta medirlo». Eso no es una falla: es la respuesta correcta. Un piso que contestara «sí» sin haberlo medido sería el error que este ensayo previene.
 
@@ -166,7 +166,7 @@ Y el límite que queda, y es de tiempo, no de método: la primera vez que llega 
 
 El paso 5 dice que «la tarea pasa a estar cubierta» y no dice quién la cubre.
 
-Y hay dos candidatos, y no son el mismo:
+Hay dos candidatos, y no son el mismo:
 
 ```plaintext
 el que mide        mide la herramienta, y al medirla tendria que marcar
@@ -179,7 +179,7 @@ la tarea           para decir "ya la tengo". pero si vuelve, tiene que
                    volver a proposito, y nadie se lo pide
 ```
 
-Y sin decir cuál es, el mecanismo se queda en la mitad: el renglón del piso entra, y la tarea no se entera.
+Sin decir cuál es, el mecanismo se queda en la mitad: el renglón del piso entra, y la tarea no se entera.
 
 La regla que este ensayo adopta, y se puede correr: el enlace lo hace el que mide, y la medición lleva anotado qué tarea la pidió. Medir sin decir para qué se mide es medir de más, y no saber a quién se le acaba de responder.
 
@@ -191,7 +191,7 @@ lo que sí         que la medición la haya pedido la MISMA tarea que la enlaza.
                   si no, el piso dice que alcanza, y alcanza para otra cosa
 ```
 
-Y esto no truena, que es lo que lo hace peligroso: una tarea se compromete con la prueba de otra, y el registro se ve completo. El ente contesta que sí, y contesta de buena fe, con un dato que es cierto y que no es suyo.
+Esto no truena, que es lo que lo hace peligroso: una tarea se compromete con la prueba de otra, y el registro se ve completo. El ente contesta que sí, y contesta de buena fe, con un dato que es cierto y que no es suyo.
 
 Y una tercera, que se encuentra al correr el ciclo entero: una herramienta se mide más de una vez, y las dos mediciones se quedan.
 
@@ -200,7 +200,7 @@ la del arranque    mide lo que hay, y no la pidió ninguna tarea
 la de después      mide lo que una tarea pidió, y lleva esa tarea anotada
 ```
 
-Y no se borra la vieja para que la vista se vea limpia. Un piso que borra su historia no se puede revisar: no se puede decir cuándo se midió, ni por qué. La vista toma la última, y la última es la que vale; las anteriores son el rastro de haber medido.
+No se borra la vieja para que la vista se vea limpia. Un piso que borra su historia no se puede revisar: no se puede decir cuándo se midió, ni por qué. La vista toma la última, y la última es la que vale; las anteriores son el rastro de haber medido.
 
 Y una segunda cosa, que se ve al intentarlo: si el enlace falla, no se lleva la tarea consigo. Una tarea sin enlace es un dato que se puede volver a preguntar; una tarea borrada por un error de enlace es un dato que ya no existe. El orden es: primero la tarea, después el enlace, y lo que falle se apunta en vez de borrar.
 
@@ -229,13 +229,13 @@ si el que sabe menos no puede empezar     → no hay piso
 si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
 ```
 
-Y ninguna de las dos se puede declarar desde adentro. La primera se sabe cuando alguien empieza; la segunda, cuando alguien sigue. Un piso que solo declara el que lo construyó es una intención.
+Ninguna de las dos se puede declarar desde adentro. La primera se sabe cuando alguien empieza; la segunda, cuando alguien sigue. Un piso que solo declara el que lo construyó es una intención.
 
 ### Y no es el final, y eso está previsto
 
 Un ente vive en un mundo que cambia, y la descripción se queda. Así que la solución final puede tener huecos, y los va a tener.
 
-Y lo que sí termina no es la descripción: es lo que una generación necesita para empezar. Eso se puede decir, se puede tocar, y se ve cuando está.
+Lo que sí termina no es la descripción: es lo que una generación necesita para empezar. Eso se puede decir, se puede tocar, y se ve cuando está.
 
 ### Y la línea que impide que esto sea una excusa
 
@@ -259,7 +259,7 @@ Falsificador de esta sección: un piso que se declara suficiente sin que nadie l
 
 C.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 uatro herramientas faltaban, dichas por su nombre antes de prometer nada## Prueba
 
@@ -280,7 +280,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | El piso crece con cada tarea que no pudo contestar | [ente 10](../../metodologia/huecos/corridas/10%20-%20CRECE/) | creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza |
 | La salida de un `hay` prueba la herramienta, y no el programa | [ente 11](../../metodologia/huecos/corridas/11%20-%20HAY/) | falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía |
 
-Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
+Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 

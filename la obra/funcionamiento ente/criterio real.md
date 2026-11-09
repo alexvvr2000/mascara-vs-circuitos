@@ -177,13 +177,13 @@ Así que la regla no es sobre la forma. Es sobre el registro entero: lo que el r
 
 Y si el hecho viejo era el apoyo de un supuesto roto, corregirlo reabre el supuesto. Pero eso sólo pasa si el que corrige marca el viejo en la misma operación. Si la marca es un paso aparte, se puede olvidar, y el supuesto se queda roto contra algo que ya no dice lo que decía.
 
-Y hay una cosa más, y es la que casi nadie mira: que el registro rechace lo que debe no depende del registro. Depende de quien lo abre.
+Hay una cosa más, y es la que casi nadie mira: que el registro rechace lo que debe no depende del registro. Depende de quien lo abre.
 
 Lo que el registro no deja pasar tiene que estar en el registro mismo, y no en una instrucción que alguien da antes de tocarlo. Si rechazar depende de que quien llega se acuerde de algo, no hay regla: hay costumbre.
 
-Y no se arregla corriendo otra vez, porque la segunda vez busca el mismo que la primera, y busca donde ya sabe. Se arregla con alguien que no estaba: una persona que abra el registro y pregunte por lo que no está.
+No se arregla corriendo otra vez, porque la segunda vez busca el mismo que la primera, y busca donde ya sabe. Se arregla con alguien que no estaba: una persona que abra el registro y pregunte por lo que no está.
 
-Y mientras esa persona no exista, el cero se escribe como cero, con esa palabra. No como limpio, no como completo, no como superado.
+Mientras esa persona no exista, el cero se escribe como cero, con esa palabra. No como limpio, no como completo, no como superado.
 
 Falsificador: un cierre con cero fricciones presentado como prueba de que la regla aguanta, sin haber buscado antes dónde se cae; y un registro que no distingue el cero que se buscó del cero que no se buscó.
 
@@ -201,7 +201,7 @@ La búsqueda: la frase no se busca: se copia. Si se busca, se está parafraseand
 Y si no encuentra: si algo no se apuntó, se dice que no se apuntó. Un campo vacío no se rellena con una frase que lo disimula.
 Falla si: se apunta lo que no pasó, o se resume en vez de medir.
 Falsificador: un campo vacío disimulado con una frase; y un hecho que resume en vez de medir.
-Y qué se pierde si cambia: si el hecho deja de ser el hecho y pasa a ser un resumen, el criterio se vuelve una opinión con fecha.
+Qué se pierde si cambia: si el hecho deja de ser el hecho y pasa a ser un resumen, el criterio se vuelve una opinión con fecha.
 
 ### Apuntar la fricción
 
@@ -213,7 +213,7 @@ La búsqueda: se busca en el banco si ya estaba apuntada, antes de escribir una 
 Y si no encuentra: si no se sabe por qué era creíble, no se escribe la fricción: un error tonto no se repite, y el que se repite es el razonable.
 Falla si: se escribe sin `por_que_era_creible`, o sin `quien_lo_corrigio`.
 Falsificador: una fricción sin razón, y una sin dueño: sin la segunda el criterio se cree propio cuando fue prestado.
-Y qué se pierde si cambia: sin la razón, la fricción es un lamento; sin el autor, deja de ser criterio y pasa a ser opinión heredada.
+Qué se pierde si cambia: sin la razón, la fricción es un lamento; sin el autor, deja de ser criterio y pasa a ser opinión heredada.
 
 ### Apuntar el desenlace
 
@@ -225,7 +225,7 @@ La búsqueda: no busca. Espera a que la vida vuelva a pasar por ahí.
 Y si no encuentra: si no se ha vuelto a intentar, se escribe `no se ha probado`. Eso no es un hueco: es el dato más honesto del registro.
 Falla si: se apunta un desenlace por algo que no se volvió a probar.
 Falsificador: una fricción sin desenlace, presentada como si la regla aguantara.
-Y qué se pierde si cambia: sin el desenlace, el registro es un diario; y el criterio, que es lo que queda en pie después de caerse, deja de existir.
+Qué se pierde si cambia: sin el desenlace, el registro es un diario; y el criterio, que es lo que queda en pie después de caerse, deja de existir.
 
 ---
 
@@ -233,7 +233,7 @@ Y qué se pierde si cambia: sin el desenlace, el registro es un diario; y el cri
 
 E.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 l registro completo por primera vez: fecha, frase literal y medida## Prueba
 
@@ -254,7 +254,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | Sin desenlace no hay criterio | [06 - FUENTE](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
 | El criterio es del ente y el sesgo del cuerpo | [06 - FUENTE](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
 
-Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
+Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 

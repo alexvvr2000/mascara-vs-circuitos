@@ -87,7 +87,7 @@ segundo intento   MUTANTE 13 MUERTO
                   registro · bind · parsear · endpoint
 ```
 
-Y lo que se apunta, y no se puede volver a ver: el código de hoy sólo corre el segundo intento. `m13.py` ya no tiene el vivo dentro. Así que el "primer intento vivo" es un dato de su documentación, y no una salida que se pueda reproducir. Se dice, y no se disimula.
+Lo que se apunta, y no se puede volver a ver: el código de hoy sólo corre el segundo intento. `m13.py` ya no tiene el vivo dentro. Así que el "primer intento vivo" es un dato de su documentación, y no una salida que se pueda reproducir. Se dice, y no se disimula.
 
 Y por eso la columna de fecha de la fila 13 dice el día en que murió, y no el día en que sobrevivió. El vivo está contado en el párrafo, con su porqué, y no en la cifra.
 
@@ -123,7 +123,7 @@ Y la ubicación de cada prueba, que es la columna "Prueba" de la tabla. La docum
 
 ## IV. Los dumps ofuscados: cómo se guardan las bases, y por qué no se guardan las bases
 
-Y esto se escribe por una razón concreta: los bancos de los mutantes son `.db`, y un binario no se lee. Además, un dump tal cual expone nombres, rutas y a veces algo más.
+Esto se escribe por una razón concreta: los bancos de los mutantes son `.db`, y un binario no se lee. Además, un dump tal cual expone nombres, rutas y a veces algo más.
 
 Así que en [mutantes/_dumps/](mutantes/_dumps/) hay un `.sql` por cada corrida de cada mutante, de texto, y ofuscado:
 
@@ -135,11 +135,11 @@ lo que no existe     rutas absolutas, nombres de usuario del sistema, fechas
                      del sistema, y cualquier cosa fuera de la base
 ```
 
-Y lo que se pierde, y se dice: el contenido exacto de los textos largos. Lo que se gana: que se pueda mostrar el dato sin mostrar la máquina.
+Lo que se pierde, y se dice: el contenido exacto de los textos largos. Lo que se gana: que se pueda mostrar el dato sin mostrar la máquina.
 
 Y por qué el binario sigue en `.gitignore`: los `.db` se regeneran al correr su script, y lo que prueba es el script, no la base que quedó. El dump es la copia de lo que un día salió, para quien no quiera correr nada.
 
-Y lo que este archivo no guarda, y se dice: no hay binario en el repositorio, y los dumps no se reimportan solos. Quien quiera la base exacta tiene que correr el script; el dump dice qué había, y no la rehace.
+Lo que este archivo no guarda, y se dice: no hay binario en el repositorio, y los dumps no se reimportan solos. Quien quiera la base exacta tiene que correr el script; el dump dice qué había, y no la rehace.
 
 ---
 
@@ -162,11 +162,11 @@ Y si el veredicto no es `MUERTO`, la fila se agrega igual, y se dice lo que sali
 
 ## VI. Las dieciocho del otro método, y dónde está su cuenta
 
-Y esto va aquí sólo para que no se confunda con las de este archivo: las dieciocho corridas del método A no prueban una regla. Levantan un ente entero y anotan lo que hubo que inventar.
+Esto va aquí sólo para que no se confunda con las de este archivo: las dieciocho corridas del método A no prueban una regla. Levantan un ente entero y anotan lo que hubo que inventar.
 
 Su cuenta, por corrida, vive en [indice.md](../indice.md), y ahí se hace la resta. Este archivo no la repite, y por eso no hay dos curvas que se contradigan.
 
-Y lo que sí se toma de ahí, porque es de aquí también: trece de los catorce mutantes nacieron después de esas dieciocho corridas, y el ejemplo de cada uno es un caso que una corrida dejó escrito. El mutante no se inventa: se saca de la regla y se prueba con el caso.
+Lo que sí se toma de ahí, porque es de aquí también: trece de los catorce mutantes nacieron después de esas dieciocho corridas, y el ejemplo de cada uno es un caso que una corrida dejó escrito. El mutante no se inventa: se saca de la regla y se prueba con el caso.
 
 ---
 
@@ -174,7 +174,7 @@ Y lo que sí se toma de ahí, porque es de aquí también: trece de los catorce 
 
 Que las catorce familias se corrieron, y que las que no tienen mutante lo dicen en vez de contarse.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

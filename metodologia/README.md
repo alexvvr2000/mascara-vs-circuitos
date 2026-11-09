@@ -88,5 +88,5 @@ Falsificador: una metodología con un método solo. Si sólo se llenan huecos, n
 
 Que los dos métodos se pueden correr sin pedir permiso, y que ninguno se acaba por sí solo.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

@@ -19,7 +19,7 @@ Alejandro Valenzuela Rivera.
 
 Un ente puede correr en un cuerpo o en otro. Y cuando se cambia el cuerpo, el ente sigue siendo él: las reglas son las mismas, el registro es el mismo, el criterio es el mismo. Lo que cambia es cómo trabaja.
 
-Y ahí hay una pregunta que no se contesta con una opinión, y que este ensayo viene a contestar:
+Ahí hay una pregunta que no se contesta con una opinión, y que este ensayo viene a contestar:
 
 > ¿Cómo sabe alguien que el ente está haciendo trabajo de verdad, y no solo produciendo texto que suena a trabajo?
 
@@ -31,11 +31,11 @@ Así que la pregunta se cambia por otra, y esta sí tiene piso:
 
 Eso es lo que este ensayo mide: no al ente, sino lo que el ente deja.
 
-Y aquí hay algo que conviene decir antes de seguir, porque se entiende mal: ese registro no es del ente. Es de la autoridad.
+Aquí hay algo que conviene decir antes de seguir, porque se entiende mal: ese registro no es del ente. Es de la autoridad.
 
 El ente escribe en él, porque el ciclo lo obliga a dejar rastro de lo que hizo. Pero el registro lo abre, lo guarda y lo lee quien paga las consecuencias. El ente no se mide a sí mismo: entrega material, y la medición la hace quien responde por el trabajo.
 
-Y esa diferencia no es de palabras. Si el ente midiera su propio talento, estaría otra vez midiendo con la regla torcida. La cuenta la lleva quien tiene algo que perder si el número está mal.
+Esa diferencia no es de palabras. Si el ente midiera su propio talento, estaría otra vez midiendo con la regla torcida. La cuenta la lleva quien tiene algo que perder si el número está mal.
 
 Lo que el registro guarda son tres cosas, y solo tres:
 
@@ -139,7 +139,7 @@ máximo = 30  una vez costó treinta
 promedio = 2.5    y ese 2.5 no le pasó a nadie nunca
 ```
 
-Y ahí está el problema del promedio: dice 4.8, y el trabajo en realidad cuesta dos, salvo la vez que se va a veinte. Quien presupueste con el promedio se queda corto justo el día que importa.
+Ahí está el problema del promedio: dice 4.8, y el trabajo en realidad cuesta dos, salvo la vez que se va a veinte. Quien presupueste con el promedio se queda corto justo el día que importa.
 
 Y la señal que se mira en el acto: si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. En el ejemplo el P90 es 2 y el P50 es 1: el doble, todavía por debajo del umbral. Pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer. Esa clase no está lista para escalar, y el promedio lo estaba escondiendo.
 
@@ -149,7 +149,7 @@ No se cuenta "falló". Se cuenta dónde falló, porque la puerta es lo único qu
 
 "Falló tres de cuatro veces" no dice qué hacer. "Falló tres de cuatro, y siempre en lo mismo: la columna se fue de lugar" sí.
 
-Y ese conteo ya está en el registro: es la fricción con su señal. Se agrupa por señal, y cada grupo es una puerta:
+Ese conteo ya está en el registro: es la fricción con su señal. Se agrupa por señal, y cada grupo es una puerta:
 
 ```plaintext
 puerta: "apuntar la columna"
@@ -162,7 +162,7 @@ puerta: "cerrar el propósito sin firma"
    sin probar
 ```
 
-Y ese cuadro es todo el diagnóstico. No dice que el cuerpo sea malo: dice que en una puerta concreta se cae tres de cada cuatro veces, y en otra no se cae nunca.
+Ese cuadro es todo el diagnóstico. No dice que el cuerpo sea malo: dice que en una puerta concreta se cae tres de cada cuatro veces, y en otra no se cae nunca.
 
 ### 4. Lo que falta, que también es un número
 
@@ -211,7 +211,7 @@ Y el método es uno, y es barato:
 4. lo que cambia en el resultado es el cuerpo; lo que no cambia, es el ente
 ```
 
-Y lo que se busca no es "cuál es mejor": es dónde se separan. Si los dos cuerpos aciertan, no hay hallazgo y la tarea se acabó. Si uno acierta y el otro cae por una puerta distinta, ahí está lo que hacía falta, y se puede escribir con nombre.
+Lo que se busca no es "cuál es mejor": es dónde se separan. Si los dos cuerpos aciertan, no hay hallazgo y la tarea se acabó. Si uno acierta y el otro cae por una puerta distinta, ahí está lo que hacía falta, y se puede escribir con nombre.
 
 Y la regla que impide que esto se vuelva una opinión con números parada encima:
 
@@ -219,7 +219,7 @@ Y la regla que impide que esto se vuelva una opinión con números parada encima
 
 "Este modelo es malo para apuntar" es un adjetivo, y los adjetivos son lo que hacía viejo al ensayo que este sustituye. "Con este cuerpo, apuntar cayó tres de cuatro veces, y siempre en lo mismo: la columna se fue de lugar" es una medida, y se puede corregir.
 
-Y hay un límite que se dice sin adornos: una tarea de criterio no tiene respuesta correcta contra la cual comparar. Ahí no se puede decir que un cuerpo sea mejor: solo que produjo algo distinto, y qué parte de eso aguantó una contra. Comparar dos cuerpos en algo que se puede verificar —una tabla creada, una consulta que corre— sí es comparación con piso. Compararlos en criterio es comparar dos opiniones.
+Hay un límite que se dice sin adornos: una tarea de criterio no tiene respuesta correcta contra la cual comparar. Ahí no se puede decir que un cuerpo sea mejor: solo que produjo algo distinto, y qué parte de eso aguantó una contra. Comparar dos cuerpos en algo que se puede verificar —una tabla creada, una consulta que corre— sí es comparación con piso. Compararlos en criterio es comparar dos opiniones.
 
 ---
 
@@ -253,7 +253,7 @@ No dice que haya un cuerpo mejor. Dice cómo se sabe dónde se cae cada uno, y a
 
 No mide la inteligencia. Mide tendencia: qué hace por defecto, dónde falla, y qué produce cuando lo pones en una cadena. Un cuerpo puede ser brillante y no servir para el paso que le toca, porque produce lo que el siguiente paso no puede usar.
 
-Y no se mide a sí mismo. Este ensayo no tiene hechos en los que apoyarse, y no va a decir "medí un cuerpo y salió así" cuando no ha corrido ninguno. Lo que dice es cómo se hace; que funcione, se verá cuando el ente corra con dos cuerpos y las cuentas salgan.
+No se mide a sí mismo. Este ensayo no tiene hechos en los que apoyarse, y no va a decir "medí un cuerpo y salió así" cuando no ha corrido ninguno. Lo que dice es cómo se hace; que funcione, se verá cuando el ente corra con dos cuerpos y las cuentas salgan.
 
 ---
 
@@ -279,9 +279,9 @@ esfuerzo    lo que se sostiene cuando no sale
 y los dos    ninguno dice si lo que se hizo hacía falta
 ```
 
-Y ahí está lo que este ensayo puede decir con números, que es lo único que puede decir: la tabla de talento no mide si alguien es bueno. Mide si el trabajo se hizo, tantas de tantas, y con qué costo.
+Ahí está lo que este ensayo puede decir con números, que es lo único que puede decir: la tabla de talento no mide si alguien es bueno. Mide si el trabajo se hizo, tantas de tantas, y con qué costo.
 
-Y eso tiene una consecuencia que incomoda en las dos direcciones:
+Eso tiene una consecuencia que incomoda en las dos direcciones:
 
 Un talento aplicado a la clase de problema equivocada hace daño. Y lo hace con más eficacia que la falta de talento, porque el que no tiene talento se equivoca lento y se da cuenta; el que lo tiene, produce mucho de lo que no se necesitaba y a tiempo. El cálculo no premia eso: lo cobra igual que cualquier otro intento, porque el resultado es lo que cuenta y el resultado no servía.
 
@@ -289,7 +289,7 @@ Y el esfuerzo sin objetivo no es una virtud: es actividad sostenida. Se ve igual
 
 Por eso lo que decide no es ni el talento ni el esfuerzo, sino si había un para qué escrito, y si lo que se hizo lo cumple. El talento acelera, el esfuerzo sostiene, y ninguno de los dos sabe hacia dónde.
 
-Y su falsificador: un talento medido por su fama y no por su renglón; y un esfuerzo contado por horas sin un resultado verificado que lo respalde. Los dos se ven bien y los dos mienten igual.
+Su falsificador: un talento medido por su fama y no por su renglón; y un esfuerzo contado por horas sin un resultado verificado que lo respalde. Los dos se ven bien y los dos mienten igual.
 
 ---
 
@@ -303,7 +303,7 @@ Y el caso no es teórico, es de oficio. Hay lugares donde el papel, el fax y el 
 
 > Lo suficiente no es un fracaso de la ambición. Es un criterio.
 
-Y ese criterio es el mismo de este ensayo, escrito de otra forma: CRE pregunta cuánto cuesta un resultado verificado. La pregunta del tamaño es la misma, un paso antes: cuánto de la capacidad comprada cuenta como resultado verificado, y cuánto es capacidad que nadie usó.
+Ese criterio es el mismo de este ensayo, escrito de otra forma: CRE pregunta cuánto cuesta un resultado verificado. La pregunta del tamaño es la misma, un paso antes: cuánto de la capacidad comprada cuenta como resultado verificado, y cuánto es capacidad que nadie usó.
 
 Y la consecuencia práctica, que es la que se puede aplicar mañana: un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe. No porque lo pequeño sea virtuoso, sino porque el segundo no puede decir dónde se cae, y el primero sí.
 
@@ -315,11 +315,11 @@ Casi toda la inversión en este campo va a ser más capaz, más rápido, más gr
 
 Ninguna cantidad de cómputo produce esa respuesta. Es una regla que alguien tiene que escribir, con nombre, y sostener cuando se caiga.
 
-Y eso hace raro el estado del debate: se compra potencia para no tener que contestar. Comprar capacidad es más fácil que decidir quién carga las consecuencias, porque la primera se paga con dinero y la segunda se paga con una decisión que hay que defender.
+Eso hace raro el estado del debate: se compra potencia para no tener que contestar. Comprar capacidad es más fácil que decidir quién carga las consecuencias, porque la primera se paga con dinero y la segunda se paga con una decisión que hay que defender.
 
 No es que la potencia esté mal: es que no es el problema. Y un método que solo sabe medir potencia no puede ver la diferencia, porque mide lo que sobra y no lo que falta.
 
-Y su falsificador: una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe — ahí no falta cómputo: falta criterio; y la inversa: una herramienta pequeña que se presenta como bastante sin haber medido nunca dónde se cae. Las dos dicen más de lo que pueden sostener.
+Su falsificador: una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe — ahí no falta cómputo: falta criterio; y la inversa: una herramienta pequeña que se presenta como bastante sin haber medido nunca dónde se cae. Las dos dicen más de lo que pueden sostener.
 
 ---
 
@@ -329,7 +329,7 @@ Y su falsificador: una herramienta enormemente capaz que, ante algo que no sabe,
 
 Que el intento que salió mal contaba igual que el bueno, hasta que se contó por resultado.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
@@ -349,7 +349,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | La caída se cuenta por su puerta, no sólo contada | [08 - FRONTERA](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
 | Cada talento lleva su estado | [09 - TAREA](../../metodologia/huecos/corridas/09%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
 
-Y lo que esta tabla no dice: el costo por resultado exitoso no está calculado en ninguna parte. Se tiene el material y no se ha sumado, y este ensayo no lo presenta como si estuviera medido.
+Lo que esta tabla no dice: el costo por resultado exitoso no está calculado en ninguna parte. Se tiene el material y no se ha sumado, y este ensayo no lo presenta como si estuviera medido.
 
 ---
 

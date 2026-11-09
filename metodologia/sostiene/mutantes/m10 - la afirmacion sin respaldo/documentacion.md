@@ -77,7 +77,7 @@ Para montar este mutante hubo que buscar una afirmación sin respaldo. Y al busc
 
 diez de las doce afirmaciones de `00 mis ideas` no tenían el renglón `Qué la tumba`. La 1 y la 2 sí; las otras diez no.
 
-Y no era que faltaran los falsificadores: los ensayos los tienen todos. Era que la lista de afirmaciones no los repetía, y el lector de esa página se quedaba sin ellos.
+No era que faltaran los falsificadores: los ensayos los tienen todos. Era que la lista de afirmaciones no los repetía, y el lector de esa página se quedaba sin ellos.
 
 Las diez se escribieron, tomadas de lo que cada ensayo ya decía. Y la 7 quedó distinta de las otras, a propósito:
 

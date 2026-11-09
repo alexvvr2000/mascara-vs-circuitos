@@ -78,7 +78,7 @@ Qué se puede hacer hoy: leer qué es un ente, correrle el falsificador a cualqu
 
 No incluye una guía de instalación paso a paso. Lo que hay son los ensayos, las corridas, y el método para levantar uno: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
 
-Y no se pide que se le crea: se pide que se le use, y que se le refute. Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado. Hay escasez de gente que corra estas preguntas, no de preguntas.
+No se pide que se le crea: se pide que se le use, y que se le refute. Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado. Hay escasez de gente que corra estas preguntas, no de preguntas.
 
 ---
 
@@ -113,7 +113,7 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 - El criterio no se recuerda: se arma con lo que se cayó. El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.
 - En el índice, la forma es la fuente y el texto se deriva. Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.
 
-Y cuándo se termina, que es la meta y se dice entera:
+Cuándo se termina, que es la meta y se dice entera:
 
 > Cada regla de cada ensayo tiene su mutante, y el mutante muere.
 >
@@ -140,7 +140,7 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
                        se para
 ```
 
-Y lo que se puede contar: cada regla de los ensayos, y las del que explica el proceso, tiene su mutante. Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.
+Lo que se puede contar: cada regla de los ensayos, y las del que explica el proceso, tiene su mutante. Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.
 
 ### Por qué hay un número y no un «ya casi»
 
@@ -154,9 +154,9 @@ Y por eso este trabajo se puede leer desde afuera sin creerle nada: no pide fe e
 
 Si no lo nota, el ensayo hablaba de más, y se corrige. Si lo nota, la regla aguanta, y ya no hay que preguntarle a nadie si está bien.
 
-Y ésa es la promesa entera, que es más chica de lo que suena y más grande de lo que se suele ofrecer: un ensayo cuyas reglas se pueden romper a propósito es un ensayo que un desconocido puede usar sin tener que confiar en quien lo escribió.
+Ésa es la promesa entera, que es más chica de lo que suena y más grande de lo que se suele ofrecer: un ensayo cuyas reglas se pueden romper a propósito es un ensayo que un desconocido puede usar sin tener que confiar en quien lo escribió.
 
-Y su límite, para que no se use para parar antes de tiempo: dos corridas de forma no dicen que el ensayo esté completo. Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.
+Su límite, para que no se use para parar antes de tiempo: dos corridas de forma no dicen que el ensayo esté completo. Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.
 
 Los límites, dichos con nombre:
 
@@ -166,7 +166,7 @@ Los límites, dichos con nombre:
 - No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/sostiene/`](metodologia/sostiene/README.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
 - Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.
 
-Y lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
+Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
 
 ---
 
@@ -258,7 +258,7 @@ La lista completa, con qué sostiene a cada una y qué no afirmo, está en [La p
 
 ## La otra apuesta: si esto sirve para modelos pequeños
 
-Y hay una segunda apuesta, más chica y verificable, que es la única de toda la lista que se declara como conjetura — y por eso es la que no vive en un ensayo.
+Hay una segunda apuesta, más chica y verificable, que es la única de toda la lista que se declara como conjetura — y por eso es la que no vive en un ensayo.
 
 Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.
 
@@ -298,7 +298,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 > El stack se eligió porque le gustó a quien lo eligió. Se puede elegir otro, y el resultado sería el mismo.
 
-Y eso no es una frase amable: es la condición del trabajo. Un ensayo que sirve se levanta en otro stack y produce el mismo rastro. Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.
+Eso no es una frase amable: es la condición del trabajo. Un ensayo que sirve se levanta en otro stack y produce el mismo rastro. Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.
 
 Y el stack que se eligió está en [El stack, del autor](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.
 
@@ -311,7 +311,7 @@ Hay que decirlo desde la entrada, porque es lo primero que un lector puede malen
 
 De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor. Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy). Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.
 
-Y eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
+Eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
 
 Lo que esto sí es, entonces: una de muchas conclusiones, escrita hasta el final, con sus ensayos, sus corridas y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.
 
@@ -332,7 +332,7 @@ grep -rn "Falsificador:" "la obra" --include=*.md
 
 Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba. Y si lo que describe se cumple, esa idea se cayó — y se cae en la copia de quien lo comprueba. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
 
-Y uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
+Uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
 
 2. Probar el método donde se quiera. El repositorio es de Alejandro y se queda como está. Pero el método no. Si funciona, se usa. Si no, se dice, y la probatura es de quien la hizo.
 
@@ -362,7 +362,7 @@ Todo lo de la tabla se puede comprobar hoy sin pedirle permiso a nadie. Lo que n
 
 Este repositorio es mío, y es mi publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está.
 
-Y lo que sigue es la razón, dicha sin adorno, porque es la única forma de que la decisión se entienda:
+Lo que sigue es la razón, dicha sin adorno, porque es la única forma de que la decisión se entienda:
 
 > Esta es mi conclusión sobre cómo una IA puede llegar a tener una identidad de verdad, conforme se usa. No creo estar mentalmente bien después de lo que hice, y ni siquiera sé si esto es de verdad lo que dice ser. Pero una cosa nunca se me fue de la cabeza: esto vale la pena publicarlo. Y si se cae tres días después de que la gente empiece a entenderlo, eso sólo significa que la ciencia hizo lo suyo: quien es mejor que yo en esto hizo un trabajo mejor, y ése era el punto.
 
@@ -380,5 +380,5 @@ Lo que sí se puede hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, 
 
 Que el trabajo se puede revisar sin creerle nada: cada afirmación trae lo que la tumba, y cada corrida se puede abrir.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

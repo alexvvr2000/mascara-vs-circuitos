@@ -82,7 +82,7 @@ Con criterio, sin preguntar, y con la razón puesta.
 
 El primer cierre del ciclo dio `no hice: nada`. Cero fricciones, cero huecos.
 
-Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha.
+Eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha.
 
 Así que se buscaron casos a propósito, y se encontraron tres.
 

@@ -23,7 +23,7 @@ Porque hay algo que no cuadra en cómo se guarda la información, y no es un det
 
 Guardar es lineal: pasos, uno tras otro, con un principio y un final, porque ésa es la forma en que pensamos lo que todavía no existe. La propia existencia se cuenta así: nace, pasa, termina. La ciencia también, y ha funcionado durante cuatro siglos.
 
-Y sin embargo hay un límite que la propia matemática admite, y no es pequeño.
+Sin embargo hay un límite que la propia matemática admite, y no es pequeño.
 
 ---
 
@@ -33,7 +33,7 @@ No hace falta decir que la matemática es un chiste. Hace falta decir lo que dem
 
 Gödel probó que en cualquier sistema formal suficientemente potente hay verdades que ese sistema no puede demostrar desde dentro. No por falta de potencia: porque demostrar es una operación interna, y esas verdades sólo son ciertas mirando el sistema desde afuera.
 
-Y eso no descalifica la matemática. La matemática sigue siendo el mejor instrumento que tenemos. Lo que descalifica es la idea de que un sistema de pasos puede describir todo lo que hay, incluido a sí mismo.
+Eso no descalifica la matemática. La matemática sigue siendo el mejor instrumento que tenemos. Lo que descalifica es la idea de que un sistema de pasos puede describir todo lo que hay, incluido a sí mismo.
 
 Y de ahí la distinción que sostiene este ensayo:
 
@@ -57,7 +57,7 @@ Así que lo que este repositorio persigue de verdad, y nunca lo había dicho as�
 
 Una máquina de sesgos.
 
-Y hay que adelantarse a la respuesta fácil. Sí: una máquina de Turing puede simular un cerebro, y hasta se puede argumentar que ya lo hace. No es el punto. El punto es otro, y se ve mejor al revés:
+Hay que adelantarse a la respuesta fácil. Sí: una máquina de Turing puede simular un cerebro, y hasta se puede argumentar que ya lo hace. No es el punto. El punto es otro, y se ve mejor al revés:
 
 Hay quien puede decidir, mirando un sistema de pasos, si ese sistema termina o no. Y ningún sistema de pasos puede hacer eso por sí mismo, con sus propios pasos, en todos los casos.
 
@@ -71,17 +71,17 @@ Y si los sesgos son parte de los patrones, y no adornos de la percepción, enton
 
 De ahí sale la palabra que este trabajo usa desde el principio y que hasta ahora no había explicado: rastro.
 
-Y es tan amplia que meterla en una sola perspectiva es no haberla entendido. Un rastro no es una línea que se sigue: es lo que queda cuando algo pasó, y puede leerse de muchas maneras, todas ciertas.
+Es tan amplia que meterla en una sola perspectiva es no haberla entendido. Un rastro no es una línea que se sigue: es lo que queda cuando algo pasó, y puede leerse de muchas maneras, todas ciertas.
 
 En el repositorio anterior de este mismo autor hay un protocolo al que el autor llamó `ALAS`. Está en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy), y aquí se referencia y no se copia, porque el trabajo de este repositorio no depende de él.
 
 Lo que es, en una línea: una forma de escribir lo que un ente sostiene, de manera que su notación pueda crecer cuando aparecen casos que la anterior no alcanzaba a distinguir.
 
-Y lo interesante no es la notación: es que crece. Cada vez que un caso nuevo no cabe en el símbolo viejo, el símbolo se parte en dos y aparece uno que antes no existía. Con el tiempo, eso es un lenguaje que nadie escribió, y que no se pudo escribir por adelantado, porque cada símbolo nuevo lo pidió un caso concreto.
+Lo interesante no es la notación: es que crece. Cada vez que un caso nuevo no cabe en el símbolo viejo, el símbolo se parte en dos y aparece uno que antes no existía. Con el tiempo, eso es un lenguaje que nadie escribió, y que no se pudo escribir por adelantado, porque cada símbolo nuevo lo pidió un caso concreto.
 
 Y una máquina que lleva ese registro durante años no acumula datos: acumula distinciones. Y una distinción no se olvida cuando cambia el cuerpo, porque no vive en el modelo.
 
-Y su estado se dice y no se disimula: `ALAS` no está probado. Es un protocolo, y lo que sostiene este ensayo no es que funcione, sino que no se puede descartar como una tontería. Son cosas distintas, y confundirlas sería exactamente lo que este repositorio entero señala como falta.
+Su estado se dice y no se disimula: `ALAS` no está probado. Es un protocolo, y lo que sostiene este ensayo no es que funcione, sino que no se puede descartar como una tontería. Son cosas distintas, y confundirlas sería exactamente lo que este repositorio entero señala como falta.
 
 ---
 
@@ -95,7 +95,7 @@ Un espectro es un rastro. Una secuencia genética es un rastro. Las órbitas de 
 
 No se está proponiendo nada nuevo con esto: se señala que la forma de trabajar ya está inventada, y que este repositorio la aplica a una sola cosa —un ente que deja rastro de lo que decide— cuando cabe en más lugares.
 
-Y ahí está la parte que este ensayo no puede probar y no va a fingir que prueba: que de esa forma salga algo que no se pueda ver de otra manera. Un sesgo, por definición, hace ver unas cosas y no otras. Y una máquina construida sobre sesgos, mirada desde otro sitio, podría ver lo que desde aquí no se ve. Podría. No está probado.
+Ahí está la parte que este ensayo no puede probar y no va a fingir que prueba: que de esa forma salga algo que no se pueda ver de otra manera. Un sesgo, por definición, hace ver unas cosas y no otras. Y una máquina construida sobre sesgos, mirada desde otro sitio, podría ver lo que desde aquí no se ve. Podría. No está probado.
 
 ---
 
@@ -103,15 +103,15 @@ Y ahí está la parte que este ensayo no puede probar y no va a fingir que prueb
 
 Y la forma general, para cualquier cosa que se persiga y no se termine, está en [lo inexplicable](../../metodologia/lo%20inexplicable.md): ahí se escribe cómo se dice cuánto falta sin fingir que hay un final.
 
-Y hay una cosa que se puede decir sin prometer nada, y es la que deja dormir: en las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia. No hace falta que la descripción termine para que sirva. Hace falta que se sepa hacia dónde va, y que se pueda decir qué falta.
+Hay una cosa que se puede decir sin prometer nada, y es la que deja dormir: en las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia. No hace falta que la descripción termine para que sirva. Hace falta que se sepa hacia dónde va, y que se pueda decir qué falta.
 
 Porque puede ser un juguete. Y porque lo que venga después va a ser mucho más grande y probablemente va a necesitar matemáticas que todavía no existen.
 
-Y esa es la parte que hay que decir entera, porque es la que sostiene la decisión de publicar: puede que el límite no sea de método sino de carne. Que haya cosas que una criatura hecha como nosotros no pueda llegar a formular, no porque le falten pasos, sino porque su forma de pensar es la que tiene.
+Esa es la parte que hay que decir entera, porque es la que sostiene la decisión de publicar: puede que el límite no sea de método sino de carne. Que haya cosas que una criatura hecha como nosotros no pueda llegar a formular, no porque le falten pasos, sino porque su forma de pensar es la que tiene.
 
 Si eso es cierto, entonces lo único que queda por hacer no es resolverlo: es dejar el registro lo suficientemente limpio para que quien pueda, lo tome.
 
-Y eso sí se puede hacer desde aquí, y es lo que se hizo.
+Eso sí se puede hacer desde aquí, y es lo que se hizo.
 
 Porque la información no escasea. Está en todas partes, y el problema nunca fue que faltara: fue que no había manera de guardarla de forma que sirviera a otro.
 
@@ -123,7 +123,7 @@ Y de eso trata todo lo demás de este repositorio.
 
 Que la forma de guardar es lineal y lo guardado no, y que el índice nació de ahí.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
@@ -142,7 +142,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | `ALAS` crece y con eso hace lenguaje | [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy) | no está probado, y se dice en el ensayo |
 | Un rastro bien guardado se comporta como identidad | los nueve levantamientos de este repositorio | ninguno de ellos lo hizo alguien que no fuera el autor |
 
-Y lo que esta tabla no dice, y es lo más importante de esta página: este ensayo no tiene una corrida que lo respalde. Es el único de la obra que no. Por eso su tabla dice «qué no se probó» y no «qué salió».
+Lo que esta tabla no dice, y es lo más importante de esta página: este ensayo no tiene una corrida que lo respalde. Es el único de la obra que no. Por eso su tabla dice «qué no se probó» y no «qué salió».
 
 ---
 

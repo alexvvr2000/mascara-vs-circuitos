@@ -37,7 +37,7 @@ Y el formato de proceso dice lo contrario, en una línea que cabe en un renglón
 
 > Un proceso es un texto que ya dice cómo se hace la cosa, de modo que lo único que queda es llenar los huecos.
 
-Y llenar huecos es lo que una máquina hace bien, cuando los huecos están dichos. Lo que no hace, y por eso esto importa, es notar que falta uno que nadie mencionó.
+Llenar huecos es lo que una máquina hace bien, cuando los huecos están dichos. Lo que no hace, y por eso esto importa, es notar que falta uno que nadie mencionó.
 
 ---
 
@@ -47,7 +47,7 @@ Sería un error creer que esto se arregla escribiendo mejor. No se arregla así 
 
 Por eso un texto en prosa puede ser excelente y aun así ejecutarse de tres maneras distintas. Un ensayo sobre cómo hacer algo es una obra y también es una trampa: se lee, se entiende, y al final cada quien hizo algo distinto.
 
-Y hay una consecuencia práctica que se pasa por alto: la prosa protege a quien la escribe. Le permite decir algo sin comprometerse exactamente con qué, y quedar bien en todos los casos. Es el formato del que no quiere apostar. Pero esa protección que le da al autor se la cobra entera al que la ejecuta. La vaguedad que le conviene al redactor la paga el que viene después.
+Hay una consecuencia práctica que se pasa por alto: la prosa protege a quien la escribe. Le permite decir algo sin comprometerse exactamente con qué, y quedar bien en todos los casos. Es el formato del que no quiere apostar. Pero esa protección que le da al autor se la cobra entera al que la ejecuta. La vaguedad que le conviene al redactor la paga el que viene después.
 
 Un texto sin forma de proceso no puede ser refutado ni obedecido dos veces igual. Su cumplimiento depende de la generosidad del lector. Y de generosidad, una IA no tiene reservas: no es que a veces le falte; es que no hay.
 
@@ -81,11 +81,11 @@ lo ambiguo    está escrito, y se puede leer de dos maneras.
               →  se arregla PRECISANDO lo que ya está
 ```
 
-Y son igual de peligrosos, por razones opuestas: el hueco deja el campo vacío, y lo vacío se llena con lo primero que encaja. Lo ambiguo deja el campo lleno, con lo que no era, y nadie vuelve a mirarlo porque parece contestado.
+Son igual de peligrosos, por razones opuestas: el hueco deja el campo vacío, y lo vacío se llena con lo primero que encaja. Lo ambiguo deja el campo lleno, con lo que no era, y nadie vuelve a mirarlo porque parece contestado.
 
 Y de ahí una consecuencia que va contra el reflejo: añadir texto a un texto ambiguo lo empeora. Encima de la duda, más texto: ahora hay dos renglones que se pueden leer de dos maneras. Lo ambiguo no se engorda: se recorta hasta que queda una sola lectura.
 
-Y hay una tercera forma, que es la peor porque no se ve: el hueco disfrazado de completo. Un renglón que dice «La búsqueda: ninguna». No está vacío, y da la misma información que un vacío: ninguna. Y el que lo lee no lo nota, porque hay algo escrito.
+Hay una tercera forma, que es la peor porque no se ve: el hueco disfrazado de completo. Un renglón que dice «La búsqueda: ninguna». No está vacío, y da la misma información que un vacío: ninguna. Y el que lo lee no lo nota, porque hay algo escrito.
 
 ### Y cómo se distinguen, que es una prueba y no una opinión
 
@@ -98,13 +98,13 @@ inventa                          →  es hueco
 las dos hacen cosas distintas    →  es ambiguo
 ```
 
-Y sirve para las dos cosas a la vez, porque lo que se mira no es el renglón: es lo que dos lectores hacen con él.
+Sirve para las dos cosas a la vez, porque lo que se mira no es el renglón: es lo que dos lectores hacen con él.
 
 Y el caso que se escapa de la prueba, y se dice: dos personas pueden coincidir y estar las dos equivocadas. Coincidir descarta la ambigüedad; no confirma que lo escrito sea lo que se quería.
 
 Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia. Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
 
-Y hay una consecuencia de que falte alguna de las cinco, que es la que no se ve venir: ante la ambigüedad, una IA no falla de más ni de menos. Elige la opción de no hacer nada.
+Hay una consecuencia de que falte alguna de las cinco, que es la que no se ve venir: ante la ambigüedad, una IA no falla de más ni de menos. Elige la opción de no hacer nada.
 
 No es pereza ni cautela. Es la salida más barata que tiene, y la encuentra sola: si el paso no dice cuándo se corre, no lo corre; si no dice qué hacer cuando la búsqueda no encuentra, no busca; si no dice qué sale, no produce nada, y lo entrega igual. Donde un humano pregunta y sigue, la máquina se queda quieta, y la quietud parece prudencia. Lo que no parece es lo que es: un paso que no se ejecutó, reportado con la misma forma que un paso cumplido.
 
@@ -120,7 +120,7 @@ Una IA no escribe ambigüedad a propósito: la escribe porque la ambigüedad le 
 
 Entonces escribe prosa, la encuentra razonable, la entrega, y se va. Y quien recibe el texto hereda el hueco. La cadena no falla en el paso donde se ve el error: falla en el paso donde alguien escribió con la comodidad de la prosa.
 
-Y esto importa por quién es el que escribe. Cuando un humano escribe prosa para otro humano, el hueco se corrige con una pregunta. Cuando una IA escribe prosa para que otra IA ejecute, el hueco se corrige con una invención. No hay pregunta porque no hay quien la haga. Por eso exigir la forma de proceso no es un formalismo: es la única manera de que una cadena de entes no se degrade por diseño.
+Esto importa por quién es el que escribe. Cuando un humano escribe prosa para otro humano, el hueco se corrige con una pregunta. Cuando una IA escribe prosa para que otra IA ejecute, el hueco se corrige con una invención. No hay pregunta porque no hay quien la haga. Por eso exigir la forma de proceso no es un formalismo: es la única manera de que una cadena de entes no se degrade por diseño.
 
 ---
 
@@ -130,7 +130,7 @@ Para dejar de sacrificar algo, hay que decir exactamente qué se conserva. La re
 
 La prosa guarda la razón dentro de la historia: el porqué está mezclado con el relato, y se rescata como se rescata una anécdota —recordando. El proceso guarda la razón en un lugar fijo: el qué lo incumple es la razón puesta donde se puede leer, y el cuándo se corre es la razón de su existencia. No desaparece la razón: se vuelve consultable.
 
-Y hay una ganancia que la prosa nunca da: qué se pierde cuando el proceso cambia. Todo cambio tiene un costo, y la prosa lo esconde porque el cambio se hace borrando y escribiendo, sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse. Eso no es rigor: es lo que permite que dentro de un año alguien sepa por qué este proceso es así y no de otra forma.
+Hay una ganancia que la prosa nunca da: qué se pierde cuando el proceso cambia. Todo cambio tiene un costo, y la prosa lo esconde porque el cambio se hace borrando y escribiendo, sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse. Eso no es rigor: es lo que permite que dentro de un año alguien sepa por qué este proceso es así y no de otra forma.
 
 La prosa conserva la idea. El proceso conserva la idea y la condición en la que la idea dejó de ser cierta.
 
@@ -140,7 +140,7 @@ La prosa conserva la idea. El proceso conserva la idea y la condición en la que
 
 Conviene desarmar la objeción de que "en procesos queda seco". No queda seco: queda firme. Y en una cosa es claramente superior para leer: se puede refutar. Se abre, se corre un caso, y se dice "aquí falló". Eso es lo que la prosa permite muy rara vez, porque casi siempre se puede interpretar de forma favorable.
 
-Y ahí está el argumento definitivo a favor de que la IA escriba en procesos: lo que escriba se va a usar como prueba. Si escribe prosa, lo que se puede probar es que produjo un texto. Si escribe proceso, lo que se puede probar es que se cumplió o no se cumplió, y por qué.
+Ahí está el argumento definitivo a favor de que la IA escriba en procesos: lo que escriba se va a usar como prueba. Si escribe prosa, lo que se puede probar es que produjo un texto. Si escribe proceso, lo que se puede probar es que se cumplió o no se cumplió, y por qué.
 
 La prosa, cuando el autor es una IA, es la forma más elegante de no dejar rastro. El proceso es la forma de dejar un rastro que alguien pueda tomar en contra.
 
@@ -159,7 +159,7 @@ proceso       se dice qué hace falta que exista, y que pase
 
 Cada escalón dejó decir lo mismo con menos conocimiento de cómo funciona por dentro la máquina. Y ninguno aflojó la exigencia: cada uno cambió en qué había que ser exacto.
 
-Y ahí está lo que casi nadie ve: el código nunca fue la parte difícil de especificar. Era la parte donde la especificación tenía que ser exacta, porque la máquina no adivinaba. Lo difícil siempre fue saber qué hace falta.
+Ahí está lo que casi nadie ve: el código nunca fue la parte difícil de especificar. Era la parte donde la especificación tenía que ser exacta, porque la máquina no adivinaba. Lo difícil siempre fue saber qué hace falta.
 
 Cuando una IA escribe el código, ese piso desaparece y no se repone nada. El que antes no podía equivocarse porque el compilador se lo impedía, ahora puede equivocarse entero y el programa corre igual de bien.
 
@@ -180,7 +180,7 @@ Y de ahí sale lo que este ensayo sostiene, y es lo que más se malentiende: est
 
 La puerta que era «sé producir código» ya no es una puerta. La que era «sé qué tiene que existir, y sé decirlo» sigue abierta — y ahora la puede cruzar alguien que no escribe código. El que tenía sólo la primera se quedó afuera, y con razón: tenía mucho ruido y ningún objetivo. El que tiene la segunda acaba de ganar un piso que antes no alcanzaba.
 
-Y esto se conecta con el ensayo de la empatía, y no lo repite: él habla de la persona que sabe lo que quiere y no sabe cómo decirlo. Aquí está el otro lado: el cómo se puede delegar, y el qué no. Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.
+Esto se conecta con el ensayo de la empatía, y no lo repite: él habla de la persona que sabe lo que quiere y no sabe cómo decirlo. Aquí está el otro lado: el cómo se puede delegar, y el qué no. Un ente que sabe el cómo y no sabe el qué es tan inútil como uno que sabe el qué y no puede decirlo.
 
 ### Y por qué esto no se arregla con más cómputo
 
@@ -196,11 +196,11 @@ Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que 
 
 ## VIII. La IA mató los estándares, y lo que quedó son las direcciones
 
-Y aquí está lo que este ensayo no había dicho, y es la razón por la que existe.
+Aquí está lo que este ensayo no había dicho, y es la razón por la que existe.
 
 Los estándares de formato se acabaron. Nadie va a imponer cuántos encabezados lleva un documento, ni cómo se numera una lista, ni qué plantilla se usa. Limitar a una IA a un formato rígido es estúpido: pierde lo que sabe hacer, y produce algo que parece escrito por un formulario.
 
-Y dejarla sin ninguna dirección es peor. Sin dirección, una IA no escribe mal: escribe lo que cae, y lo que cae es un texto que suena bien y no sirve para ejecutar.
+Dejarla sin ninguna dirección es peor. Sin dirección, una IA no escribe mal: escribe lo que cae, y lo que cae es un texto que suena bien y no sirve para ejecutar.
 
 Lo que queda, entonces, no son formatos: son direcciones.
 
@@ -222,7 +222,7 @@ Y por eso el proceso tiene los renglones que tiene, y no otros:
 | falla si | cómo se sabe que se incumplió |
 | **falsificador** | qué la tumba, aunque la forma esté bien |
 
-Y sin estos renglones, una IA no falla por no ser capaz: falla por no haber recibido la dirección. Rellena el hueco con lo que parece razonable, y lo razonable no es lo pedido.
+Sin estos renglones, una IA no falla por no ser capaz: falla por no haber recibido la dirección. Rellena el hueco con lo que parece razonable, y lo razonable no es lo pedido.
 
 ---
 
@@ -238,7 +238,7 @@ Un repositorio con un método adentro tiene que dar tres direcciones distintas, 
 
 Y la consistencia que exigen no es de formato: es de forma. Las tres se escriben en proceso, y ninguna impone una plantilla.
 
-Y eso es lo que hace que un repositorio se pueda clonar sin que se rompa: quien lo clona no hereda el gusto de quien lo escribió. Hereda las direcciones. Y con las direcciones se arma lo que necesite, sea cual sea su stack.
+Eso es lo que hace que un repositorio se pueda clonar sin que se rompa: quien lo clona no hereda el gusto de quien lo escribió. Hereda las direcciones. Y con las direcciones se arma lo que necesite, sea cual sea su stack.
 
 ---
 
@@ -274,7 +274,7 @@ y el caso      el que rompe una sola, y se corre solo si el de la familia no mue
 
 ### Y cuándo se para
 
-Y no es cuando ya no aparezca nada, porque nada aparece cuando el que busca es el mismo que ya sabe dónde no buscar.
+No es cuando ya no aparezca nada, porque nada aparece cuando el que busca es el mismo que ya sabe dónde no buscar.
 
 ```plaintext
 1. cada regla de cada proceso tiene su mutante, y el mutante muere
@@ -314,7 +314,7 @@ Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzg
 
 Lo que se le pide deja de ser "explícame" o "desarróllame". Se le pide el proceso con sus cinco preguntas y su pérdida —los nueve renglones de la plantilla—, y la explicación —si hace falta— va aparte y se lee aparte. La prosa no desaparece: se desplaza a su lugar, que es justificar por qué este proceso existe. Se lee para entender; el proceso se lee para ejecutar. Son dos lecturas y dos momentos, y confundirlas es lo que hace que una IA reciba prosa esperando un proceso.
 
-Y lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: ¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar? Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
+Lo que se juzga deja de ser "¿se entiende?". Pasa a ser tres preguntas: ¿dice cuándo se corre? ¿dice qué lo incumple? ¿tiene algo que lo pueda tumbar, que se pueda probar? Ese cambio de criterio no es cosmético. Con la primera forma de juzgar se obtiene un texto. Con la segunda se obtiene un veredicto. Solo una de las dos deja historia.
 
 ### La plantilla, para que no se rellene a gusto
 
@@ -362,7 +362,7 @@ lo que NO va              qué corrida lo encontró, en qué sesión se
                           archivo falló, qué número de hecho era
 ```
 
-Y lo segundo no se tira: se guarda en la metodología, que es donde se mantiene. El ensayo cita al pie lo que lo puso a prueba, en una tabla, y ahí se acaba su relación con la corrida.
+Lo segundo no se tira: se guarda en la metodología, que es donde se mantiene. El ensayo cita al pie lo que lo puso a prueba, en una tabla, y ahí se acaba su relación con la corrida.
 
 Por qué, y no es cuestión de gusto: un ensayo que lleva la cuenta de las corridas envejece la primera vez que se corre otra. Y un ensayo que dice qué corrida encontró algo obliga al lector a abrir todas las carpetas anteriores antes de saber qué se sostiene.
 
@@ -374,7 +374,7 @@ Y la regla que esto deja, que aplica a cualquier texto que se entregue:
 
 La regla más fácil de incumplir es la que uno mismo escribió. Este ensayo pide nueve renglones por proceso, y el ensayo del ciclo no los tenía: sus pasos decían qué entra y qué sale, y no decían cuándo corren ni qué los incumple.
 
-Y sin eso, un paso no es un paso: es una descripción.
+Sin eso, un paso no es un paso: es una descripción.
 
 ```plaintext
 un proceso se corrige en su archivo
@@ -390,7 +390,7 @@ Porque un paso sin Se corre no ocurre, y sin Falla si no se puede juzgar. La for
 
 Porque el problema de esta época no es que las máquinas sean tontas. Es que son muy buenas ejecutando cosas que nadie necesitaba, y eso se nota tarde.
 
-Y ahí está la pregunta que se lleva toda la vida y que este ensayo no resuelve, sólo la pone en su lugar: ¿esfuerzo o talento?
+Ahí está la pregunta que se lleva toda la vida y que este ensayo no resuelve, sólo la pone en su lugar: ¿esfuerzo o talento?
 
 Ninguno de los dos sirve solo, y ninguno de los dos es el que decide. Un talento aplicado a la clase de problema equivocada hace daño, y lo hace con más eficacia que la falta de talento. Y el esfuerzo sin objetivo no es virtud: es actividad sostenida.
 
@@ -406,7 +406,7 @@ Y de ahí la razón por la que este trabajo pone propósitos en las máquinas, y
 
 E.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 l paso que no decía cuándo se corre, no se corrió, y nadie lo notó hasta que faltó## Prueba
 
@@ -424,7 +424,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | Lo que no dice qué lo incumple no se puede juzgar | [ente 2](../../metodologia/huecos/corridas/02%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
 | El ensayo no es bitácora: la procedencia va al pie | este ensayo | la regla nació de separar los ensayos de la metodología |
 
-Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
+Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 

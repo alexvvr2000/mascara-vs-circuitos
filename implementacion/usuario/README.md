@@ -13,7 +13,7 @@ No importa cuál. `DeepSeek Harness` es uno de los que hay; no es el único, y e
 
 Un ente recibe, decide, contesta, y deja rastro de haber contestado. Eso no depende del stack.
 
-Y hay cinco cosas que tienen que existir antes de la primera vuelta:
+Hay cinco cosas que tienen que existir antes de la primera vuelta:
 
 ```
 la autoridad      quién carga las consecuencias, con nombre y fecha
@@ -23,7 +23,7 @@ el índice         los temas, y el borde de cada uno
 las dos fronteras lo que decide solo, lo que propone, lo que no decide nunca
 ```
 
-Y eso es lo primero que se escribe, en cualquier stack.
+Eso es lo primero que se escribe, en cualquier stack.
 
 ---
 
@@ -99,7 +99,7 @@ Y por qué esto no es una preferencia de estilo: la prosa protege al que la escr
 
 La forma de lo que se apunta. Un hecho tiene fecha, lo que se pidió, lo que pasó, hasta dónde no alcanza, y qué no se sabía. Eso es del ente, no del stack.
 
-Y no se cambia el borde para que la pieza entre. Si dos temas la aceptan, el borde de uno está mal escrito, y se reescribe el borde.
+No se cambia el borde para que la pieza entre. Si dos temas la aceptan, el borde de uno está mal escrito, y se reescribe el borde.
 
 ---
 
@@ -111,5 +111,5 @@ Falsificador: un manual que dice cómo cambiar el stack y no dice cómo se sabe 
 
 Que el método se copia a otro stack, y que el rastro tiene que salir igual.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

@@ -21,7 +21,7 @@ Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que
 
 La ruta corta, si el tiempo es poco: §II (la inversión), §IV (el borde, y de ahí a su ensayo) y el falsificador del final. Con eso se levanta un índice; el resto dice qué le falta.
 
-Y dónde está lo que más se olvida, sin buscarlo: el «se pregunta» del borde es el único valor que necesita que necesita que alguien esté del otro lado. Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.
+Dónde está lo que más se olvida, sin buscarlo: el «se pregunta» del borde es el único valor que necesita que necesita que alguien esté del otro lado. Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.
 
 ---
 
@@ -122,7 +122,7 @@ Y las cuatro operaciones que cambian el índice, cada una con lo que tiene que d
 | superar | quién a quién, cuándo, por qué, y qué se pierde. El viejo no se borra |
 | descartar | la razón. Se marca, no se borra: el descarte también es una decisión |
 
-Y lo que NO es una operación: borrar un tema. Un tema superado o descartado sigue ahí, con su fecha y su motivo, porque lo que ya no se usa es lo que dice qué se pensaba.
+Lo que NO es una operación: borrar un tema. Un tema superado o descartado sigue ahí, con su fecha y su motivo, porque lo que ya no se usa es lo que dice qué se pensaba.
 
 Y la consulta que hace el ciclo, que es la de todo el ensayo:
 
@@ -200,7 +200,7 @@ Y la prueba de la reconstrucción, corriéndola, no opinándola: 1. Se tira lo d
 
 Si falta una relación, la reconstrucción no se nota: se obtiene un grafo más pobre, y parece correcto. Por eso la prueba no es "se rehízo", es "se rehízo y coincide".
 
-Y lo que hace que esto no sea ceremonia: si el texto fuera la fuente, un índice mal armado sería una pérdida. Como la forma vive aparte, se bota sin miedo. Un índice que da miedo tirar ya dejó de ser un derivado: se volvió la única copia de algo.
+Lo que hace que esto no sea ceremonia: si el texto fuera la fuente, un índice mal armado sería una pérdida. Como la forma vive aparte, se bota sin miedo. Un índice que da miedo tirar ya dejó de ser un derivado: se volvió la única copia de algo.
 
 ---
 
@@ -208,13 +208,13 @@ Y lo que hace que esto no sea ceremonia: si el texto fuera la fuente, un índice
 
 No da una herramienta. Lo que aquí se propone es una forma, y la forma no presupone ninguna tecnología: se puede llevar en archivos de texto con una convención de anotaciones, en una base de datos relacional, o en un grafo dedicado. La elección depende de cuántas piezas hay, de quién las toca y de qué tan rápido cambian.
 
-Y sí da la forma de la herramienta, que es otra cosa: la del borde como predicado y como lista de lo que no entra (§VII); las tablas del índice y sus cuatro operaciones (§VIII); la de la supersesión con sus tres datos y su pérdida (§IX); el momento exacto en que se consulta (§X); y de qué piezas se rehace (§XI). Con eso, quien lo implemente no está inventando: está copiando.
+Sí da la forma de la herramienta, que es otra cosa: la del borde como predicado y como lista de lo que no entra (§VII); las tablas del índice y sus cuatro operaciones (§VIII); la de la supersesión con sus tres datos y su pérdida (§IX); el momento exacto en que se consulta (§X); y de qué piezas se rehace (§XI). Con eso, quien lo implemente no está inventando: está copiando.
 
 No da los temas. Qué temas tiene un ente es cosa de ese ente. Lo único que se puede decir es que un tema que no se ha usado nunca no está probado, y que un tema que lleva mucho sin cambiar en una época de cambio no está quieto: está abandonado.
 
 No da el borde exacto. Cuánto entra en un tema es una decisión de diseño, y se corrige usando el índice. Lo que se propone es que el borde se escriba, no dónde está.
 
-Y no lo hace solo. Un índice puede estar perfectamente construido y ser inútil si nadie lo consulta. El índice no piensa: da a quién piensa la forma de no buscar a ciegas.
+No lo hace solo. Un índice puede estar perfectamente construido y ser inútil si nadie lo consulta. El índice no piensa: da a quién piensa la forma de no buscar a ciegas.
 
 ---
 
@@ -252,7 +252,7 @@ La búsqueda: se busca en los temas vigentes si alguno ya lo cubre. Si lo cubre,
 Y si no encuentra: si no hay tema que cubra la pieza, se abre uno nuevo, y se dice que el índice creció.
 Falla si: se abre un tema sin borde, o se abre uno que ya existe con otro nombre.
 Falsificador: un tema sin borde presentado como tema: es una intención, y se traga lo que no encaja.
-Y qué se pierde si cambia: sin borde, el tema no se puede consultar, y el índice se vuelve un cajón de sastre.
+Qué se pierde si cambia: sin borde, el tema no se puede consultar, y el índice se vuelve un cajón de sastre.
 
 ### Relacionar dos temas
 
@@ -264,7 +264,7 @@ La búsqueda: se mira si ya existe la relación antes de crearla.
 Y si no encuentra: si no hay relación que declarar, no se crea. Un tema solo es un tema, no un nodo huérfano.
 Falla si: se relaciona un tema consigo mismo, o se crea una relación que se puede expresar con las tres.
 Falsificador: un índice con más de tres tipos de relación sin justificar la cuarta.
-Y qué se pierde si cambia: sin las aristas, el índice deja de ser un grafo y pasa a ser una lista, y no se puede preguntar por dónde se llega de un tema a otro.
+Qué se pierde si cambia: sin las aristas, el índice deja de ser un grafo y pasa a ser una lista, y no se puede preguntar por dónde se llega de un tema a otro.
 
 ### Superar un tema
 
@@ -276,7 +276,7 @@ La búsqueda: se busca qué reportaba el tema viejo, para poder decir qué deja 
 Y si no encuentra: si no se puede nombrar qué se pierde, no fue un cambio: fue una sustitución, y no se hace.
 Falla si: el tema viejo se borra, o la supersesión no lleva su qué se pierde.
 Falsificador: una supersesión sin pérdida nombrada; y un tema viejo que ya no está, porque entonces el cambio no se puede auditar.
-Y qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no se puede decir qué se pensaba cuando se pensó.
+Qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no se puede decir qué se pensaba cuando se pensó.
 
 ---
 
@@ -284,7 +284,7 @@ Y qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no
 
 U.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 n casi que se guardaba y nunca se consultaba## Prueba
 
@@ -306,7 +306,7 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 | El tema de persona se resuelve en lista de espera | [ente 2](../../metodologia/huecos/corridas/02%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
 | El solapamiento se mira antes que lo demás | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
 
-Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
+Lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
 Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 

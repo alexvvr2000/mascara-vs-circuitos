@@ -18,7 +18,7 @@ una tarea que enlaza la medición de otra    antes se aceptaba
 un cierre con la razón vacía                antes se aceptaba
 ```
 
-Y dos que ninguna corrida había tocado:
+Dos que ninguna corrida había tocado:
 
 ```plaintext
 la autoridad dice NO a un cierre            y el no queda con su razón
@@ -68,7 +68,7 @@ la razon del no: probar el no no es lo mismo que el no sirva: falta
 y el proposito SIGUE ABIERTO. el no no es un cierre: es una respuesta
 ```
 
-Y después del no:
+Después del no:
 
 ```plaintext
 [RECHAZADO] la autoridad ya dijo que no.
@@ -111,7 +111,7 @@ se_rechazo = 0     y el proposito se cierra como si nunca hubieran
                    dicho que no
 ```
 
-Y esto es el peor tipo de hueco: el que deja pasar el caso que se estaba probando. Se probó el bloqueo y no la permanencia.
+Esto es el peor tipo de hueco: el que deja pasar el caso que se estaba probando. Se probó el bloqueo y no la permanencia.
 
 La regla, y es la que el ensayo necesita: el no no es una marca que se apaga: es un registro con su fecha y su razón. Si se puede deshacer, no fue un no.
 

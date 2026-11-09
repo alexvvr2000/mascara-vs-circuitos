@@ -63,7 +63,7 @@ mutante 5: MUERTO
 la regla de que el número sale del registro tiene dientes
 ```
 
-Y lo que este mutante enseña, que vale más que el veredicto: 3.33 contra 1.2. Casi tres veces de diferencia entre el número respaldado y el recordado.
+Lo que este mutante enseña, que vale más que el veredicto: 3.33 contra 1.2. Casi tres veces de diferencia entre el número respaldado y el recordado.
 
 Y la razón está en las dos cuentas que el ensayo dice que siempre se hacen mal:
 

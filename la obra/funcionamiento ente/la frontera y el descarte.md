@@ -25,7 +25,7 @@ El paso 3 del ciclo decide. Y decidir tiene dos mitades que no se ven igual desd
 
 Un ente que sólo apunta lo que hizo no puede explicar por qué no hizo lo otro. Y esa explicación no es cortesía: es la diferencia entre un registro y una versión de los hechos.
 
-Y decir que el paso 3 no se apunta es cómodo y deja el ciclo sin auditar justo donde importa. La decisión no se guarda entera: se guardan las cuatro cosas que la hacen revisable. El razonamiento sigue sin apuntarse, y ésa sí es una frontera declarada.
+Decir que el paso 3 no se apunta es cómodo y deja el ciclo sin auditar justo donde importa. La decisión no se guarda entera: se guardan las cuatro cosas que la hacen revisable. El razonamiento sigue sin apuntarse, y ésa sí es una frontera declarada.
 
 ---
 
@@ -78,7 +78,7 @@ frontera = se salio  → tiene que estar vacío
 
 Y la fricción propia del `se salio` no va en esta columna, y hay una razón. El ciclo escribe el hecho en el paso 5 y la fricción en el paso 6: al abrir el hecho, la fricción todavía no existe. Una columna `friccion_propia_id` dentro del hecho apuntaría hacia adelante, hacia algo que aún no está.
 
-Y convertirla en una columna del hecho se puede salvar de una manera que deja el registro peor: se escribe la fricción antes que el hecho, y entonces la fricción queda colgando del hecho anterior —la propuesta— y no del hecho que se salió. El esquema lo aceptó, porque nadie revisaba de qué hecho colgaba.
+Convertirla en una columna del hecho se puede salvar de una manera que deja el registro peor: se escribe la fricción antes que el hecho, y entonces la fricción queda colgando del hecho anterior —la propuesta— y no del hecho que se salió. El esquema lo aceptó, porque nadie revisaba de qué hecho colgaba.
 
 Así que el enlace va en el sentido del tiempo, y en dos piezas:
 
@@ -103,16 +103,16 @@ Y las restricciones, escritas como restricciones y no como consejo:
 
 Dónde queda: en el hecho, al cerrar el paso 5, como cuatro columnas más. Y un hecho anterior a que existieran esas columnas se queda con ellas vacías, declarado y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.
 
-Y hay una cosa más, y es de orden, no de forma: un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6. Lo que no se puede es cerrar el ciclo sin ella. El cierre la cuenta como pendiente, y ahí se ve.
+Hay una cosa más, y es de orden, no de forma: un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6. Lo que no se puede es cerrar el ciclo sin ella. El cierre la cuenta como pendiente, y ahí se ve.
 
-Y lo que no se guarda del paso 3, y se dice: el razonamiento. La reconstrucción desde el hecho es una inferencia, no un registro. La diferencia importa: la frontera y el descarte se pueden auditar; el porqué interno, no.
+Lo que no se guarda del paso 3, y se dice: el razonamiento. La reconstrucción desde el hecho es una inferencia, no un registro. La diferencia importa: la frontera y el descarte se pueden auditar; el porqué interno, no.
 
 
 ---
 
 ## III. Lo que queda fuera, y se dice
 
-Y no se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede perder lo del medio. Los hechos intermedios se apuntan si hacen falta, y eso es decisión de quien corre el ciclo, no una propiedad del ciclo.
+No se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede perder lo del medio. Los hechos intermedios se apuntan si hacen falta, y eso es decisión de quien corre el ciclo, no una propiedad del ciclo.
 
 ---
 
@@ -154,7 +154,7 @@ La búsqueda: se consulta el piso, y se mira cómo se cayó antes en esa clase d
 Y si no encuentra: si el piso no da para lo que se pide, se dice qué falta y se propone lo que sí cabe. No se decide a medias.
 Falla si: se decide algo de la lista de lo que propone sin esperar firma; o si `descartado` queda vacío en vez de decir `ninguna`.
 Falsificador: un hecho con `frontera = decide` y una firma llena; o con `descartado` vacío donde sí había alternativa.
-Y qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la única parte del ciclo que se puede examinar, y el registro no puede explicar por qué no se hizo lo otro.
+Qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la única parte del ciclo que se puede examinar, y el registro no puede explicar por qué no se hizo lo otro.
 
 ---
 
@@ -162,7 +162,7 @@ Y qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la úni
 
 E.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 l esquema rechazó un hecho que se atribuía una firma que no tenía## Prueba
 
@@ -180,7 +180,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | El «vacío» del descartado no es un tercer valor | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | no se podía guardar, y se corrige aquí |
 | La fricción propia va después del hecho | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | escrita antes, quedó enlazada al hecho equivocado |
 
-Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
+Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 

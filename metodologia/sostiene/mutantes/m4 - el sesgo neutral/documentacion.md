@@ -65,7 +65,7 @@ mutante 4: MUERTO
 la regla del sesgo tiene dientes
 ```
 
-Y lo que hace visible el mutante es exactamente el error del ensayo: aceptó 2 de 3, y el registro dice `neutral`.
+Lo que hace visible el mutante es exactamente el error del ensayo: aceptó 2 de 3, y el registro dice `neutral`.
 
 Un modelo con complacencia declarada y dos de tres aceptadas enseña algo. El mismo modelo con `neutral` y las mismas dos de tres no enseña nada: parece que así es el mundo.
 
@@ -75,7 +75,7 @@ Un modelo con complacencia declarada y dos de tres aceptadas enseña algo. El mi
 
 La columna `aceptó` es la misma en los dos. El mutante no cambia el comportamiento: cambia lo que se registra.
 
-Y eso es lo que hace dañino al sesgo no declarado: el trabajo sale igual, y el registro queda limpio. Nadie puede revisar después algo que no se apuntó.
+Eso es lo que hace dañino al sesgo no declarado: el trabajo sale igual, y el registro queda limpio. Nadie puede revisar después algo que no se apuntó.
 
 ---
 

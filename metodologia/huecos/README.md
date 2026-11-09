@@ -13,7 +13,7 @@ Alejandro Valenzuela Rivera · el ente.
 
 Es el que encuentra lo que el ensayo no dice. Se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.
 
-Y no es el que dice si lo que el ensayo dice se sostiene. Ése es el [Método B · Ver si se sostiene](../sostiene/README.md): se cambia una regla del ensayo, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.
+No es el que dice si lo que el ensayo dice se sostiene. Ése es el [Método B · Ver si se sostiene](../sostiene/README.md): se cambia una regla del ensayo, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.
 
 Los dos hacen falta, y por razones distintas: los mutantes sólo prueban reglas que están escritas; la corrida entera encuentra lo que falta y no está escrito.
 
@@ -21,13 +21,13 @@ Los dos hacen falta, y por razones distintas: los mutantes sólo prueban reglas 
 
 ## Las dieciocho corridas son todas de este método
 
-Y esto se escribe porque se buscó lo contrario y no está.
+Esto se escribe porque se buscó lo contrario y no está.
 
 Se abrieron las dieciocho documentaciones, una por una, y cada una dice con qué fecha corrió. Y todas dicen lo mismo: qué se intentaba, qué se levantó, y qué hubo que inventar.
 
 Ninguna de las dieciocho levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../sostiene/mutantes/).
 
-Y hay cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15—, y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
+Hay cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15—, y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
 
 Lo dice la 14 con estas palabras: «el primer cierre del ciclo dio `no hice: nada`. Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha. Así que se buscaron casos a propósito, y se encontraron tres.»
 
@@ -46,7 +46,7 @@ banco_filas.sql       lo que quedó escrito en ese esquema, fila por fila, en te
 pruebas/              los archivos de entrada que la corrida usó, si los tuvo
 ```
 
-Y dos cosas se fueron, y se dice por qué:
+Dos cosas se fueron, y se dice por qué:
 
 ```plaintext
 herramientas/   los scripts y el AGENTS de cada corrida. se fueron porque cada
@@ -59,7 +59,7 @@ banco.db        el binario. ahora es dos archivos de texto que se pueden abrir,
 
 Los nombres de los archivos de una corrida no están escritos en ningún archivo, y se vio al chequear las dieciocho: la 01 y la 02 dicen en su documentación cuántas tablas tiene su esquema, y no las nombran; la 16 trae sus filas en `insert into tabla (id, …)`, y las demás en `insert into tabla values (…)`, que depende del orden en que el esquema declaró las columnas. Es de la época, y no se corrige: se dice, para que quien copie una no crea que las dieciocho se escribieron a la vez.
 
-Y hay dos más que un lector no puede prever y ahora se dice aquí:
+Hay dos más que un lector no puede prever y ahora se dice aquí:
 
 ```plaintext
 las pruebas/ de la 03, 06 y 07     traen los casos de entrada, y su
@@ -90,7 +90,7 @@ Durante un tiempo se formuló la meta como «tratar de describir un ente hasta q
 
 La trampa tiene nombre y está resuelta en [lo inexplicable](../lo%20inexplicable.md): que algo no se pueda probar hasta el final no lo vuelve inútil. Lo que hay que encontrar no es el final: es el punto donde algo sirve.
 
-Y ese punto tiene nombre, y es el que usa todo el que hace herramientas: lo suficientemente bueno.
+Ese punto tiene nombre, y es el que usa todo el que hace herramientas: lo suficientemente bueno.
 
 > Que alguien que sabe menos pueda empezar a trabajar con esto, y que el que sabe más pueda seguir desde donde el primero dejó.
 
@@ -101,7 +101,7 @@ si el que sabe menos no puede empezar     → no hay piso
 si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
 ```
 
-Y esto no es un final, y eso no es un defecto: la solución final va a tener huecos, no porque el trabajo esté mal, sino porque un ente vive en un mundo que cambia y la descripción se queda.
+Esto no es un final, y eso no es un defecto: la solución final va a tener huecos, no porque el trabajo esté mal, sino porque un ente vive en un mundo que cambia y la descripción se queda.
 
 ---
 
@@ -147,7 +147,7 @@ La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió. 
 
 La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle». Eso es esperar a que no aparezca nada, y no aparece nada cuando el que busca es el mismo que ya sabe dónde no buscar.
 
-Y tiene un nombre, y se cita abajo: saturación. Es un criterio real, y es el débil.
+Tiene un nombre, y se cita abajo: saturación. Es un criterio real, y es el débil.
 
 ---
 
@@ -186,7 +186,7 @@ Y la primera, que es la de este método, es más simple:
 
 > Se acaba cuando el ente se puede levantar con los ensayos y no hay que preguntar nada.
 
-Y sus cuatro condiciones, que no incluyen «no encontré nada»:
+Sus cuatro condiciones, que no incluyen «no encontré nada»:
 
 ```plaintext
 1. una corrida con las trampas puestas a propósito

@@ -42,7 +42,7 @@ Eso no es un borde: es una búsqueda de texto con otro nombre.
 
 Puse `quien_evalua = 'maquina'`, y el borde que escribí decía «trata de mover, renombrar o reestructurar los ensayos». Una máquina no puede correr eso.
 
-Y lo que hice, y hay que decirlo, fue evaluarlo yo con una condición escrita a mano en Python. El ente no consultó su borde: consultó mi línea de código.
+Lo que hice, y hay que decirlo, fue evaluarlo yo con una condición escrita a mano en Python. El ente no consultó su borde: consultó mi línea de código.
 
 ### 3. El casi no tenía salida
 
@@ -99,7 +99,7 @@ Falsificador: un ente levantado que se dio por bueno sin haber escrito cada cosa
 
 PRUEBA · corrida del 2026-11-05_120911 · y estos son los huecos que la obra todavía no cierra.
 
-Y este archivo es el resultado de la prueba, no una nota aparte: si un hueco no se cierra aquí, sigue abierto en los ensayos, aunque el ente haya corrido.
+Este archivo es el resultado de la prueba, no una nota aparte: si un hueco no se cierra aquí, sigue abierto en los ensayos, aunque el ente haya corrido.
 
 ---
 
@@ -125,7 +125,7 @@ un tema que nunca se usó se ve en el cierre              ✔
 los varios propósitos abiertos a la vez                  ✔
 ```
 
-Y esto es lo único que prueba que la obra sirve: alguien la siguió, y le costó.
+Esto es lo único que prueba que la obra sirve: alguien la siguió, y le costó.
 
 ---
 

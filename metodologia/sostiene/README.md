@@ -35,7 +35,7 @@ El otro método, el A, encuentra lo que el ensayo no dice. Éste dice si lo que 
 
 Una corrida del A levanta un ente y anota lo que hubo que inventar; una del B levanta un ente con el ensayo cambiado, y su pregunta no es qué se inventó, sino si la corrida se dio cuenta.
 
-Y hacen falta los dos: éste sólo prueba reglas escritas, y el otro encuentra lo que falta y no está escrito.
+Hacen falta los dos: éste sólo prueba reglas escritas, y el otro encuentra lo que falta y no está escrito.
 
 Éste se acaba cuando cada regla tiene su mutante, y el mutante muere. Eso es finito; el otro no lo es.
 
@@ -55,7 +55,7 @@ Y la regla que impide que se contradigan: si el texto y `corridas.md` dicen cosa
 
 Que lo que la obra afirma se puede romper a propósito, y que lo que sobrevive queda nombrado.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ---
 

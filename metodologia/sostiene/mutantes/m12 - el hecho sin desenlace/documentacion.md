@@ -61,11 +61,11 @@ mutante 12: MUERTO
 la regla de que un hecho sin desenlace es una anécdota tiene dientes
 ```
 
-Y lo que el mutante aísla es la diferencia entre contar y no contar:
+Lo que el mutante aísla es la diferencia entre contar y no contar:
 
 Con el bueno, el hecho 3 queda abierto y se dice. Con el mutado, el registro se ve completo: tres hechos, cero pendientes.
 
-Y ése es el estado en el que está el repositorio mismo, y lo dice: 68 de las 86 fricciones del banco no tienen desenlace. De esas, ninguna cuenta como cerrada, porque el cierre las dice.
+Ése es el estado en el que está el repositorio mismo, y lo dice: 68 de las 86 fricciones del banco no tienen desenlace. De esas, ninguna cuenta como cerrada, porque el cierre las dice.
 
 ---
 

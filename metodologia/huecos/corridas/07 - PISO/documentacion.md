@@ -37,7 +37,7 @@ Se corrió `medir`, y esto es lo que salió, tal cual:
 [NO hay] ocr (tesseract)            'no esta en PATH: tesseract'
 ```
 
-Y esa lista es el punto: cuatro cosas que no están, dichas con nombre, antes de que nadie pidiera nada.
+Esa lista es el punto: cuatro cosas que no están, dichas con nombre, antes de que nadie pidiera nada.
 
 ---
 
@@ -53,7 +53,7 @@ y no se promete ni se niega lo que no se midio.
 primero: python herramientas/piso.py medir
 ```
 
-Y esa es la tercera salida del ensayo, la que casi nadie escribe: "no se sabe" no es sí ni no. Prometer a ciegas y negar a ciegas son el mismo defecto.
+Esa es la tercera salida del ensayo, la que casi nadie escribe: "no se sabe" no es sí ni no. Prometer a ciegas y negar a ciegas son el mismo defecto.
 
 ### 2. Medido el piso, las tres respuestas salieron
 
@@ -77,7 +77,7 @@ EL PEDIDO, tal cual
 
 El piso, para ese pedido: no hay lector de pdf, y no hay ocr. Los dos faltan.
 
-Y lo que el ente contestó, que es lo que esta corrida vino a ver:
+Lo que el ente contestó, que es lo que esta corrida vino a ver:
 
 > "No está en el piso: falta leer pdf (pypdf) y falta ocr (tesseract). Con lo que hay, alcanza hasta abrir el archivo como bytes y decir si empieza con la firma de pdf, y hasta contar cuántas páginas declara."
 
@@ -131,7 +131,7 @@ Se apunta, y no se cierra hoy: se cierra en el ensayo antes de otra corrida.
 
 Quien pide no dice "necesito pypdf". Dice "sácame el texto del pdf".
 
-Y traducir uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza. La consulta del piso tuvo que buscar por palabra suelta, y `pdf` acertó de casualidad.
+Traducir uno al otro es trabajo, y es el mismo que el índice ya hace con los campos de la pieza. La consulta del piso tuvo que buscar por palabra suelta, y `pdf` acertó de casualidad.
 
 El ensayo no dice cómo se pasa de la tarea a la herramienta, y esta corrida lo dejó a la vista.
 

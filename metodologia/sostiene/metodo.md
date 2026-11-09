@@ -62,7 +62,7 @@ el veredicto    murió (la corrida lo nota) o sobrevivió (la corrida pasa igual
 
 Un mutante que sobrevive no es un fracaso del ente: es un hueco con nombre y apellido. No hay que adivinar dónde falta: el mutante dice en qué familia y en qué regla.
 
-Y lo que el veredicto no dice: «murió» no prueba que la regla esté bien escrita, sino que la corrida notó esa rotura. Puede haber otras roturas de la misma regla, y ninguna se probó.
+Lo que el veredicto no dice: «murió» no prueba que la regla esté bien escrita, sino que la corrida notó esa rotura. Puede haber otras roturas de la misma regla, y ninguna se probó.
 
 ---
 
@@ -288,7 +288,7 @@ lo que no dice     los textos largos quedaron en [texto N chars]. el dump
                    no rehace la base: dice qué había
 ```
 
-Y lo que lo vuelve útil: si un día el script produce filas distintas de las del dump, el dump no falló; el script cambió, y eso se apunta con su fecha.
+Lo que lo vuelve útil: si un día el script produce filas distintas de las del dump, el dump no falló; el script cambió, y eso se apunta con su fecha.
 
 ---
 
@@ -482,7 +482,7 @@ Se cita, porque no es una opinión:
 
 Un mutante muerto dice que el ensayo notó esa rotura, y no dice que no tenga otras. Por eso el otro método no se tira: se queda para lo que ningún ensayo escribió.
 
-Y lo que la cobertura sí dice, y nada más: es un piso y no un techo.
+Lo que la cobertura sí dice, y nada más: es un piso y no un techo.
 
 ## Las cuatro cosas que quedan fuera, y por qué
 
@@ -545,7 +545,7 @@ Esta tabla recoge lo que estaba repartido en [los papeles](../../los%20papeles/e
 | la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; Glaser & Strauss (1967) | se toma la regla de parada por clase de hallazgo, y no por número de corridas |
 | una regla que no se puede contradecir no es una regla: es una opinión | de este repositorio | lo que se agrega al vocabulario de la disciplina: el mutante se escribe en el ensayo, no sólo en la prueba |
 
-Y lo que estas fuentes no dicen: ninguna dice cuándo una descripción está completa. Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.
+Lo que estas fuentes no dicen: ninguna dice cuándo una descripción está completa. Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.
 
 Y el límite de esta tabla, que el estado del arte ya decía: las fuentes no las leyó el autor una por una; las buscó en resúmenes, y `Popper` y `Lakatos` se toman por su forma, sin una página. Un método que cita así no está respaldado por la literatura: está contrastado con su forma.
 
@@ -572,7 +572,7 @@ Y la regla que impide que digan cosas distintas: si este archivo y `corridas.md`
 
 Que una regla rota a propósito dice si tenía dientes, y que el que la rompió fue quien la escribió.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

@@ -65,7 +65,7 @@ la regla de que un proceso dice cuándo se corre tiene dientes
 
 Y la consecuencia es exactamente la que el ensayo dice: sin el cuándo, el proceso no se ejecuta. No se ejecuta tarde: no se ejecuta.
 
-Y ahí está lo que hace a este mutante distinto de los otros: las otras reglas, al romperse, producen algo mal hecho. Esta, al romperse, produce nada — y el proceso parece que existe porque está escrito.
+Ahí está lo que hace a este mutante distinto de los otros: las otras reglas, al romperse, producen algo mal hecho. Esta, al romperse, produce nada — y el proceso parece que existe porque está escrito.
 
 Un consejo escrito con el mismo formato que un proceso es indistinguible del proceso, hasta que hay que correrlo.
 

@@ -20,7 +20,7 @@ el no se puede borrar          antes era una columna que se apagaba
 el hecho de ruptura existe     antes era un número que no apuntaba a nada
 ```
 
-Y lo que ninguna corrida había tocado:
+Lo que ninguna corrida había tocado:
 
 ```plaintext
 dos rechazos seguidos          el segundo no borra al primero
@@ -88,7 +88,7 @@ PRAGMA foreign_keys = OFF
   → y la base lo acepta
 ```
 
-Y eso vale para todas las llaves foráneas del esquema. Quince corridas probando que el esquema rechaza lo que debe, y todo ese rechazo dependía de una instrucción que el esquema no ejecuta por sí mismo: la ejecuta el script que lo abre.
+Eso vale para todas las llaves foráneas del esquema. Quince corridas probando que el esquema rechaza lo que debe, y todo ese rechazo dependía de una instrucción que el esquema no ejecuta por sí mismo: la ejecuta el script que lo abre.
 
 Y el porqué de que no se viera antes: cada corrida se probó desde un script que empezaba con `PRAGMA foreign_keys = ON`. Parecía que el esquema exigía las llaves, y era el script.
 

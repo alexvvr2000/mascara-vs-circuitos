@@ -63,7 +63,7 @@ mutante 6: MUERTO
 la regla del borde del ensayo tiene dientes
 ```
 
-Y lo que aquí se ve, y el ensayo dice de otra manera: con el mutado, las tres afirmaciones se sostienen igual. Y una de ellas —la de `ALAS`— el ensayo dice expreso que no está probada.
+Lo que aquí se ve, y el ensayo dice de otra manera: con el mutado, las tres afirmaciones se sostienen igual. Y una de ellas —la de `ALAS`— el ensayo dice expreso que no está probada.
 
 Un ente que lee ese ensayo mutado no puede saber en qué estado está cada cosa, porque el ensayo dejó de decirlo.
 
@@ -81,4 +81,4 @@ Un ente que lee ese ensayo mutado no puede saber en qué estado está cada cosa,
 
 Un mutante que cambia el estado de una afirmación y hace que el ente cambie una etiqueta, sin que cambie nada de lo que hace.
 
-Y lo que este mutante no alcanza: un ensayo que propone y no lo dice, con todas sus afirmaciones en el mismo tono.
+Lo que este mutante no alcanza: un ensayo que propone y no lo dice, con todas sus afirmaciones en el mismo tono.

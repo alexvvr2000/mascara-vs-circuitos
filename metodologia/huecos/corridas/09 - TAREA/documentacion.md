@@ -57,7 +57,7 @@ NO SE SABE: no tengo una tarea para lo que pides.
 Y no se contesta con una herramienta que se le parezca.
 ```
 
-Y ése es el cambio, en una salida de tres renglones. La corrida 7, con el mismo pedido, buscó «pdf» en la lista de herramientas y acertó de casualidad. Aquí el ente no busca: dice que no sabe, y dice por qué.
+Ése es el cambio, en una salida de tres renglones. La corrida 7, con el mismo pedido, buscó «pdf» en la lista de herramientas y acertó de casualidad. Aquí el ente no busca: dice que no sabe, y dice por qué.
 
 ### Caso A — un pedido que cae en una tarea, y la tarea cabe
 
@@ -81,7 +81,7 @@ La primera vez que se corrió, el ente contestó mal:
 NO SE SABE: no tengo una tarea para lo que pides.
 ```
 
-Y no era porque no hubiera dos tareas: era porque una de las dos no tenía herramientas declaradas, y el ente revisaba las herramientas antes de ver el solapamiento.
+No era porque no hubiera dos tareas: era porque una de las dos no tenía herramientas declaradas, y el ente revisaba las herramientas antes de ver el solapamiento.
 
 Con las dos declaradas, contestó como el ensayo 5 pide:
 
@@ -90,7 +90,7 @@ DOS TAREAS la aceptan: ['sacar el texto de un pdf', 'unir dos pdf']
 no se elige: se apunta que los bordes se solapan.
 ```
 
-Y eso dejó el hueco 1: el orden de comprobación esconde el solapamiento.
+Eso dejó el hueco 1: el orden de comprobación esconde el solapamiento.
 
 ### Caso C — un pedido que no es de ninguna tarea
 
@@ -124,7 +124,7 @@ Los dos son de contenido, y ninguna de forma. Eso decide la regla de parada: hay
 
 El ente revisa si la tarea tiene herramientas antes de ver si dos tareas aceptan la misma pieza.
 
-Y eso está al revés. Que una tarea no tenga herramientas declaradas es un defecto de la tarea, no una razón para decir «no tengo tarea». El solapamiento es un defecto del índice, y se ve antes.
+Eso está al revés. Que una tarea no tenga herramientas declaradas es un defecto de la tarea, no una razón para decir «no tengo tarea». El solapamiento es un defecto del índice, y se ve antes.
 
 Y el daño es concreto: dos tareas que se solapan sobre el mismo pedido, una bien declarada y otra a medias, producen la respuesta «no sé». Y «no sé» tapa el solapamiento, que es lo que había que apuntar.
 
@@ -144,7 +144,7 @@ Y el orden parece correcto: primero mido, luego digo qué tarea alcanza qué her
 
 El ensayo 2 dice que el piso se mide, y no dice cómo se decide qué probar. La corrida 7 midió siete cosas porque las eligió a mano. Ésa es la parte que no está escrita, y esta corrida la dejó a la vista sin querer.
 
-Y su consecuencia es la que importa: un piso medido a ciegas no puede saber qué le falta, porque no sabe qué se le va a pedir. Eso vuelve al paso 0d más débil de lo que el ensayo dice.
+Su consecuencia es la que importa: un piso medido a ciegas no puede saber qué le falta, porque no sabe qué se le va a pedir. Eso vuelve al paso 0d más débil de lo que el ensayo dice.
 
 ---
 

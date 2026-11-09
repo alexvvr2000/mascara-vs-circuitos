@@ -21,7 +21,7 @@ Hay cosas que se persiguen y no se terminan.
 
 El criterio de una persona. La identidad de una máquina. El sentido de una obra. La justicia de una ley. Ninguna de esas cosas tiene un día en que uno pueda decir: ya está, ahora está completa.
 
-Y no es porque sean difíciles. Es porque el criterio por el que se medirían cambia con lo que se aprende al perseguirlas.
+No es porque sean difíciles. Es porque el criterio por el que se medirían cambia con lo que se aprende al perseguirlas.
 
 Y de esa forma se cae en una trampa, y la trampa tiene dos puertas:
 
@@ -33,7 +33,7 @@ la puerta de arriba   «entonces hay que seguir para siempre», y no se
 
 Las dos son la misma cosa: confundir «no tiene final» con «no tiene valor».
 
-Y no son lo mismo. Una escalera no tiene último escalón, y el tercero ya sirve para subir.
+No son lo mismo. Una escalera no tiene último escalón, y el tercero ya sirve para subir.
 
 ---
 
@@ -41,11 +41,11 @@ Y no son lo mismo. Una escalera no tiene último escalón, y el tercero ya sirve
 
 No se busca el valor al que la serie converge. Se busca el escalón que hace falta para que alguien suba.
 
-Y eso es una pregunta distinta, con una respuesta distinta: no es «¿cuánto vale el límite?», es «¿cuánto hace falta para que esto sirva?».
+Eso es una pregunta distinta, con una respuesta distinta: no es «¿cuánto vale el límite?», es «¿cuánto hace falta para que esto sirva?».
 
 La primera no tiene respuesta y nunca la va a tener. La segunda sí, y se puede escribir.
 
-Y aquí está el error que comete casi todo el que persigue algo profundo: pasa años afinando la primera pregunta, y no se hace nunca la segunda.
+Aquí está el error que comete casi todo el que persigue algo profundo: pasa años afinando la primera pregunta, y no se hace nunca la segunda.
 
 ---
 
@@ -83,7 +83,7 @@ Si no se encuentra una unidad contable, se dice. Y lo que sigue no se puede hace
 
 ### 3. Cuánto falta, como una resta
 
-Y aquí está lo que casi nunca se hace:
+Aquí está lo que casi nunca se hace:
 
 ```plaintext
     hay X unidades contables
@@ -111,7 +111,7 @@ las últimas 9           2.00 por corrida
 
 Y la curva no baja. Dieciocho intentos después, cada intento sigue encontrando dos cosas.
 
-Y eso no significa que falten infinitas. Significa dos cosas, y hay que distinguirlas:
+Eso no significa que falten infinitas. Significa dos cosas, y hay que distinguirlas:
 
 ```plaintext
 a) lo perseguido todavía tiene cosas que decir, y cada intento trae una
@@ -119,11 +119,11 @@ b) los intentos cambiaron de clase, y ya no traen cosas nuevas sino casos
    de las que ya se conocían
 ```
 
-Y hay un indicio de la (b), que no la prueba: los últimos detalles no abrieron ninguna familia nueva. Todos afinaron una que ya existía.
+Hay un indicio de la (b), que no la prueba: los últimos detalles no abrieron ninguna familia nueva. Todos afinaron una que ya existía.
 
 ### 5. El punto donde ya sirve, que es el que importa
 
-Y aquí se separa una pregunta de la otra, que es el centro de todo este ensayo:
+Aquí se separa una pregunta de la otra, que es el centro de todo este ensayo:
 
 ```plaintext
 lo que el número dice      cuánto falta para el final
@@ -133,7 +133,7 @@ lo que hay que decidir     cuánto a partir de aquí ya es suficiente
 
 Y el segundo no se deduce del primero. Se puede tener el 2% y ser suficiente, o el 80% y no servir para nada.
 
-Y ese punto se reconoce por una cosa sola, y no por una opinión:
+Ese punto se reconoce por una cosa sola, y no por una opinión:
 
 > Alguien que sabe menos empezó, y el que sabe más pudo seguir desde donde el primero dejó.
 
@@ -153,7 +153,7 @@ Aquí es donde la serie deja de ser un ejercicio y se vuelve un proceso.
 
 Lo que se persigue no se investiga hasta el final para después usarlo. Se usa en cuanto sirve, y el uso trae el siguiente intento.
 
-Y eso cierra el círculo de una manera que no es poética, es práctica:
+Eso cierra el círculo de una manera que no es poética, es práctica:
 
 ```plaintext
 cuando alguien usa lo que hay, encuentra lo que falta
@@ -161,7 +161,7 @@ lo que falta vuelve al registro
 y el registro es lo que el siguiente encuentra al empezar
 ```
 
-Y así la serie no avanza hacia un final: avanza por generaciones. Cada una entrega el piso, y la siguiente sigue desde ahí.
+Así la serie no avanza hacia un final: avanza por generaciones. Cada una entrega el piso, y la siguiente sigue desde ahí.
 
 ---
 
@@ -171,7 +171,7 @@ Hay una forma de equivocarse que se ve mucho en quien persigue algo profundo, y 
 
 escribir el problema como «hallar el valor al que converge», y trabajar sobre esa escritura.
 
-Y no se puede, por una razón que no es pesimismo:
+No se puede, por una razón que no es pesimismo:
 
 ```plaintext
 el infinito se usa en las fórmulas, y no está en la fórmula: es la tendencia
@@ -181,7 +181,7 @@ se escribe lo que sigue, y con eso ya se puede trabajar
 
 Una descripción no tiene que terminar para servir. Tiene que decir hacia dónde va, y qué falta.
 
-Y eso es lo mismo que el teorema de la incompletitud dice de otro modo: en cualquier sistema suficientemente potente hay verdades que no se demuestran desde dentro. Y no descalifica el sistema: descalifica la idea de que un sistema de pasos puede describir todo lo que hay.
+Eso es lo mismo que el teorema de la incompletitud dice de otro modo: en cualquier sistema suficientemente potente hay verdades que no se demuestran desde dentro. Y no descalifica el sistema: descalifica la idea de que un sistema de pasos puede describir todo lo que hay.
 
 Una serie que no termina no es una serie rota. Es una serie.
 
@@ -211,11 +211,11 @@ Y si alguien lo empezó y no volvió con nada, tampoco: eso es un abandono, y no
 
 ## VI. Lo que falta, cuando no hay unidad que contar
 
-Y hay que decirlo, porque no todo se deja reducir a una resta.
+Hay que decirlo, porque no todo se deja reducir a una resta.
 
 Si algo que se persigue no tiene una unidad contable, no se puede hacer la resta. Y eso no significa que no valga: significa que no se puede medir así.
 
-Y lo que se puede hacer entonces, que es menos de lo que parece y más de lo que se suele hacer:
+Lo que se puede hacer entonces, que es menos de lo que parece y más de lo que se suele hacer:
 
 ```plaintext
 decir que no hay unidad
@@ -231,7 +231,7 @@ Eso es un resultado. No es el que se quería, y es el que hay.
 
 Que lo que no termina se puede perseguir sin fingir que tiene final.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
@@ -250,7 +250,7 @@ Lo que este ensayo afirma, y en qué se apoya.
 | «lo suficiente» se reconoce por haberlo empezado alguien | nadie de afuera lo ha empezado todavía | es una condición propuesta, no una observada |
 | un lenguaje que espera a estar completo no crece | la lógica de un protocolo que crece por casos | ese protocolo no está probado |
 
-Y lo que esta tabla dice de más, y es lo que hay que leer antes de cualquier otra cosa: la tercera fila tiene el «nadie lo ha empezado» escrito en la columna de lo que se apoya. No es un descuido: es el estado.
+Lo que esta tabla dice de más, y es lo que hay que leer antes de cualquier otra cosa: la tercera fila tiene el «nadie lo ha empezado» escrito en la columna de lo que se apoya. No es un descuido: es el estado.
 
 ---
 

@@ -3,7 +3,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Y no al revés. Los ensayos mandan; el stack obedece.
+No al revés. Los ensayos mandan; el stack obedece.
 
 ---
 
@@ -11,7 +11,7 @@ Y no al revés. Los ensayos mandan; el stack obedece.
 
 > Cuando un ensayo cambia, el stack del autor se vuelve a mirar. Y si lo que cambió lo afecta, se cambia también.
 
-Y no se cambia por gusto ni por novedad: se cambia porque el ensayo dijo algo que el stack ya no cumple.
+No se cambia por gusto ni por novedad: se cambia porque el ensayo dijo algo que el stack ya no cumple.
 
 ---
 
@@ -41,7 +41,7 @@ y no se mira    en cada corrida que sólo afinó una regla ya escrita
 
 La señal para decidir en el acto: si el hallazgo necesita nombrar una herramienta, el stack se mira. Si no la nombra, el stack no se toca.
 
-Y ésa es la misma regla de los dos destinos que ya usa la metodología: lo que es del stack se queda en el stack, y lo que es del ensayo se va al ensayo.
+Ésa es la misma regla de los dos destinos que ya usa la metodología: lo que es del stack se queda en el stack, y lo que es del ensayo se va al ensayo.
 
 ---
 
@@ -67,7 +67,7 @@ Una línea por cambio, y no se borra. Y si un cambio se deshizo, también se apu
 |---|---|---|---|
 | 2026-11-08 | el stack se escribe por primera vez | ninguna: es la elección inicial | `DSH` y `dshmarket` como vía, y `graphdblite` porque el índice es un grafo |
 
-Y lo que el registro deja a la vista, y es cierto hoy: ningún cambio de stack ha sido pedido por una corrida todavía. Ese renglón es el único, y lo dice.
+Lo que el registro deja a la vista, y es cierto hoy: ningún cambio de stack ha sido pedido por una corrida todavía. Ese renglón es el único, y lo dice.
 
 ---
 
@@ -91,5 +91,5 @@ Y el más probable: cambiarlo en cada corrida, por parecer fino, y terminar con 
 
 Que el stack se puede cambiar sin perder lo que hace al ente ser lo que es.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

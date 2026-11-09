@@ -30,7 +30,7 @@ Hay una frase que parece una exigencia técnica y en realidad es una manera de n
 
 A veces es verdad, y entonces sirve. Pero muchas veces cubre otra cosa: la falta de ganas de explicar el porqué. Al decir «así se hace» se cierra la conversación, y lo que queda es una instrucción sin contexto. Quien la ejecuta no sabe qué se quiere, sólo qué se pidió.
 
-Y eso importa más con una máquina que con una persona, por una razón que ya se dijo en el ensayo de que es un ente: un ente no pregunta lo que no entiende; lo rellena. Si la instrucción llega sin el porqué, el ente no se detiene a buscarlo — produce algo coherente con la letra y ajeno al propósito.
+Eso importa más con una máquina que con una persona, por una razón que ya se dijo en el ensayo de que es un ente: un ente no pregunta lo que no entiende; lo rellena. Si la instrucción llega sin el porqué, el ente no se detiene a buscarlo — produce algo coherente con la letra y ajeno al propósito.
 
 De ahí que buscar el estándar antes que el entendimiento sea más barato a corto plazo y más caro en la segunda versión. El estándar dice cómo se hace una cosa; no dice si esa cosa era la que hacía falta.
 
@@ -44,7 +44,7 @@ Es medible. Se puede ver si el que pide investigó antes, si hizo preguntas de s
 
 Es una obligación en ambos sentidos. No sólo el humano tiene que entender a la máquina; la máquina tiene que entender al humano: qué le importa, qué le preocupa, y qué parte de lo que pide es requisito y qué parte es costumbre de su oficio. Un ente que sólo obedece está tan ciego como uno que sólo supone.
 
-Y es lo contrario de suavizar. Un pedido empático puede ser más duro que uno seco, porque se puede poner en el lugar exacto donde el otro entiende, en vez de en el lugar donde duele menos.
+Es lo contrario de suavizar. Un pedido empático puede ser más duro que uno seco, porque se puede poner en el lugar exacto donde el otro entiende, en vez de en el lugar donde duele menos.
 
 ---
 
@@ -56,7 +56,7 @@ Pero el costo de no entenderse no es simétrico: se paga igual, sólo que más t
 
 La deuda de entendimiento se transfiere. Quien pidió rápido no la pagó; se la dejó al que venga.
 
-Y hay un costo que no se ve hasta que es tarde: lo que se entendió mal no se detecta desde el resultado, porque el resultado es coherente consigo mismo. Sólo se detecta comparándolo con lo que se quería, y lo que se quería nunca se escribió, porque se creyó que estaba dicho.
+Hay un costo que no se ve hasta que es tarde: lo que se entendió mal no se detecta desde el resultado, porque el resultado es coherente consigo mismo. Sólo se detecta comparándolo con lo que se quería, y lo que se quería nunca se escribió, porque se creyó que estaba dicho.
 
 ---
 
@@ -106,7 +106,7 @@ Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se qu
 
 ### El caso que lo prueba, y es de este mismo trabajo
 
-Y aquí está el caso, que no es una suposición: pasó en este mismo trabajo.
+Aquí está el caso, que no es una suposición: pasó en este mismo trabajo.
 
 Los ensayos de este repositorio crecieron desiguales: uno llegó a diez mil palabras y los otros se quedaron en dos mil. Quien los mantiene lo señaló: un ensayo desproporcionado aburre, y hay lectores que sólo quieren una parte.
 
@@ -144,7 +144,7 @@ Y el límite, dicho sin adorno: publicar no garantiza que se use bien. Lo que ga
 
 Preguntar está dicho. Falta la forma, porque una pregunta mal formada traslada el trabajo en vez de hacerlo.
 
-Y son tres partes, y ninguna sobra:
+Son tres partes, y ninguna sobra:
 
 ```plaintext
 1. lo que entendí, en palabras del otro
@@ -159,7 +159,7 @@ Y son tres partes, y ninguna sobra:
     lo pongo con lo demás y le aviso"
 ```
 
-Y lo que el ente no hace, y es la mitad de la regla: no pregunta cosas que el otro no puede contestar. «¿Qué tipo de dato es?» no es pregunta: es trasladar el trabajo. «¿Es un número o un nombre?» sí.
+Lo que el ente no hace, y es la mitad de la regla: no pregunta cosas que el otro no puede contestar. «¿Qué tipo de dato es?» no es pregunta: es trasladar el trabajo. «¿Es un número o un nombre?» sí.
 
 Y si el otro no puede contestar ninguna de las tres porque no sabe, eso también es una respuesta: se apunta el supuesto, con su estado, y se sigue, y el supuesto queda a la vista para el que sí sepa.
 
@@ -169,7 +169,7 @@ Y el falsificador, que es de una línea:
 
 Eso es lo que separa un compañero de una herramienta con buena presentación. Una herramienta exige que el otro se adapte a ella. Un compañero se adapta a lo que el otro sabe, y lo dice cuando no alcanza.
 
-Y se prueba en una corrida, con una frase que no sea del autor: se le da al ente una frase escrita por alguien sin formación en el área, se mira si pregunta en vez de actuar, y se lee la pregunta buscando si esa persona la podría contestar sola.
+Se prueba en una corrida, con una frase que no sea del autor: se le da al ente una frase escrita por alguien sin formación en el área, se mira si pregunta en vez de actuar, y se lee la pregunta buscando si esa persona la podría contestar sola.
 
 ---
 
@@ -187,7 +187,7 @@ Y un ente sin propósito no es un ente más rápido: es un martillo que se mueve
 
 Que una máquina no se detiene a preguntar: donde le falta el porqué, rellena.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
@@ -220,5 +220,5 @@ Si la empatía se saca del método, se pierde lo que la distingue de la amabilid
 
 Y si se conserva como virtud y no como trabajo, se pierde lo único que la hace aplicable a una máquina: alguien tiene que decir qué le cuesta al otro, porque la máquina no lo va a sentir. Quitar ese renglón deja la empatía como un deseo, y un deseo no se corre.
 
-Y lo que no se gana al recuperarla, y se dice: velocidad. Entender antes cuesta al principio, y se paga en la primera versión.
+Lo que no se gana al recuperarla, y se dice: velocidad. Entender antes cuesta al principio, y se paga en la primera versión.
 

@@ -49,7 +49,7 @@ FOREIGN KEY constraint failed
 
 El rechazo es correcto y no es un defecto: una tarea no puede apuntar a algo que no se midió. Es el mecanismo del ensayo haciendo su trabajo.
 
-Y ahí se ve el orden imposible, que es el hueco 1. Para declarar la tarea, la herramienta tiene que existir. Para saber qué medir, la tarea tiene que existir. La corrida 9 lo nombró; ésta lo volvió a encontrar al intentar usarlo.
+Ahí se ve el orden imposible, que es el hueco 1. Para declarar la tarea, la herramienta tiene que existir. Para saber qué medir, la tarea tiene que existir. La corrida 9 lo nombró; ésta lo volvió a encontrar al intentar usarlo.
 
 ### 2. El ente, sin la tarea, dijo que no sabía
 
@@ -125,7 +125,7 @@ Si lo hace el que mide, necesita saber qué tarea pidió la medición. Si lo hac
 
 El `INSERT` de `tarea_pieza` falló y la transacción se deshizo entera, incluida la fila de `tarea`. El ensayo no dice que la tarea y su enlace sean una sola operación.
 
-Y hay una consecuencia que duele: el ente perdió la tarea por no poder enlazarla. Una tarea sin enlace es un dato; una tarea borrada es un dato que ya no se puede preguntar.
+Hay una consecuencia que duele: el ente perdió la tarea por no poder enlazarla. Una tarea sin enlace es un dato; una tarea borrada es un dato que ya no se puede preguntar.
 
 ---
 

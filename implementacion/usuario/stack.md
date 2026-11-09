@@ -11,7 +11,7 @@ La tabla, para el que está haciendo el suyo. La misma que la del autor, sin los
 
 > La meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.
 
-Y eso lo decide el ente, no la lista de cosas que suenan bien. Se prueba una, se apunta qué falló, y se cambia. Lo que quede al final es lo que sirve, y casi nunca es lo que se quería al principio.
+Eso lo decide el ente, no la lista de cosas que suenan bien. Se prueba una, se apunta qué falló, y se cambia. Lo que quede al final es lo que sirve, y casi nunca es lo que se quería al principio.
 
 ---
 
@@ -50,7 +50,7 @@ Y si después de buscar no se sabe, se escribe "no se sabe". Eso no es una derro
 | la autoridad | quién firma | |
 | lo que la autoridad no decide | lo que el ente no decide nunca | |
 
-Y se llena a mano, en un archivo de texto. Nadie la va a leer con un programa.
+Se llena a mano, en un archivo de texto. Nadie la va a leer con un programa.
 
 ---
 
@@ -68,5 +68,5 @@ Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba 
 
 Que la tabla del stack se llena a mano, y que el motor es gusto y el grafo no.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

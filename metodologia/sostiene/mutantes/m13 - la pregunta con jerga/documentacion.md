@@ -53,7 +53,7 @@ MUTANTE 13 VIVO
 la persona pudo contestar la pregunta con jerga igual
 ```
 
-Y era mentira. El mutante no había sobrevivido: la prueba estaba mal.
+Era mentira. El mutante no había sobrevivido: la prueba estaba mal.
 
 Mi prueba buscaba las palabras de lo que la persona declara no saber —«llave primaria» como frase literal—, y como la comparación no cuadraba con el texto, la dejaba pasar.
 

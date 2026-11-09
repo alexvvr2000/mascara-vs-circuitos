@@ -22,7 +22,7 @@ herramientas/tablas.sql     10 tablas, con `pieza` y con `campos` en JSON
 herramientas/vara.py        todo el ente en un solo archivo
 ```
 
-Y doce reglas del esquema, probadas al crear la base:
+Doce reglas del esquema, probadas al crear la base:
 
 ```plaintext
 [OK] rechaza una fricción sin por qué era creíble
@@ -49,7 +49,7 @@ Las doce pasaron. Y eso hizo pensar que estaba bien. No lo estaba.
 
 `y si duda` estaba en el esquema, con su `CHECK` de tres valores. Y `buscar` nunca lo consultaba.
 
-Y lo hice mal en el propio código: cayó en medio… y no había forma de que cayera en medio, porque el borde con `es` solo da sí o no.
+Lo hice mal en el propio código: cayó en medio… y no había forma de que cayera en medio, porque el borde con `es` solo da sí o no.
 
 Un campo que se guarda y no se ejecuta es decoración, y se ve igual de bien que uno que sirve.
 
@@ -87,7 +87,7 @@ Las doce reglas pasaron y el ente igual estaba roto. Eso es lo más importante d
 
 Y el casi seguía sin alcanzarse. Lo que corregí en el ensayo —«el caso del medio existe»— no lo reproduje corriendo: lo escribí y lo di por bueno.
 
-Y eso lo descubrió la corrida siguiente.
+Eso lo descubrió la corrida siguiente.
 
 ---
 

@@ -43,7 +43,7 @@ La máquina es Windows, con Python y sqlite3. El piso de todas las corridas fue 
 
 Lo que eso significa: nada de lo que aquí se afirma se probó en otro sistema operativo, con otra versión de las herramientas, ni con otro cuerpo de modelo. Ni con alguien que no fuera el autor al teclado.
 
-Y hay una consecuencia práctica: el piso de la corrida 14 fue el más sano de todos, y eso no dice que un piso sano sea fácil: dice que ese día se eligieron pruebas de lo que había.
+Hay una consecuencia práctica: el piso de la corrida 14 fue el más sano de todos, y eso no dice que un piso sano sea fácil: dice que ese día se eligieron pruebas de lo que había.
 
 ### Los mutantes los rompió el mismo que escribió las reglas
 
@@ -57,7 +57,7 @@ Los entes de las corridas los levantó la misma persona que escribió los ensayo
 
 Nadie más ha levantado un ente con estos ensayos.
 
-Y ése es el límite más grande de todo: el repositorio dice que un ensayo se prueba levantándolo, y el único que lo levantó fue el que lo escribió. Lo que sigue está escrito para que el primero que lo intente pueda decir que falló.
+Ése es el límite más grande de todo: el repositorio dice que un ensayo se prueba levantándolo, y el único que lo levantó fue el que lo escribió. Lo que sigue está escrito para que el primero que lo intente pueda decir que falló.
 
 ### La duración no dice nada
 
@@ -133,7 +133,7 @@ Y por eso esta página no dice «es lo mejor que se pudo». Dice qué falta, y p
 
 Que todo lo que aquí no se probó está dicho antes de que alguien lo descubra.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

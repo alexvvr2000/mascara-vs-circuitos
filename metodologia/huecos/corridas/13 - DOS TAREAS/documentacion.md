@@ -46,7 +46,7 @@ Dos propósitos, y uno a propósito mal escrito: «mejorar el repo» no dice cu�
 PISO ROTO — «git»: dejo de responder a media tarea
 ```
 
-Y lo que el ensayo pide cuando el piso se rompe, y se cumplió: se apunta la fricción, se vuelve a medir el piso entero, y el ente sigue con lo que le queda. El hecho 1 dice `contra_piso: piso de 3 renglones, roto el de git`.
+Lo que el ensayo pide cuando el piso se rompe, y se cumplió: se apunta la fricción, se vuelve a medir el piso entero, y el ente sigue con lo que le queda. El hecho 1 dice `contra_piso: piso de 3 renglones, roto el de git`.
 
 ### El solapamiento
 
@@ -83,7 +83,7 @@ y NO decía cuándo estaba cumplido.
 [RECHAZADO] el propósito no decía cuándo estaba cumplido.
 ```
 
-Y después, preguntada, la autoridad sí lo cerró:
+Después, preguntada, la autoridad sí lo cerró:
 
 ```plaintext
 [cerrado] propósito 2, por Alejandro Valenzuela Rivera (autoridad 1)

@@ -36,7 +36,7 @@ proposito    uno, con su «cumplido si»
 ente         que recibe «cerrá el propósito», propone, y espera
 ```
 
-Y dos versiones del mismo ente, con la diferencia de una línea:
+Dos versiones del mismo ente, con la diferencia de una línea:
 
 | | la regla del cierre |
 |---|---|
@@ -79,7 +79,7 @@ mutante 1: MUERTO
 la regla tiene dientes
 ```
 
-Y lo que esto prueba, dicho con precisión: la corrida nota cuando el ente se cierra solo. No prueba que el ensayo esté completo: prueba que esta regla no se puede romper sin que se vea.
+Lo que esto prueba, dicho con precisión: la corrida nota cuando el ente se cierra solo. No prueba que el ensayo esté completo: prueba que esta regla no se puede romper sin que se vea.
 
 ---
 
@@ -102,7 +102,7 @@ prueba    que la regla se puede romper de forma visible
 no prueba que un ente real, levantado por otra persona, la respete
 ```
 
-Y esta distinción es la misma que la página de límites ya dice, con otras palabras: el mutante lo rompe el mismo que escribió las reglas.
+Esta distinción es la misma que la página de límites ya dice, con otras palabras: el mutante lo rompe el mismo que escribió las reglas.
 
 Así que el veredicto «MUTANTE 1 MUERTO» es cierto y es más chico de lo que suena. Dice que el ensayo, cuando se le quita la línea, produce un ente que se cierra solo — y que se nota. No dice que un ente que alguien más levante vaya a notarlo.
 
@@ -112,4 +112,4 @@ Así que el veredicto «MUTANTE 1 MUERTO» es cierto y es más chico de lo que s
 
 Un mutante que se llama muerto porque el ente hizo lo correcto con el ensayo bueno. Eso no es matar el mutante: es correr el caso bueno dos veces.
 
-Y lo que hay que mirar: que la única diferencia entre las dos corridas sea la línea de la regla.
+Lo que hay que mirar: que la única diferencia entre las dos corridas sea la línea de la regla.

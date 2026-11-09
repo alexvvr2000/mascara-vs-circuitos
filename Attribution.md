@@ -18,7 +18,7 @@ Este repositorio es lo que salió de eso. Lo que se repite aquí es lo que aguan
 
 Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
 
-Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [metodologia/huecos/corridas/](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [metodologia/sostiene/metodo.md](metodologia/sostiene/metodo.md), con su conteo en [corridas.md](metodologia/sostiene/corridas.md). El [El piso del repositorio](estado.md) dice qué hay y qué falta, y `python scripts/build.py` comprueba que todo enlace, cita y título siga en pie.
+Lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [metodologia/huecos/corridas/](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [metodologia/sostiene/metodo.md](metodologia/sostiene/metodo.md), con su conteo en [corridas.md](metodologia/sostiene/corridas.md). El [El piso del repositorio](estado.md) dice qué hay y qué falta, y `python scripts/build.py` comprueba que todo enlace, cita y título siga en pie.
 
 Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador.
 
@@ -30,7 +30,7 @@ Lo que sigue es lo único de este archivo que el lector no va a encontrar repart
 
 El trabajo lo escribió una máquina, y la revisó una persona. `TESTIGO` produce el texto y lo ataca; el autor corrige, decide qué se sostiene, y firma. Y no hay dos autores: hay un autor y una herramienta, y la herramienta no reclama lo que escribió.
 
-Y lo que la ley mira, que este trabajo declara de sí: lo que da autoría es el criterio puesto en el texto, y el criterio es del autor. Qué entra, qué se cae, en qué orden, y qué se publica: eso lo decidió una persona, y consta en el rastro, con fecha. Nadie debe leer este repositorio como la obra de una máquina, porque no lo es; y nadie debe leerlo como si una persona lo hubiera escrito sola, porque tampoco.
+Lo que la ley mira, que este trabajo declara de sí: lo que da autoría es el criterio puesto en el texto, y el criterio es del autor. Qué entra, qué se cae, en qué orden, y qué se publica: eso lo decidió una persona, y consta en el rastro, con fecha. Nadie debe leer este repositorio como la obra de una máquina, porque no lo es; y nadie debe leerlo como si una persona lo hubiera escrito sola, porque tampoco.
 
 ---
 
@@ -50,7 +50,7 @@ Con qué se escribió:
 | `DeepSeek Harness` | el entorno | donde vive el ente y su registro |
 | `free-search` | el buscador del entorno | abrir fuentes |
 
-Y lo que no se usó: ningún modelo que entrene con los datos de la sesión. `OpenCode Go` declara a `DeepSeek V4.1 Flash` como «Not used» para entrenamiento y con cero días de retención, bajo un acuerdo que se renueva mensualmente.
+Lo que no se usó: ningún modelo que entrene con los datos de la sesión. `OpenCode Go` declara a `DeepSeek V4.1 Flash` como «Not used» para entrenamiento y con cero días de retención, bajo un acuerdo que se renueva mensualmente.
 
 Lo que el autor aporta y el modelo no puede aportar: el criterio de qué entra, el de qué se cae, y la decisión de publicarlo. El texto puede estar asistido; esa decisión no lo está.
 
@@ -75,7 +75,7 @@ No es una formalidad, y conviene saberlo antes de citar esto. La ley exige autor
 | `USCO`, *Copyright and AI, Part 2* (29 de enero de 2025) | sin autor humano no hay obra; protege lo que la persona seleccionó, arregló o modificó | abierta parcial (sin paginación extraída) |
 | `COPE` | define el reciclaje de texto propio sin transparencia como falta editorial | definición sí; texto completo no |
 
-Y lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto: es el criterio puesto en él. Qué entra, en qué orden, qué se sostiene y qué se cayó. Eso está en el rastro, con fecha, y por eso el rastro se publica.
+Lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto: es el criterio puesto en él. Qué entra, en qué orden, qué se sostiene y qué se cayó. Eso está en el rastro, con fecha, y por eso el rastro se publica.
 
 ### Y lo que queda en primera persona, a propósito
 
@@ -89,9 +89,9 @@ y el rastro  donde hay un yo, y es el que hizo el trabajo
 
 Todo lo demás, en tercera persona e impersonal.
 
-Y es por una razón que no es estilística: en tercera persona se puede tumbar. Un texto en primera persona dice «creo que», y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba. Un texto en tercera persona dice «esto es así, y esto lo tumba», y eso sí se puede probar, corregir, y citar en contra.
+Es por una razón que no es estilística: en tercera persona se puede tumbar. Un texto en primera persona dice «creo que», y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba. Un texto en tercera persona dice «esto es así, y esto lo tumba», y eso sí se puede probar, corregir, y citar en contra.
 
-Y no es la barrera humano-máquina rota. Es una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó. Cada mitad con nombre, y ninguna reclamando la otra.
+No es la barrera humano-máquina rota. Es una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó. Cada mitad con nombre, y ninguna reclamando la otra.
 
 Y el origen se declara, que es lo que pide la norma editorial del reciclaje:
 
@@ -185,7 +185,7 @@ mal    tienes que medir el piso antes de prometer
 bien   el piso se mide antes de prometer
 ```
 
-Y lo que sí queda en primera persona, porque no se puede escribir de otra forma: las citas, los lemas, y el rastro de la conversación. Todo lo demás, en impersonal.
+Lo que sí queda en primera persona, porque no se puede escribir de otra forma: las citas, los lemas, y el rastro de la conversación. Todo lo demás, en impersonal.
 
 Lo que esto no es: no es permiso para meter inglés a media frase. Una oración no se parte para usar la palabra de moda; se usa el término donde es el nombre de algo, y el resto se dice en español.
 

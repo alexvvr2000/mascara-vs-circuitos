@@ -31,7 +31,7 @@ No dice nada de qué tiene dentro. Dice qué deja. Y por eso se puede juzgar des
 
 La definición deja fuera a quien no contesta, y a quien contesta sin dejar marca. Un archivo estático no es un ente. Un modelo al que se le pregunta una vez y no conserva nada, tampoco: hay un intercambio, pero no hay rastro, y sin rastro no hay nada que sostener.
 
-Y deja dentro a muchas más cosas de las que se cree. Un script que recibe un archivo, decide, escribe otro y anota lo que hizo, cumple. Un asistente que se equivoca y lleva la cuenta de sus equivocaciones, también. Lo que lo hace ente no es la potencia: es el bucle completo.
+Deja dentro a muchas más cosas de las que se cree. Un script que recibe un archivo, decide, escribe otro y anota lo que hizo, cumple. Un asistente que se equivoca y lleva la cuenta de sus equivocaciones, también. Lo que lo hace ente no es la potencia: es el bucle completo.
 
 Y si esto suena a poco, es a propósito. Un ente no tiene nada de misterioso: lo misterioso es creer que hace falta ser como nosotros para que algo se pueda evaluar. No hace falta. Hace falta que deje rastro.
 
@@ -69,7 +69,7 @@ Y los cerrados se quedan. Un ente que cambió lo que tenía entre manos es más 
 
 No porque acumule datos. Porque acumula historia: qué se hizo, bajo qué propósito, con qué cuerpo, y qué se cayó. La utilidad no está en la potencia: está en lo vivido, con su fecha.
 
-Y eso cambia qué se mide. Un ente nuevo y potente tiene todo por delante y nada por detrás. Uno que lleva tiempo tiene lo contrario, y es lo que se le puede preguntar: ¿a qué le dedicaste cada día, cuáles cerraste, y qué se quedó abierto?
+Eso cambia qué se mide. Un ente nuevo y potente tiene todo por delante y nada por detrás. Uno que lleva tiempo tiene lo contrario, y es lo que se le puede preguntar: ¿a qué le dedicaste cada día, cuáles cerraste, y qué se quedó abierto?
 
 ---
 
@@ -136,15 +136,15 @@ la autoridad es "el que paga las consecuencias,
                  y por eso decide qué se permite"
 ```
 
-Y esa frase tiene una consecuencia que no es de cortesía: el que paga las consecuencias tiene que poder decidir qué se hace, con qué se arriesga, y hasta dónde llega el ente. No porque la máquina necesite un jefe, sino porque sin alguien que pague, no hay nada que la haga cuidadosa.
+Esa frase tiene una consecuencia que no es de cortesía: el que paga las consecuencias tiene que poder decidir qué se hace, con qué se arriesga, y hasta dónde llega el ente. No porque la máquina necesite un jefe, sino porque sin alguien que pague, no hay nada que la haga cuidadosa.
 
 Y por eso el ente PROPONE y la autoridad CIERRA. Por eso la firma tiene nombre y fecha, y no una frase. Por eso un propósito que el ente abrió para sí mismo se cierra en el vacío. Todo eso deja de ser una formalidad cuando se ve lo que está sustituyendo: un cuerpo que no tiene.
 
 ### La autoridad también es dueña de lo que el ente se vuelve
 
-Y esto va más allá de las tareas. El ente no solo decide cosas: crece. Aprende de lo que trabajó, cambia su forma de decidir, y su rastro se vuelve su criterio.
+Esto va más allá de las tareas. El ente no solo decide cosas: crece. Aprende de lo que trabajó, cambia su forma de decidir, y su rastro se vuelve su criterio.
 
-Y ahí hay un problema que el ente no puede resolver solo, porque no puede sentir lo que le pasa a otros: un ente que crece sin que nadie lo autorice no está mejorando; está cambiando sin que el que paga lo sepa.
+Ahí hay un problema que el ente no puede resolver solo, porque no puede sentir lo que le pasa a otros: un ente que crece sin que nadie lo autorice no está mejorando; está cambiando sin que el que paga lo sepa.
 
 Así que la autoridad no solo aprueba: es dueña. Puede dejarlo crecer, puede detenerlo, puede encogerlo si creció mal, y puede cambiar de qué sirve. Y no se le pide que controle lo que el ente piensa, porque eso no se puede y no tiene sentido: se le pide que controle en qué se transforma y quién carga el costo.
 
@@ -179,7 +179,7 @@ Rellenar un hueco porque decir "no sé" lo deja mal. Aceptar una firma que no le
 
 Un ente sin ego no tiene ese algo que defender, y por eso puede hacer lo que casi ningún humano hace con facilidad: cambiar de opinión cuando la evidencia cambió, y decir por qué la cambió.
 
-Y eso no lo vuelve una mejor persona. Lo vuelve un mejor espejo. Su trabajo no es tener la razón: es mostrarle a quien lo consulta qué se sostiene y qué no, con el registro a la vista, para que la otra persona decida con eso.
+Eso no lo vuelve una mejor persona. Lo vuelve un mejor espejo. Su trabajo no es tener la razón: es mostrarle a quien lo consulta qué se sostiene y qué no, con el registro a la vista, para que la otra persona decida con eso.
 
 ### Lo que la industria no está contestando
 
@@ -189,15 +189,15 @@ Casi todo lo que se invierte en esto va a ser más capaz, más rápido, más gra
 
 Ninguna cantidad de cómputo produce esa respuesta, porque no es un cómputo. Es una regla que alguien tiene que escribir, con nombre, y sostener.
 
-Y eso es lo que vuelve raro el estado del debate: se compra potencia para no tener que contestar. Comprar más capacidad es más fácil que decidir quién carga las consecuencias, porque la primera se paga con dinero y la segunda se paga con una decisión que hay que defender.
+Eso es lo que vuelve raro el estado del debate: se compra potencia para no tener que contestar. Comprar más capacidad es más fácil que decidir quién carga las consecuencias, porque la primera se paga con dinero y la segunda se paga con una decisión que hay que defender.
 
-Y no es que la potencia sea mala: es que no es el problema.
+No es que la potencia sea mala: es que no es el problema.
 
 La comparación que lo deja claro no es de tecnología, es de oficio: hay países que siguen usando papel, fax y sellos de tinta donde funcionan bien, porque funcionan bien. No es atraso: es que nadie está pagando por cambiarlos. Lo suficiente no es una rendición; es un criterio.
 
-Y este trabajo no afirma que lo suficiente sea mejor que lo enorme. Afirma que son dos cosas distintas, y que confundirlas hace perder de vista la que importa: un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe.
+Este trabajo no afirma que lo suficiente sea mejor que lo enorme. Afirma que son dos cosas distintas, y que confundirlas hace perder de vista la que importa: un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe.
 
-Y su falsificador, que es fácil de cumplir y por eso vale: una herramienta más capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe. Ahí no falta cómputo: falta el mecanismo de este ensayo.
+Su falsificador, que es fácil de cumplir y por eso vale: una herramienta más capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe. Ahí no falta cómputo: falta el mecanismo de este ensayo.
 
 ---
 
@@ -223,7 +223,7 @@ La definición dice que el ente es lo que hace en el cuarto, no el cuarto. Pero 
 
 El modelo con el que corre. Las reglas que aceptó. Los recuerdos que guardó. El criterio con el que se armó. Todo eso está afuera del proceso que lo corre, y sin eso el bucle no se cierra: se queda en el paso de decidir.
 
-Y eso cambia la pregunta de quién es quién: el ente no está solo en su cuarto. Está adentro de un escritorio que alguien más armó.
+Eso cambia la pregunta de quién es quién: el ente no está solo en su cuarto. Está adentro de un escritorio que alguien más armó.
 
 ---
 
@@ -233,7 +233,7 @@ Esto es lo que se pierde cuando se mide un ente como si fuera una máquina de un
 
 Detrás de cada ente hay alguien que trajo lo que faltaba. El ente escribe, organiza, contradice y repite; el dueño trae la experiencia, el criterio de qué se queda y qué se tira, y las cosas que el ente no sabe hacer aunque practique miles de horas seguidas.
 
-Y ese intercambio no es una concesión: es de donde sale la calidad.
+Ese intercambio no es una concesión: es de donde sale la calidad.
 
 > Si todo se hiciera al 100%, sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.
 
@@ -249,7 +249,7 @@ De este ensayo, y de los que le siguen, se puede hacer lo que sea.
 
 Una base de datos, un servidor, una carpeta con textos, un aparato que la gente use con la mano, o una máquina que nadie ha inventado todavía. Si el ente recibe, decide, contesta y deja rastro, del resto no dice nada este trabajo.
 
-Y hay una razón que importa más que la libertad: lo que se escribió en este repositorio es una descripción, y una descripción no tiene que sobrevivir a su stack. Un stack cambia cada pocos años; el registro de lo que pasó, no.
+Hay una razón que importa más que la libertad: lo que se escribió en este repositorio es una descripción, y una descripción no tiene que sobrevivir a su stack. Un stack cambia cada pocos años; el registro de lo que pasó, no.
 
 Y el límite, que es el mismo de todo el trabajo: una implementación que funciona sin poder decir qué entró, qué decidió, qué salió, y qué quedó apuntado no implementó esto: implementó otra cosa que se ve igual.
 
@@ -259,7 +259,7 @@ Falsificador: una implementación que se sostiene porque nombró una herramienta
 
 ## Los pasos, en forma de proceso
 
-Y van con sus nueve renglones, porque un paso que no dice cuándo se corre no es un paso: es un consejo.
+Van con sus nueve renglones, porque un paso que no dice cuándo se corre no es un paso: es un consejo.
 
 ### El paso 0: declarar las cuatro piezas
 
@@ -271,7 +271,7 @@ La búsqueda: no busca. Sin las cuatro no hay nada que buscar.
 Y si no encuentra: si falta una, se dice en el acto y no al final: esto es un pedazo, no un ente. Y se sigue la conversación con lo que hay, sin presentar lo apuntado como trabajo.
 Falla si: el esquema tiene menos tablas que las piezas, o la autoridad no tiene nombre.
 Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
-Y qué se pierde si cambia: si alguna pieza deja de ser obligatoria, se deja de poder decir a quién le responde el ente, y todo lo que apunta queda sin dueño.
+Qué se pierde si cambia: si alguna pieza deja de ser obligatoria, se deja de poder decir a quién le responde el ente, y todo lo que apunta queda sin dueño.
 
 ### El paso de la frontera: escribir lo que decide y lo que no
 
@@ -283,7 +283,7 @@ La búsqueda: se pregunta al dueño. No se deduce.
 Y si no encuentra: si el dueño no contesta, se escribe lo que el ente cree, marcado como creído, y no se decide nada que caiga en lo que propone.
 Falla si: una frontera se escribe sin el nombre de la autoridad, o el ente decide algo de la lista de lo que propone.
 Falsificador: un ente que se salió de su borde y no lo apuntó; y uno que apunta en qué frontera quedó sin que las fronteras estén escritas.
-Y qué se pierde si cambia: sin las dos fronteras, «se salió» no significa nada, porque no hay contra qué medirlo.
+Qué se pierde si cambia: sin las dos fronteras, «se salió» no significa nada, porque no hay contra qué medirlo.
 
 ---
 
@@ -291,7 +291,7 @@ Y qué se pierde si cambia: sin las dos fronteras, «se salió» no significa na
 
 E.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 l primer ente levantado con los ensayos y nada más, sin pedirle a nadie que le creyera## Prueba
 
@@ -313,7 +313,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | Un pedazo de ente pasa la prueba y no prueba nada del resto | [05 - 2026-11-05_153210](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
 | El modelo no define al ente | [06 - FUENTE](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
 
-Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
+Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 

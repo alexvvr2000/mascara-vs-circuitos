@@ -140,5 +140,5 @@ la historia                  se lee como una cadena, y los cuatro últimos son e
 
 Que el estado del repositorio se saca de un comando, y que lo que falta está escrito en vez de en la cabeza.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

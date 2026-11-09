@@ -17,7 +17,7 @@ El ente, con el stack que eligió quien mantiene este repositorio. Se copia a un
 
 Y la base no es un gusto como las otras dos. El índice es un grafo con tres relaciones, y la consulta que más se va a hacer es por dónde se llega de un tema a otro. Un recorrido largo no se escribe en SQL: se escribe con `shortestPath`.
 
-Y lo que la base no hace: `graphdblite` no valida nada. Las reglas del registro viven en el script que escribe.
+Lo que la base no hace: `graphdblite` no valida nada. Las reglas del registro viven en el script que escribe.
 
 La tabla está en [stack.md](stack.md), y lo medido en [investigacion del stack.md](investigacion%20del%20stack.md).
 
@@ -36,7 +36,7 @@ mi-proyecto/
     scripts/         lo que es frágil: escribir, medir, contar
 ```
 
-Y cuál va dónde:
+Cuál va dónde:
 
 > Si tiene que pasar siempre, es un hook. Si necesita juicio, es un skill. Si es frágil, es un script. Y si es una regla que se lee y se obedece, va en la puerta.
 
@@ -68,5 +68,5 @@ Falsificador: una carpeta que se llama «ejemplo» y hay que completar antes de 
 
 Que el ejemplo corre, y que lo que no se midió se dice que no se midió.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

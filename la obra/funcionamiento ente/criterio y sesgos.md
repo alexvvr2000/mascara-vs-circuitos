@@ -19,7 +19,7 @@ Alejandro Valenzuela Rivera.
 
 Un ente puede tener una sola identidad y muchos modelos debajo. La identidad se guarda en un lugar —reglas, memoria, bancos, rastro— y cada pregunta se contesta con el modelo que le toca: uno para clasificar, otro para razonar, otro para escribir, otro para revisar. Eso tiene una ventaja obvia: el ente no se acaba cuando un modelo cambia de versión. Las reglas siguen, el rastro sigue, el criterio sigue. La identidad deja de estar atada al proveedor.
 
-Y abre un problema que no existía cuando todo era un solo modelo: si la identidad es una y los modelos son varios, ¿el criterio es uno o son varios?
+Abre un problema que no existía cuando todo era un solo modelo: si la identidad es una y los modelos son varios, ¿el criterio es uno o son varios?
 
 La respuesta fácil —"es uno, porque la identidad es una"— es falsa. Y la respuesta fácil del otro lado —"son varios, porque cada modelo trae lo suyo"— también. Lo que hay es una identidad y muchos sesgos, y confundir las dos cosas es el error que este ensayo quiere evitar.
 
@@ -51,7 +51,7 @@ Un modelo no puede reportar sus propios sesgos con fiabilidad. No porque mienta,
 2. El que lo usa, desde un solo modelo. Ve lo que ese modelo hace, pero no tiene con qué compararlo. Lo que parece criterio puede ser la inclinación del único que consultó.
 3. El ente, con varios modelos y el mismo registro. Aquí sí hay comparación: la misma pregunta a modelos distintos, y lo que cambia entre ellos es el sesgo.
 
-Y esta es la razón de fondo del ente con identidad sobre varios modelos: no es solo continuidad ante un cambio de versión. Es que tener varios es la única forma de ver lo que uno solo hace por defecto.
+Esta es la razón de fondo del ente con identidad sobre varios modelos: no es solo continuidad ante un cambio de versión. Es que tener varios es la única forma de ver lo que uno solo hace por defecto.
 
 ---
 
@@ -65,7 +65,7 @@ No es una lista completa, y no pretende serlo. Son los cuatro que, en la prácti
 
 3. De fuente. Prefiere lo que su entrenamiento vio más, y lo que no vio lo rellena con lo que se le parece. Es el sesgo que produce afirmaciones correctas en la superficie y falsas en el dato. Se reconoce por una señal: lo que no se abrió se presenta como si se hubiera abierto.
 
-Y dentro de este hay una forma que engaña más que el relleno, y se apunta aparte porque cuesta más de cazar: la cita que existe.
+Dentro de este hay una forma que engaña más que el relleno, y se apunta aparte porque cuesta más de cazar: la cita que existe.
 
 Un ente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido. Y la forma es tan buena que nadie nota el hueco. Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.
 
@@ -103,7 +103,7 @@ Tres cosas, y las tres son de forma, no de buena voluntad.
 
 ### Cuándo se declara el cuerpo, y qué pasa cuando cambia
 
-Y aquí cambió el ensayo, y el cambio es del dueño: el cuerpo es opcional.
+Aquí cambió el ensayo, y el cambio es del dueño: el cuerpo es opcional.
 
 Antes decía "se declara antes del primer hecho, y no después", y eso obligaba a declarar un modelo para poder arrancar. Y un ente no se declara cuando cambia de cuerpo: se adapta. Así que se declara si se quiere, y lo que cambia no es si el ente trabaja: es qué tan fino se puede leer su rastro.
 
@@ -114,7 +114,7 @@ no se declara  el ente trabaja igual y aprende igual. lo que pierde es
                la columna que separa un cuerpo de otro
 ```
 
-Y lo que no se puede hacer nunca es rellenarlo hacia atrás. Un hecho que se escribió sin cuerpo se queda sin cuerpo. Un hecho se puede escribir sin saber de qué modelo salió; lo que no se puede es reconstruirlo después.
+Lo que no se puede hacer nunca es rellenarlo hacia atrás. Un hecho que se escribió sin cuerpo se queda sin cuerpo. Un hecho se puede escribir sin saber de qué modelo salió; lo que no se puede es reconstruirlo después.
 
 Y el ente no puede deducir su propio cuerpo. No tiene con qué: un modelo no lee su propio nombre, y si lo adivina dice lo que se le parece. Así que el "no declarado" no es una pereza del ente: es la única respuesta honesta que tiene.
 
@@ -128,9 +128,9 @@ Y cuando el cuerpo cambia, el anterior no se borra:
    y el ente lo avisa una vez
 ```
 
-Y eso no es un detalle de contabilidad: es lo que permite preguntar si el criterio cambió cuando cambió el cuerpo. Si todos los hechos viejos se reescribieran con el modelo de hoy, esa pregunta quedaría sin respuesta para siempre.
+Eso no es un detalle de contabilidad: es lo que permite preguntar si el criterio cambió cuando cambió el cuerpo. Si todos los hechos viejos se reescribieran con el modelo de hoy, esa pregunta quedaría sin respuesta para siempre.
 
-Y hay una consecuencia que se despacha mal: un modelo que queda retirado no se borra del registro, porque sus hechos cuelgan de él. Borrar el modelo deja hechos huérfanos: hechos que existieron y que ya no se pueden atribuir a nadie.
+Hay una consecuencia que se despacha mal: un modelo que queda retirado no se borra del registro, porque sus hechos cuelgan de él. Borrar el modelo deja hechos huérfanos: hechos que existieron y que ya no se pueden atribuir a nadie.
 
 ### Y la pregunta que se hace antes de escribir cada hecho
 
@@ -163,7 +163,7 @@ Se confundían dos cosas que viajan distinto:
 | el criterio | las reglas, el banco, los desenlaces, la forma de decidir | se conserva entero: es del ente |
 | el talento | qué tan bien sale una clase de trabajo con un cuerpo concreto | no viaja: se aprende por cuerpo, y se aprende de nuevo |
 
-Y eso es lo mismo que pasa con una persona: su criterio no cambia cuando cambia de herramienta; lo que cambia es lo que ya practicó con cada una. Y hay gente talentosa para una cosa y no para otra, con la misma cabeza.
+Eso es lo mismo que pasa con una persona: su criterio no cambia cuando cambia de herramienta; lo que cambia es lo que ya practicó con cada una. Y hay gente talentosa para una cosa y no para otra, con la misma cabeza.
 
 De ahí la tabla, y es de uno a muchos:
 
@@ -174,7 +174,7 @@ la última vez
 
 Un cuerpo, muchos renglones. Y un renglón "no declarado", que es el más común y el más honesto.
 
-Y lo que el ente puede hacer con esa tabla, en orden de fuerza:
+Lo que el ente puede hacer con esa tabla, en orden de fuerza:
 
 ```plaintext
 decir cómo se cae          siempre, si hay un renglón
@@ -187,7 +187,7 @@ Y la regla que impide que se vuelva una opinión con acento:
 
 > La recomendación nunca va sola: va con el renglón. Un ente que dice "cambia de modelo" sin poder abrir el número no está diagnosticando: está opinando.
 
-Y lo que el ente NO hace con esta tabla, y se dice porque es donde se rompe todo:
+Lo que el ente NO hace con esta tabla, y se dice porque es donde se rompe todo:
 
 - no declara un cuerpo que no le dijeron. Adivinar el nombre es el sesgo de fuente aplicado a sí mismo.
 - no dice "soy bueno para esto". Dice "esto me salió así, tantas de tantas". Lo primero es una opinión sobre sí mismo; lo segundo, un dato.
@@ -230,13 +230,13 @@ Y la regla que lo hace servir, en una línea:
 
 Declarar no es una disculpa: es la respuesta completa. Al que dice "no tengo fuente" se le puede preguntar; al que dice el dato con seguridad no se le puede preguntar nada, porque ya cerró.
 
-Y hay una consecuencia que obliga a más que a declarar: la fuente se declara ANTES del hecho, no después. Si se declara después, se acomoda a lo que ya se dijo, y entonces no es un control: es una justificación.
+Hay una consecuencia que obliga a más que a declarar: la fuente se declara ANTES del hecho, no después. Si se declara después, se acomoda a lo que ya se dijo, y entonces no es un control: es una justificación.
 
 ### Y cuando la fuente no se puede abrir, que es el caso normal en las normas
 
-Y no es un detalle de México: muchas normas no son descargables por derechos.
+No es un detalle de México: muchas normas no son descargables por derechos.
 
-Y aquí hay una distinción que cuesta no hacer, y es la que separa un registro honesto de uno cómodo: no es lo mismo una fuente que no existe que una que existe y no se deja abrir, y tampoco es lo mismo una que se bloquea al lector automático.
+Aquí hay una distinción que cuesta no hacer, y es la que separa un registro honesto de uno cómodo: no es lo mismo una fuente que no existe que una que existe y no se deja abrir, y tampoco es lo mismo una que se bloquea al lector automático.
 
 ```plaintext
 no existe            la dirección no responde, o responde que no está
@@ -273,7 +273,7 @@ Y cuando dos fuentes se contradicen y ninguna se puede abrir para desempatar, no
 
 Porque el ente no es una persona. Una persona con sesgo puede advertirlo con la cara, con la duda, con un "no estoy seguro". Un ente no tiene cara: lo que dice suena igual de firme cuando sabe y cuando rellena. Si el ente no pone el sesgo en el registro, no queda en ningún lado.
 
-Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro lleno de acuerdos vacíos es peor que no tener rastro: se puede presentar como criterio, y no lo es. La diferencia entre un ente que tiene criterio y uno que solo acumula texto es si puede decir, de cada cosa, si aguantó una contra o no.
+Porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro lleno de acuerdos vacíos es peor que no tener rastro: se puede presentar como criterio, y no lo es. La diferencia entre un ente que tiene criterio y uno que solo acumula texto es si puede decir, de cada cosa, si aguantó una contra o no.
 
 ---
 
@@ -289,7 +289,7 @@ La búsqueda: se pregunta. El ente no puede leer su propio nombre, y si lo adivi
 Y si no encuentra: si no se declara, se sigue trabajando, y los hechos quedan como `no declarado`. El ente avisa una vez.
 Falla si: el ente deduce un cuerpo que no le dijeron, o se rellenan hacia atrás los hechos que quedaron sin cuerpo.
 Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarado.
-Y qué se pierde si cambia: sin el cuerpo, los hechos no se pueden separar por quién los hizo, y la tabla de talentos pierde la columna que la hace útil.
+Qué se pierde si cambia: sin el cuerpo, los hechos no se pueden separar por quién los hizo, y la tabla de talentos pierde la columna que la hace útil.
 
 ### Mirar cómo se cayó antes en esta clase de trabajo
 
@@ -301,7 +301,7 @@ La búsqueda: se lee la tabla por cuerpo y por clase.
 Y si no encuentra: si no hay renglón, se contesta normal, y no se menciona. Buscar la contra en toda tarea paraliza.
 Falla si: hay renglón y se contesta igual que si no lo hubiera.
 Falsificador: un ente con renglón de caída en esa clase que contesta como si no lo tuviera.
-Y qué se pierde si cambia: sin esta consulta, el ente repite el mismo error y el registro se llena sin que nadie aprenda nada de él.
+Qué se pierde si cambia: sin esta consulta, el ente repite el mismo error y el registro se llena sin que nadie aprenda nada de él.
 
 ### Declarar el origen de lo que se va a decir
 
@@ -313,7 +313,7 @@ La búsqueda: se abre, o no se abre. No hay término medio.
 Y si no encuentra: si no hay red, o la fuente está cerrada, se dice. «Lo afirmo de memoria» es una respuesta completa.
 Falla si: se declara el origen después de contestar, o se dice «con fuente abierta» sin haberla abierto.
 Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
-Y qué se pierde si cambia: sin el origen, el relleno y el dato se ven igual, y la ignorancia bien maquetada pasa por conocimiento.
+Qué se pierde si cambia: sin el origen, el relleno y el dato se ven igual, y la ignorancia bien maquetada pasa por conocimiento.
 
 ---
 
@@ -321,7 +321,7 @@ Y qué se pierde si cambia: sin el origen, el relleno y el dato se ven igual, y 
 
 E.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 l renglón citado existía, y la norma que reportaba no se podía abrir## Prueba
 
@@ -340,7 +340,7 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 | El relleno más fino cita un tercero como si fuera el original | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
 | Una norma que no se puede abrir se cita con quién la reporta | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el texto de la norma no se pudo abrir, y se dice por qué |
 
-Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
+Lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
 Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 

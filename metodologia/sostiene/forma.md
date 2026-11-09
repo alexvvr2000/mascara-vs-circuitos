@@ -46,7 +46,7 @@ lo que queda     que es un ente.md     →  «# Que es un ente»
 
 El número de orden no desaparece: se deriva. Ordena el nombre del archivo, y quien inserta escribe `02 ` delante y corre los demás. Es un renombrado de archivos y no una edición de texto: quien lo hace ve el cambio en su copia, y quien lee la versión publicada ve el orden, sin necesitar un historial que aquí no hay.
 
-Y lo que se gana:
+Lo que se gana:
 
 ```plaintext
 insertar un ensayo     se renombran los que siguen, y no se abre ninguno
@@ -96,7 +96,7 @@ Los nueve renglones no son una plantilla que se rellena: son las preguntas que u
 
 «Lo visto» va antes de la prueba porque lo primero que el lector tiene que saber no es lo que el ensayo afirma, sino que alguien lo vio. Un ensayo sin lo visto se lee como una opinión; uno con lo visto, como un acta. Y el acta es de alguien que estaba ahí, y eso no hace falta escribirlo: se nota.
 
-Y lo que la forma no dice, a propósito: no fija cuánto mide un ensayo. Un paso engorda con su tabla de procedencia, sus casos de borde y sus mutantes; un mapa engorda con sus enlaces. El tamaño lo pone el detalle, no la forma.
+Lo que la forma no dice, a propósito: no fija cuánto mide un ensayo. Un paso engorda con su tabla de procedencia, sus casos de borde y sus mutantes; un mapa engorda con sus enlaces. El tamaño lo pone el detalle, no la forma.
 
 ---
 
@@ -111,13 +111,13 @@ un mutante de forma   se quita la forma entera: «el ensayo sin Falsificador»
 
 Y como la forma es la misma en los quince, el método B ya no necesita que el ciclo engorde para probar un paso: cada paso se muta en su archivo, y el ciclo no se entera.
 
-Y lo que sigue faltando: los mutantes de hoy se corrieron contra el ciclo de hoy. Cuando el ciclo se parta en pasos, cada mutante declarará cuál rompe, y eso se re-apunta una vez; después no, porque el grupo cita el título, y el título no cambia porque el archivo se mueva.
+Lo que sigue faltando: los mutantes de hoy se corrieron contra el ciclo de hoy. Cuando el ciclo se parta en pasos, cada mutante declarará cuál rompe, y eso se re-apunta una vez; después no, porque el grupo cita el título, y el título no cambia porque el archivo se mueva.
 
 ---
 
 ## VI. Lo que el build no comprueba
 
-Y esto se dice porque un build verde se lee como un ensayo bueno, y no lo es.
+Esto se dice porque un build verde se lee como un ensayo bueno, y no lo es.
 
 ```text
 no comprueba que el texto sea verdad         para eso están las corridas
@@ -151,7 +151,7 @@ BUILD CAIDO   · k fallos · H1 a · ENLACE b · NUMERO c · FORMA d
 
 Que un repositorio que crece por añadir ensayos se mantiene con cuatro reglas, y no con memoria.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

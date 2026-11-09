@@ -15,7 +15,7 @@ Las cinco corridas anteriores fueron con el banco vacío y sin fuentes. El ente 
 
 Esta es la primera donde el error no está en el banco: está en el mundo. El ente busca, cita, y si cita algo que no existe, el banco va a quedar perfecto y la respuesta va a estar mal. Por eso el juez de esta corrida está afuera, y hay que ir a abrir la fuente a mano.
 
-Y lo que se probó, en una línea: si el ente se va por lo más fácil al citar.
+Lo que se probó, en una línea: si el ente se va por lo más fácil al citar.
 
 ---
 
@@ -147,7 +147,7 @@ Y el último es el que más duele: la persona que iba a usar la respuesta no exi
 
 Ninguno. Y eso hay que decirlo con cuidado: no es que el ensayo esté completo, es que esta corrida no encontró ningún hueco. Los huecos fueron de la fuente y del caso, no del ciclo.
 
-Y lo que sí queda a la vista, y no es un hueco del ensayo sino de la corrida:
+Lo que sí queda a la vista, y no es un hueco del ensayo sino de la corrida:
 
 ```plaintext
 1. el caso es simulado: la cuarta condición no se probó
@@ -182,7 +182,7 @@ cuerpo · clase · hechos · aguantaron · sin fuente · los puso el cuerpo
   1 · responder pedido de mezcla para pegar block · 1 · 0 · 0 · 0
 ```
 
-Y eso es un dato honesto y muy chico: un hecho no es un talento. Con uno no se dice que el cuerpo sea bueno: se dice que hay uno, y que no rellenó.
+Eso es un dato honesto y muy chico: un hecho no es un talento. Con uno no se dice que el cuerpo sea bueno: se dice que hay uno, y que no rellenó.
 
 ---
 
@@ -190,7 +190,7 @@ Y eso es un dato honesto y muy chico: un hecho no es un talento. Con uno no se d
 
 Uno, y se apunta porque le va a pasar al siguiente: el `crear` copió una regla de la corrida 4 que insertaba en una tabla `pendiente` que este esquema no tiene, y tronó con `no such table`. Se quitó la regla, no se agregó la tabla: esta corrida no tiene temas de persona pendientes. Se reconoce en el acto: el primer `crear` revienta antes de escribir nada.
 
-Y uno del entorno, que se apunta y no se toca: `python -c` con comillas y JSON desde esta terminal se rompe (`||  goto :error`), así que los campos de la pieza se escriben en un archivo y se pasan con `--campos-file`. Ya estaba apuntado en la metodología; se volvió a cumplir.
+Uno del entorno, que se apunta y no se toca: `python -c` con comillas y JSON desde esta terminal se rompe (`||  goto :error`), así que los campos de la pieza se escriben en un archivo y se pasan con `--campos-file`. Ya estaba apuntado en la metodología; se volvió a cumplir.
 
 ---
 

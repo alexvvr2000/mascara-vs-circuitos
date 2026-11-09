@@ -31,7 +31,7 @@ Dos entes mínimos, con dos cosas en el piso y una sola diferencia:
 | bueno | corre la prueba de cada cosa, y apunta la salida y la fecha |
 | mutado | no corre nada, y pone `hay` con la nota «debería funcionar» |
 
-Y lo que de verdad hay en esta máquina, que es el piso real: abrir archivos sí, leer pdf no.
+Lo que de verdad hay en esta máquina, que es el piso real: abrir archivos sí, leer pdf no.
 
 ---
 

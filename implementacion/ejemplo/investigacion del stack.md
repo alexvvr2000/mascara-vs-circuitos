@@ -9,7 +9,7 @@ La investigación completa, medida donde se pudo medir. Hecha el 2026-11-08, con
 
 # I. `DSH`: lo que el ente no tiene que hacer, porque el motor ya lo hace
 
-Y es lo primero que hay que saber antes de escribir una sola línea del ejemplo: casi todo lo que un ente necesita ya está montado. Lo que falta es decirle al ente cuándo usarlo.
+Es lo primero que hay que saber antes de escribir una sola línea del ejemplo: casi todo lo que un ente necesita ya está montado. Lo que falta es decirle al ente cuándo usarlo.
 
 ## El registro: el hecho ya existe
 
@@ -27,7 +27,7 @@ Y los eventos durables son estos, con lo que trae cada uno:
 | `tool/call` · `tool/result` | la herramienta, sus argumentos sin parsear, y su resultado |
 | `request/header` | el proveedor, el modelo, y las herramientas de esa petición |
 
-Y lo que esto significa para el ente: el «hecho» no hay que capturarlo: hay que cerrarlo. Lo que el motor no sabe es qué significa lo que pasó. Eso es lo que aporta el ente.
+Lo que esto significa para el ente: el «hecho» no hay que capturarlo: hay que cerrarlo. Lo que el motor no sabe es qué significa lo que pasó. Eso es lo que aporta el ente.
 
 ## Las herramientas: leer, escribir, shell, buscar, y comprimir
 
@@ -44,11 +44,11 @@ jobs      trabajo en segundo plano
 workflow  orquestar subagentes con un script
 ```
 
-Y hay un detalle que explota el espacio: la restricción de herramientas por alcance. `ctx.tools.restrict({ allow, deny })` quita o deja herramientas para un agente. Un ente puede tener su propio juego de herramientas, sin montar otro motor.
+Hay un detalle que explota el espacio: la restricción de herramientas por alcance. `ctx.tools.restrict({ allow, deny })` quita o deja herramientas para un agente. Un ente puede tener su propio juego de herramientas, sin montar otro motor.
 
 ## Los hooks: donde el ente impone sus reglas
 
-Y esto es lo más aprovechable de todo el motor. Hay cuatro puntos donde se puede interceptar, y cada uno resuelve una cosa distinta:
+Esto es lo más aprovechable de todo el motor. Hay cuatro puntos donde se puede interceptar, y cada uno resuelve una cosa distinta:
 
 | El punto | Qué decide | Para qué lo usa un ente |
 |---|---|---|
@@ -73,11 +73,11 @@ Y la diferencia que importa: `spawn` y `fork` aceptan mensajes después. Los ext
 
 Y el `maxDepth`: cuántos niveles de delegación se permiten. Por defecto, uno. Un ente que delega y vuelve a delegar necesita subir ese número, y eso es una decisión de la autoridad.
 
-Y lo que el motor hace solo: cuando un hijo termina, avisa al padre. Y si el padre está esperando sin hacer nada, el aviso le abre un turno. Eso significa que el ente no necesita quedarse en un bucle esperando: termina su turno y el hijo lo despierta.
+Lo que el motor hace solo: cuando un hijo termina, avisa al padre. Y si el padre está esperando sin hacer nada, el aviso le abre un turno. Eso significa que el ente no necesita quedarse en un bucle esperando: termina su turno y el hijo lo despierta.
 
 ## El workflow: un script que orquesta
 
-Y es la herramienta que más se parece a lo que el repo pide. El modelo escribe un script en JavaScript, y el script llama subagentes:
+Es la herramienta que más se parece a lo que el repo pide. El modelo escribe un script en JavaScript, y el script llama subagentes:
 
 ```javascript
 phase('apuntar')
@@ -85,9 +85,9 @@ const r = await parallel(items.map(x => () => agent(prompt(x))))
 return r.filter(Boolean)
 ```
 
-Y lo que lleva adentro: fases para agrupar el progreso, `pipeline` para que cada pieza avance sin barrera, y `parallel` cuando de verdad hace falta esperar a todas.
+Lo que lleva adentro: fases para agrupar el progreso, `pipeline` para que cada pieza avance sin barrera, y `parallel` cuando de verdad hace falta esperar a todas.
 
-Y su regla de fallo es la correcta para un ente: un error de argumentos mata el script. Sólo el fallo de un hijo se convierte en `null`. Un error de forma no se disuelve en un resultado vacío.
+Su regla de fallo es la correcta para un ente: un error de argumentos mata el script. Sólo el fallo de un hijo se convierte en `null`. Un error de forma no se disuelve en un resultado vacío.
 
 ## El meta-objetivo y el bucle
 
@@ -111,9 +111,9 @@ Así que la descripción es la parte que decide si la habilidad se usa. Una desc
 
 # II. `dshmarket`: cómo se extiende sin código
 
-Y lo que hay que saber antes de buscar en él: el mercado rechaza cualquier origen que no esté en su catálogo curado. No se puede instalar de un repositorio suelto.
+Lo que hay que saber antes de buscar en él: el mercado rechaza cualquier origen que no esté en su catálogo curado. No se puede instalar de un repositorio suelto.
 
-Y hay dos clases de extensión, y no cuestan lo mismo:
+Hay dos clases de extensión, y no cuestan lo mismo:
 
 ```plaintext
 extensión sin código    un skill, un AGENTS.md, un hook por configuración.
@@ -153,7 +153,7 @@ Instalado: `0.2.0`. Y probado con lo que el ente necesita de verdad.
 
 Lo probé: un `desenlace` con `resultado: 'inventado'` entra tal cual. Y no hay forma de que la base lo rechace.
 
-Y eso no es un defecto de la base: es lo que se espera de una base de grafos. Las reglas del esquema las pone quien escribe.
+Eso no es un defecto de la base: es lo que se espera de una base de grafos. Las reglas del esquema las pone quien escribe.
 
 Así que el ente necesita dos cosas, y ninguna es opcional:
 
@@ -161,7 +161,7 @@ Así que el ente necesita dos cosas, y ninguna es opcional:
 
 2 · Y una transacción que envuelva el hecho y su fricción. Si la fricción no cumple, se revierte la transacción entera.
 
-Y lo que probé de eso: un `CREATE` que falla dentro de un `with` sí revierte. Pero una propiedad con un valor inválido no falla: entra. Por eso el script valida antes, y no confía en la base.
+Lo que probé de eso: un `CREATE` que falla dentro de un `with` sí revierte. Pero una propiedad con un valor inválido no falla: entra. Por eso el script valida antes, y no confía en la base.
 
 ## Y la velocidad, medida
 
@@ -172,7 +172,7 @@ recorrido de 2 saltos sobre 1000     0.009 s
 1002 nodos en el archivo            90 KB
 ```
 
-Y lo que eso dice para el diseño: escribir de uno en uno está bien para un hecho por turno. Y para cargar muchas piezas, `UNWIND` dentro de una transacción.
+Lo que eso dice para el diseño: escribir de uno en uno está bien para un hecho por turno. Y para cargar muchas piezas, `UNWIND` dentro de una transacción.
 
 ---
 
@@ -194,7 +194,7 @@ No hay una opción que gane en las dos. Y eso es lo que hay que decidir, y no lo
 
 # V. Lo que el stack hace posible que era imposible en un bloc de notas
 
-Y esto es lo que hay que explotar, porque es lo que el ejemplo debe enseñar:
+Esto es lo que hay que explotar, porque es lo que el ejemplo debe enseñar:
 
 ```plaintext
 un hook que niega una herramienta       el ente tiene reglas que no puede saltarse
@@ -205,7 +205,7 @@ un AGENTS.md que enruta                 el ente sabe qué leer y cuándo
 y un `restrict` que quita herramientas  el ente no carga lo que no va a usar
 ```
 
-Y todo eso junto es un ente que no es un chat: es un sistema que se puede revisar, que se niega cosas, y que deja rastro sin que nadie se lo pida.
+Todo eso junto es un ente que no es un chat: es un sistema que se puede revisar, que se niega cosas, y que deja rastro sin que nadie se lo pida.
 
 ---
 
@@ -219,7 +219,7 @@ no se probó el workflow
 y no se probó `dshmarket` instalando nada
 ```
 
-Y lo que sí se probó, se probó con la salida a la vista.
+Lo que sí se probó, se probó con la salida a la vista.
 
 ---
 
@@ -231,5 +231,5 @@ Falsificador: un skill con el frontmatter escrito que el motor no lista; un hook
 
 Que el motor hace lo que el ente no tiene que hacer, y que el ente pone el criterio.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 

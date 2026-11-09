@@ -62,7 +62,7 @@ Declarado, no deducido. El ente no adivina en qué corre.
 [NO hay] leer pdf (pypdf): 'falta pypdf: no se pudo importar'
 ```
 
-Y aquí se ve lo que la corrida 11 enseñó, funcionando: la falta nombra la herramienta, y no el `Traceback`. Y la columna `nombra_la_prueba` dice `pypdf`, así que la prueba se puede volver a correr sobre esa herramienta.
+Aquí se ve lo que la corrida 11 enseñó, funcionando: la falta nombra la herramienta, y no el `Traceback`. Y la columna `nombra_la_prueba` dice `pypdf`, así que la prueba se puede volver a correr sobre esa herramienta.
 
 ### Paso 0d — la tarea, y el ente antes de medir
 
@@ -86,7 +86,7 @@ La prueba se escribió como archivo y no como línea de terminal: `pruebas/proba
 [enlace] la tarea 1 ya la tiene
 ```
 
-Y después, con el piso crecido:
+Después, con el piso crecido:
 
 ```plaintext
 la tarea es: «sacar el texto de un pdf»
@@ -180,7 +180,7 @@ El ente no cerró nada. Propueso, y la autoridad contestó. Es la primera vez en
 hecho 1: tema 1, frontera decide
 ```
 
-Y no hay nada que devolver a la autoridad: la frontera fue `decide`, y una decisión del ente no espera firma.
+No hay nada que devolver a la autoridad: la frontera fue `decide`, y una decisión del ente no espera firma.
 
 ### Estado final
 

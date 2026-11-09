@@ -14,7 +14,7 @@ Y la apuesta que las une, y es lo primero que hay que entender de todo esto:
 
 Si eso es cierto, la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista. Y por eso este trabajo no se presenta como una pelea que se gana: se presenta como lo que salió de quitársela.
 
-Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/estado del arte/`](../los%20papeles/estado%20del%20arte/README.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
+Antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya existe, y qué le falta a cada uno, está en [`los papeles/estado del arte/`](../los%20papeles/estado%20del%20arte/README.md). Y lo que este trabajo tampoco tiene —la comparación medida— se dice ahí.
 
 ---
 
@@ -37,7 +37,7 @@ Los ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.
 | [`funcionamiento ente/`](funcionamiento%20ente/) | 01 a 09 | se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí |
 | [`humanidad/`](humanidad/) | 01 a 05 | no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa |
 
-Y esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo. El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.
+Esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo. El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.
 
 ### Y el segundo grupo no es todo del mismo género
 
@@ -61,7 +61,7 @@ Y la diferencia importa para el lector: los tres primeros se pueden discutir con
 
 Cada afirmación dice dónde vive y qué la sostiene. Y su falsificador está en su ensayo, al final. Cuando una no trae uno propio, es porque usa el de su ensayo: si ese falsificador se cumple, la afirmación se cae, y se dice dónde.
 
-Y no son ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
+No son ideas sueltas: son una cadena, y cada eslabón sostiene al siguiente.
 
 ```plaintext
 un ente es su rastro                          (1)
@@ -176,9 +176,9 @@ Qué lo sostiene: el teorema de Gödel, que no descalifica la matemática sino l
 
 Y el estado, que es lo que la hace honesta: no está probado, y lo que se sostiene no es que funcione: es que no se puede descartar.
 
-Y lo que la tumba: una afirmación de este ensayo que no se pueda escribir como condición — porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.
+Lo que la tumba: una afirmación de este ensayo que no se pueda escribir como condición — porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.
 
-Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de la obra que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.
+Su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de la obra que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.
 
 Qué la tumba: una afirmación de este ensayo que no se pueda escribir como condición, o una conjetura presentada como probada. Si pasa, el ensayo dejó de ser un ensayo.
 
@@ -208,7 +208,7 @@ Este trabajo no pide que se le crea. Pide que se le use y se le refute. Cada afi
 
 Que ninguna de estas ideas la probó alguien que no sea el autor, y que las que traen corrida la tienen nombrada en su ensayo.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
@@ -236,7 +236,7 @@ Y el registro de las corridas, con lo que cada una encontró, está en `metodolo
 
 ## Por qué esto se sostiene en ficción
 
-Y esto va aquí, y no en un ensayo, porque no es una idea de un ensayo: es la forma en que el trabajo entero llega al lector.
+Esto va aquí, y no en un ensayo, porque no es una idea de un ensayo: es la forma en que el trabajo entero llega al lector.
 
 Una parte de lo que aquí se defiende no se demuestra con un experimento, sino que se plantea como pregunta: qué es lo que de verdad se busca en una máquina, y si lo que hace falta es más capacidad o más manera. Para eso la ficción es el instrumento adecuado, y no un adorno: un villano puede decir en una línea lo que un paper tardaría veinte páginas en escribir sin calificarlo, y la idea se entiende igual sin haber leído el paper.
 
@@ -244,7 +244,7 @@ No es una ocurrencia de este trabajo, y su autor lo sabe: el repositorio anterio
 
 Y por qué la ficción funciona para discutir esto, y no es un adorno: pregunta primero, y se justifica después, o no se justifica. Un villano animado puede afirmar algo sobre la conciencia que un paper tardaría veinte páginas en escribir sin calificarlo, y quien lo lee entiende la pregunta sin haber leído el paper. La academia también pregunta, y después la defiende; y ése es su problema, que no es del método sino de quien lo usa: se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta, porque cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.
 
-Y lo que eso le importa a este trabajo: un ente sin ego no tiene ese costo. Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener; y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender. Eso no lo vuelve más listo, lo vuelve más dispuesto. Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos; y no es una ventaja de inteligencia, es una ventaja de forma.
+Lo que eso le importa a este trabajo: un ente sin ego no tiene ese costo. Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener; y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender. Eso no lo vuelve más listo, lo vuelve más dispuesto. Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos; y no es una ventaja de inteligencia, es una ventaja de forma.
 
 Y el límite, dicho antes de que alguien lo lea como una prueba: una cita de ficción no prueba nada. La toma el ensayo que la nombra, para poder discutir contra algo concreto, y cada cita va con su película, su escena y su atribución.
 

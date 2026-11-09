@@ -68,7 +68,7 @@ el rechazo NO se borra:  "un no que se puede borrar no fue un no: fue una pausa"
 la corrección SÍ:        borrada, y el hecho 2 volvió a contarse entre los vigentes
 ```
 
-Y esto no es un descuido de la corrida: es un descuido de razonamiento.
+Esto no es un descuido de la corrida: es un descuido de razonamiento.
 
 En la 16 se blindó el rechazo porque se puede apagar una marca. Y la corrección se trató como un enlace, dando por hecho que un enlace no se borra. Y se borra.
 

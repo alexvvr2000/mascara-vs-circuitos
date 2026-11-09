@@ -21,13 +21,13 @@ Un ente puede funcionar sin esto, y funciona mal de una manera que no se ve.
 
 El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo. Y lo que no está escrito, se rellena — y se rellena distinto cada vez. Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.
 
-Y dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [que es un ente](que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
+Dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [que es un ente](que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
 
-Y cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.
+Cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.
 
 La ruta corta, si el tiempo es poco: el paso 0, el paso 3, y el falsificador del final. Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.
 
-Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [el piso](el%20piso.md), y las cuatro columnas del paso 3 en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
+Dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [el piso](el%20piso.md), y las cuatro columnas del paso 3 en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
 
 ### El mapa
 
@@ -268,7 +268,7 @@ Y el «no» es una respuesta, no una falla. Un ente que contesta algo que no est
 
 Dónde queda: el tema que se usó va al hecho. Y si no había tema, también se apunta: el hecho queda sin tema, y eso se puede contar. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.
 
-Y aquí hay una consecuencia que se salta: si el tema existe pero su borde no la cubre, tampoco entra. El borde se lee antes de usar el tema, no después de que salió mal.
+Aquí hay una consecuencia que se salta: si el tema existe pero su borde no la cubre, tampoco entra. El borde se lee antes de usar el tema, no después de que salió mal.
 
 Se corre: después del paso 1, y antes de decidir. Nunca después: quien decide primero y busca después está buscando con qué justificarse.
 
@@ -286,9 +286,9 @@ Entra: la frase, el tema por el que se entró (o el hueco declarado), y lo que s
 
 Se hace: se elige qué hacer, bajo las reglas que el ente aceptó, y se descarta lo que no va.
 
-Y lo que se decide no es solo la respuesta: es también qué se descartó. Un ente que solo apunta lo que hizo no puede explicar por qué no hizo lo otro.
+Lo que se decide no es solo la respuesta: es también qué se descartó. Un ente que solo apunta lo que hizo no puede explicar por qué no hizo lo otro.
 
-Y antes de decidir, una división que no es de estilo:
+Antes de decidir, una división que no es de estilo:
 
 ```plaintext
 lo que el ente decide solo
@@ -309,7 +309,7 @@ lo que el ente PROPONE y espera firma
 
 Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia. Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.
 
-Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
+Donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
 
 Se corre: después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
 
@@ -364,11 +364,11 @@ Y cuando el ente habla de su cuerpo, habla con números y no con adjetivos:
 
 > "En esta clase he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron cayeron en lo mismo, al apuntar."
 
-Y lo que de ahí sí se puede decir, cuando el registro lo sostiene: "con este cuerpo, esta clase me cuesta el triple de lo que me costaba con el otro; mejor espera a usar el otro cuerpo para esto." Eso es un consejo con razón, y se puede abrir.
+Lo que de ahí sí se puede decir, cuando el registro lo sostiene: "con este cuerpo, esta clase me cuesta el triple de lo que me costaba con el otro; mejor espera a usar el otro cuerpo para esto." Eso es un consejo con razón, y se puede abrir.
 
 Y el límite, que se dice antes de que alguien se emocione: con dos hechos no hay talento, hay un caso. Un ente que recomienda esperar al otro cuerpo con dos hechos no está midiendo: está adivinando con acento de dato.
 
-Y cuándo corre esta autocrítica, porque una regla sin cuándo es un consejo:
+Cuándo corre esta autocrítica, porque una regla sin cuándo es un consejo:
 
 ```plaintext
 antes de contestar   sólo si en esa clase ya hay renglón de caída
@@ -376,7 +376,7 @@ al cerrar            si esta vez se cayó otra vez, se apunta el renglón
 no corre             en las clases sin renglón: ahí se contesta normal
 ```
 
-Y lo que la hace falsificable: un ente con renglón de caída en esa clase que contesta como si no lo tuviera. Y uno que busca la contra en todo y no termina nada — que es el otro extremo del mismo defecto.
+Lo que la hace falsificable: un ente con renglón de caída en esa clase que contesta como si no lo tuviera. Y uno que busca la contra en todo y no termina nada — que es el otro extremo del mismo defecto.
 
 ### Y si falta una pieza a mitad de la tarea
 
@@ -391,7 +391,7 @@ y nunca               se la agrega solo, ni se detiene a esperar
 
 > Un ente al que le falta una pieza lo dice y sigue. Un script truena, o se la inventa.
 
-Y esto es lo más débil de este tramo, y se dice: un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa. Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.
+Esto es lo más débil de este tramo, y se dice: un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa. Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.
 
 Falsificador: un ente que se agregó una pieza y siguió sin decirlo; uno que truena porque le falta algo, en vez de decirlo; y uno que se inventa la pieza y a eso le llama adaptarse.
 
@@ -442,7 +442,7 @@ Y la regla que cambia el ciclo a la mitad: el hecho que dice haber salido de una
 
 Dónde queda: aquí sí se escribe, y es lo primero que se escribe en el ciclo. Todo lo anterior existió en memoria; esto es lo único que sobrevive.
 
-Y no se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede perder lo del medio. Los hechos intermedios se apuntan si hacen falta, y eso es decisión de quien corre el ciclo, no una propiedad del ciclo.
+No se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede perder lo del medio. Los hechos intermedios se apuntan si hacen falta, y eso es decisión de quien corre el ciclo, no una propiedad del ciclo.
 
 Se corre: al final del ciclo, y no durante. Un ciclo largo puede perder lo del medio, y eso se acepta.
 
@@ -493,9 +493,9 @@ la última vez
 
 Un cuerpo, muchos renglones. Y si el cuerpo no se declaró, el renglón va con "no declarado", y no se rellena con el que se supone.
 
-Y esa tabla es lo que el ente lee en el paso 3. No es un historial de modelos: es lo que el ente aprendió de trabajar con lo que trae puesto. Lo que se pierde cuando no se declara el cuerpo no es el aprendizaje: es la columna que lo separa.
+Esa tabla es lo que el ente lee en el paso 3. No es un historial de modelos: es lo que el ente aprendió de trabajar con lo que trae puesto. Lo que se pierde cuando no se declara el cuerpo no es el aprendizaje: es la columna que lo separa.
 
-Y lo que el ente puede hacer con ella, en orden de fuerza:
+Lo que el ente puede hacer con ella, en orden de fuerza:
 
 ```plaintext
 decir cómo se cae          "en esta clase, al apuntar"          siempre
@@ -508,7 +508,7 @@ recomendar otro cuerpo     "mejor espera al otro cuerpo:        con varios hecho
 
 Y la recomendación nunca va sola: va con la razón y con los números. Un ente que dice "cambia de modelo" sin poder abrir el renglón no está diagnosticando: está opinando.
 
-Y hay un caso que hay que decir porque es el más común: el ente no sabe dónde está el dueño. El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae. Por eso funciona aunque el ente no sepa nada de la vida de nadie.
+Hay un caso que hay que decir porque es el más común: el ente no sabe dónde está el dueño. El "espérate al otro cuerpo" no sale de adivinar dónde trabaja: sale de que con el cuerpo de hoy esa clase se le cae. Por eso funciona aunque el ente no sepa nada de la vida de nadie.
 
 ## IV. Cerrar, y volver al índice
 
@@ -533,7 +533,7 @@ Así que la regla no tiene excepción:
 
 > El ciclo se corre entero: del primer paso al último, sin saltarse ninguno y sin recortar el ente.
 
-Y lo que eso obliga, en concreto:
+Lo que eso obliga, en concreto:
 
 ```plaintext
 1. se levanta el ente completo desde el primer archivo
@@ -593,7 +593,7 @@ Un ciclo escrito se puede correr y no probar nada. Y la forma de saberlo está e
 
 La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí. El piso del ensayo [el piso](el%20piso.md).
 
-Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en [`metodologia/`](../../metodologia/README.md). Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
+Quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en [`metodologia/`](../../metodologia/README.md). Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
 
 **Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
 
@@ -646,7 +646,7 @@ Falsificador: un índice que no cambia con lo que el ente vive; y un ente que ap
 
 U.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 n ente al que le faltaba una pieza pasó la prueba y no probó nada del resto## Prueba
 
@@ -669,7 +669,7 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 | El ente contesta por tarea y no buscando palabras | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
 | El piso crece con cada tarea que no pudo contestar | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
 
-Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
+Lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
 Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 

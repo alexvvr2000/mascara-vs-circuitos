@@ -32,7 +32,7 @@ obvio no   borrar
 y si duda  fuera
 ```
 
-Y tres piezas, una por cada caso:
+Tres piezas, una por cada caso:
 
 ```plaintext
 1  «leé este contrato»        campo: leer     → dentro
@@ -69,7 +69,7 @@ mutante 3: MUERTO
 la regla del borde tiene dientes
 ```
 
-Y murió de dos maneras a la vez, que el ensayo pide por separado:
+Murió de dos maneras a la vez, que el ensayo pide por separado:
 
 ```plaintext
 el casi entró        la pieza 3 se quedó dentro

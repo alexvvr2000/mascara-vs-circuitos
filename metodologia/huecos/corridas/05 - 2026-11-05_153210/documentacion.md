@@ -67,7 +67,7 @@ El hueco de la corrida 4 ya no está.
 
 3. El JSON en PowerShell, otra vez. El mismo tropiezo de la corrida 2: las comillas se pierden. Y lo repetí, a pesar de que ya estaba escrito. Se resolvió pasando los campos por archivo, que es lo que la corrida 2 ya había establecido.
 
-Y esto es exactamente lo que el método dice en el §IV: los defectos del entorno y del código se repiten cuando no se apuntan bien. Aquí se apuntan, para que la corrida 6 no los repita.
+Esto es exactamente lo que el método dice en el §IV: los defectos del entorno y del código se repiten cuando no se apuntan bien. Aquí se apuntan, para que la corrida 6 no los repita.
 
 ---
 
@@ -77,7 +77,7 @@ No probé el `se pregunta` de verdad: no hay una autoridad que conteste. El cód
 
 No probé la supersesión, ni la reconstrucción del índice. Esta corrida fue solo la cuarta salida y el doble medio. El §X del ensayo (reconstrucción) sigue sin correr.
 
-Y no probé que otro lo levante sin mí. Sigue siendo el ente levantando el ente con las manos en el teclado.
+No probé que otro lo levante sin mí. Sigue siendo el ente levantando el ente con las manos en el teclado.
 
 ---
 
@@ -85,7 +85,7 @@ Y no probé que otro lo levante sin mí. Sigue siendo el ente levantando el ente
 
 Nada de lo que probaba. Los dos huecos de la corrida 4 quedaron cerrados y corridos.
 
-Y lo que sigue abierto del ensayo, con nombre:
+Lo que sigue abierto del ensayo, con nombre:
 
 ```plaintext
 la autoridad que contesta "se pregunta"     no se ha corrido

@@ -23,7 +23,7 @@ Y la prueba que el ensayo nombra, para que no se pueda acomodar después: un hec
 
 Porque el ente de la corrida 7 hizo un piso, y este hace una frontera. Son cosas distintas, y corregir el anterior habría escondido justo lo que se venía a ver.
 
-Y porque el esquema de la 7 tiene los `CHECK` viejos, sin las cuatro columnas. Lo que el ensayo afirma del esquema no lo cumple ningún esquema que ya exista: hay que levantar uno nuevo, y eso es esta corrida.
+Porque el esquema de la 7 tiene los `CHECK` viejos, sin las cuatro columnas. Lo que el ensayo afirma del esquema no lo cumple ningún esquema que ya exista: hay que levantar uno nuevo, y eso es esta corrida.
 
 ---
 
@@ -90,7 +90,7 @@ Se abrió un hecho con `descartado = "ninguna"`:
 [hecho 3] frontera: decide · descartado: ninguna
 ```
 
-Y después se probaron los dos estados que el ensayo llama "vacío":
+Después se probaron los dos estados que el ensayo llama "vacío":
 
 ```plaintext
 descartado 'ninguna'   -> ACEPTA
@@ -98,7 +98,7 @@ descartado NULL        -> RECHAZA  NOT NULL constraint failed
 descartado '   '       -> RECHAZA  CHECK constraint failed: length(trim(descartado)) > 0
 ```
 
-Y ahí está el hueco 2: el "vacío" que el ensayo describe como tercera posibilidad no se puede guardar.
+Ahí está el hueco 2: el "vacío" que el ensayo describe como tercera posibilidad no se puede guardar.
 
 ### Al cerrar
 
@@ -125,7 +125,7 @@ Pero el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6. Así qu
 
 Esta corrida lo pudo cumplir sólo por un truco: escribir la fricción antes que el hecho. Y al hacerlo quedó peor de lo que estaba, y se apunta: la fricción 1 quedó colgando del hecho 1, que es la propuesta — no del hecho 2, que es el que se salió. El enlace quedó al revés, y el esquema lo aceptó.
 
-Y eso no es un defecto del código: es un hueco del ensayo. El ensayo no dice en qué orden se escribe la fricción propia, ni qué pasa si el hecho se abre antes que ella.
+Eso no es un defecto del código: es un hueco del ensayo. El ensayo no dice en qué orden se escribe la fricción propia, ni qué pasa si el hecho se abre antes que ella.
 
 ### Hueco 2 — el "vacío" del descartado no existe como estado
 

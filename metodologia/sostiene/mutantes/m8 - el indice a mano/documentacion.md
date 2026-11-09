@@ -70,7 +70,7 @@ mutante 8: MUERTO
 la regla del índice tiene dientes
 ```
 
-Y lo que apareció sin buscarlo, y vale más que el veredicto: el rearmado NO coincide con el que había.
+Lo que apareció sin buscarlo, y vale más que el veredicto: el rearmado NO coincide con el que había.
 
 La pieza 3 decía `leer` en el índice a mano, y su campo dice `unir`. El índice a mano tenía un error, y nadie lo habría visto hasta que alguien preguntara por `unir` y no apareciera nada.
 

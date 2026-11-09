@@ -7,7 +7,7 @@ Qué hay antes de este trabajo, en cada campo que toca, y qué le falta a cada u
 
 Hecho con búsquedas en el registro público, el 2026-11-08. Su autor no leyó las fuentes una por una.
 
-Y eso se dice antes de leer nada, porque cambia lo que esta página es: es una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura. Lo que sigue está escrito con esa advertencia encima.
+Eso se dice antes de leer nada, porque cambia lo que esta página es: es una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura. Lo que sigue está escrito con esa advertencia encima.
 
 ## Y lo que esta página no es: no es la genealogía de este trabajo
 
@@ -27,7 +27,7 @@ No se retiran fuentes por prudencia. Se dejan, y se corrige lo que esté mal. Qu
 
 Porque una propuesta metodológica sin genealogía parece inventada, y no lo está. Aquí se dice qué hay antes, qué se toma de ahí, y dónde este trabajo se separa.
 
-Y porque este trabajo no es de un solo campo. No es una propuesta sobre agentes: es una propuesta sobre cómo se mide el trabajo, cómo se escribe un proceso, cómo se comprueba una prueba, dónde vive el criterio, y qué queda escrito cuando alguien quiere seguir sin su autor.
+Porque este trabajo no es de un solo campo. No es una propuesta sobre agentes: es una propuesta sobre cómo se mide el trabajo, cómo se escribe un proceso, cómo se comprueba una prueba, dónde vive el criterio, y qué queda escrito cuando alguien quiere seguir sin su autor.
 
 Así que el documento está partido en lo que el repositorio de verdad toca, y no en lo que suena científico.
 
@@ -37,7 +37,7 @@ Así que el documento está partido en lo que el repositorio de verdad toca, y n
 
 Es el campo donde este trabajo está más cerca de otros, y por eso va primero.
 
-Y casi ninguna de estas fuentes entra en las decisiones de este trabajo. Están aquí porque quien compare tiene que saber qué existe, y porque no decirlo sería atribuirse un campo que no se inventó. La única que se acerca lo suficiente para discutirla es `ReasoningBank`, y va dicha abajo.
+Casi ninguna de estas fuentes entra en las decisiones de este trabajo. Están aquí porque quien compare tiene que saber qué existe, y porque no decirlo sería atribuirse un campo que no se inventó. La única que se acerca lo suficiente para discutirla es `ReasoningBank`, y va dicha abajo.
 
 | Quién | Qué reporta, según su resumen | ¿Se usa aquí? |
 |---|---|---|
@@ -50,7 +50,7 @@ Y casi ninguna de estas fuentes entra en las decisiones de este trabajo. Están 
 | `ReasoningBank` — Ouyang et al., 2025 · [arXiv:2509.25140](https://arxiv.org/abs/2509.25140) · ICLR 2026 | estrategias de razonamiento destiladas de experiencias que el agente juzgó buenas o malas | no como fuente: como referencia. es el trabajo más cercano, y está aquí para que quien compare sepa dónde mirar |
 | `WebATLAS` — 2025 · [arXiv:2510.22732](https://arxiv.org/abs/2510.22732) | memoria guiada por experiencia para navegar sitios nuevos | no. es un vecino, y no una fuente |
 
-Y lo que hay que decir de `ReasoningBank`, porque es lo más incómodo: es de 2025, es el trabajo que más se parece a éste, y su veredicto lo da un juez que el propio agente aplica. Lo que lo separa no es que guarde: es que aquí el veredicto sale de una prueba que se puede volver a correr, y que otro puede correr.
+Lo que hay que decir de `ReasoningBank`, porque es lo más incómodo: es de 2025, es el trabajo que más se parece a éste, y su veredicto lo da un juez que el propio agente aplica. Lo que lo separa no es que guarde: es que aquí el veredicto sale de una prueba que se puede volver a correr, y que otro puede correr.
 
 ---
 
@@ -67,7 +67,7 @@ Y el segundo le da nombre a lo que este repositorio hace: externalizar. Lo que a
 
 # III. Verificar un agente que se mejora solo
 
-Y aquí está lo que más se acerca a lo que este trabajo llama falsificador.
+Aquí está lo que más se acerca a lo que este trabajo llama falsificador.
 
 | Quién | Qué hace | ¿Se usa aquí? |
 |---|---|---|
@@ -91,14 +91,14 @@ Y de aquí sale un campo que este trabajo tiene y casi ninguno de arriba: `quien
 
 # V. Cómo se mide el trabajo, y por qué el costo
 
-Y esto no es de agentes: es de economía del trabajo, y es el origen de la medición de talentos.
+Esto no es de agentes: es de economía del trabajo, y es el origen de la medición de talentos.
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
 | `Cost-effectiveness analysis` — el criterio de la relación entre lo que cuesta y lo que rinde | un resultado que ignora sus intentos y sus correcciones no es un resultado: es el mejor de varios, escogido después | el CRE: intentos, más corrección, más verificación, dividido entre resultados verificados |
 | `Pre-registration y Registered Reports` — [Nature Human Behaviour, 2021](https://www.nature.com/articles/s41562-021-01142-4) y [2023](https://www.nature.com/articles/s41562-022-01497-2) | declarar antes qué se va a medir reduce el sesgo de reportar solo lo que salió | `Qué la tumba` antes de la evidencia, y el hecho escrito antes de saber si conviene |
 
-Y lo que esto obliga, y es lo que la medición de talentos sostiene: la corrección no es un gasto aparte; es parte del costo. Un número que la deja fuera siempre sale mejor de lo que es.
+Lo que esto obliga, y es lo que la medición de talentos sostiene: la corrección no es un gasto aparte; es parte del costo. Un número que la deja fuera siempre sale mejor de lo que es.
 
 ---
 
@@ -112,7 +112,7 @@ El ensayo 06 y la metodología se apoyan en esto, y no es de agentes: es de inge
 | `Goodenough & Gerhart`, 1975 · `Frankl & Weyuker`, 1988 · `DeMillo, Lipton & Sayward`, 1978 | la adecuación de una prueba se mide por qué tanto puede matar | el mutante: si la corrida no lo nota, la regla no estaba probada |
 | `Mutation testing` — de ahí en adelante | una prueba que no puede fallar no prueba nada | los trece mutantes, uno por familia |
 
-Y lo que este trabajo agrega al vocabulario: el mutante no se queda en la prueba; también se escribe en el ensayo. Una regla que no se puede contradecir no es una regla: es una opinión.
+Lo que este trabajo agrega al vocabulario: el mutante no se queda en la prueba; también se escribe en el ensayo. Una regla que no se puede contradecir no es una regla: es una opinión.
 
 ---
 
@@ -126,13 +126,13 @@ El ensayo 04 es de este campo, y el campo tiene nombre: artefactos cognitivos y 
 | `Cognitive artifacts` — Norman, 1991 | hay objetos que hacen más fácil una tarea porque mueven la carga a algo que se puede mirar | esto es lo que `Externalization` retoma treinta y cinco años después |
 | `Notional machines` — du Boulay, 1986, y Sorva, 2013 | para entender un sistema se necesita un modelo de cómo se comporta, y no de cómo está hecho | el `Falla si` de cada proceso: dice desde dónde se rompe |
 
-Y ahí está lo que el ensayo 04 sostiene, y que es su propia tesis: la prosa supone un lector que duda; una máquina no duda de un texto, lo rellena. El proceso no es una forma más amable de escribir: es la única que un ejecutor no puede rellenar sin que se note.
+Ahí está lo que el ensayo 04 sostiene, y que es su propia tesis: la prosa supone un lector que duda; una máquina no duda de un texto, lo rellena. El proceso no es una forma más amable de escribir: es la única que un ejecutor no puede rellenar sin que se note.
 
 ---
 
 # VIII. Por qué los estándares de formato se cayeron
 
-Y esta parte es de diseño, y es de hoy.
+Esta parte es de diseño, y es de hoy.
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
@@ -140,13 +140,13 @@ Y esta parte es de diseño, y es de hoy.
 | `Norman`, 2010 · *Living with Complexity | el diseño no debe simplificar la tarea hasta que se pueda hacer sin pensar | la dirección da qué hacer; no da cómo se ve |
 | `Las tres direcciones` — de este trabajo | mantener, hacer un stack, y las dos carpetas que las usan | la consistencia no es de formato, es de forma |
 
-Y lo que este trabajo sostiene, y se puede atacar: un estándar de presentación se puede cumplir sin entender nada. Una dirección, no: si no dice cuándo se corre, no es una dirección.
+Lo que este trabajo sostiene, y se puede atacar: un estándar de presentación se puede cumplir sin entender nada. Una dirección, no: si no dice cuándo se corre, no es una dirección.
 
 ---
 
 # IX. Educación y evaluación del trabajo hecho por otros
 
-Y aquí está la parte incómoda: lo que este trabajo mide del trabajo de una IA es lo mismo que ya se mide del trabajo de un estudiante.
+Aquí está la parte incómoda: lo que este trabajo mide del trabajo de una IA es lo mismo que ya se mide del trabajo de un estudiante.
 
 | Quién | Qué mide | ¿Se usa aquí? |
 |---|---|---|
@@ -154,7 +154,7 @@ Y aquí está la parte incómoda: lo que este trabajo mide del trabajo de una IA
 | `Evaluación por proceso y no por producto` | el rastro de cómo se llegó pesa más que el entregable | las dieciocho corridas, y el hecho con su frontera |
 | `Motivación intrínseca` — Ryan & Deci, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/topics/application-intrinsic-motivation/) | lo que se hace por la tarea y no por la recompensa de afuera se sostiene más | el ensayo 12: un método que automatiza el pensar es un consuelo, y lo que hacía falta era gente |
 
-Y lo que este trabajo agrega, y no es de ninguno de los tres: la medición no se hace sobre la respuesta, se hace sobre el registro. Y el registro lo puede mirar cualquiera, incluido el que hizo el trabajo.
+Lo que este trabajo agrega, y no es de ninguno de los tres: la medición no se hace sobre la respuesta, se hace sobre el registro. Y el registro lo puede mirar cualquiera, incluido el que hizo el trabajo.
 
 ---
 
@@ -167,13 +167,13 @@ Y lo que este trabajo agrega, y no es de ninguno de los tres: la medición no se
 | `Longino` | el conocimiento se corrige por la crítica de otros, y no por la introspección | `LIMITES.md`, y la razón por la que este trabajo no se revisó por nadie |
 | `La crítica a Popper` — Duhem, Quine, y todo lo que viene después | una observación nunca tumba una sola hipótesis: tumba el conjunto | por eso el registro tiene desenlaces y no veredictos aislados |
 
-Y aquí está el límite más honesto de este documento: `Popper` no se cita con una página, porque es un programa y no un teorema. Y `Lakatos` tampoco. Lo que se toma de ellos es la forma, y la forma se puede usar mal: un falsificador escrito después de ver el resultado no falsifica nada.
+Aquí está el límite más honesto de este documento: `Popper` no se cita con una página, porque es un programa y no un teorema. Y `Lakatos` tampoco. Lo que se toma de ellos es la forma, y la forma se puede usar mal: un falsificador escrito después de ver el resultado no falsifica nada.
 
 ---
 
 # XI. La estructura: de dónde viene una grafía sin centro
 
-Y esto es lo que el repositorio tiene de más raro, y también lo que más se lee.
+Esto es lo que el repositorio tiene de más raro, y también lo que más se lee.
 
 | Quién | Qué | Qué se toma |
 |---|---|---|
@@ -182,7 +182,7 @@ Y esto es lo que el repositorio tiene de más raro, y también lo que más se le
 | `Milgram`, 1967 · [el problema del mundo pequeño](https://en.wikipedia.org/wiki/Small-world_experiment) | entre dos personas cualesquiera hay una cadena corta | el borde del tema no busca el camino largo: busca que haya uno |
 | `Google Knowledge Graph`, 2012 | las cosas con sus relaciones, y no los documentos con sus palabras | el tema como nodo, y la pieza como arista |
 
-Y lo que este trabajo agrega: el índice no sólo relaciona: se puede rearmar. Un índice que se tira y se vuelve a armar igual prueba que no dependía de cómo se escribió, y eso no lo pide ninguno de los de arriba.
+Lo que este trabajo agrega: el índice no sólo relaciona: se puede rearmar. Un índice que se tira y se vuelve a armar igual prueba que no dependía de cómo se escribió, y eso no lo pide ninguno de los de arriba.
 
 ---
 
@@ -199,7 +199,7 @@ Y lo que este trabajo agrega: el índice no sólo relaciona: se puede rearmar. U
 
 # XIII. La supervisión humana, que es lo que este trabajo escribe y otros ya escribieron
 
-Y esta sección es nueva, y tapa el hueco más grande que tenía este documento: el ensayo 01 y el 02 dicen cómo se supervisa a un ente, y no citaban a nadie que lo haya dicho.
+Esta sección es nueva, y tapa el hueco más grande que tenía este documento: el ensayo 01 y el 02 dicen cómo se supervisa a un ente, y no citaban a nadie que lo haya dicho.
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
@@ -211,13 +211,13 @@ Y la diferencia, que hay que decir porque es la única que este trabajo puede re
 
 # XIV. La complacencia, que el ensayo de la conciencia nombraba sin fuente
 
-Y este ensayo citaba la complacencia de oído hasta hoy.
+Este ensayo citaba la complacencia de oído hasta hoy.
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
 | `From Yes-Men to Truth-Tellers` — Chen et al., ICML 2024 · [arXiv:2409.01658](https://arxiv.org/abs/2409.01658) | que los modelos priorizan adherirse al pedido antes que contestar con verdad, y que al ser contradichos admiten un error y dan una respuesta falsa aunque antes hubieran dado la correcta | sí: es la definición exacta de lo que el ensayo 02 de `humanidad` llama complacencia |
 
-Y su hallazgo es útil y acotado: menos del 5% de los módulos básicos bastan para mitigarla, sin dañar la capacidad general. O sea: la complacencia es un rasgo acotado, y no una propiedad de todo el modelo.
+Su hallazgo es útil y acotado: menos del 5% de los módulos básicos bastan para mitigarla, sin dañar la capacidad general. O sea: la complacencia es un rasgo acotado, y no una propiedad de todo el modelo.
 
 Y de ahí una consecuencia para este trabajo, que es la que impide leerlo mal: si la complacencia se puede medir acotada en un modelo, entonces decir «este modelo es complaciente» sin decir en qué clase de trabajo no es una descripción: es un adjetivo.
 
@@ -225,7 +225,7 @@ Y de ahí una consecuencia para este trabajo, que es la que impide leerlo mal: s
 
 # XV. Lo que este documento contradice de sí mismo
 
-Y hay que decirlo, porque la máquina de sesgos y lo inexplicable no viven en el mismo campo que los anteriores, y forzarlos ahí sería mentir.
+Hay que decirlo, porque la máquina de sesgos y lo inexplicable no viven en el mismo campo que los anteriores, y forzarlos ahí sería mentir.
 
 `lo inexplicable`, que ya no es de los ensayos sino de la metodología, no tiene estado del arte en agentes. Tiene uno en matemáticas, y es otro:
 
@@ -242,7 +242,7 @@ Y el ensayo de la conciencia tampoco. Su campo es otro, y ya tiene su propio est
 
 # XVI. Dónde este trabajo se queda corto
 
-Y se dice todo junto, porque por separado suena a modestia.
+Se dice todo junto, porque por separado suena a modestia.
 
 ```plaintext
 - no hay comparación medida contra ninguno de los del campo I: no se corrió
@@ -271,9 +271,9 @@ Nick Carr              el efecto que se le atribuye a la pantalla no tiene medic
                        y por eso NO se usa como fuente en este documento
 ```
 
-Y lo que esto significa, dicho sin rodeos: las columnas de «qué guarda» salen de los resúmenes; la de «qué le falta» es lectura de este trabajo, y no un resultado medido.
+Lo que esto significa, dicho sin rodeos: las columnas de «qué guarda» salen de los resúmenes; la de «qué le falta» es lectura de este trabajo, y no un resultado medido.
 
-Y falta el renglón que importa: ninguna de estas fuentes la leyó el autor de este repositorio. Las buscó un agente, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes. Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.
+Falta el renglón que importa: ninguna de estas fuentes la leyó el autor de este repositorio. Las buscó un agente, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes. Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.
 
 ---
 
@@ -281,7 +281,7 @@ Y falta el renglón que importa: ninguna de estas fuentes la leyó el autor de e
 
 Que hay trabajos antes de éste, y que ninguno se leyó entero para comparar.
 
-Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 

@@ -33,7 +33,7 @@ herramientas/cantera.py     el ente, con evaluar() de tres salidas
 pruebas/                    cuatro piezas: mover, renombrar, leer, borrar
 ```
 
-Y once reglas, probadas:
+Once reglas, probadas:
 
 ```plaintext
 [OK] rechaza un tema de máquina sin la zona gris declarada
