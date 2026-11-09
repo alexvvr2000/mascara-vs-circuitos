@@ -1,12 +1,19 @@
-"""citas.py — las citas de un ensayo que dicen el número, y lo que dirían sin él.
+"""citas.py — las citas a un ensayo, y lo que tienen que decir.
 
-Y por qué existe: un ensayo que cita a otro por su número envejece cuando el
-número cambia. Este script cambia «`03 el piso`» por «[`el piso`](el piso.md)»,
-y deja intacto el número del principio de una cita de historia, que se conserva
-como se escribió.
+Y por qué existe: una cita por número envejece, y una por título con el nombre
+de archivo adentro envejece igual cuando el archivo cambia de nombre. El nombre
+del archivo es un dato de dentro: la cita dice el título, y el enlace se
+re-apunta.
 
-    python citas.py            enseña qué cambiaría
-    python citas.py --escribe  lo hace
+Dos cosas, y nada más:
+
+    «[`titulo`](ruta)»            pasa a «[titulo](ruta)», sin el nombre de dentro
+    «[ruta cruda](ruta)»          pasa al título del ensayo al que apunta
+
+Si la ruta no resuelve, no inventa: lo cuenta.
+
+    python scripts/citas.py            enseña qué cambiaría
+    python scripts/citas.py --escribe  lo hace
 """
 
 import os
@@ -15,74 +22,68 @@ import sys
 import urllib.parse
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LES = "aáeéiíoóuúñ"
-
-# «`03 el piso`», «`01 qué es un ente`»: el número, un espacio, y el título.
-CON_NUMERO = re.compile(r"`(\d\d)\s+([A-Za-z" + LES + "][^`]*)`")
-# «el ensayo 03», «el ensayo `11`: el número solo, sin título que lo acompañe.
-ENSAYO_NUMERO = re.compile(r"ensayos?\s+`?(\d\d)`?(?![0-9])")
-
-SIN_TOCAR = ("metodologia/historia", "implementacion")
-
-# Y lo que no es un ensayo, aunque lleve número: los documentos que ya no existen
-# con ese nombre, y las listas donde el número nombra un renglón de la lista.
-NO_ES_ENSAYO = ("00 mis ideas",)
+INTOCABLES = ("metodologia/historia", "la obra/README.md")
+TITULO = re.compile(r"^# (.+)$", re.M)
+ENLACE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 
 
 def rel(p):
     return os.path.relpath(p, RAIZ).replace(os.sep, "/")
 
 
-def ensayos_por_titulo():
-    """{'el piso': 'la obra/funcionamiento ente/el piso.md', ...}"""
-    indice = {}
-    for carpeta in ("funcionamiento ente", "humanidad"):
-        d = os.path.join(RAIZ, "la obra", carpeta)
-        if not os.path.isdir(d):
-            continue
-        for f in os.listdir(d):
-            if f.endswith(".md"):
-                indice[os.path.splitext(f)[0].strip().lower()] = os.path.join(d, f)
-    return indice
-
-
-def main(escribe=False):
-    indice = ensayos_por_titulo()
-    cambios = 0
+def md_todos():
     for base, dirs, files in os.walk(RAIZ):
         if ".git" in base.split(os.sep):
             continue
         for f in files:
-            if not f.endswith(".md"):
+            if f.endswith(".md"):
+                yield os.path.join(base, f)
+
+
+def titulo_de(destino):
+    if not destino.endswith(".md") or not os.path.isfile(destino):
+        return None
+    m = TITULO.search(open(destino, encoding="utf-8").read())
+    return m.group(1).strip() if m else None
+
+
+def etiqueta_de(etiqueta, destino):
+    """Qué dice la cita: el título del destino si es un ensayo, y si no, la ruta."""
+    if etiqueta.startswith("`") and etiqueta.endswith("`"):
+        return etiqueta.strip("`")
+    titulo = titulo_de(destino)
+    if titulo:
+        return titulo
+    return etiqueta
+
+
+def main(escribe=False):
+    cambios = rotos = 0
+    for p in md_todos():
+        if rel(p).startswith(INTOCABLES):
+            continue
+        base = os.path.dirname(p)
+        t = open(p, encoding="utf-8").read()
+        nuevo = t
+        for m in reversed(list(ENLACE.finditer(t))):
+            etiqueta, ruta = m.group(1), m.group(2)
+            if ruta.startswith(("http", "#")):
                 continue
-            p = os.path.join(base, f)
-            if rel(p).startswith(SIN_TOCAR):
+            destino = os.path.normpath(os.path.join(base, urllib.parse.unquote(ruta)))
+            if not os.path.exists(destino):
+                if ruta.endswith(".md"):
+                    rotos += 1
+                    print("ROTO %s: [%s](%s)" % (rel(p), etiqueta, ruta))
                 continue
-            texto = open(p, encoding="utf-8").read()
-            nuevo = texto
-            for m in reversed(list(CON_NUMERO.finditer(texto))):
-                titulo = m.group(2).strip()
-                clave = titulo.lower().replace("qué", "que")
-                destino = indice.get(clave)
-                if not destino or clave in NO_ES_ENSAYO:
-                    continue
-                ruta = urllib.parse.quote(os.path.relpath(destino, base).replace(os.sep, "/"))
-                reemplazo = "[`%s`](%s)" % (titulo, ruta)
-                # Y las comillas de fuera: una cita dentro de otra se duplica.
-                inicio, fin = m.start(), m.end()
-                if inicio > 0 and nuevo[inicio - 1] == "`" and fin < len(nuevo) and nuevo[fin] == "`":
-                    inicio, fin = inicio - 1, fin + 1
-                nuevo = nuevo[:inicio] + reemplazo + nuevo[fin:]
-                cambios += 1
-                print("%s: `%s` -> %s" % (rel(p), m.group(0), reemplazo))
-            for m in reversed(list(ENSAYO_NUMERO.finditer(nuevo))):
-                # El número sin título: se dice dónde está en vez de adivinar el
-                # título, y el build se lo sigue señalando a quien lo lea.
-                print("%s: 'el ensayo %s' no dice qué ensayo; se corrige en su archivo"
-                      % (rel(p), m.group(1)))
-            if nuevo != texto and escribe:
-                open(p, "w", encoding="utf-8", newline="").write(nuevo)
-    print("%d citas convertidas." % cambios)
+            nueva = etiqueta_de(etiqueta, destino)
+            if nueva == etiqueta:
+                continue
+            cambios += 1
+            print("%s: [%s] -> [%s]" % (rel(p), etiqueta, nueva))
+            nuevo = nuevo[:m.start()] + "[%s](%s)" % (nueva, ruta) + nuevo[m.end():]
+        if escribe and nuevo != t:
+            open(p, "w", encoding="utf-8", newline="\n").write(nuevo)
+    print("\n%d citas a título, %d enlaces rotos." % (cambios, rotos))
     if not escribe and cambios:
         print("nada se tocó: se corre con --escribe")
 

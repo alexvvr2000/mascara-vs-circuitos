@@ -31,7 +31,7 @@ Alejandro Valenzuela Rivera.
 
 > Antes de creerme nada, dos páginas:
 >
-> [Los límites](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
+> [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
 >
 > [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
 >
@@ -87,15 +87,15 @@ Este trabajo usa un vocabulario propio, y no se puede leer sin él. Esta tabla e
 
 | La palabra | Qué quiere decir | Por qué no se usa la de todos |
 |---|---|---|
-| **ente** | lo que recibe algo, decide, contesta, y deja rastro de haber contestado | «programa» dice lo que corre; «agente» ya está gastado por la industria. **Ente no dice qué tiene dentro: dice qué deja.** |
-| **corrida** | levantar un ente desde cero con los ensayos, y ver qué hubo que inventar | no es una prueba de software: **es lo que se hace cuando no hay guía y se quiere saber si el texto alcanza** |
-| **piso** | lo que el ente midió que tiene, antes de prometer nada | «capacidades» suena a mercadotecnia. **Piso suena a límite, y es lo que es** |
+| **ente** | lo que recibe algo, decide, contesta, y deja rastro de haber contestado | «programa» dice lo que corre; «agente» ya está gastado por la industria. Ente no dice qué tiene dentro: dice qué deja. |
+| corrida | levantar un ente desde cero con los ensayos, y ver qué hubo que inventar | no es una prueba de software: es lo que se hace cuando no hay guía y se quiere saber si el texto alcanza |
+| **piso** | lo que el ente midió que tiene, antes de prometer nada | «capacidades» suena a mercadotecnia. Piso suena a límite, y es lo que es |
 | **frontera** | lo que el ente decide, lo que sólo propone, y lo que no le toca | es la división entre el que hace y el que responde por lo que se hace |
-| **fricción** | lo que se cayó, con el porqué de por qué parecía cierto | «error» no dice por qué se repite. **La fricción sí: trae su razón** |
+| **fricción** | lo que se cayó, con el porqué de por qué parecía cierto | «error» no dice por qué se repite. La fricción sí: trae su razón |
 | **desenlace** | qué pasó cuando la regla se volvió a probar | es la columna que casi nunca está, y sin ella no hay criterio |
-| **falsificador** | la condición que, si se cumple, tumba lo que el ensayo afirma | no es una opinión en contra: **es algo que se puede correr y ver** |
+| **falsificador** | la condición que, si se cumple, tumba lo que el ensayo afirma | no es una opinión en contra: es algo que se puede correr y ver |
 | **borde** | dónde termina un tema: qué entra y qué no | un tema sin borde no es un tema: es una intención |
-| **vibe coding** | escribir código sin un objetivo claro | se deja en su idioma porque es el nombre que ya tiene |
+| vibe coding | escribir código sin un objetivo claro | se deja en su idioma porque es el nombre que ya tiene |
 
 Y la regla de este trabajo con las palabras: si una palabra del oficio ya existe, se usa tal cual; si no existe, se define aquí y no se cambia. Lo que no se hace es inventar sinónimos a media página.
 
@@ -118,11 +118,11 @@ Y cuándo se termina, que es la meta y se dice entera:
 >
 > Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.
 >
-> Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/huecos/README.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.
+> Y la meta de todo esto no es el final: es [Método A · Llenar los huecos](metodologia/huecos/README.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.
 
 El proceso no termina, y eso está previsto. La solución final va a tener huecos, porque un ente vive en un mundo que cambia. Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.
 
-La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [[el plan](metodologia/huecos/README.md)](metodologia/huecos/README.md), con sus fuentes.
+La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método A · Llenar los huecos](metodologia/huecos/README.md)](metodologia/huecos/README.md), con sus fuentes.
 
 La segunda cubre lo que ningún ensayo escribió. Una sin la otra deja un lado sin mirar.
 
@@ -162,10 +162,10 @@ Los límites, dichos con nombre:
 - No hay comparación medida contra ningún otro trabajo. Es un contraste de forma, no de rendimiento.
 - El alcance de la evidencia: las corridas, un autor, un entorno.
 - Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara. Los demás siguen sin probarse a propósito. Un método que nunca se cayó no sabe caerse todavía.
-- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en `la obra/mantenimiento de entes/`, y el manual para cambiar de stack, en `implementacion/usuario/`.
+- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/sostiene/`](metodologia/sostiene/README.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
 - Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.
 
-Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
+Y lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
 
 ---
 
@@ -238,20 +238,20 @@ Son la posición completa. La columna de la derecha dice en cuál de los trece e
 
 | # | La idea | Vive en |
 |---|---|---|
-| **1** | Un ente se define por su rastro, no por lo que tiene dentro | `01` |
-| **2** | **Un ente no tiene cuerpo: por eso su error no le cuesta nada, y por eso necesita una autoridad** | `01` |
-| **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `05` |
-| **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `09` |
-| **5** | Una IA debe escribir en procesos, no en prosa | `04` |
-| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `04` |
-| **7** | **Y eso hace accesible la IA con modelos pequeños** | **no vive en un ensayo: es conjetura, y está abajo** |
-| **8** | En el índice, la forma es la fuente y el texto es el derivado | `07` |
-| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `01` |
-| **10** | **La conciencia que se busca adentro no está adentro** | `02` |
-| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `02` |
-| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `05` |
+| 1 | Un ente se define por su rastro, no por lo que tiene dentro | `01` |
+| 2 | Un ente no tiene cuerpo: por eso su error no le cuesta nada, y por eso necesita una autoridad | `01` |
+| 3 | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `05` |
+| 4 | Un ente con varios modelos tiene un criterio y varios sesgos | `09` |
+| 5 | Una IA debe escribir en procesos, no en prosa | `04` |
+| 6 | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `04` |
+| 7 | Y eso hace accesible la IA con modelos pequeños | no vive en un ensayo: es conjetura, y está abajo |
+| 8 | En el índice, la forma es la fuente y el texto es el derivado | `07` |
+| 9 | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `01` |
+| 10 | La conciencia que se busca adentro no está adentro | `02` |
+| 11 | El esfuerzo es lo único que no llegó con la máquina | `02` |
+| 12 | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `05` |
 
-La lista completa, con qué sostiene a cada una y qué no afirmo, está en [la obra](./la%20obra/README.md).
+La lista completa, con qué sostiene a cada una y qué no afirmo, está en [La posición, en lista](./la%20obra/README.md).
 
 ---
 
@@ -299,7 +299,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 Y eso no es una frase amable: es la condición del trabajo. Un ensayo que sirve se levanta en otro stack y produce el mismo rastro. Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.
 
-Y el stack que se eligió está en [la tabla del stack](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.
+Y el stack que se eligió está en [El stack, del autor](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.
 
 
 Y la distinción que ahí se hace: el motor y el catálogo son gusto; la base no. El ensayo 7 pide que el índice sea un grafo con sus tres relaciones. Un motor es un motor; un grafo no es una tabla.
@@ -345,11 +345,11 @@ Esto no es una promesa: es el inventario de lo que hay, cada cosa con la forma d
 
 | Lo que hay | Cómo se comprueba |
 |---|---|
-| **los ensayos y sus afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
-| **las corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
-| **lo que las corridas encontraron** | cada hallazgo está cerrado en un ensayo, y su tabla de procedencia dice cuál |
-| **las reglas contadas** | `metodologia/huecos/`, agrupadas por familia, y cada familia con su mutante |
-| **el registro de cómo se hizo** | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
+| los ensayos y sus afirmaciones | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
+| las corridas | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
+| lo que las corridas encontraron | cada hallazgo está cerrado en un ensayo, y su tabla de procedencia dice cuál |
+| las reglas contadas | `metodologia/huecos/`, agrupadas por familia, y cada familia con su mutante |
+| el registro de cómo se hizo | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia. No hay binario, ni instalador, ni soporte. El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.
 

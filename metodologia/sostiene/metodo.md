@@ -1,4 +1,4 @@
-# El método, entero
+# El método entero
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
@@ -6,13 +6,13 @@ Cómo se prueba una regla de estos ensayos: la regla, el mutante, la tarea que l
 
 Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-09.
 
-Y el corte entre este archivo y [`forma.md`](forma.md), que es de un renglón: `forma.md` dice qué forma tiene un ensayo y cómo la comprueba el build. Éste dice cómo se prueba lo que el ensayo afirma. Se necesitan los dos: sin forma, el mutante no sabe qué romper; sin método, la forma sólo dice que el texto está bien escrito.
+Y el corte entre este archivo y [forma.md](forma.md), que es de un renglón: `forma.md` dice qué forma tiene un ensayo y cómo la comprueba el build. Éste dice cómo se prueba lo que el ensayo afirma. Se necesitan los dos: sin forma, el mutante no sabe qué romper; sin método, la forma sólo dice que el texto está bien escrito.
 
-> Este archivo es el método B, entero, y es el único. Antes eran cuatro —`README.md`, `las reglas.md`, `los mutantes.md` y `corridas/`—, y decían lo mismo tres veces, con números que no cuadraban entre sí. Los cuatro están guardados en [`historia/`](../historia/), del 06 al 09, y de ahí en adelante manda éste.
+> Este archivo es el método B, entero, y es el único. Antes eran cuatro —`README.md`, `las reglas.md`, `los mutantes.md` y `corridas/`—, y decían lo mismo tres veces, con números que no cuadraban entre sí. Los cuatro están guardados en [historia/](../historia/), del 06 al 09, y de ahí en adelante manda éste.
 >
-> Y lo que no está aquí, porque tiene su propio archivo: en qué quedó cada mutante. Eso vive en [`corridas.md`](corridas.md), que es el único sitio donde se cuentan, y este archivo no repite ni un número de ahí.
+> Y lo que no está aquí, porque tiene su propio archivo: en qué quedó cada mutante. Eso vive en [corridas.md](corridas.md), que es el único sitio donde se cuentan, y este archivo no repite ni un número de ahí.
 >
-> Y lo que tampoco está aquí, porque es de otro método: las dieciocho corridas del otro método, en [`huecos/`](../huecos/). Y el estado del arte completo con lo que no se abrió, en [`los papeles`](../../los%20papeles/estado%20del%20arte/README.md). Este archivo enlaza los dos y no los copia.
+> Y lo que tampoco está aquí, porque es de otro método: las dieciocho corridas del otro método, en [huecos](../huecos/README.md). Y el estado del arte completo con lo que no se abrió, en [los papeles](../../los%20papeles/estado%20del%20arte/README.md). Este archivo enlaza los dos y no los copia.
 
 ---
 
@@ -122,7 +122,7 @@ Y de ahí el contrato de abajo, que todos los scripts cumplen, y por eso se pued
 
 # IV. El contrato del script
 
-Cada mutante de [`mutantes/`](mutantes/) es un script de Python con el mismo contrato. No es una costumbre: es lo que permite correr los trece con un `for` y comparar sin leer ninguno.
+Cada mutante de [mutantes/](mutantes/) es un script de Python con el mismo contrato. No es una costumbre: es lo que permite correr los trece con un `for` y comparar sin leer ninguno.
 
 ```plaintext
 python mN.py bueno        levanta el ente con el ensayo tal como está
@@ -260,7 +260,7 @@ lo que no existe     rutas absolutas, nombres de usuario del sistema, fechas
                      del sistema, y cualquier cosa fuera de la base
 ```
 
-Y de dónde sale eso: de [`mutantes/dumps.py`](mutantes/dumps.py), que recorre los bancos y escribe `_dumps/mN-bueno.sql` y `_dumps/mN-mutado.sql`.
+Y de dónde sale eso: de [mutantes/dumps.py](mutantes/dumps.py), que recorre los bancos y escribe `_dumps/mN-bueno.sql` y `_dumps/mN-mutado.sql`.
 
 ```powershell
 # desde metodologia/sostiene/mutantes
@@ -512,12 +512,12 @@ Y esto se escribe antes de que alguien lo encuentre, que es la única forma de q
 
 | Lo que podría ser falso | Cómo se sabría |
 |---|---|
-| **que una madre por familia basta** | un mutante hija que sobrevive con la madre muerta, en una familia sin condición ni ámbito ni orden |
-| **que el banco sin reglas no esconde nada** | un mutante que "muere" sólo porque el banco rechazó lo que el ente dejó, y que con reglas habría pasado |
-| **que el veredicto de una línea dice todo** | dos mutantes que dan la misma línea y salieron por razones distintas, sin que se note |
-| **que la tarea escrita antes no se acomoda** | una tarea que se cambió después de correr, y el cambio no está en la documentación |
-| **que el dump ofuscado alcanza para mostrar el dato** | un dato que se quiso mostrar y no se pudo leer porque era texto largo |
-| **que este método, corrido por su autor, sirve** | un segundo, que corra los trece y encuentre un vivo donde el autor vio muerto |
+| que una madre por familia basta | un mutante hija que sobrevive con la madre muerta, en una familia sin condición ni ámbito ni orden |
+| que el banco sin reglas no esconde nada | un mutante que "muere" sólo porque el banco rechazó lo que el ente dejó, y que con reglas habría pasado |
+| que el veredicto de una línea dice todo | dos mutantes que dan la misma línea y salieron por razones distintas, sin que se note |
+| que la tarea escrita antes no se acomoda | una tarea que se cambió después de correr, y el cambio no está en la documentación |
+| que el dump ofuscado alcanza para mostrar el dato | un dato que se quiso mostrar y no se pudo leer porque era texto largo |
+| que este método, corrido por su autor, sirve | un segundo, que corra los trece y encuentre un vivo donde el autor vio muerto |
 
 Y el más importante, que también puede ser falso: que toda regla se pueda escribir al revés. Una regla que no se puede contradecir no es una regla: es una opinión, y este método la deja sin probar en vez de inventarle un mutante.
 
@@ -529,21 +529,21 @@ Y esta tabla es lo que estaba repartido en `los papeles/estado del arte/`: aquí
 
 | Lo que este método afirma | De dónde viene | Qué se toma, y qué no |
 |---|---|---|
-| matar mutantes mide la fuerza de una prueba | **DeMillo, Lipton & Sayward (1978)**, *Hints on Test Data Selection* | se toma el mecanismo; no se toma su puntaje como medida de calidad del ente |
-| un criterio de adecuación es una regla de parada | **Goodenough & Gerhart (1975)**, *Toward a Theory of Test Data Selection*, IEEE TSE | se toma que se para por un predicado calculable; no que el predicado sea el de aquí |
-| «un criterio de adecuación es un predicado que determina si un programa se ha probado suficiente» | **Frankl & Weyuker (1988)**, *An Applicable Family of Data Flow Testing Criteria*, IEEE TSE 14(10) | se toma la definición, y de ahí la del capítulo VIII |
-| una prueba adecuada para un criterio fuerte lo es para uno débil | la jerarquía de subsumción de **Frankl & Weyuker (1988)** | se toma la inclusión; y se dice que aquí casi no ahorra, porque una regla de conducta no contiene a otra |
+| matar mutantes mide la fuerza de una prueba | DeMillo, Lipton & Sayward (1978), *Hints on Test Data Selection* | se toma el mecanismo; no se toma su puntaje como medida de calidad del ente |
+| un criterio de adecuación es una regla de parada | Goodenough & Gerhart (1975), *Toward a Theory of Test Data Selection*, IEEE TSE | se toma que se para por un predicado calculable; no que el predicado sea el de aquí |
+| «un criterio de adecuación es un predicado que determina si un programa se ha probado suficiente» | Frankl & Weyuker (1988), *An Applicable Family of Data Flow Testing Criteria*, IEEE TSE 14(10) | se toma la definición, y de ahí la del capítulo VIII |
+| una prueba adecuada para un criterio fuerte lo es para uno débil | la jerarquía de subsumción de Frankl & Weyuker (1988) | se toma la inclusión; y se dice que aquí casi no ahorra, porque una regla de conducta no contiene a otra |
 | nunca confíes en una prueba que nunca has visto fallar | práctica de la disciplina de mutación | se toma tal cual, y es la línea del capítulo I |
 | la mutación tiene un costo que obliga a seleccionar | [Software Engineering: Standing on the Shoulders of Giants, §10.1.5](https://www.swebook.org/chapters/10-testing/) | se toma el porqué de correr una madre por familia, y no una por regla |
 | la cobertura es un piso y no un techo | [Software Engineering: Standing on the Shoulders of Giants, §10.1.3](https://www.swebook.org/chapters/10-testing/) | se toma el límite, y es el capítulo XII |
-| las pruebas revelan la presencia de defectos, nunca su ausencia | **Dijkstra, EWD249 (1970)** | se toma la cita, y es la que impide decir "probado" cuando lo que hay es "no se cayó" |
-| se declara lo que se va a medir antes de ver el resultado | **Pre-registration y Registered Reports**, Nature Human Behaviour [2021](https://www.nature.com/articles/s41562-021-01142-4) y [2023](https://www.nature.com/articles/s41562-022-01497-2) | se toma el orden: la regla y el mutante se escriben antes de correr, y no se eligen después |
-| un falsificador escrito después de ver el resultado no falsifica nada | **Popper**, y la forma que se usa aquí | se toma la forma del falsificador; el límite de tomarlo por forma está dicho abajo |
-| una observación tumba el conjunto y no una sola hipótesis | **Duhem y Quine**, vía la crítica a Popper | se toma el porqué de que el registro tenga desenlaces y no veredictos aislados |
-| un programa de investigación se juzga por lo que predice | **Lakatos** | se toma la regla de parada por tendencia, y no por llegar a cero |
-| el conocimiento se corrige por la crítica de otros | **Longino** | se toma por qué este método, corrido por su autor, no está terminado |
-| la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; **Glaser & Strauss (1967)** | se toma la regla de parada por clase de hallazgo, y no por número de corridas |
-| una regla que no se puede contradecir no es una regla: es una opinión | **de este repositorio** | lo que se agrega al vocabulario de la disciplina: el mutante se escribe en el ensayo, no sólo en la prueba |
+| las pruebas revelan la presencia de defectos, nunca su ausencia | Dijkstra, EWD249 (1970) | se toma la cita, y es la que impide decir "probado" cuando lo que hay es "no se cayó" |
+| se declara lo que se va a medir antes de ver el resultado | Pre-registration y Registered Reports, Nature Human Behaviour [2021](https://www.nature.com/articles/s41562-021-01142-4) y [2023](https://www.nature.com/articles/s41562-022-01497-2) | se toma el orden: la regla y el mutante se escriben antes de correr, y no se eligen después |
+| un falsificador escrito después de ver el resultado no falsifica nada | Popper, y la forma que se usa aquí | se toma la forma del falsificador; el límite de tomarlo por forma está dicho abajo |
+| una observación tumba el conjunto y no una sola hipótesis | Duhem y Quine, vía la crítica a Popper | se toma el porqué de que el registro tenga desenlaces y no veredictos aislados |
+| un programa de investigación se juzga por lo que predice | Lakatos | se toma la regla de parada por tendencia, y no por llegar a cero |
+| el conocimiento se corrige por la crítica de otros | Longino | se toma por qué este método, corrido por su autor, no está terminado |
+| la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; Glaser & Strauss (1967) | se toma la regla de parada por clase de hallazgo, y no por número de corridas |
+| una regla que no se puede contradecir no es una regla: es una opinión | de este repositorio | lo que se agrega al vocabulario de la disciplina: el mutante se escribe en el ensayo, no sólo en la prueba |
 
 Y lo que estas fuentes NO dicen, y se apunta: ninguna dice cuándo una descripción está completa. Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.
 
@@ -574,4 +574,4 @@ Y la regla que impide que los dos archivos digan cosas distintas: si este archiv
 
 ## Falsificador
 
-Un método que cuenta mutantes sin haber corrido ninguno; **un mutante que sobrevive y no se apunta**; una regla que no se puede escribir al revés, presentada como si se hubiera probado; un método que dice «completo» apoyándose en una cobertura, cuando la cobertura es un piso y no un techo; y uno que repite los números de `corridas.md` y envejece por su cuenta.
+Un método que cuenta mutantes sin haber corrido ninguno; un mutante que sobrevive y no se apunta; una regla que no se puede escribir al revés, presentada como si se hubiera probado; un método que dice «completo» apoyándose en una cobertura, cuando la cobertura es un piso y no un techo; y uno que repite los números de `corridas.md` y envejece por su cuenta.

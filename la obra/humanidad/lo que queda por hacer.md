@@ -100,7 +100,7 @@ Y ahí está la parte que este ensayo no puede probar y no va a fingir que prueb
 
 ## VI. Por qué esto se publica igual
 
-Y la forma general de esto, para cualquier cosa que se persiga y no se termine, está en [`lo inexplicable`](../../metodologia/lo%20inexplicable.md). Ahí se escribe cómo se dice cuánto falta sin fingir que hay un final.
+Y la forma general de esto, para cualquier cosa que se persiga y no se termine, está en [lo inexplicable](../../metodologia/lo%20inexplicable.md). Ahí se escribe cómo se dice cuánto falta sin fingir que hay un final.
 
 Y hay una cosa que se puede decir sin prometer nada, y es la que deja dormir: en las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia. No hace falta que la descripción termine para que sirva. Hace falta que se sepa hacia dónde va, y que se pueda decir qué falta.
 
@@ -132,14 +132,14 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 |---|---|---|
 | Guardar es lineal; lo guardado no | los nueve ensayos anteriores, y el índice que tuvieron que inventar | no hay medición; es una distinción, no un resultado |
 | Un sistema de pasos no describe todo | el teorema de Gödel | se cita el resultado; no se demuestra aquí |
-| `ALAS` crece y con eso hace lenguaje | [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy) | **no está probado**, y se dice en el ensayo |
-| Un rastro bien guardado se comporta como identidad | los nueve levantamientos de este repositorio | **ninguno de ellos lo hizo alguien que no fuera el autor** |
+| `ALAS` crece y con eso hace lenguaje | [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy) | no está probado, y se dice en el ensayo |
+| Un rastro bien guardado se comporta como identidad | los nueve levantamientos de este repositorio | ninguno de ellos lo hizo alguien que no fuera el autor |
 
 Y lo que esta tabla no dice, y es lo más importante de esta página: este ensayo no tiene una corrida que lo respalde. Es el único de los diez que no. Por eso va al final, y por eso su tabla dice "qué no se probó" y no "qué salió".
 
 ---
 
-Falsificador: una afirmación de este ensayo que no se pueda escribir como condición — **porque si algo no se puede decir como "si esto, entonces aquello", no es una conclusión: es un estado de ánimo**; y **un estado de `ALAS` que se presente como probado cuando no lo está.**
+Falsificador: una afirmación de este ensayo que no se pueda escribir como condición — porque si algo no se puede decir como "si esto, entonces aquello", no es una conclusión: es un estado de ánimo; y un estado de `ALAS` que se presente como probado cuando no lo está.
 
 ---
 

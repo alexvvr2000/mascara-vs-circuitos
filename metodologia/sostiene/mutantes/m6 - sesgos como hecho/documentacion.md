@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El sexto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El sexto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -72,7 +72,7 @@ Un ente que lee ese ensayo mutado no puede saber en qué estado está cada cosa,
 
 - No probó el caso más común: un ensayo que propone y no lo dice, sin que nadie lo note. El mutado hace explícito lo que en un ensayo real es una omisión.
 - No probó si el ente detecta que el ensayo cambió de criterio. Eso no se puede: el ente lo lee como si fuera el bueno.
-- **Y esta familia es la más difícil de correr**, porque el ensayo no describe un ente: describe su propio borde. Este mutante lo corrió a nivel de registro, y no a nivel de conducta. Se dice.
+- Y esta familia es la más difícil de correr, porque el ensayo no describe un ente: describe su propio borde. Este mutante lo corrió a nivel de registro, y no a nivel de conducta. Se dice.
 
 ---
 

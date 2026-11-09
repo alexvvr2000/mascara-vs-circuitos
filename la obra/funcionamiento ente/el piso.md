@@ -6,13 +6,13 @@ Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído [`que es un ente`](que%20es%20un%20ente.md) y [`el ciclo del ente`](el%20ciclo%20del%20ente.md). Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.
+> Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md) y [el ciclo del ente](el%20ciclo%20del%20ente.md). Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.
 >
 > Al terminar sabrás cómo un ente dice qué le falta en vez de decir «no pude», y cómo crece cuando le piden algo que no midió.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> Y este ensayo es el paso 0d del ciclo, solo: el que decide si un ente sirve o tropieza. El ciclo completo está en [`el ciclo del ente`](el%20ciclo%20del%20ente.md).
+> Y este ensayo es el paso 0d del ciclo, solo: el que decide si un ente sirve o tropieza. El ciclo completo está en [el ciclo del ente](el%20ciclo%20del%20ente.md).
 
 ---
 
@@ -201,13 +201,13 @@ Y no se borra la vieja para que la vista se vea limpia. Un piso que borra su his
 
 Y una segunda cosa, que se ve al intentarlo: si el enlace falla, no se lleva la tarea consigo. Una tarea sin enlace es un dato que se puede volver a preguntar; una tarea borrada por un error de enlace es un dato que ya no existe. El orden es: primero la tarea, después el enlace, y lo que falle se apunta en vez de borrar.
 
-**Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
+Se corre: al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
 
-**Lo consume:** el paso 3, que decide qué cabe, y el paso 1, porque el origen de lo que se dice depende de si hay red.
+Lo consume: el paso 3, que decide qué cabe, y el paso 1, porque el origen de lo que se dice depende de si hay red.
 
-**Y si no encuentra:** lo que no se midió se dice no medido. No se supone.
+Y si no encuentra: lo que no se midió se dice no medido. No se supone.
 
-**Falla si:** se promete algo sin haberlo probado, o se sigue prometiendo con el piso roto.
+Falla si: se promete algo sin haberlo probado, o se sigue prometiendo con el piso roto.
 
 Falsificador: un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que se puede decir por qué se probó eso y no otra cosa.
 
@@ -264,15 +264,15 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El piso se mide antes de prometer, y se dice qué falta | [`ente 7`](../../metodologia/huecos/corridas/07%20-%20PISO/) | cuatro cosas faltaban, dichas por su nombre antes de que nadie pidiera nada |
-| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](../../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback`, y esa es la corrección que este ensayo ya incorpora |
-| El ente contesta por tarea y no buscando palabras | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
-| El piso no se puede medir a ciegas | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
-| El piso crece con cada tarea que no pudo contestar | [`ente 10`](../../metodologia/huecos/corridas/10%20-%20CRECE/) | **creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza** |
-| La salida de un `hay` prueba la herramienta, y no el programa | [`ente 11`](../../metodologia/huecos/corridas/11%20-%20HAY/) | **falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía** |
+| El piso se mide antes de prometer, y se dice qué falta | [ente 7](../../metodologia/huecos/corridas/07%20-%20PISO/) | cuatro cosas faltaban, dichas por su nombre antes de que nadie pidiera nada |
+| La salida de un `no hay` nombra la herramienta, no el error | [ente 7](../../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback`, y esa es la corrección que este ensayo ya incorpora |
+| El ente contesta por tarea y no buscando palabras | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
+| El piso no se puede medir a ciegas | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la llave foránea lo rechaza con razón: la circularidad queda abierta |
+| El piso crece con cada tarea que no pudo contestar | [ente 10](../../metodologia/huecos/corridas/10%20-%20CRECE/) | creció, y no pudo enlazar la tarea que lo hizo crecer: falta decir quién enlaza |
+| La salida de un `hay` prueba la herramienta, y no el programa | [ente 11](../../metodologia/huecos/corridas/11%20-%20HAY/) | falló: guardó `hay` para pypdf a partir de la versión de python, y el ente contestó que sí cabía |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
 ---
 
-Falsificador: **un piso que dice `hay` y cuya salida no se puede volver a correr sobre esa herramienta**; **un piso que crece y no cubre la tarea que lo hizo crecer**; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.
+Falsificador: un piso que dice `hay` y cuya salida no se puede volver a correr sobre esa herramienta; un piso que crece y no cubre la tarea que lo hizo crecer; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.

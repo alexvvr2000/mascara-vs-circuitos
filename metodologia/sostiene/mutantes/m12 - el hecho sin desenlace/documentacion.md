@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El duodécimo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El duodécimo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -70,8 +70,8 @@ Y ése es el estado en el que está el repositorio mismo, y lo dice: 68 de las 8
 
 ## Lo que este mutante NO probó
 
-- **No probó un desenlace con `no se ha probado`**, que es el tercer valor y no es lo mismo que no tener ninguno.
-- **No probó la fricción**, sólo el hecho. La fricción sin desenlace es una promesa, y el ensayo lo dice; aquí se corrió la del hecho.
+- No probó un desenlace con `no se ha probado`, que es el tercer valor y no es lo mismo que no tener ninguno.
+- No probó la fricción, sólo el hecho. La fricción sin desenlace es una promesa, y el ensayo lo dice; aquí se corrió la del hecho.
 - Y el ente que se montó es mínimo: cuenta filas, y no sabe si el desenlace dice algo.
 
 ---

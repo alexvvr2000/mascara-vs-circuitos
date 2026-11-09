@@ -94,15 +94,15 @@ Esto es lo que el autor cree que puede ser falso, y no esconde.
 
 | Lo que podría ser falso | Cómo se sabría |
 |---|---|
-| **que las cuatro piezas bastan** | alguien levanta un ente con ellas y le falta algo que no sea de implementación |
-| **que el desenlace es la pieza que falta siempre** | un ente con desenlaces completos que igual no tenga criterio |
-| **que la corrida entera es mejor que por pedazos** | una corrida entera que no encuentre nada y una recortada que encuentre mucho |
-| **que el criterio vive en el registro** | demostrar que vive en el modelo, cambiando el registro y no el modelo |
-| **que esto sirve para modelos pequeños** | un modelo pequeño con registro completo que no mejore |
+| que las cuatro piezas bastan | alguien levanta un ente con ellas y le falta algo que no sea de implementación |
+| que el desenlace es la pieza que falta siempre | un ente con desenlaces completos que igual no tenga criterio |
+| que la corrida entera es mejor que por pedazos | una corrida entera que no encuentre nada y una recortada que encuentre mucho |
+| que el criterio vive en el registro | demostrar que vive en el modelo, cambiando el registro y no el modelo |
+| que esto sirve para modelos pequeños | un modelo pequeño con registro completo que no mejore |
 
 Y el más importante, que también puede ser falso:
 
-| **que todo esto sirva para algo** | que alguien lo use, o que nadie lo use en cinco años |
+| que todo esto sirva para algo | que alguien lo use, o que nadie lo use en cinco años |
 
 El último no tiene falsificador técnico, y se dice: no hay forma de probar que una herramienta sirvió. Sólo hay forma de ver si alguien la usó.
 
@@ -114,7 +114,7 @@ Hay cosas que este repositorio no puede decir porque no las tiene, y no se van a
 
 Lo que el autor pensó y no escribió. Lo que se borró y no quedó en el historial. Cuántas veces se intentó algo y se abandonó antes de que existiera un archivo.
 
-Y una que sí se dice porque es cierta: hubo ideas que se perdieron porque llegaron en el mismo mensaje que otras que no servían. La carpeta `historia/` existe para que eso no vuelva a pasar, y llegó tarde.
+Y una que sí se dice porque es cierta: hubo ideas que se perdieron porque llegaron en el mismo mensaje que otras que no servían. La carpeta [`metodologia/historia/`](../metodologia/historia/README.md) existe para que eso no vuelva a pasar, y llegó tarde.
 
 ---
 
@@ -134,4 +134,4 @@ Y por eso esta página no dice «es lo mejor que se pudo». Dice qué falta, y p
 
 Y la prueba que no necesita instrumentos: ¿el lector puede decir, sin buscar, qué es lo más débil de todo esto?
 
-Falsificador: **una página de límites que sólo lista lo que no se pudo hacer, y no lo que podría estar mal**; **un límite escrito para que absuelva y no para que calibre**; y **un repositorio que dice «no hay revisión externa» y sigue escribiendo como si la hubiera.**
+Falsificador: una página de límites que sólo lista lo que no se pudo hacer, y no lo que podría estar mal; un límite escrito para que absuelva y no para que calibre; y un repositorio que dice «no hay revisión externa» y sigue escribiendo como si la hubiera.

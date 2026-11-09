@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El noveno de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El noveno de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -72,7 +72,7 @@ Y eso es peor que un error: es una decisión que parece obvia.
 ## Lo que este mutante NO probó
 
 - No probó `ninguna` habiendo algo que descartar, que es la otra forma de vaciarlo. El ensayo lo nombra, y aquí se corrió la forma en blanco.
-- **No probó la firma**, la cuarta columna.
+- No probó la firma, la cuarta columna.
 - Y el ente que se montó es mínimo: no sabe si el descarte dice la verdad, sólo si está escrito.
 
 ---

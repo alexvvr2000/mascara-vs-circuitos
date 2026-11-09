@@ -5,7 +5,7 @@
 Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Necesita [`criterio real`](criterio%20real.md), y ayuda [`que es un ente`](que%20es%20un%20ente.md).
+> Antes de leer. Necesita [criterio real](criterio%20real.md), y ayuda [que es un ente](que%20es%20un%20ente.md).
 >
 > Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.
 
@@ -31,11 +31,11 @@ Un sesgo es otra cosa: es la inclinación sistemática a producir un tipo de res
 
 | | El criterio | El sesgo |
 |---|---|---|
-| **Dónde vive** | en el registro del ente | en el modelo, antes de que el ente pregunte |
-| **Cómo se forma** | se sostiene y se cae, con fecha | se hereda del entrenamiento y del diseño |
-| **Cómo se corrige** | se registra el desenlace y se repesa | no se corrige del todo: se **acota** y se **declara** |
-| **Qué pasa al cambiar de modelo** | se conserva | cambia |
-| **Qué produce si no se toca** | una regla que aguanta | una respuesta plausible y parcial |
+| Dónde vive | en el registro del ente | en el modelo, antes de que el ente pregunte |
+| Cómo se forma | se sostiene y se cae, con fecha | se hereda del entrenamiento y del diseño |
+| Cómo se corrige | se registra el desenlace y se repesa | no se corrige del todo: se acota y se declara |
+| Qué pasa al cambiar de modelo | se conserva | cambia |
+| Qué produce si no se toca | una regla que aguanta | una respuesta plausible y parcial |
 
 El criterio es del ente. El sesgo es del modelo. Y por eso un ente con una identidad sobre varios modelos puede tener un criterio y varios sesgos a la vez, sin contradicción: el criterio es lo que el ente sostuvo; los sesgos son lo que cada modelo aporta de fábrica.
 
@@ -158,8 +158,8 @@ Se confundían dos cosas que viajan distinto:
 
 | | Qué es | Al cambiar de cuerpo |
 |---|---|---|
-| **el criterio** | las reglas, el banco, los desenlaces, la forma de decidir | **se conserva entero: es del ente** |
-| **el talento** | qué tan bien sale una clase de trabajo con un cuerpo concreto | **no viaja: se aprende por cuerpo, y se aprende de nuevo** |
+| el criterio | las reglas, el banco, los desenlaces, la forma de decidir | se conserva entero: es del ente |
+| el talento | qué tan bien sale una clase de trabajo con un cuerpo concreto | no viaja: se aprende por cuerpo, y se aprende de nuevo |
 
 Y eso es lo mismo que pasa con una persona: su criterio no cambia cuando cambia de herramienta; lo que cambia es lo que ya practicó con cada una. Y hay gente talentosa para una cosa y no para otra, con la misma cabeza.
 
@@ -279,37 +279,37 @@ Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro l
 
 ### Declarar el cuerpo
 
-**Se corre:** al declarar el ente, y cada vez que cambia el modelo.
-**Entra:** el nombre del cuerpo, y lo que se sabe que hace mal.
-**Sale:** el cuerpo declarado, con su fecha, y los hechos que vienen apuntando a él.
-**Lo consume:** el paso 5, que apunta con qué se hizo cada cosa; y la tabla de sesgo experimentado.
+Se corre: al declarar el ente, y cada vez que cambia el modelo.
+Entra: el nombre del cuerpo, y lo que se sabe que hace mal.
+Sale: el cuerpo declarado, con su fecha, y los hechos que vienen apuntando a él.
+Lo consume: el paso 5, que apunta con qué se hizo cada cosa; y la tabla de sesgo experimentado.
 La búsqueda: se pregunta. El ente no puede leer su propio nombre, y si lo adivina dice lo que se le parece.
-**Y si no encuentra:** si no se declara, se sigue trabajando, y los hechos quedan como `no declarado`. El ente avisa una vez.
-**Falla si:** el ente deduce un cuerpo que no le dijeron, o se rellenan hacia atrás los hechos que quedaron sin cuerpo.
+Y si no encuentra: si no se declara, se sigue trabajando, y los hechos quedan como `no declarado`. El ente avisa una vez.
+Falla si: el ente deduce un cuerpo que no le dijeron, o se rellenan hacia atrás los hechos que quedaron sin cuerpo.
 Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarado.
 Y qué se pierde si cambia: sin el cuerpo, los hechos no se pueden separar por quién los hizo, y la tabla de talentos pierde la columna que la hace útil.
 
 ### Mirar cómo se cayó antes en esta clase de trabajo
 
-**Se corre:** antes de contestar, y sólo si en esa clase ya hay renglón de caída.
-**Entra:** la clase de trabajo, y la tabla del sesgo experimentado.
-**Sale:** la puerta por la que se cayó, o nada, si no hay renglón.
-**Lo consume:** el paso 3, que decide.
+Se corre: antes de contestar, y sólo si en esa clase ya hay renglón de caída.
+Entra: la clase de trabajo, y la tabla del sesgo experimentado.
+Sale: la puerta por la que se cayó, o nada, si no hay renglón.
+Lo consume: el paso 3, que decide.
 La búsqueda: se lee la tabla por cuerpo y por clase.
-**Y si no encuentra:** si no hay renglón, se contesta normal, y no se menciona. Buscar la contra en toda tarea paraliza.
-**Falla si:** hay renglón y se contesta igual que si no lo hubiera.
+Y si no encuentra: si no hay renglón, se contesta normal, y no se menciona. Buscar la contra en toda tarea paraliza.
+Falla si: hay renglón y se contesta igual que si no lo hubiera.
 Falsificador: un ente con renglón de caída en esa clase que contesta como si no lo tuviera.
 Y qué se pierde si cambia: sin esta consulta, el ente repite el mismo error y el registro se llena sin que nadie aprenda nada de él.
 
 ### Declarar el origen de lo que se va a decir
 
-**Se corre:** en el paso 1, antes de contestar, y una sola vez por frase.
-**Entra:** lo que se va a afirmar, y lo que de verdad se abrió.
-**Sale:** el origen, en uno de cuatro estados: con fuente abierta, de memoria, cita de tercero, o fuente cerrada.
-**Lo consume:** el paso 5, que apunta el origen junto con el hecho.
+Se corre: en el paso 1, antes de contestar, y una sola vez por frase.
+Entra: lo que se va a afirmar, y lo que de verdad se abrió.
+Sale: el origen, en uno de cuatro estados: con fuente abierta, de memoria, cita de tercero, o fuente cerrada.
+Lo consume: el paso 5, que apunta el origen junto con el hecho.
 La búsqueda: se abre, o no se abre. No hay término medio.
-**Y si no encuentra:** si no hay red, o la fuente está cerrada, se dice. «Lo afirmo de memoria» es una respuesta completa.
-**Falla si:** se declara el origen después de contestar, o se dice «con fuente abierta» sin haberla abierto.
+Y si no encuentra: si no hay red, o la fuente está cerrada, se dice. «Lo afirmo de memoria» es una respuesta completa.
+Falla si: se declara el origen después de contestar, o se dice «con fuente abierta» sin haberla abierto.
 Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
 Y qué se pierde si cambia: sin el origen, el relleno y el dato se ven igual, y la ignorancia bien maquetada pasa por conocimiento.
 
@@ -329,8 +329,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El relleno más fino cita un tercero como si fuera el original | [`ente 6`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
-| Una norma que no se puede abrir se cita con quién la reporta | [`ente 6`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el texto de la norma no se pudo abrir, y se dice por qué |
+| El relleno más fino cita un tercero como si fuera el original | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el renglón citado existía, y la norma que reporta no se puede abrir |
+| Una norma que no se puede abrir se cita con quién la reporta | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el texto de la norma no se pudo abrir, y se dice por qué |
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

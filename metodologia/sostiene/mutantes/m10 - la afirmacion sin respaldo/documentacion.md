@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El décimo de las catorce familias, corrido. Y el que destapó un hueco real del repositorio. El estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El décimo de las catorce familias, corrido. Y el que destapó un hueco real del repositorio. El estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 

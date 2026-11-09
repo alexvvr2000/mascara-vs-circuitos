@@ -6,7 +6,7 @@ Los pasos que un ente corre, uno por uno: qué entra, qué se hace, y dónde que
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído [`que es un ente`](que%20es%20un%20ente.md). Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
+> Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md). Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -18,13 +18,13 @@ Un ente puede funcionar sin esto, y funciona mal de una manera que no se ve.
 
 El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo. Y lo que no está escrito, se rellena — y se rellena distinto cada vez. Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.
 
-Y dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [`que es un ente`](que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
+Y dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [que es un ente](que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
 
 Y cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.
 
 La ruta corta, si el tiempo es poco: el paso 0, el paso 3, y el falsificador del final. Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.
 
-Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [`el piso`](el%20piso.md), y las cuatro columnas del paso 3 en [`la frontera y el descarte`](la%20frontera%20y%20el%20descarte.md).
+Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [el piso](el%20piso.md), y las cuatro columnas del paso 3 en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
 
 ### El mapa
 
@@ -74,13 +74,13 @@ Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito. El model
 
 Y el piso tampoco es una pieza: es una medición. Va después, en el paso 0d, porque no se declara a ojo: se corre y se apunta qué salió.
 
-**Se corre:** una sola vez, antes de la primera vuelta. Si falta alguna de las cuatro, no se corre el ciclo.
+Se corre: una sola vez, antes de la primera vuelta. Si falta alguna de las cuatro, no se corre el ciclo.
 
-**Lo consume:** todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
+Lo consume: todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
 
-**Y si no encuentra:** si falta una pieza, se dice en el acto y no al final: esto es un pedazo, no un ente.
+Y si no encuentra: si falta una pieza, se dice en el acto y no al final: esto es un pedazo, no un ente.
 
-**Falla si:** el esquema tiene menos tablas que las cuatro piezas. Ésa es la señal, y se ve en el primer archivo.
+Falla si: el esquema tiene menos tablas que las cuatro piezas. Ésa es la señal, y se ve en el primer archivo.
 
 Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
 
@@ -109,13 +109,13 @@ Y el aviso no es del ente, es del registro: se escribe en el banco. Un aviso que
 
 Y la línea que lo hace honesto: si el cuerpo no se declara, el hueco es de quien no lo declaró, no del ente. El ente avisó, trabajó con lo que tenía, y lo apuntó como no declarado. Lo que no hace es adivinar el nombre para rellenar la tabla.
 
-**Se corre:** al declarar el ente, y cada vez que cambia el cuerpo. No se detecta: se declara.
+Se corre: al declarar el ente, y cada vez que cambia el cuerpo. No se detecta: se declara.
 
-**Lo consume:** el paso 6, que apunta el sesgo por cuerpo, y el paso 5, que apunta con qué se hizo cada cosa.
+Lo consume: el paso 6, que apunta el sesgo por cuerpo, y el paso 5, que apunta con qué se hizo cada cosa.
 
-**Y si no encuentra:** si no se declara el cuerpo, se sigue trabajando y los hechos quedan como no declarado. No se detiene el ciclo.
+Y si no encuentra: si no se declara el cuerpo, se sigue trabajando y los hechos quedan como no declarado. No se detiene el ciclo.
 
-**Falla si:** el ente deduce un cuerpo que no le dijeron.
+Falla si: el ente deduce un cuerpo que no le dijeron.
 
 Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarado.
 
@@ -123,7 +123,7 @@ Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarad
 
 La autoridad no es "el usuario". El usuario es quien pregunta hoy; la autoridad es quien responde por el para qué. Pueden ser la misma persona, y no se confunden: el usuario puede cambiar cada mensaje, y la autoridad es una y con nombre.
 
-Y la razón por la que existe no es jerárquica, y está en [`que es un ente`](que%20es%20un%20ente.md): un ente no tiene cuerpo, y por eso su error no le cuesta nada. La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.
+Y la razón por la que existe no es jerárquica, y está en [que es un ente](que%20es%20un%20ente.md): un ente no tiene cuerpo, y por eso su error no le cuesta nada. La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.
 
 De ahí dos cosas que este paso da por hechas y que hay que decir aquí:
 
@@ -184,17 +184,17 @@ Y si el otro no puede contestar porque no sabe, esa también es una respuesta: s
 
 Y el resultado no es una frase más: es una decisión apuntada.
 
-**Dónde queda:** en el hecho, cuando se abra, y en la frontera de la respuesta. Si el ente no puede decir de qué se enteró antes de empezar, lo que produzca va a ser coherente con la letra y ajeno al propósito — que es exactamente el fracaso que la empatía previene.
+Dónde queda: en el hecho, cuando se abra, y en la frontera de la respuesta. Si el ente no puede decir de qué se enteró antes de empezar, lo que produzca va a ser coherente con la letra y ajeno al propósito — que es exactamente el fracaso que la empatía previene.
 
 Y si no hay manera de preguntar (el que pide no está disponible), se declara el supuesto: "entendí X; si era Y, esto no sirve." Un supuesto declarado se puede corregir; uno callado se descubre tarde.
 
-**Se corre:** antes del paso 1, y sólo cuando la frase del pedido no dice lo que se necesita para empezar.
+Se corre: antes del paso 1, y sólo cuando la frase del pedido no dice lo que se necesita para empezar.
 
-**Lo consume:** el paso 5, que apunta el supuesto con su estado, y la respuesta, que lleva la frontera.
+Lo consume: el paso 5, que apunta el supuesto con su estado, y la respuesta, que lleva la frontera.
 
-**Y si no encuentra:** si el otro no puede contestar porque no sabe, eso también es una respuesta: se apunta el supuesto, y se sigue.
+Y si no encuentra: si el otro no puede contestar porque no sabe, eso también es una respuesta: se apunta el supuesto, y se sigue.
 
-**Falla si:** se supone en silencio y se llama entendimiento.
+Falla si: se supone en silencio y se llama entendimiento.
 
 Falsificador: un ente que contesta sin haber dicho qué entendió; y uno que declara haber entendido cuando en realidad supuso, sin apuntar el supuesto con su estado.
 
@@ -216,9 +216,9 @@ Y `roto` no se anota en el hecho: se anota en la fricción. Porque el error es d
 
 ### Paso 1 — recibe
 
-**Entra:** la frase, tal como se dijo.
+Entra: la frase, tal como se dijo.
 
-**Se hace:** se guarda literal. No se parafrasea, y no se "arregla" la forma.
+Se hace: se guarda literal. No se parafrasea, y no se "arregla" la forma.
 
 Y en el mismo paso, antes de contestar nada, se declara de dónde va a salir lo que se diga. Y esto es lo que separa a un ente de un agente:
 
@@ -235,25 +235,25 @@ Porque un agente que no tiene la fuente y contesta igual no está mintiendo: est
 
 Y la declaración va antes del hecho, no después. Declarada después, se acomoda a lo que ya se dijo, y entonces no es un control: es una justificación.
 
-**Dónde queda:** en el hecho que se abre, y todavía no se escribe nada: el hecho no existe hasta que termina el ciclo. Lo que se guarda aquí es la frase, y lo que la acompaña es su origen.
+Dónde queda: en el hecho que se abre, y todavía no se escribe nada: el hecho no existe hasta que termina el ciclo. Lo que se guarda aquí es la frase, y lo que la acompaña es su origen.
 
 "con fuente abierta" no es una intención, es un hecho del piso. Si el piso dice que no hay red, el origen no puede ser "la abrí": tiene que ser "de memoria", y se dice. Un ente sin red que dice "con fuente abierta" no está declarando: está rellenando la declaración.
 
-**Se corre:** en cada vuelta, antes de cualquier otro paso, y una sola vez por frase.
+Se corre: en cada vuelta, antes de cualquier otro paso, y una sola vez por frase.
 
-**Lo consume:** el paso 5, que apunta el origen junto con el hecho.
+Lo consume: el paso 5, que apunta el origen junto con el hecho.
 
-**Y si no encuentra:** si no hay frase que guardar, no hay ciclo: no se sigue.
+Y si no encuentra: si no hay frase que guardar, no hay ciclo: no se sigue.
 
-**Falla si:** se parafrasea la frase, o se declara el origen después de contestar.
+Falla si: se parafrasea la frase, o se declara el origen después de contestar.
 
 Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
 
 ### Paso 2 — consulta el índice (antes de decidir)
 
-**Entra:** la frase del paso 1.
+Entra: la frase del paso 1.
 
-**Se hace:** se recorre el grafo de temas, por sus relaciones y no por palabras sueltas.
+Se hace: se recorre el grafo de temas, por sus relaciones y no por palabras sueltas.
 
 ```plaintext
 ¿a qué tema corresponde?
@@ -263,25 +263,25 @@ Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declar
 
 Y el «no» es una respuesta, no una falla. Un ente que contesta algo que no está en su índice está contestando de memoria, y la memoria no se puede auditar. Declarar el hueco es lo que dice que el índice va a crecer.
 
-**Dónde queda:** el tema que se usó va al hecho. Y si no había tema, también se apunta: el hecho queda sin tema, y eso se puede contar. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.
+Dónde queda: el tema que se usó va al hecho. Y si no había tema, también se apunta: el hecho queda sin tema, y eso se puede contar. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.
 
 Y aquí hay una consecuencia que se salta: si el tema existe pero su borde no la cubre, tampoco entra. El borde se lee antes de usar el tema, no después de que salió mal.
 
-**Se corre:** después del paso 1, y antes de decidir. Nunca después: quien decide primero y busca después está buscando con qué justificarse.
+Se corre: después del paso 1, y antes de decidir. Nunca después: quien decide primero y busca después está buscando con qué justificarse.
 
-**Lo consume:** el paso 3, que decide con el tema que salió de aquí.
+Lo consume: el paso 3, que decide con el tema que salió de aquí.
 
-**Y si no encuentra:** se declara el hueco —«esto no tiene tema todavía»—, y se sigue. El hueco no detiene el ciclo.
+Y si no encuentra: se declara el hueco —«esto no tiene tema todavía»—, y se sigue. El hueco no detiene el ciclo.
 
-**Falla si:** se recorre por palabras sueltas, o se consulta el texto en vez del grafo.
+Falla si: se recorre por palabras sueltas, o se consulta el texto en vez del grafo.
 
 Falsificador: un ente que contesta algo que no está en su índice, y no lo declara.
 
 ### Paso 3 — decide, y aquí está la frontera de la autoridad
 
-**Entra:** la frase, el tema por el que se entró (o el hueco declarado), **y lo que se entendió en el paso 0b.**
+Entra: la frase, el tema por el que se entró (o el hueco declarado), y lo que se entendió en el paso 0b.
 
-**Se hace:** se elige qué hacer, **bajo las reglas que el ente aceptó**, y se descarta lo que no va.
+Se hace: se elige qué hacer, bajo las reglas que el ente aceptó, y se descarta lo que no va.
 
 Y lo que se decide no es solo la respuesta: es también qué se descartó. Un ente que solo apunta lo que hizo no puede explicar por qué no hizo lo otro.
 
@@ -306,15 +306,15 @@ lo que el ente PROPONE y espera firma
 
 Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia. Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.
 
-Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en [`la frontera y el descarte`](la%20frontera%20y%20el%20descarte.md).
+Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
 
-**Se corre:** después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
+Se corre: después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
 
-**Lo consume:** el paso 4, que contesta con la decisión y su frontera.
+Lo consume: el paso 4, que contesta con la decisión y su frontera.
 
-**Y si no encuentra:** si el piso no da para lo que se pide, se dice qué falta, y se propone lo que sí cabe. No se decide a medias.
+Y si no encuentra: si el piso no da para lo que se pide, se dice qué falta, y se propone lo que sí cabe. No se decide a medias.
 
-**Falla si:** se decide algo de la lista de lo que propone, sin esperar firma.
+Falla si: se decide algo de la lista de lo que propone, sin esperar firma.
 
 Falsificador: un hecho que se salió del borde sin su fricción propia; y uno que se apunta con una firma que el ente no tenía.
 
@@ -394,19 +394,19 @@ Falsificador: un ente que se agregó una pieza y siguió sin decirlo; uno que tr
 
 ### Paso 4 — contesta
 
-**Entra:** la decisión.
+Entra: la decisión.
 
-**Se hace:** se produce la salida, y se dice hasta dónde vale. La frontera va con la respuesta, no después.
+Se hace: se produce la salida, y se dice hasta dónde vale. La frontera va con la respuesta, no después.
 
-**Dónde queda:** en la respuesta. **Y aquí no se ha escrito nada todavía.**
+Dónde queda: en la respuesta. Y aquí no se ha escrito nada todavía.
 
-**Se corre:** inmediatamente después de decidir, y una vez por decisión.
+Se corre: inmediatamente después de decidir, y una vez por decisión.
 
-**Lo consume:** quien preguntó, y el paso 5, que lo apunta.
+Lo consume: quien preguntó, y el paso 5, que lo apunta.
 
-**Y si no encuentra:** si no hay decisión que producir, no se contesta: se declara que no se llegó a decidir, y por qué.
+Y si no encuentra: si no hay decisión que producir, no se contesta: se declara que no se llegó a decidir, y por qué.
 
-**Falla si:** se contesta sin la frontera, o la frontera se manda después, aparte.
+Falla si: se contesta sin la frontera, o la frontera se manda después, aparte.
 
 Falsificador: una respuesta sin su «hasta dónde vale»; y una frontera que llega después de que la respuesta ya se leyó.
 
@@ -437,25 +437,25 @@ Y si algo de eso falta, no se rellena: se dice que falta. Un campo vacío con un
 
 Y la regla que cambia el ciclo a la mitad: el hecho que dice haber salido de una fuente no se puede apuntar sin ella. Si el ente afirmó de memoria, el hecho lo dice; si afirmó de una fuente, la fuente se apunta antes, y el hecho cuelga de ella. Un hecho que dice "lo leí" y no deja dónde, es un hecho que no se puede revisar.
 
-**Dónde queda:** aquí sí se escribe, y es lo primero que se escribe en el ciclo. Todo lo anterior existió en memoria; esto es lo único que sobrevive.
+Dónde queda: aquí sí se escribe, y es lo primero que se escribe en el ciclo. Todo lo anterior existió en memoria; esto es lo único que sobrevive.
 
 Y no se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede perder lo del medio. Los hechos intermedios se apuntan si hacen falta, y eso es decisión de quien corre el ciclo, no una propiedad del ciclo.
 
-**Se corre:** al final del ciclo, y no durante. Un ciclo largo puede perder lo del medio, y eso se acepta.
+Se corre: al final del ciclo, y no durante. Un ciclo largo puede perder lo del medio, y eso se acepta.
 
-**Lo consume:** el paso 6, y la autoridad cuando lee el registro.
+Lo consume: el paso 6, y la autoridad cuando lee el registro.
 
-**Y si no encuentra:** si algo no se apuntó, se dice que no se apuntó. El campo vacío no se rellena.
+Y si no encuentra: si algo no se apuntó, se dice que no se apuntó. El campo vacío no se rellena.
 
-**Falla si:** se apunta lo que no pasó, o se rellena un campo con una frase que lo disimula.
+Falla si: se apunta lo que no pasó, o se rellena un campo con una frase que lo disimula.
 
 Falsificador: un campo vacío disimulado con una frase; y un hecho que resume en vez de medir.
 
 ### Paso 6 — se corrige, y se aprende de qué cuerpo
 
-**Entra:** lo que se apuntó, y lo que la vida hizo con eso.
+Entra: lo que se apuntó, y lo que la vida hizo con eso.
 
-**Se hace:** **se vuelve a probar la regla que se había caído, y se apunta qué pasó.**
+Se hace: se vuelve a probar la regla que se había caído, y se apunta qué pasó.
 
 ```plaintext
 aguantó                     → el desenlace dice «cumplida»
@@ -465,17 +465,17 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 
 Y el tercero no es un hueco: es el dato más honesto del banco. Casi todo lo que un ente sostiene no se ha vuelto a probar, y decirlo es lo que permite que lo demás se crea.
 
-**Dónde queda:** en el desenlace, y el desenlace apunta a la fricción de la que nace. Y aquí está la regla que hace que esto no sea un diario: una fricción sin desenlace es una promesa.
+Dónde queda: en el desenlace, y el desenlace apunta a la fricción de la que nace. Y aquí está la regla que hace que esto no sea un diario: una fricción sin desenlace es una promesa.
 
 Y el paso 6 depende de que algo vuelva a pasar. Un ente que nunca vuelve a intentar lo mismo no tiene desenlaces: tiene una lista de promesas. No es un defecto del ciclo: es la condición que lo hace real.
 
-**Se corre:** cada vez que la regla que se cayó vuelve a intentarse, y nunca antes.
+Se corre: cada vez que la regla que se cayó vuelve a intentarse, y nunca antes.
 
-**Lo consume:** el sesgo experimentado del cuerpo, y la autoridad cuando decide si la regla sigue en pie.
+Lo consume: el sesgo experimentado del cuerpo, y la autoridad cuando decide si la regla sigue en pie.
 
-**Y si no encuentra:** si no se ha vuelto a intentar, el desenlace dice «no se ha probado». Eso no es un hueco: es el dato más honesto del registro.
+Y si no encuentra: si no se ha vuelto a intentar, el desenlace dice «no se ha probado». Eso no es un hueco: es el dato más honesto del registro.
 
-**Falla si:** se apunta un desenlace por algo que no se volvió a probar.
+Falla si: se apunta un desenlace por algo que no se volvió a probar.
 
 Falsificador: una fricción sin desenlace, presentada como si la regla aguantara.
 
@@ -560,7 +560,7 @@ Pero preguntar siempre es de estúpido, y esta es la línea: hay cosas que termi
 
 Y el cierre apunta a la autoridad declarada, no a un texto libre. Si guardara un nombre escrito a mano, el ente podría escribir «lo cerró Alejandro» sin que Alejandro lo haya tocado. Es la diferencia entre decir «me autorizaron» y poder señalar quién, cuándo, y con qué.
 
-**Dónde queda:** la propuesta va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró y con qué se cumplió. Un cierre que dice «ya quedó» se discute; uno que dice «los ocho ensayos están en tres carpetas y el push salió» no.
+Dónde queda: la propuesta va al hecho, y el cierre va al propósito, con el nombre de quien lo cerró y con qué se cumplió. Un cierre que dice «ya quedó» se discute; uno que dice «los ocho ensayos están en tres carpetas y el push salió» no.
 
 Y una consecuencia que hay que saber antes de implementar: una prueba nunca va a cerrar nada sola, porque la autoridad no está.
 
@@ -586,11 +586,11 @@ Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cie
 
 ### Y antes de seguir: cómo se sabe si este ciclo sirve, y dónde está el cómo se llegó
 
-Un ciclo escrito se puede correr y no probar nada. Y la forma de saberlo está en [`escritura en procesos`](escritura%20en%20procesos.md), porque es el mismo mecanismo: se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.
+Un ciclo escrito se puede correr y no probar nada. Y la forma de saberlo está en [escritura en procesos](escritura%20en%20procesos.md), porque es el mismo mecanismo: se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.
 
-La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí. El piso del ensayo [`el piso`](el%20piso.md).
+La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí. El piso del ensayo [el piso](el%20piso.md).
 
-Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en `metodologia/`. Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
+Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en [`metodologia/`](../../metodologia/README.md). Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
 
 **Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
 
@@ -653,12 +653,12 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Un ente al que le falta una pieza hay que decirlo en el acto | [`ente 5`](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
-| El origen de lo que se dice se declara antes del hecho | [`ente 6`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
-| La salida de un `no hay` nombra la herramienta, no el error | [`ente 7`](../../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
-| El paso 3 se guarda en cuatro columnas | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
-| El ente contesta por tarea y no buscando palabras | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
-| El piso crece con cada tarea que no pudo contestar | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
+| Un ente al que le falta una pieza hay que decirlo en el acto | [ente 5](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
+| El origen de lo que se dice se declara antes del hecho | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
+| La salida de un `no hay` nombra la herramienta, no el error | [ente 7](../../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
+| El paso 3 se guarda en cuatro columnas | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
+| El ente contesta por tarea y no buscando palabras | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
+| El piso crece con cada tarea que no pudo contestar | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

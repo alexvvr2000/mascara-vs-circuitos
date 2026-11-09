@@ -30,9 +30,9 @@ Y eso es lo primero que se escribe, en cualquier stack.
 
 | La pieza | ¿Es un gusto? | Qué tiene que poder hacer |
 |---|---|---|
-| **el motor** | **sí** | **recibir, decidir, contestar, y dejar el registro** |
-| **el catálogo** | **sí** | **traer herramientas nuevas cuando hagan falta** |
-| **la base** | **no** | **guardar el tema con tres relaciones, y recorrerlas** |
+| el motor | sí | recibir, decidir, contestar, y dejar el registro |
+| el catálogo | sí | traer herramientas nuevas cuando hagan falta |
+| la base | no | guardar el tema con tres relaciones, y recorrerlas |
 
 La base no es un gusto por una razón que se puede correr: el índice es un grafo, y lo que más se va a preguntar es por dónde se llega de un tema a otro. En una tabla eso es un recorrido escrito a mano; en un grafo es una arista.
 
@@ -102,4 +102,4 @@ Y no se cambia el borde para que la pieza entre. Si dos temas la aceptan, el bor
 
 ---
 
-Falsificador: **un manual que dice cómo cambiar el stack y no dice cómo se sabe que el cambio funcionó.**
+Falsificador: un manual que dice cómo cambiar el stack y no dice cómo se sabe que el cambio funcionó.

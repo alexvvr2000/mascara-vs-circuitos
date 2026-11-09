@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El séptimo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El séptimo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -73,7 +73,7 @@ Un consejo escrito con el mismo formato que un proceso es indistinguible del pro
 ## Lo que este mutante NO probó
 
 - No probó un proceso que dice cuándo, y el cuándo está mal — por ejemplo «al cerrar» en vez de «al abrir». Ése es el caso más peligroso, y no es este mutante.
-- **No probó varios procesos encadenados**, donde el cuándo de uno depende del anterior.
+- No probó varios procesos encadenados, donde el cuándo de uno depende del anterior.
 - Y el ente que se montó es mínimo: sabe los momentos y no sabe nada más. Un ente real podría correrlo de casualidad en el momento bueno.
 
 ---

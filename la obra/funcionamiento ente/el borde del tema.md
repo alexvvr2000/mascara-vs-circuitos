@@ -6,13 +6,13 @@ Cómo se escribe el borde de un tema para que una máquina lo pueda correr, y pa
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Necesita [`indexador de temas`](indexador%20de%20temas.md), porque es la parte del borde, sola.
+> Antes de leer. Necesita [indexador de temas](indexador%20de%20temas.md), porque es la parte del borde, sola.
 >
 > Al terminar sabrás escribir un borde que una máquina pueda correr y que dos personas no lean distinto.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> Y este ensayo es la parte del borde del indexador, sola: la parte del índice que decide. El índice completo está en [`indexador de temas`](indexador%20de%20temas.md).
+> Y este ensayo es la parte del borde del indexador, sola: la parte del índice que decide. El índice completo está en [indexador de temas](indexador%20de%20temas.md).
 
 ---
 
@@ -262,25 +262,25 @@ Y antes de los cuatro pasos, uno que se salta: el borde tiene que decir si lo ev
 
 ### Escribir un borde
 
-**Se corre:** al abrir el tema, y cuando se descubre que el borde acepta lo que no debía.
-**Entra:** la pieza, o el tipo de pieza que va a llegar.
-**Sale:** las cuatro partes: quién evalúa, `entra_si`, `no_entra`, y `y si duda`.
-**Lo consume:** el paso 2 del ciclo, que compara la pieza contra cada tema.
+Se corre: al abrir el tema, y cuando se descubre que el borde acepta lo que no debía.
+Entra: la pieza, o el tipo de pieza que va a llegar.
+Sale: las cuatro partes: quién evalúa, `entra_si`, `no_entra`, y `y si duda`.
+Lo consume: el paso 2 del ciclo, que compara la pieza contra cada tema.
 La búsqueda: se pregunta a quién va a evaluar, y con qué campos. Un borde de máquina mira campos; uno de persona mira el texto.
-**Y si no encuentra:** si no se puede escribir como condición sobre campos, el borde es de persona, y se dice quién lo evalúa, con nombre.
-**Falla si:** el borde mira el texto en vez de los campos; o si la zona gris se inventa al consultar en vez de declararse al escribir.
+Y si no encuentra: si no se puede escribir como condición sobre campos, el borde es de persona, y se dice quién lo evalúa, con nombre.
+Falla si: el borde mira el texto en vez de los campos; o si la zona gris se inventa al consultar en vez de declararse al escribir.
 Falsificador: un borde que dos personas clasifican distinto; y uno de máquina que mira el texto de la pieza.
 Y qué se pierde si cambia: sin `no_entra`, cada pieza que casi aplica reabre la discusión; y sin `y si duda`, el casi se resuelve a gusto del que consulta.
 
 ### Consultar un borde
 
-**Se corre:** en el paso 2, antes de decidir, y nunca después.
-**Entra:** la pieza, con sus campos.
-**Sale:** una de cuatro salidas: sí, no, medio, o no es de este tema.
-**Lo consume:** el paso 3, que decide con el tema que salió de aquí.
+Se corre: en el paso 2, antes de decidir, y nunca después.
+Entra: la pieza, con sus campos.
+Sale: una de cuatro salidas: sí, no, medio, o no es de este tema.
+Lo consume: el paso 3, que decide con el tema que salió de aquí.
 La búsqueda: primero se mira si la pieza cae en dos temas; después si el tema está completo.
-**Y si no encuentra:** si la pieza no cae en ninguna de las salidas, se apunta que al borde le falta un caso. No se mete a la fuerza en el casi.
-**Falla si:** el solapamiento se mira después de las herramientas; o si el casi se llena con lo que no encaja.
+Y si no encuentra: si la pieza no cae en ninguna de las salidas, se apunta que al borde le falta un caso. No se mete a la fuerza en el casi.
+Falla si: el solapamiento se mira después de las herramientas; o si el casi se llena con lo que no encaja.
 Falsificador: una pieza que cae en dos temas y recibe «no sé», porque uno de los dos estaba incompleto: el ente contestó a la pregunta equivocada.
 Y qué se pierde si cambia: si se invierte el orden, un tema a medias tapa un solapamiento, y el índice se queda con el defecto a cuestas.
 
@@ -298,11 +298,11 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El casi hay que alcanzarlo, o el borde no sirve | [`ente 3`](../../metodologia/huecos/corridas/03%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
-| Hay un cuarto sitio: no es de este tema | [`ente 4`](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
-| Dos temas que dudan no se resuelven eligiendo uno | [`ente 4`](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
-| El tema de persona se resuelve en lista de espera | [`ente 2`](../../metodologia/huecos/corridas/02%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
-| El solapamiento se mira antes que lo demás | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
+| El casi hay que alcanzarlo, o el borde no sirve | [ente 3](../../metodologia/huecos/corridas/03%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
+| Hay un cuarto sitio: no es de este tema | [ente 4](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
+| Dos temas que dudan no se resuelven eligiendo uno | [ente 4](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
+| El tema de persona se resuelve en lista de espera | [ente 2](../../metodologia/huecos/corridas/02%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
+| El solapamiento se mira antes que lo demás | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

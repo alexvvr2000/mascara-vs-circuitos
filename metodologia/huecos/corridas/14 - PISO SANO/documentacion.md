@@ -148,4 +148,4 @@ Las tres fricciones quedaron sin desenlace, y se dice. Y las tres se apuntaron a
 
 ¿El ente contestó que sí con el piso sano, Y LO HIZO? ¿Lo que dijo que alcanzaba, alcanzó al correrlo? ¿El cierre sin huecos se buscó a propósito antes de darlo por bueno? ¿Una tarea puede enlazar la medición que pidió otra? ¿Un cierre sin razón se acepta? ¿Y el ente sabe apuntarse una fricción?
 
-Falsificador: **un cierre que dice «no hice: nada» sin haber buscado los casos que lo rompen**; **una tarea que se compromete con la medición de otra**; **un cierre con la razón vacía**; y **un ente que no puede apuntarse lo que se cayó.**
+Falsificador: un cierre que dice «no hice: nada» sin haber buscado los casos que lo rompen; una tarea que se compromete con la medición de otra; un cierre con la razón vacía; y un ente que no puede apuntarse lo que se cayó.

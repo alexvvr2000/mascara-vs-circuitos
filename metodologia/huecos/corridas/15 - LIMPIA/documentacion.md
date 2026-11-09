@@ -122,13 +122,13 @@ hecho_que_lo_rompio = 999     aceptado
 
 Un supuesto se rompe contra un hecho que no está en ningún lado, y el registro se ve completo.
 
-**La regla:** **si el supuesto se rompió por algo, ese algo es un hecho del registro.** **Si no está, no se rompió: se supuso que se rompió.**
+La regla: si el supuesto se rompió por algo, ese algo es un hecho del registro. Si no está, no se rompió: se supuso que se rompió.
 
 ---
 
 ## Lo que esta corrida NO probó
 
-- **No probó dos rechazos seguidos**, ni qué pasa con el segundo.
+- No probó dos rechazos seguidos, ni qué pasa con el segundo.
 - No probó un supuesto que se rompe y luego el hecho se corrige.
 - No probó un pdf de verdad. `pypdf` no está.
 - No probó el cierre de un propósito rechazado abriendo otro, que es lo que el rechazo exige.
@@ -145,4 +145,4 @@ Dos fricciones, sin desenlace. Un supuesto sigue `pendiente`. Y el piso sigue di
 
 ¿Una tarea puede enlazar la medición de otra? ¿Un cierre con la razón vacía se acepta? ¿El no de la autoridad bloquea el cierre, y sobrevive después? ¿Un supuesto roto dice con qué y con qué hecho? ¿Y un hecho de ruptura que no existe se acepta?
 
-Falsificador: **un no que se puede borrar**; **un supuesto roto contra un hecho que no está**; **un cierre sin razón**; y **una tarea que se compromete con la medición de otra.**
+Falsificador: un no que se puede borrar; un supuesto roto contra un hecho que no está; un cierre sin razón; y una tarea que se compromete con la medición de otra.

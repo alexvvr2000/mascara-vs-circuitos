@@ -8,7 +8,7 @@ Alejandro Valenzuela Rivera · `TESTIGO`.
 
 ---
 
-> Antes de leer. Conviene haber leído [`empatía`](../la%20obra/humanidad/empat%C3%ADa.md) y [`conciencia`](../la%20obra/humanidad/lo%20que%20esta%20fuera.md), que están en los ensayos. Este ensayo no habla de entes: habla de cualquier cosa profunda que se persigue y no se alcanza del todo.
+> Antes de leer. Conviene haber leído [empatía](../la%20obra/humanidad/empat%C3%ADa.md) y [conciencia](../la%20obra/humanidad/lo%20que%20esta%20fuera.md), que están en los ensayos. Este ensayo no habla de entes: habla de cualquier cosa profunda que se persigue y no se alcanza del todo.
 >
 > Al terminar habrá una forma de escribir la pregunta «¿cuánto falta?» que no se queda en una sensación, y que no finge que el final existe.
 
@@ -92,7 +92,7 @@ Y aquí está lo que casi nunca se hace:
 
 Ese número existe, y cambia con el trabajo. Y es mucho mejor que la sensación de que falta algo.
 
-En este repositorio: las reglas contadas en [`metodo.md`](sostiene/metodo.md) §III y §VIII, las que un ente puede cumplir, y las probadas con su mutante, en [`corridas.md`](sostiene/corridas.md). Esa resta es todo lo que hay, y no hace falta más para saber dónde se está.
+En este repositorio: las reglas contadas en [metodo.md](sostiene/metodo.md) §III y §VIII, las que un ente puede cumplir, y las probadas con su mutante, en [corridas.md](sostiene/corridas.md). Esa resta es todo lo que hay, y no hace falta más para saber dónde se está.
 
 ### 4. La curva, que dice más que el número
 
@@ -238,13 +238,13 @@ Lo que este ensayo afirma, y en qué se apoya.
 
 | Lo que el ensayo afirma | En qué se apoya | Qué no se probó |
 |---|---|---|
-| un número dice dónde se está; una curva dice hacia dónde se va | las dieciocho corridas de este repositorio, con su serie | **una sola serie, y de un solo autor** |
+| un número dice dónde se está; una curva dice hacia dónde se va | las dieciocho corridas de este repositorio, con su serie | una sola serie, y de un solo autor |
 | el infinito no está en la fórmula, es la tendencia | el uso del infinito en el cálculo, y el teorema de Gödel | se cita el resultado; no se demuestra aquí |
-| «lo suficiente» se reconoce por haberlo empezado alguien | **nadie de afuera lo ha empezado todavía** | **es una condición propuesta, no una observada** |
-| un lenguaje que espera a estar completo no crece | la lógica de un protocolo que crece por casos | **ese protocolo no está probado** |
+| «lo suficiente» se reconoce por haberlo empezado alguien | nadie de afuera lo ha empezado todavía | es una condición propuesta, no una observada |
+| un lenguaje que espera a estar completo no crece | la lógica de un protocolo que crece por casos | ese protocolo no está probado |
 
 Y lo que esta tabla dice de más, y es lo que hay que leer antes de cualquier otra cosa: la tercera fila tiene el «nadie lo ha empezado» escrito en la columna de lo que se apoya. No es un descuido: es el estado.
 
 ---
 
-Falsificador: **una serie que se presenta como convergente porque las últimas cifras fueron pequeñas**; **un «lo suficiente» declarado por quien lo hizo**; **una curva que se calcula sobre los intentos que salieron bien**; y **una cosa que no tiene unidad contable, presentada como si la resta fuera posible.**
+Falsificador: una serie que se presenta como convergente porque las últimas cifras fueron pequeñas; un «lo suficiente» declarado por quien lo hizo; una curva que se calcula sobre los intentos que salieron bien; y una cosa que no tiene unidad contable, presentada como si la resta fuera posible.

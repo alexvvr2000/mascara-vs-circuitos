@@ -50,9 +50,9 @@ Y ésa es la misma regla de los dos destinos que ya usa la metodología: lo que 
 
 2. Si nada deja de cumplir, no se toca nada, y se dice que se miró y no se tocó.
 
-3. Si algo deja de cumplir, se busca en internet qué lo cumple hoy —con la misma recomendación del [la tabla del usuario](../usuario/stack.md): lo que se instala hoy, no lo que se recordaba.
+3. Si algo deja de cumplir, se busca en internet qué lo cumple hoy —con la misma recomendación del [El stack, del usuario](../usuario/stack.md): lo que se instala hoy, no lo que se recordaba.
 
-4. Se cambia el renglón en [`stack.md`](stack.md), y se agrega una línea al registro de abajo, con fecha y con qué corrida lo pidió.
+4. Se cambia el renglón en [stack.md](stack.md), y se agrega una línea al registro de abajo, con fecha y con qué corrida lo pidió.
 
 5. Y la prueba que cierra el cambio: el ente se levanta con el stack nuevo y produce el mismo rastro. Si el rastro cambia, lo que cambió era el ensayo y no el stack.
 
@@ -64,7 +64,7 @@ Una línea por cambio, y no se borra. Y si un cambio se deshizo, también se apu
 
 | Cuándo | Qué cambió | Qué corrida lo pidió | Por qué |
 |---|---|---|---|
-| **2026-11-08** | **el stack se escribe por primera vez** | **ninguna: es la elección inicial** | **`DSH` y `dshmarket` como vía, y `graphdblite` porque el índice es un grafo** |
+| 2026-11-08 | el stack se escribe por primera vez | ninguna: es la elección inicial | `DSH` y `dshmarket` como vía, y `graphdblite` porque el índice es un grafo |
 
 Y lo que el registro deja a la vista, y es cierto hoy: ningún cambio de stack ha sido pedido por una corrida todavía. Ese renglón es el único, y lo dice.
 

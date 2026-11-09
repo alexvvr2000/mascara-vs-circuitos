@@ -6,7 +6,7 @@ Qué tiene que tener un ensayo para que se pueda leer, citar, partir y engordar 
 
 Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-09.
 
-> Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: se ajustan con [`scripts/build.py`](../../scripts/build.py), que es el que dice si un ensayo la cumple.
+> Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: se ajustan con [scripts/build.py](../../scripts/build.py), que es el que dice si un ensayo la cumple.
 >
 > Y de dónde sale la exigencia: el ciclo es el mapa, y cada paso es su detalle. Un mapa que hay que corregir cada vez que un detalle cambia no es un mapa: es otro detalle que envejece. La forma es lo que deja que cada uno crezca solo.
 
@@ -69,7 +69,7 @@ bien   como dice el índice
 
 Y el build los encuentra: busca un número de dos cifras delante de algo que parece un título, y los lista. No dice a qué ensayo iba: dice dónde está la cita vieja, para que alguien la mire.
 
-Y las excepciones, que se dicen y no se disimulan: los archivos de `metodologia/historia/` no se tocan, porque se conservan como se escribieron. Y en `implementacion/` se puede citar el paso de un ensayo para usarlo, porque una implementación cita su especificación.
+Y las excepciones, que se dicen y no se disimulan: los archivos de [`historia`](../historia/README.md) no se tocan, porque se conservan como se escribieron. Y en [`implementacion`](../../implementacion/README.md) se puede citar el paso de un ensayo para usarlo, porque una implementación cita su especificación.
 
 ---
 
@@ -79,16 +79,16 @@ Y esta es la forma que este repositorio ya viene cumpliendo a medias. No se inve
 
 | El renglón | Qué contesta | Obligatorio |
 |---|---|---|
-| **el título** | de qué habla, y es el nombre del archivo | sí |
-| **Entra** | qué recibe | en un proceso |
-| **Se hace** | qué se hace con eso | en un proceso |
-| **Dónde queda** | qué deja | en un proceso |
-| **Se corre** | cuándo, o no ocurre | en un proceso |
-| **Lo consume** | quién lo usa después | en un proceso |
-| **Y si no encuentra** | qué pasa cuando falta algo | en un proceso |
-| **Falla si** | desde dónde se rompe | en un proceso |
-| **Falsificador** | qué lo tumba | **sí, siempre** |
-| **Y qué se pierde si cambia** | qué deja atrás el cambio | si declara que pierde algo |
+| el título | de qué habla, y es el nombre del archivo | sí |
+| Entra | qué recibe | en un proceso |
+| Se hace | qué se hace con eso | en un proceso |
+| Dónde queda | qué deja | en un proceso |
+| Se corre | cuándo, o no ocurre | en un proceso |
+| Lo consume | quién lo usa después | en un proceso |
+| Y si no encuentra | qué pasa cuando falta algo | en un proceso |
+| Falla si | desde dónde se rompe | en un proceso |
+| **Falsificador** | qué lo tumba | sí, siempre |
+| Y qué se pierde si cambia | qué deja atrás el cambio | si declara que pierde algo |
 
 Y la regla que hace que la forma sirva para crecer: los nueve renglones no son una plantilla que se rellena: son las preguntas que un ensayo tiene que contestar antes de que alguien lo corra. Un ensayo que no contesta «cuándo se corre» no tiene proceso: tiene prosa.
 
@@ -149,7 +149,7 @@ BUILD CAIDO   · k fallos · H1 a · ENLACE b · NUMERO c · FORMA d
 
 ---
 
-Falsificador: **un build verde sobre un repositorio en el que un ensayo se puede insertar sólo después de abrir otros cinco**; **una cita por número que el build deja pasar**; **una forma que obliga a reescribir el ensayo entero para añadir un detalle**; **y un build que, sin números, igual necesita un humano para saber qué ensayo va dónde.**
+Falsificador: un build verde sobre un repositorio en el que un ensayo se puede insertar sólo después de abrir otros cinco; una cita por número que el build deja pasar; una forma que obliga a reescribir el ensayo entero para añadir un detalle; y un build que, sin números, igual necesita un humano para saber qué ensayo va dónde.
 
 ---
 

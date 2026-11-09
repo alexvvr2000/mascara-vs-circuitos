@@ -6,13 +6,13 @@ Las cuatro columnas que vuelven auditable una decisión, y por qué el paso 3 se
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Necesita [`el ciclo del ente`](el%20ciclo%20del%20ente.md), porque es su paso 3, solo.
+> Antes de leer. Necesita [el ciclo del ente](el%20ciclo%20del%20ente.md), porque es su paso 3, solo.
 >
 > Al terminar sabrás qué cuatro cosas se guardan de una decisión para que se pueda auditar, aunque el razonamiento no se guarde.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> Y este ensayo es el paso 3 del ciclo, solo: la parte del trabajo que casi nadie escribe. El ciclo completo está en [`el ciclo del ente`](el%20ciclo%20del%20ente.md).
+> Y este ensayo es el paso 3 del ciclo, solo: la parte del trabajo que casi nadie escribe. El ciclo completo está en [el ciclo del ente](el%20ciclo%20del%20ente.md).
 
 ---
 
@@ -98,7 +98,7 @@ Y las restricciones, escritas como restricciones y no como consejo:
 | `frontera = se salio` cierra con una fricción que lo nombra | la salida del borde sin rastro |
 | `piso_id` apunta a un piso medido, o va vacío | una promesa contra un piso que no existe |
 
-**Dónde queda:** en el hecho, al cerrar el paso 5, como cuatro columnas más. Y un hecho anterior a que existieran esas columnas se queda con ellas vacías, declarado y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.
+Dónde queda: en el hecho, al cerrar el paso 5, como cuatro columnas más. Y un hecho anterior a que existieran esas columnas se queda con ellas vacías, declarado y sin rellenar: lo que no se apuntó entonces no se puede apuntar ahora.
 
 Y hay una cosa más, y es de orden, no de forma: un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6. Lo que no se puede es cerrar el ciclo sin ella. El cierre la cuenta como pendiente, y ahí se ve.
 
@@ -143,13 +143,13 @@ Y el límite que estas cuatro comparten: ninguna de ellas tumba una prueba. Las 
 
 ## V. El paso 3, en forma de proceso
 
-**Se corre:** después de consultar el índice, y antes de contestar.
-**Entra:** la frase, el tema por el que se entró, y lo que se entendió.
-**Sale:** la decisión, con sus cuatro columnas: `piso_id`, `frontera`, `descartado`, `propuesta_firmada_por`.
-**Lo consume:** el paso 4, que contesta con la decisión y su frontera.
+Se corre: después de consultar el índice, y antes de contestar.
+Entra: la frase, el tema por el que se entró, y lo que se entendió.
+Sale: la decisión, con sus cuatro columnas: `piso_id`, `frontera`, `descartado`, `propuesta_firmada_por`.
+Lo consume: el paso 4, que contesta con la decisión y su frontera.
 La búsqueda: se consulta el piso, y se mira cómo se cayó antes en esa clase de trabajo.
-**Y si no encuentra:** si el piso no da para lo que se pide, se dice qué falta y se propone lo que sí cabe. No se decide a medias.
-**Falla si:** se decide algo de la lista de lo que propone sin esperar firma; o si `descartado` queda vacío en vez de decir `ninguna`.
+Y si no encuentra: si el piso no da para lo que se pide, se dice qué falta y se propone lo que sí cabe. No se decide a medias.
+Falla si: se decide algo de la lista de lo que propone sin esperar firma; o si `descartado` queda vacío en vez de decir `ninguna`.
 Falsificador: un hecho con `frontera = decide` y una firma llena; o con `descartado` vacío donde sí había alternativa.
 Y qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la única parte del ciclo que se puede examinar, y el registro no puede explicar por qué no se hizo lo otro.
 
@@ -167,9 +167,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El paso 3 se guarda en cuatro columnas | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza un hecho con `decide` y firma llena: el falsificador se cumple |
-| El «vacío» del descartado no es un tercer valor | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | no se podía guardar, y se corrige aquí |
-| La fricción propia va después del hecho | [`ente 8`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | escrita antes, quedó enlazada al hecho equivocado |
+| El paso 3 se guarda en cuatro columnas | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza un hecho con `decide` y firma llena: el falsificador se cumple |
+| El «vacío» del descartado no es un tercer valor | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | no se podía guardar, y se corrige aquí |
+| La fricción propia va después del hecho | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | escrita antes, quedó enlazada al hecho equivocado |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

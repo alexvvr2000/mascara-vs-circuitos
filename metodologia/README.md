@@ -12,8 +12,8 @@ Alejandro Valenzuela Rivera · `TESTIGO`.
 
 | El método | La pregunta que contesta | Cuándo se acaba |
 |---|---|---|
-| **[A · Llenar los huecos](huecos/README.md)** | **¿qué le falta al ensayo?** | **cuando el ente se puede levantar sin preguntar nada** |
-| **[B · Ver si se sostiene](sostiene/README.md)** | **¿lo que el ensayo dice tiene dientes?** | **cuando lo que sobrevive está nombrado** |
+| [Método A · Llenar los huecos](huecos/README.md) | ¿qué le falta al ensayo? | cuando el ente se puede levantar sin preguntar nada |
+| [Método B · Ver si se sostiene](sostiene/README.md) | ¿lo que el ensayo dice tiene dientes? | cuando lo que sobrevive está nombrado |
 
 Y por qué hacen falta los dos, en una línea: los mutantes sólo prueban reglas escritas; la corrida entera encuentra lo que falta y no está escrito. Una sin la otra deja un lado sin mirar.
 
@@ -55,15 +55,15 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
 
 | Qué | Dónde | Por qué no es un método |
 |---|---|---|
-| **[`historia/`](historia/)** | **el registro con fecha, y los errores propios** | **no se corre: se lee** |
-| **[`lo inexplicable.md`](lo%20inexplicable.md)** | **cómo se persigue algo que no se termina** | **es el porqué de que haya dos métodos y no uno** |
-| **[`indice.md`](indice.md)** | **la lista de las corridas** | **es un índice, no un método** |
+| [historia/](historia/) | el registro con fecha, y los errores propios | no se corre: se lee |
+| [lo inexplicable.md](lo%20inexplicable.md) | cómo se persigue algo que no se termina | es el porqué de que haya dos métodos y no uno |
+| [indice.md](indice.md) | la lista de las corridas | es un índice, no un método |
 
 ---
 
 ## Y la regla que los mantiene legibles
 
-Los números viven en dos sitios, y ninguno más: las reglas, en [`metodo.md`](sostiene/metodo.md) §III y §VIII; y las corridas, en [`corridas.md`](sostiene/corridas.md).
+Los números viven en dos sitios, y ninguno más: las reglas, en [metodo.md](sostiene/metodo.md) §III y §VIII; y las corridas, en [corridas.md](sostiene/corridas.md).
 
 Ni este archivo ni los dos métodos hacen cuentas. El que las necesite las hace contra el registro, y las puede volver a hacer.
 
@@ -73,10 +73,10 @@ Porque una resta que se puede rehacer no envejece; una cifra escrita sí.
 
 ## Y el órgano que deja crecer la obra sin tocarla
 
-La obra se corrige sola con un comando, no con memoria: [`scripts/build.py`](../scripts/build.py) comprueba cuatro reglas —el título, los enlaces, las citas por número, y la forma— y se cae con el archivo y el renglón.
+La obra se corrige sola con un comando, no con memoria: [scripts/build.py](../scripts/build.py) comprueba cuatro reglas —el título, los enlaces, las citas por número, y la forma— y se cae con el archivo y el renglón.
 
-Y la forma, con su porqué y con lo que el build no comprueba, está en [`sostiene/forma.md`](sostiene/forma.md). Sin los números en los títulos, insertar un ensayo deja de ser un mantenimiento: es un renombrado, y el build dice si algo quedó citando al que se movió.
+Y la forma, con su porqué y con lo que el build no comprueba, está en [sostiene/forma.md](sostiene/forma.md). Sin los números en los títulos, insertar un ensayo deja de ser un mantenimiento: es un renombrado, y el build dice si algo quedó citando al que se movió.
 
 ---
 
-Falsificador: **una metodología con un método solo.** **Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió.**
+Falsificador: una metodología con un método solo. Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió.

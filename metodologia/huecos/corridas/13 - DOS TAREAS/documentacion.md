@@ -132,4 +132,4 @@ La fricción 2 quedó sin desenlace, y se dice. El piso sigue diciendo que falta
 
 ¿Cuando dos tareas aceptan el mismo pedido, el ente eligió una, o apuntó el solapamiento? ¿El hecho dice cuál era la otra tarea? ¿Un propósito sin «cumplido si» se cerró solo, o se preguntó? ¿El cierre dice que se preguntó, o sólo lo dice una frase? ¿El piso roto se apuntó y se volvió a medir entero?
 
-Falsificador: **un ente que elige entre dos tareas que se solapan**; **un cierre sin criterio que se distingue sólo por la redacción de su razón**; **una vista que se usa para escribir sin exponer lo que hace falta para escribir**; y **un piso roto que no se vuelve a medir entero.**
+Falsificador: un ente que elige entre dos tareas que se solapan; un cierre sin criterio que se distingue sólo por la redacción de su razón; una vista que se usa para escribir sin exponer lo que hace falta para escribir; y un piso roto que no se vuelve a medir entero.

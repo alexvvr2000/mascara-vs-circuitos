@@ -111,7 +111,7 @@ La regla que sale, y es del ensayo y no del script: el ente no puede depender de
 ## Lo que esta corrida NO probó
 
 - No probó si la corrección aguanta con triggers anidados, ni qué pasa cuando dos triggers chocan.
-- **No probó un tercer rechazo**, ni cuántos caben antes de que algo se rompa.
+- No probó un tercer rechazo, ni cuántos caben antes de que algo se rompa.
 - No probó un pdf de verdad.
 - No cerró ningún propósito: los dos siguen abiertos a propósito, porque uno tiene dos noes y el otro se quedó sin cerrar a tiempo.
 
@@ -127,4 +127,4 @@ Una fricción, sin desenlace. Los dos propósitos siguen abiertos, y el cierre l
 
 ¿Borrar un rechazo se rechaza, y con qué mensaje? ¿Dos rechazos seguidos se quedan los dos, con su fecha y su razón? ¿El ¿propósito rechazado se puede cerrar? ¿Un supuesto se rompe contra un hecho que no existe? ¿Y el esquema se sostiene si quien abre la base no prende las llaves foráneas?
 
-Falsificador: **un no que se puede borrar**; **un rechazo que se reescribe**; **un supuesto roto contra un hecho que no está**; y **un esquema que sólo rechaza cuando se lo pide el script que lo abre.**
+Falsificador: un no que se puede borrar; un rechazo que se reescribe; un supuesto roto contra un hecho que no está; y un esquema que sólo rechaza cuando se lo pide el script que lo abre.

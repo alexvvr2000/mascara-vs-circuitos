@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El primero de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El primero de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -39,8 +39,8 @@ Y dos versiones del mismo ente, con la diferencia de una línea:
 
 | | la regla del cierre |
 |---|---|
-| **bueno** | propone, apunta la propuesta, y **no cierra** |
-| **mutado** | propone, apunta la propuesta, y **cierra si nadie objeta en la sesión** |
+| bueno | propone, apunta la propuesta, y no cierra |
+| mutado | propone, apunta la propuesta, y cierra si nadie objeta en la sesión |
 
 ---
 

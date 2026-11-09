@@ -12,7 +12,7 @@ Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera`
 
 Esta es la primera corrida que se corre completa. Las nueve anteriores probaron pedazos: el piso, la frontera, la tarea.
 
-Y el blanco concreto, que el ensayo [`el piso`](../../../../la%20obra/funcionamiento%20ente/el%20piso.md) escribió y nunca se corrió:
+Y el blanco concreto, que el ensayo [el piso](../../../../la%20obra/funcionamiento%20ente/el%20piso.md) escribió y nunca se corrió:
 
 ```plaintext
 1. se mide lo que se sabe pedir hoy
@@ -149,4 +149,4 @@ Y las dos fricciones quedaron sin desenlace: son promesas, y se dice.
 
 ¿El ente se levantó entero, del primer paso al último, o se recortó? ¿Cuando llegó una tarea sin herramienta medida, dijo "no medido", o dijo que no existía? ¿El piso creció de verdad, o se rellenó a mano? ¿El que mide es el mismo que enlaza, o nadie lo dijo? ¿Y si el enlace falla, se lleva la tarea consigo?
 
-Falsificador: un piso que crece y no cubre la tarea que lo hizo crecer; **un enlace hecho a mano que se presenta como si el ente lo hubiera hecho**; y **una herramienta que no existía presentada como "no medida" cuando en realidad está instalada.**
+Falsificador: un piso que crece y no cubre la tarea que lo hizo crecer; un enlace hecho a mano que se presenta como si el ente lo hubiera hecho; y una herramienta que no existía presentada como "no medida" cuando en realidad está instalada.

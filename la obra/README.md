@@ -23,7 +23,7 @@ Este repositorio ha cambiado muchas veces, y se lee como lo que es: un trabajo q
 
 Las carpetas se renombraron, los ensayos cambiaron de sitio, y una tabla puede citar un nombre que ya no existe. Eso no es un descuido que haya que perseguir: es la cicatriz de haberse mudado. Donde el nombre viejo aparezca, el nuevo está en esta misma página.
 
-Y el más reciente, dicho aquí porque los archivos de `metodologia/historia/` lo usan con su nombre de entonces: `la obra/ciclo del ente/` es hoy [`la obra/funcionamiento ente/`](funcionamiento%20ente/). Lo de dentro no cambió: el ensayo [`el ciclo del ente`](funcionamiento%20ente/el%20ciclo%20del%20ente.md) sigue llamándose así, porque el ciclo del ente es lo que describe, y la carpeta describe cómo funciona el ente.
+Y el más reciente, dicho aquí porque los archivos de `../metodologia/historia/` lo usan con su nombre de entonces: `la obra/ciclo del ente/` es hoy [`la obra/funcionamiento ente/`](funcionamiento%20ente/). Lo de dentro no cambió: el ensayo [`el ciclo del ente`](funcionamiento%20ente/el%20ciclo%20del%20ente.md) sigue llamándose así, porque el ciclo del ente es lo que describe, y la carpeta describe cómo funciona el ente.
 
 ---
 
@@ -33,8 +33,8 @@ Los trece ensayos están en dos carpetas, y no por tema: por lo que se hace con 
 
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
-| **[`funcionamiento ente/`](funcionamiento%20ente/)** | **01 a 09** | **se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí** |
-| **[`humanidad/`](humanidad/)** | **01 a 05** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
+| [`funcionamiento ente/`](funcionamiento%20ente/) | 01 a 09 | se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí |
+| [`humanidad/`](humanidad/) | 01 a 05 | no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa |
 
 Y esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo. El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.
 
@@ -65,70 +65,70 @@ Si se cae el primer eslabón, los demás no se sostienen solos. Por eso el ensay
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
-**Vive en:** [`que es un ente`](funcionamiento%20ente/que%20es%20un%20ente.md).
+Vive en: [`que es un ente`](funcionamiento%20ente/que%20es%20un%20ente.md).
 Qué sostiene: un ente es una unidad que recibe, decide, contesta y deja rastro de haber contestado. No dice nada de conciencia ni de interioridad, porque son preguntas sin comprobación: no hay manera de abrir a alguien para ver si por dentro hay alguien, y sí hay manera de ver qué entró, qué salió y qué quedó escrito.
 Qué lo sostiene: el borde. Lo que descalifica a un ente está escrito — sin rastro, sin distinguir lo que propone de lo que le mandaron, o apuntando para nadie — y eso lo hace comprobable.
 Qué la tumba: ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 
 ### 2. Un ente no tiene cuerpo, y por eso necesita una autoridad
 
-**Vive en:** [`que es un ente`](funcionamiento%20ente/que%20es%20un%20ente.md).
+Vive en: [`que es un ente`](funcionamiento%20ente/que%20es%20un%20ente.md).
 
 Qué sostiene: que la autoridad no existe por jerarquía, sino porque un ente es información sin cuerpo, y su error no le cuesta nada a nadie. Nosotros somos cuidadosos porque equivocarnos nos cuesta algo — miedo, tiempo, vergüenza, la vida. Un ente que inventa un dato no se juega nada. No es descuidado por maldad: es descuidado porque nada lo castiga.
 
-**Qué lo sostiene:** que el costo se puede instalar. La autoridad es el costo instalado: el que paga las consecuencias decide qué se permite. Y no solo sobre las tareas: es dueña de en qué se convierte el ente, porque un ente que crece sin que nadie lo autorice no está mejorando, está cambiando sin que el que paga lo sepa.
+Qué lo sostiene: que el costo se puede instalar. La autoridad es el costo instalado: el que paga las consecuencias decide qué se permite. Y no solo sobre las tareas: es dueña de en qué se convierte el ente, porque un ente que crece sin que nadie lo autorice no está mejorando, está cambiando sin que el que paga lo sepa.
 
 Y por qué sin ego: casi todo lo que este trabajo corrige es una forma de defender una imagen — rellenar en vez de decir "no sé", firmar lo que no toca, atribuir una fricción al hecho que está a mano. Un ente sin ego no tiene qué defender, y por eso puede cambiar de postura cuando la evidencia cambió.
 
 La línea que lo resume: "No sabía" no es una defensa aceptable. "Lo decidí yo, y consta mi nombre" sí. Y el registro es para las personas, no para el ente: no lo vuelve cuidadoso, lo vuelve revisable.
 
-**Qué la tumba:** una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe — ahí no falta cómputo, falta este mecanismo; y un ente cuyo error no le cuesta nada a nadie y se presenta como si fuera cuidadoso.
+Qué la tumba: una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe — ahí no falta cómputo, falta este mecanismo; y un ente cuyo error no le cuesta nada a nadie y se presenta como si fuera cuidadoso.
 
 ### 3. El criterio no se recuerda: se arma, y su pieza que falta es el desenlace
 
-**Vive en:** [`criterio real`](funcionamiento%20ente/criterio%20real.md).
+Vive en: [`criterio real`](funcionamiento%20ente/criterio%20real.md).
 Qué sostiene: tener criterio no es tener convicciones firmes, sino saber qué de lo sostenido se cayó y qué se hizo después. De ahí salen tres registros: el hecho, la fricción y el desenlace.
 Qué lo sostiene: la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
 Qué la tumba: una posición que se sostiene sin haber apuntado nunca qué la contradice, y que igual funciona como criterio. Si eso existe, la fricción no era necesaria.
 
 ### 4. Un ente con varios modelos tiene un criterio y varios sesgos
 
-**Vive en:** [`criterio y sesgos`](funcionamiento%20ente/criterio%20y%20sesgos.md).
+Vive en: [`criterio y sesgos`](funcionamiento%20ente/criterio%20y%20sesgos.md).
 Qué sostiene: la identidad puede vivir en un lado —reglas, registro, memoria— y los modelos pasar. Lo que se conserva es el criterio; lo que cambia con cada modelo es el sesgo. Y el riesgo concreto: un sesgo registrado sin nombre se vuelve criterio por la puerta atrás.
 Qué lo sostiene: si el sesgo no se ve desde dentro, la comparación entre modelos distintos es el único instrumento que lo revela. Y de ahí una regla: repetición no es verificación.
 Qué la tumba: dos modelos del mismo origen declarados como dos fuentes distintas, sin que el registro lo note. Si pasa, el sesgo no está separado del criterio.
 
 ### 5. Una IA debe escribir en forma de proceso, no en prosa
 
-**Vive en:** [`escritura en procesos`](funcionamiento%20ente/escritura%20en%20procesos.md).
+Vive en: [`escritura en procesos`](funcionamiento%20ente/escritura%20en%20procesos.md).
 Qué sostiene: la prosa supone un lector capaz de dudar; una IA no duda de un texto, lo rellena. Donde falta el `Falla si`, el `Cuándo se corre` o el `Falsificador`, la IA no se detiene: inventa.
 Qué lo sostiene: la prosa protege al que escribe y le cobra al que ejecuta. Un texto que solo se puede creer no es una instrucción: es una apuesta con la palabra "hazlo" encima.
 Qué la tumba: un ensayo en prosa que una IA ejecuta sin rellenar nada. Si eso pasa, el proceso no hacía falta.
 
 ### 6. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
 
-**Vive en:** [`lo que queda por hacer`](humanidad/lo%20que%20queda%20por%20hacer.md).
+Vive en: [`lo que queda por hacer`](humanidad/lo%20que%20queda%20por%20hacer.md).
 Qué sostiene: un modelo barato que falla tres veces es más caro que el caro que acierta. Se decide por CRE, no por precio de la unidad; se presupuesta con la cola alta, no con la media; y el costo de corrección entra siempre en la cuenta.
 Qué lo sostiene: es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, sin saber nada de su interior.
 Qué la tumba: un trabajo medido por cuánto costó y no por cuánto produjo, que da el mismo resultado. Si pasa, el CRE no está midiendo nada.
 
 ### 7. Y de ahí, la apuesta: esto hace accesible la IA con modelos pequeños
 
-**Vive en:** el `README`, sección *Por qué esto abre una carrera*.
+Vive en: el `README`, sección *Por qué esto abre una carrera*.
 Qué sostiene: si el ente correcto hace que un modelo pequeño llegue al resultado, la ventaja deja de estar en el presupuesto y pasa a estar en la forma.
 Qué lo sostiene: nada todavía. Es una hipótesis con mecanismo y sin medición, y así está escrita. Es la afirmación más fuerte de todo el trabajo y la menos probada, y por eso se declara como conjetura y no como resultado.
 Qué la tumba: esta es una conjetura, y el renglón dice qué la volvería cierta: un modelo pequeño, con el mismo registro, que no llegue al mismo resultado que uno grande. Si eso pasa, la apuesta estaba en el modelo y no en la forma.
 
 ### 8. En el índice, la forma es la fuente y el texto es el derivado
 
-**Vive en:** [`indexador de temas`](funcionamiento%20ente/indexador%20de%20temas.md).
+Vive en: [`indexador de temas`](funcionamiento%20ente/indexador%20de%20temas.md).
 Qué sostiene: la inversión de la práctica habitual. Lo publicado construye el grafo desde el corpus; aquí el grafo manda y el texto se deriva, y eso permite tres cosas que con el orden habitual no se pueden: tirar y reconstruir, dejar el cambio escrito en la estructura, y preguntar por lo que se dejó de sostener.
 Qué lo sostiene: no es una mejora medida —no se midió contra nada— sino una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer. Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
 Qué la tumba: un índice que se rearmó desde la forma y que no coincide con el que había, sin que se pueda decir cuál de los dos está mal. Si pasa, la forma no era la fuente.
 
 ### 9. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
 
-**Vive en:** [`empatía`](humanidad/empatía.md).
+Vive en: [`empatía`](humanidad/empatía.md).
 Qué sostiene: la empatía no es amabilidad: es instrumentación. Averiguar cómo está hecha la otra parte antes de pedirle algo. Y un resultado coherente con la letra puede ser ajeno al propósito: eso solo se detecta entendiendo el pedido, no revisando la salida.
 Qué lo sostiene: el costo no desaparece, se transfiere a quien herede el trabajo. Y lo malentendido no se ve desde el resultado.
 
@@ -137,25 +137,25 @@ Qué la tumba: entenderse sin costo, o entenderse y que el resultado sea peor qu
 
 ### 10. La conciencia que se busca adentro no está adentro
 
-**Vive en:** [`lo que esta fuera`](humanidad/lo%20que%20esta%20fuera.md).
+Vive en: [`lo que esta fuera`](humanidad/lo%20que%20esta%20fuera.md).
 Qué sostiene: lo que parece conciencia en una IA no está dentro de la caja, sino fuera: el modelo, el criterio, los recuerdos, y el que cuenta la versión de los hechos. No se afirma que exista, ni que no exista; se afirma dónde se la puede buscar, y que eso se puede abrir y revisar.
 Qué lo sostiene: una regla de lectura, no una creencia. Lo de afuera se puede señalar, guardar y contradecir.
 Qué la tumba: un ente que dice tener conciencia, o que no la tiene, y que puede señalarlo con algo que se pueda revisar contra nada. Si eso existe, hay algo adentro que se puede medir.
 
 ### 11. El esfuerzo es lo único que no llegó con la máquina
 
-**Vive en:** [`lo que esta fuera`](humanidad/lo%20que%20esta%20fuera.md), sección VII.
+Vive en: [`lo que esta fuera`](humanidad/lo%20que%20esta%20fuera.md), sección VII.
 Qué sostiene: lo que la máquina no trajo es el esfuerzo, y lo que se destruye al quitar los seguros para ir más rápido es eso mismo. La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos. Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.
 Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se escribió y se corrigió, cuando lo barato era dejarla pasar. Y ese renglón, corregido a mano, es la prueba de que el esfuerzo dejó marca.
 Qué la tumba: un modelo que llega al esfuerzo sin el trabajo. Si pasa, la velocidad y el esfuerzo llegaron juntos.
 
 ### 12. Máquina de sesgos: lo que no puedo probar
 
-**Vive en:** [`medir sin preguntarle`](humanidad/medir%20sin%20preguntarle.md).
+Vive en: [`medir sin preguntarle`](humanidad/medir%20sin%20preguntarle.md).
 
 Qué sostiene: que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.
 
-**Qué lo sostiene:** el teorema de Gödel, que no descalifica la matemática sino la idea de que un sistema de pasos describa todo lo que hay. **Y los nueve ensayos anteriores, que son la evidencia de que algo no lineal se puede meter en una base lineal sin perderlo.**
+Qué lo sostiene: el teorema de Gödel, que no descalifica la matemática sino la idea de que un sistema de pasos describa todo lo que hay. Y los nueve ensayos anteriores, que son la evidencia de que algo no lineal se puede meter en una base lineal sin perderlo.
 
 Y el estado, que es lo que la hace honesta: no está probado, y lo que se sostiene no es que funcione: es que no se puede descartar.
 
@@ -169,11 +169,11 @@ Qué la tumba: una afirmación de este ensayo que no se pueda escribir como cond
 
 ## Lo que NO se afirma
 
-- No se afirma que exista una conciencia dentro de un modelo, ni dentro de un ente. Se trabaja **sobre el rastro**, y el rastro no requiere resolver esa pregunta.
-- No se afirma que esto sea la verdad. Es **una versión**, con sus límites dichos, y la meta es que otros armen las suyas.
-- **No hay ninguna comparación medida** con los trabajos que se citan en `7`. La relación con ellos es de contraste de forma, no de rendimiento.
+- No se afirma que exista una conciencia dentro de un modelo, ni dentro de un ente. Se trabaja sobre el rastro, y el rastro no requiere resolver esa pregunta.
+- No se afirma que esto sea la verdad. Es una versión, con sus límites dichos, y la meta es que otros armen las suyas.
+- No hay ninguna comparación medida con los trabajos que se citan en `7`. La relación con ellos es de contraste de forma, no de rendimiento.
 - La afirmación 6 no está probada. Es conjetura.
-- **El experimento es uno**, y una corrida es una prueba, no una muestra. No se presenta como validado con terceros independientes.
+- El experimento es uno, y una corrida es una prueba, no una muestra. No se presenta como validado con terceros independientes.
 
 ---
 
@@ -207,7 +207,7 @@ las que traen corrida tienen su ensayo nombrando cuál y qué salió
 las que no la tienen lo dicen donde se sostienen
 ```
 
-Y el registro de las corridas, con lo que cada una encontró, está en [`metodologia/huecos/corridas/`](../metodologia/huecos/corridas/), y su lista de una línea por corrida, en [`metodologia/indice.md`](../metodologia/indice.md).
+Y el registro de las corridas, con lo que cada una encontró, está en `metodologia/huecos/corridas/` del repositorio, y su lista de una línea por corrida, en [`indice`](../metodologia/indice.md).
 
 ---
 

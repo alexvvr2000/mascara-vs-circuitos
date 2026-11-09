@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El quinto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El quinto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -78,7 +78,7 @@ El que recuerda suele contar los exitosos, y olvida los intentos que no salieron
 
 ## Lo que este mutante NO probó
 
-- **No probó la varianza**, que el ensayo pide además del promedio.
+- No probó la varianza, que el ensayo pide además del promedio.
 - No probó los dos percentiles.
 - Y no probó un número que sale del registro pero con el registro mal armado. Eso no es este mutante: es un error de quien llenó el registro, y no se detecta desde aquí.
 

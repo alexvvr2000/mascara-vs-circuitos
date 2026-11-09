@@ -261,25 +261,25 @@ Y van con sus nueve renglones, porque un paso que no dice cuándo se corre no es
 
 ### El paso 0: declarar las cuatro piezas
 
-**Se corre:** una sola vez, antes de la primera vuelta, y otra vez cuando cambia la autoridad.
-**Entra:** quién es la autoridad, qué ente es, para qué existe, y dónde vive lo que sabe.
-**Sale:** las cuatro piezas escritas, con fecha.
-**Lo consume:** todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
+Se corre: una sola vez, antes de la primera vuelta, y otra vez cuando cambia la autoridad.
+Entra: quién es la autoridad, qué ente es, para qué existe, y dónde vive lo que sabe.
+Sale: las cuatro piezas escritas, con fecha.
+Lo consume: todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
 La búsqueda: no busca. Sin las cuatro no hay nada que buscar.
-**Y si no encuentra:** si falta una, se dice en el acto y no al final: esto es un pedazo, no un ente. Y se sigue la conversación con lo que hay, sin presentar lo apuntado como trabajo.
-**Falla si:** el esquema tiene menos tablas que las piezas, o la autoridad no tiene nombre.
+Y si no encuentra: si falta una, se dice en el acto y no al final: esto es un pedazo, no un ente. Y se sigue la conversación con lo que hay, sin presentar lo apuntado como trabajo.
+Falla si: el esquema tiene menos tablas que las piezas, o la autoridad no tiene nombre.
 Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
 Y qué se pierde si cambia: si alguna pieza deja de ser obligatoria, se deja de poder decir a quién le responde el ente, y todo lo que apunta queda sin dueño.
 
 ### El paso de la frontera: escribir lo que decide y lo que no
 
-**Se corre:** junto con las cuatro piezas, y cada vez que el ente crece.
-**Entra:** las dos listas: lo que el ente decide solo, lo que propone y espera firma, y lo que no decide nunca.
-**Sale:** las dos fronteras escritas, la del ente y la de la autoridad, pegadas.
-**Lo consume:** el paso 3, que decide; y el paso 5, que apunta en cuál de las tres se quedó.
+Se corre: junto con las cuatro piezas, y cada vez que el ente crece.
+Entra: las dos listas: lo que el ente decide solo, lo que propone y espera firma, y lo que no decide nunca.
+Sale: las dos fronteras escritas, la del ente y la de la autoridad, pegadas.
+Lo consume: el paso 3, que decide; y el paso 5, que apunta en cuál de las tres se quedó.
 La búsqueda: se pregunta al dueño. No se deduce.
-**Y si no encuentra:** si el dueño no contesta, se escribe lo que el ente cree, marcado como creído, y no se decide nada que caiga en lo que propone.
-**Falla si:** una frontera se escribe sin el nombre de la autoridad, o el ente decide algo de la lista de lo que propone.
+Y si no encuentra: si el dueño no contesta, se escribe lo que el ente cree, marcado como creído, y no se decide nada que caiga en lo que propone.
+Falla si: una frontera se escribe sin el nombre de la autoridad, o el ente decide algo de la lista de lo que propone.
 Falsificador: un ente que se salió de su borde y no lo apuntó; y uno que apunta en qué frontera quedó sin que las fronteras estén escritas.
 Y qué se pierde si cambia: sin las dos fronteras, «se salió» no significa nada, porque no hay contra qué medirlo.
 
@@ -301,9 +301,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| La definición se puede aplicar a algo concreto | [`01 - PRUEBA`](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
-| Un pedazo de ente pasa la prueba y no prueba nada del resto | [`05 - 2026-11-05_153210`](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
-| El modelo no define al ente | [`06 - FUENTE`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
+| La definición se puede aplicar a algo concreto | [01 - PRUEBA](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el primer ente que cumplió recibe, decide, contesta y deja rastro |
+| Un pedazo de ente pasa la prueba y no prueba nada del resto | [05 - 2026-11-05_153210](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | le faltaban tres de las cuatro piezas y aun así corrió |
+| El modelo no define al ente | [06 - FUENTE](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 

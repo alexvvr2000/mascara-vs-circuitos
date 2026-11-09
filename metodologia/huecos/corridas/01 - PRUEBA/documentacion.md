@@ -88,7 +88,7 @@ Nada de este ente. Los cinco huecos se cerraron en los ensayos el mismo día, y 
 
 ¿El ciclo se levantó de punta a punta con cinco ensayos y una terminal? ¿Cada pieza inventada quedó apuntada como hueco del ensayo y no como defecto del ente? ¿El «casi» tenía salida, o se quedó sin ella?
 
-Falsificador: un ente levantado que se dio por bueno sin haber escrito cada cosa que hubo que inventar; **una pieza que existe en el ensayo y no en el código**; y **una corrida que se cierra sin que la autoridad conste.**
+Falsificador: un ente levantado que se dio por bueno sin haber escrito cada cosa que hubo que inventar; una pieza que existe en el ensayo y no en el código; y una corrida que se cierra sin que la autoridad conste.
 
 ---
 
@@ -106,11 +106,11 @@ Y este archivo es el resultado de la prueba, no una nota aparte: si un hueco no 
 
 | # | El hueco | De dónde salió |
 |---|---|---|
-| **1** | **la pieza no existe en el esquema** | el borde dice que se evalúa contra «los atributos de una pieza», y no hay tabla `pieza`. Se usó la frase como texto y se partió por comas |
-| **2** | **un borde en prosa no lo puede correr una máquina** | `quien_evalua = 'maquina'` y no hay forma de escribir un borde ejecutable. Las dos cosas a la vez se contradicen |
-| **3** | **el «casi» no tiene salida** | una pieza a medio camino no la acepta ni la rechaza, y el borde no tiene campo donde declarar qué hacer |
-| **4** | **`cerrar` cuenta y no cierra** | el propósito queda abierto y el ente no tiene cómo proponerlo. El paso de cerrar es hablar, y no hay dónde |
-| **5** | **una corrida nunca cierra algo sin la autoridad** | correcto por diseño, y hay que saberlo: `cerrado_por` con `autoridad_id` en NULL no pasa el CHECK |
+| 1 | la pieza no existe en el esquema | el borde dice que se evalúa contra «los atributos de una pieza», y no hay tabla `pieza`. Se usó la frase como texto y se partió por comas |
+| 2 | un borde en prosa no lo puede correr una máquina | `quien_evalua = 'maquina'` y no hay forma de escribir un borde ejecutable. Las dos cosas a la vez se contradicen |
+| 3 | el «casi» no tiene salida | una pieza a medio camino no la acepta ni la rechaza, y el borde no tiene campo donde declarar qué hacer |
+| 4 | `cerrar` cuenta y no cierra | el propósito queda abierto y el ente no tiene cómo proponerlo. El paso de cerrar es hablar, y no hay dónde |
+| 5 | una corrida nunca cierra algo sin la autoridad | correcto por diseño, y hay que saberlo: `cerrado_por` con `autoridad_id` en NULL no pasa el CHECK |
 
 ---
 

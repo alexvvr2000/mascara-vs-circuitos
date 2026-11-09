@@ -18,7 +18,7 @@ Este repositorio es lo que salió de eso. Lo que se repite aquí es lo que aguan
 
 Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
 
-Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/huecos/corridas/`](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [`metodologia/sostiene/metodo.md`](metodologia/sostiene/metodo.md), con su conteo en [`corridas.md`](metodologia/sostiene/corridas.md). **El [piso del repositorio](estado.md) dice qué hay y qué falta, y `python scripts/build.py` comprueba que todo enlace, cita y título siga en pie.**
+Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [metodologia/huecos/corridas/](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [metodologia/sostiene/metodo.md](metodologia/sostiene/metodo.md), con su conteo en [corridas.md](metodologia/sostiene/corridas.md). El [El piso del repositorio](estado.md) dice qué hay y qué falta, y `python scripts/build.py` comprueba que todo enlace, cita y título siga en pie.
 
 Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador.
 
@@ -34,11 +34,11 @@ Con qué se escribió:
 
 | Pieza | Qué es | Qué hizo |
 |---|---|---|
-| **`TESTIGO`** | el ente del autor: recibe, decide, contesta y deja rastro | produjo el texto, y lo atacó |
-| **`DeepSeek V4.1 Flash`** | el modelo | redacción y diálogo |
-| **`OpenCode Go`** | el proveedor | la vía por la que viajó el modelo |
-| **`DeepSeek Harness`** | el entorno | donde vive el ente y su registro |
-| **`free-search`** | el buscador del entorno | abrir fuentes |
+| `TESTIGO` | el ente del autor: recibe, decide, contesta y deja rastro | produjo el texto, y lo atacó |
+| `DeepSeek V4.1 Flash` | el modelo | redacción y diálogo |
+| `OpenCode Go` | el proveedor | la vía por la que viajó el modelo |
+| `DeepSeek Harness` | el entorno | donde vive el ente y su registro |
+| `free-search` | el buscador del entorno | abrir fuentes |
 
 Y lo que no se usó: ningún modelo que entrene con los datos de la sesión. `OpenCode Go` declara a `DeepSeek V4.1 Flash` como «Not used» para entrenamiento y con cero días de retención, bajo un acuerdo que se renueva mensualmente.
 
@@ -60,10 +60,10 @@ No es una formalidad, y conviene saberlo antes de citar esto. La ley exige autor
 
 | La fuente | Qué dice | Estado |
 |---|---|---|
-| **`SCJN`**, asunto «Avatar Virtual» (2024) | **se negó el registro de un avatar creado con IA**; la sentencia se limitó al caso concreto y **no fijó una regla general** | **abierta** (UNAM Global, 26 de septiembre de 2025) |
-| **`INDAUTOR`** | **exige autor persona física**; rechaza lo producido íntegramente por IA, **caso por caso**, sin lineamiento público | **no se abrió** su guía de registro |
-| **`USCO`**, *Copyright and AI, Part 2* (29 de enero de 2025) | **sin autor humano no hay obra**; protege lo que la persona **seleccionó, arregló o modificó** | **abierta parcial** (sin paginación extraída) |
-| **`COPE`** | define el reciclaje de texto propio **sin transparencia** como falta editorial | **definición sí; texto completo no** |
+| `SCJN`, asunto «Avatar Virtual» (2024) | se negó el registro de un avatar creado con IA; la sentencia se limitó al caso concreto y no fijó una regla general | abierta (UNAM Global, 26 de septiembre de 2025) |
+| `INDAUTOR` | exige autor persona física; rechaza lo producido íntegramente por IA, caso por caso, sin lineamiento público | no se abrió su guía de registro |
+| `USCO`, *Copyright and AI, Part 2* (29 de enero de 2025) | sin autor humano no hay obra; protege lo que la persona seleccionó, arregló o modificó | abierta parcial (sin paginación extraída) |
+| `COPE` | define el reciclaje de texto propio sin transparencia como falta editorial | definición sí; texto completo no |
 
 Y lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto: es el criterio puesto en él. Qué entra, en qué orden, qué se sostiene y qué se cayó. Eso está en el rastro, con fecha, y por eso el rastro se publica.
 

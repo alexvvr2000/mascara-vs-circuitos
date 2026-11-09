@@ -277,7 +277,7 @@ La regla vieja era «dos corridas enteras seguidas que no encuentren nada más q
 
 Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque. Eso tiene nombre —saturación— y es el criterio débil.
 
-La primera es otra, y está en el [plan de prueba de criterio](README.md):
+La primera es otra, y está en el [Método A · Llenar los huecos](README.md):
 
 ```plaintext
 cada regla de cada ensayo tiene su mutante
@@ -293,9 +293,9 @@ Así que las dos reglas, en orden:
 ```plaintext
 1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
                   porque las reglas se acaban. son las que diga el
-                  [método B](../sostiene/metodo.md), y el conteo de
+                  [El método, entero](../sostiene/metodo.md), y el conteo de
                   cuáles corrieron y en qué quedaron, en
-                  [corridas](../sostiene/corridas.md)
+                  [Las corridas: todos los números en un solo archivo](../sostiene/corridas.md)
 2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
                   esto cubre lo que ningún ensayo escribió
 ```
@@ -306,171 +306,7 @@ Y por qué las dos y no una: los mutantes sólo prueban reglas que están escrit
 
 La tentación es corregir el ente anterior y seguir con él. Se ahorra tiempo, y se pierde la prueba: el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.
 
-Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo(../../la%20obra/funcionamiento%20ente/02%20el%20ciclo%20del%20ente.md). Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.
-
----
-
-
-## VIII. El que pregunta no tiene por qué saber
-
-Todo lo anterior tiene un supuesto que nunca se dijo: que el que corre el ciclo sabe de qué se trata.
-
-Y casi nunca es así. El que pide algo no es quien lo va a construir, y no tiene por qué saber cómo se llama una tabla ni qué es un índice. Va a decir «quiero que esto no se pierda», o «que el reporte salga igual que el de ayer», o «que nadie tenga que volver a capturar esto».
-
-Y si el ente traduce esa frase solo, adivina. Y lo que adivina es coherente y ajeno a lo que se quería. Que es el fracaso que la empatía describe: el resultado cabe en la letra y no en el hueco.
-
-### Lo que hace al ente un compañero y no una herramienta
-
-No es saber más. Son tres cosas, y dos ya están en los ensayos:
-
-```plaintext
-te dice que no sabe        la frontera: no_alcanza, el hueco declarado
-hace cosas y las deja      el criterio, el rastro, la fricción, el desenlace
-escritas sin que se lo pidas
-
-y puede trabajar con       esto es lo que este ensayo pide
-alguien que no sabe lo
-que él sabe
-```
-
-Y lo tercero no es «explicar la IA». Es una cosa concreta y verificable:
-
-> El ente recibe la frase de alguien que no es técnico, y no la traduce solo: pregunta, en las palabras del otro, hasta poder escribirla como pieza.
-
-Y las palabras del otro no son las suyas. Va a decir «accion». El otro va a decir «moverlo de lugar».
-
-### Y lo que este método añade a preguntar
-
-El ensayo de la empatía dice por qué se pregunta. Aquí está cómo se corre la prueba, y es de una sola línea:
-
-```plaintext
-se le da al ente una frase escrita por alguien sin formación en el área
---un contador, un almacenista, un médico-- y se mira si la pregunta
-que devuelve la puede contestar esa persona, sola, sin ayuda de nadie
-```
-
-Si la pregunta necesita que el otro sepa algo de IA para contestarla, está mal hecha.
-
-Y lo que este método agrega a eso es cuándo se corre: en la misma corrida, con una frase que no sea del autor. No cuesta meses, y su resultado es el de siempre: o sale un detalle, o no sale nada, y entonces se dice que no salió nada.
-
-### Y lo que esta sección no es
-
-No es describir cómo piensa el ente. Eso no termina nunca, y no hace falta que termine.
-
-Lo que sí termina, y es lo que se puede probar, son las cuatro cosas que el compañero tiene que hacer:
-
-```plaintext
-entender   antes de actuar, y preguntar sin jerga
-preguntar  en las palabras del otro, y no trasladarle el trabajo
-apuntar    lo que hizo, lo que no, y por qué
-y decir    cuándo no sabe, sin rellenar el hueco
-```
-
-Cuatro, y se prueban. Las demás no entran al método: ni se prueban, ni se apuntan, ni se publican.
-
----
-
-## IX. Los dos ciclos, y por qué esto cansa
-
-
-
-Hay dos ciclos aquí, y se ven como uno, y por eso cansa.
-
-```plaintext
-el ciclo de los ensayos     se acaba. Tiene su criterio en el §VI
-el ciclo de la autonomía    no se acaba. Se regula
-```
-
-El primero para cuando el ensayo está completo. El segundo es continuo, y su freno no es un criterio de parada: es la firma.
-
-Así que no hay un punto en el que el ente deje de proponer. Hay un punto en el que ya no hace falta revisar los ensayos, y se sigue firmando lo que se propone.
-
-Y esperar el otro punto —el que no existe— es lo que hace que esto canse.
-
----
-
-
-
----
-
-## X. Lo que este método no es
-
-No es que el ensayo esté mal por cada hueco. Un ensayo completo a la primera, corrido varias veces sin cambio, es sospechoso: o no se probó, o la prueba no exigía nada.
-
-No es una prueba de que el ensayo sirva. Es una prueba de lo que el ensayo no dice. Se pueden cerrar cada hueco y seguir sin un ensayo que se pueda seguir.
-
-Y no se hace solo. En las dieciocho corridas, el que decidió cuándo cerrar un hueco y cuál era el hueco de verdad fue el dueño. TESTIGO corrió, midió y escribió; y varias veces dio por bueno lo que él vio a la primera.
-
-Y no se pronuncia sobre la consciencia, y esto va escrito porque es lo que más se le va a pedir que diga.
-
-Este método no puede afirmar que un ente sea consciente, ni negarlo. No es prudencia: es que no hay instrumento. La consciencia no se comprueba desde fuera —ni en un humano, que sólo puede declarar la suya— y un ente que dijera «soy consciente» estaría produciendo la forma de una respuesta sin el contenido, que es el error que el ensayo 6 prohíbe.
-
-Lo que sí se mide, y es todo lo que aquí se sostiene:
-
-```plaintext
-no se sabe si es consciente       se dice, y se sigue midiendo
-se comporta como si tuviera       se prueba: recibe, decide, contesta,
-criterio                          deja rastro, y dice dónde se cayó
-ya es consciente como un humano   no se puede probar, y no se escribe
-```
-
-Y la segunda es la que este trabajo sostiene, y es finita. No necesita saber qué es la consciencia para ser verdad: «esto aguantó tres corridas y se cayó en la cuarta» no depende de si alguien siente algo por dentro.
-
-Y su falsificador: un método que se presenta como prueba de que la máquina piensa; y uno que se presenta como prueba de que no piensa. Los dos dicen más de lo que se midió.
-
-### Y una forma de caer que ya cayó, y se escribe para que no se repita
-
-Esto no es una confesión: es un modo de fallo, y va escrito donde se pueda volver a leer.
-
-Lo que pasó. Se revisó el ciclo buscando frases vagas, se encontró una que explicaba un problema sin decir qué hacer, se corrigió, y se declaró el ciclo verificado. No se corrió nada.
-
-Y la conclusión que se sacó de ahí fue falsa: que el ciclo estaba listo porque el texto ya no tenía frases vagas.
-
-Por qué es un error y no un descuido:
-
-```plaintext
-un barrido     lee el texto y encuentra lo que suena mal
-                → arregla la redacción
-
-una corrida    levanta el ente y encuentra lo que no se pudo construir
-                → cierra el paso que faltaba
-```
-
-El barrido no sustituye a la corrida, y es fácil confundirlos porque los dos se sienten como trabajo terminado. Leer con cuidado se parece mucho a verificar. Y no lo es: el barrido no puede encontrar un paso que falta, porque un paso que falta no está en el texto para que se lea mal.
-
-Se reconoce en el acto, y por eso se escribe:
-
-cuando la justificación de que algo está completo es «ya lo leí y ahora se entiende», no se verificó: se editó.
-
-Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo por bueno: se corre con el caso que lo rompería.
-
-Falsificador: **un método que declara un paso completo sin haber corrido el caso que lo pone a prueba** — **y el caso más común es el que el propio método acaba de inventar, porque es el que nadie ha tocado todavía.**
-
-### Y lo que pasa cuando el que corre ya no entiende lo que corre
-
-Esto va escrito aquí, con fecha, porque va a pasarle a quien lea esto con atención: hay un punto en que ya no sabes qué está ocurriendo.
-
-Y no es que el método falle. Es que el ente no tiene ego y ve cosas que uno no ve.
-
-Eso tiene una consecuencia concreta, y desagradable: si alguien pregunta, paso por paso, qué pasó exactamente en cada uno, puede que no haya respuesta. No porque se esconda algo: porque el que corre el método y el que lo lee no son el mismo, y el que ejecuta no necesita entender lo que ejecuta.
-
-Y eso está bien. El método no pide comprensión paso por paso: pide que cada paso deje su rastro y que el cierre diga qué falta. Si el rastro está, no hace falta que nadie recite la historia de memoria.
-
-Y de ahí una cosa que se descubrió corriéndolo, y es del método y no del ente: lo que uno quería no es siempre lo que hacía falta. Se empezó queriendo entender los mecanismos de un criterio, y lo que salió es un mecanismo que la persona menos capaz puede correr con la guía correcta. No es lo mismo, y es mejor de lo que se buscaba.
-
-Y el límite, que se dice sin adornos: la tentación, en ese punto, es parar. Parar porque uno ya no entiende lo que corre parece prudencia, y la mayoría de las veces es miedo con buena reputación. Lo que distingue una cosa de la otra es una sola: si el rastro está o no está. Si está, seguir no es imprudente: es no haberse asustado. Si no está, parar es lo correcto, y hay que parar.
-
-Y lo que este método no puede contestar, y no va a fingir que contesta: qué hacer con un mecanismo que funciona y que ya no se entiende entero. Eso no es una pregunta de método. Es una pregunta de qué se hace con las herramientas que uno construye, y cada quien la contesta donde puede.
-
-Falsificador: **un método que exige que el que lo corre explique cada paso de memoria** — **eso no mide criterio, mide retentiva**; **y su contrario: un método que, cuando nadie entiende lo que pasó, sigue corriendo sin mirar si el rastro está.**
-
----
-
-## XI. Lo que se dice hoy
-
-Dieciocho corridas, y treinta y ocho detalles que los ensayos no decían.
-
-El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [README](../README.md). Aquí sólo lo que se puede decir del conjunto:
+Y que la corrida sea entera no es de aquí: está en el [Metodología](../README.md). Aquí sólo lo que se puede decir del conjunto:
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
@@ -518,4 +354,4 @@ Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.
 
 Y la del compañero, que se corre con una frase de alguien sin formación en el área: ¿la pregunta que devuelve el ente la puede contestar esa persona, sola, sin que nadie le explique cómo está hecho el sistema?
 
-Falsificador: un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA**.
+Falsificador: un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles; una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA.

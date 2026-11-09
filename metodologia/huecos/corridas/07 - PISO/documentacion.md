@@ -58,9 +58,9 @@ Y esa es la tercera salida del ensayo, la que casi nadie escribe: "no se sabe" n
 
 | La pregunta | Lo que contestó |
 |---|---|
-| **«¿puedo git?»** | **`SI cabe en el piso`** |
-| **«¿puedo pdf?»** | **`NO esta en el piso`** |
-| **«¿puedo robotica?»** | **`NO SE SABE: el piso no tiene una prueba para esto`** |
+| «¿puedo git?» | `SI cabe en el piso` |
+| «¿puedo pdf?» | `NO esta en el piso` |
+| «¿puedo robotica?» | `NO SE SABE: el piso no tiene una prueba para esto` |
 
 Las tres son distintas, y las tres se dijeron distintas. El piso no contestó "no" a lo que no había probado.
 
@@ -154,4 +154,4 @@ El piso no rellenó nada. Las siete pruebas salieron con lo que dijeron, y las c
 
 ¿Se midió el piso antes de la primera pregunta, o después? ¿La pregunta sin piso medido contestó "no se sabe", en vez de sí o de no? ¿Se distinguen las tres respuestas —sí cabe, no está, no se sabe— o se confunden? ¿Cuando algo no está, se dijo qué falta en vez de "no pude"? ¿Lo que se dijo que alcanzaba, alcanzó al probarlo? ¿El piso roto se apuntó y se volvió a medir entero? ¿Y al cerrar se dijeron las faltas con nombre, en vez de "no hice: nada"?
 
-Falsificador: un piso medido después de contestar; una pregunta contestada con sí o con no sin haber medido; **un "no pude" en vez de qué falta**; una prueba cuyo resultado no se puede leer porque guarda el error crudo; **un piso que dice alcanzar algo y no lo alcanza al probarlo**; un piso roto sin volver a medir; y **un cierre que dice "no hice: nada" cuando faltaban cuatro cosas del piso.**
+Falsificador: un piso medido después de contestar; una pregunta contestada con sí o con no sin haber medido; un "no pude" en vez de qué falta; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un piso que dice alcanzar algo y no lo alcanza al probarlo; un piso roto sin volver a medir; y un cierre que dice "no hice: nada" cuando faltaban cuatro cosas del piso.

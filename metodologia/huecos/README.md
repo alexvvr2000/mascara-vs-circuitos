@@ -12,7 +12,7 @@ Alejandro Valenzuela Rivera · `TESTIGO`.
 
 Es el que encuentra lo que el ensayo no dice. Se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.
 
-Y no es el que dice si lo que el ensayo dice se sostiene. Ése es el [método B](../sostiene/README.md): se cambia una regla del ensayo, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.
+Y no es el que dice si lo que el ensayo dice se sostiene. Ése es el [Método B · Ver si se sostiene](../sostiene/README.md): se cambia una regla del ensayo, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.
 
 Los dos hacen falta, y por razones distintas: los mutantes sólo prueban reglas que están escritas; la corrida entera encuentra lo que falta y no está escrito.
 
@@ -24,13 +24,13 @@ Y esto se escribe porque se buscó lo contrario y no está.
 
 Se revisó el historial de git, corrida por corrida, con su commit y su fecha. Y después se abrieron las dieciocho documentaciones. Y todas dicen lo mismo: qué se intentaba, qué se levantó, y qué hubo que inventar.
 
-Ninguna de las dieciocho levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [`sostiene/mutantes/`](../sostiene/mutantes/).
+Ninguna de las dieciocho levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../sostiene/mutantes/).
 
-Y hay cuatro que además buscaron el caso que rompe —**la 07, la 11, la 14 y la 15**— , y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
+Y hay cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15— , y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
 
 Lo dice la 14 con estas palabras: «el primer cierre del ciclo dio `no hice: nada`. Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha. Así que se buscaron casos a propósito, y se encontraron tres.»
 
-Así que no se parte la carpeta. Partirla habría inventado una distinción que no está en ningún archivo, y `sostiene/` tiene su propio registro.
+Así que no se parte la carpeta. Partirla habría inventado una distinción que no está en ningún archivo, y [`sostiene`](../sostiene/README.md) tiene su propio registro.
 
 ---
 
@@ -87,7 +87,7 @@ Falsificador de este README: una corrida que se presentó como recargable y no l
 
 Durante un tiempo se formuló la meta como «tratar de describir un ente hasta que esté completo», y con eso se cayó en la trampa de la tendencia: buscar el valor al que converge algo que no termina.
 
-La trampa tiene nombre y está resuelta en [`lo inexplicable`](../lo%20inexplicable.md): que algo no se pueda probar hasta el final no lo vuelve inútil. Lo que hay que encontrar no es el final: es el punto donde algo sirve.
+La trampa tiene nombre y está resuelta en [lo inexplicable](../lo%20inexplicable.md): que algo no se pueda probar hasta el final no lo vuelve inútil. Lo que hay que encontrar no es el final: es el punto donde algo sirve.
 
 Y ese punto tiene nombre, y es el que usa todo el que hace herramientas: lo suficientemente bueno.
 
@@ -152,7 +152,7 @@ Y tiene un nombre, y se cita abajo: saturación. Es un criterio real, y es el d�
 
 ## III. Cómo se hace
 
-Está entero en [`cómo se corre`](como%20se%20corre.md). Aquí sólo lo que no se repite allí:
+Está entero en [cómo se corre](como%20se%20corre.md). Aquí sólo lo que no se repite allí:
 
 ```plaintext
 1. se leen los ensayos          sin mirar los entes anteriores
@@ -173,7 +173,7 @@ Está entero en [`cómo se corre`](como%20se%20corre.md). Aquí sólo lo que no 
 > «Las pruebas pueden revelar la presencia de defectos, pero nunca su ausencia.»
 > — Dijkstra, *Notes on Structured Programming*, EWD249, 1970.
 
-Un hueco cerrado dice que ese ya no está. No dice que no haya otros. Y por eso este método no se para solo: la otra mitad está en el [B](../sostiene/README.md).
+Un hueco cerrado dice que ese ya no está. No dice que no haya otros. Y por eso este método no se para solo: la otra mitad está en el [Método B · Ver si se sostiene](../sostiene/README.md).
 
 ---
 
@@ -209,7 +209,7 @@ Y la última es la que importa, y no se mide con instrumentos.
 
 | Lo que este método afirma | De dónde viene |
 |---|---|
-| las pruebas revelan la presencia de defectos, nunca su ausencia | **Dijkstra, EWD249 (1970)** |
+| las pruebas revelan la presencia de defectos, nunca su ausencia | Dijkstra, EWD249 (1970) |
 | la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; Glaser & Strauss (1967) |
 | una revisión no sustituye a una corrida | las corridas 14 y 15, que encontraron más buscando después de que todo salió bien |
 
@@ -221,4 +221,4 @@ Y la última es la que importa, y no se mide con instrumentos.
 
 ---
 
-Falsificador: **«lo suficientemente bueno» dicho por quien lo hizo, y sin que nadie lo haya empezado**; **y su contrario: seguir puliendo para siempre porque siempre aparece un detalle más.**
+Falsificador: «lo suficientemente bueno» dicho por quien lo hizo, y sin que nadie lo haya empezado; y su contrario: seguir puliendo para siempre porque siempre aparece un detalle más.

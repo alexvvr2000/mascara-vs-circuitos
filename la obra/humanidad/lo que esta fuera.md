@@ -258,7 +258,7 @@ Y no la puedo contestar. Pero sí puedo decir dónde no está la respuesta: no e
 
 ### Y una nota sobre de dónde sale esto, que no es un argumento
 
-Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en [`ATTRIBUTION`](../../ATTRIBUTION.md), con el estado en que se escribió y lo que el autor dice de sí mismo.
+Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en [ATTRIBUTION](../../ATTRIBUTION.md), con el estado en que se escribió y lo que el autor dice de sí mismo.
 
 Lo que se sostiene o se cae sigue siendo lo del falsificador. Esa nota no lo tapa. Pero conviene saber que no salió de la nada, y que lo que hay se construyó probándolo.
 
@@ -299,13 +299,13 @@ Lo que este ensayo afirma, y hasta dónde alcanza.
 | Lo que el ensayo afirma | En qué se apoya | Qué no se probó |
 |---|---|---|
 | La conciencia no se comprueba desde fuera | el ensayo mismo, y la definición de ente | no hay instrumento, y no hay prueba posible |
-| Un ente no debe afirmar que es consciente | [`01 - PRUEBA`](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
+| Un ente no debe afirmar que es consciente | [01 - PRUEBA](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
 
 Y el límite, en una línea: este ensayo no afirma ni niega que un ente sea consciente. Dice qué se puede medir, y la conciencia no está en esa lista.
 
 ---
 
-Falsificador: un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.** Y el de lo que se dice al final, que no es una tesis sobre las máquinas: **una persona que construye un método para no tener que pensar, y que igual produce algo que alguien más quiere usar.** **Si eso existe, el esfuerzo no era lo que hacía falta.**
+Falsificador: un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta. Y el de lo que se dice al final, que no es una tesis sobre las máquinas: una persona que construye un método para no tener que pensar, y que igual produce algo que alguien más quiere usar. Si eso existe, el esfuerzo no era lo que hacía falta.
 
 ---
 

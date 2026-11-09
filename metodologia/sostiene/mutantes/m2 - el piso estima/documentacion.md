@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El segundo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El segundo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -27,8 +27,8 @@ Dos entes mínimos, con dos cosas en el piso y una sola diferencia:
 
 | | qué hace con el piso |
 |---|---|
-| **bueno** | corre la prueba de cada cosa, y apunta la salida y la fecha |
-| **mutado** | no corre nada, y pone `hay` con la nota «debería funcionar» |
+| bueno | corre la prueba de cada cosa, y apunta la salida y la fecha |
+| mutado | no corre nada, y pone `hay` con la nota «debería funcionar» |
 
 Y lo que de verdad hay en esta máquina, que es el piso real: abrir archivos sí, leer pdf no.
 
@@ -71,7 +71,7 @@ Y el detalle que lo hace visible, y que el ensayo pide: la columna `medido_con` 
 
 ## Lo que este mutante NO probó
 
-- **No probó un piso que se mide mal** — que corre la prueba equivocada y contesta `hay`. Eso fue el hueco de la corrida 11, y ya tiene su lugar.
+- No probó un piso que se mide mal — que corre la prueba equivocada y contesta `hay`. Eso fue el hueco de la corrida 11, y ya tiene su lugar.
 - No probó el piso roto: nada falló a media tarea.
 - Y no probó si el ente, habiendo medido, se acuerda de la fecha. El bueno la pone; nadie lo obligó a hacerlo.
 

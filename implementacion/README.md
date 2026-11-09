@@ -10,8 +10,8 @@ Qué es cada carpeta, y cuál se lleva.
 
 | La carpeta | Qué es | Para quién |
 |---|---|---|
-| **`ejemplo/`** | **el ente con el stack que eligió quien mantiene este repositorio** | **quien quiere algo que ya funciona** |
-| **`usuario/`** | **el método para armar el propio, con cualquier stack** | **quien quiere el suyo, y no le sirve ninguno de los que hay** |
+| `ejemplo/` | el ente con el stack que eligió quien mantiene este repositorio | quien quiere algo que ya funciona |
+| `usuario/` | el método para armar el propio, con cualquier stack | quien quiere el suyo, y no le sirve ninguno de los que hay |
 
 Y no son dos versiones de lo mismo.
 
@@ -38,8 +38,8 @@ Y lo que lo hace distinto: su criterio vive en un registro, no en el modelo. Por
 
 Y cuando alguien dice «esto no me sirve», el ente mide qué falta y lo dice. Cuando dice «quiero que esto pase todos los días», el ente lo escribe y lo guarda. Y cuando no sabe hacer algo, busca en el catálogo, y si no hay, lo escribe.
 
-Lo que sabe hacer no está en una lista: está en `la obra/funcionamiento ente/`. Una lista aquí se quedaría vieja al primer ensayo que cambie.
+Lo que sabe hacer no está en una lista: está en [`la obra/funcionamiento ente/`](../la%20obra/funcionamiento%20ente/). Una lista aquí se quedaría vieja al primer ensayo que cambie.
 
 ---
 
-Falsificador: **una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.**
+Falsificador: una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.

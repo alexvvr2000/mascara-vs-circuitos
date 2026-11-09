@@ -10,15 +10,15 @@ El ente, con el stack que eligió quien mantiene este repositorio. Se copia a un
 
 | La pieza | Qué es |
 |---|---|
-| **el motor** | **`DeepSeek Harness`** |
-| **el catálogo** | **`dshmarket`** |
-| **la base** | **`graphdblite`, un archivo** |
+| el motor | `DeepSeek Harness` |
+| el catálogo | `dshmarket` |
+| la base | `graphdblite`, un archivo |
 
 Y la base no es un gusto como las otras dos. El índice es un grafo con tres relaciones, y la consulta que más se va a hacer es por dónde se llega de un tema a otro. Un recorrido largo no se escribe en SQL: se escribe con `shortestPath`.
 
 Y lo que la base no hace: `graphdblite` no valida nada. Las reglas del registro viven en el script que escribe.
 
-La tabla está en [`stack.md`](stack.md), y lo medido en [`investigacion del stack.md`](investigacion%20del%20stack.md).
+La tabla está en [stack.md](stack.md), y lo medido en [investigacion del stack.md](investigacion%20del%20stack.md).
 
 ---
 
@@ -59,4 +59,4 @@ Si eso aguanta, el techo deja de ser lo que cuesta el modelo y pasa a ser el cri
 
 ---
 
-Falsificador: **una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.**
+Falsificador: una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.

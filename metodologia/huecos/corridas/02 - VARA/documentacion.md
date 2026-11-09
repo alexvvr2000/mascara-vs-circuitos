@@ -100,4 +100,4 @@ Dos fricciones sin desenlace, y no las volví a probar: el campo `y si duda` que
 
 ¿Cada campo del esquema se consulta de verdad, o hay alguno que se puede cargar con cualquier cosa y nada cambia? ¿El tema de persona dejó de ser un cajón? ¿El «casi» tiene los tres valores y se pueden alcanzar?
 
-Falsificador: un campo que existe y no lo lee nadie; **un tema que se traga lo que no es suyo**; y **un valor del borde que está escrito y no se puede alcanzar.**
+Falsificador: un campo que existe y no lo lee nadie; un tema que se traga lo que no es suyo; y un valor del borde que está escrito y no se puede alcanzar.

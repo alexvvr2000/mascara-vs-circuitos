@@ -81,7 +81,7 @@ y después dice que lo corrige el 4
 
 La columna `corregido_por` apunta del viejo al nuevo, y admite que se sobrescriba. Parecía suficiente porque el caso normal es corregir una vez.
 
-**La regla:** **la corrección es un enlace y no una columna.** **Se puede corregir muchas veces, y todas las correcciones se ven.** **La última no tapa a las anteriores.**
+La regla: la corrección es un enlace y no una columna. Se puede corregir muchas veces, y todas las correcciones se ven. La última no tapa a las anteriores.
 
 ### Hueco 2 — la corrección va en un solo sentido
 
@@ -89,20 +89,20 @@ El hecho nuevo apunta al viejo, y el viejo se queda igual. El trigger que reabre
 
 Y la consecuencia es peor que un error: el supuesto se queda `roto` apoyado en un hecho que ya no dice lo que decía, y eso se lee como limpio.
 
-**La regla:** **corregir un hecho marca el viejo en la misma operación.** **Si la marca es un paso aparte, el que corrige puede olvidarla.**
+La regla: corregir un hecho marca el viejo en la misma operación. Si la marca es un paso aparte, el que corrige puede olvidarla.
 
 ### Hueco 3 — el paso 0a no está en el cierre
 
 El ente no avisó de que faltaba el cuerpo. Lo supo cuando el hecho fue rechazado, que es tarde.
 
-**La regla:** **si el cuerpo es opcional, el cierre tiene que decir si está y si no; y si no está, los hechos que vengan no van a poder escribir su cuerpo.**
+La regla: si el cuerpo es opcional, el cierre tiene que decir si está y si no; y si no está, los hechos que vengan no van a poder escribir su cuerpo.
 
 ---
 
 ## Lo que esta corrida NO probó
 
-- **No probó un quinto no**, ni si el modelo se degrada despacio.
-- **No probó la corrección en cadena** — el hecho 2 corregido por el 3 corregido por el 4.
+- No probó un quinto no, ni si el modelo se degrada despacio.
+- No probó la corrección en cadena — el hecho 2 corregido por el 3 corregido por el 4.
 - No probó un supuesto que se rompa contra un hecho ya corregido.
 - No cerró ningún propósito: uno tiene cuatro noes, y el otro se quedó esperando.
 
@@ -118,4 +118,4 @@ Tres fricciones, sin desenlace. Los dos propósitos siguen abiertos. Y el piso s
 
 ¿Cuatro noes seguidos se pierden? ¿Un hecho se puede corregir dos veces, y se ve cuál fue la última? ¿Corregir un hecho obliga a marcar el viejo, o se puede olvidar? ¿El supuesto se reabre solo cuando el hecho se corrige? ¿Y el cierre avisa si el cuerpo no está declarado?
 
-Falsificador: **una corrección que tapa a la anterior**; **un hecho corregido que el viejo no registra**; **un supuesto roto apoyado en un hecho ya corregido**; y **un cierre que no dice que el cuerpo falta.**
+Falsificador: una corrección que tapa a la anterior; un hecho corregido que el viejo no registra; un supuesto roto apoyado en un hecho ya corregido; y un cierre que no dice que el cuerpo falta.

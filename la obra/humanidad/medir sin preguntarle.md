@@ -54,9 +54,9 @@ Tres maneras de saber cómo trabaja un cuerpo, y solo la tercera no se puede inv
 
 | Quién lo dice | Qué vale | Por qué |
 |---|---|---|
-| **El propio modelo** | **nada, como dato.** Sirve como dato de su autoimagen | se declara neutral y no lo es. No puede ver su propia inclinación |
-| **El que lo usa, desde un solo cuerpo** | **poco**: ve lo que ese cuerpo hace, y no tiene contra qué compararlo | lo que parece criterio puede ser la inclinación del único que consultó |
-| **El registro, con más de un cuerpo y el mismo ciclo** | **es el único que tiene comparación** | la misma clase de trabajo, hecha por cuerpos distintos, y lo que cambia entre ellos es lo que el cuerpo traía |
+| El propio modelo | nada, como dato. Sirve como dato de su autoimagen | se declara neutral y no lo es. No puede ver su propia inclinación |
+| El que lo usa, desde un solo cuerpo | poco: ve lo que ese cuerpo hace, y no tiene contra qué compararlo | lo que parece criterio puede ser la inclinación del único que consultó |
+| El registro, con más de un cuerpo y el mismo ciclo | es el único que tiene comparación | la misma clase de trabajo, hecha por cuerpos distintos, y lo que cambia entre ellos es lo que el cuerpo traía |
 
 > Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.
 
@@ -76,10 +76,10 @@ Cada término es un conteo, y se saca así:
 
 | El término | De dónde sale | Cómo se cuenta |
 |---|---|---|
-| **intentos** | los hechos de la clase | uno por cada hecho abierto, salga bien o mal |
-| **correcciones** | las fricciones de esos hechos | uno por cada fricción que hubo que levantar |
-| **verificaciones** | los desenlaces | uno por cada vez que se volvió a probar algo |
-| **exitosos verificados** | desenlaces `cumplida` | uno por cada regla que aguantó al volver a probarla |
+| intentos | los hechos de la clase | uno por cada hecho abierto, salga bien o mal |
+| correcciones | las fricciones de esos hechos | uno por cada fricción que hubo que levantar |
+| verificaciones | los desenlaces | uno por cada vez que se volvió a probar algo |
+| exitosos verificados | desenlaces `cumplida` | uno por cada regla que aguantó al volver a probarla |
 
 Y con un ejemplo, porque así se entiende y de otra forma no:
 
@@ -230,9 +230,9 @@ Todo lo que se sabe de un cuerpo en una clase de trabajo está en uno de estos t
 
 | Estado | Qué significa | Cómo se reconoce |
 |---|---|---|
-| **probado en el registro** | hay hechos de esa clase, con desenlace | **se puede contar, y el número se sostiene** |
-| **reportado y no probado** | alguien lo dice —el que lo usó, o la comunidad— y no hay hechos | **se puede usar, y se dice que no está probado** |
-| **sin probar** | no hay nada, ni hechos ni reporte | **es el estado por defecto, y es el más honesto** |
+| probado en el registro | hay hechos de esa clase, con desenlace | se puede contar, y el número se sostiene |
+| reportado y no probado | alguien lo dice —el que lo usó, o la comunidad— y no hay hechos | se puede usar, y se dice que no está probado |
+| sin probar | no hay nada, ni hechos ni reporte | es el estado por defecto, y es el más honesto |
 
 Y la regla que cierra la puerta de atrás: un talento sin su estado no se escribe. Porque "soy bueno en esto" sin estado es exactamente un sesgo con autoestima: se ve igual de firme que un dato, y no se puede contradecir.
 
@@ -338,9 +338,9 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El costo se mide por resultado verificado, no por llamada | [`06 - FUENTE`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
-| La caída se cuenta por su puerta, no sólo contada | [`08 - FRONTERA`](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
-| Cada talento lleva su estado | [`09 - TAREA`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
+| El costo se mide por resultado verificado, no por llamada | [06 - FUENTE](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el intento que salió mal contó igual que el bueno |
+| La caída se cuenta por su puerta, no sólo contada | [08 - FRONTERA](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechazó el hecho que se atribuía una firma |
+| Cada talento lleva su estado | [09 - TAREA](../../metodologia/huecos/corridas/09%20-%20TAREA/) | una tarea sin herramientas declaradas se confundió con una inexistente |
 
 Y lo que esta tabla no dice: el costo por resultado exitoso no está calculado en ninguna parte. Se tiene el material y no se ha sumado, y este ensayo no lo presenta como si estuviera medido.
 

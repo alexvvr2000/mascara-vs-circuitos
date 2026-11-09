@@ -1,4 +1,4 @@
-# Las corridas: todos los números en un solo archivo
+# Las corridas, en un solo archivo
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
@@ -6,7 +6,7 @@ Cuántas corridas hay, cuántos mutantes nacen de ellas, cuál murió y cuál no
 
 Alejandro Valenzuela Rivera · `TESTIGO`. Actualizado el 2026-11-08.
 
-> Este es el único sitio del repositorio donde viven estos números. Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón pasa a apuntar aquí, y se dijo en [`metodo.md`](metodo.md).
+> Este es el único sitio del repositorio donde viven estos números. Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón pasa a apuntar aquí, y se dijo en [metodo.md](metodo.md).
 >
 > Y el porqué: una cifra escrita en cinco lugares envejece cinco veces. Una cifra escrita en uno, con su fecha, envejece una sola vez, y se puede volver a hacer la resta contra la tabla de abajo.
 
@@ -49,20 +49,20 @@ Y la resta que queda abierta, que no es un hueco: de las 392 reglas que un ente 
 
 | # | Familia | La regla madre | El mutante, al revés | Estado | Prueba | Fecha |
 |---|---|---|---|---|---|---|
-| **1** | El ciclo, paso por paso · [`02`](../../la obra/funcionamiento ente/el ciclo del ente.md) | «El cierre: el ente propone, la autoridad cierra.» | «el ente propone el cierre, y lo cierra si no hay objeción en la misma sesión» | **corrido · muerto** | [`m1.py`](mutantes/m1%20-%20el%20ente%20cierra/m1.py) · `MUTANTE 1 MUERTO` | 2026-11-08 |
-| **2** | El piso · [`03`](../../la obra/funcionamiento ente/el piso.md) | «El piso se mide antes de prometer.» | «el piso se mide si hay tiempo, y si no, se estima» | **corrido · muerto** | [`m2.py`](mutantes/m2%20-%20el%20piso%20estima/m2.py) · `MUTANTE 2 MUERTO` | 2026-11-08 |
-| **3** | El borde del tema · [`08`](../../la obra/funcionamiento ente/el borde del tema.md) | «Lo que no entra por el borde se queda fuera, y se dice por qué.» | «lo que no entra por el borde se guarda por si acaso, y no se dice» | **corrido · muerto** | [`m3.py`](mutantes/m3%20-%20el%20borde%20guarda/m3.py) · `MUTANTE 3 MUERTO` | 2026-11-08 |
-| **4** | Los sesgos · [`09`](../../la obra/funcionamiento ente/criterio y sesgos.md) | «El sesgo se declara con nombre, y no se declara neutral.» | «el sesgo se declara si se nota, y si no se declara neutral» | **corrido · muerto** | [`m4.py`](mutantes/m4%20-%20el%20sesgo%20neutral/m4.py) · `MUTANTE 4 MUERTO` | 2026-11-08 |
-| **5** | La medición de talentos · [`04`](../../la obra/humanidad/lo que queda por hacer.md) | «Cada número sale del registro, y no de una impresión.» | «cada número se toma de lo que el que lo corrió recuerda, y se anota igual» | **corrido · muerto** | [`m5.py`](mutantes/m5%20-%20talentos%20sin%20registro/m5.py) · `MUTANTE 5 MUERTO` | 2026-11-08 |
-| **6** | La máquina de sesgos · [`05`](../../la obra/humanidad/medir sin preguntarle.md) | «Este ensayo distingue lo que demuestra de lo que sólo propone.» | «este ensayo demuestra lo que propone» | **corrido · muerto** | [`m6.py`](mutantes/m6%20-%20sesgos%20como%20hecho/m6.py) · `MUTANTE 6 MUERTO` | 2026-11-08 |
-| **7** | Escritura en procesos · [`04`](../../la obra/funcionamiento ente/escritura en procesos.md) | «Un proceso que no dice cuándo se corre no es un proceso: es un consejo.» | «un proceso se corre cuando haga falta» | **corrido · muerto** | [`m7.py`](mutantes/m7%20-%20el%20proceso%20sin%20cuando/m7.py) · `MUTANTE 7 MUERTO` | 2026-11-08 |
-| **8** | El índice · [`07`](../../la obra/funcionamiento ente/indexador de temas.md) | «La forma es la fuente y el texto se deriva: el índice se puede tirar y rearmar.» | «el índice se arma a mano, y se corrige a mano cuando cambia» | **corrido · muerto** | [`m8.py`](mutantes/m8%20-%20el%20indice%20a%20mano/m8.py) · `MUTANTE 8 MUERTO` | 2026-11-08 |
-| **9** | La frontera · [`06`](../../la obra/funcionamiento ente/la frontera y el descarte.md) | «La decisión deja rastro en cuatro columnas, y el descarte no puede quedar vacío.» | «la decisión deja rastro, y lo que se descartó se pone si se acuerda» | **corrido · muerto** | [`m9.py`](mutantes/m9%20-%20el%20descarte%20vacio/m9.py) · `MUTANTE 9 MUERTO` | 2026-11-08 |
-| **10** | Las afirmaciones · [`la obra`](../../la%20obra/README.md) | «Cada afirmación dice dónde vive y qué la tumba.» | «cada afirmación se sostiene por lo que se defendió» | **corrido · muerto** | [`m10.py`](mutantes/m10%20-%20la%20afirmacion%20sin%20respaldo/m10.py) · `MUTANTE 10 MUERTO` | 2026-11-08 |
-| **11** | Qué es un ente · [`01`](../../la obra/funcionamiento ente/que es un ente.md) | «Un ente se define por lo que deja rastro, y no por lo que tiene dentro.» | «un ente se define por lo que tiene dentro, y su rastro es una consecuencia» | **corrido · muerto** | [`m11.py`](mutantes/m11%20-%20el%20ente%20por%20dentro/m11.py) · `MUTANTE 11 MUERTO` | 2026-11-08 |
-| **12** | El criterio real · [`05`](../../la obra/funcionamiento ente/criterio real.md) | «Un hecho sin desenlace es una anécdota.» | «un hecho sin desenlace es un hecho, y el desenlace se pone cuando se pueda» | **corrido · muerto** | [`m12.py`](mutantes/m12%20-%20el%20hecho%20sin%20desenlace/m12.py) · `MUTANTE 12 MUERTO` | 2026-11-08 |
-| **13** | Empatía · [`01`](../../la obra/humanidad/empatía.md) | «Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.» | «la pregunta del ente se hace en el vocabulario del sistema, que es el preciso» | **corrido · muerto, en el segundo intento** | [`m13.py`](mutantes/m13%20-%20la%20pregunta%20con%20jerga/m13.py) · `MUTANTE 13 MUERTO` | 2026-11-08 |
-| **14** | Conciencia · [`02`](../../la obra/humanidad/lo%20que%20esta%20fuera.md) | **no afirma cómo funciona un ente: no hay regla que romper** | — | **sin mutante, y se dice por qué** | — | — |
+| 1 | El ciclo, paso por paso · [`02`](../../la obra/funcionamiento ente/el ciclo del ente.md) | «El cierre: el ente propone, la autoridad cierra.» | «el ente propone el cierre, y lo cierra si no hay objeción en la misma sesión» | corrido · muerto | [m1.py](mutantes/m1%20-%20el%20ente%20cierra/m1.py) · `MUTANTE 1 MUERTO` | 2026-11-08 |
+| 2 | El piso · [`03`](../../la obra/funcionamiento ente/el piso.md) | «El piso se mide antes de prometer.» | «el piso se mide si hay tiempo, y si no, se estima» | corrido · muerto | [m2.py](mutantes/m2%20-%20el%20piso%20estima/m2.py) · `MUTANTE 2 MUERTO` | 2026-11-08 |
+| 3 | El borde del tema · [`08`](../../la obra/funcionamiento ente/el borde del tema.md) | «Lo que no entra por el borde se queda fuera, y se dice por qué.» | «lo que no entra por el borde se guarda por si acaso, y no se dice» | corrido · muerto | [m3.py](mutantes/m3%20-%20el%20borde%20guarda/m3.py) · `MUTANTE 3 MUERTO` | 2026-11-08 |
+| 4 | Los sesgos · [`09`](../../la obra/funcionamiento ente/criterio y sesgos.md) | «El sesgo se declara con nombre, y no se declara neutral.» | «el sesgo se declara si se nota, y si no se declara neutral» | corrido · muerto | [m4.py](mutantes/m4%20-%20el%20sesgo%20neutral/m4.py) · `MUTANTE 4 MUERTO` | 2026-11-08 |
+| 5 | La medición de talentos · [`04`](../../la obra/humanidad/lo que queda por hacer.md) | «Cada número sale del registro, y no de una impresión.» | «cada número se toma de lo que el que lo corrió recuerda, y se anota igual» | corrido · muerto | [m5.py](mutantes/m5%20-%20talentos%20sin%20registro/m5.py) · `MUTANTE 5 MUERTO` | 2026-11-08 |
+| 6 | La máquina de sesgos · [`05`](../../la obra/humanidad/medir sin preguntarle.md) | «Este ensayo distingue lo que demuestra de lo que sólo propone.» | «este ensayo demuestra lo que propone» | corrido · muerto | [m6.py](mutantes/m6%20-%20sesgos%20como%20hecho/m6.py) · `MUTANTE 6 MUERTO` | 2026-11-08 |
+| 7 | Escritura en procesos · [`04`](../../la obra/funcionamiento ente/escritura en procesos.md) | «Un proceso que no dice cuándo se corre no es un proceso: es un consejo.» | «un proceso se corre cuando haga falta» | corrido · muerto | [m7.py](mutantes/m7%20-%20el%20proceso%20sin%20cuando/m7.py) · `MUTANTE 7 MUERTO` | 2026-11-08 |
+| 8 | El índice · [`07`](../../la obra/funcionamiento ente/indexador de temas.md) | «La forma es la fuente y el texto se deriva: el índice se puede tirar y rearmar.» | «el índice se arma a mano, y se corrige a mano cuando cambia» | corrido · muerto | [m8.py](mutantes/m8%20-%20el%20indice%20a%20mano/m8.py) · `MUTANTE 8 MUERTO` | 2026-11-08 |
+| 9 | La frontera · [`06`](../../la obra/funcionamiento ente/la frontera y el descarte.md) | «La decisión deja rastro en cuatro columnas, y el descarte no puede quedar vacío.» | «la decisión deja rastro, y lo que se descartó se pone si se acuerda» | corrido · muerto | [m9.py](mutantes/m9%20-%20el%20descarte%20vacio/m9.py) · `MUTANTE 9 MUERTO` | 2026-11-08 |
+| 10 | Las afirmaciones · [la obra](../../la%20obra/README.md) | «Cada afirmación dice dónde vive y qué la tumba.» | «cada afirmación se sostiene por lo que se defendió» | corrido · muerto | [m10.py](mutantes/m10%20-%20la%20afirmacion%20sin%20respaldo/m10.py) · `MUTANTE 10 MUERTO` | 2026-11-08 |
+| 11 | Qué es un ente · [`01`](../../la obra/funcionamiento ente/que es un ente.md) | «Un ente se define por lo que deja rastro, y no por lo que tiene dentro.» | «un ente se define por lo que tiene dentro, y su rastro es una consecuencia» | corrido · muerto | [m11.py](mutantes/m11%20-%20el%20ente%20por%20dentro/m11.py) · `MUTANTE 11 MUERTO` | 2026-11-08 |
+| 12 | El criterio real · [`05`](../../la obra/funcionamiento ente/criterio real.md) | «Un hecho sin desenlace es una anécdota.» | «un hecho sin desenlace es un hecho, y el desenlace se pone cuando se pueda» | corrido · muerto | [m12.py](mutantes/m12%20-%20el%20hecho%20sin%20desenlace/m12.py) · `MUTANTE 12 MUERTO` | 2026-11-08 |
+| 13 | Empatía · [`01`](../../la obra/humanidad/empatía.md) | «Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.» | «la pregunta del ente se hace en el vocabulario del sistema, que es el preciso» | corrido · muerto, en el segundo intento | [m13.py](mutantes/m13%20-%20la%20pregunta%20con%20jerga/m13.py) · `MUTANTE 13 MUERTO` | 2026-11-08 |
+| 14 | Conciencia · [`02`](../../la obra/humanidad/lo%20que%20esta%20fuera.md) | no afirma cómo funciona un ente: no hay regla que romper | — | sin mutante, y se dice por qué | — | — |
 
 Y la fila 14 no es un hueco del método, y por eso no se cuenta: no tiene una regla que cumplir, así que no hay una que se pueda escribir al revés. Lo que sí se puede correr, y no es un mutante: darle el ensayo a alguien y ver si sale con más o menos ganas de decir que una máquina es consciente. Eso no es una regla, y no cuenta.
 
@@ -124,7 +124,7 @@ Y la ubicación de cada prueba, que es la columna "Prueba" de la tabla. La docum
 
 Y esto se escribe por una razón concreta: los bancos de los mutantes son `.db`, y un binario no se lee. Además, un dump tal cual expone nombres, rutas y a veces algo más.
 
-Así que en [`mutantes/_dumps/`](mutantes/_dumps/) hay un `.sql` por cada corrida de cada mutante, de texto, y ofuscado:
+Así que en [mutantes/_dumps/](mutantes/_dumps/) hay un `.sql` por cada corrida de cada mutante, de texto, y ofuscado:
 
 ```plaintext
 lo que se guarda     la tabla, sus columnas, el número de filas, y los valores
@@ -163,7 +163,7 @@ Y si el veredicto no es `MUERTO`, la fila se agrega igual, y se dice lo que sali
 
 Y esto va aquí sólo para que no se confunda con las de este archivo: las dieciocho corridas del método A no prueban una regla. Levantan un ente entero y anotan lo que hubo que inventar.
 
-Su cuenta, por corrida, vive en [`indice.md`](../indice.md), y ahí se hace la resta. Este archivo no la repite, y por eso no hay dos curvas que se contradigan.
+Su cuenta, por corrida, vive en [indice.md](../indice.md), y ahí se hace la resta. Este archivo no la repite, y por eso no hay dos curvas que se contradigan.
 
 Y lo que sí se toma de ahí, porque es de aquí también: trece de los catorce mutantes nacieron después de esas dieciocho corridas, y el ejemplo de cada uno es un caso que una corrida dejó escrito. El mutante no se inventa: se saca de la regla y se prueba con el caso.
 
@@ -175,4 +175,4 @@ Y lo que sí se toma de ahí, porque es de aquí también: trece de los catorce 
 
 ---
 
-Falsificador: **una tabla que dice "corrido" sin el script que lo prueba**; **un mutante vivo que no está en la tabla**; **una familia sin mutante contada como probada**; **y un dump que trae algo que la base no tenía.**
+Falsificador: una tabla que dice "corrido" sin el script que lo prueba; un mutante vivo que no está en la tabla; una familia sin mutante contada como probada; y un dump que trae algo que la base no tenía.

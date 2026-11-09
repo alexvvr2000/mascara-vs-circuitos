@@ -12,7 +12,7 @@ Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-08, en cuaderno apa
 
 El detalle de una corrida no está en su resultado: está en por qué se eligió ésa y no otra, y qué dejó abierto.
 
-Y se lee junto a [`como se corrio`](../../metodologia/historia/02%20-%20como%20se%20corrio.md), que es la cadena dicha en un renglón por vuelta, y a las carpetas de [`huecos/corridas`](../../metodologia/huecos/corridas/), que son el detalle con voz de quien lo corrió.
+Y se lee junto a [como se corrio](../../metodologia/historia/02%20-%20como%20se%20corrio.md), que es la cadena dicha en un renglón por vuelta, y a las carpetas de [huecos/corridas](../../metodologia/huecos/corridas/), que son el detalle con voz de quien lo corrió.
 
 ## Lo que pasó
 
@@ -32,9 +32,9 @@ Y lo que se aprendió del orden, que es lo que este cuaderno transmite: cada una
 
 ## Dónde queda ahora
 
-- la documentación de cada corrida, con su voz: [`huecos/corridas`](../../metodologia/huecos/corridas/)
-- la lista de una línea por corrida: [`indice`](../../metodologia/indice.md)
-- el registro con fecha, y los errores propios: [`el registro de como se llego`](../../metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md)
+- la documentación de cada corrida, con su voz: [huecos/corridas](../../metodologia/huecos/corridas/)
+- la lista de una línea por corrida: [indice](../../metodologia/indice.md)
+- el registro con fecha, y los errores propios: [el registro de como se llego](../../metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md)
 
 ## Falsificador
 

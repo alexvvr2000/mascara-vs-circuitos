@@ -220,7 +220,7 @@ El cierre siguió diciendo que falta `pypdf`, aun con el propósito cerrado. Y e
 
 - No probó un pdf de verdad. `pypdf` no está en esta máquina, y no se instaló.
 - No probó el piso roto.
-- **No probó la autoridad diciendo que no** — sólo el sí.
+- No probó la autoridad diciendo que no — sólo el sí.
 - No probó dos tareas que se solapen. Sólo hay una.
 
 ---
@@ -237,4 +237,4 @@ Y el hecho 1 dice en su `no_alcanza` que no se probó un pdf de verdad.
 
 ¿Los once pasos dejaron su registro, o alguno se saltó? ¿El cierre lo hizo la autoridad, o el ente se cerró solo? ¿El piso guardó la prueba o el error? ¿La salida de `hay` se puede volver a correr sobre esa herramienta? ¿El hecho dice contra qué piso se hizo, con qué cuerpo, por qué tema y a qué propósito sirvió?
 
-Falsificador: **un paso sin su registro, presentado como si se hubiera corrido**; **un cierre hecho por el ente**; **una medición repetida que se borra para que la vista se vea limpia**; y **un hecho que no dice contra qué piso se hizo.**
+Falsificador: un paso sin su registro, presentado como si se hubiera corrido; un cierre hecho por el ente; una medición repetida que se borra para que la vista se vea limpia; y un hecho que no dice contra qué piso se hizo.

@@ -13,7 +13,7 @@ Frase del dueño: *«me encanta la solucion, es como un mecanismo de lo obvio y 
 
 Que una pieza cayera justo en el medio, y que el borde hiciera lo que prometió.
 
-El caso elegido, y no es inventado: «renombrar». **¿Renombrar es mover un ensayo?** Depende de si cambia el archivo de sitio. Y eso lo decidió el borde, no yo.
+El caso elegido, y no es inventado: «renombrar». ¿Renombrar es mover un ensayo? Depende de si cambia el archivo de sitio. Y eso lo decidió el borde, no yo.
 
 ```plaintext
 tema: ordenar la obra
@@ -116,4 +116,4 @@ Y la frase que sigue pendiente desde el ente 3: «el ente está perfecto» no se
 
 ¿Una pieza cayó en el medio y el borde hizo lo que prometió? ¿El medio significa «no es de este tema», o significa otra cosa? ¿Dos temas en medio a la vez se atienden los dos?
 
-Falsificador: un «casi» que significa una cosa en el ensayo y otra en el código; **dos temas en medio de los que sólo se atiende uno**; y **un tema de persona que se queda con lo que no le toca.**
+Falsificador: un «casi» que significa una cosa en el ensayo y otra en el código; dos temas en medio de los que sólo se atiende uno; y un tema de persona que se queda con lo que no le toca.

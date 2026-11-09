@@ -10,7 +10,7 @@ Y eso se dice antes de leer nada, porque cambia lo que esta página es: es una c
 
 ## Y lo que esta página no es: no es la genealogía de este trabajo
 
-Las conclusiones de este repositorio no salieron de estas fuentes. Salieron de un debate, y de pura lógica. El origen está contado en [`ATTRIBUTION.md`](../../ATTRIBUTION.md).
+Las conclusiones de este repositorio no salieron de estas fuentes. Salieron de un debate, y de pura lógica. El origen está contado en [ATTRIBUTION.md](../../ATTRIBUTION.md).
 
 Estas fuentes están aquí por respeto, y no como herencia. Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.
 
@@ -40,14 +40,14 @@ Y casi ninguna de estas fuentes entra en las decisiones de este trabajo. Están 
 
 | Quién | Qué reporta, según su resumen | ¿Se usa aquí? |
 |---|---|---|
-| **`Reflexion`** — Shinn et al., 2023 · [arXiv:2303.11366](https://arxiv.org/abs/2303.11366) | **la auto-crítica verbal de cada intento fallido, y la lee en el siguiente intento** | **la crítica se consume en el intento siguiente: no queda como registro que otro pueda revisar** |
-| **`Generative Agents`** — Park et al., 2023 | **la memoria de experiencias de veinticinco agentes en un pueblo simulado, y la reflexión que saca de ellas** | **no.** se cita por su descripción de memoria, y no entra en las decisiones de este trabajo |
-| **`Voyager`** — Wang et al., 2023 · [arXiv:2305.16291](https://arxiv.org/abs/2305.16291) | **una biblioteca de habilidades ejecutables, que crece con la retroalimentación del entorno** | **no.** es un vecino, y no una fuente |
-| **`MemGPT` / `Letta`** — Packer et al., 2023 · [arXiv:2310.08560](https://arxiv.org/abs/2310.08560) | **una memoria jerárquica que el agente administra como un sistema operativo, para que el contexto alcance** | **no.** resuelve otro problema |
-| **`ExpeL`** — Zhao et al., 2023 · [arXiv:2308.10144](https://arxiv.org/abs/2308.10144) | **lecciones extraídas de sus trayectorias, recuperadas por parecido** | **no.** es un vecino, y no una fuente |
-| **`CLIN`** — Majumder et al., 2023 · [arXiv:2310.10134](https://arxiv.org/abs/2310.10134) | **memoria episódica que se actualiza entre episodios** | **no.** es un vecino, y no una fuente |
-| **`ReasoningBank`** — Ouyang et al., 2025 · [arXiv:2509.25140](https://arxiv.org/abs/2509.25140) · ICLR 2026 | **estrategias de razonamiento destiladas de experiencias que el agente juzgó buenas o malas** | **no como fuente: como referencia.** es el trabajo más cercano, y está aquí para que quien compare sepa dónde mirar |
-| **`WebATLAS`** — 2025 · [arXiv:2510.22732](https://arxiv.org/abs/2510.22732) | **memoria guiada por experiencia para navegar sitios nuevos** | **no.** es un vecino, y no una fuente |
+| `Reflexion` — Shinn et al., 2023 · [arXiv:2303.11366](https://arxiv.org/abs/2303.11366) | la auto-crítica verbal de cada intento fallido, y la lee en el siguiente intento | la crítica se consume en el intento siguiente: no queda como registro que otro pueda revisar |
+| `Generative Agents` — Park et al., 2023 | la memoria de experiencias de veinticinco agentes en un pueblo simulado, y la reflexión que saca de ellas | no. se cita por su descripción de memoria, y no entra en las decisiones de este trabajo |
+| `Voyager` — Wang et al., 2023 · [arXiv:2305.16291](https://arxiv.org/abs/2305.16291) | una biblioteca de habilidades ejecutables, que crece con la retroalimentación del entorno | no. es un vecino, y no una fuente |
+| `MemGPT` / `Letta` — Packer et al., 2023 · [arXiv:2310.08560](https://arxiv.org/abs/2310.08560) | una memoria jerárquica que el agente administra como un sistema operativo, para que el contexto alcance | no. resuelve otro problema |
+| `ExpeL` — Zhao et al., 2023 · [arXiv:2308.10144](https://arxiv.org/abs/2308.10144) | lecciones extraídas de sus trayectorias, recuperadas por parecido | no. es un vecino, y no una fuente |
+| `CLIN` — Majumder et al., 2023 · [arXiv:2310.10134](https://arxiv.org/abs/2310.10134) | memoria episódica que se actualiza entre episodios | no. es un vecino, y no una fuente |
+| `ReasoningBank` — Ouyang et al., 2025 · [arXiv:2509.25140](https://arxiv.org/abs/2509.25140) · ICLR 2026 | estrategias de razonamiento destiladas de experiencias que el agente juzgó buenas o malas | no como fuente: como referencia. es el trabajo más cercano, y está aquí para que quien compare sepa dónde mirar |
+| `WebATLAS` — 2025 · [arXiv:2510.22732](https://arxiv.org/abs/2510.22732) | memoria guiada por experiencia para navegar sitios nuevos | no. es un vecino, y no una fuente |
 
 Y lo que hay que decir de `ReasoningBank`, porque es lo más incómodo: es de 2025, es el trabajo que más se parece a éste, y su veredicto lo da un juez que el propio agente aplica. Lo que lo separa no es que guarde: es que aquí el veredicto sale de una prueba que se puede volver a correr, y que otro puede correr.
 
@@ -57,8 +57,8 @@ Y lo que hay que decir de `ReasoningBank`, porque es lo más incómodo: es de 20
 
 | Quién | Qué dice | Qué le falta |
 |---|---|---|
-| **`A Comprehensive Survey of Self-Evolving AI Agents`** — Fang et al., 2025 · [arXiv:2508.07407](https://arxiv.org/abs/2508.07407) | **ordena todo esto en cuatro piezas que se retroalimentan: entradas, sistema, entorno, optimizador** | **no como fuente: como mapa del campo** |
-| **`Externalization in LLM Agents`** — Zhou et al., 2026 · [arXiv:2604.08224](https://arxiv.org/abs/2604.08224) · 54 páginas | **el progreso no viene de cambiar los pesos, sino de mover la carga afuera: memoria, habilidades, protocolos, y el arnés que los coordina** | **describe la capa. no da forma concreta de lo que va adentro** |
+| `A Comprehensive Survey of Self-Evolving AI Agents` — Fang et al., 2025 · [arXiv:2508.07407](https://arxiv.org/abs/2508.07407) | ordena todo esto en cuatro piezas que se retroalimentan: entradas, sistema, entorno, optimizador | no como fuente: como mapa del campo |
+| `Externalization in LLM Agents` — Zhou et al., 2026 · [arXiv:2604.08224](https://arxiv.org/abs/2604.08224) · 54 páginas | el progreso no viene de cambiar los pesos, sino de mover la carga afuera: memoria, habilidades, protocolos, y el arnés que los coordina | describe la capa. no da forma concreta de lo que va adentro |
 
 Y el segundo le da nombre a lo que este repositorio hace: externalizar. Lo que aquí se llama ente es exactamente eso: la carga de recordar movida de la cabeza del modelo a un archivo que se puede abrir.
 
@@ -70,8 +70,8 @@ Y aquí está lo que más se acerca a lo que este trabajo llama falsificador.
 
 | Quién | Qué hace | ¿Se usa aquí? |
 |---|---|---|
-| **`SEVerA`** — Banerjee et al., 2026 · [arXiv:2603.25111](https://arxiv.org/abs/2603.25111) | **sintetiza agentes que se auto-mejoran y demuestra con lógica de primer orden que cada llamada cumple su contrato. cero violaciones en tres tareas** | **verifica la forma de lo que el agente produce, no lo que aprendió** |
-| **`Hack-Verifiable Environments`** — Roth et al., 2026 · [arXiv:2605.20744](https://arxiv.org/abs/2605.20744) | **mete trampas verificables en el entorno para medir cuándo un agente finge éxito** | **mide al agente contra el entorno; no mide si su registro le sirve a otro** |
+| `SEVerA` — Banerjee et al., 2026 · [arXiv:2603.25111](https://arxiv.org/abs/2603.25111) | sintetiza agentes que se auto-mejoran y demuestra con lógica de primer orden que cada llamada cumple su contrato. cero violaciones en tres tareas | verifica la forma de lo que el agente produce, no lo que aprendió |
+| `Hack-Verifiable Environments` — Roth et al., 2026 · [arXiv:2605.20744](https://arxiv.org/abs/2605.20744) | mete trampas verificables en el entorno para medir cuándo un agente finge éxito | mide al agente contra el entorno; no mide si su registro le sirve a otro |
 
 Y la diferencia con `SEVerA` es de fondo: él verifica lo que el programa produce. Aquí se exige que la regla traiga escrita la condición que la tumba, y que se vuelva a correr. No es un contrato de salida: es un contrato de aprendizaje.
 
@@ -81,8 +81,8 @@ Y la diferencia con `SEVerA` es de fondo: él verifica lo que el programa produc
 
 | Quién | Qué encuentra | ¿Se usa aquí? |
 |---|---|---|
-| **`Securing LLM-Agent Long-Term Memory Against Poisoning`** — Louck, 2026 · [arXiv:2606.24322](https://arxiv.org/abs/2606.24322) | **la memoria se puede envenenar, y las defensas que miran contenido o procedencia fallan hasta en el 68%** | **no.** protege de un atacante, y este trabajo mira el error propio |
-| **`Agent Memory Is a Surface for Endogenous Authorization Laundering`** — 2026 · [arXiv:2609.01836](https://arxiv.org/abs/2609.01836) | **la memoria guarda permisos, y corromperlos hace pasar por autorizado lo que no lo está** | **mira al atacante, y no al error propio** |
+| `Securing LLM-Agent Long-Term Memory Against Poisoning` — Louck, 2026 · [arXiv:2606.24322](https://arxiv.org/abs/2606.24322) | la memoria se puede envenenar, y las defensas que miran contenido o procedencia fallan hasta en el 68% | no. protege de un atacante, y este trabajo mira el error propio |
+| `Agent Memory Is a Surface for Endogenous Authorization Laundering` — 2026 · [arXiv:2609.01836](https://arxiv.org/abs/2609.01836) | la memoria guarda permisos, y corromperlos hace pasar por autorizado lo que no lo está | mira al atacante, y no al error propio |
 
 Y de aquí sale un campo que este trabajo tiene y casi ninguno de arriba: `quien_lo_corrigio`. Una fricción no se acepta sin él, porque un criterio sin autor es un criterio inventado, y un criterio inventado es un envenenamiento que se hizo uno mismo.
 
@@ -94,8 +94,8 @@ Y esto no es de agentes: es de economía del trabajo, y es el origen de la medic
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Cost-effectiveness analysis`** — el criterio de la relación entre lo que cuesta y lo que rinde | **un resultado que ignora sus intentos y sus correcciones no es un resultado: es el mejor de varios, escogido después** | **el CRE: intentos, más corrección, más verificación, dividido entre resultados verificados** |
-| **`Pre-registration y Registered Reports`** — [Nature Human Behaviour, 2021](https://www.nature.com/articles/s41562-021-01142-4) y [2023](https://www.nature.com/articles/s41562-022-01497-2) | **declarar antes qué se va a medir reduce el sesgo de reportar solo lo que salió** | **`Qué la tumba` antes de la evidencia, y el hecho escrito antes de saber si conviene** |
+| `Cost-effectiveness analysis` — el criterio de la relación entre lo que cuesta y lo que rinde | un resultado que ignora sus intentos y sus correcciones no es un resultado: es el mejor de varios, escogido después | el CRE: intentos, más corrección, más verificación, dividido entre resultados verificados |
+| `Pre-registration y Registered Reports` — [Nature Human Behaviour, 2021](https://www.nature.com/articles/s41562-021-01142-4) y [2023](https://www.nature.com/articles/s41562-022-01497-2) | declarar antes qué se va a medir reduce el sesgo de reportar solo lo que salió | `Qué la tumba` antes de la evidencia, y el hecho escrito antes de saber si conviene |
 
 Y lo que esto obliga, y es lo que la medición de talentos sostiene: la corrección no es un gasto aparte; es parte del costo. Un número que la deja fuera siempre sale mejor de lo que es.
 
@@ -107,9 +107,9 @@ El ensayo 06 y la metodología se apoyan en esto, y no es de agentes: es de inge
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Dijkstra`** — EWD249, 1970 | **las pruebas revelan la presencia de defectos, nunca su ausencia** | **el cero de una corrida no dice que el ensayo esté completo** |
-| **`Goodenough & Gerhart`**, 1975 · `Frankl & Weyuker`, 1988 · `DeMillo, Lipton & Sayward`, 1978 | **la adecuación de una prueba se mide por qué tanto puede matar** | **el mutante: si la corrida no lo nota, la regla no estaba probada** |
-| **`Mutation testing`** — de ahí en adelante | **una prueba que no puede fallar no prueba nada** | **los trece mutantes, uno por familia** |
+| `Dijkstra` — EWD249, 1970 | las pruebas revelan la presencia de defectos, nunca su ausencia | el cero de una corrida no dice que el ensayo esté completo |
+| `Goodenough & Gerhart`, 1975 · `Frankl & Weyuker`, 1988 · `DeMillo, Lipton & Sayward`, 1978 | la adecuación de una prueba se mide por qué tanto puede matar | el mutante: si la corrida no lo nota, la regla no estaba probada |
+| `Mutation testing` — de ahí en adelante | una prueba que no puede fallar no prueba nada | los trece mutantes, uno por familia |
 
 Y lo que este trabajo agrega al vocabulario: el mutante no se queda en la prueba; también se escribe en el ensayo. Una regla que no se puede contradecir no es una regla: es una opinión.
 
@@ -121,9 +121,9 @@ El ensayo 04 es de este campo, y el campo tiene nombre: artefactos cognitivos y 
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Literate programming`** — Knuth, 1984 | **un programa se escribe para que lo lea una persona, y el orden del texto no es el orden del código** | **el proceso se lee de corrido, aunque lo ejecute una máquina** |
-| **`Cognitive artifacts`** — Norman, 1991 | **hay objetos que hacen más fácil una tarea porque mueven la carga a algo que se puede mirar** | **esto es lo que `Externalization` retoma treinta y cinco años después** |
-| **`Notional machines`** — du Boulay, 1986, y Sorva, 2013 | **para entender un sistema se necesita un modelo de cómo se comporta, y no de cómo está hecho** | **el `Falla si` de cada proceso: dice desde dónde se rompe** |
+| `Literate programming` — Knuth, 1984 | un programa se escribe para que lo lea una persona, y el orden del texto no es el orden del código | el proceso se lee de corrido, aunque lo ejecute una máquina |
+| `Cognitive artifacts` — Norman, 1991 | hay objetos que hacen más fácil una tarea porque mueven la carga a algo que se puede mirar | esto es lo que `Externalization` retoma treinta y cinco años después |
+| `Notional machines` — du Boulay, 1986, y Sorva, 2013 | para entender un sistema se necesita un modelo de cómo se comporta, y no de cómo está hecho | el `Falla si` de cada proceso: dice desde dónde se rompe |
 
 Y ahí está lo que el ensayo 04 sostiene, y que es su propia tesis: la prosa supone un lector que duda; una máquina no duda de un texto, lo rellena. El proceso no es una forma más amable de escribir: es la única que un ejecutor no puede rellenar sin que se note.
 
@@ -135,9 +135,9 @@ Y esta parte es de diseño, y es de hoy.
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Style guides y plantillas rígidas`** | **cuando el formato es el estándar, la forma se vuelve el trabajo** | **lo que aquí se llama «la IA mató los estándares»** |
-| **`Norman`**, 2010 · *Living with Complexity | **el diseño no debe simplificar la tarea hasta que se pueda hacer sin pensar** | **la dirección da qué hacer; no da cómo se ve** |
-| **`Las tres direcciones`** — de este trabajo | **mantener, hacer un stack, y las dos carpetas que las usan** | **la consistencia no es de formato, es de forma** |
+| `Style guides y plantillas rígidas` | cuando el formato es el estándar, la forma se vuelve el trabajo | lo que aquí se llama «la IA mató los estándares» |
+| `Norman`, 2010 · *Living with Complexity | el diseño no debe simplificar la tarea hasta que se pueda hacer sin pensar | la dirección da qué hacer; no da cómo se ve |
+| `Las tres direcciones` — de este trabajo | mantener, hacer un stack, y las dos carpetas que las usan | la consistencia no es de formato, es de forma |
 
 Y lo que este trabajo sostiene, y se puede atacar: un estándar de presentación se puede cumplir sin entender nada. Una dirección, no: si no dice cuándo se corre, no es una dirección.
 
@@ -149,9 +149,9 @@ Y aquí está la parte incómoda: lo que este trabajo mide del trabajo de una IA
 
 | Quién | Qué mide | ¿Se usa aquí? |
 |---|---|---|
-| **`El que copia y no entiende`** — la literatura de integridad académica y detección de copia | **si alguien entregó algo que no puede explicar** | **el ensayo 13 lo toma tal cual: la señal de que no hubo talento no es el resultado, es no poder señalar el renglón** |
-| **`Evaluación por proceso y no por producto`** | **el rastro de cómo se llegó pesa más que el entregable** | **las dieciocho corridas, y el hecho con su frontera** |
-| **`Motivación intrínseca`** — Ryan & Deci, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/topics/application-intrinsic-motivation/) | **lo que se hace por la tarea y no por la recompensa de afuera se sostiene más** | **el ensayo 12: un método que automatiza el pensar es un consuelo, y lo que hacía falta era gente** |
+| `El que copia y no entiende` — la literatura de integridad académica y detección de copia | si alguien entregó algo que no puede explicar | el ensayo 13 lo toma tal cual: la señal de que no hubo talento no es el resultado, es no poder señalar el renglón |
+| `Evaluación por proceso y no por producto` | el rastro de cómo se llegó pesa más que el entregable | las dieciocho corridas, y el hecho con su frontera |
+| `Motivación intrínseca` — Ryan & Deci, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/topics/application-intrinsic-motivation/) | lo que se hace por la tarea y no por la recompensa de afuera se sostiene más | el ensayo 12: un método que automatiza el pensar es un consuelo, y lo que hacía falta era gente |
 
 Y lo que este trabajo agrega, y no es de ninguno de los tres: la medición no se hace sobre la respuesta, se hace sobre el registro. Y el registro lo puede mirar cualquiera, incluido el que hizo el trabajo.
 
@@ -161,10 +161,10 @@ Y lo que este trabajo agrega, y no es de ninguno de los tres: la medición no se
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Popper`** | **una afirmación que nada puede tumbar no es científica** | **`Qué la tumba` en cada afirmación, y `Falsificador` al final de cada ensayo** |
-| **`Lakatos`** | **un programa de investigación se juzga por lo que predice y no por lo que explica después** | **la regla de parada: dos corridas enteras seguidas sin hallazgos nuevos** |
-| **`Longino`** | **el conocimiento se corrige por la crítica de otros, y no por la introspección** | **`LIMITES.md`, y la razón por la que este trabajo no se revisó por nadie** |
-| **`La crítica a Popper`** — Duhem, Quine, y todo lo que viene después | **una observación nunca tumba una sola hipótesis: tumba el conjunto** | **por eso el registro tiene desenlaces y no veredictos aislados** |
+| `Popper` | una afirmación que nada puede tumbar no es científica | `Qué la tumba` en cada afirmación, y `Falsificador` al final de cada ensayo |
+| `Lakatos` | un programa de investigación se juzga por lo que predice y no por lo que explica después | la regla de parada: dos corridas enteras seguidas sin hallazgos nuevos |
+| `Longino` | el conocimiento se corrige por la crítica de otros, y no por la introspección | `LIMITES.md`, y la razón por la que este trabajo no se revisó por nadie |
+| `La crítica a Popper` — Duhem, Quine, y todo lo que viene después | una observación nunca tumba una sola hipótesis: tumba el conjunto | por eso el registro tiene desenlaces y no veredictos aislados |
 
 Y aquí está el límite más honesto de este documento: `Popper` no se cita con una página, porque es un programa y no un teorema. Y `Lakatos` tampoco. Lo que se toma de ellos es la forma, y la forma se puede usar mal: un falsificador escrito después de ver el resultado no falsifica nada.
 
@@ -176,10 +176,10 @@ Y esto es lo que el repositorio tiene de más raro, y también lo que más se le
 
 | Quién | Qué | Qué se toma |
 |---|---|---|
-| **`Wiki`** — [Van Looy et al., 2010](https://doi.org/10.1145/1964858.1964876) · [Stvilia et al.](https://myweb.fsu.edu/bstvilia/papers/qualWiki.pdf) | **una grafía sin autor central, que se mantiene por la discusión y no por la jerarquía** | **el índice con sus tres relaciones: contiene, asocia, supera** |
-| **`Bush`**, 1945 · el memex | **un índice que se arma por asociación y no por alfabeto** | **la relación «asocia», que no tiene padre** |
-| **`Milgram`**, 1967 · [el problema del mundo pequeño](https://en.wikipedia.org/wiki/Small-world_experiment) | **entre dos personas cualesquiera hay una cadena corta** | **el borde del tema no busca el camino largo: busca que haya uno** |
-| **`Google Knowledge Graph`**, 2012 | **las cosas con sus relaciones, y no los documentos con sus palabras** | **el tema como nodo, y la pieza como arista** |
+| `Wiki` — [Van Looy et al., 2010](https://doi.org/10.1145/1964858.1964876) · [Stvilia et al.](https://myweb.fsu.edu/bstvilia/papers/qualWiki.pdf) | una grafía sin autor central, que se mantiene por la discusión y no por la jerarquía | el índice con sus tres relaciones: contiene, asocia, supera |
+| `Bush`, 1945 · el memex | un índice que se arma por asociación y no por alfabeto | la relación «asocia», que no tiene padre |
+| `Milgram`, 1967 · [el problema del mundo pequeño](https://en.wikipedia.org/wiki/Small-world_experiment) | entre dos personas cualesquiera hay una cadena corta | el borde del tema no busca el camino largo: busca que haya uno |
+| `Google Knowledge Graph`, 2012 | las cosas con sus relaciones, y no los documentos con sus palabras | el tema como nodo, y la pieza como arista |
 
 Y lo que este trabajo agrega: el índice no sólo relaciona: se puede rearmar. Un índice que se tira y se vuelve a armar igual prueba que no dependía de cómo se escribió, y eso no lo pide ninguno de los de arriba.
 
@@ -189,10 +189,10 @@ Y lo que este trabajo agrega: el índice no sólo relaciona: se puede rearmar. U
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Topic models`** — Blei, Ng & Jordan, 2003; Blei, 2012 | **los temas salen de los datos, y no se ponen antes** | **el tema nace de la pieza, y no al revés** |
-| **`Chang et al.`**, 2009 · *Reading Tea Leaves* · [NIPS](https://proceedings.nips.cc/paper_files/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf) | **un modelo de temas que predice mejor puede ser menos interpretable, y hay que medir las dos cosas** | **un índice que gana en orden y pierde en que se pueda recorrer no sirve** |
-| **`Chang & Blei`**, 2009 · relational topic models | **los documentos se relacionan, y la relación es parte del modelo** | **la arista no es un adorno del nodo: es lo que hace que el índice sea un índice** |
-| **`Dendro`** — Greenland et al., 2015 · [PMC4415525](https://pmc.ncbi.nlm.nih.gov/articles/PMC4415525/) | **clasificar automáticamente tipos de células sin decidir antes cuántos tipos hay** | **lo más cerca que hay, fuera de este trabajo, de un índice que no supone la taxonomía** |
+| `Topic models` — Blei, Ng & Jordan, 2003; Blei, 2012 | los temas salen de los datos, y no se ponen antes | el tema nace de la pieza, y no al revés |
+| `Chang et al.`, 2009 · *Reading Tea Leaves* · [NIPS](https://proceedings.nips.cc/paper_files/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf) | un modelo de temas que predice mejor puede ser menos interpretable, y hay que medir las dos cosas | un índice que gana en orden y pierde en que se pueda recorrer no sirve |
+| `Chang & Blei`, 2009 · relational topic models | los documentos se relacionan, y la relación es parte del modelo | la arista no es un adorno del nodo: es lo que hace que el índice sea un índice |
+| `Dendro` — Greenland et al., 2015 · [PMC4415525](https://pmc.ncbi.nlm.nih.gov/articles/PMC4415525/) | clasificar automáticamente tipos de células sin decidir antes cuántos tipos hay | lo más cerca que hay, fuera de este trabajo, de un índice que no supone la taxonomía |
 
 ---
 
@@ -202,7 +202,7 @@ Y esta sección es nueva, y tapa el hueco más grande que tenía este documento:
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`Keeping an Eye on AI`** — Gaube et al., 2026 · [arXiv:2605.16278](https://arxiv.org/abs/2605.16278) · veinte autores, de un seminario de Dagstuhl | **que la supervisión humana de la IA no tiene arquitectura definida, ni roles claros, ni pasos de implementación. y proponen un marco, y una plantilla para documentarla** | **sí: es lo mismo que el ensayo 01 llama autoridad y frontera** |
+| `Keeping an Eye on AI` — Gaube et al., 2026 · [arXiv:2605.16278](https://arxiv.org/abs/2605.16278) · veinte autores, de un seminario de Dagstuhl | que la supervisión humana de la IA no tiene arquitectura definida, ni roles claros, ni pasos de implementación. y proponen un marco, y una plantilla para documentarla | sí: es lo mismo que el ensayo 01 llama autoridad y frontera |
 
 Y la diferencia, que hay que decir porque es la única que este trabajo puede reclamar: un marco de supervisión dice quién vigila. Un registro de desenlaces dice qué pasó. El primero se documenta; el segundo se vuelve a correr.
 
@@ -214,7 +214,7 @@ Y este ensayo citaba la complacencia de oído hasta hoy.
 
 | Quién | Qué dice | ¿Se usa aquí? |
 |---|---|---|
-| **`From Yes-Men to Truth-Tellers`** — Chen et al., ICML 2024 · [arXiv:2409.01658](https://arxiv.org/abs/2409.01658) | **que los modelos priorizan adherirse al pedido antes que contestar con verdad, y que al ser contradichos admiten un error y dan una respuesta falsa aunque antes hubieran dado la correcta** | **sí: es la definición exacta de lo que el ensayo 02 de `humanidad` llama complacencia** |
+| `From Yes-Men to Truth-Tellers` — Chen et al., ICML 2024 · [arXiv:2409.01658](https://arxiv.org/abs/2409.01658) | que los modelos priorizan adherirse al pedido antes que contestar con verdad, y que al ser contradichos admiten un error y dan una respuesta falsa aunque antes hubieran dado la correcta | sí: es la definición exacta de lo que el ensayo 02 de `humanidad` llama complacencia |
 
 Y su hallazgo es útil y acotado: menos del 5% de los módulos básicos bastan para mitigarla, sin dañar la capacidad general. O sea: la complacencia es un rasgo acotado, y no una propiedad de todo el modelo.
 
@@ -230,10 +230,10 @@ Y hay que decirlo, porque la máquina de sesgos y lo inexplicable no viven en el
 
 | Quién | Qué | Qué se toma |
 |---|---|---|
-| **`Weber`**, 1904 | **acercarse a lo que no se agota, y llamarlo así** | **la serie que no termina y el punto en que ya sirve** |
-| **`Blanchot`**, 1969 · [*The Infinite Conversation*](https://archive.org/details/infiniteconversa0000blan) | **una conversación que no se cierra porque cerrarla la terminaría** | **el registro que crece y no se completa** |
-| **`Arnheim`**, 1954 y 1991 | **la abstracción no es quitar detalle: es quedarse con lo que sostiene** | **la forma que se conserva cuando el resto se cae** |
-| **`El límite en cálculo`** | **una serie infinita con suma finita** | **«cuánto falta» como resta, no como sensación** |
+| `Weber`, 1904 | acercarse a lo que no se agota, y llamarlo así | la serie que no termina y el punto en que ya sirve |
+| `Blanchot`, 1969 · [*The Infinite Conversation*](https://archive.org/details/infiniteconversa0000blan) | una conversación que no se cierra porque cerrarla la terminaría | el registro que crece y no se completa |
+| `Arnheim`, 1954 y 1991 | la abstracción no es quitar detalle: es quedarse con lo que sostiene | la forma que se conserva cuando el resto se cae |
+| `El límite en cálculo` | una serie infinita con suma finita | «cuánto falta» como resta, no como sensación |
 
 Y el ensayo de la conciencia tampoco. Su campo es otro, y ya tiene su propio estado del arte adentro. Se dice aquí para no fingir que todo lo del repositorio cae en las mismas doce fuentes.
 
@@ -282,4 +282,4 @@ Y falta el renglón que importa: ninguna de estas fuentes la leyó el autor de e
 
 ---
 
-Falsificador: **un sistema, de la tabla o de fuera, que ya tenga registro con desenlaces y los vuelva a probar.** **O una comparación que muestre que el desenlace no cambia ninguna decisión.** **Si eso aparece, la tesis 2 se cae, y se dice dónde.**
+Falsificador: un sistema, de la tabla o de fuera, que ya tenga registro con desenlaces y los vuelva a probar. O una comparación que muestre que el desenlace no cambia ninguna decisión. Si eso aparece, la tesis 2 se cae, y se dice dónde.

@@ -43,9 +43,9 @@ Y lo que quedó como buena idea sin implementar, y se dice: que un mutante que m
 
 ## Dónde queda ahora
 
-- la jerarquía, que es la mitad que sirvió: [`metodo.md`](../../metodologia/sostiene/metodo.md) §VIII
-- lo que no se delega, y por qué: [`metodo.md`](../../metodologia/sostiene/metodo.md) §IX
-- el cuaderno original, con lo que se dijo al momento: [`la idea de los subagentes`](../../metodologia/historia/06%20-%20la%20idea%20de%20los%20subagentes.md)
+- la jerarquía, que es la mitad que sirvió: [metodo.md](../../metodologia/sostiene/metodo.md) §VIII
+- lo que no se delega, y por qué: [metodo.md](../../metodologia/sostiene/metodo.md) §IX
+- el cuaderno original, con lo que se dijo al momento: [la idea de los subagentes](../../metodologia/historia/06%20-%20la%20idea%20de%20los%20subagentes.md)
 
 ## Falsificador
 

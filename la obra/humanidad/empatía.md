@@ -196,8 +196,8 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Entender antes de actuar no es opcional | [`05 - 2026-11-05_153210`](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el casi se resolvió a gusto cuando no había a quién preguntar |
-| Preguntar en las palabras del otro | [`06 - FUENTE`](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | la pregunta sin jerga se pudo contestar; la otra, no |
+| Entender antes de actuar no es opcional | [05 - 2026-11-05_153210](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el casi se resolvió a gusto cuando no había a quién preguntar |
+| Preguntar en las palabras del otro | [06 - FUENTE](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | la pregunta sin jerga se pudo contestar; la otra, no |
 
 Y el límite, que este ensayo declara y sostiene: la prueba con una persona real no se ha corrido. Los dos casos se simularon, y se dice.
 

@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El octavo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El octavo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -80,7 +80,7 @@ Eso es exactamente lo que el ensayo promete: el índice se puede tirar y rearmar
 ## Lo que este mutante NO probó
 
 - No probó un rearmado que coincide y que igual está mal, porque la forma estaba mal. Ése es otro fallo, y no se detecta desde aquí.
-- **No probó el índice como grafo**, con las relaciones entre temas.
+- No probó el índice como grafo, con las relaciones entre temas.
 - Y no probó qué pasa cuando dos piezas caen en el mismo tema. Eso es el borde, y tiene su mutante.
 
 ---

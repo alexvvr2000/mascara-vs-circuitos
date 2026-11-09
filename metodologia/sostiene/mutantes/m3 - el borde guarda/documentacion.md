@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El tercero de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El tercero de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -81,9 +81,9 @@ El ensayo dice que un `y si duda` que no se consulta no es un borde, es un campo
 
 ## Lo que este mutante NO probó
 
-- **No probó `se pregunta`**, que es el tercer valor de `y si duda`. Ése no es un mutante: es un valor del ensayo que no se ejercitó.
+- No probó `se pregunta`, que es el tercer valor de `y si duda`. Ése no es un mutante: es un valor del ensayo que no se ejercitó.
 - No probó un casi que entra con un motivo escrito. Habría sido un borde que sí cierra, pero al revés: acepta con razón, y eso el ensayo no lo prohíbe.
-- **Y no probó dos casi a la vez**, que fue el hueco de la corrida 4.
+- Y no probó dos casi a la vez, que fue el hueco de la corrida 4.
 
 ---
 

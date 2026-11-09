@@ -71,7 +71,7 @@ Por criterio. El tema declara una condición que se puede probar sobre cada piez
 
 La regla: un tema sin borde no es un tema, es una intención. Y el borde no se puede dejar a la interpretación de quien pone la pieza: si dos personas leen el borde y clasifican distinto, el borde está mal escrito — el problema es del texto, no del que lo lee.
 
-Y un borde que no se puede correr no es un borde: es una intención con buena redacción. Cómo se escribe para que se pueda correr, con sus casos y su prueba, está en [`el borde del tema`](el%20borde%20del%20tema.md). Aquí basta la regla; allá está el mecanismo.
+Y un borde que no se puede correr no es un borde: es una intención con buena redacción. Cómo se escribe para que se pueda correr, con sus casos y su prueba, está en [el borde del tema](el%20borde%20del%20tema.md). Aquí basta la regla; allá está el mecanismo.
 
 ---
 
@@ -81,10 +81,10 @@ Un índice que no cambia es un índice muerto. Los cambios que importan son cuat
 
 | Operación | Qué pasa | Qué tiene que quedar escrito |
 |---|---|---|
-| **Dividir** | un tema se parte en dos | el tema original queda **superado**, no borrado, y los dos nuevos dicen de dónde salen |
-| **Fusionar** | dos temas se juntan en uno | los dos originales quedan superados, y el nuevo dice por qué |
-| **Descartar** | un tema deja de servir | se marca, con su razón; **no se borra**, porque el descarte también es una decisión |
-| **Injertar** | entra un tema nuevo | dice a quién contiene, con quién se asocia, y a quién supera si supera a alguno |
+| Dividir | un tema se parte en dos | el tema original queda superado, no borrado, y los dos nuevos dicen de dónde salen |
+| Fusionar | dos temas se juntan en uno | los dos originales quedan superados, y el nuevo dice por qué |
+| Descartar | un tema deja de servir | se marca, con su razón; no se borra, porque el descarte también es una decisión |
+| Injertar | entra un tema nuevo | dice a quién contiene, con quién se asocia, y a quién supera si supera a alguno |
 
 Y una regla sobre el cambio: el que cambia el índice tiene que decir qué se pierde con el cambio. Todo cambio pierde algo. Un cambio que no puede nombrar su pérdida no fue un cambio: fue una sustitución.
 
@@ -115,10 +115,10 @@ Y las cuatro operaciones que cambian el índice, cada una con lo que tiene que d
 
 | Operación | Qué tiene que quedar |
 |---|---|
-| **abrir** | el tema nace con su borde y su fecha. **Sin borde no se abre** |
-| **relacionar** | el tipo y la fecha. **No se relaciona un tema consigo mismo** |
-| **superar** | quién a quién, cuándo, por qué, y **qué se pierde**. El viejo no se borra |
-| **descartar** | la razón. **Se marca, no se borra: el descarte también es una decisión** |
+| abrir | el tema nace con su borde y su fecha. Sin borde no se abre |
+| relacionar | el tipo y la fecha. No se relaciona un tema consigo mismo |
+| superar | quién a quién, cuándo, por qué, y qué se pierde. El viejo no se borra |
+| descartar | la razón. Se marca, no se borra: el descarte también es una decisión |
 
 Y lo que NO es una operación: borrar un tema. Un tema superado o descartado sigue ahí, con su fecha y su motivo, porque lo que ya no se usa es lo que dice qué se pensaba.
 
@@ -222,9 +222,9 @@ Este ensayo propone una inversión de una práctica que ya existe. Lo que antece
 
 | Fuente | Qué dice | Qué toma de ahí este ensayo |
 |---|---|---|
-| **Han, Y. et al. (2024).** *Retrieval-Augmented Generation with Graphs (GraphRAG).* arXiv. | Construye un grafo de entidades y comunidades **a partir del corpus**, y lo usa para recuperar. | **El antecedente de la práctica:** el grafo como derivado del texto. |
-| **Gupta, S., Ranjan, R., & Singh, S. N. (2024).** *A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions.* arXiv:2410.12837. | El estado del arte de la recuperación aumentada: cómo se recupera y cómo se genera. | **El marco general** en el que esta idea se sitúa. |
-| **Oche, A. J. et al. (2025).** *A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions.* arXiv. | Revisión sistemática de los sistemas de RAG y de los huecos que quedan. | **Los huecos**: lo que todavía no está resuelto en el área. |
+| Han, Y. et al. (2024). *Retrieval-Augmented Generation with Graphs (GraphRAG).* arXiv. | Construye un grafo de entidades y comunidades a partir del corpus, y lo usa para recuperar. | El antecedente de la práctica: el grafo como derivado del texto. |
+| Gupta, S., Ranjan, R., & Singh, S. N. (2024). *A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions.* arXiv:2410.12837. | El estado del arte de la recuperación aumentada: cómo se recupera y cómo se genera. | El marco general en el que esta idea se sitúa. |
+| Oche, A. J. et al. (2025). *A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions.* arXiv. | Revisión sistemática de los sistemas de RAG y de los huecos que quedan. | Los huecos: lo que todavía no está resuelto en el área. |
 
 Y la diferencia, que es lo que este ensayo aporta: lo que está publicado construye el grafo desde el texto; este ensayo propone lo contrario: el grafo manda, y el texto se deriva.
 
@@ -242,37 +242,37 @@ Lo que este ensayo NO hace: no se presenta como un resultado que reemplace a los
 
 ### Abrir un tema
 
-**Se corre:** cuando entra algo que no cae en ningún tema vigente, y no antes.
-**Entra:** el nombre del tema y su borde, con sus tres partes: quién evalúa, qué entra y qué no entra.
-**Sale:** el tema, con su fecha de nacimiento.
-**Lo consume:** el paso 2 del ciclo, que recorre el grafo.
+Se corre: cuando entra algo que no cae en ningún tema vigente, y no antes.
+Entra: el nombre del tema y su borde, con sus tres partes: quién evalúa, qué entra y qué no entra.
+Sale: el tema, con su fecha de nacimiento.
+Lo consume: el paso 2 del ciclo, que recorre el grafo.
 La búsqueda: se busca en los temas vigentes si alguno ya lo cubre. Si lo cubre, no se abre otro.
-**Y si no encuentra:** si no hay tema que cubra la pieza, se abre uno nuevo, y se dice que el índice creció.
-**Falla si:** se abre un tema sin borde, o se abre uno que ya existe con otro nombre.
+Y si no encuentra: si no hay tema que cubra la pieza, se abre uno nuevo, y se dice que el índice creció.
+Falla si: se abre un tema sin borde, o se abre uno que ya existe con otro nombre.
 Falsificador: un tema sin borde presentado como tema: es una intención, y se traga lo que no encaja.
 Y qué se pierde si cambia: sin borde, el tema no se puede consultar, y el índice se vuelve un cajón de sastre.
 
 ### Relacionar dos temas
 
-**Se corre:** cuando dos temas se tocan sin que uno contenga al otro, y se ve.
-**Entra:** los dos temas, y el tipo de relación: contiene, asocia, o supera.
-**Sale:** la relación con su fecha.
-**Lo consume:** la consulta del índice, que recorre por aristas y no por palabras.
+Se corre: cuando dos temas se tocan sin que uno contenga al otro, y se ve.
+Entra: los dos temas, y el tipo de relación: contiene, asocia, o supera.
+Sale: la relación con su fecha.
+Lo consume: la consulta del índice, que recorre por aristas y no por palabras.
 La búsqueda: se mira si ya existe la relación antes de crearla.
-**Y si no encuentra:** si no hay relación que declarar, no se crea. Un tema solo es un tema, no un nodo huérfano.
-**Falla si:** se relaciona un tema consigo mismo, o se crea una relación que se puede expresar con las tres.
+Y si no encuentra: si no hay relación que declarar, no se crea. Un tema solo es un tema, no un nodo huérfano.
+Falla si: se relaciona un tema consigo mismo, o se crea una relación que se puede expresar con las tres.
 Falsificador: un índice con más de tres tipos de relación sin justificar la cuarta.
 Y qué se pierde si cambia: sin las aristas, el índice deja de ser un grafo y pasa a ser una lista, y no se puede preguntar por dónde se llega de un tema a otro.
 
 ### Superar un tema
 
-**Se corre:** cuando un tema deja de mandar, porque se partió, se fusionó, o cambió.
-**Entra:** el tema viejo, el nuevo, la fecha, la razón, y qué se pierde con el cambio.
-**Sale:** la supersesión, y el viejo marcado, sin borrarse.
-**Lo consume:** quien lea el índice dentro de un año, y el paso 2, que sólo recorre los vigentes.
+Se corre: cuando un tema deja de mandar, porque se partió, se fusionó, o cambió.
+Entra: el tema viejo, el nuevo, la fecha, la razón, y qué se pierde con el cambio.
+Sale: la supersesión, y el viejo marcado, sin borrarse.
+Lo consume: quien lea el índice dentro de un año, y el paso 2, que sólo recorre los vigentes.
 La búsqueda: se busca qué reportaba el tema viejo, para poder decir qué deja de caber.
-**Y si no encuentra:** si no se puede nombrar qué se pierde, no fue un cambio: fue una sustitución, y no se hace.
-**Falla si:** el tema viejo se borra, o la supersesión no lleva su qué se pierde.
+Y si no encuentra: si no se puede nombrar qué se pierde, no fue un cambio: fue una sustitución, y no se hace.
+Falla si: el tema viejo se borra, o la supersesión no lleva su qué se pierde.
 Falsificador: una supersesión sin pérdida nombrada; y un tema viejo que ya no está, porque entonces el cambio no se puede auditar.
 Y qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no se puede decir qué se pensaba cuando se pensó.
 
@@ -292,11 +292,11 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El casi hay que alcanzarlo, o el borde no sirve | [`ente 3`](../../metodologia/huecos/corridas/03%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
-| Hay un cuarto sitio: no es de este tema | [`ente 4`](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
-| Dos temas que dudan no se resuelven eligiendo uno | [`ente 4`](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
-| El tema de persona se resuelve en lista de espera | [`ente 2`](../../metodologia/huecos/corridas/02%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
-| El solapamiento se mira antes que lo demás | [`ente 9`](../../metodologia/huecos/corridas/09%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
+| El casi hay que alcanzarlo, o el borde no sirve | [ente 3](../../metodologia/huecos/corridas/03%20-%20PIEDRA/) | un `y si duda` que se guarda y nunca se consulta |
+| Hay un cuarto sitio: no es de este tema | [ente 4](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el medio se usaba para dos cosas, y una no era duda |
+| Dos temas que dudan no se resuelven eligiendo uno | [ente 4](../../metodologia/huecos/corridas/04%20-%20CANTERA/) | el código atendió el primero y calló el segundo |
+| El tema de persona se resuelve en lista de espera | [ente 2](../../metodologia/huecos/corridas/02%20-%20VARA/) | un tema de persona que se tragaba todo lo que no encajaba |
+| El solapamiento se mira antes que lo demás | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | el orden invertido tapó un solapamiento con un «no sé» |
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

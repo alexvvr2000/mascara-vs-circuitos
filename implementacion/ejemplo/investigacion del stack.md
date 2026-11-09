@@ -18,13 +18,13 @@ Y los eventos durables son estos, con lo que trae cada uno:
 
 | El evento | Qué trae |
 |---|---|
-| **`turn/start` · `turn/end`** | **el turno, y por qué terminó** |
-| **`step/start` · `step/end`** | **el paso: una petición y sus herramientas** |
-| **`user/message`** | **lo que entró, con su fuente** |
-| **`assistant/message`** | **lo que salió, y su uso de tokens en el mismo evento** |
-| **`assistant/attempt`** | **el intento fallido, guardado sin ensuciar el historial** |
-| **`tool/call` · `tool/result`** | **la herramienta, sus argumentos sin parsear, y su resultado** |
-| **`request/header`** | **el proveedor, el modelo, y las herramientas de esa petición** |
+| `turn/start` · `turn/end` | el turno, y por qué terminó |
+| `step/start` · `step/end` | el paso: una petición y sus herramientas |
+| `user/message` | lo que entró, con su fuente |
+| `assistant/message` | lo que salió, y su uso de tokens en el mismo evento |
+| `assistant/attempt` | el intento fallido, guardado sin ensuciar el historial |
+| `tool/call` · `tool/result` | la herramienta, sus argumentos sin parsear, y su resultado |
+| `request/header` | el proveedor, el modelo, y las herramientas de esa petición |
 
 Y lo que esto significa para el ente: el «hecho» no hay que capturarlo: hay que cerrarlo. Lo que el motor no sabe es qué significa lo que pasó. Eso es lo que aporta el ente.
 
@@ -51,10 +51,10 @@ Y esto es lo más aprovechable de todo el motor. Hay cuatro puntos donde se pued
 
 | El punto | Qué decide | Para qué lo usa un ente |
 |---|---|---|
-| **`tools/pre-execute`** | **dejar, negar, cancelar, o pedir permiso** | **la frontera: una herramienta que el ente no debe usar sin firma** |
-| **`tools/post-execute`** | **aceptar, reemplazar o bloquear un resultado** | **la corrección: si la herramienta devolvió basura, se bloquea y el modelo ve por qué** |
-| **`tools/execute`** | **envolver la llamada: tiempo, reintentos, métricas** | **medición de talento: cuánto costó cada llamada** |
-| **`tools/result`** | **observar el resultado final, sin poder cambiarlo** | **el registro: apuntar sin poder mentir sobre lo que pasó** |
+| `tools/pre-execute` | dejar, negar, cancelar, o pedir permiso | la frontera: una herramienta que el ente no debe usar sin firma |
+| `tools/post-execute` | aceptar, reemplazar o bloquear un resultado | la corrección: si la herramienta devolvió basura, se bloquea y el modelo ve por qué |
+| `tools/execute` | envolver la llamada: tiempo, reintentos, métricas | medición de talento: cuánto costó cada llamada |
+| `tools/result` | observar el resultado final, sin poder cambiarlo | el registro: apuntar sin poder mentir sobre lo que pasó |
 
 Y la regla que hace esto serio: `ctx.tools.guard()` es una negación definitiva que ninguna capa de arriba puede deshacer. Un ente puede tener una regla que ni él mismo puede saltarse.
 
@@ -135,16 +135,16 @@ Instalado: `0.2.0`. Y probado con lo que el ente necesita de verdad.
 
 | La prueba | La salida |
 |---|---|
-| **escribir con parámetros** | **sí: `db.execute("CREATE (t:Tema {nombre: $n})", {"n": ...})`** |
-| **leer el criterio** | **sí: `MATCH (h:Hecho)-[:TUVIERON]->(f)-[:TUVIERON]->(d) RETURN ...`** |
-| **recorrer el índice** | **sí: `-[:ASOCIA*1..2]->`** |
-| **`shortestPath`** | **sí: devuelve `saltos: 1`** |
-| **`MERGE` de nodo** | **sí: tres veces el mismo tema, y uno solo queda** |
-| **`MERGE` de arista** | **sí: tres veces la misma relación, y una sola queda** |
-| **`UNWIND` para escribir en lote** | **sí, y es cinco veces más rápido** |
-| **respaldo de un archivo** | **sí: `db.snapshot_to(ruta)`** |
-| **índice de propiedad** | **sí, y el plan lo usa: `IndexLookup` en vez de escaneo** |
-| **índice de texto completo** | **sí: `tx.create_fulltext_index`** |
+| escribir con parámetros | sí: `db.execute("CREATE (t:Tema {nombre: $n})", {"n": ...})` |
+| leer el criterio | sí: `MATCH (h:Hecho)-[:TUVIERON]->(f)-[:TUVIERON]->(d) RETURN ...` |
+| recorrer el índice | sí: `-[:ASOCIA*1..2]->` |
+| `shortestPath` | sí: devuelve `saltos: 1` |
+| `MERGE` de nodo | sí: tres veces el mismo tema, y uno solo queda |
+| `MERGE` de arista | sí: tres veces la misma relación, y una sola queda |
+| `UNWIND` para escribir en lote | sí, y es cinco veces más rápido |
+| respaldo de un archivo | sí: `db.snapshot_to(ruta)` |
+| índice de propiedad | sí, y el plan lo usa: `IndexLookup` en vez de escaneo |
+| índice de texto completo | sí: `tx.create_fulltext_index` |
 
 ## Y lo que NO hay, y cambia el diseño
 
@@ -181,9 +181,9 @@ La base del ente tal como está hoy es SQLite, y eso tiene dos cosas que `graphd
 
 | | `sqlite` | `graphdblite` |
 |---|---|---|
-| **constraints y validación** | **sí: `CHECK`, `UNIQUE`, `NOT NULL`, y el esquema rechaza** | **no** |
-| **recorrido de varias relaciones** | **a mano, con `WITH RECURSIVE`** | **una línea de Cypher** |
-| **la consulta «por dónde se llega»** | **se escribe** | **`shortestPath`** |
+| constraints y validación | sí: `CHECK`, `UNIQUE`, `NOT NULL`, y el esquema rechaza | no |
+| recorrido de varias relaciones | a mano, con `WITH RECURSIVE` | una línea de Cypher |
+| la consulta «por dónde se llega» | se escribe | `shortestPath` |
 
 Y la decisión, dicha como es: el ensayo 07 pide grafo, y `graphdblite` da grafo. El ensayo 05 pide que el esquema rechace, y `graphdblite` no rechaza. Así que si se usa `graphdblite`, la validación del ensayo 05 se mueve al script. Si se usa SQLite, la validación está en la base y el recorrido se escribe a mano.
 
@@ -222,4 +222,4 @@ Y lo que sí se probó, se probó con la salida a la vista.
 
 ---
 
-Falsificador: **un skill con el frontmatter escrito que el motor no lista; un hook que no niega lo que dice negar; o un recorrido en `graphdblite` que tarda lo mismo que escanear a mano.** **Ninguno de los tres se probó aquí.**
+Falsificador: un skill con el frontmatter escrito que el motor no lista; un hook que no niega lo que dice negar; o un recorrido en `graphdblite` que tarda lo mismo que escanear a mano. Ninguno de los tres se probó aquí.

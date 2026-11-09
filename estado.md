@@ -1,10 +1,10 @@
 # El piso del repositorio
 
-**Qué hay, dónde está y en qué estado, para que quien llegue a pulir no tenga que adivinar.**
+Qué hay, dónde está y en qué estado, para que quien llegue a pulir no tenga que adivinar.
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Del 2026-11-09.**
+Alejandro Valenzuela Rivera · `TESTIGO`. Del 2026-11-09.
 
-> **Este archivo no se mantiene a mano: se genera.** **`python scripts/piso.py` lo saca del repositorio cada vez que se corre, y la versión que está aquí abajo es la que salió hoy.** **Si alguien cambia una carpeta y no vuelve a correrlo, este archivo envejece, y por eso la fuente es el comando y no el texto.**
+> Este archivo no se mantiene a mano: se genera. `python scripts/piso.py` lo saca del repositorio cada vez que se corre, y la versión que está aquí abajo es la que salió hoy. Si alguien cambia una carpeta y no vuelve a correrlo, este archivo envejece, y por eso la fuente es el comando y no el texto.
 
 ---
 
@@ -84,7 +84,7 @@ los enlaces                  todos resuelven
 los títulos                  todos dicen de qué habla el archivo
 ```
 
-**Y lo que el build no garantiza, y se dice:** **que el texto sea verdad.** **Para eso están los falsificadores y las corridas, y ninguno de los dos se corre con un comando.**
+Y lo que el build no garantiza, y se dice: que el texto sea verdad. Para eso están los falsificadores y las corridas, y ninguno de los dos se corre con un comando.
 
 ---
 
@@ -102,7 +102,7 @@ escritura en procesos      es un ensayo de método disfrazado de paso: 28 mil
 los trece mutantes         se re-apuntan una vez, cuando el ciclo se parta
 ```
 
-**Y lo que no está en la fila, porque se termina en el pulido:** **la forma de proceso en `el piso` y en `escritura en procesos`, y el `02` como mapa.** **Se hacen con el texto delante, y no antes.**
+Y lo que no está en la fila, porque se termina en el pulido: la forma de proceso en `el piso` y en `escritura en procesos`, y el `02` como mapa. Se hacen con el texto delante, y no antes.
 
 ---
 
@@ -119,10 +119,10 @@ la historia                  se lee como una cadena, y el último de antes de
                              hoy no es el de las ideas de los agentes
 ```
 
-**Y todo eso se hizo sin perder el historial:** **los renombrados son movimientos de git, y el contenido de la historia no cambió.**
+Y todo eso se hizo sin perder el historial: los renombrados son movimientos de git, y el contenido de la historia no cambió.
 
 ---
 
 ## Falsificador
 
-**Un piso que no se puede volver a sacar con un comando**; **uno que dice «todo bien» cuando algún enlace está roto**; **y uno que promete que falta «poco», cuando lo que falta es una decisión y no un archivo.**
+Un piso que no se puede volver a sacar con un comando; uno que dice «todo bien» cuando algún enlace está roto; y uno que promete que falta «poco», cuando lo que falta es una decisión y no un archivo.

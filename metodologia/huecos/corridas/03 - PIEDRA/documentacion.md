@@ -84,4 +84,4 @@ Las dos fricciones de este ente, sin desenlace. El casi inalcanzable y el cajón
 
 ¿El «casi» se alcanza desde el flujo normal, o sigue siendo inalcanzable? ¿El borde hace lo que dijo que haría cuando una pieza llega al medio?
 
-Falsificador: un «casi» que se puede escribir y no se puede llegar a él; **y un borde cuyo mecanismo sólo funciona en el ejemplo del ensayo.**
+Falsificador: un «casi» que se puede escribir y no se puede llegar a él; y un borde cuyo mecanismo sólo funciona en el ejemplo del ensayo.

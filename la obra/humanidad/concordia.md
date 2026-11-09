@@ -6,7 +6,7 @@ Por qué este trabajo alinea con la concordia y no con la moral, y qué se gana 
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído [`empatía`](empat%C3%ADa.md), porque esto es lo que pasa cuando los tres renglones de allí se cumplen. Y conviene haber leído [`máquina de sesgos`](medir%20sin%20preguntarle.md), porque éste se apoya en lo que aquel deja abierto.
+> Antes de leer. Conviene haber leído [empatía](empat%C3%ADa.md), porque esto es lo que pasa cuando los tres renglones de allí se cumplen. Y conviene haber leído [máquina de sesgos](medir%20sin%20preguntarle.md), porque éste se apoya en lo que aquel deja abierto.
 >
 > Al terminar sabrás qué criterio se usa aquí para decidir qué se sostiene, y qué lo tumba.
 
@@ -48,7 +48,7 @@ Y la diferencia con la moral, en una línea: la moral dice qué está bien. La c
 
 Esto es lo que ordena el ensayo, y sin ello la concordia sería una palabra bonita.
 
-El ensayo [`empatía`](empat%C3%ADa.md) pide tres renglones antes de ejecutar nada:
+El ensayo [empatía](empat%C3%ADa.md) pide tres renglones antes de ejecutar nada:
 
 ```plaintext
 1. lo que entendí, en palabras del otro
@@ -69,7 +69,7 @@ Y por eso la frase que lo resume es la del que pide: no quiero X, quiero Y. Y de
 Y esto hay que decirlo, porque es donde este ensayo podría tumbar a los otros.
 
 La concordia pregunta: ¿esto es lo que el otro quiere, o lo que se supuso que quería?
-El borde del tema pregunta: **¿esta pieza es de este tema, o no?**
+El borde del tema pregunta: ¿esta pieza es de este tema, o no?
 
 Son dos preguntas, y no compiten porque van en pasos distintos:
 
@@ -100,7 +100,7 @@ La forma que toma en el ciclo ya está escrita: `no está en el piso: me falta [
 
 ## VI. Por qué el ente no necesita ego para esto
 
-Un ego aquí no es un reproche moral: es un modo de fallo, y está definido en [`qué es un ente`](../funcionamiento%20ente/que%20es%20un%20ente.md). Es defender una postura porque es mía, y no porque aguanta.
+Un ego aquí no es un reproche moral: es un modo de fallo, y está definido en [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md). Es defender una postura porque es mía, y no porque aguanta.
 
 Y un ente con concordia no tiene nada que defender. No tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.
 
@@ -206,7 +206,7 @@ Y la razón es la de todo el ensayo: para entender a alguien no basta el otro, n
 
 Y el límite, porque no todo es colaborar: escuchar una pregunta que una máquina hace no es darte por entendido por ella. Entender es condición, no garantía. Y por eso el ente pregunta, y no afirma.
 
-Falsificador: **una burla que ataca a la persona y no al salto**; **una cita de ficción que se presenta como dato**; **una frase modificada que no dice que es una modificación, o que se usa como si fuera el original**; **y un ensayo que cambia «la concordia» por «que nos lleven».** **Y el más probable: reírse del salto y no poder decir, con nombre, qué mecanismo lo produciría de verdad.**
+Falsificador: una burla que ataca a la persona y no al salto; una cita de ficción que se presenta como dato; una frase modificada que no dice que es una modificación, o que se usa como si fuera el original; y un ensayo que cambia «la concordia» por «que nos lleven». Y el más probable: reírse del salto y no poder decir, con nombre, qué mecanismo lo produciría de verdad.
 
 ---
 
@@ -214,12 +214,12 @@ Falsificador: **una burla que ataca a la persona y no al salto**; **una cita de 
 
 | Lo que el ensayo afirma | Dónde se sostiene |
 |---|---|
-| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [`máquina de sesgos`](medir%20sin%20preguntarle.md) distingue el criterio del sesgo, y [`qué es un ente`](../funcionamiento%20ente/que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
-| La concordia es el resultado de la empatía, y no un valor aparte | [`empatía`](empat%C3%ADa.md), y sus tres renglones |
-| La concordia tiene que decir qué falta, y no decir que sí | [`el piso`](../funcionamiento%20ente/el%20piso.md), que reemplaza «no pude» por qué falta |
-| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [`qué es un ente`](../funcionamiento%20ente/que%20es%20un%20ente.md), y [`conciencia`](lo%20que%20esta%20fuera.md) |
+| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [máquina de sesgos](medir%20sin%20preguntarle.md) distingue el criterio del sesgo, y [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
+| La concordia es el resultado de la empatía, y no un valor aparte | [empatía](empat%C3%ADa.md), y sus tres renglones |
+| La concordia tiene que decir qué falta, y no decir que sí | [el piso](../funcionamiento%20ente/el%20piso.md), que reemplaza «no pude» por qué falta |
+| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md), y [conciencia](lo%20que%20esta%20fuera.md) |
 
-Y lo que esta tabla no dice, que también es un dato: este ensayo no tiene una corrida que lo respalde. No afirma cómo funciona un ente, y por eso no se puede romper a propósito. Es el segundo de la obra que va sin corrida, después de [`máquina de sesgos`](medir%20sin%20preguntarle.md).
+Y lo que esta tabla no dice, que también es un dato: este ensayo no tiene una corrida que lo respalde. No afirma cómo funciona un ente, y por eso no se puede romper a propósito. Es el segundo de la obra que va sin corrida, después de [máquina de sesgos](medir%20sin%20preguntarle.md).
 
 ---
 
@@ -244,13 +244,13 @@ Infinity War        película de Marvel Studios, 2018. la frase del cierre es
                     línea original no se reproduce
 ```
 
-Y la regla que sigue este ensayo, que es la misma de [`conciencia`](lo%20que%20esta%20fuera.md): la ficción se usa como argumento y se cita con atribución, sin reproducir más de lo necesario. Si alguien opina que un resumen ya es demasiado, se retira la referencia, y lo que sostiene el ensayo no cambia: la burla es al salto, y el salto no necesita que se nombre ninguna serie.
+Y la regla que sigue este ensayo, que es la misma de [conciencia](lo%20que%20esta%20fuera.md): la ficción se usa como argumento y se cita con atribución, sin reproducir más de lo necesario. Si alguien opina que un resumen ya es demasiado, se retira la referencia, y lo que sostiene el ensayo no cambia: la burla es al salto, y el salto no necesita que se nombre ninguna serie.
 
 Y lo que esto no es: no es una crítica a las personas que trabajan en alineación. Es una crítica al paso que dan sin mecanismo. Si alguien puede decir, con nombre, cómo de algo humano sale algo que ya no lo es, este ensayo se equivoca, y se cae.
 
 ---
 
-Falsificador: **un ente que, con la concordia por criterio, acepta algo que la autoridad habría prohibido** — **ahí la concordia sería complacencia con otro nombre**; **y su contrario: un ente que, con la concordia por criterio, deja de decir qué falta, y contesta que sí a lo que no se puede.**
+Falsificador: un ente que, con la concordia por criterio, acepta algo que la autoridad habría prohibido — ahí la concordia sería complacencia con otro nombre; y su contrario: un ente que, con la concordia por criterio, deja de decir qué falta, y contesta que sí a lo que no se puede.
 
 ---
 

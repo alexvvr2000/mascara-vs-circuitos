@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El cuarto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+El cuarto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [corridas.md](../../corridas.md).
 
 Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
@@ -81,7 +81,7 @@ Y eso es lo que hace dañino al sesgo no declarado: el trabajo sale igual, y el 
 ## Lo que este mutante NO probó
 
 - No probó dos modelos del mismo origen contados como dos fuentes, que es otro renglón del falsificador del ensayo.
-- **No probó el relleno** —el que afirma sin abrir— como comportamiento. Lo puso como dato de entrada, no como cosa que el ente haga.
+- No probó el relleno —el que afirma sin abrir— como comportamiento. Lo puso como dato de entrada, no como cosa que el ente haga.
 - Y no probó si el ente, con el sesgo bien declarado, se comporta distinto. Eso no es la regla: la regla es declararlo.
 
 ---

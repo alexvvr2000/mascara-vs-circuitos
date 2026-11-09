@@ -213,12 +213,12 @@ Y por eso el proceso tiene los renglones que tiene, y no otros:
 
 | El renglón | Lo que le dice a la IA |
 |---|---|
-| **cuándo se corre** | **en qué momento, y no "cuando haga falta"** |
-| **qué entra** | **con qué cuenta, y qué la deja sin poder correr** |
-| **qué sale** | **qué produce, y quién lo recibe** |
-| **y si no encuentra** | **qué hace cuando no hay. es el renglón que más se rellena** |
-| **falla si** | **cómo se sabe que se incumplió** |
-| **falsificador** | **qué la tumba, aunque la forma esté bien** |
+| cuándo se corre | en qué momento, y no "cuando haga falta" |
+| qué entra | con qué cuenta, y qué la deja sin poder correr |
+| qué sale | qué produce, y quién lo recibe |
+| y si no encuentra | qué hace cuando no hay. es el renglón que más se rellena |
+| falla si | cómo se sabe que se incumplió |
+| **falsificador** | qué la tumba, aunque la forma esté bien |
 
 Y sin estos renglones, una IA no falla por no ser capaz: falla por no haber recibido la dirección. Rellena el hueco con lo que parece razonable, y lo razonable no es lo pedido.
 
@@ -230,9 +230,9 @@ Un repositorio con un método adentro tiene que dar tres direcciones distintas, 
 
 | La dirección | Para quién | Qué dice |
 |---|---|---|
-| **mantener el repo** | **quien se queda con él, y sigue corriendo ciclos** | **dónde se apunta cada cosa, cuándo se para, y cuándo un ciclo encontró algo de verdad** |
-| **hacer un stack** | **quien llega con sus propias herramientas** | **cómo se cambia una pieza por otra, y cómo se sabe que el cambio funcionó** |
-| **y las dos carpetas que las usan** | **un ejemplo probado, y un manual para construir el propio** | **el ejemplo trae un stack que ya funciona; el manual dice cómo hacer el propio desde ahí** |
+| mantener el repo | quien se queda con él, y sigue corriendo ciclos | dónde se apunta cada cosa, cuándo se para, y cuándo un ciclo encontró algo de verdad |
+| hacer un stack | quien llega con sus propias herramientas | cómo se cambia una pieza por otra, y cómo se sabe que el cambio funcionó |
+| y las dos carpetas que las usan | un ejemplo probado, y un manual para construir el propio | el ejemplo trae un stack que ya funciona; el manual dice cómo hacer el propio desde ahí |
 
 Y la consistencia que exigen no es de formato: es de forma. Las tres se escriben en proceso, y ninguna impone una plantilla.
 
@@ -302,7 +302,7 @@ Y la regla que la hace servir: lo que se inventa es del proceso, no de lo que se
 
 Y una corrida no vale por pedazos: levantar solo el paso que se prueba ahorra tiempo y pierde la prueba, porque lo que más se rompe son las costuras entre un paso y el siguiente.
 
-Falsificador de esta sección: un proceso que se presenta como probado y no tiene su mutante; **un mutante que sobrevive y no se apunta**; y una corrida que se recortó para que saliera limpia.
+Falsificador de esta sección: un proceso que se presenta como probado y no tiene su mutante; un mutante que sobrevive y no se apunta; y una corrida que se recortó para que saliera limpia.
 
 ---
 
@@ -321,7 +321,7 @@ Decir "las cinco preguntas" no basta: si la forma no está escrita, cada quien p
 ```plaintext
 # <nombre del proceso>
 
-**Se corre:**      <el momento exacto. No "cuando haga falta">
+Se corre:      <el momento exacto. No "cuando haga falta">
 Entra:         <qué lo alimenta>
 Sale:          <qué produce>
 Lo consume:    <quién lo recibe>
@@ -412,8 +412,8 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Un proceso sin «cuándo se corre» no ocurre | [`ente 1`](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
-| Lo que no dice qué lo incumple no se puede juzgar | [`ente 2`](../../metodologia/huecos/corridas/02%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
+| Un proceso sin «cuándo se corre» no ocurre | [ente 1](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el paso que no decía cuándo corría no se corrió |
+| Lo que no dice qué lo incumple no se puede juzgar | [ente 2](../../metodologia/huecos/corridas/02%20-%20VARA/) | se cumplió la forma y no se pudo saber si estaba bien |
 | El ensayo no es bitácora: la procedencia va al pie | este ensayo | la regla nació de separar los ensayos de la metodología |
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
@@ -422,4 +422,4 @@ Falsificador de esta tabla: una fila que apunte a una corrida que no se puede ab
 
 ---
 
-Falsificador: un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola; y el más silencioso de todos: **un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido, porque la quietud tiene la forma del éxito**; **un renglón que admite dos lecturas, presentado como si el problema fuera que falta texto**; **y un renglón que dice «ninguna» donde no había nada que decir: eso es un hueco con la ropa de una respuesta.**
+Falsificador: un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola; y el más silencioso de todos: un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido, porque la quietud tiene la forma del éxito; un renglón que admite dos lecturas, presentado como si el problema fuera que falta texto; y un renglón que dice «ninguna» donde no había nada que decir: eso es un hueco con la ropa de una respuesta.
