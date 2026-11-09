@@ -73,7 +73,7 @@ Para quién: para quien construye con IA y quiere que quede algo verificable; y 
 
 Qué se puede hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de sus afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
 
-No incluye guía. El material son los ensayos y las corridas: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
+No incluye una guía de instalación paso a paso. Lo que hay son los ensayos, las corridas, y el método para levantar uno: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
 
 Y no se pide que se le crea: se pide que se le use, y que se le refute. Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado. Hay escasez de gente que corra estas preguntas, no de preguntas.
 
@@ -120,7 +120,7 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`la obra/ciclo/como se sabe cuando esta.md`](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia/ciclo/como se sabe cuando esta.md`](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -160,7 +160,7 @@ Los límites, dichos con nombre:
 - **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
 - **El alcance de la evidencia: las corridas, un autor, un entorno.**
 - **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
-- **No hay guía, y no la habrá hasta que el ciclo quede sin huecos.**
+- **No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos.** **Lo que sí hay es el método, en `la obra/mantenimiento de entes/`, y el manual para cambiar de stack, en `implementacion/usuario/`.**
 - **Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.**
 
 **Y lo que puede estar equivocado, no solo lo que falta, está en [`los papeles/LIMITES.md`](los%20papeles/LIMITES.md).** **Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.**
@@ -174,17 +174,7 @@ Los límites, dichos con nombre:
 
 2. la obra/readme.md       la posición en lista, y qué la tumba
 
-3. metodologia/             EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
-     LEEME.md                   qué se hace aquí, y dónde se apunta cada cosa
-     indice.md                  una línea por corrida, y cabe en una pantalla
-     ciclo/                     cómo se corre, cuándo se para, y los mutantes
-     corridas/                  las dieciocho, en árbol uniforme
-     mutantes/                  los trece corridos
-     herramientas/              stats · cruzar · publicar · CÓMO CONTINUAR
-     historia/                  el registro con fecha, y los errores propios
-     el aproximado.md           cuánto falta, medido con lo que se hizo
-
-4. la obra/ensayos/         QUÉ DEBE SER UN ENTE
+3. la obra/ensayos/        QUÉ DEBE SER UN ENTE
      01  que es un ente         la definición, y por qué necesita una autoridad
      02  el ciclo del ente      los pasos, uno por uno
      03  el piso                qué mide antes de prometer
@@ -197,22 +187,27 @@ Los límites, dichos con nombre:
      10  maquina de sesgos      lo que este trabajo no puede probar
      11  empatía                cómo se entiende antes de pedir
      12  conciencia             qué hacemos con una palabra que no sabemos definir
-     13  medicion de talentos   cómo se mide el trabajo de verdad, con números (se lee solo)
+     13  medicion de talentos   cómo se mide el trabajo de verdad
+
+4. metodologia/            EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
+     LEEME.md               qué se hace aquí, y dónde se apunta cada cosa
+     indice.md              una línea por corrida
+     ciclo/                 cómo se corre, cuándo se para, y los mutantes
+     corridas/              cada una con el mismo árbol
+     mutantes/              uno por familia
+     herramientas/          lo que mide, recorta y cruza
+     historia/              el registro con fecha, y los errores propios
+     el aproximado.md       cuánto falta, y cómo se cuenta
 
 5. la obra/mantenimiento de entes/   CÓMO SE MANTIENE UNO
      mantenimiento de entes.md  la dirección genérica
      lo inexplicable.md         cómo se persigue algo que no se termina
 
-6. implementacion/          LAS DOS QUE SE COPIAN A UN PROYECTO
-     ejemplo/                   con stack puesto: se arrastra y se trabaja
-     usuario/                   sin stack: la puerta, para quien sólo quiere rapidez
+6. implementacion/         LAS DOS QUE SE COPIAN A UN PROYECTO
+     ejemplo/                  el stack elegido, ya puesto
+     usuario/                  el método, para cualquier stack
 
-7. metodologia/el aproximado.md
-                            cuánto falta, medido con lo que se hizo
-
-8. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
-                                    hecho por TESTIGO con búsquedas: su autor
-                                    no leyó las fuentes una por una
+7. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
 
 y ATTRIBUTION.md, en la raíz   quién escribió qué, y quién revisó qué
 ```
@@ -223,22 +218,22 @@ Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que deber�
 
 ## Las doce ideas
 
-Son la posición completa. Cada una vive en un ensayo, y ahí tiene su falsificador. La columna de la derecha dice dónde, con la clave del ensayo: `E1` … `E8` la alineación de entes, y `H1` … `H3` la humanidad.
+Son la posición completa. La columna de la derecha dice en cuál de los trece ensayos vive cada una, con su número, y ahí tiene su falsificador. Dos pueden vivir en el mismo ensayo, y el falsificador es el mismo para las dos. La que no vive en un ensayo lo dice, y es una sola: la que es conjetura.
 
 | # | La idea | Vive en |
 |---|---|---|
-| **1** | Un ente se define por su rastro, no por lo que tiene dentro | `E1` |
-| **2** | **Un ente no tiene cuerpo: por eso su error no le cuesta nada, y por eso necesita una autoridad** | `E1` |
-| **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `E5` |
-| **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `E9` |
-| **5** | Una IA debe escribir en procesos, no en prosa | `E4` |
-| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `H3` |
-| **7** | **Y eso hace accesible la IA con modelos pequeños** | `La apuesta`, abajo |
-| **8** | En el índice, la forma es la fuente y el texto es el derivado | `E7` |
-| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `H1` |
-| **10** | **La conciencia que se busca adentro no está adentro** | `H2` |
-| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `H2`, VII |
-| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `E10` |
+| **1** | Un ente se define por su rastro, no por lo que tiene dentro | `01` |
+| **2** | **Un ente no tiene cuerpo: por eso su error no le cuesta nada, y por eso necesita una autoridad** | `01` |
+| **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `05` |
+| **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `09` |
+| **5** | Una IA debe escribir en procesos, no en prosa | `04` |
+| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `13` |
+| **7** | **Y eso hace accesible la IA con modelos pequeños** | **no vive en un ensayo: es conjetura, y está abajo** |
+| **8** | En el índice, la forma es la fuente y el texto es el derivado | `07` |
+| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `11` |
+| **10** | **La conciencia que se busca adentro no está adentro** | `12` |
+| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `12` |
+| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `10` |
 
 La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/readme.md`](./la%20obra/readme.md).
 
@@ -246,7 +241,7 @@ La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la 
 
 ## La otra apuesta: si esto sirve para modelos pequeños
 
-Y hay una segunda apuesta, más chica y verificable, que es la única que se declara como conjetura.
+Y hay una segunda apuesta, más chica y verificable, que es la única de toda la lista que se declara como conjetura — y por eso es la que no vive en un ensayo.
 
 Si el ente correcto hace que un modelo pequeño llegue al resultado, entonces la ventaja deja de estar en el presupuesto y pasa a estar en la forma.
 
@@ -291,7 +286,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 **Y el stack que se eligió está en [`implementacion/ejemplo/stack.md`](implementacion/ejemplo/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
 
 
-**Y una distinción que ahí se hace y conviene saber antes:** **el motor y el mercado son gusto; la base de grafos no lo es.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones, y `graphdblite` es una base de grafos embebida con Cypher.** **Un motor es un motor; un grafo no es una tabla.**
+**Y la distinción que ahí se hace: el motor y el catálogo son gusto; la base no.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones.** **Un motor es un motor; un grafo no es una tabla.**
 
 Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
 
@@ -301,7 +296,7 @@ De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es 
 
 Y eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
 
-Lo que esto sí es, entonces: una de muchas conclusiones, escrita hasta el final, con sus números, sus ensayos y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.
+Lo que esto sí es, entonces: una de muchas conclusiones, escrita hasta el final, con sus ensayos, sus corridas y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.
 
 ¿Y cómo se reconoce una alternativa cuando la encuentres? Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba. Si no dice qué la tumba, no es una alternativa: es otra opinión.
 
@@ -336,13 +331,13 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 |---|---|
 | **los ensayos y sus afirmaciones** | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
 | **las corridas** | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
-| **los detalles que las corridas encontraron** | cada uno está cerrado en un ensayo, y el detalle dice en cuál |
-| **las reglas contadas** | `la obra/ciclo/como se sabe cuando esta.md`, una por una, y cada una con su mutante |
+| **lo que las corridas encontraron** | cada hallazgo está cerrado en un ensayo, y su tabla de procedencia dice cuál |
+| **las reglas contadas** | `metodologia/ciclo/`, agrupadas por familia, y cada familia con su mutante |
 | **el registro de cómo se hizo** | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 **Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia.** **No hay binario, ni instalador, ni soporte.** **El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.**
 
-**Esos dos no están hechos.** **Todo lo de la tabla de arriba sí, y se puede comprobar hoy sin pedirle permiso a nadie.**
+**Todo lo de la tabla se puede comprobar hoy sin pedirle permiso a nadie.** **Lo que no está hecho es el ente de `implementacion/`: está declarado, y su código va después.**
 
 ---
 
