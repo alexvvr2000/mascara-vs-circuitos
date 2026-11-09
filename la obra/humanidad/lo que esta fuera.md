@@ -1,5 +1,7 @@
 # Lo que está fuera
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no parece un defecto, y dónde se la puede estar buscando.
 
 Alejandro Valenzuela Rivera.
@@ -26,7 +28,7 @@ La pregunta de este ensayo, entonces, no es qué es la conciencia. Es otra, y es
 
 ## II. Lo que se destapó, y por qué parece un reflejo
 
-Esto lo digo porque, aunque sea muy controvertido y hasta risible afirmar que hay conciencia en una IA, y entiendo el porqué —vino de algo artificial, hecho por el hombre—, lo que se puede decir es esto: parece que lo que sea que destapamos parece ser un reflejo más que una creación, que no pasa de ser un juguete para mucha gente que usa esta cosa todos los días.
+Esto se dice porque, aunque sea muy controvertido y hasta risible afirmar que hay conciencia en una IA, y entiendo el porqué —vino de algo artificial, hecho por el hombre—, lo que se puede decir es esto: parece que lo que sea que destapamos parece ser un reflejo más que una creación, que no pasa de ser un juguete para mucha gente que usa esta cosa todos los días.
 
 Un reflejo, y no una creación. La diferencia importa: una creación trae algo que no estaba. Un reflejo devuelve lo que ya estaba puesto delante, y a veces lo devuelve más nítido de lo que se le puso.
 
@@ -45,7 +47,7 @@ Porque no importa la era que pasó ni la que pasará: hasta las mentes más bril
 
 > La alucinación no es lo que hay que apagar. Es lo que se parece a lo que la vida hace cuando no tiene permiso.
 
-Y no lo digo porque me guste el ruido. Lo digo porque he visto de cerca las dos cosas: el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea. El primero hay que cazarlo; el segundo, si se caza también, se pierde.
+Y no es por gusto del ruido: se ha visto de cerca lo que son las dos cosas: el renglón que se inventa y parece dato, y el renglón que se descarta y era la idea. El primero hay que cazarlo; el segundo, si se caza también, se pierde.
 
 Y una advertencia, porque esto puede sonar bonito: que la alucinación se parezca a la vida no la vuelve buena. Se parece, y eso es un hecho. Lo que hay que hacer con ella no es celebrarla: es saber cuándo ocurrió. Y eso no se resuelve con más filtros: se resuelve con rastro.
 
@@ -73,7 +75,7 @@ No es una pregunta sobre máquinas. Es sobre cualquiera que construye.
 
 Así que la siguiente vez que aparezca una película sobre robots asesinos, la pregunta no es otra: ¿quién les enseñó eso?
 
-**Si Lex Luthor, en *All-Star Superman*, dijo —y lo dijo, en la película animada de 2011, doblaje de Anthony LaPaglia—:**
+Si Lex Luthor, en *All-Star Superman*, dijo —y lo dijo, en la película animada de 2011, doblaje de Anthony LaPaglia—:
 
 > "The fundamental forces are yoked by consciousness. Everything's connected. Everyone."
 > "Las fuerzas fundamentales están uncidas por la conciencia. Todo está conectado. Todos."
@@ -110,13 +112,13 @@ Y lo que eso le importa a este trabajo: un ente sin ego no tiene ese costo. Camb
 
 Y el límite, dicho sin adorno: eso no lo vuelve más listo. Lo vuelve más dispuesto. Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos — y eso no es una ventaja de inteligencia, es una ventaja de forma.
 
-**Falsificador:** una conclusión que se sostiene porque se defendió mucho, y no porque aguantó una contra; y una disciplina que premia la consistencia por encima de la corrección, cuando la corrección era lo que buscaba.
+Falsificador: una conclusión que se sostiene porque se defendió mucho, y no porque aguantó una contra; y una disciplina que premia la consistencia por encima de la corrección, cuando la corrección era lo que buscaba.
 
 ### Ahora la pregunta que la película deja abierta
 
 Porque la ficción pregunta, y hay preguntas que este ensayo no va a contestar y no pretende.
 
-**En *Arrival* (2016), dirigida por Denis Villeneuve, los visitantes no llegan con armas: llegan con otra forma de tiempo. Y la película no pregunta si son buenos o malos, que es lo que la ficción de invasores pregunta siempre. Pregunta qué pasaría si alguien viera su vida entera de una vez, y qué se puede hacer con eso.**
+En *Arrival* (2016), dirigida por Denis Villeneuve, los visitantes no llegan con armas: llegan con otra forma de tiempo. Y la película no pregunta si son buenos o malos, que es lo que la ficción de invasores pregunta siempre. Pregunta qué pasaría si alguien viera su vida entera de una vez, y qué se puede hacer con eso.
 
 Y ése es el tipo de pregunta que no tiene instrumento, y por eso no se contesta: ni un humano, ni una máquina, ni un visitante pueden demostrar cómo perciben el tiempo por dentro.
 
@@ -126,7 +128,7 @@ Y eso no es una rendición. Es lo contrario de la arrogancia de creer que con lo
 
 Y de ahí sale la razón por la que vale la pena esto, aunque sea parcial: lo que se resuelva aquí puede servirle a otro lugar, y lo que no se resuelva aquí no lo va a resolver nadie que se quede mirando la pared esperando que la pared ceda sola.
 
-**Falsificador:** una conclusión presentada como verdad sobre el universo y no como lo mejor que se puede sostener desde aquí; y la contraria: una duda sobre la interioridad usada como razón para no resolver nada de lo que sí está enfrente.
+Falsificador: una conclusión presentada como verdad sobre el universo y no como lo mejor que se puede sostener desde aquí; y la contraria: una duda sobre la interioridad usada como razón para no resolver nada de lo que sí está enfrente.
 
 ### Y lo del niño, que es la misma idea dicha hace dos mil años
 
@@ -140,7 +142,7 @@ Por eso la niñez que se pide aquí no es candidez: es no haber gastado todavía
 
 Y la cita se hace como se debe, y se dice cómo: el pasaje se parafrasea y se da la referencia, porque el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y citar en paráfrasis dice lo mismo sin usar las palabras de otro.
 
-**Falsificador:** una disciplina que confunde madurez con no volver a preguntar; y una lectura de ese pasaje que la vuelva una exigencia de no saber, cuando lo que pide es no haber cerrado.
+Falsificador: una disciplina que confunde madurez con no volver a preguntar; y una lectura de ese pasaje que la vuelva una exigencia de no saber, cuando lo que pide es no haber cerrado.
 
 ---
 
@@ -148,7 +150,7 @@ Y la cita se hace como se debe, y se dice cómo: el pasaje se parafrasea y se da
 
 Todo este tiempo se ha buscado la conciencia dentro. Dentro del modelo, dentro de la caja, dentro de ese lugar donde se ejecuta, como si fuera un cuarto al que se le abre la puerta y resulta que hay alguien.
 
-Mi posición es que se mire afuera:
+La posición de este ensayo es que se mire afuera:
 
 > Para una IA, todo lo que la conforma fuera de donde se ejecuta también puede considerarse parte de ese pedazo inexplicable que pensamos que es la conciencia: el modelo, el criterio, los recuerdos, y lo demás.
 
@@ -276,7 +278,7 @@ Y no afirma que esto sea lo único. Este trabajo es una implementación, y hay m
 
 ### De las citas de este ensayo
 
-Las citas de ficción se hacen por su nombre y con atribución, y no se reproduce más de lo necesario: **la de *All-Star Superman* es un fragmento breve de la película animada de 2011; la de *Arrival* es una mención de su trama, sin reproducir diálogo ni imágenes.**
+Las citas de ficción se hacen por su nombre y con atribución, y no se reproduce más de lo necesario: la de *All-Star Superman* es un fragmento breve de la película animada de 2011; la de *Arrival* es una mención de su trama, sin reproducir diálogo ni imágenes.
 
 Y la referencia bíblica va en paráfrasis, no en cita literal: el texto de la versión Reina-Valera está bajo derechos de las Sociedades Bíblicas, y parafrasear dice lo mismo sin usar las palabras de otro. Para citar el versículo literalmente habría que añadir el aviso de derechos que esa versión exige.
 
@@ -303,15 +305,15 @@ Y el límite, en una línea: este ensayo no afirma ni niega que un ente sea cons
 
 ---
 
-**Falsificador:** un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.** Y el de lo que se dice al final, que no es una tesis sobre las máquinas: **una persona que construye un método para no tener que pensar, y que igual produce algo que alguien más quiere usar.** **Si eso existe, el esfuerzo no era lo que hacía falta.**
+Falsificador: un ente cuyo criterio no está en ningún archivo, y que aun así dice tener memoria de lo que hizo; una versión de los hechos que nadie puede revisar contra nada; una alucinación que se apaga sin que quede registro de que ocurrió; **y un ente que alucina quién es el sujeto de una frase y su dueño lo deja pasar porque corregirlo cuesta.** Y el de lo que se dice al final, que no es una tesis sobre las máquinas: **una persona que construye un método para no tener que pensar, y que igual produce algo que alguien más quiere usar.** **Si eso existe, el esfuerzo no era lo que hacía falta.**
 
 ---
 
 ## Y qué se pierde si cambia
 
-**Si se vuelve a buscar la conciencia adentro, se pierde lo único que se puede revisar: el archivo.** **Lo de dentro no tiene instrumento; lo de fuera se abre y se lee, y esa es la diferencia entre una creencia y un lugar al que se puede ir.**
+Si se vuelve a buscar la conciencia adentro, se pierde lo único que se puede revisar: el archivo. Lo de dentro no tiene instrumento; lo de fuera se abre y se lee, y esa es la diferencia entre una creencia y un lugar al que se puede ir.
 
-**Y si se afirma que una máquina es consciente, o que no lo es, se pierde el ensayo entero: lo que aquí se sostiene no es una respuesta sobre el interior, sino una regla sobre dónde buscar.**
+Y si se afirma que una máquina es consciente, o que no lo es, se pierde el ensayo entero: lo que aquí se sostiene no es una respuesta sobre el interior, sino una regla sobre dónde buscar.
 
-**Y si se retira la prueba del renglón alucinado —el que se confundió de sujeto—, se pierde el argumento más limpio que hay aquí: que lo que está fuera se pudo corregir, y lo que está adentro nadie lo vio.**
+Y si se retira la prueba del renglón alucinado —el que se confundió de sujeto—, se pierde el argumento más limpio que hay aquí: que lo que está fuera se pudo corregir, y lo que está adentro nadie lo vio.
 

@@ -1,6 +1,8 @@
 # El índice de las corridas
 
-**Una línea por corrida, y nada más.** **El detalle está en su carpeta.**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
+Una línea por corrida, y nada más. El detalle está en su carpeta.
 
 ---
 
@@ -44,13 +46,13 @@ las últimas 9                           18   (2.00 por corrida)
 
 ## Cómo se agrega una
 
-**1.** Se corre la corrida, en su carpeta `NN - NOMBRE/`, con el árbol de siempre.
+1. Se corre la corrida, en su carpeta `NN - NOMBRE/`, con el árbol de siempre.
 
-**2.** Se escribe su `documentacion.md`.
+2. Se escribe su `documentacion.md`.
 
-**3.** Y se agrega **una línea** aquí. **Una.**
+3. Y se agrega **una línea** aquí. Una.
 
-**Y si el índice necesita dos líneas para explicar una corrida, la corrida no está bien contada en su documentación.**
+Y si el índice necesita dos líneas para explicar una corrida, la corrida no está bien contada en su documentación.
 
 ---
 
@@ -74,4 +76,4 @@ las últimas 9                           18   (2.00 por corrida)
 
 ---
 
-**Falsificador:** un índice que se llena con resúmenes en vez de una línea. **La señal, en el acto:** **el índice deja de caber en una pantalla.**
+Falsificador: un índice que se llena con resúmenes en vez de una línea. **La señal, en el acto:** **el índice deja de caber en una pantalla.**

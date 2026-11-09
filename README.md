@@ -1,5 +1,7 @@
 # Máscara vs Circuitos
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Alejandro Valenzuela Rivera.
 
 ---
@@ -27,13 +29,13 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> **Antes de creerme nada, dos páginas:**
+> Antes de creerme nada, dos páginas:
 >
-> **[Los límites](los%20papeles/LIMITES.md)** — qué no se probó, qué podría estar mal, y con qué se sabría.
+> [Los límites](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
 >
-> **[El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md)** — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
+> [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
 >
-> **Y por qué las dos:** **esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó.** **Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas.** **Con el camino a la vista, hay una tercera: revisarlo.**
+> Y por qué las dos: esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó. Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas. Con el camino a la vista, hay una tercera: revisarlo.
 
 ---
 
@@ -107,24 +109,24 @@ Lo sostiene una idea sola, y de ella cuelga todo:
 
 Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
-- **El criterio no se recuerda: se arma con lo que se cayó.** **El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.**
-- **En el índice, la forma es la fuente y el texto se deriva.** **Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.**
+- El criterio no se recuerda: se arma con lo que se cayó. El hecho, la fricción y el desenlace, y el desenlace es el que casi nunca está.
+- En el índice, la forma es la fuente y el texto se deriva. Así el índice se puede tirar y rearmar, el cambio queda con fecha, y se puede preguntar por lo que se dejó de sostener.
 
-**Y cuándo se termina, que es la meta y se dice entera:**
+Y cuándo se termina, que es la meta y se dice entera:
 
-> **Cada regla de cada ensayo tiene su mutante, y el mutante muere.**
+> Cada regla de cada ensayo tiene su mutante, y el mutante muere.
 >
-> **Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.**
+> Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.
 >
-> **Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/huecos/README.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.**
+> Y la meta de todo esto no es el final: es [el piso mínimo](metodologia/huecos/README.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.
 
-**El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
+El proceso no termina, y eso está previsto. La solución final va a tener huecos, porque un ente vive en un mundo que cambia. Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [[el plan](metodologia/huecos/README.md)](metodologia/huecos/README.md), con sus fuentes.**
+La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [[el plan](metodologia/huecos/README.md)](metodologia/huecos/README.md), con sus fuentes.
 
-**La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
+La segunda cubre lo que ningún ensayo escribió. Una sin la otra deja un lado sin mirar.
 
-**La regla completa, con su porqué:**
+La regla completa, con su porqué:
 
 ```plaintext
 una corrida ENTERA     el ente se levanta completo, del primer paso al
@@ -137,33 +139,33 @@ dos de forma seguidas  ya no se está descubriendo: se está ordenando.
                        se para
 ```
 
-**Y lo que se puede contar:** **cada regla de los ensayos, y las del que explica el proceso, tiene su mutante.** **Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.**
+Y lo que se puede contar: cada regla de los ensayos, y las del que explica el proceso, tiene su mutante. Ese número es lo que hace que la regla de parada no sea una opinión: se puede restar.
 
 ### Por qué hay un número y no un «ya casi»
 
-**En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia.** **Nadie escribe todas las cifras de un número que no termina. Se escribe lo que sigue, y con eso se puede trabajar.**
+En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia. Nadie escribe todas las cifras de un número que no termina. Se escribe lo que sigue, y con eso se puede trabajar.
 
-**Con un texto pasa lo mismo.** **No existe el día en que un ensayo diga todo lo que hay que decir, y buscar ese día es buscar un número que no termina.**
+Con un texto pasa lo mismo. No existe el día en que un ensayo diga todo lo que hay que decir, y buscar ese día es buscar un número que no termina.
 
-**Lo que sí termina es esto:** **cada regla que el ensayo afirma tiene un mutante, y el mutante muere.** **Eso no es el 100% de nada. Es la tendencia, dicha con los números que hay.**
+Lo que sí termina es esto: cada regla que el ensayo afirma tiene un mutante, y el mutante muere. Eso no es el 100% de nada. Es la tendencia, dicha con los números que hay.
 
-**Y por eso este trabajo se puede leer desde afuera sin creerle nada:** **no pide fe en una cifra que no existe. Pide que se le rompa una regla a propósito y se mire si el ente lo nota.**
+Y por eso este trabajo se puede leer desde afuera sin creerle nada: no pide fe en una cifra que no existe. Pide que se le rompa una regla a propósito y se mire si el ente lo nota.
 
-**Si no lo nota, el ensayo hablaba de más, y se corrige. Si lo nota, la regla aguanta, y ya no hay que preguntarle a nadie si está bien.**
+Si no lo nota, el ensayo hablaba de más, y se corrige. Si lo nota, la regla aguanta, y ya no hay que preguntarle a nadie si está bien.
 
-**Y ésa es la promesa entera, que es más chica de lo que suena y más grande de lo que se suele ofrecer:** **un ensayo cuyas reglas se pueden romper a propósito es un ensayo que un desconocido puede usar sin tener que confiar en quien lo escribió.**
+Y ésa es la promesa entera, que es más chica de lo que suena y más grande de lo que se suele ofrecer: un ensayo cuyas reglas se pueden romper a propósito es un ensayo que un desconocido puede usar sin tener que confiar en quien lo escribió.
 
-**Y su límite, para que no se use para parar antes de tiempo:** **dos corridas de forma no dicen que el ensayo esté completo.** **Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.**
+Y su límite, para que no se use para parar antes de tiempo: dos corridas de forma no dicen que el ensayo esté completo. Dicen que lo que falta está fuera del alcance de una corrida — y que el cero se escribe como cero, no como limpio.
 
 Los límites, dichos con nombre:
 
-- **No hay comparación medida contra ningún otro trabajo.** **Es un contraste de forma, no de rendimiento.**
-- **El alcance de la evidencia: las corridas, un autor, un entorno.**
-- **Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara.** **Los demás siguen sin probarse a propósito.** **Un método que nunca se cayó no sabe caerse todavía.**
-- **No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos.** **Lo que sí hay es el método, en `la obra/mantenimiento de entes/`, y el manual para cambiar de stack, en `implementacion/usuario/`.**
-- **Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.**
+- No hay comparación medida contra ningún otro trabajo. Es un contraste de forma, no de rendimiento.
+- El alcance de la evidencia: las corridas, un autor, un entorno.
+- Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara. Los demás siguen sin probarse a propósito. Un método que nunca se cayó no sabe caerse todavía.
+- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en `la obra/mantenimiento de entes/`, y el manual para cambiar de stack, en `implementacion/usuario/`.
+- Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.
 
-**Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](los%20papeles/LIMITES.md).** **Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.**
+Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
 
 ---
 
@@ -285,18 +287,18 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 ## Esto es una implementación, y no la única
 
-> **El stack se eligió porque le gustó a quien lo eligió.** **Se puede elegir otro, y el resultado sería el mismo.**
+> El stack se eligió porque le gustó a quien lo eligió. Se puede elegir otro, y el resultado sería el mismo.
 
-**Y eso no es una frase amable: es la condición del trabajo.** **Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
+Y eso no es una frase amable: es la condición del trabajo. Un ensayo que sirve se levanta en otro stack y produce el mismo rastro. Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.
 
-**Y el stack que se eligió está en [la tabla del stack](implementacion/ejemplo/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
+Y el stack que se eligió está en [la tabla del stack](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.
 
 
-**Y la distinción que ahí se hace: el motor y el catálogo son gusto; la base no.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones.** **Un motor es un motor; un grafo no es una tabla.**
+Y la distinción que ahí se hace: el motor y el catálogo son gusto; la base no. El ensayo 7 pide que el índice sea un grafo con sus tres relaciones. Un motor es un motor; un grafo no es una tabla.
 
 Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
 
-> **Este repositorio no es una conclusión. Es *una implementación* de una conclusión.**
+> Este repositorio no es una conclusión. Es *una implementación* de una conclusión.
 
 De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor. Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy). Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.
 
@@ -331,7 +333,7 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
 ## Lo que este trabajo deja hecho, y con qué se comprueba
 
-**Esto no es una promesa: es el inventario de lo que hay, cada cosa con la forma de comprobarla.**
+Esto no es una promesa: es el inventario de lo que hay, cada cosa con la forma de comprobarla.
 
 | Lo que hay | Cómo se comprueba |
 |---|---|
@@ -341,9 +343,9 @@ Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 | **las reglas contadas** | `metodologia/huecos/`, agrupadas por familia, y cada familia con su mutante |
 | **el registro de cómo se hizo** | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
-**Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia.** **No hay binario, ni instalador, ni soporte.** **El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.**
+Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia. No hay binario, ni instalador, ni soporte. El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.
 
-**Todo lo de la tabla se puede comprobar hoy sin pedirle permiso a nadie.** **Lo que no está hecho es el ente de `implementacion/`: está declarado, y su código va después.**
+Todo lo de la tabla se puede comprobar hoy sin pedirle permiso a nadie. Lo que no está hecho es el ente de `implementacion/`: está declarado, y su código va después.
 
 ---
 

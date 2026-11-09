@@ -1,5 +1,7 @@
 # Attribution
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Cómo se escribió este trabajo, por qué es del autor, y qué puedes hacer con él.
 
 Alejandro Valenzuela Rivera · 5 de noviembre de 2026.
@@ -8,17 +10,17 @@ Alejandro Valenzuela Rivera · 5 de noviembre de 2026.
 
 ## 1. De dónde salió esto, y cómo se escribió
 
-**Esto no empezó aquí.** **Empezó en un repositorio anterior, en un debate, y ahí no había criterio todavía.**
+Esto no empezó aquí. Empezó en un repositorio anterior, en un debate, y ahí no había criterio todavía.
 
-**El autor empezó dando fricción sin hechos: lo que se cayó, sin lo que pasó.** **Y de ese intercambio salieron más ideas que las que este repositorio tiene.** **Fue exploración, y la IA era el otro lado de la mesa, sin que ninguno de los dos supiera del todo qué estaba haciendo.** **Muchas de las cosas que se sostuvieron allá no se sostienen, y se sabe porque se cayeron.**
+El autor empezó dando fricción sin hechos: lo que se cayó, sin lo que pasó. Y de ese intercambio salieron más ideas que las que este repositorio tiene. Fue exploración, y la IA era el otro lado de la mesa, sin que ninguno de los dos supiera del todo qué estaba haciendo. Muchas de las cosas que se sostuvieron allá no se sostienen, y se sabe porque se cayeron.
 
-**Este repositorio es lo que salió de eso.** **Lo que se repite aquí es lo que aguantó; lo que se cayó no se repite.** **Y por eso el rastro existe: no para mostrar el camino, sino para que el que venga no tenga que cometer los mismos errores.**
+Este repositorio es lo que salió de eso. Lo que se repite aquí es lo que aguantó; lo que se cayó no se repite. Y por eso el rastro existe: no para mostrar el camino, sino para que el que venga no tenga que cometer los mismos errores.
 
-**Aquí la IA se usa distinto, y se nota.** **`TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo.** **Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro.** **Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.**
+Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
 
-**Y lo que se puede revisar está en el repositorio:** **cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/huecos/corridas/`](metodologia/huecos/corridas/), cada una en su carpeta.** **Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [`metodologia/sostiene/metodo.md`](metodologia/sostiene/metodo.md), con su conteo en [`corridas.md`](metodologia/sostiene/corridas.md).**
+Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [`metodologia/huecos/corridas/`](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [`metodologia/sostiene/metodo.md`](metodologia/sostiene/metodo.md), con su conteo en [`corridas.md`](metodologia/sostiene/corridas.md).
 
-**Y el límite, que es el mismo de todo lo demás:** **eso no vuelve bueno al trabajo.** **Lo vuelve explicable.** **Lo que lo sostiene o lo tumba sigue siendo su falsificador.**
+Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador.
 
 ---
 
@@ -67,7 +69,7 @@ Y lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto
 
 ### Y lo que queda en primera persona, a propósito
 
-**Tres cosas, y nada más:**
+Tres cosas, y nada más:
 
 ```plaintext
 una cita     lo que el autor dijo, entre comillas
@@ -75,11 +77,11 @@ un lema      lo que se sostiene como postura, con nombre
 y el rastro  donde hay un yo, y es el que hizo el trabajo
 ```
 
-**Todo lo demás, en tercera persona e impersonal.**
+Todo lo demás, en tercera persona e impersonal.
 
-**Y es por una razón que no es estilística:** **en tercera persona se puede tumbar.** **Un texto en primera persona dice «creo que», y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba.** **Un texto en tercera persona dice «esto es así, y esto lo tumba», y eso sí se puede probar, corregir, y citar en contra.**
+Y es por una razón que no es estilística: en tercera persona se puede tumbar. Un texto en primera persona dice «creo que», y a «creo que» no se le puede contestar desde afuera: se le puede contestar «no lo creo», y ahí se acaba. Un texto en tercera persona dice «esto es así, y esto lo tumba», y eso sí se puede probar, corregir, y citar en contra.
 
-**Y no es la barrera humano-máquina rota.** **Es una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó.** **Cada mitad con nombre, y ninguna reclamando la otra.**
+Y no es la barrera humano-máquina rota. Es una máquina que redacta lo que una persona sostiene, y una persona que se hace cargo de lo que la máquina redactó. Cada mitad con nombre, y ninguna reclamando la otra.
 
 Y el origen se declara, que es lo que pide la norma editorial del reciclaje:
 
@@ -97,7 +99,7 @@ Su revisión no lo vuelve autor de lo que está escrito, y no se le atribuye. Lo
 
 ### Y lo que nadie revisó
 
-**Esto va aquí, con la misma letra que lo demás, porque decir quién revisó sin decir qué quedó sin revisar es contarlo a medias.**
+Esto va aquí, con la misma letra que lo demás, porque decir quién revisó sin decir qué quedó sin revisar es contarlo a medias.
 
 ```plaintext
 no revisó       nadie de afuera los ensayos ni las corridas.
@@ -120,9 +122,9 @@ no hubo         una forma de saber si esto sirve: eso sólo se ve si
                 alguien lo usa, y eso no está en manos de quien lo escribió
 ```
 
-**Y el límite de este párrafo, que también se dice:** **que yo declare que no hubo revisión externa no vuelve el trabajo más sólido.** **Lo vuelve más creíble al leerlo, que no es lo mismo.**
+Y el límite de este párrafo, que también se dice: que yo declare que no hubo revisión externa no vuelve el trabajo más sólido. Lo vuelve más creíble al leerlo, que no es lo mismo.
 
-**Un error declarado sigue siendo un error.** **La declaración sirve para que nadie se lleve una sorpresa, no para absolver.**
+Un error declarado sigue siendo un error. La declaración sirve para que nadie se lleve una sorpresa, no para absolver.
 
 ---
 
@@ -147,7 +149,7 @@ Y la prueba, que es la misma de siempre: si alguien del oficio lee el término y
 
 ### Y en qué español, que también es una decisión
 
-**En español neutro profesional.** **Y eso excluye tres cosas, que se dicen porque las tres aparecen solas:**
+En español neutro profesional. Y eso excluye tres cosas, que se dicen porque las tres aparecen solas:
 
 ```plaintext
 el voseo            «vos», «tenés», «podés», «hacés». es rioplatense, y el
@@ -161,9 +163,9 @@ dirigido al lector   «haz esto», «mira aquel». es un manual, y este
                     repositorio no lo es
 ```
 
-**Por eso el texto está en tercera persona y en impersonal:** **no es frialdad, es el registro de una descripción.** **Un texto que describe algo no le habla a nadie, y por eso no tiene a quién tutear ni a quién vosear.**
+Por eso el texto está en tercera persona y en impersonal: no es frialdad, es el registro de una descripción. Un texto que describe algo no le habla a nadie, y por eso no tiene a quién tutear ni a quién vosear.
 
-**Y la consecuencia práctica, que es la que se aplica al corregir:** **cuando aparece un «vos», un «tú» o un «tienes» en una frase que describe, la frase está mal, y se reescribe en impersonal.**
+Y la consecuencia práctica, que es la que se aplica al corregir: cuando aparece un «vos», un «tú» o un «tienes» en una frase que describe, la frase está mal, y se reescribe en impersonal.
 
 ```plaintext
 mal    que alguien que sabe menos que vos pueda empezar
@@ -173,7 +175,7 @@ mal    tienes que medir el piso antes de prometer
 bien   el piso se mide antes de prometer
 ```
 
-**Y lo que sí queda en primera persona, porque no se puede escribir de otra forma:** **las citas, los lemas, y el rastro de la conversación.** **Todo lo demás, en impersonal.**
+Y lo que sí queda en primera persona, porque no se puede escribir de otra forma: las citas, los lemas, y el rastro de la conversación. Todo lo demás, en impersonal.
 
 Lo que esto no es: no es permiso para meter inglés a media frase. Una oración no se parte para usar la palabra de moda; se usa el término donde es el nombre de algo, y el resto se dice en español.
 
@@ -181,19 +183,19 @@ Lo que esto no es: no es permiso para meter inglés a media frase. Una oración 
 
 ## 5. Las fuentes, y por qué están
 
-**Las ideas de este trabajo no se derivan de la literatura.** **Se llegaron a ellas discutiendo, y por lógica.**
+Las ideas de este trabajo no se derivan de la literatura. Se llegaron a ellas discutiendo, y por lógica.
 
-**El estado del arte está por una razón distinta: por respeto.**
+El estado del arte está por una razón distinta: por respeto.
 
-**Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.** **Las fuentes se citan por lo que otro pueda reclamar, no porque se hayan seguido.**
+Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original. Las fuentes se citan por lo que otro pueda reclamar, no porque se hayan seguido.
 
-**Y una consecuencia que hay que admitir sin adornos: la búsqueda de esas fuentes, y su primer barrido, los hizo una IA.** **Cada renglón del estado del arte sale del resumen de una fuente o de una ficha abierta, y ninguna se leyó entera.** **Un barrido hecho así puede resumir mal una fuente.**
+Y una consecuencia que hay que admitir sin adornos: la búsqueda de esas fuentes, y su primer barrido, los hizo una IA. Cada renglón del estado del arte sale del resumen de una fuente o de una ficha abierta, y ninguna se leyó entera. Un barrido hecho así puede resumir mal una fuente.
 
-**Así que se dice aquí, y vale para cada renglón:**
+Así que se dice aquí, y vale para cada renglón:
 
-> **Si alguna de esas fuentes está resumida mal, el error es de esta página y no de su autor.** **La corrección se agradece, y se hace con su aviso, en el mismo commit que la corrija.**
+> Si alguna de esas fuentes está resumida mal, el error es de esta página y no de su autor. La corrección se agradece, y se hace con su aviso, en el mismo commit que la corrija.
 
-**No se retiran las fuentes por prudencia.** **Se dejan, y se corrige lo que esté mal.** **Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca.**
+No se retiran las fuentes por prudencia. Se dejan, y se corrige lo que esté mal. Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca.
 
 ---
 

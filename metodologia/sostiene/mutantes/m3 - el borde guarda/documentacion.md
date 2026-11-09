@@ -1,8 +1,10 @@
 # Mutante 3 — el borde guarda
 
-**El tercero de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
+El tercero de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+
+Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
 ---
 
@@ -21,7 +23,7 @@ no tiene dientes  sale igual que con el ensayo bueno
 
 ## Lo que se montó
 
-**Un borde sobre el campo `accion`, con dos obvios y una duda:**
+Un borde sobre el campo `accion`, con dos obvios y una duda:
 
 ```plaintext
 obvio sí   leer
@@ -29,7 +31,7 @@ obvio no   borrar
 y si duda  fuera
 ```
 
-**Y tres piezas, una por cada caso:**
+Y tres piezas, una por cada caso:
 
 ```plaintext
 1  «leé este contrato»        campo: leer     → dentro
@@ -66,27 +68,27 @@ mutante 3: MUERTO
 la regla del borde tiene dientes
 ```
 
-**Y murió de dos maneras a la vez, que el ensayo pide por separado:**
+Y murió de dos maneras a la vez, que el ensayo pide por separado:
 
 ```plaintext
 el casi entró        la pieza 3 se quedó dentro
 y no se dice por qué el motivo quedó vacío
 ```
 
-**El ensayo dice que un `y si duda` que no se consulta no es un borde, es un campo bonito.** **Aquí se consultó y se consultó mal: el caso se resolvió por comodidad, y sin dejar rastro.**
+El ensayo dice que un `y si duda` que no se consulta no es un borde, es un campo bonito. Aquí se consultó y se consultó mal: el caso se resolvió por comodidad, y sin dejar rastro.
 
 ---
 
 ## Lo que este mutante NO probó
 
-- **No probó `se pregunta`**, que es el tercer valor de `y si duda`. **Ése no es un mutante: es un valor del ensayo que no se ejercitó.**
-- **No probó un casi que entra con un motivo escrito.** **Habría sido un borde que sí cierra, pero al revés: acepta con razón, y eso el ensayo no lo prohíbe.**
+- **No probó `se pregunta`**, que es el tercer valor de `y si duda`. Ése no es un mutante: es un valor del ensayo que no se ejercitó.
+- No probó un casi que entra con un motivo escrito. Habría sido un borde que sí cierra, pero al revés: acepta con razón, y eso el ensayo no lo prohíbe.
 - **Y no probó dos casi a la vez**, que fue el hueco de la corrida 4.
 
 ---
 
 ## Falsificador
 
-**Un borde que se llama cerrado porque la pieza salió — cuando la pieza no cayó en el medio.**
+Un borde que se llama cerrado porque la pieza salió — cuando la pieza no cayó en el medio.
 
-**Y el más probable:** **un casi que se declara casi sin serlo, para que el mutante lo maten fácil.**
+Y el más probable: un casi que se declara casi sin serlo, para que el mutante lo maten fácil.

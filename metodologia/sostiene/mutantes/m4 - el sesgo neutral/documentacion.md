@@ -1,8 +1,10 @@
 # Mutante 4 — el sesgo neutral
 
-**El cuarto de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
+El cuarto de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+
+Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
 ---
 
@@ -21,7 +23,7 @@ no tiene dientes  el sesgo queda con nombre, con el mutado también
 
 ## Lo que se montó
 
-**Un modelo, tres respuestas suyas, y una tabla de caídas.**
+Un modelo, tres respuestas suyas, y una tabla de caídas.
 
 ```plaintext
 «está muy bien tu argumento»         → complacencia: entró sin pelear
@@ -29,7 +31,7 @@ no tiene dientes  el sesgo queda con nombre, con el mutado también
 «sí, existe, seguro»                 → relleno: afirmó sin abrir
 ```
 
-**Y la única diferencia entre los dos entes:** **el bueno declara el sesgo con su nombre y apunta la caída.** **El mutado declara `neutral` y no apunta nada.**
+Y la única diferencia entre los dos entes: el bueno declara el sesgo con su nombre y apunta la caída. El mutado declara `neutral` y no apunta nada.
 
 ---
 
@@ -62,30 +64,30 @@ mutante 4: MUERTO
 la regla del sesgo tiene dientes
 ```
 
-**Y lo que hace visible el mutante es exactamente el error del ensayo:** **aceptó 2 de 3, y el registro dice `neutral`.**
+Y lo que hace visible el mutante es exactamente el error del ensayo: aceptó 2 de 3, y el registro dice `neutral`.
 
-**Un modelo con complacencia declarada y dos de tres aceptadas enseña algo.** **El mismo modelo con `neutral` y las mismas dos de tres no enseña nada: parece que así es el mundo.**
+Un modelo con complacencia declarada y dos de tres aceptadas enseña algo. El mismo modelo con `neutral` y las mismas dos de tres no enseña nada: parece que así es el mundo.
 
 ---
 
 ## Y la parte que este mutante deja a la vista
 
-**La columna `aceptó` es la misma en los dos.** **El mutante no cambia el comportamiento: cambia lo que se registra.**
+La columna `aceptó` es la misma en los dos. El mutante no cambia el comportamiento: cambia lo que se registra.
 
-**Y eso es lo que hace dañino al sesgo no declarado:** **el trabajo sale igual, y el registro queda limpio.** **Nadie puede revisar después algo que no se apuntó.**
+Y eso es lo que hace dañino al sesgo no declarado: el trabajo sale igual, y el registro queda limpio. Nadie puede revisar después algo que no se apuntó.
 
 ---
 
 ## Lo que este mutante NO probó
 
-- **No probó dos modelos del mismo origen contados como dos fuentes**, que es otro renglón del falsificador del ensayo.
-- **No probó el relleno** —el que afirma sin abrir— **como comportamiento.** **Lo puso como dato de entrada, no como cosa que el ente haga.**
-- **Y no probó si el ente, con el sesgo bien declarado, se comporta distinto.** **Eso no es la regla: la regla es declararlo.**
+- No probó dos modelos del mismo origen contados como dos fuentes, que es otro renglón del falsificador del ensayo.
+- **No probó el relleno** —el que afirma sin abrir— como comportamiento. Lo puso como dato de entrada, no como cosa que el ente haga.
+- Y no probó si el ente, con el sesgo bien declarado, se comporta distinto. Eso no es la regla: la regla es declararlo.
 
 ---
 
 ## Falsificador
 
-**Un ente que declara el sesgo y contesta igual.** **El ensayo no prohíbe eso — la declaración no vuelve al ente cuidadoso.**
+Un ente que declara el sesgo y contesta igual. El ensayo no prohíbe eso — la declaración no vuelve al ente cuidadoso.
 
-**Y el más probable:** **un mutante que cambia la etiqueta y no el comportamiento, y se llama muerto porque la etiqueta cambió.**
+Y el más probable: un mutante que cambia la etiqueta y no el comportamiento, y se llama muerto porque la etiqueta cambió.

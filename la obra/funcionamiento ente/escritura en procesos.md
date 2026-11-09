@@ -1,5 +1,7 @@
 # Escritura en procesos
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Por qué una IA debe escribir en forma de proceso y no en prosa.
 Alejandro Valenzuela Rivera.
 
@@ -65,7 +67,7 @@ No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra
 
 ### Y hay dos clases de falla, que se confunden y no se arreglan igual
 
-**Hasta aquí se habló del hueco: lo que el texto no dice.** **Y hay otra, que este ensayo nombraba con la misma palabra y no es la misma.**
+Hasta aquí se habló del hueco: lo que el texto no dice. Y hay otra, que este ensayo nombraba con la misma palabra y no es la misma.
 
 ```plaintext
 el hueco      falta algo, y no está escrito.
@@ -77,15 +79,15 @@ lo ambiguo    está escrito, y se puede leer de dos maneras.
               →  se arregla PRECISANDO lo que ya está
 ```
 
-**Y son igual de peligrosos, por razones opuestas:** **el hueco deja el campo vacío, y lo vacío se llena con lo primero que encaja.** **Lo ambiguo deja el campo lleno, con lo que no era, y nadie vuelve a mirarlo porque parece contestado.**
+Y son igual de peligrosos, por razones opuestas: el hueco deja el campo vacío, y lo vacío se llena con lo primero que encaja. Lo ambiguo deja el campo lleno, con lo que no era, y nadie vuelve a mirarlo porque parece contestado.
 
-**Y de ahí una consecuencia que va contra el reflejo:** **añadir texto a un texto ambiguo lo empeora.** **Encima de la duda, más texto: ahora hay dos renglones que se pueden leer de dos maneras.** **Lo ambiguo no se engorda: se recorta hasta que queda una sola lectura.**
+Y de ahí una consecuencia que va contra el reflejo: añadir texto a un texto ambiguo lo empeora. Encima de la duda, más texto: ahora hay dos renglones que se pueden leer de dos maneras. Lo ambiguo no se engorda: se recorta hasta que queda una sola lectura.
 
-**Y hay una tercera forma, que es la peor porque no se ve:** **el hueco disfrazado de completo.** **Un renglón que dice «La búsqueda: ninguna».** **No está vacío, y da la misma información que un vacío: ninguna.** **Y el que lo lee no lo nota, porque hay algo escrito.**
+Y hay una tercera forma, que es la peor porque no se ve: el hueco disfrazado de completo. Un renglón que dice «La búsqueda: ninguna». No está vacío, y da la misma información que un vacío: ninguna. Y el que lo lee no lo nota, porque hay algo escrito.
 
 ### Y cómo se distinguen, que es una prueba y no una opinión
 
-**Se toma el renglón, se da a dos personas que no estaban, y se les pide que digan qué hacen.**
+Se toma el renglón, se da a dos personas que no estaban, y se les pide que digan qué hacen.
 
 ```plaintext
 las dos dicen lo mismo          →  no hay falla
@@ -94,9 +96,9 @@ inventa                          →  es hueco
 las dos hacen cosas distintas    →  es ambiguo
 ```
 
-**Y sirve para las dos cosas a la vez, porque lo que se mira no es el renglón: es lo que dos lectores hacen con él.**
+Y sirve para las dos cosas a la vez, porque lo que se mira no es el renglón: es lo que dos lectores hacen con él.
 
-**Y el caso que se escapa de la prueba, y se dice:** **dos personas pueden coincidir y estar las dos equivocadas.** **Coincidir descarta la ambigüedad; no confirma que lo escrito sea lo que se quería.**
+Y el caso que se escapa de la prueba, y se dice: dos personas pueden coincidir y estar las dos equivocadas. Coincidir descarta la ambigüedad; no confirma que lo escrito sea lo que se quería.
 
 Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia. Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
 
@@ -192,22 +194,22 @@ Lo que sí funciona es poner el objetivo en el archivo del proceso, y dejar que 
 
 ## VIII. La IA mató los estándares, y lo que quedó son las direcciones
 
-**Y aquí está lo que este ensayo no había dicho, y es la razón por la que existe.**
+Y aquí está lo que este ensayo no había dicho, y es la razón por la que existe.
 
-**Los estándares de formato se acabaron.** **Nadie va a imponer cuántos encabezados lleva un documento, ni cómo se numera una lista, ni qué plantilla se usa.** **Limitar a una IA a un formato rígido es estúpido: pierde lo que sabe hacer, y produce algo que parece escrito por un formulario.**
+Los estándares de formato se acabaron. Nadie va a imponer cuántos encabezados lleva un documento, ni cómo se numera una lista, ni qué plantilla se usa. Limitar a una IA a un formato rígido es estúpido: pierde lo que sabe hacer, y produce algo que parece escrito por un formulario.
 
-**Y dejarla sin ninguna dirección es peor.** **Sin dirección, una IA no escribe mal: escribe lo que cae, y lo que cae es un texto que suena bien y no sirve para ejecutar.**
+Y dejarla sin ninguna dirección es peor. Sin dirección, una IA no escribe mal: escribe lo que cae, y lo que cae es un texto que suena bien y no sirve para ejecutar.
 
-**Lo que queda, entonces, no son formatos: son direcciones.**
+Lo que queda, entonces, no son formatos: son direcciones.
 
 ```plaintext
 un formato       dice cómo se ve el texto
 una dirección    dice qué hacer, en qué orden, y cómo se sabe que salió bien
 ```
 
-**Y la forma de dar una dirección es este ensayo.** **El proceso.** **No es una plantilla de presentación: es la manera de decirle a una máquina qué hacer sin decirle cómo escribir.**
+Y la forma de dar una dirección es este ensayo. El proceso. No es una plantilla de presentación: es la manera de decirle a una máquina qué hacer sin decirle cómo escribir.
 
-**Y por eso el proceso tiene los renglones que tiene, y no otros:**
+Y por eso el proceso tiene los renglones que tiene, y no otros:
 
 | El renglón | Lo que le dice a la IA |
 |---|---|
@@ -218,13 +220,13 @@ una dirección    dice qué hacer, en qué orden, y cómo se sabe que salió bie
 | **falla si** | **cómo se sabe que se incumplió** |
 | **falsificador** | **qué la tumba, aunque la forma esté bien** |
 
-**Y sin estos renglones, una IA no falla por no ser capaz: falla por no haber recibido la dirección.** **Rellena el hueco con lo que parece razonable, y lo razonable no es lo pedido.**
+Y sin estos renglones, una IA no falla por no ser capaz: falla por no haber recibido la dirección. Rellena el hueco con lo que parece razonable, y lo razonable no es lo pedido.
 
 ---
 
 ## IX. Y de ahí salen tres direcciones, que no son tres documentos
 
-**Un repositorio con un método adentro tiene que dar tres direcciones distintas, y cada una va a alguien distinto:**
+Un repositorio con un método adentro tiene que dar tres direcciones distintas, y cada una va a alguien distinto:
 
 | La dirección | Para quién | Qué dice |
 |---|---|---|
@@ -232,17 +234,17 @@ una dirección    dice qué hacer, en qué orden, y cómo se sabe que salió bie
 | **hacer un stack** | **quien llega con sus propias herramientas** | **cómo se cambia una pieza por otra, y cómo se sabe que el cambio funcionó** |
 | **y las dos carpetas que las usan** | **un ejemplo probado, y un manual para construir el propio** | **el ejemplo trae un stack que ya funciona; el manual dice cómo hacer el propio desde ahí** |
 
-**Y la consistencia que exigen no es de formato: es de forma.** **Las tres se escriben en proceso, y ninguna impone una plantilla.**
+Y la consistencia que exigen no es de formato: es de forma. Las tres se escriben en proceso, y ninguna impone una plantilla.
 
-**Y eso es lo que hace que un repositorio se pueda clonar sin que se rompa:** **quien lo clona no hereda el gusto de quien lo escribió. Hereda las direcciones.** **Y con las direcciones se arma lo que necesite, sea cual sea su stack.**
+Y eso es lo que hace que un repositorio se pueda clonar sin que se rompa: quien lo clona no hereda el gusto de quien lo escribió. Hereda las direcciones. Y con las direcciones se arma lo que necesite, sea cual sea su stack.
 
 ---
 
 ## X. Y cómo se sabe si el proceso sirve: se rompe a propósito
 
-**Un proceso se puede escribir bien y no probar nada.** **Y hay una forma de saberlo que no depende de que alguien lo lea: se le cambia algo para que diga mal, y se mira si el que lo corre lo nota.**
+Un proceso se puede escribir bien y no probar nada. Y hay una forma de saberlo que no depende de que alguien lo lea: se le cambia algo para que diga mal, y se mira si el que lo corre lo nota.
 
-**A eso se le llama mutante, y el que corre se llama corrida.**
+A eso se le llama mutante, y el que corre se llama corrida.
 
 ```plaintext
 1. se saca la regla del proceso, tal como está escrita
@@ -254,13 +256,13 @@ una dirección    dice qué hacer, en qué orden, y cómo se sabe que salió bie
      la corrida pasa    →  el mutante sobrevive, y la regla no se probaba
 ```
 
-**Y un mutante que sobrevive es un hueco con nombre: no hay que adivinar dónde falta, el mutante lo dice.**
+Y un mutante que sobrevive es un hueco con nombre: no hay que adivinar dónde falta, el mutante lo dice.
 
 ### Y las reglas no se rompen una por una: se rompen por familias
 
-**Las reglas de un proceso no son casos de una regla mayor; son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
+Las reglas de un proceso no son casos de una regla mayor; son puntos distintos, y cada uno se puede cumplir o incumplir solo.
 
-**Así que cumplir una no implica cumplir otra, y la inclusión no ahorra casi nada.** **Lo que sí ahorra es agrupar:** **las que se rompen de la misma manera son una familia, y la familia se rompe con un solo mutante.**
+Así que cumplir una no implica cumplir otra, y la inclusión no ahorra casi nada. Lo que sí ahorra es agrupar: las que se rompen de la misma manera son una familia, y la familia se rompe con un solo mutante.
 
 ```plaintext
 la familia    varias reglas que se caen por la misma puerta
@@ -270,7 +272,7 @@ y el caso      el que rompe una sola, y se corre solo si el de la familia no mue
 
 ### Y cuándo se para
 
-**Y no es cuando ya no aparezca nada, porque nada aparece cuando el que busca es el mismo que ya sabe dónde no buscar.**
+Y no es cuando ya no aparezca nada, porque nada aparece cuando el que busca es el mismo que ya sabe dónde no buscar.
 
 ```plaintext
 1. cada regla de cada proceso tiene su mutante, y el mutante muere
@@ -278,13 +280,13 @@ y el caso      el que rompe una sola, y se corre solo si el de la familia no mue
    que detalle
 ```
 
-**Y las dos en ese orden.** **La primera dice que las reglas que están escritas se probaron.** **La segunda cubre lo que ningún proceso escribió.**
+Y las dos en ese orden. La primera dice que las reglas que están escritas se probaron. La segunda cubre lo que ningún proceso escribió.
 
-**Y el cero se escribe como cero.** **Un cero puede significar dos cosas —que está completo, o que la prueba dejó de exigirle— y no se distinguen desde adentro.**
+Y el cero se escribe como cero. Un cero puede significar dos cosas —que está completo, o que la prueba dejó de exigirle— y no se distinguen desde adentro.
 
 ### Y cómo se corre una corrida
 
-**Una corrida es levantar el ente entero desde el proceso, y ver qué hubo que inventar.**
+Una corrida es levantar el ente entero desde el proceso, y ver qué hubo que inventar.
 
 ```plaintext
 1. se leen los procesos               sin mirar lo que se hizo antes
@@ -296,11 +298,11 @@ y el caso      el que rompe una sola, y se corre solo si el de la familia no mue
 7. se cierra el hueco en el proceso   y se repite desde el 1
 ```
 
-**Y la regla que la hace servir:** **lo que se inventa es del proceso, no de lo que se levantó.** **Lo que se levantó hizo lo que pudo con lo que había.**
+Y la regla que la hace servir: lo que se inventa es del proceso, no de lo que se levantó. Lo que se levantó hizo lo que pudo con lo que había.
 
-**Y una corrida no vale por pedazos:** **levantar solo el paso que se prueba ahorra tiempo y pierde la prueba, porque lo que más se rompe son las costuras entre un paso y el siguiente.**
+Y una corrida no vale por pedazos: levantar solo el paso que se prueba ahorra tiempo y pierde la prueba, porque lo que más se rompe son las costuras entre un paso y el siguiente.
 
-**Falsificador de esta sección:** **un proceso que se presenta como probado y no tiene su mutante**; **un mutante que sobrevive y no se apunta**; **y una corrida que se recortó para que saliera limpia.**
+Falsificador de esta sección: un proceso que se presenta como probado y no tiene su mutante; **un mutante que sobrevive y no se apunta**; y una corrida que se recortó para que saliera limpia.
 
 ---
 
@@ -416,8 +418,8 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 
 Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.
 
-**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 
 ---
 
-**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola; y el más silencioso de todos: **un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido, porque la quietud tiene la forma del éxito**; **un renglón que admite dos lecturas, presentado como si el problema fuera que falta texto**; **y un renglón que dice «ninguna» donde no había nada que decir: eso es un hueco con la ropa de una respuesta.**
+Falsificador: un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola; y el más silencioso de todos: **un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido, porque la quietud tiene la forma del éxito**; **un renglón que admite dos lecturas, presentado como si el problema fuera que falta texto**; **y un renglón que dice «ninguna» donde no había nada que decir: eso es un hueco con la ropa de una respuesta.**

@@ -1,24 +1,26 @@
 # El stack, del usuario
 
-**La tabla, para el que está haciendo el suyo.** **La misma que la del autor, sin los valores puestos, y con la misma regla de antes.**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
+La tabla, para el que está haciendo el suyo. La misma que la del autor, sin los valores puestos, y con la misma regla de antes.
 
 ---
 
 ## Antes de llenarla, la única regla
 
-> **La meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.**
+> La meta no es tener las herramientas que quieres: es terminar con las que de verdad necesitas.
 
-**Y eso lo decide el ente, no la lista de cosas que suenan bien.** **Se prueba una, se apunta qué falló, y se cambia.** **Lo que quede al final es lo que sirve, y casi nunca es lo que se quería al principio.**
+Y eso lo decide el ente, no la lista de cosas que suenan bien. Se prueba una, se apunta qué falló, y se cambia. Lo que quede al final es lo que sirve, y casi nunca es lo que se quería al principio.
 
 ---
 
 ## Antes de llenarla: busca, no adivines
 
-**Ningún stack se sabe de memoria.**
+Ningún stack se sabe de memoria.
 
-**Cada stack es un mundo, y meter un ente en uno que no se conoce son semanas.** **Las piezas cambian de versión, cada una tiene su forma de instalarse, y la que servía hace un año puede que ya no exista.**
+Cada stack es un mundo, y meter un ente en uno que no se conoce son semanas. Las piezas cambian de versión, cada una tiene su forma de instalarse, y la que servía hace un año puede que ya no exista.
 
-> **Cada renglón se llena después de buscar en internet lo que se instala hoy, y no se llena con lo que se recuerda.**
+> Cada renglón se llena después de buscar en internet lo que se instala hoy, y no se llena con lo que se recuerda.
 
 | El renglón | Qué hay que buscar, y no suponer |
 |---|---|
@@ -27,9 +29,9 @@
 | **la base** | si el índice va como grafo, qué base de grafos es embebida y tiene binding para el lenguaje que ya se usa |
 | **el cuerpo** | cómo se declara ese modelo, y qué se sabe que hace mal |
 
-**Y la prueba que cierra cada búsqueda, que no es leer:** **si se puede instalar en una máquina limpia siguiendo lo que se encontró, sirve.** **Si no se puede, lo que se encontró está viejo, y se busca otra vez.**
+Y la prueba que cierra cada búsqueda, que no es leer: si se puede instalar en una máquina limpia siguiendo lo que se encontró, sirve. Si no se puede, lo que se encontró está viejo, y se busca otra vez.
 
-**Y si después de buscar no se sabe, se escribe "no se sabe".** **Eso no es una derrota: es la única respuesta honesta, y es la que dice qué hay que buscar la próxima vez.**
+Y si después de buscar no se sabe, se escribe "no se sabe". Eso no es una derrota: es la única respuesta honesta, y es la que dice qué hay que buscar la próxima vez.
 
 ---
 
@@ -47,14 +49,14 @@
 | **la autoridad** | quién firma | |
 | **lo que la autoridad no decide** | lo que el ente no decide nunca | |
 
-**Y se llena a mano, en un archivo de texto.** **Nadie la va a leer con un programa.**
+Y se llena a mano, en un archivo de texto. Nadie la va a leer con un programa.
 
 ---
 
-**Y el manual de cómo se cambia cada pieza está en [`README.md`](README.md).**
+Y el manual de cómo se cambia cada pieza está en [`README.md`](README.md).
 
 ---
 
 ## Falsificador
 
-**Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba y nunca se buscó.** **La señal, en el acto:** **alguien va a instalarlo y la pieza ya no se llama así.**
+Un stack llenado con lo que suena bien y nunca usado, o con lo que se recordaba y nunca se buscó. La señal, en el acto: alguien va a instalarlo y la pieza ya no se llama así.

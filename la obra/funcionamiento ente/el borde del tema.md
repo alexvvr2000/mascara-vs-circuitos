@@ -1,5 +1,7 @@
 # El borde del tema
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Cómo se escribe el borde de un tema para que una máquina lo pueda correr, y para que dos personas no lo lean distinto.
 
 Alejandro Valenzuela Rivera.
@@ -264,11 +266,11 @@ Y antes de los cuatro pasos, uno que se salta: el borde tiene que decir si lo ev
 **Entra:** la pieza, o el tipo de pieza que va a llegar.
 **Sale:** las cuatro partes: quién evalúa, `entra_si`, `no_entra`, y `y si duda`.
 **Lo consume:** el paso 2 del ciclo, que compara la pieza contra cada tema.
-**La búsqueda:** se pregunta a quién va a evaluar, y con qué campos. Un borde de máquina mira campos; uno de persona mira el texto.
+La búsqueda: se pregunta a quién va a evaluar, y con qué campos. Un borde de máquina mira campos; uno de persona mira el texto.
 **Y si no encuentra:** si no se puede escribir como condición sobre campos, el borde es de persona, y se dice quién lo evalúa, con nombre.
 **Falla si:** el borde mira el texto en vez de los campos; o si la zona gris se inventa al consultar en vez de declararse al escribir.
-**Falsificador:** un borde que dos personas clasifican distinto; y uno de máquina que mira el texto de la pieza.
-**Y qué se pierde si cambia:** sin `no_entra`, cada pieza que casi aplica reabre la discusión; y sin `y si duda`, el casi se resuelve a gusto del que consulta.
+Falsificador: un borde que dos personas clasifican distinto; y uno de máquina que mira el texto de la pieza.
+Y qué se pierde si cambia: sin `no_entra`, cada pieza que casi aplica reabre la discusión; y sin `y si duda`, el casi se resuelve a gusto del que consulta.
 
 ### Consultar un borde
 
@@ -276,17 +278,17 @@ Y antes de los cuatro pasos, uno que se salta: el borde tiene que decir si lo ev
 **Entra:** la pieza, con sus campos.
 **Sale:** una de cuatro salidas: sí, no, medio, o no es de este tema.
 **Lo consume:** el paso 3, que decide con el tema que salió de aquí.
-**La búsqueda:** primero se mira si la pieza cae en dos temas; después si el tema está completo.
+La búsqueda: primero se mira si la pieza cae en dos temas; después si el tema está completo.
 **Y si no encuentra:** si la pieza no cae en ninguna de las salidas, se apunta que al borde le falta un caso. No se mete a la fuerza en el casi.
 **Falla si:** el solapamiento se mira después de las herramientas; o si el casi se llena con lo que no encaja.
-**Falsificador:** una pieza que cae en dos temas y recibe «no sé», porque uno de los dos estaba incompleto: el ente contestó a la pregunta equivocada.
-**Y qué se pierde si cambia:** si se invierte el orden, un tema a medias tapa un solapamiento, y el índice se queda con el defecto a cuestas.
+Falsificador: una pieza que cae en dos temas y recibe «no sé», porque uno de los dos estaba incompleto: el ente contestó a la pregunta equivocada.
+Y qué se pierde si cambia: si se invierte el orden, un tema a medias tapa un solapamiento, y el índice se queda con el defecto a cuestas.
 
 ---
 
 ## Prueba
 
-**¿El borde dice quién lo evalúa, una máquina o una persona? ¿Se escribe como condición sobre los campos de la pieza, y no sobre su texto? ¿Declara su zona gris al escribirse, o la inventa al consultarse? ¿Distingue «no» de «no es de este tema»? ¿Cuándo dos temas se solapan, se apunta antes de mirar otra cosa? ¿El tema de persona deja la pieza en pendiente, o la deja pasar sin que nadie conteste?**
+¿El borde dice quién lo evalúa, una máquina o una persona? ¿Se escribe como condición sobre los campos de la pieza, y no sobre su texto? ¿Declara su zona gris al escribirse, o la inventa al consultarse? ¿Distingue «no» de «no es de este tema»? ¿Cuándo dos temas se solapan, se apunta antes de mirar otra cosa? ¿El tema de persona deja la pieza en pendiente, o la deja pasar sin que nadie conteste?
 
 ---
 
@@ -306,4 +308,4 @@ Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que
 
 ---
 
-**Falsificador:** un borde que dos personas clasifican distinto; un borde de máquina que mira el texto de la pieza en vez de sus campos; una zona gris que se inventa al consultar; una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza; un ente que dice «no tengo tema» cuando el problema era que un tema estaba a medias; y un tema de persona que no deja la pieza en pendiente.
+Falsificador: un borde que dos personas clasifican distinto; un borde de máquina que mira el texto de la pieza en vez de sus campos; una zona gris que se inventa al consultar; una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza; un ente que dice «no tengo tema» cuando el problema era que un tema estaba a medias; y un tema de persona que no deja la pieza en pendiente.

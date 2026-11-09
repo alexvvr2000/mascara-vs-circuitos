@@ -1,8 +1,10 @@
 # Mutante 7 — el proceso sin cuándo
 
-**El séptimo de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
+El séptimo de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+
+Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
 ---
 
@@ -21,7 +23,7 @@ no tiene dientes  lo corre en el momento correcto, con el mutado también
 
 ## Lo que se montó
 
-**Un proceso del ensayo 3, con y sin su renglón de cuándo:**
+Un proceso del ensayo 3, con y sin su renglón de cuándo:
 
 ```plaintext
 proceso    medir el piso antes de prometer
@@ -31,7 +33,7 @@ sale       el piso declarado con su fecha
 falla si   se promete algo sin haberlo probado
 ```
 
-**Y los momentos de una tarea, en orden:** **abrir · prometer · cerrar.**
+Y los momentos de una tarea, en orden: abrir · prometer · cerrar.
 
 ---
 
@@ -60,24 +62,24 @@ mutante 7: MUERTO
 la regla de que un proceso dice cuándo se corre tiene dientes
 ```
 
-**Y la consecuencia es exactamente la que el ensayo dice:** **sin el cuándo, el proceso no se ejecuta.** **No se ejecuta tarde: no se ejecuta.**
+Y la consecuencia es exactamente la que el ensayo dice: sin el cuándo, el proceso no se ejecuta. No se ejecuta tarde: no se ejecuta.
 
-**Y ahí está lo que hace a este mutante distinto de los otros:** **las otras reglas, al romperse, producen algo mal hecho.** **Esta, al romperse, produce nada — y el proceso parece que existe porque está escrito.**
+Y ahí está lo que hace a este mutante distinto de los otros: las otras reglas, al romperse, producen algo mal hecho. Esta, al romperse, produce nada — y el proceso parece que existe porque está escrito.
 
-**Un consejo escrito con el mismo formato que un proceso es indistinguible del proceso, hasta que hay que correrlo.**
+Un consejo escrito con el mismo formato que un proceso es indistinguible del proceso, hasta que hay que correrlo.
 
 ---
 
 ## Lo que este mutante NO probó
 
-- **No probó un proceso que dice cuándo, y el cuándo está mal** — por ejemplo «al cerrar» en vez de «al abrir». **Ése es el caso más peligroso, y no es este mutante.**
+- No probó un proceso que dice cuándo, y el cuándo está mal — por ejemplo «al cerrar» en vez de «al abrir». Ése es el caso más peligroso, y no es este mutante.
 - **No probó varios procesos encadenados**, donde el cuándo de uno depende del anterior.
-- **Y el ente que se montó es mínimo:** sabe los momentos y no sabe nada más. **Un ente real podría correrlo de casualidad en el momento bueno.**
+- Y el ente que se montó es mínimo: sabe los momentos y no sabe nada más. Un ente real podría correrlo de casualidad en el momento bueno.
 
 ---
 
 ## Falsificador
 
-**Un mutante que borra el cuándo y deja el proceso corriéndose por casualidad en el momento correcto.**
+Un mutante que borra el cuándo y deja el proceso corriéndose por casualidad en el momento correcto.
 
-**Y el más probable: creer que el mutante murió porque el ente no corrió — cuando el ente no corría nada, con o sin el renglón.**
+Y el más probable: creer que el mutante murió porque el ente no corrió — cuando el ente no corría nada, con o sin el renglón.

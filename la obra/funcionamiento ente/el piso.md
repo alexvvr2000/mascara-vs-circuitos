@@ -1,5 +1,7 @@
 # El piso
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.
 
 Alejandro Valenzuela Rivera.
@@ -159,9 +161,9 @@ Y el límite que queda, y es de tiempo, no de método: la primera vez que llega 
 
 ### Y falta decir quién hace el enlace, que es lo que el paso 5 da por hecho
 
-**El paso 5 dice que «la tarea pasa a estar cubierta» y no dice quién la cubre.**
+El paso 5 dice que «la tarea pasa a estar cubierta» y no dice quién la cubre.
 
-**Y hay dos candidatos, y no son el mismo:**
+Y hay dos candidatos, y no son el mismo:
 
 ```plaintext
 el que mide        mide la herramienta, y al medirla tendria que marcar
@@ -174,11 +176,11 @@ la tarea           para decir "ya la tengo". pero si vuelve, tiene que
                    volver a proposito, y nadie se lo pide
 ```
 
-**Y sin decir cuál es, el mecanismo se queda en la mitad: el renglón del piso entra, y la tarea no se entera.**
+Y sin decir cuál es, el mecanismo se queda en la mitad: el renglón del piso entra, y la tarea no se entera.
 
-**La regla que este ensayo adopta, y se puede correr:** **el enlace lo hace el que mide, y la medición lleva anotado qué tarea la pidió.** **Medir sin decir para qué se mide es medir de más, y no saber a quién se le acaba de responder.**
+La regla que este ensayo adopta, y se puede correr: el enlace lo hace el que mide, y la medición lleva anotado qué tarea la pidió. Medir sin decir para qué se mide es medir de más, y no saber a quién se le acaba de responder.
 
-**Y una cuarta, y es la que más se esconde: la medición y la tarea que la declara tienen que ser la misma tarea.**
+Y una cuarta, y es la que más se esconde: la medición y la tarea que la declara tienen que ser la misma tarea.
 
 ```plaintext
 lo que NO basta   que la medición exista. si existe, la llave foránea la acepta
@@ -186,18 +188,18 @@ lo que sí         que la medición la haya pedido la MISMA tarea que la enlaza.
                   si no, el piso dice que alcanza, y alcanza para otra cosa
 ```
 
-**Y esto no truena, que es lo que lo hace peligroso:** **una tarea se compromete con la prueba de otra, y el registro se ve completo.** **El ente contesta que sí, y contesta de buena fe, con un dato que es cierto y que no es suyo.**
+Y esto no truena, que es lo que lo hace peligroso: una tarea se compromete con la prueba de otra, y el registro se ve completo. El ente contesta que sí, y contesta de buena fe, con un dato que es cierto y que no es suyo.
 
-**Y una tercera, que se encuentra al correr el ciclo entero: una herramienta se mide más de una vez, y las dos mediciones se quedan.**
+Y una tercera, que se encuentra al correr el ciclo entero: una herramienta se mide más de una vez, y las dos mediciones se quedan.
 
 ```plaintext
 la del arranque    mide lo que hay, y no la pidió ninguna tarea
 la de después      mide lo que una tarea pidió, y lleva esa tarea anotada
 ```
 
-**Y no se borra la vieja para que la vista se vea limpia.** **Un piso que borra su historia no se puede revisar: no se puede decir cuándo se midió, ni por qué.** **La vista toma la última, y la última es la que vale; las anteriores son el rastro de haber medido.**
+Y no se borra la vieja para que la vista se vea limpia. Un piso que borra su historia no se puede revisar: no se puede decir cuándo se midió, ni por qué. La vista toma la última, y la última es la que vale; las anteriores son el rastro de haber medido.
 
-**Y una segunda cosa, que se ve al intentarlo:** **si el enlace falla, no se lleva la tarea consigo.** **Una tarea sin enlace es un dato que se puede volver a preguntar; una tarea borrada por un error de enlace es un dato que ya no existe.** **El orden es: primero la tarea, después el enlace, y lo que falle se apunta en vez de borrar.**
+Y una segunda cosa, que se ve al intentarlo: si el enlace falla, no se lleva la tarea consigo. Una tarea sin enlace es un dato que se puede volver a preguntar; una tarea borrada por un error de enlace es un dato que ya no existe. El orden es: primero la tarea, después el enlace, y lo que falle se apunta en vez de borrar.
 
 **Se corre:** al abrir la tarea, antes de prometer nada; y otra vez cada vez que falla algo que el piso daba por hecho.
 
@@ -207,34 +209,34 @@ la de después      mide lo que una tarea pidió, y lleva esa tarea anotada
 
 **Falla si:** se promete algo sin haberlo probado, o se sigue prometiendo con el piso roto.
 
-**Falsificador:** un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que se puede decir por qué se probó eso y no otra cosa.
+Falsificador: un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que se puede decir por qué se probó eso y no otra cosa.
 
 ---
 
 ## Y el piso que sirve no se mide en reglas: se mide en si alguien empieza
 
-**Todo lo anterior dice cómo se mide lo que hay. Esto dice cuándo lo que hay ya basta, y es otra pregunta.**
+Todo lo anterior dice cómo se mide lo que hay. Esto dice cuándo lo que hay ya basta, y es otra pregunta.
 
-**Y la respuesta no es un número, es una condición, y tiene dos mitades que tienen que cumplirse a la vez:**
+Y la respuesta no es un número, es una condición, y tiene dos mitades que tienen que cumplirse a la vez:
 
-> **Que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más pueda seguir desde donde el primero dejó.**
+> Que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más pueda seguir desde donde el primero dejó.
 
 ```plaintext
 si el que sabe menos no puede empezar     → no hay piso
 si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
 ```
 
-**Y ninguna de las dos se puede declarar desde adentro.** **La primera se sabe cuando alguien empieza; la segunda, cuando alguien sigue.** **Un piso que solo declara el que lo construyó es una intención.**
+Y ninguna de las dos se puede declarar desde adentro. La primera se sabe cuando alguien empieza; la segunda, cuando alguien sigue. Un piso que solo declara el que lo construyó es una intención.
 
 ### Y no es el final, y eso está previsto
 
-**Un ente vive en un mundo que cambia, y la descripción se queda.** **Así que la solución final puede tener huecos, y los va a tener.**
+Un ente vive en un mundo que cambia, y la descripción se queda. Así que la solución final puede tener huecos, y los va a tener.
 
-**Y lo que sí termina no es la descripción: es lo que una generación necesita para empezar.** **Eso se puede decir, se puede tocar, y se ve cuando está.**
+Y lo que sí termina no es la descripción: es lo que una generación necesita para empezar. Eso se puede decir, se puede tocar, y se ve cuando está.
 
 ### Y la línea que impide que esto sea una excusa
 
-**«Lo suficientemente bueno» también es la puerta por la que se sale sin hacer el trabajo.**
+«Lo suficientemente bueno» también es la puerta por la que se sale sin hacer el trabajo.
 
 ```plaintext
 lo que NO es
@@ -244,15 +246,15 @@ lo que SÍ es
   lo que se puede empezar a usar, alguien lo empezó, y dijo dónde falló
 ```
 
-**La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió.**
+La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió.
 
-**Falsificador de esta sección:** **un piso que se declara suficiente sin que nadie lo haya empezado**; **y su contrario: seguir midiendo para siempre, porque un piso no se acaba de medir nunca.**
+Falsificador de esta sección: un piso que se declara suficiente sin que nadie lo haya empezado; y su contrario: seguir midiendo para siempre, porque un piso no se acaba de medir nunca.
 
 ---
 
 ## Prueba
 
-**¿Se midió el piso antes de la primera tarea, o se declaró a ojo? ¿Cada hecho dice contra qué piso se hizo? ¿Cuando se pidió algo que el piso no tenía, se dijo qué faltaba, o se dijo «no pude»? ¿Lo que un `no hay` guarda es la falta, con el nombre de la herramienta, o el error crudo? ¿El ente contesta por tarea, o busca la palabra del pedido en la lista de herramientas? ¿Se dice qué falta del piso en vez de detenerse a esperar?**
+¿Se midió el piso antes de la primera tarea, o se declaró a ojo? ¿Cada hecho dice contra qué piso se hizo? ¿Cuando se pidió algo que el piso no tenía, se dijo qué faltaba, o se dijo «no pude»? ¿Lo que un `no hay` guarda es la falta, con el nombre de la herramienta, o el error crudo? ¿El ente contesta por tarea, o busca la palabra del pedido en la lista de herramientas? ¿Se dice qué falta del piso en vez de detenerse a esperar?
 
 ---
 
@@ -273,4 +275,4 @@ Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que
 
 ---
 
-**Falsificador:** **un piso que dice `hay` y cuya salida no se puede volver a correr sobre esa herramienta**; **un piso que crece y no cubre la tarea que lo hizo crecer**; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.
+Falsificador: **un piso que dice `hay` y cuya salida no se puede volver a correr sobre esa herramienta**; **un piso que crece y no cubre la tarea que lo hizo crecer**; un piso declarado a ojo y nunca corrido; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un «no pude» en vez de qué falta; un ente que jura que tiene red después de que se cayó; un ente que acierta buscando la palabra del pedido en la lista de herramientas; y un piso del que no se puede decir por qué se probó eso y no otra cosa.

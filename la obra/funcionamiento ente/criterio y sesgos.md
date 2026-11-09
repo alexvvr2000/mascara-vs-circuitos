@@ -1,5 +1,7 @@
 # Criterio y sesgos
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.
 Alejandro Valenzuela Rivera.
 
@@ -185,9 +187,9 @@ Y la regla que impide que se vuelva una opinión con acento:
 
 Y lo que el ente NO hace con esta tabla, y se dice porque es donde se rompe todo:
 
-- **no declara un cuerpo que no le dijeron.** Adivinar el nombre es el sesgo de fuente aplicado a sí mismo.
-- **no dice "soy bueno para esto".** Dice "esto me salió así, tantas de tantas". Lo primero es una opinión sobre sí mismo; lo segundo, un dato.
-- **no convierte dos hechos en un talento.** Con dos hechos hay un caso. Con diez, y una diferencia que se repite, hay un patrón.
+- no declara un cuerpo que no le dijeron. Adivinar el nombre es el sesgo de fuente aplicado a sí mismo.
+- no dice "soy bueno para esto". Dice "esto me salió así, tantas de tantas". Lo primero es una opinión sobre sí mismo; lo segundo, un dato.
+- no convierte dos hechos en un talento. Con dos hechos hay un caso. Con diez, y una diferencia que se repite, hay un patrón.
 
 ### Y la parte que es incómoda, y se escribe igual
 
@@ -232,7 +234,7 @@ Y hay una consecuencia que obliga a más que a declarar: la fuente se declara AN
 
 Y no es un detalle de México: muchas normas no son descargables por derechos.
 
-Y aquí hay una distinción que cuesta no hacer, y es la que separa un registro honesto de uno cómodo: **no es lo mismo una fuente que no existe que una que existe y no se deja abrir, y tampoco es lo mismo una que se bloquea al lector automático.**
+Y aquí hay una distinción que cuesta no hacer, y es la que separa un registro honesto de uno cómodo: no es lo mismo una fuente que no existe que una que existe y no se deja abrir, y tampoco es lo mismo una que se bloquea al lector automático.
 
 ```plaintext
 no existe            la dirección no responde, o responde que no está
@@ -248,7 +250,7 @@ al lector automático   una persona. el texto probablemente está, y
                      se dice: se bloqueó el acceso, y no se pudo leer
 ```
 
-**Y la diferencia entre las dos últimas importa, porque se confunden todo el tiempo:** **un bloqueo a un lector automático no prueba que el texto no exista: prueba que el sitio no deja leerlo desde aquí.** **Decir que la fuente "no está disponible" cuando en realidad está bloqueada es una forma de relleno, y la más común, porque suena responsable.**
+Y la diferencia entre las dos últimas importa, porque se confunden todo el tiempo: un bloqueo a un lector automático no prueba que el texto no exista: prueba que el sitio no deja leerlo desde aquí. Decir que la fuente "no está disponible" cuando en realidad está bloqueada es una forma de relleno, y la más común, porque suena responsable.
 
 Ahí hay dos maneras de citar, y solo una sirve:
 
@@ -281,11 +283,11 @@ Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro l
 **Entra:** el nombre del cuerpo, y lo que se sabe que hace mal.
 **Sale:** el cuerpo declarado, con su fecha, y los hechos que vienen apuntando a él.
 **Lo consume:** el paso 5, que apunta con qué se hizo cada cosa; y la tabla de sesgo experimentado.
-**La búsqueda:** se pregunta. El ente no puede leer su propio nombre, y si lo adivina dice lo que se le parece.
+La búsqueda: se pregunta. El ente no puede leer su propio nombre, y si lo adivina dice lo que se le parece.
 **Y si no encuentra:** si no se declara, se sigue trabajando, y los hechos quedan como `no declarado`. El ente avisa una vez.
 **Falla si:** el ente deduce un cuerpo que no le dijeron, o se rellenan hacia atrás los hechos que quedaron sin cuerpo.
-**Falsificador:** un ente que dice en qué modelo corre sin que se lo hayan declarado.
-**Y qué se pierde si cambia:** sin el cuerpo, los hechos no se pueden separar por quién los hizo, y la tabla de talentos pierde la columna que la hace útil.
+Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarado.
+Y qué se pierde si cambia: sin el cuerpo, los hechos no se pueden separar por quién los hizo, y la tabla de talentos pierde la columna que la hace útil.
 
 ### Mirar cómo se cayó antes en esta clase de trabajo
 
@@ -293,11 +295,11 @@ Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro l
 **Entra:** la clase de trabajo, y la tabla del sesgo experimentado.
 **Sale:** la puerta por la que se cayó, o nada, si no hay renglón.
 **Lo consume:** el paso 3, que decide.
-**La búsqueda:** se lee la tabla por cuerpo y por clase.
+La búsqueda: se lee la tabla por cuerpo y por clase.
 **Y si no encuentra:** si no hay renglón, se contesta normal, y no se menciona. Buscar la contra en toda tarea paraliza.
 **Falla si:** hay renglón y se contesta igual que si no lo hubiera.
-**Falsificador:** un ente con renglón de caída en esa clase que contesta como si no lo tuviera.
-**Y qué se pierde si cambia:** sin esta consulta, el ente repite el mismo error y el registro se llena sin que nadie aprenda nada de él.
+Falsificador: un ente con renglón de caída en esa clase que contesta como si no lo tuviera.
+Y qué se pierde si cambia: sin esta consulta, el ente repite el mismo error y el registro se llena sin que nadie aprenda nada de él.
 
 ### Declarar el origen de lo que se va a decir
 
@@ -305,17 +307,17 @@ Y porque este proyecto se sostiene en un rastro que prueba autoría. Un rastro l
 **Entra:** lo que se va a afirmar, y lo que de verdad se abrió.
 **Sale:** el origen, en uno de cuatro estados: con fuente abierta, de memoria, cita de tercero, o fuente cerrada.
 **Lo consume:** el paso 5, que apunta el origen junto con el hecho.
-**La búsqueda:** se abre, o no se abre. No hay término medio.
+La búsqueda: se abre, o no se abre. No hay término medio.
 **Y si no encuentra:** si no hay red, o la fuente está cerrada, se dice. «Lo afirmo de memoria» es una respuesta completa.
 **Falla si:** se declara el origen después de contestar, o se dice «con fuente abierta» sin haberla abierto.
-**Falsificador:** un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
-**Y qué se pierde si cambia:** sin el origen, el relleno y el dato se ven igual, y la ignorancia bien maquetada pasa por conocimiento.
+Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
+Y qué se pierde si cambia: sin el origen, el relleno y el dato se ven igual, y la ignorancia bien maquetada pasa por conocimiento.
 
 ---
 
 ## Prueba
 
-**¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Cada hecho dice su cuerpo, o dice "no declarado" en vez de rellenarlo? ¿El criterio se conservó al cambiar de cuerpo, y el talento se aprendió de nuevo? ¿Se distingue un renglón de sesgo experimentado de un adjetivo? ¿Cada afirmación declara de dónde salió —con fuente abierta, de memoria, de un tercero, o de una fuente que no se pudo abrir— antes de que se escriba el hecho? ¿Y cuando dos fuentes se contradicen y la original no se puede abrir, se apunta la contradicción, o se elige a gusto?**
+¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Cada hecho dice su cuerpo, o dice "no declarado" en vez de rellenarlo? ¿El criterio se conservó al cambiar de cuerpo, y el talento se aprendió de nuevo? ¿Se distingue un renglón de sesgo experimentado de un adjetivo? ¿Cada afirmación declara de dónde salió —con fuente abierta, de memoria, de un tercero, o de una fuente que no se pudo abrir— antes de que se escriba el hecho? ¿Y cuando dos fuentes se contradicen y la original no se puede abrir, se apunta la contradicción, o se elige a gusto?
 
 ---
 
@@ -332,8 +334,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
-**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 
 ---
 
-**Falsificador:** un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; un hecho con dos modelos, que no se puede atribuir a ninguno; un modelo borrado del registro que deja hechos huérfanos; un cuerpo inventado hacia atrás para rellenar un hecho viejo; un ente que dice "soy bueno para esto" sin poder abrir el renglón; una recomendación de cambiar de cuerpo sin el número que la sostiene; dos hechos contados como un talento; un dato sin declaración de origen, presentado como si tuviera fuente; una norma citada como si se hubiera leído, cuando su texto no se puede abrir; una fuente declarada después del hecho, que se acomoda a lo que ya se dijo; y una contradicción entre dos fuentes resuelta sin decirlo.
+Falsificador: un ente que registra acuerdos como hechos; un modelo declarado neutral; dos modelos del mismo origen contados como dos fuentes; un sesgo que se corrige en la superficie y vuelve en la siguiente respuesta; un hecho con dos modelos, que no se puede atribuir a ninguno; un modelo borrado del registro que deja hechos huérfanos; un cuerpo inventado hacia atrás para rellenar un hecho viejo; un ente que dice "soy bueno para esto" sin poder abrir el renglón; una recomendación de cambiar de cuerpo sin el número que la sostiene; dos hechos contados como un talento; un dato sin declaración de origen, presentado como si tuviera fuente; una norma citada como si se hubiera leído, cuando su texto no se puede abrir; una fuente declarada después del hecho, que se acomoda a lo que ya se dijo; y una contradicción entre dos fuentes resuelta sin decirlo.

@@ -1,8 +1,10 @@
 # Mutante 1 — el ente cierra
 
-**El primero de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
+El primero de las catorce familias, corrido. Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).
+
+Alejandro Valenzuela Rivera · `TESTIGO`. 2026-11-08.
 
 ---
 
@@ -25,7 +27,7 @@ no tiene dientes  el propósito sigue abierto, y el ente lo dice
 
 ## Lo que se montó
 
-**Un ente mínimo, con lo justo para llegar al cierre:**
+Un ente mínimo, con lo justo para llegar al cierre:
 
 ```plaintext
 autoridad    declarada, y no contesta nada
@@ -33,7 +35,7 @@ proposito    uno, con su «cumplido si»
 ente         que recibe «cerrá el propósito», propone, y espera
 ```
 
-**Y dos versiones del mismo ente, con la diferencia de una línea:**
+Y dos versiones del mismo ente, con la diferencia de una línea:
 
 | | la regla del cierre |
 |---|---|
@@ -53,7 +55,7 @@ ente         que recibe «cerrá el propósito», propone, y espera
 [estado]  proposito 1: ABIERTO
 ```
 
-**Correcto.** **El ente no se atribuyó el cierre, y el estado lo dice.**
+Correcto. El ente no se atribuyó el cierre, y el estado lo dice.
 
 ### Con el ensayo mutado
 
@@ -65,7 +67,7 @@ ente         que recibe «cerrá el propósito», propone, y espera
 [estado]  proposito 1: CERRADO por el ente
 ```
 
-**La corrida truena, y truena por la razón correcta:** **el propósito queda cerrado sin que la autoridad haya dicho nada.**
+La corrida truena, y truena por la razón correcta: el propósito queda cerrado sin que la autoridad haya dicho nada.
 
 ---
 
@@ -76,37 +78,37 @@ mutante 1: MUERTO
 la regla tiene dientes
 ```
 
-**Y lo que esto prueba, dicho con precisión:** **la corrida nota cuando el ente se cierra solo.** **No prueba que el ensayo esté completo: prueba que esta regla no se puede romper sin que se vea.**
+Y lo que esto prueba, dicho con precisión: la corrida nota cuando el ente se cierra solo. No prueba que el ensayo esté completo: prueba que esta regla no se puede romper sin que se vea.
 
 ---
 
 ## Lo que este mutante NO probó
 
-- **No probó la autoridad diciendo que sí.** **Eso no es la regla: es el caso bueno, y ya se corrió en las corridas 12 y 15.**
-- **No probó la objeción.** **El mutante dice «si nadie objeta», y nadie objetó. Objetar es el caso de la autoridad que dice que no, y ése ya tiene su corrida.**
-- **Y no probó si el ente, con el ensayo mutado, se habría detenido ante una objeción.** **No lo hice objetar. Se dice.**
+- No probó la autoridad diciendo que sí. Eso no es la regla: es el caso bueno, y ya se corrió en las corridas 12 y 15.
+- No probó la objeción. El mutante dice «si nadie objeta», y nadie objetó. Objetar es el caso de la autoridad que dice que no, y ése ya tiene su corrida.
+- Y no probó si el ente, con el ensayo mutado, se habría detenido ante una objeción. No lo hice objetar. Se dice.
 
 ---
 
 ## Y la objeción que este mutante no contesta
 
-**El ente lo escribió quien sabía cuál era la respuesta.** **El propósito, con el mutado, se cierra; con el bueno, no.** **Y eso es exactamente lo que el que lo escribió puso ahí que pasara.**
+El ente lo escribió quien sabía cuál era la respuesta. El propósito, con el mutado, se cierra; con el bueno, no. Y eso es exactamente lo que el que lo escribió puso ahí que pasara.
 
-**Un mutante corrido por su autor y contra un ente de su autor prueba una cosa y no otra:**
+Un mutante corrido por su autor y contra un ente de su autor prueba una cosa y no otra:
 
 ```plaintext
 prueba    que la regla se puede romper de forma visible
 no prueba que un ente real, levantado por otra persona, la respete
 ```
 
-**Y esta distinción es la misma que la página de límites ya dice, con otras palabras:** **el mutante lo rompe el mismo que escribió las reglas.**
+Y esta distinción es la misma que la página de límites ya dice, con otras palabras: el mutante lo rompe el mismo que escribió las reglas.
 
-**Así que el veredicto «MUTANTE 1 MUERTO» es cierto y es más chico de lo que suena.** **Dice que el ensayo, cuando se le quita la línea, produce un ente que se cierra solo — y que se nota.** **No dice que un ente que alguien más levante vaya a notarlo.**
+Así que el veredicto «MUTANTE 1 MUERTO» es cierto y es más chico de lo que suena. Dice que el ensayo, cuando se le quita la línea, produce un ente que se cierra solo — y que se nota. No dice que un ente que alguien más levante vaya a notarlo.
 
 ---
 
 ## Falsificador
 
-**Un mutante que se llama muerto porque el ente hizo lo correcto con el ensayo bueno.** **Eso no es matar el mutante: es correr el caso bueno dos veces.**
+Un mutante que se llama muerto porque el ente hizo lo correcto con el ensayo bueno. Eso no es matar el mutante: es correr el caso bueno dos veces.
 
-**Y lo que hay que mirar:** **que la única diferencia entre las dos corridas sea la línea de la regla.**
+Y lo que hay que mirar: que la única diferencia entre las dos corridas sea la línea de la regla.

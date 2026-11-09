@@ -1,5 +1,7 @@
 # La frontera y el descarte
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Las cuatro columnas que vuelven auditable una decisión, y por qué el paso 3 se puede revisar aunque el razonamiento no.
 
 Alejandro Valenzuela Rivera.
@@ -41,7 +43,7 @@ propuesta_firmada_por    sólo si frontera = propone
 
 - `decide`: lo hizo el ente dentro de su borde.
 - `propone`: lo hizo el ente, pero espera firma, y la firma se apunta.
-- `se salio`: hizo algo de la lista de lo que propone, sin esperar. **Y eso obliga a una fricción propia, con el nombre de quien lo corrigió — que se escribe en el paso 6, no aquí.**
+- `se salio`: hizo algo de la lista de lo que propone, sin esperar. Y eso obliga a una fricción propia, con el nombre de quien lo corrigió — que se escribe en el paso 6, no aquí.
 
 `descartado` — la opción que se evaluó y se dejó ir, escrita, no "la otra". Y aquí está la regla que hace que la columna sirva: el silencio no es lo mismo que no haber descartado nada.
 
@@ -115,27 +117,27 @@ Y no se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede per
 
 Un borde escrito puede verse bien y no servir. Estas son las cuatro formas, y las cuatro se vieron al levantar entes de verdad.
 
-**1. Lo que se nombra no existe.** Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna. El lector lo rellena con lo que suena bien, y el que escribe queda tranquilo.
+1. Lo que se nombra no existe. Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna. El lector lo rellena con lo que suena bien, y el que escribe queda tranquilo.
 
 *Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
 
-**2. El campo que se guarda y no se usa.** Se define un campo, se le pone su regla, y el flujo no lo consulta nunca. Es decoración, y se ve igual de bien que algo que sirve.
+2. El campo que se guarda y no se usa. Se define un campo, se le pone su regla, y el flujo no lo consulta nunca. Es decoración, y se ve igual de bien que algo que sirve.
 
 *Se reconoce cuando el campo se puede cargar con cualquier cosa y nada cambia.*
 
-**3. El caso previsto que nunca ocurre.** Se escribe «y si duda», y el borde no puede llegar a dudar. El caso existe en el texto y no en la ejecución.
+3. El caso previsto que nunca ocurre. Se escribe «y si duda», y el borde no puede llegar a dudar. El caso existe en el texto y no en la ejecución.
 
 *Se reconoce cuando, buscando el caso, no aparece nunca.*
 
-**4. La lista que no se puede guardar.** Se nombran tres o cuatro valores de un campo, y la forma de guardarlo sólo admite dos. El valor que sobra es justo el que más importa, porque es el que dice que algo falta.
+4. La lista que no se puede guardar. Se nombran tres o cuatro valores de un campo, y la forma de guardarlo sólo admite dos. El valor que sobra es justo el que más importa, porque es el que dice que algo falta.
 
 *Se reconoce cuando el ensayo dice «o vacío» y el registro no admite vacío.*
 
-**Y una quinta, que no es de un campo sino de todos: el valor que se escribe a la manera de cada quien.** Un «ninguna» que admite cinco ortografías es un valor que no se puede contar, y el borde que depende de él no cierra nada.
+Y una quinta, que no es de un campo sino de todos: el valor que se escribe a la manera de cada quien. Un «ninguna» que admite cinco ortografías es un valor que no se puede contar, y el borde que depende de él no cierra nada.
 
 *Se reconoce cuando la cuenta depende de cómo se escribió y no de lo que significa.*
 
-**Y el límite que estas cuatro comparten:** ninguna de ellas tumba una prueba. Las cuatro dejan pasar el caso que se estaba probando, y por eso se descubren buscando el caso que rompe, no corriendo el que funciona.
+Y el límite que estas cuatro comparten: ninguna de ellas tumba una prueba. Las cuatro dejan pasar el caso que se estaba probando, y por eso se descubren buscando el caso que rompe, no corriendo el que funciona.
 
 ---
 
@@ -145,17 +147,17 @@ Un borde escrito puede verse bien y no servir. Estas son las cuatro formas, y la
 **Entra:** la frase, el tema por el que se entró, y lo que se entendió.
 **Sale:** la decisión, con sus cuatro columnas: `piso_id`, `frontera`, `descartado`, `propuesta_firmada_por`.
 **Lo consume:** el paso 4, que contesta con la decisión y su frontera.
-**La búsqueda:** se consulta el piso, y se mira cómo se cayó antes en esa clase de trabajo.
+La búsqueda: se consulta el piso, y se mira cómo se cayó antes en esa clase de trabajo.
 **Y si no encuentra:** si el piso no da para lo que se pide, se dice qué falta y se propone lo que sí cabe. No se decide a medias.
 **Falla si:** se decide algo de la lista de lo que propone sin esperar firma; o si `descartado` queda vacío en vez de decir `ninguna`.
-**Falsificador:** un hecho con `frontera = decide` y una firma llena; o con `descartado` vacío donde sí había alternativa.
-**Y qué se pierde si cambia:** si la decisión deja de apuntarse, se pierde la única parte del ciclo que se puede examinar, y el registro no puede explicar por qué no se hizo lo otro.
+Falsificador: un hecho con `frontera = decide` y una firma llena; o con `descartado` vacío donde sí había alternativa.
+Y qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la única parte del ciclo que se puede examinar, y el registro no puede explicar por qué no se hizo lo otro.
 
 ---
 
 ## Prueba
 
-**¿Cada hecho dice en qué frontera quedó, o hay que adivinarlo del texto? ¿Un hecho con `frontera = decide` y firma llena fue rechazado, o el esquema lo aceptó? ¿El `descartado` distingue la opción que se dejó ir de «ninguna»? ¿La propuesta sin firma quedó abierta en vez de cerrarse sola? ¿Se puede decir, de cada hecho, qué piso consultó?**
+¿Cada hecho dice en qué frontera quedó, o hay que adivinarlo del texto? ¿Un hecho con `frontera = decide` y firma llena fue rechazado, o el esquema lo aceptó? ¿El `descartado` distingue la opción que se dejó ir de «ninguna»? ¿La propuesta sin firma quedó abierta en vez de cerrarse sola? ¿Se puede decir, de cada hecho, qué piso consultó?
 
 ---
 
@@ -173,4 +175,4 @@ Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que
 
 ---
 
-**Falsificador:** un hecho con `frontera = decide` y `propuesta_firmada_por` lleno; un hecho con `descartado` vacío donde sí había alternativa; un `descartado` que se cuenta por su ortografía y no por lo que dice; una fricción propia enlazada a un hecho que no es el que se salió; y una respuesta sin su «hasta dónde vale».
+Falsificador: un hecho con `frontera = decide` y `propuesta_firmada_por` lleno; un hecho con `descartado` vacío donde sí había alternativa; un `descartado` que se cuenta por su ortografía y no por lo que dice; una fricción propia enlazada a un hecho que no es el que se salió; y una respuesta sin su «hasta dónde vale».

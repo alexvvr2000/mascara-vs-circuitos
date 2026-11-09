@@ -1,5 +1,7 @@
 # Medir sin preguntarle
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Cómo saber si un trabajo se hizo de verdad, con números que salen del registro y no de la opinión del que trabajó.
 
 Alejandro Valenzuela Rivera.
@@ -324,7 +326,7 @@ Y su falsificador: una herramienta enormemente capaz que, ante algo que no sabe,
 
 ## Prueba
 
-**¿Cada número sale del registro, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
+¿Cada número sale del registro, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?
 
 ---
 
@@ -344,15 +346,15 @@ Y lo que esta tabla no dice: el costo por resultado exitoso no está calculado e
 
 ---
 
-**Falsificador:** un cuerpo elegido por su tarifa; un promedio sin percentil alto; un output que hay que limpiar y no se cuenta en el precio; un talento aceptado sin haberse intentado refutar; un número que citó el propio modelo sobre sí mismo; una clase de trabajo que cambia de nombre y con eso nunca junta dos hechos; un cuerpo declarado "malo" sin decir por qué puerta se cayó y cuántas veces; y una comparación entre dos cuerpos hecha con tareas distintas, que atribuye a la máquina lo que era la tarea.
+Falsificador: un cuerpo elegido por su tarifa; un promedio sin percentil alto; un output que hay que limpiar y no se cuenta en el precio; un talento aceptado sin haberse intentado refutar; un número que citó el propio modelo sobre sí mismo; una clase de trabajo que cambia de nombre y con eso nunca junta dos hechos; un cuerpo declarado "malo" sin decir por qué puerta se cayó y cuántas veces; y una comparación entre dos cuerpos hecha con tareas distintas, que atribuye a la máquina lo que era la tarea.
 
 ---
 
 ## Y qué se pierde si cambia
 
-**Si se vuelve a preguntarle al modelo qué tan bueno es, se pierde la única medida que no se puede torcer desde adentro: el renglón que quedó escrito, y lo que costó producirlo.**
+Si se vuelve a preguntarle al modelo qué tan bueno es, se pierde la única medida que no se puede torcer desde adentro: el renglón que quedó escrito, y lo que costó producirlo.
 
-**Si se cuenta por llamada y no por resultado verificado, se pierde la varianza, y con ella la cola alta que es la que se paga sin saberlo.**
+Si se cuenta por llamada y no por resultado verificado, se pierde la varianza, y con ella la cola alta que es la que se paga sin saberlo.
 
-**Y si se elige el cuerpo por su tarifa, se pierde todo lo demás de este ensayo: lo barato que falla tres veces es más caro que lo que acierta, y el número que lo dice sale del registro, no del catálogo.**
+Y si se elige el cuerpo por su tarifa, se pierde todo lo demás de este ensayo: lo barato que falla tres veces es más caro que lo que acierta, y el número que lo dice sale del registro, no del catálogo.
 

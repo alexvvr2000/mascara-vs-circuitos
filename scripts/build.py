@@ -181,6 +181,21 @@ def regla_persona(p):
     return cuenta
 
 
+def regla_enfasis(p):
+    """No falla: mide. Devuelve el porcentaje de caracteres en negrita.
+
+    Más de un diez por ciento es lo que se lee como gritar: el lector deja de
+    ver dónde está lo importante porque está en todas partes.
+    """
+    texto = open(p, encoding="utf-8").read()
+    sin_cita = re.sub(r"«[^»]*»", " ", texto)
+    total = len(re.sub(r"\s+", "", sin_cita))
+    if not total:
+        return 0
+    negros = sum(len(m.group(1)) for m in re.finditer(r"\*\*(.+?)\*\*", sin_cita, re.S))
+    return round(100 * negros / total)
+
+
 def build(lista=False):
     fallos = []
     todos = []
@@ -197,6 +212,12 @@ def build(lista=False):
     for p in ensayos():
         regla_h1(p, fallos)
         regla_numero(p, fallos)
+
+    # Y el énfasis: si todo va en negrita, nada lo está. Solo se exige en los
+    # ensayos, y solo la marca de que el énfasis se revisó; la cuenta se mide.
+    for p in ensayos():
+        if "negritas:" not in open(p, encoding="utf-8").read():
+            fallos.append((rel(p), "NEGRITA", "sin la marca <!-- negritas: revisadas -->"))
 
     if fallos:
         print("BUILD CAIDO · %d fallos" % len(fallos))
@@ -227,6 +248,11 @@ def build(lista=False):
             cuenta = regla_persona(p)
             if cuenta:
                 print("    %-58s %s" % (rel(p), " · ".join("%s %d" % kv for kv in sorted(cuenta.items()))))
+        print()
+        print("  y el énfasis, en por ciento de los caracteres que van en negrita:")
+        for p in ensayos():
+            pct = regla_enfasis(p)
+            print("    %-58s %2d%%%s" % (rel(p), pct, "  ← revisar" if pct > 10 else ""))
 
     return 1 if fallos else 0
 

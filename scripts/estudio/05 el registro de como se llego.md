@@ -1,20 +1,22 @@
 # El registro de cómo se llegó
 
-**El resumen con fecha, y los errores propios que se encontraron revisando.**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.**
+El resumen con fecha, y los errores propios que se encontraron revisando.
+
+Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
 
 ---
 
 ## Entra
 
-**La pregunta que hace útil este cuaderno: no qué se hizo, sino qué se creía que iba a pasar, y qué pasó.**
+La pregunta que hace útil este cuaderno: no qué se hizo, sino qué se creía que iba a pasar, y qué pasó.
 
-**Una lista de lo que se hizo es un diario.** **Una lista de lo que se creía y qué pasó es lo que enseña.**
+Una lista de lo que se hizo es un diario. Una lista de lo que se creía y qué pasó es lo que enseña.
 
 ## Lo que pasó
 
-**El recorrido, en sus épocas:**
+El recorrido, en sus épocas:
 
 ```plaintext
 la apuesta          los ensayos escritos desde una discusión, creyendo que
@@ -38,9 +40,9 @@ la marca            las reglas rotas a propósito: se creía que un mutante
                     dientes
 ```
 
-**Y la lección que costó varias corridas:** **un cero puede significar dos cosas —que el ensayo está completo, o que la prueba dejó de exigirle— y no se distinguen desde adentro.**
+Y la lección que costó varias corridas: un cero puede significar dos cosas —que el ensayo está completo, o que la prueba dejó de exigirle— y no se distinguen desde adentro.
 
-**Y los errores propios, que se apuntan porque el que no los apunta los repite:**
+Y los errores propios, que se apuntan porque el que no los apunta los repite:
 
 ```plaintext
 contar de menos            un total que no cuadraba con lo que el repo
@@ -68,24 +70,24 @@ los nombres viejos         dos ensayos citaban uno renombrado, y nadie
                            lo vio hasta el renombrado
 ```
 
-**Y el más caro, que no es un dato sino una forma:** **tratar la metodología como el producto y los ensayos como consecuencia.** **Es al revés.**
+Y el más caro, que no es un dato sino una forma: tratar la metodología como el producto y los ensayos como consecuencia. Es al revés.
 
 ## Dónde queda ahora
 
-- **el criterio del ente:** [`el ciclo del ente`](../../la%20obra/funcionamiento%20ente/el%20ciclo%20del%20ente.md)
-- **la prueba del método:** [`metodo.md`](../../metodologia/sostiene/metodo.md)
-- **la lista de errores como criterio, y no como anécdota:** [`metodo.md`](../../metodologia/sostiene/metodo.md) §X
+- el criterio del ente: [`el ciclo del ente`](../../la%20obra/funcionamiento%20ente/el%20ciclo%20del%20ente.md)
+- la prueba del método: [`metodo.md`](../../metodologia/sostiene/metodo.md)
+- la lista de errores como criterio, y no como anécdota: [`metodo.md`](../../metodologia/sostiene/metodo.md) §X
 
 ## Falsificador
 
-**Un registro donde todo salió bien y cada paso siguió del anterior.** **Si no hay una idea que se cayó, un número que se contó mal, o una noche perdida, no es un registro: es publicidad.**
+Un registro donde todo salió bien y cada paso siguió del anterior. Si no hay una idea que se cayó, un número que se contó mal, o una noche perdida, no es un registro: es publicidad.
 
-**Y el que este cuaderno comete, y se dice:** **los errores los encontró quien los cometió, y puede haber más que no encontró.**
+Y el que este cuaderno comete, y se dice: los errores los encontró quien los cometió, y puede haber más que no encontró.
 
 ---
 
 ## Lo que este cuaderno conserva, y por qué
 
-**Los conteos de aquel día —cuántas corridas, cuántas reglas, cuántos cortes— no se repiten aquí: tienen fecha en el cuaderno original, y la cifra vigente vive en [`corridas.md`](../../metodologia/sostiene/corridas.md).**
+Los conteos de aquel día —cuántas corridas, cuántas reglas, cuántos cortes— no se repiten aquí: tienen fecha en el cuaderno original, y la cifra vigente vive en [`corridas.md`](../../metodologia/sostiene/corridas.md).
 
-**Lo que se conserva es la creencia que se cayó, y el error propio que la encontró.**
+Lo que se conserva es la creencia que se cayó, y el error propio que la encontró.

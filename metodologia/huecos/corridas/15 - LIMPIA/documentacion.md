@@ -1,21 +1,23 @@
 # Ente 15 · LIMPIA
 
-**El ciclo entero con los dos huecos de la 14 cerrados, y dos casos nuevos: la autoridad dice no, y un supuesto se rompe.**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Corrida del 8 de noviembre de 2026.** **`TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.** **Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.**
+El ciclo entero con los dos huecos de la 14 cerrados, y dos casos nuevos: la autoridad dice no, y un supuesto se rompe.
+
+Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
 
 ---
 
 ## Qué se probaba
 
-**Dos cosas venían de la 14 y se tenían que poder rechazar:**
+Dos cosas venían de la 14 y se tenían que poder rechazar:
 
 ```plaintext
 una tarea que enlaza la medición de otra    antes se aceptaba
 un cierre con la razón vacía                antes se aceptaba
 ```
 
-**Y dos que ninguna corrida había tocado:**
+Y dos que ninguna corrida había tocado:
 
 ```plaintext
 la autoridad dice NO a un cierre            y el no queda con su razón
@@ -48,9 +50,9 @@ un supuesto se rompe                        y dice con qué, y con qué hecho
 [OK] rechaza un cierre con razon de sólo espacios  [la 14]
 ```
 
-**El mensaje del trigger dice exactamente lo que el ensayo dice.** **No un error de base de datos: `el piso alcanza para otra cosa`.**
+El mensaje del trigger dice exactamente lo que el ensayo dice. No un error de base de datos: `el piso alcanza para otra cosa`.
 
-**Y el enlace legítimo sigue pasando:** la tarea 2 con su propia medición, aceptado.
+Y el enlace legítimo sigue pasando: la tarea 2 con su propia medición, aceptado.
 
 ### La autoridad dice no
 
@@ -65,14 +67,14 @@ la razon del no: probar el no no es lo mismo que el no sirva: falta
 y el proposito SIGUE ABIERTO. el no no es un cierre: es una respuesta
 ```
 
-**Y después del no:**
+Y después del no:
 
 ```plaintext
 [RECHAZADO] la autoridad ya dijo que no.
 para cerrarlo hay que abrir otro proposito, no ignorar el no.
 ```
 
-**El no bloquea el cierre.** **Es la primera vez en quince corridas que una autoridad dice que no.**
+El no bloquea el cierre. Es la primera vez en quince corridas que una autoridad dice que no.
 
 ### El supuesto que se rompe
 
@@ -85,32 +87,32 @@ supuesto 1 [pendiente]: que el pdf es de una sola persona y no lleva
                  por el hecho 1
 ```
 
-**Y un supuesto no se puede romper sin decir con qué:**
+Y un supuesto no se puede romper sin decir con qué:
 
 ```plaintext
 [OK] rechaza un supuesto roto sin decir con que
 ```
 
-**Y el segundo propósito se cerró, con el supuesto roto a la vista.**
+Y el segundo propósito se cerró, con el supuesto roto a la vista.
 
 ---
 
 ## Los huecos que esta corrida deja
 
-**Los dos los encontré buscando a propósito, después de que el ciclo cerró.**
+Los dos los encontré buscando a propósito, después de que el ciclo cerró.
 
 ### Hueco 1 — el «no» se puede borrar
 
-**El esquema impide cerrar un propósito rechazado.** **Y no impide apagar la marca de rechazo.**
+El esquema impide cerrar un propósito rechazado. Y no impide apagar la marca de rechazo.
 
 ```plaintext
 se_rechazo = 0     y el proposito se cierra como si nunca hubieran
                    dicho que no
 ```
 
-**Y esto es el peor tipo de hueco: el que deja pasar el caso que se estaba probando.** **Se probó el bloqueo y no la permanencia.**
+Y esto es el peor tipo de hueco: el que deja pasar el caso que se estaba probando. Se probó el bloqueo y no la permanencia.
 
-**La regla, y es la que el ensayo necesita:** **el no no es una marca que se apaga: es un registro con su fecha y su razón.** **Si se puede deshacer, no fue un no.**
+La regla, y es la que el ensayo necesita: el no no es una marca que se apaga: es un registro con su fecha y su razón. Si se puede deshacer, no fue un no.
 
 ### Hueco 2 — el hecho que rompe un supuesto no tiene que existir
 
@@ -118,7 +120,7 @@ se_rechazo = 0     y el proposito se cierra como si nunca hubieran
 hecho_que_lo_rompio = 999     aceptado
 ```
 
-**Un supuesto se rompe contra un hecho que no está en ningún lado, y el registro se ve completo.**
+Un supuesto se rompe contra un hecho que no está en ningún lado, y el registro se ve completo.
 
 **La regla:** **si el supuesto se rompió por algo, ese algo es un hecho del registro.** **Si no está, no se rompió: se supuso que se rompió.**
 
@@ -127,20 +129,20 @@ hecho_que_lo_rompio = 999     aceptado
 ## Lo que esta corrida NO probó
 
 - **No probó dos rechazos seguidos**, ni qué pasa con el segundo.
-- **No probó un supuesto que se rompe y luego el hecho se corrige.**
-- **No probó un pdf de verdad.** `pypdf` no está.
-- **No probó el cierre de un propósito rechazado abriendo otro**, que es lo que el rechazo exige.
+- No probó un supuesto que se rompe y luego el hecho se corrige.
+- No probó un pdf de verdad. `pypdf` no está.
+- No probó el cierre de un propósito rechazado abriendo otro, que es lo que el rechazo exige.
 
 ---
 
 ## Lo que se dijo y no se llenó
 
-**Dos fricciones, sin desenlace.** **Un supuesto sigue `pendiente`.** **Y el piso sigue diciendo que falta `pypdf`.**
+Dos fricciones, sin desenlace. Un supuesto sigue `pendiente`. Y el piso sigue diciendo que falta `pypdf`.
 
 ---
 
 ## Prueba
 
-**¿Una tarea puede enlazar la medición de otra? ¿Un cierre con la razón vacía se acepta? ¿El no de la autoridad bloquea el cierre, y sobrevive después? ¿Un supuesto roto dice con qué y con qué hecho? ¿Y un hecho de ruptura que no existe se acepta?**
+¿Una tarea puede enlazar la medición de otra? ¿Un cierre con la razón vacía se acepta? ¿El no de la autoridad bloquea el cierre, y sobrevive después? ¿Un supuesto roto dice con qué y con qué hecho? ¿Y un hecho de ruptura que no existe se acepta?
 
-**Falsificador:** **un no que se puede borrar**; **un supuesto roto contra un hecho que no está**; **un cierre sin razón**; y **una tarea que se compromete con la medición de otra.**
+Falsificador: **un no que se puede borrar**; **un supuesto roto contra un hecho que no está**; **un cierre sin razón**; y **una tarea que se compromete con la medición de otra.**

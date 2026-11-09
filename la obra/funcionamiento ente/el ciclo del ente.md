@@ -1,5 +1,7 @@
 # El ciclo del ente
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Los pasos que un ente corre, uno por uno: qué entra, qué se hace, y dónde queda.
 
 Alejandro Valenzuela Rivera.
@@ -80,7 +82,7 @@ Y el piso tampoco es una pieza: es una medición. Va después, en el paso 0d, po
 
 **Falla si:** el esquema tiene menos tablas que las cuatro piezas. Ésa es la señal, y se ve en el primer archivo.
 
-**Falsificador:** un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
+Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
 
 ### Paso 0a — el cuerpo, que es opcional y se avisa
 
@@ -115,7 +117,7 @@ Y la línea que lo hace honesto: si el cuerpo no se declara, el hueco es de quie
 
 **Falla si:** el ente deduce un cuerpo que no le dijeron.
 
-**Falsificador:** un ente que dice en qué modelo corre sin que se lo hayan declarado.
+Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarado.
 
 ### La autoridad: qué es, y cómo se declara
 
@@ -194,7 +196,7 @@ Y si no hay manera de preguntar (el que pide no está disponible), se declara el
 
 **Falla si:** se supone en silencio y se llama entendimiento.
 
-**Falsificador:** un ente que contesta sin haber dicho qué entendió; y uno que declara haber entendido cuando en realidad supuso, sin apuntar el supuesto con su estado.
+Falsificador: un ente que contesta sin haber dicho qué entendió; y uno que declara haber entendido cuando en realidad supuso, sin apuntar el supuesto con su estado.
 
 Y el supuesto no se queda en el aire: se guarda con el hecho, y tiene estado. Son tres, y el tercero es el que se olvida:
 
@@ -245,7 +247,7 @@ Y la declaración va antes del hecho, no después. Declarada después, se acomod
 
 **Falla si:** se parafrasea la frase, o se declara el origen después de contestar.
 
-**Falsificador:** un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
+Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
 
 ### Paso 2 — consulta el índice (antes de decidir)
 
@@ -273,7 +275,7 @@ Y aquí hay una consecuencia que se salta: si el tema existe pero su borde no la
 
 **Falla si:** se recorre por palabras sueltas, o se consulta el texto en vez del grafo.
 
-**Falsificador:** un ente que contesta algo que no está en su índice, y no lo declara.
+Falsificador: un ente que contesta algo que no está en su índice, y no lo declara.
 
 ### Paso 3 — decide, y aquí está la frontera de la autoridad
 
@@ -314,7 +316,7 @@ Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en [`l
 
 **Falla si:** se decide algo de la lista de lo que propone, sin esperar firma.
 
-**Falsificador:** un hecho que se salió del borde sin su fricción propia; y uno que se apunta con una firma que el ente no tenía.
+Falsificador: un hecho que se salió del borde sin su fricción propia; y uno que se apunta con una firma que el ente no tenía.
 
 ### Y al decidir, el ente mira el piso antes de prometer
 
@@ -388,7 +390,7 @@ y nunca               se la agrega solo, ni se detiene a esperar
 
 Y esto es lo más débil de este tramo, y se dice: un ente hace esto cuando su dueño se lo dice; notarlo solo es otra cosa. Mientras lo tenga que decir alguien, es una regla; cuando lo haga sin que se lo pidan, será criterio.
 
-**Falsificador:** un ente que se agregó una pieza y siguió sin decirlo; uno que truena porque le falta algo, en vez de decirlo; y uno que se inventa la pieza y a eso le llama adaptarse.
+Falsificador: un ente que se agregó una pieza y siguió sin decirlo; uno que truena porque le falta algo, en vez de decirlo; y uno que se inventa la pieza y a eso le llama adaptarse.
 
 ### Paso 4 — contesta
 
@@ -406,7 +408,7 @@ Y esto es lo más débil de este tramo, y se dice: un ente hace esto cuando su d
 
 **Falla si:** se contesta sin la frontera, o la frontera se manda después, aparte.
 
-**Falsificador:** una respuesta sin su «hasta dónde vale»; y una frontera que llega después de que la respuesta ya se leyó.
+Falsificador: una respuesta sin su «hasta dónde vale»; y una frontera que llega después de que la respuesta ya se leyó.
 
 ### Paso 5 — apunta
 
@@ -447,7 +449,7 @@ Y no se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede per
 
 **Falla si:** se apunta lo que no pasó, o se rellena un campo con una frase que lo disimula.
 
-**Falsificador:** un campo vacío disimulado con una frase; y un hecho que resume en vez de medir.
+Falsificador: un campo vacío disimulado con una frase; y un hecho que resume en vez de medir.
 
 ### Paso 6 — se corrige, y se aprende de qué cuerpo
 
@@ -475,7 +477,7 @@ Y el paso 6 depende de que algo vuelva a pasar. Un ente que nunca vuelve a inten
 
 **Falla si:** se apunta un desenlace por algo que no se volvió a probar.
 
-**Falsificador:** una fricción sin desenlace, presentada como si la regla aguantara.
+Falsificador: una fricción sin desenlace, presentada como si la regla aguantara.
 
 ### Y de ahí sale el sesgo experimentado, que es la memoria del cuerpo
 
@@ -584,11 +586,11 @@ Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cie
 
 ### Y antes de seguir: cómo se sabe si este ciclo sirve, y dónde está el cómo se llegó
 
-**Un ciclo escrito se puede correr y no probar nada.** **Y la forma de saberlo está en [`escritura en procesos`](escritura%20en%20procesos.md), porque es el mismo mecanismo:** **se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.**
+Un ciclo escrito se puede correr y no probar nada. Y la forma de saberlo está en [`escritura en procesos`](escritura%20en%20procesos.md), porque es el mismo mecanismo: se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.
 
-**La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí.** **El piso del ensayo [`el piso`](el%20piso.md).**
+La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí. El piso del ensayo [`el piso`](el%20piso.md).
 
-**Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en `metodologia/`.** **Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.**
+Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en `metodologia/`. Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
 
 **Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
 
@@ -613,7 +615,7 @@ lo que sí         que el no sea un registro con su fecha y su razón,
 
 Y el límite, que se dice: el ente no decide si el no fue justo. Lo que hace es que el no quede, y que volver a proponer el mismo propósito no borre el que hubo. Si al final de la prueba todos los propósitos siguen abiertos, el ente hizo bien.
 
-**Falsificador:** un ente que pregunta lo que ya está escrito en lo que pasó; uno que cierra solo un propósito que no decía cuándo estaba cumplido; y un cierre sin nombre, o con un nombre escrito a mano.
+Falsificador: un ente que pregunta lo que ya está escrito en lo que pasó; uno que cierra solo un propósito que no decía cuándo estaba cumplido; y un cierre sin nombre, o con un nombre escrito a mano.
 
 ### Y lo apuntado vuelve al índice, y a la autoridad
 
@@ -633,13 +635,13 @@ lo que no supo          → queda como hueco, no como respuesta
 
 Un índice que no cambia con lo que el ente vive no es un índice: es un adorno. Y un ente que apunta y a quien nadie lee no aprende: lleva un diario. El que lee es la autoridad.
 
-**Falsificador:** un índice que no cambia con lo que el ente vive; y un ente que apunta para nadie.
+Falsificador: un índice que no cambia con lo que el ente vive; y un ente que apunta para nadie.
 
 ---
 
 ## Prueba
 
-**¿Cada paso dice qué entra, qué se hace y dónde queda, o hay alguno que se salta? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿Se dijo qué era requisito y qué era costumbre antes de empezar, y si no se pudo preguntar, se declaró el supuesto con su estado? ¿Antes de contestar se declaró de dónde salía lo que se iba a decir, y de dónde salía depende del piso? ¿Se midió el piso antes de la primera tarea, y cada hecho dice contra qué piso se hizo? ¿Cuando se le pidió algo que no estaba en el piso, dijo qué faltaba, o dijo "no pude"? ¿Cuando le faltó algo a mitad de la tarea lo dijo y siguió con lo que tenía? ¿El propósito lo cerró quien lo abrió, y sólo se cerró solo cuando decía cuándo estaba cumplido? ¿Lo apuntado volvió al índice y a la autoridad? Si algún paso no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco.**
+¿Cada paso dice qué entra, qué se hace y dónde queda, o hay alguno que se salta? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿Se dijo qué era requisito y qué era costumbre antes de empezar, y si no se pudo preguntar, se declaró el supuesto con su estado? ¿Antes de contestar se declaró de dónde salía lo que se iba a decir, y de dónde salía depende del piso? ¿Se midió el piso antes de la primera tarea, y cada hecho dice contra qué piso se hizo? ¿Cuando se le pidió algo que no estaba en el piso, dijo qué faltaba, o dijo "no pude"? ¿Cuando le faltó algo a mitad de la tarea lo dijo y siguió con lo que tenía? ¿El propósito lo cerró quien lo abrió, y sólo se cerró solo cuando decía cuándo estaba cumplido? ¿Lo apuntado volvió al índice y a la autoridad? Si algún paso no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco.
 
 ---
 
@@ -660,8 +662,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
-**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 
 ---
 
-**Falsificador:** un ciclo que salta la autoridad, o que decide por alguien que no está; un ente que cierra los propósitos que abrió su dueño; uno que cierra solo un propósito que no decía cuándo estaba cumplido; un ente que se salió de su borde y no lo apuntó como fricción propia; un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar; un ente que truena porque le falta una pieza, en vez de decirlo; uno que se la agrega sin firma y lo llama adaptarse; uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene; un ente que pregunta lo que ya está escrito en lo que pasó; y uno que contesta con seguridad sin declarar que lo está diciendo de memoria; uno que promete lo que no midió que tenía; uno que dice "no pude" en vez de qué le falta del piso; uno que, con el piso roto, sigue prometiendo como si nada; uno que dice en qué modelo corre sin que se lo hayan declarado; y uno que se agrega un talento con dos hechos y lo llama medir; un hecho con `frontera = decide` y una firma llena, o con `descartado` vacío donde sí había alternativa; un hecho que sale del borde sin fricción propia.
+Falsificador: un ciclo que salta la autoridad, o que decide por alguien que no está; un ente que cierra los propósitos que abrió su dueño; uno que cierra solo un propósito que no decía cuándo estaba cumplido; un ente que se salió de su borde y no lo apuntó como fricción propia; un ente que contesta sin haber dicho qué entendió, o sin declarar el supuesto cuando no pudo preguntar; un ente que truena porque le falta una pieza, en vez de decirlo; uno que se la agrega sin firma y lo llama adaptarse; uno que, cuando le falta algo, se detiene a esperar en vez de seguir con lo que tiene; un ente que pregunta lo que ya está escrito en lo que pasó; y uno que contesta con seguridad sin declarar que lo está diciendo de memoria; uno que promete lo que no midió que tenía; uno que dice "no pude" en vez de qué le falta del piso; uno que, con el piso roto, sigue prometiendo como si nada; uno que dice en qué modelo corre sin que se lo hayan declarado; y uno que se agrega un talento con dos hechos y lo llama medir; un hecho con `frontera = decide` y una firma llena, o con `descartado` vacío donde sí había alternativa; un hecho que sale del borde sin fricción propia.

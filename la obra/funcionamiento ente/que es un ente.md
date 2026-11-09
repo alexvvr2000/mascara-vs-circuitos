@@ -1,5 +1,7 @@
 # Qué es un ente
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Antes de describir su ciclo hace falta saber qué es un ente, y a quién sirve.
 Alejandro Valenzuela Rivera.
 
@@ -215,7 +217,7 @@ Un ente —como aquí se define— se mide por lo que hace por defecto, cómo fa
 
 ## VIII. La parte de afuera, y por qué un ente no está solo
 
-La definición dice que el ente es lo que hace en el cuarto, no el cuarto. **Pero eso es del entorno, y hay otra cosa distinta: lo que el ente *es* y vive fuera de donde se ejecuta.**
+La definición dice que el ente es lo que hace en el cuarto, no el cuarto. Pero eso es del entorno, y hay otra cosa distinta: lo que el ente *es* y vive fuera de donde se ejecuta.
 
 El modelo con el que corre. Las reglas que aceptó. Los recuerdos que guardó. El criterio con el que se armó. Todo eso está afuera del proceso que lo corre, y sin eso el bucle no se cierra: se queda en el paso de decidir.
 
@@ -241,21 +243,21 @@ Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro
 
 ## Y esto es la base de cualquier implementación
 
-**De este ensayo, y de los que le siguen, se puede hacer lo que sea.**
+De este ensayo, y de los que le siguen, se puede hacer lo que sea.
 
-**Una base de datos, un servidor, una carpeta con textos, un aparato que la gente use con la mano, o una máquina que nadie ha inventado todavía.** **Si el ente recibe, decide, contesta y deja rastro, del resto no dice nada este trabajo.**
+Una base de datos, un servidor, una carpeta con textos, un aparato que la gente use con la mano, o una máquina que nadie ha inventado todavía. Si el ente recibe, decide, contesta y deja rastro, del resto no dice nada este trabajo.
 
-**Y hay una razón que importa más que la libertad:** **lo que se escribió en este repositorio es una descripción, y una descripción no tiene que sobrevivir a su stack.** **Un stack cambia cada pocos años; el registro de lo que pasó, no.**
+Y hay una razón que importa más que la libertad: lo que se escribió en este repositorio es una descripción, y una descripción no tiene que sobrevivir a su stack. Un stack cambia cada pocos años; el registro de lo que pasó, no.
 
-**Y el límite, que es el mismo de todo el trabajo:** **una implementación que funciona sin poder decir qué entró, qué decidió, qué salió, y qué quedó apuntado no implementó esto: implementó otra cosa que se ve igual.**
+Y el límite, que es el mismo de todo el trabajo: una implementación que funciona sin poder decir qué entró, qué decidió, qué salió, y qué quedó apuntado no implementó esto: implementó otra cosa que se ve igual.
 
-**Falsificador:** una implementación que se sostiene porque nombró una herramienta y no porque cumplió las cuatro cosas.
+Falsificador: una implementación que se sostiene porque nombró una herramienta y no porque cumplió las cuatro cosas.
 
 ---
 
 ## Los pasos, en forma de proceso
 
-**Y van con sus nueve renglones, porque un paso que no dice cuándo se corre no es un paso: es un consejo.**
+Y van con sus nueve renglones, porque un paso que no dice cuándo se corre no es un paso: es un consejo.
 
 ### El paso 0: declarar las cuatro piezas
 
@@ -263,11 +265,11 @@ Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro
 **Entra:** quién es la autoridad, qué ente es, para qué existe, y dónde vive lo que sabe.
 **Sale:** las cuatro piezas escritas, con fecha.
 **Lo consume:** todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
-**La búsqueda:** no busca. Sin las cuatro no hay nada que buscar.
+La búsqueda: no busca. Sin las cuatro no hay nada que buscar.
 **Y si no encuentra:** si falta una, se dice en el acto y no al final: esto es un pedazo, no un ente. Y se sigue la conversación con lo que hay, sin presentar lo apuntado como trabajo.
 **Falla si:** el esquema tiene menos tablas que las piezas, o la autoridad no tiene nombre.
-**Falsificador:** un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
-**Y qué se pierde si cambia:** si alguna pieza deja de ser obligatoria, se deja de poder decir a quién le responde el ente, y todo lo que apunta queda sin dueño.
+Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
+Y qué se pierde si cambia: si alguna pieza deja de ser obligatoria, se deja de poder decir a quién le responde el ente, y todo lo que apunta queda sin dueño.
 
 ### El paso de la frontera: escribir lo que decide y lo que no
 
@@ -275,17 +277,17 @@ Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro
 **Entra:** las dos listas: lo que el ente decide solo, lo que propone y espera firma, y lo que no decide nunca.
 **Sale:** las dos fronteras escritas, la del ente y la de la autoridad, pegadas.
 **Lo consume:** el paso 3, que decide; y el paso 5, que apunta en cuál de las tres se quedó.
-**La búsqueda:** se pregunta al dueño. No se deduce.
+La búsqueda: se pregunta al dueño. No se deduce.
 **Y si no encuentra:** si el dueño no contesta, se escribe lo que el ente cree, marcado como creído, y no se decide nada que caiga en lo que propone.
 **Falla si:** una frontera se escribe sin el nombre de la autoridad, o el ente decide algo de la lista de lo que propone.
-**Falsificador:** un ente que se salió de su borde y no lo apuntó; y uno que apunta en qué frontera quedó sin que las fronteras estén escritas.
-**Y qué se pierde si cambia:** sin las dos fronteras, «se salió» no significa nada, porque no hay contra qué medirlo.
+Falsificador: un ente que se salió de su borde y no lo apuntó; y uno que apunta en qué frontera quedó sin que las fronteras estén escritas.
+Y qué se pierde si cambia: sin las dos fronteras, «se salió» no significa nada, porque no hay contra qué medirlo.
 
 ---
 
 ## Prueba
 
-**¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.**
+¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.
 
 Y las de la autoridad, que son las que este ensayo sostiene: ¿Se puede nombrar a la persona que carga las consecuencias de lo que este ente haga? ¿Esa persona decide en qué se convierte, y no solo qué tareas hace? ¿Cada decisión tiene nombre y razón, o hay fallos que nadie decidió? ¿El ente cambia de postura cuando se le contradice con evidencia, o la defiende?
 
@@ -307,4 +309,4 @@ Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que
 
 ---
 
-**Falsificador:** un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe; un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió; un ente que se define por el modelo que lo corre y no por lo que aguanta; un archivo estático presentado como ente, o un modelo al que se le pregunta una vez y no conserva nada; un ente que borra los propósitos cerrados y se queda sin historia; y uno que confunde el cuarto donde vive con lo que hace en el cuarto; un ente cuyo error no le cuesta nada a nadie, y se presenta como si fuera cuidadoso; uno que crece sin que el que paga las consecuencias lo sepa; uno que defiende su postura anterior cuando la evidencia cambió; y una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe.
+Falsificador: un ente sin rastro; un ente que no distingue lo que propone de lo que le mandaron; un ente que apunta y a quien nadie lee; un ente que se declara suficiente sin nadie detrás que traiga lo que él no sabe; un ente que deja rastro de lo que hizo pero no puede decir para qué existió, ni desde cuándo, ni qué lo cambió; un ente que se define por el modelo que lo corre y no por lo que aguanta; un archivo estático presentado como ente, o un modelo al que se le pregunta una vez y no conserva nada; un ente que borra los propósitos cerrados y se queda sin historia; y uno que confunde el cuarto donde vive con lo que hace en el cuarto; un ente cuyo error no le cuesta nada a nadie, y se presenta como si fuera cuidadoso; uno que crece sin que el que paga las consecuencias lo sepa; uno que defiende su postura anterior cuando la evidencia cambió; y una herramienta enormemente capaz que, ante algo que no sabe, contesta con la misma seguridad de cuando sabe.

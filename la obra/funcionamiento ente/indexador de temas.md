@@ -1,5 +1,7 @@
 # Indexador de temas
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.
 Alejandro Valenzuela Rivera.
 
@@ -244,11 +246,11 @@ Lo que este ensayo NO hace: no se presenta como un resultado que reemplace a los
 **Entra:** el nombre del tema y su borde, con sus tres partes: quién evalúa, qué entra y qué no entra.
 **Sale:** el tema, con su fecha de nacimiento.
 **Lo consume:** el paso 2 del ciclo, que recorre el grafo.
-**La búsqueda:** se busca en los temas vigentes si alguno ya lo cubre. Si lo cubre, no se abre otro.
+La búsqueda: se busca en los temas vigentes si alguno ya lo cubre. Si lo cubre, no se abre otro.
 **Y si no encuentra:** si no hay tema que cubra la pieza, se abre uno nuevo, y se dice que el índice creció.
 **Falla si:** se abre un tema sin borde, o se abre uno que ya existe con otro nombre.
-**Falsificador:** un tema sin borde presentado como tema: es una intención, y se traga lo que no encaja.
-**Y qué se pierde si cambia:** sin borde, el tema no se puede consultar, y el índice se vuelve un cajón de sastre.
+Falsificador: un tema sin borde presentado como tema: es una intención, y se traga lo que no encaja.
+Y qué se pierde si cambia: sin borde, el tema no se puede consultar, y el índice se vuelve un cajón de sastre.
 
 ### Relacionar dos temas
 
@@ -256,11 +258,11 @@ Lo que este ensayo NO hace: no se presenta como un resultado que reemplace a los
 **Entra:** los dos temas, y el tipo de relación: contiene, asocia, o supera.
 **Sale:** la relación con su fecha.
 **Lo consume:** la consulta del índice, que recorre por aristas y no por palabras.
-**La búsqueda:** se mira si ya existe la relación antes de crearla.
+La búsqueda: se mira si ya existe la relación antes de crearla.
 **Y si no encuentra:** si no hay relación que declarar, no se crea. Un tema solo es un tema, no un nodo huérfano.
 **Falla si:** se relaciona un tema consigo mismo, o se crea una relación que se puede expresar con las tres.
-**Falsificador:** un índice con más de tres tipos de relación sin justificar la cuarta.
-**Y qué se pierde si cambia:** sin las aristas, el índice deja de ser un grafo y pasa a ser una lista, y no se puede preguntar por dónde se llega de un tema a otro.
+Falsificador: un índice con más de tres tipos de relación sin justificar la cuarta.
+Y qué se pierde si cambia: sin las aristas, el índice deja de ser un grafo y pasa a ser una lista, y no se puede preguntar por dónde se llega de un tema a otro.
 
 ### Superar un tema
 
@@ -268,11 +270,11 @@ Lo que este ensayo NO hace: no se presenta como un resultado que reemplace a los
 **Entra:** el tema viejo, el nuevo, la fecha, la razón, y qué se pierde con el cambio.
 **Sale:** la supersesión, y el viejo marcado, sin borrarse.
 **Lo consume:** quien lea el índice dentro de un año, y el paso 2, que sólo recorre los vigentes.
-**La búsqueda:** se busca qué reportaba el tema viejo, para poder decir qué deja de caber.
+La búsqueda: se busca qué reportaba el tema viejo, para poder decir qué deja de caber.
 **Y si no encuentra:** si no se puede nombrar qué se pierde, no fue un cambio: fue una sustitución, y no se hace.
 **Falla si:** el tema viejo se borra, o la supersesión no lleva su qué se pierde.
-**Falsificador:** una supersesión sin pérdida nombrada; y un tema viejo que ya no está, porque entonces el cambio no se puede auditar.
-**Y qué se pierde si cambia:** sin la supersesión, el índice no tiene pasado y no se puede decir qué se pensaba cuando se pensó.
+Falsificador: una supersesión sin pérdida nombrada; y un tema viejo que ya no está, porque entonces el cambio no se puede auditar.
+Y qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no se puede decir qué se pensaba cuando se pensó.
 
 ---
 
@@ -298,8 +300,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 Y lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 
-**Falsificador de esta tabla:** **una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.**
+Falsificador de esta tabla: una fila que apunte a una corrida que no se puede abrir, o un resultado que la documentación de esa corrida no diga.
 
 ---
 
-**Falsificador:** un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta; una zona gris que se inventa al consultar en vez de declararse al escribir el borde; una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza; y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste. un borde de máquina que mira el texto de la pieza en vez de sus campos; una pieza sin campos, que obliga al borde a adivinar; y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle. un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan; y una operación del índice que deja el cambio sin fecha o sin motivo; un medio que se llena con lo que no encaja, en vez de mandarlo a «no es de este tema»; y dos temas que dudan sobre la misma pieza, con uno elegido en silencio.**
+Falsificador: un índice que no se puede reconstruir; un índice que se rehace y no coincide con el anterior; un tema sin borde; un borde que dos personas clasifican distinto; un tema borrado en lugar de superado; una supersesión sin fecha o sin qué se pierde; un cambio que no puede nombrar su pérdida; un índice sin momento de consulta; un ente que contesta lo que no tiene tema, en vez de declarar el hueco; un índice donde el texto es la fuente de verdad y la forma un adorno; un borde sin qué hacer con el caso del medio, que obliga a decidir a gusto en cada pregunta; una zona gris que se inventa al consultar en vez de declararse al escribir el borde; una pieza que no cae en sí, ni en no, ni en medio, y se mete en el casi a la fuerza; y un tema de persona que no deja la pieza en pendiente, sino que la deja pasar sin que nadie conteste. un borde de máquina que mira el texto de la pieza en vez de sus campos; una pieza sin campos, que obliga al borde a adivinar; y un casi que se resuelve hacia dentro porque la autoridad no estaba para preguntarle. un ente que elige entre dos temas que aceptan la misma pieza en vez de apuntar que los bordes se solapan; y una operación del índice que deja el cambio sin fecha o sin motivo; un medio que se llena con lo que no encaja, en vez de mandarlo a «no es de este tema»; y dos temas que dudan sobre la misma pieza, con uno elegido en silencio.**

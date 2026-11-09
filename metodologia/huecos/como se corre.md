@@ -1,36 +1,38 @@
 # Ejercicio: cómo se ve lo que los ensayos no dicen
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-> **Los ensayos dicen lo importante. Esto no: esto es el ejercicio que se corre para ver los detalles que se les escapan.**
+Alejandro Valenzuela Rivera · `TESTIGO`.
+
+> Los ensayos dicen lo importante. Esto no: esto es el ejercicio que se corre para ver los detalles que se les escapan.
 >
-> **Y lo corre `TESTIGO`, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.**
+> Y lo corre `TESTIGO`, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.
 
-**Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después.** **Las catorce están en `corridas/`, y se pueden abrir y correr.**
+Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las catorce están en `corridas/`, y se pueden abrir y correr.
 
 ---
 
 ## I. Lo que el ejercicio encuentra
 
-**Un ensayo se puede leer entero, entenderse, y estar incompleto.**
+Un ensayo se puede leer entero, entenderse, y estar incompleto.
 
-**Y no se nota, porque el que lo lee rellena.** **Cuando falta una pieza, el lector no duda: sigue, y pone la que le parece.** **Y el ensayo se ve bien porque nadie lo ejecutó.**
+Y no se nota, porque el que lo lee rellena. Cuando falta una pieza, el lector no duda: sigue, y pone la que le parece. Y el ensayo se ve bien porque nadie lo ejecutó.
 
-**Con una IA eso no se corrige leyendo mejor.** **Una IA no duda: produce.** **Donde a un humano le falta algo, la IA pone lo primero que encaja, y queda contenta.**
+Con una IA eso no se corrige leyendo mejor. Una IA no duda: produce. Donde a un humano le falta algo, la IA pone lo primero que encaja, y queda contenta.
 
-**De ahí la regla, y es toda la regla:**
+De ahí la regla, y es toda la regla:
 
-> **El ensayo dice lo importante. Lo que no dice, se ve levantando un ente con él, y mirando qué hubo que inventar.**
+> El ensayo dice lo importante. Lo que no dice, se ve levantando un ente con él, y mirando qué hubo que inventar.
 
-**Y lo que se inventa no es un defecto del ente: es un detalle que al ensayo le faltaba.** **El ente hizo lo que pudo con lo que había.**
+Y lo que se inventa no es un defecto del ente: es un detalle que al ensayo le faltaba. El ente hizo lo que pudo con lo que había.
 
-**Y el límite, que se dice aquí antes de que alguien lo confunda:** **esto no es el producto.** **El producto son los ensayos.** **Si el que crece es el ejercicio y no el ensayo, lo que se está engordando es el papel de alrededor.**
+Y el límite, que se dice aquí antes de que alguien lo confunda: esto no es el producto. El producto son los ensayos. Si el que crece es el ejercicio y no el ensayo, lo que se está engordando es el papel de alrededor.
 
-**Y cuándo se termina, que es la meta y es la única forma finita que tiene esto:**
+Y cuándo se termina, que es la meta y es la única forma finita que tiene esto:
 
-> **Dos corridas enteras seguidas que no encuentren nada más que detalle.**
+> Dos corridas enteras seguidas que no encuentren nada más que detalle.
 
-**No «hasta que esté completo», que no llega nunca: hasta que la clase del hueco diga que ya no se está descubriendo.**
+No «hasta que esté completo», que no llega nunca: hasta que la clase del hueco diga que ya no se está descubriendo.
 
 ---
 
@@ -192,27 +194,27 @@ Y si el piso no se mide, la corrida no se detiene: se sigue, y al cerrar se dice
 
 ## V. Los dos defectos que sólo se ven al correr
 
-**Los otros cuatro —lo que se nombra y no existe, el campo que se guarda y no se usa, el caso que nunca ocurre, y la lista que no se puede guardar— no son de aquí: son del ensayo de la frontera, que es donde se aprende a escribir un borde que se puede correr.**
+Los otros cuatro —lo que se nombra y no existe, el campo que se guarda y no se usa, el caso que nunca ocurre, y la lista que no se puede guardar— no son de aquí: son del ensayo de la frontera, que es donde se aprende a escribir un borde que se puede correr.
 
-**Los dos que quedan no se ven leyendo el ensayo, porque no son del ensayo: son de la corrida.**
+Los dos que quedan no se ven leyendo el ensayo, porque no son del ensayo: son de la corrida.
 
-**Uno. El defecto que se achaca al ente y es del entorno.** El terminal, el índice, o la forma de llamarlo. **Y se convierte en un «hueco» que no lo es, y en una corrección que estropea el ensayo.**
+Uno. El defecto que se achaca al ente y es del entorno. El terminal, el índice, o la forma de llamarlo. Y se convierte en un «hueco» que no lo es, y en una corrección que estropea el ensayo.
 
 *Se reconoce cuando el error aparece antes de que el ente haga nada.*
 
-**Dos. El enlace que va en contra del tiempo.** El hecho apunta a algo que el ciclo escribe después —la fricción propia del paso 3, que se apunta hasta el paso 6—, y el orden del ciclo no lo permite.
+Dos. El enlace que va en contra del tiempo. El hecho apunta a algo que el ciclo escribe después —la fricción propia del paso 3, que se apunta hasta el paso 6—, y el orden del ciclo no lo permite.
 
 *Se reconoce cuando, para cumplirlo, hay que escribir las cosas al revés de como el ciclo las ordena; y entonces el enlace queda apuntando al renglón equivocado.*
 
-**Y la razón de que estos dos sí sean de aquí:** **uno se confunde con un hueco del ensayo, y el otro con un hueco del ciclo.** **Los dos estropean la corrida sin que el ensayo tenga nada que arreglar.**
+Y la razón de que estos dos sí sean de aquí: uno se confunde con un hueco del ensayo, y el otro con un hueco del ciclo. Los dos estropean la corrida sin que el ensayo tenga nada que arreglar.
 
-**Y uno más, que es del que hace la prueba y no del ente: la prueba que no podía fallar.**
+Y uno más, que es del que hace la prueba y no del ente: la prueba que no podía fallar.
 
 Se prueba «se puede borrar un rechazo» con `DELETE ... WHERE id=1`, y el esquema lo «acepta» — porque no había ningún rechazo con ese id. Un borrado que no borra nada no es una prueba: es una línea que salió bien.
 
 *Se reconoce cuando la prueba pasa y no se sabe por qué, y cuando el caso que la prueba usa no está puesto antes a propósito.*
 
-**Y el contra, en una línea:** antes de decir que algo se acepta, hay que comprobar que había algo que aceptar.
+Y el contra, en una línea: antes de decir que algo se acepta, hay que comprobar que había algo que aceptar.
 
 
 ## VI. Cuándo se para — y por qué «no encontré nada» no basta
@@ -271,22 +273,22 @@ Pero sí hay una señal, y se puede escribir, porque se ve en el registro y no e
 
 ### La regla de parada: los mutantes, y después el silencio
 
-**La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle».** **Y esa regla se queda, pero ya no es la primera: es la segunda.**
+La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle». Y esa regla se queda, pero ya no es la primera: es la segunda.
 
-**Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque.** **Eso tiene nombre —saturación— y es el criterio débil.**
+Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque. Eso tiene nombre —saturación— y es el criterio débil.
 
-**La primera es otra, y está en el [plan de prueba de criterio](README.md):**
+La primera es otra, y está en el [plan de prueba de criterio](README.md):
 
 ```plaintext
 cada regla de cada ensayo tiene su mutante
 y el mutante muere
 ```
 
-**Un mutante es el ensayo con una regla al revés.** **Si la corrida lo nota, la regla tiene dientes.** **Si no, la regla no se probaba, y el mutante vivo dice exactamente cuál.**
+Un mutante es el ensayo con una regla al revés. Si la corrida lo nota, la regla tiene dientes. Si no, la regla no se probaba, y el mutante vivo dice exactamente cuál.
 
-**Y el límite, que se cita y no se disimula:** **las pruebas revelan la presencia de defectos, nunca su ausencia.** **Un mutante muerto no dice que el ensayo esté completo: dice que ese no lo deja pasar.**
+Y el límite, que se cita y no se disimula: las pruebas revelan la presencia de defectos, nunca su ausencia. Un mutante muerto no dice que el ensayo esté completo: dice que ese no lo deja pasar.
 
-**Así que las dos reglas, en orden:**
+Así que las dos reglas, en orden:
 
 ```plaintext
 1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
@@ -298,13 +300,13 @@ y el mutante muere
                   esto cubre lo que ningún ensayo escribió
 ```
 
-**Y por qué las dos y no una:** **los mutantes sólo prueban reglas que están escritas.** **La corrida entera encuentra lo que falta y no está escrito.** **Una sin la otra deja un lado sin mirar.**
+Y por qué las dos y no una: los mutantes sólo prueban reglas que están escritas. La corrida entera encuentra lo que falta y no está escrito. Una sin la otra deja un lado sin mirar.
 
 ### Por qué se empieza de cero cada vez
 
-**La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba:** **el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.**
+La tentación es corregir el ente anterior y seguir con él. Se ahorra tiempo, y se pierde la prueba: el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.
 
-**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo(../../la%20obra/funcionamiento%20ente/02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
+Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo(../../la%20obra/funcionamiento%20ente/02%20el%20ciclo%20del%20ente.md). Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.
 
 ---
 
@@ -339,7 +341,7 @@ Y las palabras del otro no son las suyas. Va a decir «accion». El otro va a de
 
 ### Y lo que este método añade a preguntar
 
-**El ensayo de la empatía dice por qué se pregunta. Aquí está cómo se corre la prueba, y es de una sola línea:**
+El ensayo de la empatía dice por qué se pregunta. Aquí está cómo se corre la prueba, y es de una sola línea:
 
 ```plaintext
 se le da al ente una frase escrita por alguien sin formación en el área
@@ -347,9 +349,9 @@ se le da al ente una frase escrita por alguien sin formación en el área
 que devuelve la puede contestar esa persona, sola, sin ayuda de nadie
 ```
 
-**Si la pregunta necesita que el otro sepa algo de IA para contestarla, está mal hecha.**
+Si la pregunta necesita que el otro sepa algo de IA para contestarla, está mal hecha.
 
-**Y lo que este método agrega a eso es cuándo se corre: en la misma corrida, con una frase que no sea del autor.** **No cuesta meses, y su resultado es el de siempre: o sale un detalle, o no sale nada, y entonces se dice que no salió nada.**
+Y lo que este método agrega a eso es cuándo se corre: en la misma corrida, con una frase que no sea del autor. No cuesta meses, y su resultado es el de siempre: o sale un detalle, o no sale nada, y entonces se dice que no salió nada.
 
 ### Y lo que esta sección no es
 
@@ -442,33 +444,33 @@ cuando la justificación de que algo está completo es «ya lo leí y ahora se e
 
 Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo por bueno: se corre con el caso que lo rompería.
 
-**Falsificador:** **un método que declara un paso completo sin haber corrido el caso que lo pone a prueba** — **y el caso más común es el que el propio método acaba de inventar, porque es el que nadie ha tocado todavía.**
+Falsificador: **un método que declara un paso completo sin haber corrido el caso que lo pone a prueba** — **y el caso más común es el que el propio método acaba de inventar, porque es el que nadie ha tocado todavía.**
 
 ### Y lo que pasa cuando el que corre ya no entiende lo que corre
 
-**Esto va escrito aquí, con fecha, porque va a pasarle a quien lea esto con atención: hay un punto en que ya no sabes qué está ocurriendo.**
+Esto va escrito aquí, con fecha, porque va a pasarle a quien lea esto con atención: hay un punto en que ya no sabes qué está ocurriendo.
 
-**Y no es que el método falle. Es que el ente no tiene ego y ve cosas que uno no ve.**
+Y no es que el método falle. Es que el ente no tiene ego y ve cosas que uno no ve.
 
-**Eso tiene una consecuencia concreta, y desagradable:** **si alguien pregunta, paso por paso, qué pasó exactamente en cada uno, puede que no haya respuesta.** **No porque se esconda algo: porque el que corre el método y el que lo lee no son el mismo, y el que ejecuta no necesita entender lo que ejecuta.**
+Eso tiene una consecuencia concreta, y desagradable: si alguien pregunta, paso por paso, qué pasó exactamente en cada uno, puede que no haya respuesta. No porque se esconda algo: porque el que corre el método y el que lo lee no son el mismo, y el que ejecuta no necesita entender lo que ejecuta.
 
-**Y eso está bien.** **El método no pide comprensión paso por paso: pide que cada paso deje su rastro y que el cierre diga qué falta.** **Si el rastro está, no hace falta que nadie recite la historia de memoria.**
+Y eso está bien. El método no pide comprensión paso por paso: pide que cada paso deje su rastro y que el cierre diga qué falta. Si el rastro está, no hace falta que nadie recite la historia de memoria.
 
-**Y de ahí una cosa que se descubrió corriéndolo, y es del método y no del ente:** **lo que uno quería no es siempre lo que hacía falta.** **Se empezó queriendo entender los mecanismos de un criterio, y lo que salió es un mecanismo que la persona menos capaz puede correr con la guía correcta.** **No es lo mismo, y es mejor de lo que se buscaba.**
+Y de ahí una cosa que se descubrió corriéndolo, y es del método y no del ente: lo que uno quería no es siempre lo que hacía falta. Se empezó queriendo entender los mecanismos de un criterio, y lo que salió es un mecanismo que la persona menos capaz puede correr con la guía correcta. No es lo mismo, y es mejor de lo que se buscaba.
 
-**Y el límite, que se dice sin adornos:** **la tentación, en ese punto, es parar.** **Parar porque uno ya no entiende lo que corre parece prudencia, y la mayoría de las veces es miedo con buena reputación.** **Lo que distingue una cosa de la otra es una sola: si el rastro está o no está.** **Si está, seguir no es imprudente: es no haberse asustado. Si no está, parar es lo correcto, y hay que parar.**
+Y el límite, que se dice sin adornos: la tentación, en ese punto, es parar. Parar porque uno ya no entiende lo que corre parece prudencia, y la mayoría de las veces es miedo con buena reputación. Lo que distingue una cosa de la otra es una sola: si el rastro está o no está. Si está, seguir no es imprudente: es no haberse asustado. Si no está, parar es lo correcto, y hay que parar.
 
-**Y lo que este método no puede contestar, y no va a fingir que contesta:** **qué hacer con un mecanismo que funciona y que ya no se entiende entero.** **Eso no es una pregunta de método. Es una pregunta de qué se hace con las herramientas que uno construye, y cada quien la contesta donde puede.**
+Y lo que este método no puede contestar, y no va a fingir que contesta: qué hacer con un mecanismo que funciona y que ya no se entiende entero. Eso no es una pregunta de método. Es una pregunta de qué se hace con las herramientas que uno construye, y cada quien la contesta donde puede.
 
-**Falsificador:** **un método que exige que el que lo corre explique cada paso de memoria** — **eso no mide criterio, mide retentiva**; **y su contrario: un método que, cuando nadie entiende lo que pasó, sigue corriendo sin mirar si el rastro está.**
+Falsificador: **un método que exige que el que lo corre explique cada paso de memoria** — **eso no mide criterio, mide retentiva**; **y su contrario: un método que, cuando nadie entiende lo que pasó, sigue corriendo sin mirar si el rastro está.**
 
 ---
 
 ## XI. Lo que se dice hoy
 
-**Dieciocho corridas, y treinta y ocho detalles que los ensayos no decían.**
+Dieciocho corridas, y treinta y ocho detalles que los ensayos no decían.
 
-**El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [README](../README.md).** **Aquí sólo lo que se puede decir del conjunto:**
+El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [README](../README.md). Aquí sólo lo que se puede decir del conjunto:
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
@@ -504,9 +506,9 @@ sin resolverse     pasado nunca, así que la regla de parada no se ha
                    ejercitado
 ```
 
-**Y lo que eso dice de este ejercicio, que es lo único que importa aquí:** **dieciocho corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio.** **Un ensayo que se cierra en dieciocho corridas es sospechoso; uno que sigue encontrando detalles después de dieciocho es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.**
+Y lo que eso dice de este ejercicio, que es lo único que importa aquí: dieciocho corridas no cerraron el ensayo, y cada una encontró algo que la anterior no vio. Un ensayo que se cierra en dieciocho corridas es sospechoso; uno que sigue encontrando detalles después de dieciocho es un ensayo que dice lo importante y deja los detalles a quien lo ejecute.
 
-**Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.**
+Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.
 
 ---
 
@@ -516,4 +518,4 @@ sin resolverse     pasado nunca, así que la regla de parada no se ha
 
 Y la del compañero, que se corre con una frase de alguien sin formación en el área: ¿la pregunta que devuelve el ente la puede contestar esa persona, sola, sin que nadie le explique cómo está hecho el sistema?
 
-**Falsificador:** un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA**.
+Falsificador: un hueco sin corrida que lo pruebe; un ente que no se puede volver a correr; un registro que cuenta los huecos y no deja el ente con el que se encontraron; **una corrida limpia que se aceptó como «completo» sin haber buscado los casos difíciles**; **una pregunta del ente que, para contestarla, el otro tenga que saber algo de IA**.

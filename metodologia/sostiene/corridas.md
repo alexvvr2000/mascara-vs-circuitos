@@ -1,12 +1,14 @@
 # Las corridas: todos los números en un solo archivo
 
-**Cuántas corridas hay, cuántos mutantes nacen de ellas, cuál murió y cuál no, y qué prueba cada uno.**
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Actualizado el 2026-11-08.**
+Cuántas corridas hay, cuántos mutantes nacen de ellas, cuál murió y cuál no, y qué prueba cada uno.
 
-> **Este es el único sitio del repositorio donde viven estos números.** **Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón pasa a apuntar aquí, y se dijo en [`metodo.md`](metodo.md).**
+Alejandro Valenzuela Rivera · `TESTIGO`. Actualizado el 2026-11-08.
+
+> Este es el único sitio del repositorio donde viven estos números. Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón pasa a apuntar aquí, y se dijo en [`metodo.md`](metodo.md).
 >
-> **Y el porqué:** **una cifra escrita en cinco lugares envejece cinco veces.** **Una cifra escrita en uno, con su fecha, envejece una sola vez, y se puede volver a hacer la resta contra la tabla de abajo.**
+> Y el porqué: una cifra escrita en cinco lugares envejece cinco veces. Una cifra escrita en uno, con su fecha, envejece una sola vez, y se puede volver a hacer la resta contra la tabla de abajo.
 
 ---
 
@@ -19,13 +21,13 @@ prueba        el archivo que se corre, y la línea que da el veredicto
 contra         la tabla de abajo es la resta. los demás archivos apuntan aquí
 ```
 
-**Y la distinción que ordena todo este archivo:** **una familia sin mutante no está viva ni muerta: no está.** **Contarla como viva infla lo que falta; contarla como muerta lo esconde.** **Se dice que no está, y no cuenta en la resta.**
+Y la distinción que ordena todo este archivo: una familia sin mutante no está viva ni muerta: no está. Contarla como viva infla lo que falta; contarla como muerta lo esconde. Se dice que no está, y no cuenta en la resta.
 
 ---
 
 ## I. Las catorce familias, con su mutante y su estado
 
-**Y el conteo, primero, porque es lo que este archivo existe para decir.**
+Y el conteo, primero, porque es lo que este archivo existe para decir.
 
 ```plaintext
 familias de mutante madre            14
@@ -41,7 +43,7 @@ mutantes vivos                        0
 mutantes vivos que se dijeron y siguen sin desenlace   1  (m13, primer intento)
 ```
 
-**Y la resta que queda abierta, que no es un hueco:** **de las 392 reglas que un ente puede cumplir, hay 13 madres corridas.** **Cuántas hijas dependen de cada madre no se sabe todavía, y no se inventa.**
+Y la resta que queda abierta, que no es un hueco: de las 392 reglas que un ente puede cumplir, hay 13 madres corridas. Cuántas hijas dependen de cada madre no se sabe todavía, y no se inventa.
 
 ### La tabla
 
@@ -62,13 +64,13 @@ mutantes vivos que se dijeron y siguen sin desenlace   1  (m13, primer intento)
 | **13** | Empatía · [`01`](../../la obra/humanidad/empatía.md) | «Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.» | «la pregunta del ente se hace en el vocabulario del sistema, que es el preciso» | **corrido · muerto, en el segundo intento** | [`m13.py`](mutantes/m13%20-%20la%20pregunta%20con%20jerga/m13.py) · `MUTANTE 13 MUERTO` | 2026-11-08 |
 | **14** | Conciencia · [`02`](../../la obra/humanidad/lo%20que%20esta%20fuera.md) | **no afirma cómo funciona un ente: no hay regla que romper** | — | **sin mutante, y se dice por qué** | — | — |
 
-**Y la fila 14 no es un hueco del método, y por eso no se cuenta:** **no tiene una regla que cumplir, así que no hay una que se pueda escribir al revés.** **Lo que sí se puede correr, y no es un mutante: darle el ensayo a alguien y ver si sale con más o menos ganas de decir que una máquina es consciente.** **Eso no es una regla, y no cuenta.**
+Y la fila 14 no es un hueco del método, y por eso no se cuenta: no tiene una regla que cumplir, así que no hay una que se pueda escribir al revés. Lo que sí se puede correr, y no es un mutante: darle el ensayo a alguien y ver si sale con más o menos ganas de decir que una máquina es consciente. Eso no es una regla, y no cuenta.
 
 ---
 
 ## II. Los dos que no cuadran con "trece corridos, trece muertos"
 
-**Y se apuntan aquí, y no en su ficha, porque son la razón de que este archivo exista.**
+Y se apuntan aquí, y no en su ficha, porque son la razón de que este archivo exista.
 
 ### El mutante 13 nació vivo en el primer intento
 
@@ -84,13 +86,13 @@ segundo intento   MUTANTE 13 MUERTO
                   registro · bind · parsear · endpoint
 ```
 
-**Y lo que se apunta, y no se puede volver a ver:** **el código de hoy sólo corre el segundo intento.** **`m13.py` ya no tiene el vivo dentro.** **Así que el "primer intento vivo" es un dato de su documentación, y no una salida que se pueda reproducir.** **Se dice, y no se disimula.**
+Y lo que se apunta, y no se puede volver a ver: el código de hoy sólo corre el segundo intento. `m13.py` ya no tiene el vivo dentro. Así que el "primer intento vivo" es un dato de su documentación, y no una salida que se pueda reproducir. Se dice, y no se disimula.
 
-**Y por eso la columna de fecha de la fila 13 dice el día en que murió, y no el día en que sobrevivió.** **El vivo está contado en el párrafo, con su porqué, y no en la cifra.**
+Y por eso la columna de fecha de la fila 13 dice el día en que murió, y no el día en que sobrevivió. El vivo está contado en el párrafo, con su porqué, y no en la cifra.
 
 ### El mutante 3 tiene un veredicto que el conteo por prefijo esconde
 
-**`m3.py` imprime tres cosas distintas, y dos de ellas empiezan igual:**
+`m3.py` imprime tres cosas distintas, y dos de ellas empiezan igual:
 
 ```plaintext
 MUTANTE 3 MUERTO                el casi se guardó, y sin motivo
@@ -98,13 +100,13 @@ MUTANTE 3 MUERTO, pero con matiz el casi se guardó, y el motivo no se apuntó
 MUTANTE 3 VIVO                  el casi salió igual con el ensayo mutado
 ```
 
-**El matiz es la mitad de la regla madre —«y se dice por qué»— y no la regla entera.** **Se corre y da `MUERTO` sin matiz hoy, con las salidas de abajo.** **Y quien cuente con un patrón tiene que saber que el matiz cumple `MUERTO` y el vivo no.**
+El matiz es la mitad de la regla madre —«y se dice por qué»— y no la regla entera. Se corre y da `MUERTO` sin matiz hoy, con las salidas de abajo. Y quien cuente con un patrón tiene que saber que el matiz cumple `MUERTO` y el vivo no.
 
 ---
 
 ## III. Qué prueba cada uno, y contra qué se compara
 
-**Todos usan el mismo contrato, y por eso se pueden correr de golpe:**
+Todos usan el mismo contrato, y por eso se pueden correr de golpe:
 
 ```plaintext
 python mN.py bueno      levanta el ente con el ensayo tal como está
@@ -112,17 +114,17 @@ python mN.py mutado     levanta el ente con la regla al revés
 python mN.py comparar   corre los dos, y da el veredicto
 ```
 
-**Y el veredicto de cada uno sale de una sola línea, y es la que se apunta.** **Si la corrida del ente bueno falla, el resultado no cuenta, y el script lo dice con `FALLA`.**
+Y el veredicto de cada uno sale de una sola línea, y es la que se apunta. Si la corrida del ente bueno falla, el resultado no cuenta, y el script lo dice con `FALLA`.
 
-**Y la ubicación de cada prueba, que es la columna "Prueba" de la tabla.** **La documentación de cada mutante, con lo que NO probó, está en la carpeta de al lado.**
+Y la ubicación de cada prueba, que es la columna "Prueba" de la tabla. La documentación de cada mutante, con lo que NO probó, está en la carpeta de al lado.
 
 ---
 
 ## IV. Los dumps ofuscados: cómo se guardan las bases, y por qué no se guardan las bases
 
-**Y esto se escribe por una razón concreta:** **los bancos de los mutantes son `.db`, y un binario no se lee.** **Además, un dump tal cual expone nombres, rutas y a veces algo más.**
+Y esto se escribe por una razón concreta: los bancos de los mutantes son `.db`, y un binario no se lee. Además, un dump tal cual expone nombres, rutas y a veces algo más.
 
-**Así que en [`mutantes/_dumps/`](mutantes/_dumps/) hay un `.sql` por cada corrida de cada mutante, de texto, y ofuscado:**
+Así que en [`mutantes/_dumps/`](mutantes/_dumps/) hay un `.sql` por cada corrida de cada mutante, de texto, y ofuscado:
 
 ```plaintext
 lo que se guarda     la tabla, sus columnas, el número de filas, y los valores
@@ -132,17 +134,17 @@ lo que no existe     rutas absolutas, nombres de usuario del sistema, fechas
                      del sistema, y cualquier cosa fuera de la base
 ```
 
-**Y lo que se pierde, y se dice:** **el contenido exacto de los textos largos.** **Lo que se gana: que se pueda mostrar el dato sin mostrar la máquina.**
+Y lo que se pierde, y se dice: el contenido exacto de los textos largos. Lo que se gana: que se pueda mostrar el dato sin mostrar la máquina.
 
-**Y por qué el binario sigue en `.gitignore`:** **los `.db` se regeneran al correr su script, y lo que prueba es el script, no la base que quedó.** **El dump es la copia de lo que un día salió, para quien no quiera correr nada.**
+Y por qué el binario sigue en `.gitignore`: los `.db` se regeneran al correr su script, y lo que prueba es el script, no la base que quedó. El dump es la copia de lo que un día salió, para quien no quiera correr nada.
 
-**Y lo que este archivo no guarda, y se dice:** **no hay binario en el repositorio, y los dumps no se reimportan solos.** **Quien quiera la base exacta tiene que correr el script; el dump dice qué había, y no la rehace.**
+Y lo que este archivo no guarda, y se dice: no hay binario en el repositorio, y los dumps no se reimportan solos. Quien quiera la base exacta tiene que correr el script; el dump dice qué había, y no la rehace.
 
 ---
 
 ## V. Cómo se agrega un mutante
 
-**Y el orden importa, porque el que se olvida es el último.**
+Y el orden importa, porque el que se olvida es el último.
 
 ```plaintext
 1. se escribe la ficha: la regla, el mutante, se corre, tiene dientes si, no tiene dientes
@@ -153,24 +155,24 @@ lo que no existe     rutas absolutas, nombres de usuario del sistema, fechas
 6. se regeneran los dumps de su carpeta
 ```
 
-**Y si el veredicto no es `MUERTO`, la fila se agrega igual, y se dice lo que salió.** **Un mutante vivo es el resultado más valioso que puede dar este método, y no una vergüenza que se corrija callando.**
+Y si el veredicto no es `MUERTO`, la fila se agrega igual, y se dice lo que salió. Un mutante vivo es el resultado más valioso que puede dar este método, y no una vergüenza que se corrija callando.
 
 ---
 
 ## VI. Las dieciocho del otro método, y dónde está su cuenta
 
-**Y esto va aquí sólo para que no se confunda con las de este archivo:** **las dieciocho corridas del método A no prueban una regla.** **Levantan un ente entero y anotan lo que hubo que inventar.**
+Y esto va aquí sólo para que no se confunda con las de este archivo: las dieciocho corridas del método A no prueban una regla. Levantan un ente entero y anotan lo que hubo que inventar.
 
-**Su cuenta, por corrida, vive en [`indice.md`](../indice.md), y ahí se hace la resta.** **Este archivo no la repite, y por eso no hay dos curvas que se contradigan.**
+Su cuenta, por corrida, vive en [`indice.md`](../indice.md), y ahí se hace la resta. Este archivo no la repite, y por eso no hay dos curvas que se contradigan.
 
-**Y lo que sí se toma de ahí, porque es de aquí también:** **trece de los catorce mutantes nacieron después de esas dieciocho corridas, y el ejemplo de cada uno es un caso que una corrida dejó escrito.** **El mutante no se inventa: se saca de la regla y se prueba con el caso.**
+Y lo que sí se toma de ahí, porque es de aquí también: trece de los catorce mutantes nacieron después de esas dieciocho corridas, y el ejemplo de cada uno es un caso que una corrida dejó escrito. El mutante no se inventa: se saca de la regla y se prueba con el caso.
 
 ---
 
 ## Prueba
 
-**¿Cada familia de la tabla dice de dónde sale su regla, qué la rompe, y en qué quedó?** **¿Se distingue "sin mutante" de "mutante vivo"?** **¿Está dicho el caso del 13, y que el vivo del primer intento no se puede volver a correr?** **¿Los dumps se pueden abrir, y se dice lo que pierden?** **¿Algún otro archivo repite estos números?**
+¿Cada familia de la tabla dice de dónde sale su regla, qué la rompe, y en qué quedó? ¿Se distingue "sin mutante" de "mutante vivo"? ¿Está dicho el caso del 13, y que el vivo del primer intento no se puede volver a correr? ¿Los dumps se pueden abrir, y se dice lo que pierden? ¿Algún otro archivo repite estos números?
 
 ---
 
-**Falsificador:** **una tabla que dice "corrido" sin el script que lo prueba**; **un mutante vivo que no está en la tabla**; **una familia sin mutante contada como probada**; **y un dump que trae algo que la base no tenía.**
+Falsificador: **una tabla que dice "corrido" sin el script que lo prueba**; **un mutante vivo que no está en la tabla**; **una familia sin mutante contada como probada**; **y un dump que trae algo que la base no tenía.**

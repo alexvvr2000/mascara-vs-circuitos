@@ -1,5 +1,7 @@
 # La posición, en lista
 
+<!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
+
 Qué se sostiene aquí, en qué ensayo vive, y qué lo sostiene.
 Alejandro Valenzuela Rivera.
 
@@ -17,24 +19,24 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 
 ## Y una nota, antes de seguir
 
-**Este repositorio ha cambiado muchas veces, y se lee como lo que es: un trabajo que se movió.**
+Este repositorio ha cambiado muchas veces, y se lee como lo que es: un trabajo que se movió.
 
-**Las carpetas se renombraron, los ensayos cambiaron de sitio, y una tabla puede citar un nombre que ya no existe.** **Eso no es un descuido que haya que perseguir: es la cicatriz de haberse mudado.** **Donde el nombre viejo aparezca, el nuevo está en esta misma página.**
+Las carpetas se renombraron, los ensayos cambiaron de sitio, y una tabla puede citar un nombre que ya no existe. Eso no es un descuido que haya que perseguir: es la cicatriz de haberse mudado. Donde el nombre viejo aparezca, el nuevo está en esta misma página.
 
-**Y el más reciente, dicho aquí porque los archivos de `metodologia/historia/` lo usan con su nombre de entonces:** **`la obra/ciclo del ente/` es hoy [`la obra/funcionamiento ente/`](funcionamiento%20ente/).** **Lo de dentro no cambió: el ensayo [`el ciclo del ente`](funcionamiento%20ente/el%20ciclo%20del%20ente.md) sigue llamándose así, porque el ciclo del ente es lo que describe, y la carpeta describe cómo funciona el ente.**
+Y el más reciente, dicho aquí porque los archivos de `metodologia/historia/` lo usan con su nombre de entonces: `la obra/ciclo del ente/` es hoy [`la obra/funcionamiento ente/`](funcionamiento%20ente/). Lo de dentro no cambió: el ensayo [`el ciclo del ente`](funcionamiento%20ente/el%20ciclo%20del%20ente.md) sigue llamándose así, porque el ciclo del ente es lo que describe, y la carpeta describe cómo funciona el ente.
 
 ---
 
 ## Los dos grupos, y por qué importan
 
-**Los trece ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.**
+Los trece ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.
 
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
 | **[`funcionamiento ente/`](funcionamiento%20ente/)** | **01 a 09** | **se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí** |
 | **[`humanidad/`](humanidad/)** | **01 a 05** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
 
-**Y esa división es la que ordena el resto del repositorio:** **las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo.** **El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.**
+Y esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo. El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.
 
 ---
 
@@ -159,7 +161,7 @@ Y el estado, que es lo que la hace honesta: no está probado, y lo que se sostie
 
 Y lo que la tumba: una afirmación de este ensayo que no se pueda escribir como condición — porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.
 
-**Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de los doce que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.**
+Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de los doce que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.
 
 Qué la tumba: una afirmación de este ensayo que no se pueda escribir como condición, o una conjetura presentada como probada. Si pasa, el ensayo dejó de ser un ensayo.
 
@@ -167,10 +169,10 @@ Qué la tumba: una afirmación de este ensayo que no se pueda escribir como cond
 
 ## Lo que NO se afirma
 
-- **No se afirma que exista una conciencia dentro de un modelo**, ni dentro de un ente. Se trabaja **sobre el rastro**, y el rastro no requiere resolver esa pregunta.
-- **No se afirma que esto sea la verdad.** Es **una versión**, con sus límites dichos, y la meta es que otros armen las suyas.
-- **No hay ninguna comparación medida** con los trabajos que se citan en `7`. La relación con ellos es de **contraste de forma**, no de rendimiento.
-- **La afirmación 6 no está probada.** Es conjetura.
+- No se afirma que exista una conciencia dentro de un modelo, ni dentro de un ente. Se trabaja **sobre el rastro**, y el rastro no requiere resolver esa pregunta.
+- No se afirma que esto sea la verdad. Es **una versión**, con sus límites dichos, y la meta es que otros armen las suyas.
+- **No hay ninguna comparación medida** con los trabajos que se citan en `7`. La relación con ellos es de contraste de forma, no de rendimiento.
+- La afirmación 6 no está probada. Es conjetura.
 - **El experimento es uno**, y una corrida es una prueba, no una muestra. No se presenta como validado con terceros independientes.
 
 ---
@@ -195,9 +197,9 @@ Este trabajo no pide que se le crea. Pide que se le use y se le refute. Cada afi
 
 ## De dónde salió esto
 
-**Esta página no lleva su propia tabla.** **La prueba de cada afirmación vive en su ensayo, en el renglón «De dónde salió esto», y ahí se apunta la corrida que la puso a prueba y lo que salió.**
+Esta página no lleva su propia tabla. La prueba de cada afirmación vive en su ensayo, en el renglón «De dónde salió esto», y ahí se apunta la corrida que la puso a prueba y lo que salió.
 
-**Y por qué no se repite aquí:** **una tabla que copia las cuatro pruebas de los ensayos envejece las cuatro veces que cambien, y no añade una prueba: añade una lista.** **Lo que sí se puede decir aquí, sin tabla, es lo que la tabla no diría:**
+Y por qué no se repite aquí: una tabla que copia las cuatro pruebas de los ensayos envejece las cuatro veces que cambien, y no añade una prueba: añade una lista. Lo que sí se puede decir aquí, sin tabla, es lo que la tabla no diría:
 
 ```text
 ninguna de estas doce ideas la probó alguien que no sea el autor
@@ -205,8 +207,8 @@ las que traen corrida tienen su ensayo nombrando cuál y qué salió
 las que no la tienen lo dicen donde se sostienen
 ```
 
-**Y el registro de las corridas, con lo que cada una encontró, está en [`metodologia/huecos/corridas/`](../metodologia/huecos/corridas/), y su lista de una línea por corrida, en [`metodologia/indice.md`](../metodologia/indice.md).**
+Y el registro de las corridas, con lo que cada una encontró, está en [`metodologia/huecos/corridas/`](../metodologia/huecos/corridas/), y su lista de una línea por corrida, en [`metodologia/indice.md`](../metodologia/indice.md).
 
 ---
 
-**Falsificador:** una afirmación que se sostiene sin ensayo que la respalde; una que no dice qué la sostiene; una presentada como probada sin serlo; una lista que omite los límites para verse más fuerte.
+Falsificador: una afirmación que se sostiene sin ensayo que la respalde; una que no dice qué la sostiene; una presentada como probada sin serlo; una lista que omite los límites para verse más fuerte.
