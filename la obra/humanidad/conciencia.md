@@ -1,4 +1,4 @@
-# 02. Conciencia
+# Conciencia
 
 Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no parece un defecto, y dónde se la puede estar buscando.
 

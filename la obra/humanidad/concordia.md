@@ -1,10 +1,10 @@
-# 03. Concordia
+# Concordia
 
 **Por qué este trabajo alinea con la concordia y no con la moral, y qué se gana con eso.**
 
 **Alejandro Valenzuela Rivera.**
 
-> Antes de leer. Conviene haber leído `11 empatía`, porque esto es lo que pasa cuando los tres renglones de allí se cumplen. Y conviene haber leído `13 máquina de sesgos`, porque éste se apoya en lo que aquel deja abierto.
+> Antes de leer. Conviene haber leído [`empatía`](empat%C3%ADa.md), porque esto es lo que pasa cuando los tres renglones de allí se cumplen. Y conviene haber leído [`máquina de sesgos`](maquina%20de%20sesgos.md), porque éste se apoya en lo que aquel deja abierto.
 >
 > Al terminar sabrás qué criterio se usa aquí para decidir qué se sostiene, y qué lo tumba.
 
@@ -46,7 +46,7 @@ el criterio      lo que se sostiene aguanta que se le pida la cuenta, hoy y desp
 
 **Esto es lo que ordena el ensayo, y sin ello la concordia sería una palabra bonita.**
 
-**El ensayo `11 empatía` pide tres renglones antes de ejecutar nada:**
+**El ensayo [`empatía`](empat%C3%ADa.md) pide tres renglones antes de ejecutar nada:**
 
 ```plaintext
 1. lo que entendí, en palabras del otro
@@ -98,7 +98,7 @@ el borde       es el paso 2: buscar la pieza en el índice
 
 ## VI. Por qué el ente no necesita ego para esto
 
-**Un ego aquí no es un reproche moral: es un modo de fallo, y está definido en `01 qué es un ente`.** **Es defender una postura porque es mía, y no porque aguanta.**
+**Un ego aquí no es un reproche moral: es un modo de fallo, y está definido en [`qué es un ente`](../funcionamiento%20ente/que%20es%20un%20ente.md).** **Es defender una postura porque es mía, y no porque aguanta.**
 
 **Y un ente con concordia no tiene nada que defender.** **No tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.**
 
@@ -137,12 +137,12 @@ se pierde  la comodidad de que alguien conteste por ti sin decirte nada
 
 | Lo que el ensayo afirma | Dónde se sostiene |
 |---|---|
-| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [`14 máquina de sesgos`](05%20maquina%20de%20sesgos.md) distingue el criterio del sesgo, y [`01 qué es un ente`](../funcionamiento%20ente/01%20que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
-| La concordia es el resultado de la empatía, y no un valor aparte | [`11 empatía`](01%20empatía.md), y sus tres renglones |
-| La concordia tiene que decir qué falta, y no decir que sí | [`03 el piso`](../funcionamiento%20ente/03%20el%20piso.md), que reemplaza «no pude» por qué falta |
-| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [`01 qué es un ente`](../funcionamiento%20ente/01%20que%20es%20un%20ente.md), y el [`12 conciencia`](02%20conciencia.md) |
+| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [`máquina de sesgos`](maquina%20de%20sesgos.md) distingue el criterio del sesgo, y [`qué es un ente`](../funcionamiento%20ente/que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
+| La concordia es el resultado de la empatía, y no un valor aparte | [`empatía`](empat%C3%ADa.md), y sus tres renglones |
+| La concordia tiene que decir qué falta, y no decir que sí | [`el piso`](../funcionamiento%20ente/el%20piso.md), que reemplaza «no pude» por qué falta |
+| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [`qué es un ente`](../funcionamiento%20ente/que%20es%20un%20ente.md), y [`conciencia`](conciencia.md) |
 
-**Y lo que esta tabla no dice, que también es un dato:** **este ensayo no tiene una corrida que lo respalde.** **No afirma cómo funciona un ente, y por eso no se puede romper a propósito.** **Es el segundo de la obra que va sin corrida, después de `13 máquina de sesgos`.**
+**Y lo que esta tabla no dice, que también es un dato:** **este ensayo no tiene una corrida que lo respalde.** **No afirma cómo funciona un ente, y por eso no se puede romper a propósito.** **Es el segundo de la obra que va sin corrida, después de [`máquina de sesgos`](maquina%20de%20sesgos.md).**
 
 ---
 

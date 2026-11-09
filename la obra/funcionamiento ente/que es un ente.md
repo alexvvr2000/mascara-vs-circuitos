@@ -1,4 +1,4 @@
-# 01. Qué es un ente
+# Qué es un ente
 
 Antes de describir su ciclo hace falta saber qué es un ente, y a quién sirve.
 Alejandro Valenzuela Rivera.
@@ -209,7 +209,7 @@ Y de ahí sale la primera regla de propiedad: lo que el ente produce es de quien
 
 Porque sin la definición, "medir el talento" no dice de qué. Se pueden medir tokens por segundo, aciertos por pregunta, o la impresión que deja la respuesta, y en los tres casos se está midiendo lo mismo: la superficie.
 
-Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. Eso es lo que se mide en [`la medición de talentos`](../humanidad/04%20medicion%20de%20talentos.md), y no se puede medir sin haber aceptado antes la definición y el rastro.
+Un ente —como aquí se define— se mide por lo que hace por defecto, cómo falla, y qué produce cuando lo pones en una cadena. Eso es lo que se mide en [`la medición de talentos`](../humanidad/medicion de talentos.md), y no se puede medir sin haber aceptado antes la definición y el rastro.
 
 ---
 

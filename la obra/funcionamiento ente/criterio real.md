@@ -1,9 +1,9 @@
-# 05. Criterio real
+# Criterio real
 
 Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído `01 que es un ente`. Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.
+> Antes de leer. Conviene haber leído [`que es un ente`](que%20es%20un%20ente.md). Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.
 >
 > Al terminar sabrás qué se apunta para que un criterio se pueda revisar, y qué columna es la que casi nunca está.
 

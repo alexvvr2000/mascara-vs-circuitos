@@ -1,10 +1,10 @@
-# 02. El ciclo del ente
+# El ciclo del ente
 
 Los pasos que un ente corre, uno por uno: qué entra, qué se hace, y dónde queda.
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído `01 que es un ente`. Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
+> Antes de leer. Conviene haber leído [`que es un ente`](que%20es%20un%20ente.md). Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -16,13 +16,13 @@ Un ente puede funcionar sin esto, y funciona mal de una manera que no se ve.
 
 El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo. Y lo que no está escrito, se rellena — y se rellena distinto cada vez. Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.
 
-Y dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en `01 que es un ente`); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
+Y dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [`que es un ente`](que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
 
 Y cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.
 
 La ruta corta, si el tiempo es poco: el paso 0, el paso 3, y el falsificador del final. Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.
 
-Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en `03 el piso`, y las cuatro columnas del paso 3 en `06 la frontera y el descarte`.
+Y dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [`el piso`](el%20piso.md), y las cuatro columnas del paso 3 en [`la frontera y el descarte`](la%20frontera%20y%20el%20descarte.md).
 
 ### El mapa
 
@@ -121,7 +121,7 @@ Y la línea que lo hace honesto: si el cuerpo no se declara, el hueco es de quie
 
 La autoridad no es "el usuario". El usuario es quien pregunta hoy; la autoridad es quien responde por el para qué. Pueden ser la misma persona, y no se confunden: el usuario puede cambiar cada mensaje, y la autoridad es una y con nombre.
 
-Y la razón por la que existe no es jerárquica, y está en `01 que es un ente`: un ente no tiene cuerpo, y por eso su error no le cuesta nada. La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.
+Y la razón por la que existe no es jerárquica, y está en [`que es un ente`](que%20es%20un%20ente.md): un ente no tiene cuerpo, y por eso su error no le cuesta nada. La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.
 
 De ahí dos cosas que este paso da por hechas y que hay que decir aquí:
 
@@ -304,7 +304,7 @@ lo que el ente PROPONE y espera firma
 
 Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia. Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.
 
-Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en `06 la frontera y el descarte`.
+Y donde queda lo que decide, con sus cuatro columnas y el descarte, está en [`la frontera y el descarte`](la%20frontera%20y%20el%20descarte.md).
 
 **Se corre:** después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
 
@@ -584,9 +584,9 @@ Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cie
 
 ### Y antes de seguir: cómo se sabe si este ciclo sirve, y dónde está el cómo se llegó
 
-**Un ciclo escrito se puede correr y no probar nada.** **Y la forma de saberlo está en `04 escritura en procesos`, porque es el mismo mecanismo:** **se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.**
+**Un ciclo escrito se puede correr y no probar nada.** **Y la forma de saberlo está en [`escritura en procesos`](escritura%20en%20procesos.md), porque es el mismo mecanismo:** **se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.**
 
-**La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí.** **El piso del ensayo 03.**
+**La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí.** **El piso del ensayo [`el piso`](el%20piso.md).**
 
 **Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en `metodologia/`.** **Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.**
 

@@ -1,9 +1,9 @@
-# 09. Criterio y sesgos
+# Criterio y sesgos
 
 Un ente con identidad sobre varios modelos: qué lo hace uno, y qué lo hace parcial.
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Necesita `05 criterio real`, y ayuda `01 que es un ente`.
+> Antes de leer. Necesita [`criterio real`](criterio%20real.md), y ayuda [`que es un ente`](que%20es%20un%20ente.md).
 >
 > Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.
 

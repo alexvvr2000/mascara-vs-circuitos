@@ -1,4 +1,4 @@
-# 04. Escritura en procesos
+# Escritura en procesos
 
 Por qué una IA debe escribir en forma de proceso y no en prosa.
 Alejandro Valenzuela Rivera.

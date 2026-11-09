@@ -1,4 +1,4 @@
-# 05. Máquina de sesgos
+# Máquina de sesgos
 
 Cómo saber si un trabajo se hizo de verdad, con números que salen del registro y no de la opinión del que trabajó.
 
