@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # La frontera y el descarte
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -5,6 +6,8 @@
 Las cuatro columnas que vuelven auditable una decisión, y por qué el paso 3 se puede revisar aunque el razonamiento no.
 
 Alejandro Valenzuela Rivera.
+
+---
 
 > Antes de leer. Necesita [el ciclo del ente](el%20ciclo%20del%20ente.md), porque es su paso 3, solo.
 >
@@ -155,7 +158,13 @@ Y qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la úni
 
 ---
 
-## Prueba
+## Lo visto
+
+E.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+l esquema rechazó un hecho que se atribuía una firma que no tenía## Prueba
 
 ¿Cada hecho dice en qué frontera quedó, o hay que adivinarlo del texto? ¿Un hecho con `frontera = decide` y firma llena fue rechazado, o el esquema lo aceptó? ¿El `descartado` distingue la opción que se dejó ir de «ninguna»? ¿La propuesta sin firma quedó abierta en vez de cerrarse sola? ¿Se puede decir, de cada hecho, qué piso consultó?
 

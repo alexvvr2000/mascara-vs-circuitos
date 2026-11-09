@@ -1,9 +1,11 @@
+<!-- voz: de testigo -->
 # Criterio real
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Por qué el criterio no se recuerda: se arma con el hecho, la fricción y el desenlace.
 Alejandro Valenzuela Rivera.
+
+---
 
 > Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md). Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.
 >
@@ -227,7 +229,13 @@ Y qué se pierde si cambia: sin el desenlace, el registro es un diario; y el cri
 
 ---
 
-## Prueba
+## Lo visto
+
+E.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+l registro completo por primera vez: fecha, frase literal y medida## Prueba
 
 ¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Cada hecho dice qué se supuso, y en qué quedó ese supuesto? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?
 

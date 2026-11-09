@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El piso
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -5,6 +6,8 @@
 Lo que un ente mide antes de prometer, y por qué decir «no pude» no sirve.
 
 Alejandro Valenzuela Rivera.
+
+---
 
 > Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md) y [el ciclo del ente](el%20ciclo%20del%20ente.md). Si no, basta con esto: el piso es lo que el ente midió que tiene antes de prometer.
 >
@@ -252,7 +255,13 @@ Falsificador de esta sección: un piso que se declara suficiente sin que nadie l
 
 ---
 
-## Prueba
+## Lo visto
+
+C.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+uatro herramientas faltaban, dichas por su nombre antes de prometer nada## Prueba
 
 ¿Se midió el piso antes de la primera tarea, o se declaró a ojo? ¿Cada hecho dice contra qué piso se hizo? ¿Cuando se pidió algo que el piso no tenía, se dijo qué faltaba, o se dijo «no pude»? ¿Lo que un `no hay` guarda es la falta, con el nombre de la herramienta, o el error crudo? ¿El ente contesta por tarea, o busca la palabra del pedido en la lista de herramientas? ¿Se dice qué falta del piso en vez de detenerse a esperar?
 

@@ -1,9 +1,11 @@
+<!-- voz: de testigo -->
 # Indexador de temas
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Cómo sabe un ente dónde vive lo que sabe: un índice que cambia, y que se puede reconstruir.
 Alejandro Valenzuela Rivera.
+
+---
 
 > Antes de leer. Es el más abstracto de los nueve, y trata sólo de dónde vive lo que un ente sabe. Si lo que buscas es cómo trabaja un ente, este no es el que necesitas.
 >
@@ -278,7 +280,13 @@ Y qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no
 
 ---
 
-## Prueba
+## Lo visto
+
+U.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+n casi que se guardaba y nunca se consultaba## Prueba
 
 ¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue no de no es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?
 

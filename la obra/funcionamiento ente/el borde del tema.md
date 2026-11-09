@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El borde del tema
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -5,6 +6,8 @@
 Cómo se escribe el borde de un tema para que una máquina lo pueda correr, y para que dos personas no lo lean distinto.
 
 Alejandro Valenzuela Rivera.
+
+---
 
 > Antes de leer. Necesita [indexador de temas](indexador%20de%20temas.md), porque es la parte del borde, sola.
 >
@@ -286,7 +289,13 @@ Y qué se pierde si cambia: si se invierte el orden, un tema a medias tapa un so
 
 ---
 
-## Prueba
+## Lo visto
+
+E.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+l medio se usaba para dos cosas, y una no era duda## Prueba
 
 ¿El borde dice quién lo evalúa, una máquina o una persona? ¿Se escribe como condición sobre los campos de la pieza, y no sobre su texto? ¿Declara su zona gris al escribirse, o la inventa al consultarse? ¿Distingue «no» de «no es de este tema»? ¿Cuándo dos temas se solapan, se apunta antes de mirar otra cosa? ¿El tema de persona deja la pieza en pendiente, o la deja pasar sin que nadie conteste?
 

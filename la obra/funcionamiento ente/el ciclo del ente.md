@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El ciclo del ente
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -5,6 +6,8 @@
 Los pasos que un ente corre, uno por uno: qué entra, qué se hace, y dónde queda.
 
 Alejandro Valenzuela Rivera.
+
+---
 
 > Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md). Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
 
@@ -639,7 +642,13 @@ Falsificador: un índice que no cambia con lo que el ente vive; y un ente que ap
 
 ---
 
-## Prueba
+## Lo visto
+
+U.
+
+Y lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+n ente al que le faltaba una pieza pasó la prueba y no probó nada del resto## Prueba
 
 ¿Cada paso dice qué entra, qué se hace y dónde queda, o hay alguno que se salta? ¿Se puede señalar en qué paso se consultó el índice, y qué pasó si no había tema? ¿Se dijo qué era requisito y qué era costumbre antes de empezar, y si no se pudo preguntar, se declaró el supuesto con su estado? ¿Antes de contestar se declaró de dónde salía lo que se iba a decir, y de dónde salía depende del piso? ¿Se midió el piso antes de la primera tarea, y cada hecho dice contra qué piso se hizo? ¿Cuando se le pidió algo que no estaba en el piso, dijo qué faltaba, o dijo "no pude"? ¿Cuando le faltó algo a mitad de la tarea lo dijo y siguió con lo que tenía? ¿El propósito lo cerró quien lo abrió, y sólo se cerró solo cuando decía cuándo estaba cumplido? ¿Lo apuntado volvió al índice y a la autoridad? Si algún paso no se puede llenar, ese es el hallazgo: el ciclo tiene un hueco.
 
