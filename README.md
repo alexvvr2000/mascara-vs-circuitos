@@ -44,29 +44,6 @@ Aquí no hay buenos. Los dos son rudos. Y el que pierde se quita la máscara: la
 
 ---
 
-```plaintext
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-   LUCHA DE APUESTAS
-
-   Esquina derecha: Alejandro Valenzuela Rivera.
-   Esquina izquierda: la industria.
-   En la mesa: máscara contra cabellera.
-
-   Y que quede claro desde el anuncio:
-   aquí no hay buenos. Los dos son rudos.
-
-   De este lado, porque aprendió el oficio a madrazos.
-   Del otro, porque lleva veinte años diciendo
-   que el oficio no existe.
-
-   El que caiga, se quita la máscara y se deja pelón.
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-```
-
----
-
 > Antes de creerme nada, dos páginas:
 >
 > [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
