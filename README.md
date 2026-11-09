@@ -380,7 +380,7 @@ Así que cada quien hace lo suyo, y cita o critica según haga falta. Esto es mi
 
 Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que otros puedan aportar, es que en el momento en que alguien más escribe aquí, esto deja de ser mío y empieza a ser de nadie. Lo que otro construya no entra aquí: se hace suyo, y se cita este trabajo como punto de partida.
 
-Lo que sí se puede hacer lo dice [el archivo de licencias](LICENSE.md): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo, y lo que está aquí se queda aquí. La prosa va con CC BY 4.0 y el código con Apache 2.0, que trae su concesión de patentes.
+Lo que sí se puede hacer lo dice [el archivo de licencias](LICENSES.md): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo, y lo que está aquí se queda aquí. La prosa va con CC BY 4.0 y el código con Apache 2.0, que trae su concesión de patentes.
 
 ---
 

@@ -180,15 +180,40 @@ def regla_licencias(p, fallos):
     La prosa va con CC BY 4.0 y el código con Apache 2.0. Si alguien cambia una
     y no la otra, o borra una, el build se cae: es la única forma de que la
     licencia no quede detrás de lo que el repo hace.
+
+    La forma que piden GitHub y REUSE a la vez: `LICENSE` con una sola licencia
+    —la de GitHub detecta el primer archivo LICENSE y se atonta con dos—,
+    `LICENSES/` con un texto por identificador SPDX y nada más, y la nota en
+    `LICENSES.md`.
     """
-    if os.path.abspath(p) != os.path.join(RAIZ, "LICENSE.md"):
+    if os.path.abspath(p) != os.path.join(RAIZ, "LICENSES.md"):
         return
-    txt = os.path.join(RAIZ, "LICENSE.txt")
-    md = open(p, encoding="utf-8").read()
-    if not os.path.exists(txt) or "Apache License" not in open(txt, encoding="utf-8", errors="replace").read():
-        fallos.append((rel(p), "LICENCIA", "falta LICENSE.txt, o no es el texto de Apache 2.0"))
-    if "CC BY 4.0" not in md or "Apache 2.0" not in md:
-        fallos.append((rel(p), "LICENCIA", "LICENSE.md tiene que nombrar las dos"))
+    nota = open(p, encoding="utf-8").read()
+
+    lic = os.path.join(RAIZ, "LICENSE")
+    if not os.path.exists(lic):
+        fallos.append((rel(p), "LICENCIA", "falta el archivo LICENSE del root"))
+    else:
+        txt = open(lic, encoding="utf-8", errors="replace").read()
+        if "Apache License" not in txt:
+            fallos.append((rel(p), "LICENCIA", "LICENSE tiene que ser el texto de Apache 2.0"))
+        if "Creative Commons" in txt:
+            fallos.append((rel(p), "LICENCIA", "LICENSE no puede llevar las dos: GitHub no detecta ninguna"))
+
+    carpeta = os.path.join(RAIZ, "LICENSES")
+    if not os.path.isdir(carpeta):
+        fallos.append((rel(p), "LICENCIA", "falta LICENSES/"))
+    else:
+        sueltos = [f for f in os.listdir(carpeta) if f not in ("Apache-2.0.txt", "CC-BY-4.0.txt")]
+        if sueltos:
+            fallos.append((rel(p), "LICENCIA", "LICENSES/ sólo lleva los dos textos: %s" % ", ".join(sueltos)))
+        for nombre, marca in (("Apache-2.0.txt", "Apache License"), ("CC-BY-4.0.txt", "Attribution 4.0 International")):
+            ruta = os.path.join(carpeta, nombre)
+            if not os.path.exists(ruta) or marca not in open(ruta, encoding="utf-8", errors="replace").read():
+                fallos.append((rel(p), "LICENCIA", "falta LICENSES/%s, o no es su texto" % nombre))
+
+    if "CC BY 4.0" not in nota or "Apache 2.0" not in nota:
+        fallos.append((rel(p), "LICENCIA", "LICENSES.md tiene que nombrar las dos"))
 
 
 def regla_forma_texto(p):

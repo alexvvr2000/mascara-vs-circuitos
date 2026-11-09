@@ -28,7 +28,8 @@ authors:
 version: "1.0.0"
 commit: "f4e37a40318074ae78032dea5904e85ba0860733"
 date-released: "2026-11-09"
-license: "CC-BY-4.0"
+license: "Apache-2.0"
+license-note: "El código va con Apache 2.0 y la prosa con CC BY 4.0. Ver LICENSES.md."
 status: "initial"
 keywords:
   - "inteligencia artificial"
