@@ -135,12 +135,12 @@ se pierde  la comodidad de que alguien conteste por ti sin decirte nada
 
 ## De dónde salió esto
 
-| Lo que el ensayo afirma | Dónde se sostiene, o qué lo puso a prueba |
+| Lo que el ensayo afirma | Dónde se sostiene |
 |---|---|
-| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | la fricción 55, y la 48: decisiones que se tomaron por otro y hubo que deshacer |
-| La concordia es el resultado de la empatía, y no un valor aparte | `11 empatía`, los tres renglones |
-| La concordia tiene que decir qué falta, y no decir que sí | la fricción de la complacencia, en `09 criterio y sesgos` |
-| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | `01 qué es un ente`, y el `12 conciencia` |
+| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [`13 criterio y sesgos`](13%20maquina%20de%20sesgos.md) distingue el criterio del sesgo, y [`01 qué es un ente`](../ciclo%20del%20ente/01%20que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
+| La concordia es el resultado de la empatía, y no un valor aparte | [`11 empatía`](11%20empatía.md), y sus tres renglones |
+| La concordia tiene que decir qué falta, y no decir que sí | [`03 el piso`](../ciclo%20del%20ente/03%20el%20piso.md), que reemplaza «no pude» por qué falta |
+| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [`01 qué es un ente`](../ciclo%20del%20ente/01%20que%20es%20un%20ente.md), y el [`12 conciencia`](12%20conciencia.md) |
 
 **Y lo que esta tabla no dice, que también es un dato:** **este ensayo no tiene una corrida que lo respalde.** **No afirma cómo funciona un ente, y por eso no se puede romper a propósito.** **Es el segundo de la obra que va sin corrida, después de `13 máquina de sesgos`.**
 
