@@ -6,7 +6,7 @@ Lo que este trabajo no puede probar, y por qué aun así se publica.
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Este ensayo va después de los nueve por una razón: es el único que no demuestra nada. Todo lo anterior trae su prueba y su falsificador. Esto trae una pregunta, y la deja abierta.
+> Antes de leer. Este ensayo es el único de la obra que no demuestra nada: todo lo demás trae su prueba y su falsificador, y esto trae una pregunta, y la deja abierta.
 >
 > Al terminar sabrás qué persigue este trabajo cuando termina lo que sí puede probar, y qué le falta para llegar.
 
@@ -135,7 +135,7 @@ Lo que este ensayo afirma, y en qué se puso a prueba.
 | `ALAS` crece y con eso hace lenguaje | [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy) | no está probado, y se dice en el ensayo |
 | Un rastro bien guardado se comporta como identidad | los nueve levantamientos de este repositorio | ninguno de ellos lo hizo alguien que no fuera el autor |
 
-Y lo que esta tabla no dice, y es lo más importante de esta página: este ensayo no tiene una corrida que lo respalde. Es el único de los diez que no. Por eso va al final, y por eso su tabla dice "qué no se probó" y no "qué salió".
+Y lo que esta tabla no dice, y es lo más importante de esta página: este ensayo no tiene una corrida que lo respalde. Es el único de la obra que no. Por eso su tabla dice «qué no se probó» y no «qué salió».
 
 ---
 

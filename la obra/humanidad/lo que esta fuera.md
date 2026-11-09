@@ -6,7 +6,7 @@ Qué es esa palabra que usamos sin saber qué es, por qué la alucinación no pa
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Se lee solo, y no pide creer nada. Es el ensayo más personal de los doce, y el que menos se parece a un método.
+> Antes de leer. Se lee solo, y no pide creer nada. Es el ensayo más personal de la obra, y el que menos se parece a un método.
 >
 > Al terminar sabrás dónde se puede buscar lo que se llama conciencia, y por qué no se busca adentro.
 
@@ -97,20 +97,6 @@ Y eso, para mí, no suena a problema: suena a que la alucinación puede ser algo
 La cita salió de una película. No de un paper, no de una conferencia, no de un instituto.
 
 Y ése es el punto, no el detalle: Luthor hizo una pregunta que este ensayo no puede contestar y no intenta contestar —si las fuerzas fundamentales están uncidas por la conciencia, y si todo está conectado— y la hizo en una película, donde nadie le pidió un marco teórico antes de preguntarla.
-
-Eso es lo que hace la ficción y lo que la academia casi nunca hace: pregunta primero, y se justifica después, o no se justifica.
-
-Y los dos oficios tienen una razón para comportarse así, y ninguna es de rigor.
-
-La ficción hace la pregunta sin pedir permiso. No necesita un marco teórico para decir «¿y si la conciencia fuera esto?». La dice, y se sostiene o se cae por su cuenta. Un villano animado puede afirmar algo sobre la conciencia que un paper tardaría veinte páginas en escribir sin calificarlo.
-
-Y la academia también hace preguntas, y después las defiende. Y ése es su problema, que no es del método: es de quien lo usa. Se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta. Cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.
-
-> Cambiar de punto de vista es más poderoso que defender el que ya se tenía. Y lo segundo es lo que se premia.
-
-Y lo que eso le importa a este trabajo: un ente sin ego no tiene ese costo. Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener. Y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender.
-
-Y el límite, dicho sin adorno: eso no lo vuelve más listo. Lo vuelve más dispuesto. Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos; y eso no es una ventaja de inteligencia, es una ventaja de forma.
 
 Falsificador: una conclusión que se sostiene porque se defendió mucho, y no porque aguantó una contra; y una disciplina que premia la consistencia por encima de la corrección, cuando la corrección era lo que buscaba.
 

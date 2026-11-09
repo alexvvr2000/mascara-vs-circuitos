@@ -234,7 +234,7 @@ Y si solo vas a leer una cosa, lee las corridas. Los ensayos dicen lo que deber�
 
 ## Las doce ideas
 
-Son la posición completa. La columna de la derecha dice en cuál de los trece ensayos vive cada una, y ahí tiene su falsificador. Los ensayos se nombran por su título, y no por un número: el número era el puesto en la carpeta, y la carpeta todavía se está ordenando. Dos pueden vivir en el mismo ensayo, y el falsificador es el mismo para las dos. La que no vive en un ensayo lo dice, y es una sola: la que es conjetura.
+Son la posición completa. La columna de la derecha dice en cuál de los ensayos vive cada una, y ahí tiene su falsificador. Los ensayos se nombran por su título, y no por un número: el número era el puesto en la carpeta, y la carpeta todavía se está ordenando. Dos pueden vivir en el mismo ensayo, y el falsificador es el mismo para las dos. La que no vive en un ensayo lo dice, y es una sola: la que es conjetura.
 
 | # | La idea | Vive en |
 |---|---|---|

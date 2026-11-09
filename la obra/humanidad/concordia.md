@@ -194,7 +194,7 @@ Y se cierra con una frase, y se dice que está modificada, porque no es del orig
 
 > «Vamos a perder si le damos esto al mundo, pero no se puede evitar; un gramo de registro, y nos vengan.»
 
-Es una paráfrasis de *Infinity War* (2018), y no se reproduce la línea original. La idea de la película es la contraria de la que aquí se usa: en la película, lo que da miedo es que no se pueda deshacer; aquí, lo que se sostiene es que lo que dejó registro todavía se puede revisar, y con eso, quitar.
+Es una paráfrasis de *The Avengers* (2012), de la escena en que Tony Stark le contesta a Loki, y no se reproduce la línea original. La idea de la película es la que aquí se usa, aunque al revés: allá, si no se puede proteger la Tierra, se la venga; aquí, si no se puede garantizar que esto no haga daño, al menos queda la venganza que sirve: el registro.
 
 Y lo que esta parodia quiere decir, si alguien lo lee en serio: lo que se pierde al publicar esto se pierde una vez; lo que se pierde guardándolo se pierde todas las veces, porque no queda quién lo cuente.
 
@@ -242,9 +242,11 @@ Jujutsu Kaisen      manga de Gege Akutami, y anime. se nombra el personaje
                     reproduce diálogo ni imagen. la referencia del personaje
                     está en la wiki pública de la serie
 
-Infinity War        película de Marvel Studios, 2018. la frase del cierre es
-                    una paráfrasis, y se dice que es una paráfrasis. la
-                    línea original no se reproduce
+The Avengers        película de Marvel Studios, 2012, escena de Tony Stark y
+                    Loki. la frase del cierre es una paráfrasis de la línea
+                    de Stark: «if we can't protect the Earth, you can be damn
+                    well sure we'll avenge it». se parafrasea, y se dice que
+                    se parafrasea; la línea no se reproduce como cita
 ```
 
 Y la regla que sigue este ensayo, que es la misma de [conciencia](lo%20que%20esta%20fuera.md): la ficción se usa como argumento y se cita con atribución, sin reproducir más de lo necesario. Si alguien opina que un resumen ya es demasiado, se retira la referencia, y lo que sostiene el ensayo no cambia: la burla es al salto, y el salto no necesita que se nombre ninguna serie.
@@ -263,4 +265,4 @@ Si la burla se saca, se pierde el único lugar donde este trabajo dice, con nomb
 
 Si la burla se queda sin sus marcas —que es una burla, que la ficción no es dato, que la frase está modificada—, se pierde la diferencia entre lo que se sostiene y lo que se chotea, y un ensayo que parecía criterio se leería como opinión.
 
-Y si alguien borra los enlaces a *Jujutsu Kaisen* y a *Infinity War* para que no haya problemas de derechos, se pierde lo que la cita estaba defendiendo: que el salto ocurre con autor, y que eso se puede señalar. La referencia no reproduce el original: lo nombra, lo resume y lo interpreta, que es lo que la ley de cita permite.
+Y si alguien borra los enlaces a *Jujutsu Kaisen* y a *The Avengers* para que no haya problemas de derechos, se pierde lo que la cita estaba defendiendo: que el salto ocurre con autor, y que eso se puede señalar. La referencia no reproduce el original: lo nombra, lo resume y lo interpreta, que es lo que la ley de cita permite.

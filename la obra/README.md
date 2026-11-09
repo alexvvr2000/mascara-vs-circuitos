@@ -161,7 +161,7 @@ Y el estado, que es lo que la hace honesta: no está probado, y lo que se sostie
 
 Y lo que la tumba: una afirmación de este ensayo que no se pueda escribir como condición — porque si no se puede decir «si esto, entonces aquello», no es una conclusión: es un estado de ánimo.
 
-Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de los doce que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.
+Y su tabla de procedencia dice "qué no se probó", no "qué salió", porque es el único de la obra que no tiene una corrida detrás. Eso se dice ahí, y no se disimula.
 
 Qué la tumba: una afirmación de este ensayo que no se pueda escribir como condición, o una conjetura presentada como probada. Si pasa, el ensayo dejó de ser un ensayo.
 
@@ -208,6 +208,26 @@ las que no la tienen lo dicen donde se sostienen
 ```
 
 Y el registro de las corridas, con lo que cada una encontró, está en `metodologia/huecos/corridas/` del repositorio, y su lista de una línea por corrida, en [`indice`](../metodologia/indice.md).
+
+---
+
+## Por qué esto se sostiene en ficción
+
+Y esto va aquí, y no en un ensayo, porque no es una idea de un ensayo: es la forma en que el trabajo entero llega al lector.
+
+Una parte de lo que aquí se defiende no se demuestra con un experimento, sino que se plantea como pregunta: qué es lo que de verdad se busca en una máquina, y si lo que hace falta es más capacidad o más manera. Para eso la ficción es el instrumento adecuado, y no un adorno: un villano puede decir en una línea lo que un paper tardaría veinte páginas en escribir sin calificarlo, y la idea se entiende igual sin haber leído el paper.
+
+No es una ocurrencia de este trabajo, y su autor lo sabe: el repositorio anterior, el del sótano, también se sostiene en ficción. El sótano es una figura, y funciona porque el lector entiende la metáfora antes de saber si es cierta. Lo que hace aquí el trabajo es discutir la ficción de frente, y decir qué se toma de ella: un mecanismo, una pregunta, y una imagen; no un dato.
+
+Y por qué la ficción funciona para discutir esto, y no es un adorno: pregunta primero, y se justifica después, o no se justifica. Un villano animado puede afirmar algo sobre la conciencia que un paper tardaría veinte páginas en escribir sin calificarlo, y quien lo lee entiende la pregunta sin haber leído el paper. La academia también pregunta, y después la defiende; y ése es su problema, que no es del método sino de quien lo usa: se pasa más tiempo sosteniendo la conclusión a la que se llegó que en volver a preguntar si sigue siendo cierta, porque cambiar de postura se lee como haberse equivocado, y haberse equivocado, en ese oficio, cuesta.
+
+Y lo que eso le importa a este trabajo: un ente sin ego no tiene ese costo. Cambiar de postura no le cuesta nada, porque no tiene una imagen que sostener; y por eso puede hacer lo que a nosotros nos cuesta, que no es pensar mejor: es dejar de defender. Eso no lo vuelve más listo, lo vuelve más dispuesto. Entre dos cosas que piensan igual de bien, la que no tiene que proteger su respuesta anterior llega más lejos; y no es una ventaja de inteligencia, es una ventaja de forma.
+
+Y el límite, dicho antes de que alguien lo lea como una prueba: una cita de ficción no prueba nada. La toma el ensayo que la nombra, para poder discutir contra algo concreto, y cada cita va con su película, su escena y su atribución.
+
+---
+
+Falsificador: una cita de ficción presentada como dato; una metáfora que se usa para no tener que decir qué la sostiene; y un trabajo que dice que se sostiene en ficción y después le pide al lector que le crea, en vez de dejarlo discutir la película.
 
 ---
 

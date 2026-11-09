@@ -69,7 +69,7 @@ Por eso el mejor software casi nunca es el que sigue la receta más popular, sin
 
 ## VI. La empatía como condición para tener criterio
 
-Esta es la razón por la que este ensayo va al final, después de la metodología, del ente, del criterio, del sesgo, de los procesos, del talento y del índice. Y la medición de talentos va después que ésta, por una razón que aquí se entiende: medir lo que el ente puede hacer no dice nada si antes no se midió si entendió lo que se le pidió.
+Esta es la razón de que la empatía esté antes que todo lo demás en lo que importa, aunque no esté antes en ningún orden: medir lo que el ente puede hacer no dice nada si antes no se midió si entendió lo que se le pidió.
 
 Un ente puede tener todo eso y seguir siendo inútil si no entiende a quien le habla. El criterio sin empatía se vuelve un registro de por qué uno tenía razón; los procesos sin empatía se vuelven trámites que nadie puede discutir; el talento medido sin empatía se vuelve una tabla de costos que no sabe si lo producido servía.
 
