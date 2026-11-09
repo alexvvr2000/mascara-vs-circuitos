@@ -44,14 +44,6 @@ Aquí no hay buenos. Los dos son rudos. Y el que pierde se quita la máscara: la
 
 ---
 
-> Antes de creerme nada, dos páginas:
->
-> [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
->
-> [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
->
-> Y por qué las dos: esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó. Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas. Con el camino a la vista, hay una tercera: revisarlo.
-
 ```plaintext
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -166,7 +158,7 @@ Cuándo se termina, que es la meta y se dice entera:
 
 El proceso no termina, y eso está previsto. La solución final va a tener huecos, porque un ente vive en un mundo que cambia. Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.
 
-La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método A · Llenar los huecos](metodologia/huecos/README.md)](metodologia/huecos/README.md), con sus fuentes.
+La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método B · Ver si se sostiene](metodologia/sostiene/README.md), con sus fuentes.
 
 La segunda cubre lo que ningún ensayo escribió. Una sin la otra deja un lado sin mirar.
 
@@ -204,10 +196,11 @@ Su límite, para que no se use para parar antes de tiempo: dos corridas de forma
 Los límites, dichos con nombre:
 
 - No hay comparación medida contra ningún otro trabajo. Es un contraste de forma, no de rendimiento.
-- El alcance de la evidencia: las corridas, un autor, un entorno.
 - Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara. Los demás siguen sin probarse a propósito. Un método que nunca se cayó no sabe caerse todavía.
 - No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/sostiene/`](metodologia/sostiene/README.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
 - Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.
+
+Las tres primeras son la misma cosa: **las corridas, un autor, un entorno.** No hay evidencia de otro sistema operativo, de otra máquina, ni de alguien más al teclado.
 
 Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
 
@@ -341,10 +334,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 Eso no es una frase amable: es la condición del trabajo. Un ensayo que sirve se levanta en otro stack y produce el mismo rastro. Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.
 
-Y el stack que se eligió está en [El stack, del autor](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.
-
-
-Y la distinción que ahí se hace: el motor y el catálogo son gusto; la base no. El ensayo 7 pide que el índice sea un grafo con sus tres relaciones. Un motor es un motor; un grafo no es una tabla.
+Y el stack que se eligió está en [El stack, del autor](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto. El motor y el catálogo son gusto; la base no, porque el ensayo 7 pide que el índice sea un grafo con sus tres relaciones. Un motor es un motor; un grafo no es una tabla.
 
 Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
 
@@ -354,15 +344,13 @@ De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es 
 
 Eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
 
-Lo que esto sí es, entonces: una de muchas conclusiones, escrita hasta el final, con sus ensayos, sus corridas y sus fallas, para que se vea cómo se hace una — y que el que quiera, haga la suya.
-
 ¿Y cómo se reconoce una alternativa cuando la encuentres? Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba. Si no dice qué la tumba, no es una alternativa: es otra opinión.
 
 ---
 
 ## Lo que este trabajo te pide
 
-Solo dos cosas, y las dos son tuyas. Este trabajo no acepta contribuciones.
+Solo dos cosas, y las dos son tuyas. La razón de que sean tuyas está al final: este trabajo no acepta contribuciones.
 
 1. Correr un falsificador. Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
 
@@ -391,15 +379,15 @@ Esto no es una promesa: es el inventario de lo que hay, cada cosa con la forma d
 
 | Lo que hay | Cómo se comprueba |
 |---|---|
-| los ensayos y sus afirmaciones | cada una trae su falsificador, y `grep -rn "Falsificador:" "la obra"` los lista todos |
+| los ensayos y sus afirmaciones | `grep -rn "Falsificador:" "la obra"` los lista todos, y cada uno se puede correr |
 | las corridas | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
 | lo que las corridas encontraron | cada hallazgo está cerrado en un ensayo, y su tabla de procedencia dice cuál |
-| las reglas contadas | `metodologia/huecos/`, agrupadas por familia, y cada familia con su mutante |
+| las reglas contadas | `metodologia/sostiene/corridas.md`, la única tabla de mutantes |
 | el registro de cómo se hizo | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia. No hay binario, ni instalador, ni soporte. El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.
 
-Todo lo de la tabla se puede comprobar hoy sin pedirle permiso a nadie. Lo que no está hecho es el ente de `implementacion/`: está declarado, y su código va después.
+Todo lo de la tabla se puede comprobar hoy sin pedirle permiso a nadie. Lo que no está hecho ya se dijo arriba: el ente de `implementacion/` está declarado, y su código va después.
 
 ---
 
@@ -416,8 +404,6 @@ Así que cada quien hace lo suyo, y cita o critica según haga falta. Esto es mi
 Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que otros puedan aportar, es que en el momento en que alguien más escribe aquí, esto deja de ser mío y empieza a ser de nadie. Lo que otro construya no entra aquí: se hace suyo, y se cita este trabajo como punto de partida.
 
 Lo que sí se puede hacer, y está en la licencia (CC BY 4.0): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo. Lo que está aquí se queda aquí.
-
----
 
 ---
 
