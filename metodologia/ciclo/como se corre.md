@@ -49,29 +49,12 @@ y eso se puede decir        y se puede tocar, y se ve cuando está
 
 ---
 
-## Y esto es exactamente lo que `ALAS` necesita
-
-**El protocolo del repositorio anterior crece cuando un caso nuevo no cabe en el símbolo viejo.** **Cada símbolo nuevo lo pidió un caso concreto.**
-
-**Eso sólo funciona si el que sigue puede ver el registro del que estuvo antes.** **Y el registro no puede ser una cosa terminada: un protocolo que espera a estar completo no crece nunca, porque nunca se usa.**
-
-**Así que este trabajo y `ALAS` son lo mismo por los dos lados:**
-
-```plaintext
-este repositorio   deja el piso para que el siguiente levante un ente
-ALAS               deja el símbolo para que el siguiente caso lo parta
-```
-
-**Y los dos funcionan bajo la misma condición:** **que el que llega pueda empezar sin tener que creerte.**
-
----
-
 ## Qué es el piso mínimo, en concreto
 
 **Y aquí está lo que hoy se puede decir, sin adornos:**
 
 ```plaintext
-lo que hay        cuatro piezas, un ciclo de nueve pasos, un registro de
+lo que hay        cuatro piezas, el ciclo del ensayo 02, un registro de
                   hecho · fricción · desenlace, los ensayos escritos, y
                   una regla probada con su mutante por familia
 

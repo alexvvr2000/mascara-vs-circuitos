@@ -306,7 +306,7 @@ y el mutante muere
 
 **La tentación es corregir el ente anterior y seguir con él.** **Se ahorra tiempo, y se pierde la prueba:** **el ente anterior ya tiene las piezas que se inventaron la vez pasada, y si el ensayo no las dice, el ensayo queda aprobado por algo que no escribió.**
 
-**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../ensayos/02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
+**Y que la corrida sea entera no es de aquí: está en el [ensayo del ciclo](../ciclo%20del%20ente/02%20el%20ciclo%20del%20ente.md).** **Lo que este ejercicio necesita de esa regla es una cosa sola: se levanta desde el primer archivo, cada vez.**
 
 ---
 

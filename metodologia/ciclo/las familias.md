@@ -18,28 +18,45 @@
 
 ## Las familias, y de dónde salen
 
+**Y vienen de dos grupos, que no se tocan igual.** **Los ensayos de `ciclo del ente/` se pulen con esta metodología.** **Los de `humanidad/` no: no afirman cómo funciona un ente, y por eso no se pueden romper a propósito.**
+
+### Del ciclo del ente, y son las que se pulen
+
 | Familia | Dónde vive | Reglas | Qué rompe el mutante fuerte |
 |---|---|---|---|
-| **El ciclo, paso por paso** | `02` | 145 | borra el paso entero, o el campo que lo hace verificable |
-| **El piso** | `03` | 58 | el piso miente: dice `hay` sin haberlo medido |
-| **El borde del tema** | `08` | 54 | el borde acepta lo que debía salir |
-| **Los sesgos** | `09` | 38 | el sesgo no se declara, o se declara neutral |
-| **La medición de talentos** | `03 humanidad` | 33 | el número se toma de una impresión y no del registro |
-| **La máquina de sesgos** | `10` | 25 | la afirmación se sostiene como verdad y no como condición |
-| **Escritura en procesos** | `04` | 22 | el proceso no dice cuándo se corre |
-| **El índice** | `07` | 14 | el índice se arma a mano y no se puede reconstruir |
-| **La frontera** | `06` | 13 | las cuatro columnas se llenan con lo primero que aparezca |
-| **Las afirmaciones** | `00` | 13 | una afirmación sin dónde vive, o sin qué la tumba |
-| **Qué es un ente** | `01` | 12 | el ente se define por lo que tiene dentro |
-| **El criterio real** | `05` | 1 | el desenlace se da por hecho |
-| **Empatía** | `01 humanidad` | 2 | la pregunta lleva jerga del que la hace |
-| **Conciencia** | `02 humanidad` | 0 | no afirma cómo funciona un ente: no tiene mutante |
+| **El ciclo, paso por paso** | [`02`](../../la%20obra/ciclo%20del%20ente/02%20el%20ciclo%20del%20ente.md) | 145 | borra el paso entero, o el campo que lo hace verificable |
+| **El piso** | [`03`](../../la%20obra/ciclo%20del%20ente/03%20el%20piso.md) | 58 | el piso miente: dice `hay` sin haberlo medido |
+| **El borde del tema** | [`08`](../../la%20obra/ciclo%20del%20ente/08%20el%20borde%20del%20tema.md) | 54 | el borde acepta lo que debía salir |
+| **Los sesgos** | [`09`](../../la%20obra/ciclo%20del%20ente/09%20criterio%20y%20sesgos.md) | 38 | el sesgo no se declara, o se declara neutral |
+| **Escritura en procesos** | [`04`](../../la%20obra/ciclo%20del%20ente/04%20escritura%20en%20procesos.md) | 22 | el proceso no dice cuándo se corre |
+| **El índice** | [`07`](../../la%20obra/ciclo%20del%20ente/07%20indexador%20de%20temas.md) | 14 | el índice se arma a mano y no se puede reconstruir |
+| **La frontera** | [`06`](../../la%20obra/ciclo%20del%20ente/06%20la%20frontera%20y%20el%20descarte.md) | 13 | las cuatro columnas se llenan con lo primero que aparezca |
+| **Qué es un ente** | [`01`](../../la%20obra/ciclo%20del%20ente/01%20que%20es%20un%20ente.md) | 12 | el ente se define por lo que tiene dentro |
+| **El criterio real** | [`05`](../../la%20obra/ciclo%20del%20ente/05%20criterio%20real.md) | 1 | el desenlace se da por hecho |
 
-**Y el total son 417, y catorce familias.** **Eso es el número que importa, y no los 417: catorce mutantes fuertes, y los que salgan mal se abren.**
+**Y una que no vive en un ensayo, sino en la lista de afirmaciones:**
+
+| Familia | Dónde vive | Reglas | Qué rompe el mutante fuerte |
+|---|---|---|---|
+| **Las afirmaciones** | [`la obra/readme.md`](../../la%20obra/readme.md) | 13 | una afirmación sin dónde vive, o sin qué la tumba |
+
+### De humanidad, que no se pulen con corridas
+
+| Familia | Dónde vive | Reglas | Por qué no tiene mutante |
+|---|---|---|---|
+| **La medición de talentos** | [`13`](../../la%20obra/humanidad/13%20medicion%20de%20talentos.md) | 33 | mide trabajo hecho, y un mutante no produce trabajo |
+| **La máquina de sesgos** | [`10`](../../la%20obra/humanidad/10%20maquina%20de%20sesgos.md) | 25 | afirma qué no se puede probar |
+| **Empatía** | [`11`](../../la%20obra/humanidad/11%20empatía.md) | 2 | su prueba es una persona contestando una pregunta |
+| **Conciencia** | [`12`](../../la%20obra/humanidad/12%20conciencia.md) | 0 | no afirma cómo funciona un ente |
+
+**Y esto es lo que hay:** **las familias del ciclo del ente son las que la metodología puede pulir.** **Las de humanidad se leen, y no entran en esa cuenta.**
+
+**Y el total de reglas es lo que suma la columna de arriba, y los ensayos son la fuente.** **Ese total es el único número que el repositorio mantiene.**
+
 
 ---
 
-## Por qué catorce y no 417
+## Por qué una por familia y no una por regla
 
 **Porque una familia se rompe de una manera.**
 

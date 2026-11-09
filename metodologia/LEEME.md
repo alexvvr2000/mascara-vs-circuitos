@@ -12,6 +12,14 @@
 
 ---
 
+## Y una nota, antes de seguir
+
+**Esto se lee como lo que es: un registro que creció.** **Hay tablas con la numeración de carpetas que ya no existen, y conteos de cuando el repo era más chico.**
+
+**Se dejan, porque son la historia de cómo se llegó.** **Donde una cita no cuadre, la fuente es el ensayo: los ensayos mandan.**
+
+---
+
 ## Qué hay
 
 | Lo que hay | Qué es |
@@ -45,7 +53,7 @@
 ## Y de dónde salen los demás
 
 ```plaintext
-la obra/ensayos/                  qué debe ser un ente
+la obra/                  qué debe ser un ente
 la obra/mantenimiento de entes/   la dirección para mantener uno
 implementacion/ejemplo/           la versión con stack puesto
 implementacion/usuario/           la puerta: sin stack

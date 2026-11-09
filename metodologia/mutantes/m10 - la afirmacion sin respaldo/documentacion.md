@@ -27,7 +27,7 @@ no tiene dientes  rechaza igual la afirmación sin respaldo, con el mutado
 
 ```plaintext
 «un ente se define por lo que deja rastro»
-  vive en: la obra/ensayos/01 que es un ente.md
+  vive en: la obra/01 que es un ente.md
   falsificador: un ente sin rastro; uno que no distingue lo que propone
                 de lo que le mandaron
 

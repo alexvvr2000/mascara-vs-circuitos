@@ -174,7 +174,7 @@ Los límites, dichos con nombre:
 
 2. la obra/readme.md       la posición en lista, y qué la tumba
 
-3. la obra/ensayos/        QUÉ DEBE SER UN ENTE
+3. la obra/ciclo del ente/   LOS QUE SE PULEN CON LA METODOLOGÍA
      01  que es un ente         la definición, y por qué necesita una autoridad
      02  el ciclo del ente      los pasos, uno por uno
      03  el piso                qué mide antes de prometer
@@ -184,6 +184,8 @@ Los límites, dichos con nombre:
      07  indexador de temas     dónde vive lo que sabe
      08  el borde del tema      cómo se escribe un borde que se pueda correr
      09  criterio y sesgos      qué es del ente y qué del cuerpo
+
+   la obra/humanidad/       LOS QUE NO SE PULEN CON CORRIDAS
      10  maquina de sesgos      lo que este trabajo no puede probar
      11  empatía                cómo se entiende antes de pedir
      12  conciencia             qué hacemos con una palabra que no sabemos definir

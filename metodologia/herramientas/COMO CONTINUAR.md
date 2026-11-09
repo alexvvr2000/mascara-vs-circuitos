@@ -110,7 +110,7 @@ python -c "import sys; sys.stdout.reconfigure(encoding='utf-8')" && \
   grep -rEo '\]\([^)]*\.md[^)]*\)' --include=*.md . | head -5
 
 # que los ensayos acaben en Falsificador
-grep -c '^\*\*Falsificador:' "la obra/ensayos/"*.md
+grep -c '^\*\*Falsificador:' "la obra/"*.md
 
 # que el árbol de cada corrida sea el mismo
 ls "metodologia/corridas/" | head

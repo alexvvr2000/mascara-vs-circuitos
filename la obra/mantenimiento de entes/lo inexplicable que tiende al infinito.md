@@ -206,23 +206,6 @@ lo que SÍ es suficiente
 
 ---
 
-## VI. Lo que este ensayo deja para `ALAS`, y no es una metáfora
-
-**Hay un protocolo, en el repositorio anterior, que crece cuando un caso nuevo no cabe en el símbolo viejo.** **Cada símbolo nuevo lo pidió un caso concreto.**
-
-**Y ese protocolo y este ensayo son la misma forma, por los dos lados:**
-
-```plaintext
-esto       deja el piso para que el siguiente levante algo
-ALAS       deja el símbolo para que el siguiente caso lo parta
-```
-
-**Y los dos funcionan bajo la misma condición:** **que el que llega pueda empezar sin tener que creerle a quien estuvo antes.**
-
-**Y ahí está lo que hace que esto no sea infinito en el sentido malo:** **no hay que esperar a que el lenguaje esté completo para usarlo.** **Un lenguaje que espera a estar completo no crece nunca, porque nunca se usa.**
-
----
-
 ## VII. Lo que falta, cuando no hay unidad que contar
 
 **Y hay que decirlo, porque no todo se deja reducir a una resta.**
@@ -256,7 +239,7 @@ y dejar escrito qué haría falta para que existiera
 | un número dice dónde se está; una curva dice hacia dónde se va | las dieciocho corridas de este repositorio, con su serie | **una sola serie, y de un solo autor** |
 | el infinito no está en la fórmula, es la tendencia | el uso del infinito en el cálculo, y el teorema de Gödel | se cita el resultado; no se demuestra aquí |
 | «lo suficiente» se reconoce por haberlo empezado alguien | **nadie de afuera lo ha empezado todavía** | **es una condición propuesta, no una observada** |
-| un lenguaje que espera a estar completo no crece | la lógica de `ALAS`, en el repositorio anterior | **`ALAS` no está probado** |
+| un lenguaje que espera a estar completo no crece | la lógica de un protocolo que crece por casos | **ese protocolo no está probado** |
 
 **Y lo que esta tabla dice de más, y es lo que hay que leer antes de cualquier otra cosa:** **la tercera fila tiene el «nadie lo ha empezado» escrito en la columna de lo que se apoya.** **No es un descuido: es el estado.**
 
