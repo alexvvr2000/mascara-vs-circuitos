@@ -98,7 +98,7 @@ VERSION = "1.0.0"
 
 if __name__ == "__main__":
     ensayos, corridas, mutantes = cuentas()
-    commit = git("rev-parse", "HEAD")
+    commit = git("rev-parse", "HEAD~1")  # el cambio anterior, para que el CITATION no se cite a si mismo
     fecha = git("log", "-1", "--format=%ad", "--date=short")
     if not commit:
         sys.exit("sin git, no hay commit que citar")
