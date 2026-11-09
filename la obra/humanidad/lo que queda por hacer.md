@@ -26,7 +26,7 @@ Y sin embargo hay un límite que la propia matemática admite, y no es un límit
 
 ---
 
-## II. Lo que Gödel dice de verdad, y es más fuerte que lo que se le atribuye
+## II. Lo que Gödel dice de verdad: es más fuerte que lo que se le atribuye
 
 No hay que decir que la matemática es un chiste: hay que decir lo que demostró, que es más útil para esto.
 
@@ -66,7 +66,7 @@ Y si los sesgos son parte de los patrones, y no adornos de la percepción, enton
 
 ---
 
-## IV. El rastro como primitivo, y ALAS
+## IV. El rastro como primitivo: ALAS
 
 De ahí sale la palabra que este trabajo usa desde el principio y que hasta ahora no había explicado: rastro.
 
@@ -143,7 +143,7 @@ Falsificador: una afirmación de este ensayo que no se pueda escribir como condi
 
 ---
 
-## Y qué se pierde si cambia
+## Qué se pierde si cambia
 
 Si se promete que la máquina de sesgos va a llegar, se pierde lo único sostenible de este ensayo: que hoy no está probada, y que aun así vale la pena dejar el registro limpio para quien pueda.
 

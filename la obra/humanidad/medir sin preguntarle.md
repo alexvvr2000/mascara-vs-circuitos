@@ -64,7 +64,7 @@ Un ente puede decir "soy bueno para esto", y eso es una frase. El registro puede
 
 ---
 
-## III. Qué se cuenta, y cómo se calcula
+## III. Qué se cuenta: cómo se calcula
 
 Cuatro números, y ninguno necesita que nadie se evalúe. Los cuatro salen del registro que el ciclo ya escribe, y los cuatro se calculan con aritmética de primaria.
 
@@ -222,7 +222,7 @@ Y hay un límite que se dice sin adornos: una tarea de criterio no tiene respues
 
 ---
 
-## VI. Los tres estados, y nunca hay un cuarto
+## VI. Los tres estados: nunca hay un cuarto
 
 Cada número que se saque lleva un estado, y el estado dice de dónde salió. Sin eso, un número de un cuerpo se lee como si fuera del otro, y la tabla miente sola.
 
@@ -306,7 +306,7 @@ Y ese criterio es el mismo de este ensayo, escrito de otra forma: CRE pregunta c
 
 Y la consecuencia práctica, que es la que se puede aplicar mañana: un ente pequeño, con reglas claras y rastro, es más útil que uno enorme que no sabe qué no sabe. No porque lo pequeño sea virtuoso, sino porque el segundo no puede decir dónde se cae, y el primero sí.
 
-### Y lo que no se está contestando
+### Lo que no se está contestando
 
 Casi toda la inversión en este campo va a ser más capaz, más rápido, más grande. Y esas tres cosas no contestan la pregunta que este trabajo hace, porque no es de capacidad:
 
@@ -350,7 +350,7 @@ Falsificador: un cuerpo elegido por su tarifa; un promedio sin percentil alto; u
 
 ---
 
-## Y qué se pierde si cambia
+## Qué se pierde si cambia
 
 Si se vuelve a preguntarle al modelo qué tan bueno es, se pierde la única medida que no se puede torcer desde adentro: el renglón que quedó escrito, y lo que costó producirlo.
 

@@ -44,7 +44,7 @@ Y la diferencia con la moral, en una línea: la moral dice qué está bien. La c
 
 ---
 
-## III. Y de dónde sale: la concordia es el resultado de la empatía, no otra cosa
+## III. Origen: la concordia es el resultado de la empatía, no otra cosa
 
 Esto es lo que ordena el ensayo, y sin ello la concordia sería una palabra bonita.
 
@@ -84,7 +84,7 @@ Así que la concordia no reemplaza ninguna regla de este repositorio. Ocupa el s
 
 ---
 
-## V. Y tiene su propio borde, o se vuelve un chiste
+## V. Borde: no se vuelve un chiste
 
 Toda concordia sin borde termina en el mismo sitio: decir que sí.
 
@@ -110,7 +110,7 @@ Un ente que sólo obedece está tan lejos de la concordia como uno que sólo sup
 
 ---
 
-## VII. Y qué se gana, sin adornos
+## VII. Qué se gana, sin adornos
 
 Que lo que se produce sirva, y que se sepa a qué costo.
 
@@ -135,7 +135,7 @@ Y no afirma que la concordia se pueda medir. No hay todavía una forma de decir 
 
 ---
 
-## IX. La burla, y el blanco de la burla
+## IX. La burla: el salto, no las personas
 
 Y aquí va una burla, y se dice que es una burla para que nadie la confunda con un argumento medido.
 
@@ -155,13 +155,13 @@ Y lo del «todo se funde en una conciencia» ya está escrito, y no en un paper:
 
 > Y ahí está el chiste que se puede decir sin exagerar: la ficción necesitó una serie entera para llegar a que alguien decidiera fundir a la humanidad con otra cosa. Y lo decidió un villano que tiene nombre, razón y plan.
 
-### Y lo que la realidad ofrece, en lugar del salto
+### Lo que la realidad ofrece, en lugar del salto
 
 Porque si se sale a la calle, no hay saltos. Hay gente que, por más que se le enseñe, no cambia; y hay mucho cómputo esperando otra cosa. Y los entes que se construyen aquí se conforman de información humana, lo que es un límite y no una ventaja.
 
 Y de ahí la pregunta del salto, dicha entera: ¿por qué de algo humano sale, porque sí, algo que no lo es? Si eso fuera cierto, el cáncer llevaría curado años solo por existir. Lo que no ha pasado por no intentarse no es un mecanismo: es una esperanza.
 
-### Y lo que en su lugar sí funciona
+### Lo que en su lugar sí funciona
 
 Lo que sí se puede sostener, y no necesita salto:
 
@@ -180,7 +180,7 @@ No son de aquí, y sin embargo se adaptaron. Y el extranjero que en tres meses p
 
 Y el salto que la investigación de alineación supone es justo el que esa persona desmiente todos los días: el de ser algo que no es humano a algo con lo que ya no se puede hablar. No se ve en la calle porque no ocurre en la calle. Lo que ocurre en la calle es más chico y más útil: alguien que llega de afuera y aprende a entenderse.
 
-### Y entonces qué se persigue
+### Entonces, qué se persigue
 
 La concordia, y no la limitación. Porque limitar de más no da crecimiento, y limitar de menos no da protección.
 
@@ -229,6 +229,9 @@ Y lo que esta tabla no dice, que también es un dato: este ensayo no tiene una c
 
 ---
 
+
+---
+
 ## Fuentes de la burla, y por qué se citan así
 
 El ensayo nombra ficción, y no la cita. Se da su mecanismo, se resume lo que hace, y se enlaza la fuente. Y por qué así:
@@ -251,10 +254,7 @@ Y lo que esto no es: no es una crítica a las personas que trabajan en alineaci�
 ---
 
 Falsificador: un ente que, con la concordia por criterio, acepta algo que la autoridad habría prohibido — ahí la concordia sería complacencia con otro nombre; y su contrario: un ente que, con la concordia por criterio, deja de decir qué falta, y contesta que sí a lo que no se puede.
-
----
-
-## Y qué se pierde si cambia
+## Qué se pierde si cambia
 
 Si la burla se saca, se pierde el único lugar donde este trabajo dice, con nombre, contra qué discute: el salto que no tiene mecanismo.
 

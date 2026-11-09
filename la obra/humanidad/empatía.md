@@ -121,7 +121,7 @@ Y por eso la empatía no es una virtud que se le pida: es trabajo que se le impo
 
 Y la corrección se acepta sin defender la postura anterior, que es lo único que un ente puede hacer mejor que nosotros: no tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.
 
-### Y por qué esto se publica, aunque la gente sea impredecible
+### Por qué esto se publica, aunque la gente sea impredecible
 
 Porque si la herramienta va a existir de todas formas, mejor que exista con el mecanismo a la vista.
 
@@ -139,7 +139,7 @@ Y el límite, dicho sin adorno: publicar no garantiza que se use bien. Lo que ga
 
 ---
 
-### Y cómo es la pregunta, que es lo que se puede revisar
+### Cómo es la pregunta, que es lo que se puede revisar
 
 Preguntar está dicho. Falta la forma, porque una pregunta mal formada traslada el trabajo en vez de hacerlo.
 
@@ -172,7 +172,7 @@ Y se prueba en una corrida, con una frase que no sea del autor: se le da al ente
 
 ---
 
-### Y por qué esto cierra el ensayo, y no lo abre
+### Por qué esto cierra el ensayo, y no lo abre
 
 La empatía es la que impide que esa confusión pase sin verse. Preguntar qué parte es requisito y qué es costumbre; averiguar cómo está hecha la otra parte antes de pedirle algo; y decir el para qué antes de pedir el cómo.
 
@@ -207,7 +207,7 @@ Falsificador: una herramienta que optimiza su propio costo y llama a eso eficien
 
 ---
 
-## Y qué se pierde si cambia
+## Qué se pierde si cambia
 
 Si la empatía se saca del método, se pierde lo que la distingue de la amabilidad: que se puede revisar. Una herramienta que no pregunta no se equivoca menos: se equivoca más tarde, cuando ya nadie puede contestar.
 

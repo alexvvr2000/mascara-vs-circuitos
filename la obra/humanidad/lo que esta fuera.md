@@ -130,7 +130,7 @@ Y de ahí sale la razón por la que vale la pena esto, aunque sea parcial: lo qu
 
 Falsificador: una conclusión presentada como verdad sobre el universo y no como lo mejor que se puede sostener desde aquí; y la contraria: una duda sobre la interioridad usada como razón para no resolver nada de lo que sí está enfrente.
 
-### Y lo del niño, que es la misma idea dicha hace dos mil años
+### Lo del niño, que es la misma idea dicha hace dos mil años
 
 Y esto no es una cita religiosa traída por adorno: es la misma conclusión, en otro idioma.
 
@@ -164,7 +164,7 @@ Y el límite, que se dice antes de que alguien lo lea como una promesa: esto no 
 
 ---
 
-## VII. Y aquí está la prueba, que pasó mientras se escribía este ensayo
+## VII. La prueba, que pasó mientras se escribía este ensayo
 
 Hay que contar esto: es el ejemplo más limpio que va a quedar en el texto, y quedó.
 
@@ -206,7 +206,7 @@ Y no la puedo contestar. Pero sí puedo decir dónde no está la respuesta: no e
 
 ---
 
-### Y una nota sobre de dónde sale esto, que no es un argumento
+### Una nota sobre de dónde sale esto, que no es un argumento
 
 Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en [ATTRIBUTION](../../ATTRIBUTION.md), con el estado en que se escribió y lo que el autor dice de sí mismo.
 
@@ -234,7 +234,7 @@ Y la referencia bíblica va en paráfrasis, no en cita literal: el texto de la v
 
 ---
 
-## Y cuál de las dos cosas es más holgazana
+## Cuál de las dos cosas es más holgazana
 
 Porque hay una pregunta que se hace siempre al revés.
 
@@ -248,7 +248,7 @@ Un método que automatiza el pensamiento y te deja sin tener que pensar no es un
 
 ---
 
-## Y por qué esto se lee en un ensayo sobre la conciencia
+## Por qué esto se lee en un ensayo sobre la conciencia
 
 Porque la discusión sobre si la máquina crea o no crea ya tiene su respuesta práctica, y no está en la filosofía: está en quién la usa.
 
@@ -258,7 +258,7 @@ Porque lo nuevo, venga de una persona o de una máquina, tiene a alguien que le 
 
 ---
 
-## Y lo que las fábricas de China dicen sin querer
+## Lo que las fábricas de China dicen sin querer
 
 Hay gente que se encariña con máquinas de la era de piedra comparadas con esto. Brazos que se mueven, una luz que parpadea, y un nombre.
 
@@ -309,7 +309,7 @@ Falsificador: un ente cuyo criterio no está en ningún archivo, y que aun así 
 
 ---
 
-## Y qué se pierde si cambia
+## Qué se pierde si cambia
 
 Si se vuelve a buscar la conciencia adentro, se pierde lo único que se puede revisar: el archivo. Lo de dentro no tiene instrumento; lo de fuera se abre y se lee, y esa es la diferencia entre una creencia y un lugar al que se puede ir.
 

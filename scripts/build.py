@@ -43,7 +43,7 @@ SIN_EDAD = ("metodologia/historia", "implementacion")
 # título sólo tiene que decir de qué habla.
 TITULO = re.compile(r"^# (.+)$", re.M)
 FALSIFICADOR = re.compile(r"\bFalsificador\b")
-PIERDE = re.compile(r"Y qué se pierde si cambia")
+PIERDE = re.compile(r"(?:Y )?qué se pierde si cambia", re.I)
 # "el ensayo 07", "los ensayos 01 a 09", "`03 el piso`": un número de dos cifras
 # delante de algo que parece un título.
 NUMERO = re.compile(r"(?:ensayos?|pasos?)\s+`?(\d\d)\b|`(\d\d)\s+[a-záéíóúñ]")
@@ -56,7 +56,7 @@ POSICION = re.compile(r"^(\d\d)\s+-\s+")
 PERSONA = {
     "tuteo": re.compile(r"\b(tu|tienes|puedes|quieres|haces|sabes|dices|debes)\b", re.I),
     "voseo": re.compile(r"\b(vos|tenes|podes|sabes|queres|haces|sos)\b", re.I),
-    "primera persona": re.compile(r"\b(yo|digo|pienso|creo|quiero|he visto)\b", re.I),
+    "primera persona": re.compile(r"\b(yo|digo|pienso|creo|quiero|he visto)\b(?!\s+en\b)", re.I),
 }
 
 
