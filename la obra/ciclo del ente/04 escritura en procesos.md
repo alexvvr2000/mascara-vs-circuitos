@@ -63,6 +63,41 @@ No es que el proceso tenga que ser largo. Son cinco preguntas, y cada una cierra
 
 5. Qué lo tumbaría. La línea que convierte un texto en una afirmación verificable. Un texto sin esto no está escrito para ser refutado: está escrito para ser leído como verdadero. Y lo que solo puede creerse no es una instrucción: es una apuesta con la palabra "hazlo" encima. Las tres ausencias que siempre aparecen —sin el qué lo incumple, sin el qué lo tumbaría, sin el cuándo— no son reglas de estilo. Son la lista exacta de huecos que una IA llenaría sola.
 
+### Y hay dos clases de falla, que se confunden y no se arreglan igual
+
+**Hasta aquí se habló del hueco: lo que el texto no dice.** **Y hay otra, que este ensayo nombraba con la misma palabra y no es la misma.**
+
+```plaintext
+el hueco      falta algo, y no está escrito.
+              el que corre lo rellena con lo que le parece
+              →  se arregla AÑADIENDO el renglón que falta
+
+lo ambiguo    está escrito, y se puede leer de dos maneras.
+              el que corre elige una, y elige bien la mitad de las veces
+              →  se arregla PRECISANDO lo que ya está
+```
+
+**Y son igual de peligrosos, por razones opuestas:** **el hueco deja el campo vacío, y lo vacío se llena con lo primero que encaja.** **Lo ambiguo deja el campo lleno, con lo que no era, y nadie vuelve a mirarlo porque parece contestado.**
+
+**Y de ahí una consecuencia que va contra el reflejo:** **añadir texto a un texto ambiguo lo empeora.** **Encima de la duda, más texto: ahora hay dos renglones que se pueden leer de dos maneras.** **Lo ambiguo no se engorda: se recorta hasta que queda una sola lectura.**
+
+**Y hay una tercera forma, que es la peor porque no se ve:** **el hueco disfrazado de completo.** **Un renglón que dice «La búsqueda: ninguna».** **No está vacío, y da la misma información que un vacío: ninguna.** **Y el que lo lee no lo nota, porque hay algo escrito.**
+
+### Y cómo se distinguen, que es una prueba y no una opinión
+
+**Se toma el renglón, se da a dos personas que no estaban, y se les pide que digan qué hacen.**
+
+```plaintext
+las dos dicen lo mismo          →  no hay falla
+una dice «no sé» y la otra
+inventa                          →  es hueco
+las dos hacen cosas distintas    →  es ambiguo
+```
+
+**Y sirve para las dos cosas a la vez, porque lo que se mira no es el renglón: es lo que dos lectores hacen con él.**
+
+**Y el caso que se escapa de la prueba, y se dice:** **dos personas pueden coincidir y estar las dos equivocadas.** **Coincidir descarta la ambigüedad; no confirma que lo escrito sea lo que se quería.**
+
 Y una sexta pregunta, que no es de forma sino de tiempo: qué se pierde si el proceso cambia. Todo cambio pierde algo, y la prosa lo esconde porque se hace borrando y escribiendo sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse.
 
 Y hay una consecuencia de que falte alguna de las cinco, que es la que no se ve venir: ante la ambigüedad, una IA no falla de más ni de menos. Elige la opción de no hacer nada.
@@ -385,4 +420,4 @@ Y lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que
 
 ---
 
-**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola; y el más silencioso de todos: **un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido, porque la quietud tiene la forma del éxito.**
+**Falsificador:** un texto que se ejecuta sin decir qué lo incumple; uno que no dice cuándo se corre; uno sin nada que lo pueda tumbar; uno que se lee distinto dos veces seguidas; y un ensayo que exige una forma —los nueve renglones del proceso— y no la cumple en su propio texto; una pieza de código que corre bien y no resuelve lo que se necesitaba; un proceso que se escribe para llenar el trámite y no para decir el objetivo; y una máquina que se deja correr en círculo esperando que el cómputo encuentre el para qué sola; y el más silencioso de todos: **un paso que no se ejecutó porque el proceso no decía cuándo, y que se reporta con la misma forma que uno cumplido, porque la quietud tiene la forma del éxito**; **un renglón que admite dos lecturas, presentado como si el problema fuera que falta texto**; **y un renglón que dice «ninguna» donde no había nada que decir: eso es un hueco con la ropa de una respuesta.**
