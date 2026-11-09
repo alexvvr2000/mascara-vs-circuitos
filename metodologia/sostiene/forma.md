@@ -80,6 +80,7 @@ Y esta es la forma que este repositorio ya viene cumpliendo a medias. No se inve
 | El renglón | Qué contesta | Obligatorio |
 |---|---|---|
 | el título | de qué habla, y es el nombre del archivo | sí |
+| Lo visto | lo que una corrida dejó, dicho corto, antes de lo que se sostiene | en un ensayo de la obra |
 | Entra | qué recibe | en un proceso |
 | Se hace | qué se hace con eso | en un proceso |
 | Dónde queda | qué deja | en un proceso |
@@ -91,6 +92,8 @@ Y esta es la forma que este repositorio ya viene cumpliendo a medias. No se inve
 | Y qué se pierde si cambia | qué deja atrás el cambio | si declara que pierde algo |
 
 Y la regla que hace que la forma sirva para crecer: los nueve renglones no son una plantilla que se rellena: son las preguntas que un ensayo tiene que contestar antes de que alguien lo corra. Un ensayo que no contesta «cuándo se corre» no tiene proceso: tiene prosa.
+
+Y por qué «Lo visto» va antes de la prueba: lo primero que el lector tiene que saber no es lo que el ensayo afirma, sino que alguien lo vio. Un ensayo sin lo visto se lee como una opinión; uno con lo visto, como un acta. Y el acta es de alguien que estaba ahí, y eso no hace falta escribirlo: se nota.
 
 Y lo que la forma no dice, a propósito: no fija cuánto mide un ensayo. Un paso engorda trayendo su tabla de procedencia, sus casos de borde y sus mutantes; un mapa engorda engordando sus enlaces. El tamaño lo pone el detalle, y no la forma.
 
