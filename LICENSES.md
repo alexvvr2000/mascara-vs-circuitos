@@ -9,6 +9,8 @@ Este repositorio tiene dos licencias, y la división no es de estilo: el texto y
 
 Los textos completos están en `LICENSES/`, con el nombre que pide el identificador. Y el archivo [`LICENSE`](LICENSE) del root es Apache 2.0 solo, porque es el único que GitHub mira para poner la etiqueta junto al nombre del repositorio: si lleva las dos, no detecta ninguna.
 
+Y un detalle que evita la duda de quien copia el repo entero: **`LICENSE` y `LICENSES/Apache-2.0.txt` son el mismo archivo, carácter por carácter.** No son dos licencias de código: es la misma, puesta dos veces porque dos herramientas la buscan en lugares distintos.
+
 ## Por qué el código lleva la 2.0, y no una más corta
 
 Apache 2.0 trae la concesión de patentes de la sección 3: quien recibe el código recibe también permiso sobre **las patentes del que lo escribió**; y si alguien demanda por infracción de patente usando este código, su licencia se cae.
