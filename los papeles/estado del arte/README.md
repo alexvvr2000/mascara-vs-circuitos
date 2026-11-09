@@ -6,6 +6,18 @@
 
 **Y eso se dice antes de leer nada, porque cambia lo que esta página es:** **es una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura.** **Lo que sigue está escrito con esa advertencia encima.**
 
+## Y lo que esta página no es: no es la genealogía de este trabajo
+
+**Las conclusiones de este repositorio no salieron de estas fuentes.** **Salieron de un debate, y de pura lógica.** **El origen está contado en [`ATTRIBUTION.md`](../../ATTRIBUTION.md).**
+
+**Estas fuentes están aquí por respeto, y no como herencia.** **Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.**
+
+**Y de ahí sale una consecuencia, y es la que manda sobre todo lo demás:**
+
+> **Si alguna de estas fuentes está resumida mal, el error es de esta página y no de su autor.** **La corrección se agradece, y se hace con su aviso.**
+
+**No se retiran fuentes por prudencia.** **Se dejan, y se corrige lo que esté mal.** **Quitar una para no comprometerse haría lo contrario de lo que este apartado busca.**
+
 ---
 
 ## Para qué existe este documento

@@ -6,7 +6,17 @@ Alejandro Valenzuela Rivera · 5 de noviembre de 2026.
 
 ---
 
-## 1. Cómo se escribió
+## 1. De dónde salió esto, y cómo se escribió
+
+Este repositorio salió de un debate en el repositorio anterior, y ahí no había criterio todavía.
+
+El autor empezó dando fricción sin hechos: lo que se cayó, sin lo que pasó. Y de ese intercambio salieron más ideas que las que este repositorio tiene. Fue exploración, y la IA era el otro lado de la mesa, sin que ninguno de los dos supiera del todo qué estaba haciendo.
+
+Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
+
+Y lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y cada corrida se puede abrir.
+
+---
 
 `TESTIGO` produce el texto y lo ataca. El autor corrige, decide qué se sostiene, y firma.
 
@@ -208,7 +218,25 @@ Lo que esto no es: no es permiso para meter inglés a media frase. Una oración 
 
 ---
 
-## 6. La licencia, y qué puedes hacer
+## 6. Las fuentes, y por qué están
+
+**Las ideas de este trabajo no se derivan de la literatura.** **Se llegaron a ellas discutiendo, y por lógica.**
+
+**El estado del arte está por una razón distinta: por respeto.**
+
+**Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.** **Las fuentes se citan por lo que otro pueda reclamar, no porque se hayan seguido.**
+
+**Y una consecuencia que hay que admitir sin adornos: la búsqueda de esas fuentes, y su primer barrido, los hizo una IA.** **Cada renglón del estado del arte sale del resumen de una fuente o de una ficha abierta, y ninguna se leyó entera.** **Un barrido hecho así puede resumir mal una fuente.**
+
+**Así que se dice aquí, y vale para cada renglón:**
+
+> **Si alguna de esas fuentes está resumida mal, el error es de esta página y no de su autor.** **La corrección se agradece, y se hace con su aviso, en el mismo commit que la corrija.**
+
+**No se retiran las fuentes por prudencia.** **Se dejan, y se corrige lo que esté mal.** **Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca.**
+
+---
+
+## 7. La licencia, y qué puedes hacer
 
 Este trabajo está bajo `CC BY 4.0`. Puedes leerlo, citarlo, compartirlo y construir encima, con atribución.
 
