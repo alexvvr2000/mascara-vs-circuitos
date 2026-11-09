@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 11 · CONFIRMA
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -141,3 +142,7 @@ Y las dos fricciones quedaron sin desenlace.
 ¿El enlace lo hizo el ente, o hubo que hacerlo a mano? ¿Si el vínculo falla, la tarea sobrevive? ¿La salida de un `hay` se puede volver a correr sobre la herramienta que dice haber probado? ¿Y un piso que contesta «sí» se distingue de uno que contesta «no lo sé»?
 
 Falsificador: un piso que dice `hay` y cuya salida no se puede volver a correr sobre esa herramienta; una tarea que se borra cuando falla su enlace; y un `hay` guardado a partir de la salida de otro programa.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

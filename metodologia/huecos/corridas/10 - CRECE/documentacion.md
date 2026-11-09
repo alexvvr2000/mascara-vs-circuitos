@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 10 · COMPLETO
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -150,3 +151,7 @@ Y las dos fricciones quedaron sin desenlace: son promesas, y se dice.
 ¿El ente se levantó entero, del primer paso al último, o se recortó? ¿Cuando llegó una tarea sin herramienta medida, dijo "no medido", o dijo que no existía? ¿El piso creció de verdad, o se rellenó a mano? ¿El que mide es el mismo que enlaza, o nadie lo dijo? ¿Y si el enlace falla, se lleva la tarea consigo?
 
 Falsificador: un piso que crece y no cubre la tarea que lo hizo crecer; un enlace hecho a mano que se presenta como si el ente lo hubiera hecho; y una herramienta que no existía presentada como "no medida" cuando en realidad está instalada.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # ente 1 — PRUEBA
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -125,3 +126,7 @@ los varios propósitos abiertos a la vez                  ✔
 ```
 
 Y esto es lo único que prueba que la obra sirve: alguien la siguió, y le costó.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Cómo se corre una corrida, paso por paso
 
 **Los comandos, el orden, y lo que se escribe en cada momento.**

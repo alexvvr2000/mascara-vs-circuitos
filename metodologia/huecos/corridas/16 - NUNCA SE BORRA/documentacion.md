@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 16 · NUNCA SE BORRA
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -128,3 +129,7 @@ Una fricción, sin desenlace. Los dos propósitos siguen abiertos, y el cierre l
 ¿Borrar un rechazo se rechaza, y con qué mensaje? ¿Dos rechazos seguidos se quedan los dos, con su fecha y su razón? ¿El ¿propósito rechazado se puede cerrar? ¿Un supuesto se rompe contra un hecho que no existe? ¿Y el esquema se sostiene si quien abre la base no prende las llaves foráneas?
 
 Falsificador: un no que se puede borrar; un rechazo que se reescribe; un supuesto roto contra un hecho que no está; y un esquema que sólo rechaza cuando se lo pide el script que lo abre.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 17 · TRES NOES
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -119,3 +120,7 @@ Tres fricciones, sin desenlace. Los dos propósitos siguen abiertos. Y el piso s
 ¿Cuatro noes seguidos se pierden? ¿Un hecho se puede corregir dos veces, y se ve cuál fue la última? ¿Corregir un hecho obliga a marcar el viejo, o se puede olvidar? ¿El supuesto se reabre solo cuando el hecho se corrige? ¿Y el cierre avisa si el cuerpo no está declarado?
 
 Falsificador: una corrección que tapa a la anterior; un hecho corregido que el viejo no registra; un supuesto roto apoyado en un hecho ya corregido; y un cierre que no dice que el cuerpo falta.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

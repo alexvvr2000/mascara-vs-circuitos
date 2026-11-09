@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # La idea de los subagentes
 
 **Cómo se me ocurrió repartir las corridas en agentes, y por qué casi sale mal.**

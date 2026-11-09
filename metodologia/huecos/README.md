@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Método A · Llenar los huecos
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -214,6 +215,10 @@ Y la última es la que importa, y no se mide con instrumentos.
 | una revisión no sustituye a una corrida | las corridas 14 y 15, que encontraron más buscando después de que todo salió bien |
 
 ---
+
+## Lo visto
+
+Que lo que el ensayo no dice se ve al levantar un ente y mirar qué hubo que inventar.
 
 ## Prueba
 

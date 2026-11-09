@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # ente 5
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -99,3 +100,7 @@ que otro levante un ente sin mí             no se ha probado
 ¿La cuarta salida —«no es de este tema»— se ejerció de verdad, o sólo se escribió? ¿El hueco que dejó CANTERA se cerró en el ensayo y se volvió a probar?
 
 Falsificador: un caso que se da por probado porque el ensayo lo describe; y un hueco que se declara cerrado sin haberlo corrido otra vez.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

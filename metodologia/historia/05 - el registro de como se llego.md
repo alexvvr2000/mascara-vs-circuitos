@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # El registro de cómo se llegó
 
 **Todo lo que se hizo para llegar al resultado, en orden, con fecha, y con lo que no salió.**

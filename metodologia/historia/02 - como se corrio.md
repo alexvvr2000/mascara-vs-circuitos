@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Cómo se corrió
 
 **Cada corrida de la serie, en orden: qué intentaba, qué se cayó, y qué la abrió.**

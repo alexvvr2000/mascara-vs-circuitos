@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 **Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Estas fichas viven hoy en [`../sostiene/metodo.md`](../sostiene/metodo.md) §VIII, y su estado en [`../sostiene/corridas.md`](../sostiene/corridas.md).**
 
 # El método de antes, sus mutantes

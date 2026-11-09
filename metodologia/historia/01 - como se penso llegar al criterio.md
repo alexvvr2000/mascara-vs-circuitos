@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Cómo se pensó llegar al criterio
 
 **El recorrido de las dieciocho corridas, con lo que se creía en cada una y lo que se dejó de creer.**

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Qué cambió en cada corrida, y por qué
 
 **Las dieciocho, una por una: qué se intentaba, qué se creía, qué se cayó, y qué cambió en el esquema.**

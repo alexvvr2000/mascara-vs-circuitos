@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # ente 4 — CANTERA
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -117,3 +118,7 @@ Y la frase que sigue pendiente desde el ente 3: «el ente está perfecto» no se
 ¿Una pieza cayó en el medio y el borde hizo lo que prometió? ¿El medio significa «no es de este tema», o significa otra cosa? ¿Dos temas en medio a la vez se atienden los dos?
 
 Falsificador: un «casi» que significa una cosa en el ensayo y otra en el código; dos temas en medio de los que sólo se atiende uno; y un tema de persona que se queda con lo que no le toca.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

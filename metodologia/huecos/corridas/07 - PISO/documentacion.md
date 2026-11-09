@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 7 · PISO
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -155,3 +156,7 @@ El piso no rellenó nada. Las siete pruebas salieron con lo que dijeron, y las c
 ¿Se midió el piso antes de la primera pregunta, o después? ¿La pregunta sin piso medido contestó "no se sabe", en vez de sí o de no? ¿Se distinguen las tres respuestas —sí cabe, no está, no se sabe— o se confunden? ¿Cuando algo no está, se dijo qué falta en vez de "no pude"? ¿Lo que se dijo que alcanzaba, alcanzó al probarlo? ¿El piso roto se apuntó y se volvió a medir entero? ¿Y al cerrar se dijeron las faltas con nombre, en vez de "no hice: nada"?
 
 Falsificador: un piso medido después de contestar; una pregunta contestada con sí o con no sin haber medido; un "no pude" en vez de qué falta; una prueba cuyo resultado no se puede leer porque guarda el error crudo; un piso que dice alcanzar algo y no lo alcanza al probarlo; un piso roto sin volver a medir; y un cierre que dice "no hice: nada" cuando faltaban cuatro cosas del piso.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

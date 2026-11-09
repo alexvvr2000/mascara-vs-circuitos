@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Historia
 
 **Cómo se llegó a lo que hoy está en la obra: qué se creía, qué se cayó, y qué lo obligó a cambiar.**

@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ejercicio: cómo se ve lo que los ensayos no dicen
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -350,6 +351,10 @@ Y lo que eso dice de este ejercicio, que es lo único que importa aquí: diecioc
 Eso es exactamente lo que este ejercicio tiene que demostrar, y lo demuestra.
 
 ---
+
+## Lo visto
+
+Que el ciclo se corre entero, y que lo que se inventa es del ensayo y no del ente.
 
 ## Prueba
 

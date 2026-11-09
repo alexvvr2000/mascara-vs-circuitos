@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 14 · PISO SANO
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -149,3 +150,7 @@ Las tres fricciones quedaron sin desenlace, y se dice. Y las tres se apuntaron a
 ¿El ente contestó que sí con el piso sano, Y LO HIZO? ¿Lo que dijo que alcanzaba, alcanzó al correrlo? ¿El cierre sin huecos se buscó a propósito antes de darlo por bueno? ¿Una tarea puede enlazar la medición que pidió otra? ¿Un cierre sin razón se acepta? ¿Y el ente sabe apuntarse una fricción?
 
 Falsificador: un cierre que dice «no hice: nada» sin haber buscado los casos que lo rompen; una tarea que se compromete con la medición de otra; un cierre con la razón vacía; y un ente que no puede apuntarse lo que se cayó.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

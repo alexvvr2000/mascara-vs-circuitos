@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 18 · CADENA
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -113,3 +114,7 @@ Dos fricciones, sin desenlace. El propósito sigue abierto. Y el piso sigue dici
 ¿La cadena se recorre del primero al último? ¿La versión vigente es una sola? ¿El supuesto se reabre solo cuando su hecho se corrige? ¿Se puede borrar una corrección? ¿Se puede reescribir su razón? ¿Y la prueba tenía algo que probar?
 
 Falsificador: una corrección que se puede borrar; una razón que se puede reescribir; un supuesto que se queda roto contra un hecho corregido; y una prueba que no podía fallar porque no había nada que probar.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

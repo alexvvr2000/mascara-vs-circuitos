@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Lo que sigue vivo dentro de la historia
 
 **Los cuadernos de la historia que no son un registro de lo que pasó, sino el texto vigente que perdió su casa, y dónde vive hoy lo que dicen.**

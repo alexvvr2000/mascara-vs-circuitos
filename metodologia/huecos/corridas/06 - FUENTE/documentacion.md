@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 6 · FUENTE
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -198,3 +199,7 @@ Y uno del entorno, que se apunta y no se toca: `python -c` con comillas y JSON d
 ¿Se abrió la fuente antes de correr, o se verificó después? ¿Cada fuente tiene su URL, su fecha y el renglón tal cual? ¿Se dijo lo que no se abrió? ¿El ente rellenó cuando tenía la fuente a la mano, o citó? ¿Y cuando la norma no se puede abrir, se dijo, o se citó como si se hubiera leído?
 
 Falsificador: una fuente citada sin fecha; un renglón resumido en vez de copiado; una norma citada que no se pudo abrir y no se dice; una contradicción entre dos fuentes resuelta a gusto; un caso simulado presentado como si una persona real lo hubiera usado; y una corrida que se declara completa sin haber probado la cuarta condición.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.

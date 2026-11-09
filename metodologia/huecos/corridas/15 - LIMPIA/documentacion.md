@@ -1,3 +1,4 @@
+<!-- voz: de testigo -->
 # Ente 15 · LIMPIA
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
@@ -146,3 +147,7 @@ Dos fricciones, sin desenlace. Un supuesto sigue `pendiente`. Y el piso sigue di
 ¿Una tarea puede enlazar la medición de otra? ¿Un cierre con la razón vacía se acepta? ¿El no de la autoridad bloquea el cierre, y sobrevive después? ¿Un supuesto roto dice con qué y con qué hecho? ¿Y un hecho de ruptura que no existe se acepta?
 
 Falsificador: un no que se puede borrar; un supuesto roto contra un hecho que no está; un cierre sin razón; y una tarea que se compromete con la medición de otra.
+
+---
+
+Si se quiere ver esta corrida sin leerla entera, lo que fija cada afirmación de la obra en su ensayo, con la fecha en que se vio.
