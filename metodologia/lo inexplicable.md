@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Conviene haber leído [empatía](../la%20obra/humanidad/empat%C3%ADa.md) y [conciencia](../la%20obra/humanidad/lo%20que%20esta%20fuera.md), que están en los ensayos. Este ensayo no habla de entes: habla de cualquier cosa profunda que se persigue y no se alcanza del todo.
+> Antes de leer. Conviene haber leído [empatía](../la%20obra/humanidad/empatía.md) y [conciencia](../la%20obra/humanidad/lo%20que%20esta%20fuera.md), que están en los ensayos. Este ensayo no habla de entes: habla de cualquier cosa profunda que se persigue y no se alcanza del todo.
 >
 > Al terminar habrá una forma de escribir la pregunta «¿cuánto falta?» que no se queda en una sensación, y que no finge que el final existe.
 

@@ -7,7 +7,7 @@ Por qué este trabajo alinea con la concordia y no con la moral, y qué se gana 
 
 Alejandro Valenzuela Rivera.
 
-> Antes de leer. Conviene haber leído [empatía](empat%C3%ADa.md), porque esto es lo que pasa cuando los tres renglones de allí se cumplen. Y conviene haber leído [máquina de sesgos](medir%20sin%20preguntarle.md), porque éste se apoya en lo que aquel deja abierto.
+> Antes de leer. Conviene haber leído [empatía](empatía.md), porque esto es lo que pasa cuando los tres renglones de allí se cumplen. Y conviene haber leído [máquina de sesgos](medir%20sin%20preguntarle.md), porque éste se apoya en lo que aquel deja abierto.
 >
 > Al terminar sabrás qué criterio se usa aquí para decidir qué se sostiene, y qué lo tumba.
 
@@ -49,7 +49,7 @@ La diferencia con la moral, en una línea: la moral dice qué está bien, y la c
 
 Esto ordena el ensayo: sin ello, la concordia sería una palabra bonita.
 
-El ensayo [empatía](empat%C3%ADa.md) pide tres renglones antes de ejecutar nada:
+El ensayo [empatía](empatía.md) pide tres renglones antes de ejecutar nada:
 
 ```plaintext
 1. lo que entendí, en palabras del otro
@@ -216,7 +216,7 @@ Falsificador: una burla que ataca a la persona y no al salto; una cita de ficci�
 | Lo que el ensayo afirma | Dónde se sostiene |
 |---|---|
 | La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [máquina de sesgos](medir%20sin%20preguntarle.md) distingue el criterio del sesgo, y [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
-| La concordia es el resultado de la empatía, y no un valor aparte | [empatía](empat%C3%ADa.md), y sus tres renglones |
+| La concordia es el resultado de la empatía, y no un valor aparte | [empatía](empatía.md), y sus tres renglones |
 | La concordia tiene que decir qué falta, y no decir que sí | [el piso](../funcionamiento%20ente/el%20piso.md), que reemplaza «no pude» por qué falta |
 | Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md), y [conciencia](lo%20que%20esta%20fuera.md) |
 

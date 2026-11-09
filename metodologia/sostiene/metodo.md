@@ -210,7 +210,7 @@ no tiene contra qué compararse
   qué se hace: el mutante no se corrió; se corrige la tarea primero
 ```
 
-La pregunta que cierra el capítulo es la de [empatía](../../la%20obra/humanidad/empat%C3%ADa.md): ¿el que pidió la tarea podría contestarla, si se le pregunta con sus palabras? Si no, la tarea no está escrita para el ente: está escrita para el que la escribió.
+La pregunta que cierra el capítulo es la de [empatía](../../la%20obra/humanidad/empatía.md): ¿el que pidió la tarea podría contestarla, si se le pregunta con sus palabras? Si no, la tarea no está escrita para el ente: está escrita para el que la escribió.
 
 ---
 

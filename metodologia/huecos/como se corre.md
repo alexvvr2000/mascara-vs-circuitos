@@ -164,7 +164,7 @@ Se levantó un ente desde cero, se corrió, y salió "sin huecos". Y no se vio h
 
 Y un ente sin esas piezas no es un ente: es un pedazo de ente. Y correr un pedazo y llamarlo "corrida sin huecos" no prueba el ensayo: prueba solo la parte que se levantó.
 
-Por eso, antes de correr, se mira que estén las cuatro del paso 0, en el ensayo 1:
+Por eso, antes de correr, se mira que estén [las cuatro del paso 0](../../la%20obra/funcionamiento%20ente/el%20ciclo%20del%20ente.md), que están en el ensayo del ciclo:
 
 ```plaintext
 la autoridad   quién manda, y firma
@@ -184,7 +184,7 @@ Y la señal para reconocerlo en el acto, no después: el esquema tiene menos tab
 Y una consecuencia que hay que saber: una corrida hecha con un pedazo puede "pasar" y no probar nada del resto. La corrida 5 no probó el «se pregunta» porque no había autoridad a quien preguntarle. El pedazo que faltaba era justo la pieza que el caso necesitaba.
 ### Y una quinta cosa que no es pieza, y también se mide antes
 
-El piso. El paso 0d del ensayo 1 lo pide, y no se declara a ojo: se corre y se apunta qué salió.
+El piso. El paso 0d del ciclo lo pide, y no se declara a ojo: se corre y se apunta qué salió.
 
 ```plaintext
 la prueba      qué se corre, y qué tiene que salir
