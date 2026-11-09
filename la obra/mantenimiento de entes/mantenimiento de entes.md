@@ -470,7 +470,7 @@ Y lo que se hace en su lugar: un mecanismo recién escrito no se lee para darlo 
 
 **Dieciocho corridas, y treinta y ocho detalles que los ensayos no decían.**
 
-**El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [readme](../readme.md).** **Aquí sólo lo que se puede decir del conjunto:**
+**El detalle de cada una está en su `documentacion.md`, y el cuadro de todas en el [README](../README.md).** **Aquí sólo lo que se puede decir del conjunto:**
 
 ```plaintext
 lo que bajó        nada. la serie es 5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2

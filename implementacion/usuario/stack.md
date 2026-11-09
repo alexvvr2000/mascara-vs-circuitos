@@ -51,7 +51,7 @@
 
 ---
 
-**Y el manual de cómo se cambia cada pieza está en [`readme.md`](readme.md).**
+**Y el manual de cómo se cambia cada pieza está en [`README.md`](README.md).**
 
 ---
 

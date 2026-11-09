@@ -38,7 +38,7 @@
 
 | Familia | Dónde vive | Reglas | Qué rompe el mutante fuerte |
 |---|---|---|---|
-| **Las afirmaciones** | [`la obra/readme.md`](../../la%20obra/readme.md) | 13 | una afirmación sin dónde vive, o sin qué la tumba |
+| **Las afirmaciones** | [`la obra/README.md`](../../la%20obra/README.md) | 13 | una afirmación sin dónde vive, o sin qué la tumba |
 
 ### De humanidad, que no se pulen con corridas
 
