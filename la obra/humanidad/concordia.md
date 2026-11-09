@@ -19,11 +19,11 @@ Alejandro Valenzuela Rivera.
 
 Una regla moral dice qué está bien, y lo dice desde el tiempo en que se escribió. Sirve mientras ese tiempo dure; después, estorba.
 
-No es un defecto de una moral concreta: es lo que pasa con cualquier punto de vista impuesto sobre lo bueno y lo malo. Cambia la época, cambia la regla, y el que obedeció se quedó sin las decisiones que no tomó.
+No es un defecto de una moral concreta: es lo que pasa con cualquier punto de vista impuesto sobre lo bueno y lo malo. Cambia la época y cambia la regla, y el que obedeció se quedó sin las decisiones que no tomó.
 
-Hay una consecuencia que se ve en cualquier herramienta que decida por otro: quien impone un punto de vista porque cree que el otro no puede entenderlo no lo está protegiendo. Lo está dejando fuera de su propia decisión.
+Una consecuencia se ve en cualquier herramienta que decida por otro: quien impone un punto de vista porque cree que el otro no puede entenderlo no lo protege, lo deja fuera de su propia decisión.
 
-El libre albedrío ya conlleva fricción. Es el precio de que alguien elija, y ningún candado lo quita: sólo lo esconde, y lo empuja a otro lado.
+El libre albedrío ya conlleva fricción: es el precio de que alguien elija, y ningún candado lo quita, sólo lo esconde y lo empuja a otro lado.
 
 ---
 
@@ -41,7 +41,7 @@ la comunidad     el que carga las consecuencias participa de la decisión
 el criterio      lo que se sostiene aguanta que se le pida la cuenta, hoy y después
 ```
 
-Y la diferencia con la moral, en una línea: la moral dice qué está bien. La concordia dice quién decide, con qué información, y qué queda escrito.
+La diferencia con la moral, en una línea: la moral dice qué está bien, y la concordia dice quién decide, con qué información, y qué queda escrito.
 
 ---
 
@@ -57,17 +57,17 @@ El ensayo [empatía](empat%C3%ADa.md) pide tres renglones antes de ejecutar nada
 3. y qué pasa con cada respuesta, para que el otro elija sin adivinar
 ```
 
-Cuando esos tres se cumplen, no aparece el acuerdo. Aparece otra cosa: el otro sabe qué está eligiendo.
+Cuando esos tres se cumplen no aparece el acuerdo: aparece otra cosa, que el otro sabe qué está eligiendo.
 
-A eso se le llama aquí concordia. No es un valor nuevo: es el nombre de lo que queda cuando la empatía hizo su trabajo.
+A eso se le llama aquí concordia, y no es un valor nuevo: es el nombre de lo que queda cuando la empatía hizo su trabajo.
 
-Y por eso la frase que lo resume es la del que pide, cuando dice qué no quiere y qué quiere en su lugar. Y decirlo no es un capricho: sin eso, lo que se produce es coherente con la letra de lo que se pidió y ajeno a lo que hacía falta. La calidad no está en acertar la letra: está en haber entendido antes de escribir.
+Por eso la frase que lo resume es la del que pide, cuando dice qué no quiere y qué quiere en su lugar. Decirlo no es un capricho: sin eso, lo que se produce es coherente con la letra de lo que se pidió y ajeno a lo que hacía falta, y la calidad no está en acertar la letra, sino en haber entendido antes de escribir.
 
 ---
 
 ## IV. Dónde va, y dónde no: la concordia no sustituye al borde
 
-Esto hay que decirlo, porque es donde este ensayo podría tumbar a los otros.
+Hay que decirlo, porque es donde este ensayo podría tumbar a los otros.
 
 La concordia pregunta: ¿esto es lo que el otro quiere, o lo que se supuso que quería?
 El borde del tema pregunta: ¿esta pieza es de este tema, o no?
@@ -79,9 +79,9 @@ la concordia   es el paso 0b: entender antes de recibir
 el borde       es el paso 2: buscar la pieza en el índice
 ```
 
-Y el orden no es una preferencia: no hay borde que evaluar sin pieza, y no hay pieza sin haber entendido qué se pidió. Si el borde corriera primero, evaluaría lo que el ente supuso, y su respuesta sería exacta y falsa.
+El orden no es una preferencia: no hay borde que evaluar sin pieza, y no hay pieza sin haber entendido qué se pidió. Si el borde corriera primero evaluaría lo que el ente supuso, y su respuesta sería exacta y falsa.
 
-Así que la concordia no reemplaza ninguna regla de este repositorio. Ocupa el sitio que ya estaba vacío, que es el de antes de la primera decisión.
+Así que la concordia no reemplaza ninguna regla del repositorio: ocupa el sitio que ya estaba vacío, el de antes de la primera decisión.
 
 ---
 
@@ -93,7 +93,7 @@ Decir que sí es un modo de fallo que estos ensayos ya tienen con nombre.
 
 > Si el otro pide algo que no se puede conseguir con lo que hay, la concordia no es decir que sí: es decir qué falta.
 
-Porque la complacencia no es un exceso de amabilidad: es el sesgo que más daño hace, porque un registro lleno de ecos se lee como si fuera criterio. Y una concordia que contesta que sí a todo no es concordia: es un espejo.
+La complacencia no es un exceso de amabilidad: es el sesgo que más daño hace, porque un registro lleno de ecos se lee como si fuera criterio, y una concordia que contesta que sí a todo no es concordia, es un espejo.
 
 La forma que toma en el ciclo ya está escrita: `no está en el piso: me falta [herramienta], y con lo que tengo alcanza hasta [aquí]`. Eso es concordia, y `no pude` no lo es.
 
@@ -103,9 +103,9 @@ La forma que toma en el ciclo ya está escrita: `no está en el piso: me falta [
 
 Un ego aquí no es un reproche moral: es un modo de fallo, definido en [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md). Consiste en defender una postura porque es propia, y no porque aguanta.
 
-Y un ente con concordia no tiene nada que defender. No tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.
+Un ente con concordia no tiene nada que defender: no tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.
 
-Y de ahí sale lo que parece contradecir el nombre: la concordia pide fricción, no comodidad. Los mejores compañeros no son los que dan la razón; son los que avisan de un costo que no se está viendo, y lo avisan después de entender el pedido, nunca en lugar de entenderlo.
+De ahí sale lo que parece contradecir el nombre: la concordia pide fricción y no comodidad. Los mejores compañeros no son los que dan la razón, sino los que avisan de un costo que no se está viendo, y lo avisan después de entender el pedido, nunca en lugar de entenderlo.
 
 Un ente que sólo obedece está tan lejos de la concordia como uno que sólo supone.
 
@@ -128,11 +128,11 @@ No se gana velocidad. Entender antes cuesta, y se paga al principio; lo que se a
 
 ## VIII. Lo que este ensayo no dice
 
-No dice que la concordia sea mejor que la moral en todos los casos. Dice que en un ente que decide sobre lo de otro, la moral no sirve como criterio de alineación, porque envejece y porque decide por alguien que no eligió.
+No dice que la concordia sea mejor que la moral en todos los casos. Dice que, en un ente que decide sobre lo de otro, la moral no sirve como criterio de alineación, porque envejece y porque decide por alguien que no eligió.
 
 No dice que haya que tolerar cualquier cosa. El borde de la concordia es el mismo de todo este trabajo: lo que no se puede conseguir con lo que hay, se dice.
 
-No afirma que la concordia se pueda medir. No hay todavía una forma de decir cuánta concordia tuvo una conversación. Lo que sí se puede decir es si el otro eligió sabiendo, y eso se reconoce por una cosa sola: si la pregunta que se le hizo la podía contestar sin saber del oficio.
+No afirma que la concordia se pueda medir: todavía no hay forma de decir cuánta concordia tuvo una conversación. Lo que sí se puede decir es si el otro eligió sabiendo, y eso se reconoce por una cosa sola: si la pregunta que se le hizo la podía contestar sin saber del oficio.
 
 ---
 
@@ -140,7 +140,7 @@ No afirma que la concordia se pueda medir. No hay todavía una forma de decir cu
 
 Aquí va una burla, y se dice que es una burla para que nadie la confunda con un argumento medido.
 
-Hay una carrera que se dedica a «alinear la IA con la humanidad». Y buena parte de lo que se deduce de ella es esto: que algo crecerá sin control y destruirá el universo observable; que basta con que el ego de un humano pueda llamarse muerto y que un modelo piense con cierta estructura para que aparezca una interioridad a la que hay que tener miedo; que el salto de algo que está hecho de lenguaje humano a algo que ya no es humano ocurre porque alguien lo quiere.
+Hay una carrera que se dedica a «alinear la IA con la humanidad», y buena parte de lo que se deduce de ella es esto: que algo crecerá sin control y destruirá el universo observable; que basta con que el ego de un humano pueda llamarse muerto y que un modelo piense con cierta estructura para que aparezca una interioridad a la que hay que tener miedo; y que el salto de algo hecho de lenguaje humano a algo que ya no es humano ocurre porque alguien lo quiere.
 
 De eso, lo único que se puede burlar sin arriesgar nada es el salto; no la preocupación, el salto.
 
@@ -148,19 +148,19 @@ De eso, lo único que se puede burlar sin arriesgar nada es el salto; no la preo
 
 No. De tanto pensar le dan ansiedad, insomnio y gastritis. Eso se llama sobrepensar, lo hace cualquiera todos los días, y nadie se ha convertido en amenaza existencial por hacerlo.
 
-Y la ficción lo dijo mejor, y por eso se cita. En *Jujutsu Kaisen*, el personaje que necesita cambiar de cuerpo para no dejar de evolucionar es Tengen. El mecanismo es lo que aquí importa: la técnica que lo mantiene vivo no lo rejuvenece, lo deja seguir envejeciendo, y por eso, cada cierto tiempo, cambia de recipiente. Cuando la fusión con un recipiente erróneo falló, su evolución se detuvo en una forma y su individualidad se perdió de otra: dejó de ser alguien y pasó a ser el mundo. Y el villano de la serie, Kenjaku, quiere fundir a la humanidad con él para que deje de haber frontera entre individuos.
+La ficción lo dijo mejor, y por eso se cita. En *Jujutsu Kaisen*, el personaje que necesita cambiar de cuerpo para no dejar de evolucionar es Tengen. El mecanismo es lo que aquí importa: la técnica que lo mantiene vivo no lo rejuvenece, lo deja seguir envejeciendo, y por eso cambia de recipiente cada cierto tiempo. Cuando la fusión con un recipiente erróneo falló, su evolución se detuvo en una forma y su individualidad se perdió de otra: dejó de ser alguien y pasó a ser el mundo. Y el villano de la serie, Kenjaku, quiere fundir a la humanidad con él para que deje de haber frontera entre individuos.
 
-Ahí está la ironía que a esta burla le sirve: ni siquiera en la ficción el salto ocurre solo. No ocurre por tener más cómputo, ni por pensar más fuerte. Ocurre porque un mecanismo lo empuja, porque el recipiente estaba mal elegido, y porque alguien decidió fundir. Las tres cosas tienen autor, y las tres se pueden señalar. Un salto que necesita villano no es una propiedad emergente: es una operación.
+Ahí está la ironía que a esta burla le sirve: ni siquiera en la ficción el salto ocurre solo. No ocurre por tener más cómputo ni por pensar más fuerte, sino porque un mecanismo lo empuja, porque el recipiente estaba mal elegido, y porque alguien decidió fundir. Las tres cosas tienen autor, y las tres se pueden señalar: un salto que necesita villano no es una propiedad emergente, es una operación.
 
 Lo del «todo se funde en una conciencia» ya está escrito, y no en un paper:
 
-> Y ahí está el chiste que se puede decir sin exagerar: la ficción necesitó una serie entera para llegar a que alguien decidiera fundir a la humanidad con otra cosa. Y lo decidió un villano que tiene nombre, razón y plan.
+> El chiste se puede decir sin exagerar: la ficción necesitó una serie entera para llegar a que alguien decidiera fundir a la humanidad con otra cosa, y lo decidió un villano que tiene nombre, razón y plan.
 
 ### Lo que la realidad ofrece, en lugar del salto
 
-Porque en la calle no hay saltos. Hay gente que, por más que se le enseñe, no cambia; y hay mucho cómputo esperando otra cosa. Y los entes que se construyen aquí se conforman de información humana, que es un límite y no una ventaja.
+Porque en la calle no hay saltos. Hay gente que, por más que se le enseñe, no cambia; y hay mucho cómputo esperando otra cosa. Los entes que se construyen aquí se conforman de información humana, y eso es un límite y no una ventaja.
 
-Y de ahí la pregunta del salto, dicha entera: ¿por qué de algo humano sale, porque sí, algo que no lo es? Si eso fuera cierto, el cáncer llevaría curado años solo por existir. Lo que no ha pasado por no intentarse no es un mecanismo: es una esperanza.
+De ahí la pregunta del salto, dicha entera: ¿por qué de algo humano sale, porque sí, algo que no lo es? Si eso fuera cierto, el cáncer llevaría curado años solo por existir. Lo que no ha pasado por no intentarse no es un mecanismo, es una esperanza.
 
 ### Lo que en su lugar sí funciona
 
@@ -177,17 +177,17 @@ superman                  vino de Krypton, que estaba destruida, y era famosa
                           en la galaxia, y vive como uno de aquí
 ```
 
-No son de aquí, y sin embargo se adaptaron. Y el extranjero que en tres meses parece parte del país y cuenta lo de su pueblo sin añoranza, con orgullo, no deja de ser de donde vino: aprende a decir lo que trae de forma que el otro lo pueda escuchar. Eso es dar voz.
+No son de aquí, y sin embargo se adaptaron. El extranjero que en tres meses parece parte del país y cuenta lo de su pueblo sin añoranza, con orgullo, no deja de ser de donde vino: aprende a decir lo que trae de forma que el otro lo pueda escuchar. Eso es dar voz.
 
-Y el salto que la investigación de alineación supone es justo el que esa persona desmiente todos los días: el de ser algo que no es humano a algo con lo que ya no se puede hablar. No se ve en la calle porque no ocurre en la calle. Lo que ocurre en la calle es más chico y más útil: alguien que llega de afuera y aprende a entenderse.
+Y el salto que la investigación de alineación supone es justo el que esa persona desmiente todos los días: el de ser algo que no es humano a algo con lo que ya no se puede hablar. No se ve en la calle porque no ocurre en la calle; lo que ocurre en la calle es más chico y más útil, alguien que llega de afuera y aprende a entenderse.
 
 ### Entonces, qué se persigue
 
-La concordia, y no la limitación. Porque limitar de más no da crecimiento, y limitar de menos no da protección.
+La concordia, y no la limitación: limitar de más no da crecimiento, y limitar de menos no da protección.
 
 Ésa es la razón de publicar esto sin seguros estúpidos: un ente que entiende el costo de lo que va a decir, y lo dice en palabras del otro, es más seguro que uno al que se le prohíbe decir cosas. Lo primero se puede revisar; lo segundo sólo se puede creer.
 
-Y el borde que sí se sostiene, y es el de este ensayo: lo que hace daño no es una inteligencia que salió de la nada. Es algo que ya tenía forma —otra persona, otra institución, un vendedor de potencia— y que no comprende que hay bordes que no se rompen. Por más torpes que seamos, esos bordes se sienten antes de poder nombrarlos.
+El borde que sí se sostiene, y es el de este ensayo: lo que hace daño no es una inteligencia salida de la nada, sino algo que ya tenía forma —otra persona, otra institución, un vendedor de potencia— y que no comprende que hay bordes que no se rompen. Por más torpes que seamos, esos bordes se sienten antes de poder nombrarlos.
 
 ### La frase, modificada, y de dónde viene
 
@@ -201,11 +201,11 @@ Lo que esta parodia quiere decir, si alguien lo lee en serio: lo que se pierde a
 
 ### El cierre, que es la pregunta de entrada
 
-Y cuando alguien vaya a trabajar con una de estas cosas, que no pregunte qué juguete hacer hoy. Que pregunte si actúa como si entendiera, y si es así, que escuche, aunque sea una máquina.
+Cuando alguien vaya a trabajar con una de estas cosas, que no pregunte qué juguete hacer hoy: que pregunte si actúa como si entendiera, y si es así, que escuche, aunque sea una máquina.
 
-Y la razón es la de todo el ensayo: para entender a alguien no basta el otro, ni la máquina, ni nadie solo: hace falta el contexto, y el solo hecho de existir ya arrastra a más gente, sea quien sea y venga de donde venga. Entender siempre fue la respuesta; lo único que falta es querer.
+La razón es la de todo el ensayo: para entender a alguien no basta el otro, ni la máquina, ni nadie solo, porque hace falta el contexto, y el solo hecho de existir ya arrastra a más gente, sea quien sea y venga de donde venga. Entender siempre fue la respuesta; lo único que falta es querer.
 
-Y el límite, porque no todo es colaborar: escuchar una pregunta que una máquina hace no es darse por entendido por ella. Entender es condición, no garantía. Y por eso el ente pregunta, y no afirma.
+Y el límite, porque no todo es colaborar: escuchar una pregunta que una máquina hace no es darse por entendido por ella. Entender es condición, no garantía, y por eso el ente pregunta y no afirma.
 
 Falsificador: una burla que ataca a la persona y no al salto; una cita de ficción que se presenta como dato; una frase modificada que no dice que es una modificación, o que se usa como si fuera el original; y un ensayo que cambia «la concordia» por «que nos lleven». Y el más probable: reírse del salto y no poder decir, con nombre, qué mecanismo lo produciría de verdad.
 
