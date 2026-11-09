@@ -174,6 +174,23 @@ def regla_ruta(p, fallos):
         fallos.append((rel(p), "RUTA", "ruta de la maquina: %s" % m.group(0)[:60]))
 
 
+def regla_licencias(p, fallos):
+    """Las dos licencias siguen ahí, y dicen lo que el repo dice que dicen.
+
+    La prosa va con CC BY 4.0 y el código con Apache 2.0. Si alguien cambia una
+    y no la otra, o borra una, el build se cae: es la única forma de que la
+    licencia no quede detrás de lo que el repo hace.
+    """
+    if os.path.abspath(p) != os.path.join(RAIZ, "LICENSE.md"):
+        return
+    txt = os.path.join(RAIZ, "LICENSE.txt")
+    md = open(p, encoding="utf-8").read()
+    if not os.path.exists(txt) or "Apache License" not in open(txt, encoding="utf-8", errors="replace").read():
+        fallos.append((rel(p), "LICENCIA", "falta LICENSE.txt, o no es el texto de Apache 2.0"))
+    if "CC BY 4.0" not in md or "Apache 2.0" not in md:
+        fallos.append((rel(p), "LICENCIA", "LICENSE.md tiene que nombrar las dos"))
+
+
 def regla_forma_texto(p):
     """No falla: mide. Devuelve las fallas de forma que se ven sin leer: espacios
     de más antes de una coma, encabezados que saltan de nivel, y enlaces a un
@@ -252,6 +269,7 @@ def build(lista=False):
     for p in todos:
         regla_enlaces(p, fallos)
         regla_ruta(p, fallos)
+        regla_licencias(p, fallos)
 
     for p in ensayos():
         regla_h1(p, fallos)
