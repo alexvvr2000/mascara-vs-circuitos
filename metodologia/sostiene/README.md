@@ -63,7 +63,7 @@ y el mutante muere
 
 **Están en [`los mutantes`](los%20mutantes.md), uno por familia, con lo que rompe cada uno.**
 
-**Y sus catorce fichas están escritas.** **Corridos: los que diga el registro del repositorio, y no una tabla de aquí.**
+**Y sus catorce fichas están escritas.** **Corridos: los que diga [`corridas.md`](corridas.md), que es el único archivo donde se cuentan, con su fecha y su veredicto.**
 
 **Un mutante escrito, creído corrido, y ninguno ejecutado es el falsificador de este método, y es el que más fácil se cumple.**
 

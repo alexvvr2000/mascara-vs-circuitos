@@ -1,6 +1,6 @@
 # Mutante 12 — el hecho sin desenlace
 
-**El duodécimo de los catorce, corrido.**
+**El duodécimo de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

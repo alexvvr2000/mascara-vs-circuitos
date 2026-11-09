@@ -384,7 +384,7 @@ falta      la tabla de inclusión: qué regla hija depende de qué madre
 falta      correrlas, y abrir las que sobrevivan
 ```
 
-**Y el número honesto, sin adornos:** **catorce mutantes madres es el piso. No es el total.** **El total se sabe cuando las catorce se corran y se vea cuántas hay que abrir.**
+**Y el número honesto, sin adornos, con su cuenta en [`corridas.md`](corridas.md):** **catorce familias es el piso del método, y no el total de mutantes.** **El total se sabe cuando las madres se corran y se vea cuántas hay que abrir.**
 
 **Inventar el total ahora sería exactamente lo que el repositorio prohíbe: un hueco rellenado con lo probable.**
 

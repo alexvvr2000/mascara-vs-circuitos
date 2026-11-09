@@ -1,6 +1,6 @@
 # Mutante 5 — talentos sin registro
 
-**El quinto de los catorce, corrido.**
+**El quinto de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

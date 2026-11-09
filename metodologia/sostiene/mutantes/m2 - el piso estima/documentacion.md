@@ -1,6 +1,6 @@
 # Mutante 2 — el piso estima
 
-**El segundo de los catorce, corrido.**
+**El segundo de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

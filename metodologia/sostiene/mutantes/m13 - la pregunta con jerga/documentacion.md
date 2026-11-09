@@ -1,6 +1,6 @@
 # Mutante 13 — la pregunta con jerga
 
-**El decimotercero de los catorce, corrido. Y el único que sobrevivió al primer intento.**
+**El decimotercero de las catorce familias, corrido. Y el único que sobrevivió al primer intento.** **Y ese primer intento sólo consta en esta página: el script de hoy ya no lo corre.** **El estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

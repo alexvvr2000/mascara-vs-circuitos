@@ -1,6 +1,6 @@
 # Mutante 6 — el ensayo sostiene lo que propone
 
-**El sexto de los catorce, corrido.**
+**El sexto de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

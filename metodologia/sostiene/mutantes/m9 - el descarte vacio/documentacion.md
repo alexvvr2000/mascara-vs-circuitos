@@ -1,6 +1,6 @@
 # Mutante 9 — el descarte vacío
 
-**El noveno de los catorce, corrido.**
+**El noveno de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

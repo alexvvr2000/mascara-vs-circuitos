@@ -1,6 +1,6 @@
 # Mutante 8 — el índice a mano
 
-**El octavo de los catorce, corrido.**
+**El octavo de las catorce familias, corrido.** **Y el estado de todas, con su veredicto, vive en [`corridas.md`](../../corridas.md).**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
 

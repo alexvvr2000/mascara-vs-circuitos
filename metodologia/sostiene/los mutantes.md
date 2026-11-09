@@ -17,7 +17,7 @@ tiene dientes si   la corrida truena, y de esta manera
 no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 ```
 
-**Y ninguna de estas catorce está corrida todavía.** **Ésta es la lista, y la lista no es el resultado.**
+**El estado de cada una —corrida, no corrida, viva o muerta— vive en [`corridas.md`](corridas.md), que es el único sitio donde se cuentan.** **Ésta es la lista de fichas; el resultado es otro archivo.**
 
 ---
 
@@ -243,7 +243,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## Lo que falta después de esta lista
 
-**Los catorce están escritos.** **Y lo que falta es lo que ninguno de estos textos puede dar:**
+**El estado de cada una —corrida, no corrida, viva o muerta— vive en [`corridas.md`](corridas.md), que es el único sitio donde se cuentan.** **Y esta lista conserva lo que falta:**
 
 ```plaintext
 correrlos, y ver cuáles mueren
@@ -252,7 +252,7 @@ cerrar cada uno en su ensayo
 y repetir con las familias que se abran
 ```
 
-**Y lo honesto:** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
+**Y lo honesto, con la cuenta en [`corridas.md`](corridas.md):** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
 
 ---
 
