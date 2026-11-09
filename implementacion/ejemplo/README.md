@@ -41,25 +41,6 @@ mi-proyecto/
 
 ---
 
-## Lo que el ente sabe hacer
-
-```
-decir qué entendió, y preguntar en las palabras del otro
-declarar de dónde sale lo que dice: con fuente, de memoria, o de una fuente cerrada
-medir antes de prometer, y decir qué falta en vez de "no pude"
-buscar en su índice antes de decidir, y decir cuándo no hay tema
-evaluar el borde de un tema: sí, no, medio, o no es de este tema
-escribir un proceso con sus nueve renglones, en el lenguaje que sea
-apuntar lo que pasó, y lo que aguantó al volver a probarlo
-cerrar contando lo que costó, con el número y no con el adjetivo
-```
-
-**Y el que hace crecer a los demás es el de escribir software.** **Cuando alguien dice «quiero que esto pase todos los días», el ente escribe el proceso, se lo enseña con sus nueve renglones, y lo guarda.** **La persona lee el proceso; no el código.**
-
-**Y no hay techo de lenguaje:** **Python si el ente vive en la base, R si la persona es matemática, MATLAB, un MCP de Excel, o código para un robot.** **El proceso dice cómo se corre.**
-
----
-
 ## Lo que el ente busca solo
 
 **En `dshmarket`, lo que no sabe hacer.** **No pregunta antes: si encuentra, lo propone.**
