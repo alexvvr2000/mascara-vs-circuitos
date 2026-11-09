@@ -60,7 +60,7 @@ Cuando esos tres se cumplen, no aparece el acuerdo. Aparece otra cosa: el otro s
 
 A eso se le llama aquí concordia. No es un valor nuevo que este ensayo añade: es el nombre de lo que queda cuando la empatía hizo su trabajo.
 
-Y por eso la frase que lo resume es la del que pide: no quiero X, quiero Y. Y decirlo no es un capricho: sin eso, lo que se produce es coherente con la letra de lo que se pidió y ajeno a lo que hacía falta. La calidad no está en acertar la letra: está en haber entendido antes de escribir.
+Y por eso la frase que lo resume es la del que pide, cuando dice qué no quiere y qué quiere en su lugar. Y decirlo no es un capricho: sin eso, lo que se produce es coherente con la letra de lo que se pidió y ajeno a lo que hacía falta. La calidad no está en acertar la letra: está en haber entendido antes de escribir.
 
 ---
 

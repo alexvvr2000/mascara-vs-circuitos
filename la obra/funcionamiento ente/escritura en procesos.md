@@ -150,9 +150,9 @@ Conviene poner esto en su serie, porque no es una moda: es el siguiente escalón
 
 ```plaintext
 ensamblador   decías cómo se mueve el dato, registro por registro
-C             decías qué estructura tiene el dato
-python        decías qué quieres hacer con el dato
-proceso       dices qué hace falta que exista, y que pase
+C             se dice qué estructura tiene el dato
+python        se dice qué se quiere hacer con el dato
+proceso       se dice qué hace falta que exista, y que pase
 ```
 
 Cada escalón dejó decir lo mismo con menos conocimiento de cómo funciona por dentro la máquina. Y ninguno aflojó la exigencia: cada uno cambió en qué había que ser exacto.

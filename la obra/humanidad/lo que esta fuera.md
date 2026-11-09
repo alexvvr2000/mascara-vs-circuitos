@@ -164,7 +164,7 @@ Y el límite, que se dice antes de que alguien lo lea como una promesa: esto no 
 
 ---
 
-## VII. Y aquí está la prueba de lo que digo, que pasó mientras escribía esto
+## VII. Y aquí está la prueba, que pasó mientras se escribía este ensayo
 
 Hay que contar esto: es el ejemplo más limpio que va a quedar en el texto, y quedó.
 
@@ -176,7 +176,7 @@ lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no
 
 Y por qué me sirve como argumento y no como accidente:
 
-Si quien escribe esto quisiera sacarlo todo rápido, no lo corrige. Se queda con el renglón, se publica, y queda como el drogadicto que quería cambiar de cuerpo. La corrección cuesta, y nadie se la va a agradecer.
+Si el que escribe quisiera sacarlo todo rápido, no lo corrige. Se queda con el renglón, se publica, y queda como el drogadicto que quería cambiar de cuerpo. La corrección cuesta, y nadie se la va a agradecer.
 
 Y ese nivel de calidad en la escritura no se obtiene dejando que todo lo haga la máquina, por muy buena que sea. Se obtiene ensuciándote las manos: leyendo el renglón, viendo que el sujeto no concuerda, y echándolo abajo.
 
@@ -278,7 +278,7 @@ Y de ahí sale una idea que va más allá de este ensayo, y que está en el read
 
 > Si todo se hiciera al 100%, y sin espacio para lo que no se sabe, el mundo sería aburrido: no habría variedad, y sin variedad no hay de dónde salga la calidad.
 
-Los artistas me van a dar la razón en esto. Y quien haya trabajado con alguien bueno también: lo que trae el otro no es capacidad de reserva, es lo que a ti no se te ocurrió — y eso es lo que hace que valga la pena tenerlo enfrente.
+Los artistas darán la razón en esto. Y quien haya trabajado con alguien bueno también: lo que trae el otro no es capacidad de reserva, es lo que a ti no se te ocurrió — y eso es lo que hace que valga la pena tenerlo enfrente.
 
 Nadie llega solo a un trabajo que aguanta. Y lo que este repositorio muestra, con sus fallas, es que el que llega solo y se queda solo no aguanta: el que aguanta es el que se dejó corregir por alguien más.
 
