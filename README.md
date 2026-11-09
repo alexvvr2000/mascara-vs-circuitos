@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera.
 
 Me llamo Alejandro Valenzuela Rivera, y esto lo escribí yo. No hay empresa detrás, ni fondo, ni comité. Hay un tipo con una libreta y una máquina que no se cansa.
 
-Antes de esta pelea pasé dos semanas casi sin dormir, peleándome con una IA sobre la relación entre una persona y lo que la máquina le hace. No discutía con ella. Discutía con lo que yo creía que hacía. Al final de esas dos semanas ya no sabía si lo que había enfrente pensaba o si yo nada más estaba muy cansado.
+Antes de esta pelea pasé casi un mes entero casi sin dormir, peleándome con una IA sobre la relación entre una persona y lo que la máquina le hace. No discutía con ella. Discutía con lo que yo creía que hacía. Al final de ese mes ya no sabía si lo que había enfrente pensaba o si yo nada más estaba muy cansado.
 
 Lo que sí sé es esto, y va desde el primer renglón: **a la máquina le da igual si el trabajo quedó bien.** No se avergüenza, no se cansa, no se le ocurre que algo pudo quedar mal si el texto ya salió. Y por eso el trabajo que produce se ve entero y no lo está. Ese es el rival de esta pelea, y no dice una palabra.
 
@@ -87,7 +87,7 @@ Aquí no hay buenos. Los dos son rudos. Y el que pierde se quita la máscara: la
 
 ## La apuesta, y de dónde salió esto
 
-De esas dos semanas salieron las afirmaciones de este trabajo, y una que no se puede probar. Lo demás lo puso el cansancio.
+De ese mes salieron las afirmaciones de este trabajo, y una que no se puede probar. Lo demás lo puso el cansancio.
 
 La apuesta fue entre dos identidades, y es lo que dice el nombre.
 
