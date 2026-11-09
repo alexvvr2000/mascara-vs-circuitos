@@ -290,10 +290,10 @@ y el mutante muere
 
 ```plaintext
 1. los mutantes   cada regla tiene el suyo, y muere. esto se acaba,
-                  porque las reglas se acaban. son las que diga [`las reglas`](../sostiene/las%20reglas.md),
-                  que es donde vive el número.
-                  está en el [método B](../sostiene/README.md), y el número en
-                  [las reglas](../sostiene/las%20reglas.md)
+                  porque las reglas se acaban. son las que diga el
+                  [método B](../sostiene/metodo.md), y el conteo de
+                  cuáles corrieron y en qué quedaron, en
+                  [corridas](../sostiene/corridas.md)
 2. el silencio    dos corridas enteras seguidas sin nada más que detalle.
                   esto cubre lo que ningún ensayo escribió
 ```

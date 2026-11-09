@@ -1,15 +1,3 @@
-"""dumps.py — los bancos de los mutantes, en texto y sin lo que no es el dato.
-
-Los .db se regeneran al correr cada mN.py, y un binario no se puede mostrar.
-Este script deja, por cada banco, un .sql con la tabla, sus columnas, sus filas
-y los valores cortos tal como quedaron.
-
-Y ofusca: todo texto de más de LIMITE caracteres se sustituye por su tamaño.
-Así el dato se ve, y la máquina no.
-
-    python dumps.py            escribe las 26 en mutantes/_dumps/
-"""
-
 import glob
 import os
 import sqlite3
@@ -28,8 +16,8 @@ def ofuscar(v):
         return "x'" + v.hex() + "'"
     s = str(v)
     if len(s) > LIMITE:
-        return "[texto %d chars]" % len(s)
-    return s
+        s = "[texto %d chars]" % len(s)
+    return "'" + s.replace("'", "''") + "'"
 
 
 def dump(banco):
@@ -38,20 +26,21 @@ def dump(banco):
     con = sqlite3.connect(banco)
     tablas = [r[0] for r in con.execute(
         "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name")]
-    salida = ["-- dump ofuscado de %s/%s" % (carpeta, os.path.basename(banco)),
+    lineas = ["-- dump ofuscado de %s/%s" % (carpeta, os.path.basename(banco)),
               "-- sin texto largo: se sustituye por su tamano. sin rutas, sin usuarios, sin fechas del sistema.",
+              "-- se vuelve a cargar con sqlite3: python -c \"import sqlite3; db=sqlite3.connect('x.db'); db.executescript(open('este.sql', encoding='utf-8').read())\"",
               ""]
     for t in tablas:
         cols = [r[1] for r in con.execute("PRAGMA table_info(%s)" % t)]
         filas = con.execute("SELECT * FROM %s" % t).fetchall()
-        salida.append("-- tabla %s (%d columnas, %d filas)" % (t, len(cols), len(filas)))
-        salida.append("CREATE TABLE %s (%s);" % (t, ", ".join(cols)))
+        lineas.append("-- tabla %s (%d columnas, %d filas)" % (t, len(cols), len(filas)))
+        lineas.append("CREATE TABLE %s (%s);" % (t, ", ".join(cols)))
         for f in filas:
-            salida.append("INSERT INTO %s VALUES (%s);" % (t, ", ".join(ofuscar(v) for v in f)))
-        salida.append("")
+            lineas.append("INSERT INTO %s VALUES (%s);" % (t, ", ".join(ofuscar(v) for v in f)))
+        lineas.append("")
     con.close()
-    with open(os.path.join(DESTINO, nombre), "w", encoding="utf-8") as fh:
-        fh.write("\n".join(salida))
+    with open(os.path.join(DESTINO, nombre), "w", encoding="utf-8", newline="\n") as fh:
+        fh.write("\n".join(lineas))
     return nombre
 
 

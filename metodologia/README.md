@@ -60,7 +60,7 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
 
 ## Y la regla que los mantiene legibles
 
-**Los números viven en un solo sitio: [`las reglas`](sostiene/las%20reglas.md).**
+**Los números viven en dos sitios, y ninguno más: las reglas, en [`metodo.md`](sostiene/metodo.md) §III y §VIII; y las corridas, en [`corridas.md`](sostiene/corridas.md).**
 
 **Ni este archivo ni los dos métodos hacen cuentas.** **El que las necesite las hace contra el registro, y las puede volver a hacer.**
 
