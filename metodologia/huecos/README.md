@@ -11,27 +11,23 @@ Alejandro Valenzuela Rivera · el ente.
 
 ## Qué es este método, y qué no
 
-Es el que encuentra lo que el ensayo no dice. Se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.
+Es el que encuentra lo que el ensayo no dice: se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.
 
-No es el que dice si lo que el ensayo dice se sostiene. Ése es el [Método B · Ver si se sostiene](../sostiene/README.md): se cambia una regla del ensayo, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.
+El que dice si lo que el ensayo afirma se sostiene es otro, [Método B · Ver si se sostiene](../sostiene/README.md): cambia una regla del ensayo, levanta el ente con el ensayo cambiado, y mira si la corrida lo nota.
 
-Los dos hacen falta, y por razones distintas: los mutantes sólo prueban reglas que están escritas; la corrida entera encuentra lo que falta y no está escrito.
+Hacen falta los dos, y por razones distintas: los mutantes sólo prueban reglas que están escritas, y la corrida entera encuentra lo que falta y no está escrito.
 
 ---
 
 ## Las dieciocho corridas son todas de este método
 
-Esto se escribe porque se buscó lo contrario y no está.
+Esto se escribe porque se buscó lo contrario y no está: se abrieron las dieciocho documentaciones, una por una, y todas dicen lo mismo, con su fecha, qué se intentaba, qué se levantó y qué hubo que inventar.
 
-Se abrieron las dieciocho documentaciones, una por una, y cada una dice con qué fecha corrió. Y todas dicen lo mismo: qué se intentaba, qué se levantó, y qué hubo que inventar.
-
-Ninguna de las dieciocho levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../sostiene/mutantes/).
-
-Hay cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15—, y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
+Ninguna levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../sostiene/mutantes/). Las cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15— tampoco salen del método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
 
 Lo dice la 14 con estas palabras: «el primer cierre del ciclo dio `no hice: nada`. Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha. Así que se buscaron casos a propósito, y se encontraron tres.»
 
-Así que no se parte la carpeta. Partirla habría inventado una distinción que no está en ningún archivo, y [`sostiene`](../sostiene/README.md) tiene su propio registro.
+Por eso no se parte la carpeta: partirla habría inventado una distinción que no está en ningún archivo, y [`sostiene`](../sostiene/README.md) tiene su propio registro.
 
 ---
 
@@ -46,7 +42,7 @@ banco_filas.sql       lo que quedó escrito en ese esquema, fila por fila, en te
 pruebas/              los archivos de entrada que la corrida usó, si los tuvo
 ```
 
-Dos cosas se fueron, y se dice por qué:
+Dos cosas se fueron, y se dice por qué no están:
 
 ```plaintext
 herramientas/   los scripts y el AGENTS de cada corrida. se fueron porque cada
@@ -57,7 +53,7 @@ banco.db        el binario. ahora es dos archivos de texto que se pueden abrir,
                 comparar, y volver a cargar en cualquier motor
 ```
 
-Los nombres de los archivos de una corrida no están escritos en ningún archivo, y se vio al chequear las dieciocho: la 01 y la 02 dicen en su documentación cuántas tablas tiene su esquema, y no las nombran; la 16 trae sus filas en `insert into tabla (id, …)`, y las demás en `insert into tabla values (…)`, que depende del orden en que el esquema declaró las columnas. Es de la época, y no se corrige: se dice, para que quien copie una no crea que las dieciocho se escribieron a la vez.
+Los nombres de los archivos no están escritos en ninguna parte, y se vio al chequear las dieciocho: la 01 y la 02 dicen en su documentación cuántas tablas tiene su esquema, y no las nombran; la 16 trae sus filas en `insert into tabla (id, …)`, y las demás en `insert into tabla values (…)`, que depende del orden en que el esquema declaró las columnas. Es de la época, y no se corrige: se dice, para que quien copie una no crea que las dieciocho se escribieron a la vez.
 
 Hay dos más que un lector no puede prever y ahora se dice aquí:
 
@@ -86,9 +82,9 @@ Falsificador de este README: una corrida que se presentó como recargable y no l
 
 ## I. La meta: lo suficientemente bueno
 
-Durante un tiempo se formuló la meta como «tratar de describir un ente hasta que esté completo», y con eso se cayó en la trampa de la tendencia: buscar el valor al que converge algo que no termina.
+Durante un tiempo la meta se formuló como «describir un ente hasta que esté completo», y con eso se cayó en la trampa de la tendencia: buscar el valor al que converge algo que no termina.
 
-La trampa tiene nombre y está resuelta en [lo inexplicable](../lo%20inexplicable.md): que algo no se pueda probar hasta el final no lo vuelve inútil. Lo que hay que encontrar no es el final: es el punto donde algo sirve.
+La trampa tiene nombre y está resuelta en [lo inexplicable](../lo%20inexplicable.md): que algo no se pueda probar hasta el final no lo vuelve inútil, y lo que hay que encontrar no es el final, sino el punto donde algo sirve.
 
 Ese punto tiene nombre, y es el que usa todo el que hace herramientas: lo suficientemente bueno.
 
@@ -101,7 +97,7 @@ si el que sabe menos no puede empezar     → no hay piso
 si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
 ```
 
-Esto no es un final, y eso no es un defecto: la solución final va a tener huecos, no porque el trabajo esté mal, sino porque un ente vive en un mundo que cambia y la descripción se queda.
+Que esto no sea un final no es un defecto: la solución final va a tener huecos, no porque el trabajo esté mal, sino porque un ente vive en un mundo que cambia y la descripción se queda.
 
 ---
 
@@ -145,9 +141,9 @@ La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió. 
 
 ## II. El problema, en una línea
 
-La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle». Eso es esperar a que no aparezca nada, y no aparece nada cuando el que busca es el mismo que ya sabe dónde no buscar.
+La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle»: eso es esperar a que no aparezca nada, y no aparece nada cuando el que busca es el mismo que ya sabe dónde no buscar.
 
-Tiene un nombre, y se cita abajo: saturación. Es un criterio real, y es el débil.
+Tiene nombre —saturación, y se cita abajo—. Es un criterio real, y es el débil.
 
 ---
 
@@ -180,9 +176,9 @@ Un hueco cerrado dice que ese ya no está. No dice que no haya otros. Y por eso 
 
 ## V. Cuándo se deja de correr
 
-La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle». Y esa regla se queda, y es la de este método, pero no la primera.
+La regla vieja —«dos corridas enteras seguidas que no encuentren nada más que detalle»— se queda, y es de este método, pero no es la primera.
 
-Y la primera, que es la de este método, es más simple:
+La primera es más simple:
 
 > Se acaba cuando el ente se puede levantar con los ensayos y no hay que preguntar nada.
 
