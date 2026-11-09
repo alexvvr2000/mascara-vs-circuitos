@@ -15,19 +15,19 @@ Alejandro Valenzuela Rivera.
 
 ## I. La costumbre de pedir en vez de entender
 
-Cuando una persona trabaja con un sistema —una máquina, un modelo, un ente— hay dos maneras de conseguir que las cosas se hagan. La primera es pedir: dar la instrucción tal como la da el oficio, con las palabras que la industria usa, suponiendo que el otro las entiende igual. La segunda es entenderse: averiguar qué es lo que el otro puede hacer, qué no, y cómo se traduce lo que uno quiere a lo que el otro puede recibir.
+Cuando una persona trabaja con un sistema —una máquina, un modelo, un ente— hay dos maneras de conseguir que las cosas se hagan. La primera es pedir: dar la instrucción como la da el oficio, con las palabras de la industria, suponiendo que el otro las entiende igual. La segunda es entenderse: averiguar qué puede hacer el otro y qué no, y traducir lo que uno quiere a lo que el otro puede recibir.
 
 Pedir es rápido y casi siempre funciona a medias. Entenderse es lento y funciona. Y la diferencia no es de carácter: es de dónde se paga el costo.
 
-Lo que se ahorra entendiendo se paga en malentendidos. Un resultado que parece bien, que nadie revisó porque se pidió como se pide siempre, y que dentro de tres semanas hay que rehacer porque el requisito real era otro. Ese costo no aparece en la instrucción: aparece en la segunda versión.
+Lo que se ahorra no entendiendo se paga en malentendidos. Un resultado que parece bien, que nadie revisó porque se pidió como se pide siempre, y que dentro de tres semanas hay que rehacer porque el requisito real era otro. Ese costo no aparece en la instrucción: aparece en la segunda versión.
 
 ---
 
 ## II. "Como la industria lo pide" es una forma de no entenderse
 
-Hay una frase que parece una exigencia técnica y en realidad es una manera de no conversar: "así se hace", "así lo pide el estándar", "así lo hace todo el mundo".
+Hay una frase que parece una exigencia técnica y en realidad es una manera de no conversar: «así se hace», «así lo pide el estándar», «así lo hace todo el mundo».
 
-A veces es verdad, y entonces sirve. Pero muchas veces cubre otra cosa: la falta de disponibilidad para explicar el porqué. Al decir "así se hace" se cierra la conversación, y lo que queda es una instrucción sin contexto. Quien la ejecuta no sabe qué se quiere, solo qué se pidió.
+A veces es verdad, y entonces sirve. Pero muchas veces cubre otra cosa: la falta de ganas de explicar el porqué. Al decir «así se hace» se cierra la conversación, y lo que queda es una instrucción sin contexto. Quien la ejecuta no sabe qué se quiere, sólo qué se pidió.
 
 Y eso importa más con una máquina que con una persona, por una razón que ya se dijo en el ensayo de que es un ente: un ente no pregunta lo que no entiende; lo rellena. Si la instrucción llega sin el porqué, el ente no se detiene a buscarlo — produce algo coherente con la letra y ajeno al propósito.
 
@@ -41,7 +41,7 @@ La empatía, en este contexto, es la práctica de averiguar cómo está hecha la
 
 Es medible. Se puede ver si el que pide investigó antes, si hizo preguntas de sondeo, si adaptó el formato. No es un estado de ánimo: deja rastro.
 
-Es una obligación en ambos sentidos. No solo el humano tiene que entender a la máquina. La máquina tiene que entender al humano — qué le importa, qué le preocupa, qué parte de lo que pide es un requisito y qué parte es una costumbre de su oficio. Un ente que solo obedece está tan ciego como uno que solo supone.
+Es una obligación en ambos sentidos. No sólo el humano tiene que entender a la máquina; la máquina tiene que entender al humano: qué le importa, qué le preocupa, y qué parte de lo que pide es requisito y qué parte es costumbre de su oficio. Un ente que sólo obedece está tan ciego como uno que sólo supone.
 
 Y es lo contrario de suavizar. Un pedido empático puede ser más duro que uno seco, porque se puede poner en el lugar exacto donde el otro entiende, en vez de en el lugar donde duele menos.
 
@@ -49,13 +49,13 @@ Y es lo contrario de suavizar. Un pedido empático puede ser más duro que uno s
 
 ## IV. El costo de entenderse, y quién lo paga
 
-Entenderse cuesta tiempo al principio. Una conversación de una hora puede ahorrar tres días de corrección, y también puede no ahorrar nada. No hay garantía, y por eso casi nunca se hace.
+Entenderse cuesta tiempo al principio. Una conversación de una hora puede ahorrar tres días de corrección, o no ahorrar nada. No hay garantía, y por eso casi nunca se hace.
 
-Pero el costo de no entenderse no es simétrico: se paga igual, solo que más tarde y en otro lado. Y ese "otro lado" casi siempre es el siguiente: el que hereda el software, el que lee el código seis meses después, el que pregunta por qué esto está así.
+Pero el costo de no entenderse no es simétrico: se paga igual, sólo que más tarde y en otro lado. Y ese «otro lado» casi siempre es el siguiente: el que hereda el software, el que lee el código seis meses después, el que pregunta por qué esto está así.
 
 La deuda de entendimiento se transfiere. Quien pidió rápido no la pagó; se la dejó al que venga.
 
-Y hay un costo que no se ve hasta que es tarde: lo que se entendió mal no se puede detectar desde el resultado, porque el resultado es coherente consigo mismo. Solo se detecta comparándolo con lo que se quería — y lo que se quería nunca se escribió, porque se creyó que estaba dicho.
+Y hay un costo que no se ve hasta que es tarde: lo que se entendió mal no se detecta desde el resultado, porque el resultado es coherente consigo mismo. Sólo se detecta comparándolo con lo que se quería, y lo que se quería nunca se escribió, porque se creyó que estaba dicho.
 
 ---
 
@@ -63,19 +63,19 @@ Y hay un costo que no se ve hasta que es tarde: lo que se entendió mal no se pu
 
 La calidad del software no está en la elegancia del código, sino en qué tan bien cabe en el problema que lo pidió. Y para caber hay que conocer la forma del hueco: qué restricciones son reales, cuáles son herencia, qué se usa todos los días y qué nadie va a tocar. Nada de eso está en el estándar. El estándar dice cómo se hace un sistema; no dice cómo es este sistema.
 
-Por eso el mejor software que se puede escribir casi nunca es el que sigue la receta más popular, sino el que resolvió el malentendido antes de escribir la primera línea. Un sistema que se entendió puede ser simple, pequeño y aburrido, y estar bien. Uno que no se entendió puede ser moderno por todos lados y no servir para nada.
+Por eso el mejor software casi nunca es el que sigue la receta más popular, sino el que resolvió el malentendido antes de escribir la primera línea. Un sistema que se entendió puede ser simple, pequeño y aburrido, y estar bien; uno que no se entendió puede ser moderno por todos lados y no servir para nada.
 
 ---
 
 ## VI. La empatía como condición para tener criterio
 
-Esta es la razón por la que este ensayo va al final, después de la metodología, del ente, del criterio, del sesgo, de los procesos, del talento y del índice. Y la medición de talentos va después que esta, por una razón que aquí se entiende: medir lo que el ente puede hacer no dice nada si no se midió antes si entendió lo que se le pidió.
+Esta es la razón por la que este ensayo va al final, después de la metodología, del ente, del criterio, del sesgo, de los procesos, del talento y del índice. Y la medición de talentos va después que ésta, por una razón que aquí se entiende: medir lo que el ente puede hacer no dice nada si antes no se midió si entendió lo que se le pidió.
 
-Un ente puede tenerlo todo eso y seguir siendo inútil si no puede entender a quien le habla. El criterio sin empatía se vuelve un registro de por qué uno tenía razón. Los procesos sin empatía se vuelven trámites que nadie puede discutir. El talento medido sin empatía se vuelve una tabla de costos que no sabe si lo que se produjo servía.
+Un ente puede tener todo eso y seguir siendo inútil si no entiende a quien le habla. El criterio sin empatía se vuelve un registro de por qué uno tenía razón; los procesos sin empatía se vuelven trámites que nadie puede discutir; el talento medido sin empatía se vuelve una tabla de costos que no sabe si lo producido servía.
 
 La empatía es la que le dice al criterio para qué sirve. Sin ella, el criterio es una memoria bien organizada de decisiones que ya no le importan a nadie.
 
-Y en el otro sentido: un ente que entiende a quien le habla puede contradecirlo. Puede decir "esto que pides tiene un costo que no estás viendo" — pero solo lo puede decir si primero entendió lo que se pedía. La contradicción sin entendimiento es ruido; con entendimiento es lo más valioso que un ente puede ofrecer.
+Y en el otro sentido: un ente que entiende a quien le habla puede contradecirlo. Puede decir «esto que se pide tiene un costo que no se está viendo», pero sólo si primero entendió lo que se pedía. La contradicción sin entendimiento es ruido; con entendimiento es lo más valioso que un ente puede ofrecer.
 
 ---
 
