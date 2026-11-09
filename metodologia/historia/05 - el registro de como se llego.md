@@ -33,7 +33,7 @@ cada entrada dice qué se hizo, qué se midió, y qué se creyó que iba a pasar
 
 ## 2026-10 · La apuesta
 
-**Qué se hizo:** trece ensayos escritos desde una discusión de dos semanas.
+**Qué se hizo:** trece ensayos escritos desde una discusión de casi un mes entero.
 
 **Qué se creía:** **que un ensayo se puede leer entero, entenderse, y estar completo.**
 
