@@ -313,8 +313,10 @@ def build(lista=False):
         regla_enlaces(p, fallos)
         regla_ruta(p, fallos)
 
-    # Las dos que miran el repositorio, no el archivo: se corren una vez, sobre su archivo.
+    # Las que miran el repositorio, no el archivo: se corren una vez, sobre su archivo.
     regla_licencias(os.path.join(RAIZ, "LICENSES.md"), fallos)
+    # y esta última: cambia la lista de archivos mientras se camina, y un os.walk
+    # que se mueve por debajo se cae. Va antes de cualquier recorrido nuevo.
     regla_citation(os.path.join(RAIZ, "CITATION.cff"), fallos)
 
     for p in ensayos():

@@ -1,7 +1,7 @@
 # Este archivo lo escribe scripts/citation.py: no se edita a mano.
 # Los números se cuentan de las carpetas, y el commit y la fecha salen de git.
 cff-version: 1.2.0
-message: "Si se usa esto, se cita con estos datos. Y si se cita, se cita el commit de abajo, no «la última versión»."
+message: "If you use this work, cite it using the metadata from this file. The 'commit' below is the one that produced it: cite that one, also there."
 title: "Máscara vs Circuitos: alineación de entes"
 abstract: >-
   Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un
@@ -22,7 +22,7 @@ authors:
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
 version: "1.0.0"
-commit: "bc8a7d4825ca07c0e91e6c6c96bb2589e0a90399"
+commit: "97838c3585adeaf9daf816cdbcc2aeef14adcd53"
 date-released: "2026-11-09"
 license: "Apache-2.0"
 repository-code: "https://github.com/alexvvr2000/mascara-vs-circuitos"

@@ -36,7 +36,7 @@ def texto(ensayos, corridas, mutantes, version, commit, fecha):
     return """# Este archivo lo escribe scripts/citation.py: no se edita a mano.
 # Los números se cuentan de las carpetas, y el commit y la fecha salen de git.
 cff-version: 1.2.0
-message: "Si se usa esto, se cita con estos datos. Y si se cita, se cita el commit de abajo, no «la última versión»."
+message: "If you use this work, cite it using the metadata from this file. The 'commit' below is the one that produced it: cite that one, also there."
 title: "Máscara vs Circuitos: alineación de entes"
 abstract: >-
   Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un
