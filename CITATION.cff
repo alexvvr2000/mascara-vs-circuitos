@@ -22,7 +22,7 @@ authors:
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
 version: "1.0.0"
-commit: "3303a765332c2a52486ddb09803b75dd1253f0a2"
+commit: "bc8a1d349b5c7f62e625f09ba999e52d097eef7c"
 date-released: "2026-11-09"
 license: "Apache-2.0"
 repository-code: "https://github.com/alexvvr2000/mascara-vs-circuitos"
