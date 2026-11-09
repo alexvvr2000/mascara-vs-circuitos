@@ -1,6 +1,6 @@
 # La jerarquía de inclusión
 
-**Por qué no hay que correr 357 mutantes, y cómo se sabe cuántos se pueden saltar.**
+**Por qué no hay que correr un mutante por regla, y cómo se sabe cuántos se pueden saltar.**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08.**
 
@@ -8,9 +8,9 @@
 
 ## El problema, en números
 
-**417 reglas en los trece ensayos.** **~60 son de conducta y se prueban con un caso.**
+**Las reglas de los ensayos, contadas.** **Las de conducta se prueban con un caso.**
 
-**Quedan 357, y 357 mutantes corridos uno por uno son 25 sesiones a mano.**
+**Y el resto, corrido uno por uno, son decenas de sesiones a mano.**
 
 **Y la mitad no hace falta correrla, por una razón que existe desde 1988.**
 
@@ -136,7 +136,7 @@ muerto por inclusión     es una deducción, y depende de que la inclusión
 **No se puede decir de antemano cuántos se ahorran, y no se va a inventar.** **Se sabe cuando se hace:**
 
 ```plaintext
-357 mutantes
+un mutante por regla
   menos los que están incluidos en otro
   = los que se corren de verdad
 ```
@@ -160,6 +160,6 @@ muerto por inclusión     es una deducción, y depende de que la inclusión
 
 ## Falsificador
 
-**Una jerarquía que se usa para no correr nada.** **Y su contraria: una que se ignora y corre 357 mutantes para descubrir que la mitad eran casos de la otra mitad.**
+**Una jerarquía que se usa para no correr nada.** **Y su contraria: una que se ignora y corre un mutante por regla para descubrir que la mitad eran casos de la otra mitad.**
 
 **Y el más probable, que también se apunta:** **una jerarquía mal calculada, donde un mutante se da por muerto porque otro murió, sin que la inclusión fuera cierta.**

@@ -26,13 +26,13 @@
 ### Si se corre una regla por una
 
 ```plaintext
-423 reglas en los ensayos, mas las del que explica el proceso
-  13 corridas
+las reglas de los ensayos, mas las del que explica el proceso
+  las corridas hechas
 ─────
 473 por correr
 
 a ~123 líneas cada una      58.179 líneas de código
-y a una corrida por renglón 473 corridas
+y a una corrida por renglón, una corrida por regla
 ```
 
 **Y a un ritmo de diez o quince por sesión, que es lo que se sostuvo hoy:**
@@ -47,8 +47,7 @@ y a una corrida por renglón 473 corridas
 ### Y una advertencia sobre las cuentas, porque hay dos y dicen cosas distintas
 
 ```plaintext
-486 reglas contadas en total (417 en los trece ensayos, y 69 en el que
-explica el proceso)
+las reglas de los ensayos, mas las del que explica el proceso
 
 486 - 13 ya probadas  =  473 por correr
 486 - 25 que no afirman nada de un ente  =  461
@@ -73,7 +72,7 @@ y si se restan las dos cosas:  461 - 13  =  448
 ```plaintext
 no se corre una regla por una, y se dice que no se corrió
 se corre un mutante por familia (13, ya hechos)
-y se declara que 461 reglas quedan sin probar
+y se declara que quedan sin probar
 ```
 
 **Eso ya está hecho, y el repositorio lo dice.** **La pregunta es si se quiere cerrar el hueco o declararlo.**
@@ -82,12 +81,12 @@ y se declara que 461 reglas quedan sin probar
 
 ## El número que importa, y no es el de las reglas
 
-**Porque correr 473 mutantes no es lo que falta.** **Lo que falta es esto, y no se mide en mutantes:**
+**Porque correr un mutante por regla no es lo que falta.** **Lo que falta es esto, y no se mide en mutantes:**
 
 | Lo que falta | Cuánto |
 |---|---|
 | **los mutantes** | **entre 30 y 50 sesiones** |
-| **la segunda mitad de la tabla de inclusión** | **12 familias por revisar, media sesión** |
+| **la segunda mitad de la tabla de inclusión** | **las familias que faltan por revisar** |
 | **el código de la implementación** | **no se estima: no se empezó** |
 | **que alguien que no sea el autor lo levante** | **no tiene estimación, y no depende del trabajo** |
 

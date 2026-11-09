@@ -40,7 +40,7 @@
 
 ## Y antes de correr nada: la jerarquía
 
-**417 reglas no son 417 mutantes.** **Son catorce familias, y cada familia se rompe de una sola manera.**
+**Las reglas no son los mutantes.** **Son familias, y cada familia se rompe de una sola manera.**
 
 **La madre rompe la regla entera; los casos rompen un caso de la regla.** **Si la corrida mata la madre, ya mató los casos.**
 
@@ -48,7 +48,7 @@
 
 **Y una corrección que costó dos familias descubrir, y va aquí antes de que alguien planee con el número viejo:** **[`inclusion.md`](la%20tabla%20de%20inclusion.md) es la tabla, hecha para las dos familias más grandes, y dice que la inclusión casi no ahorra.**
 
-**De las 203 reglas de esas dos familias, la madre mata su propia regla y ninguna hija.** **Porque las reglas de estos ensayos no son unas casos de otras: son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
+**En esas dos familias, la madre mata su propia regla y ninguna hija.** **Porque las reglas de estos ensayos no son unas casos de otras: son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
 
 **El plan de catorce madres fue una optimización que la tabla desmiente.**
 

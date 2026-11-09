@@ -1,24 +1,28 @@
 # `ejemplo/`
 
-**El ente, completo, listo para copiar a un proyecto.** **Con un stack ya elegido.**
-
-**Y se copia porque alguien lo va a arrastrar a su carpeta y va a trabajar el mismo día, sin saber programar.**
+**El ente, con el stack que eligió quien mantiene este repositorio.** **Se copia a un proyecto, y se trabaja.**
 
 ---
 
-## Para quién es
+## El stack
 
-**Para quien viene por algo que ya funciona.**
+| La pieza | Qué es |
+|---|---|
+| **el motor** | **`DeepSeek Harness`** |
+| **el catálogo** | **`dshmarket`** |
+| **la base** | **`graphdblite`, un archivo** |
 
-**No para alguien que ya sabe:** **el que sabe, se lo arma solo.** **Éste es el piso.**
+**Y la base no es un gusto como las otras dos.** **El índice es un grafo con tres relaciones, y la consulta que más se va a hacer es por dónde se llega de un tema a otro.** **Un recorrido largo no se escribe en SQL: se escribe con `shortestPath`.**
+
+**Y lo que la base no hace:** **`graphdblite` no valida nada.** **Las reglas del registro viven en el script que escribe.**
+
+**La tabla está en [`stack.md`](stack.md), y lo medido en [`investigacion del stack.md`](investigacion%20del%20stack.md).**
 
 ---
 
-## Qué va a traer, cuando esté armado
+## La forma
 
-**Y esto es la forma, no un adorno: una carpeta que se arrastra tiene que traer las cuatro cosas.**
-
-```plaintext
+```
 mi-proyecto/
   AGENTS.md          la puerta: enruta, no explica
   .dsh/
@@ -29,62 +33,47 @@ mi-proyecto/
     scripts/         lo que es frágil: escribir, medir, contar
 ```
 
-**Y cada pieza hace un trabajo, y ninguna sobra:**
+**Y cuál va dónde:**
 
-| La pieza | Qué lleva | Por qué |
-|---|---|---|
-| **`AGENTS.md`** | **la definición del ente, las cinco piezas, el ciclo, el formato de proceso, y el enrutado a los skills** | **es lo que se obedece, y si crece deja de leerse** |
-| **los skills** | **lo que sabe hacer** | **son lo que el ente puede hacer que no traía puesto** |
-| **los hooks** | **lo que pasa siempre** | **una instrucción se puede saltar; un hook no** |
-| **los scripts** | **lo frágil** | **validar antes de escribir, medir, contar** |
+> **Si tiene que pasar siempre, es un hook.** **Si necesita juicio, es un skill.** **Si es frágil, es un script.** **Y si es una regla que se lee y se obedece, va en la puerta.**
+
+**Una instrucción se puede saltar; un hook no.**
 
 ---
 
-## Lo que el ente va a saber hacer
-
-**Y sale de los trece ensayos, leídos uno por uno:**
+## Lo que el ente sabe hacer
 
 ```
-entender      lo que entendí, la disyuntiva, y qué pasa con cada respuesta
-              sin jerga: si la pregunta necesita saber de IA para contestarla, está mal hecha
-el piso       medir antes de prometer; "no está en el piso: me falta X", nunca "no pude"
-la fuente     con fuente abierta · de memoria · cita de tercero · fuente cerrada
-              y declararlo ANTES del hecho, no después
-el índice     buscar el tema antes de decidir, y decir cuándo no hay
-el borde      sí · no · medio · no es de este tema, y el solapamiento se apunta primero
-la frontera   decide · propone · se salió, y qué se descartó
- el hecho     trece campos, y el desenlace con uno de tres valores
-el proceso    nueve renglones, en el lenguaje que sea
-escribir software  cuando algo se repite, escribe el proceso y lo enseña
-cerrar        propone, y la autoridad firma; el no se apunta y no se borra
+decir qué entendió, y preguntar en las palabras del otro
+declarar de dónde sale lo que dice: con fuente, de memoria, o de una fuente cerrada
+medir antes de prometer, y decir qué falta en vez de "no pude"
+buscar en su índice antes de decidir, y decir cuándo no hay tema
+evaluar el borde de un tema: sí, no, medio, o no es de este tema
+escribir un proceso con sus nueve renglones, en el lenguaje que sea
+apuntar lo que pasó, y lo que aguantó al volver a probarlo
+cerrar contando lo que costó, con el número y no con el adjetivo
 ```
 
-**Y el que hace crecer a los demás es el de escribir software.** **Porque cuando alguien dice «quiero que esto pase todos los días», el ente escribe el proceso, se lo enseña con sus nueve renglones, y lo guarda.** **La persona lee el proceso; no el código.**
+**Y el que hace crecer a los demás es el de escribir software.** **Cuando alguien dice «quiero que esto pase todos los días», el ente escribe el proceso, se lo enseña con sus nueve renglones, y lo guarda.** **La persona lee el proceso; no el código.**
+
+**Y no hay techo de lenguaje:** **Python si el ente vive en la base, R si la persona es matemática, MATLAB, un MCP de Excel, o código para un robot.** **El proceso dice cómo se corre.**
 
 ---
 
-## Y el stack, en dos renglones
+## Lo que el ente busca solo
 
-**Motor: `DeepSeek Harness`.** **Catálogo: `dshmarket`.** **Base: `graphdblite`, un archivo.**
+**En `dshmarket`, lo que no sabe hacer.** **No pregunta antes: si encuentra, lo propone.**
 
-**Y la base no es un gusto como las otras dos:** **el índice es un grafo con tres relaciones, y la consulta que más se va a hacer es por dónde se llega de un tema a otro.** **`shortestPath`, en una línea.**
-
-**Y lo que la base no hace, se dice:** **`graphdblite` no valida nada.** **Las reglas del ensayo 05 se quedan en el script.**
-
-**Está medido en [`investigacion del stack.md`](investigacion%20del%20stack.md), y en [`stack.md`](stack.md) está la tabla.**
+**Y la regla que evita la trampa:** **el catálogo resuelve comodidad, no necesidad.** **Un ente no necesita instalar nada para funcionar.**
 
 ---
 
-## Lo que todavía no está
+## Y lo que se prueba con esto
 
-**Esta carpeta tiene el stack declarado y la investigación hecha.** **No tiene el ente.**
+**Que el criterio es del ente y el sesgo es del cuerpo.**
 
-**Le faltan:** **el `AGENTS.md`, los skills, los hooks, los scripts, y la prueba de que se copia y funciona en un proyecto que no sea éste.**
-
-**Y esa prueba no es un trámite:** **sin ella, lo que hay aquí es una descripción de un ente, y una descripción no es un ente.**
+**Si eso aguanta, el techo deja de ser lo que cuesta el modelo y pasa a ser el criterio que lo acompaña.** **Encontrar el cuerpo cuyos sesgos se ajustan, y cambiarlo sin perder la identidad.**
 
 ---
 
-## Falsificador
-
-**Una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.** **La señal, en el acto:** **alguien la arrastra a su proyecto, y no puede empezar sin preguntar.**
+**Falsificador:** **una carpeta que se llama «ejemplo» y hay que completar antes de copiarla.**

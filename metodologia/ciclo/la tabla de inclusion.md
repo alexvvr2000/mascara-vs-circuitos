@@ -51,11 +51,11 @@ que hay que correr        203
 ## El número que sale
 
 ```plaintext
-reglas en los trece ensayos          417
+reglas en los ensayos
 que no afirman nada de un ente        25   (conciencia: 0 · máquina de sesgos: 25
                                             de borde, no de conducta)
 ─────────────────────────────────────────
-reglas que un ente puede cumplir      392
+reglas que un ente puede cumplir
 muertas por inclusión                   0
 que hay que correr                    392
 ```
@@ -82,15 +82,15 @@ aquí            cumplir «el piso se mide» no implica cumplir «el `no hay`
 
 ## Lo que esto le hace al plan
 
-**El plan decía catorce corridas y catorce mutantes.** **La tabla dice: catorce familias y 392 reglas.**
+**El plan pedía una corrida y un mutante por familia.** **La tabla dice: las familias, y las reglas que un ente puede cumplir.**
 
 **Y las dos salidas, otra vez, con el número puesto:**
 
 ```plaintext
-a) trece mutantes, uno por familia
-   → 13 reglas probadas de 392, y 379 sin probar, y se dice
+a) un mutante por familia
+   → las probadas por su mutante, y las que siguen sin probar, y se dice
 
-b) 392 reglas, una por una
+b) las reglas que un ente puede cumplir, una por una
    → cada familia en detalle, y un número real
 ```
 
@@ -117,14 +117,14 @@ c) las corridas
 
 ## Y la curva de las corridas, que dice dónde se está
 
-**Las 392 reglas son cuántas hay.** **Esto otro es cuánto se sigue encontrando.**
+**Una cosa son las reglas que hay.** **Esto otro es cuánto se sigue encontrando.**
 
 ```plaintext
 detalles por corrida:  5 · 3 · 2 · 3 · 0 · 0 · 2 · 3 · 2
                        · 2 · 2 · 1 · 2 · 3 · 2 · 1 · 3 · 2
 
-primeras 9 corridas    20 detalles   (2.22 por corrida)
-últimas  9 corridas    18 detalles   (2.00 por corrida)
+las primeras corridas   más detalles por corrida
+las últimas corridas    menos, y no cero
 ```
 
 **La curva no baja.** **Y eso quiere decir una de dos cosas, y no se puede distinguir desde aquí:**
@@ -139,7 +139,7 @@ b) las corridas cambiaron de clase             ← ya no encuentran reglas, sino
 
 **Ninguno de los tres ochenta y ocho últimos abrió una familia nueva.** **Todos afinaron una que ya existía.**
 
-**Y eso, si es cierto, cambia el cálculo:** **las 392 reglas son las que hay; las corridas no van a traer cuatrocientas nuevas, van a seguir afinando las mismas.**
+**Y eso, si es cierto, cambia el cálculo:** **las reglas son las que hay; las corridas no van a traer cuatrocientas nuevas, van a seguir afinando las mismas.**
 
 **Pero no lo sé.** **Se dice que inclina, y no que es.**
 

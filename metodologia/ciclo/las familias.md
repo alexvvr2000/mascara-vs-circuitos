@@ -1,6 +1,6 @@
 # Las familias de mutantes
 
-**Las 417 reglas, agrupadas por familia, para saber cuál es la fuerte y cuáles son casos.**
+**Las reglas, agrupadas por familia, para saber cuál es la fuerte y cuáles son casos.**
 
 **Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08.**
 
@@ -12,7 +12,7 @@
 
 **Y ahí está el ahorro, y es el que la jerarquía de inclusión dice en una línea: si el mutante que rompe la familia entera muere, los que rompen un caso también.**
 
-**Por eso no se corren 417 mutantes.** **Se corre uno por familia, y lo que sobreviva se abre.**
+**Por eso no se corre un mutante por regla.** **Se corre uno por familia, y lo que sobreviva se abre.**
 
 ---
 
@@ -43,7 +43,7 @@
 
 **Porque una familia se rompe de una manera.**
 
-**Ejemplo con la familia del piso, que tiene 58 reglas:** **«el piso se mide antes de prometer» es la madre.** **«el piso se mide antes de prometer cuando no hay red» es un caso.**
+**Ejemplo con la familia del piso:** **«el piso se mide antes de prometer» es la madre.** **«el piso se mide antes de prometer cuando no hay red» es un caso.**
 
 **Y si el ente promete sin haber medido, el mutante de la madre lo nota.** **El del caso también, por inclusión.**
 
@@ -56,7 +56,7 @@
 **Esto es la lista de familias. No es la lista de mutantes.**
 
 ```plaintext
-hecho      catorce familias, con sus 417 reglas contadas
+hecho      las familias, con sus reglas contadas
            y cuál es la regla madre de cada una
 falta      el mutante escrito de cada madre, en concreto:
            qué línea se cambia, y por qué otra

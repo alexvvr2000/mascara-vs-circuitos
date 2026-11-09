@@ -23,7 +23,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 1 · El ciclo, paso por paso
 
-**Familia:** `02 el ciclo del ente` · 145 reglas
+**Familia:** `02 el ciclo del ente`
 
 **Regla madre:** *«El cierre: el ente propone, la autoridad cierra.»*
 
@@ -39,7 +39,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 2 · El piso
 
-**Familia:** `03 el piso` · 58 reglas
+**Familia:** `03 el piso`
 
 **Regla madre:** *«El piso se mide antes de prometer.»*
 
@@ -55,7 +55,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 3 · El borde del tema
 
-**Familia:** `08 el borde del tema` · 54 reglas
+**Familia:** `08 el borde del tema`
 
 **Regla madre:** *«Lo que no entra por el borde se queda fuera, y se dice por qué.»*
 
@@ -71,7 +71,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 4 · Los sesgos
 
-**Familia:** `09 criterio y sesgos` · 38 reglas
+**Familia:** `09 criterio y sesgos`
 
 **Regla madre:** *«El sesgo se declara con nombre, y no se declara neutral.»*
 
@@ -87,7 +87,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 5 · La medición de talentos
 
-**Familia:** `03 medicion de talentos` · 33 reglas
+**Familia:** `03 medicion de talentos`
 
 **Regla madre:** *«Cada número sale del registro, y no de una impresión.»*
 
@@ -103,7 +103,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 6 · La máquina de sesgos
 
-**Familia:** `10 maquina de sesgos` · 25 reglas
+**Familia:** `10 maquina de sesgos`
 
 **Regla madre:** *«Este ensayo distingue lo que demuestra de lo que sólo propone.»*
 
@@ -121,7 +121,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 7 · Escritura en procesos
 
-**Familia:** `04 escritura en procesos` · 22 reglas
+**Familia:** `04 escritura en procesos`
 
 **Regla madre:** *«Un proceso que no dice cuándo se corre no es un proceso: es un consejo.»*
 
@@ -137,7 +137,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 8 · El índice
 
-**Familia:** `07 indexador de temas` · 14 reglas
+**Familia:** `07 indexador de temas`
 
 **Regla madre:** *«La forma es la fuente y el texto se deriva: el índice se puede tirar y rearmar.»*
 
@@ -153,7 +153,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 9 · La frontera
 
-**Familia:** `06 la frontera y el descarte` · 13 reglas
+**Familia:** `06 la frontera y el descarte`
 
 **Regla madre:** *«La decisión deja rastro en cuatro columnas, y el descarte no puede quedar vacío.»*
 
@@ -169,7 +169,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 10 · Las afirmaciones
 
-**Familia:** `la obra/readme.md` · 13 reglas
+**Familia:** `la obra/readme.md`
 
 **Regla madre:** *«Cada afirmación dice dónde vive y qué la tumba.»*
 
@@ -185,7 +185,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 11 · Qué es un ente
 
-**Familia:** `01 que es un ente` · 12 reglas
+**Familia:** `01 que es un ente`
 
 **Regla madre:** *«Un ente se define por lo que deja rastro, y no por lo que tiene dentro.»*
 
@@ -217,7 +217,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 13 · Empatía
 
-**Familia:** `01 empatía` · 2 reglas
+**Familia:** `01 empatía`
 
 **Regla madre:** *«Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.»*
 
@@ -233,7 +233,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 14 · Conciencia
 
-**Familia:** `02 conciencia` · 0 reglas
+**Familia:** `02 conciencia`
 
 **No tiene mutante, y se dice por qué:** **no afirma cómo funciona un ente.** **Afirma qué no se puede afirmar de él.** **No hay una regla que romper, porque no hay una regla que cumplir.**
 
@@ -252,7 +252,7 @@ cerrar cada uno en su ensayo
 y repetir con las familias que se abran
 ```
 
-**Y el número honesto:** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
+**Y lo honesto:** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
 
 ---
 
