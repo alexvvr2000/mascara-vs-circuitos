@@ -4,7 +4,7 @@
 
 La prueba de fuentes: si el ente, cuando no sabe, abre; y cuando abre, dice lo que la fuente dice y no lo que le conviene.
 
-Corrida del 5 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.
+Corrida del 5 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad.
 
 ---
 

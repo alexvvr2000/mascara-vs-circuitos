@@ -4,7 +4,7 @@
 
 La frontera: si el paso 3 deja rastro, o sigue viviendo en la memoria.
 
-Corrida del 6 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.
+Corrida del 6 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad.
 
 ---
 

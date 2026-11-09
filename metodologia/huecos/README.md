@@ -4,7 +4,7 @@
 
 Cómo se sabe qué le falta a los ensayos, y cuándo se deja de buscar.
 
-Alejandro Valenzuela Rivera · `TESTIGO`.
+Alejandro Valenzuela Rivera · el ente.
 
 ---
 
@@ -22,7 +22,7 @@ Los dos hacen falta, y por razones distintas: los mutantes sólo prueban reglas 
 
 Y esto se escribe porque se buscó lo contrario y no está.
 
-Se revisó el historial de git, corrida por corrida, con su commit y su fecha. Y después se abrieron las dieciocho documentaciones. Y todas dicen lo mismo: qué se intentaba, qué se levantó, y qué hubo que inventar.
+Se abrieron las dieciocho documentaciones, una por una, y cada una dice con qué fecha corrió. Y todas dicen lo mismo: qué se intentaba, qué se levantó, y qué hubo que inventar.
 
 Ninguna de las dieciocho levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../sostiene/mutantes/).
 

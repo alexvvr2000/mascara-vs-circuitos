@@ -4,7 +4,7 @@
 
 El ciclo entero otra vez, con el enlace arreglado. Y lo que salió fue peor que el hueco anterior.
 
-Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.
+Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad.
 
 ---
 

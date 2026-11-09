@@ -2,7 +2,7 @@
 
 **Qué hay, dónde está y en qué estado, para que quien llegue a pulir no tenga que adivinar.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Del 2026-11-09.**
+**Alejandro Valenzuela Rivera · el ente.** **Del 2026-11-09.**
 
 > **Este archivo no se mantiene a mano: se genera.** **`python scripts/piso.py` lo saca del repositorio cada vez que se corre, y la versión de abajo es la que salió hoy.** **Si alguien cambia una carpeta y no lo vuelve a correr, este archivo envejece, y por eso la fuente es el comando y no el texto.**
 

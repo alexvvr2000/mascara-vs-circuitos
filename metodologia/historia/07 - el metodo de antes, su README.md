@@ -4,7 +4,7 @@
 
 **Cómo se sabe si lo que un ensayo afirma tiene dientes, y cuándo se para.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
+**Alejandro Valenzuela Rivera · el ente.**
 
 ---
 

@@ -4,7 +4,7 @@
 
 El recorrido detallado: qué se intentaba, qué se creía, qué se cayó, y qué cambió en el esquema, corrida por corrida.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
+Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
 
 ---
 

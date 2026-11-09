@@ -4,7 +4,7 @@
 
 El mecanismo que quedó de la práctica: los comandos, el orden, y lo que se escribe en cada momento.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
+Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
 
 ---
 

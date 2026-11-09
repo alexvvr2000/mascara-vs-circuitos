@@ -4,7 +4,7 @@
 
 **Los que se escribieron, y qué rompe cada uno** — **Los que se escribieron y se corrieron, uno por familia del ciclo del ente.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
+**Alejandro Valenzuela Rivera · el ente.**
 
 ---
 

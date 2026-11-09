@@ -6,7 +6,7 @@
 
 **Eran tres páginas: la jerarquía, la tabla de inclusión, y las familias.** **Las tres contestan lo mismo —cuántas reglas hay y cómo se prueban—, y separarlas obligaba a saltar de una a otra para entender una sola cosa.** **Ahora es una.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
+**Alejandro Valenzuela Rivera · el ente.**
 
 ---
 

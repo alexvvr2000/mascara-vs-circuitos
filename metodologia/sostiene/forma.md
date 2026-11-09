@@ -4,7 +4,7 @@
 
 Qué tiene que tener un ensayo para que se pueda leer, citar, partir y engordar sin que nadie vuelva a numerar nada.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-09.
+Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-09.
 
 > Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: se ajustan con [scripts/build.py](../../scripts/build.py), que es el que dice si un ensayo la cumple.
 >
@@ -43,7 +43,7 @@ lo que hay hoy   01 que es un ente.md  →  «# 01. Qué es un ente»
 lo que queda     que es un ente.md     →  «# Que es un ente»
 ```
 
-Y el número de orden no desaparece: se deriva. Ordena el nombre del archivo, y el que inserta escribe `02 ` delante y corre los demás. Eso es un renombrado de archivos, no una edición de texto, y se hace con `git mv`, en su commit, y se puede ver en el historial.
+Y el número de orden no desaparece: se deriva. Ordena el nombre del archivo, y el que inserta escribe `02 ` delante y corre los demás. Eso es un renombrado de archivos, y no una edición de texto: quien lo hace ve el cambio en su copia, y el lector de la versión publicada ve el orden, sin necesitar un historial que aquí no hay.
 
 Y lo que se gana, que es lo único que importa:
 

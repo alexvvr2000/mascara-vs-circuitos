@@ -2,7 +2,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-La investigación completa, medida donde se pudo medir. Hecha por `TESTIGO` el 2026-11-08, con la documentación del motor abierta y la base instalada.
+La investigación completa, medida donde se pudo medir. Hecha el 2026-11-08, con la documentación del motor abierta y la base instalada.
 
 ---
 

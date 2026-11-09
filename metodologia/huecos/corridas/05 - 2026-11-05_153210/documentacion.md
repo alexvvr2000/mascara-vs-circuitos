@@ -4,7 +4,7 @@
 
 La quinta corrida. Y la primera que prueba la cuarta salida: «no es de este tema».
 
-Levantado: 2026-11-05, 15:32. Por: `TESTIGO`.
+Levantado: 2026-11-05, 15:32. Por: el ente.
 Frase del dueño: *«vamos con la siguiente corrida»*
 
 ---
@@ -76,7 +76,7 @@ No probé el `se pregunta` de verdad: no hay una autoridad que conteste. El cód
 
 No probé la supersesión, ni la reconstrucción del índice. Esta corrida fue solo la cuarta salida y el doble medio. El §X del ensayo (reconstrucción) sigue sin correr.
 
-Y no probé que otro lo levante sin mí. Sigue siendo `TESTIGO` levantando el ente con las manos en el teclado.
+Y no probé que otro lo levante sin mí. Sigue siendo el ente levantando el ente con las manos en el teclado.
 
 ---
 

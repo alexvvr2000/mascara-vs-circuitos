@@ -2,7 +2,7 @@
 
 **Cada corrida de la serie, en orden: qué intentaba, qué se cayó, y qué la abrió.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.**
+**Alejandro Valenzuela Rivera · el ente.** **Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.**
 
 ---
 

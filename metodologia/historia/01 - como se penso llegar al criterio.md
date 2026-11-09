@@ -2,7 +2,7 @@
 
 **El recorrido de las dieciocho corridas, con lo que se creía en cada una y lo que se dejó de creer.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08.**
+**Alejandro Valenzuela Rivera · el ente.** **Escrito el 2026-11-08.**
 
 ---
 

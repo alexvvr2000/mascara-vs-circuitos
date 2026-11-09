@@ -4,13 +4,13 @@
 
 Qué hay antes de este trabajo, en cada campo que toca, y qué le falta a cada uno. Con su fuente, y con la fecha en que se abrió.
 
-Hecho por `TESTIGO` con búsquedas en el registro público, el 2026-11-08. Su autor no leyó las fuentes una por una.
+Hecho con búsquedas en el registro público, el 2026-11-08. Su autor no leyó las fuentes una por una.
 
 Y eso se dice antes de leer nada, porque cambia lo que esta página es: es una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura. Lo que sigue está escrito con esa advertencia encima.
 
 ## Y lo que esta página no es: no es la genealogía de este trabajo
 
-Las conclusiones de este repositorio no salieron de estas fuentes. Salieron de un debate, y de pura lógica. El origen está contado en [ATTRIBUTION.md](../../ATTRIBUTION.md).
+Las conclusiones de este repositorio no salieron de estas fuentes. Salieron de un debate, y de pura lógica. El origen está contado en [Attribution.md](../../Attribution.md).
 
 Estas fuentes están aquí por respeto, y no como herencia. Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.
 
@@ -272,7 +272,7 @@ Nick Carr              el efecto que se le atribuye a la pantalla no tiene medic
 
 Y lo que esto significa, dicho sin rodeos: las columnas de «qué guarda» salen de los resúmenes; la de «qué le falta» es lectura de este trabajo, y no un resultado medido.
 
-Y falta el renglón que importa: ninguna de estas fuentes la leyó el autor de este repositorio. Las buscó `TESTIGO`, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes. Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.
+Y falta el renglón que importa: ninguna de estas fuentes la leyó el autor de este repositorio. Las buscó un agente, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes. Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.
 
 ---
 

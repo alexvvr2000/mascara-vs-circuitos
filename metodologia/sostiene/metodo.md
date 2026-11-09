@@ -4,7 +4,7 @@
 
 Cómo se prueba una regla de estos ensayos: la regla, el mutante, la tarea que lo corre, el banco donde queda, el resultado que se apunta, y de dónde salió cada pieza.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-09.
+Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-09.
 
 Y el corte entre este archivo y [forma.md](forma.md), que es de un renglón: `forma.md` dice qué forma tiene un ensayo y cómo la comprueba el build. Éste dice cómo se prueba lo que el ensayo afirma. Se necesitan los dos: sin forma, el mutante no sabe qué romper; sin método, la forma sólo dice que el texto está bien escrito.
 
@@ -547,7 +547,7 @@ Y esta tabla es lo que estaba repartido en `los papeles/estado del arte/`: aquí
 
 Y lo que estas fuentes NO dicen, y se apunta: ninguna dice cuándo una descripción está completa. Todas dicen cuándo se ha probado suficiente, que es otra cosa, y es la única que se puede decir.
 
-Y el límite de esta tabla, que el estado del arte ya decía y aquí vale igual: las fuentes de este método no las leyó el autor una por una. Las buscó `TESTIGO` en resúmenes. `Popper` y `Lakatos` se toman por su forma, sin una página. Un método que cita así no está respaldado por la literatura: está contrastado con su forma.
+Y el límite de esta tabla, que el estado del arte ya decía y aquí vale igual: las fuentes de este método no las leyó el autor una por una. Las buscó el ente en resúmenes. `Popper` y `Lakatos` se toman por su forma, sin una página. Un método que cita así no está respaldado por la literatura: está contrastado con su forma.
 
 ---
 

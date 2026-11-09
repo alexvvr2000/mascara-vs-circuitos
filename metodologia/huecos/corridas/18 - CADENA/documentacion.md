@@ -4,7 +4,7 @@
 
 El ciclo entero, con la corrección como enlace. Y lo que salió: la corrección se puede borrar y reescribir, y el rechazo no.
 
-Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
+Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
 
 ---
 

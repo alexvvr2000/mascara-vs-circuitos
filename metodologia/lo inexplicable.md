@@ -4,7 +4,7 @@
 
 Una herramienta para cualquiera que persiga algo que no se termina — el criterio, la identidad, la belleza, la justicia — y necesite una forma de decir cuánto le falta.
 
-Alejandro Valenzuela Rivera · `TESTIGO`.
+Alejandro Valenzuela Rivera.
 
 ---
 

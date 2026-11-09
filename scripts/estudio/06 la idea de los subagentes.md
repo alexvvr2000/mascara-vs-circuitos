@@ -4,7 +4,7 @@
 
 La última idea de la serie, cuando la cuenta de lo que falta se puso en números: la mitad sirvió y la mitad no.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
+Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-08, en cuaderno aparte el 2026-11-09.
 
 ---
 

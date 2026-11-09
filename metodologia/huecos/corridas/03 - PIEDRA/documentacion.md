@@ -4,7 +4,7 @@
 
 La tercera vuelta. Y esta encontró que lo que había escrito en la anterior no funcionaba.
 
-Levantado: 2026-11-05, 12:20. Por: `TESTIGO`.
+Levantado: 2026-11-05, 12:20. Por: el ente.
 Frase del dueño: *«no pararemos hasta que digas "el ente esta perfecto"»*
 
 ---

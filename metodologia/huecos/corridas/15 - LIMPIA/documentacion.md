@@ -4,7 +4,7 @@
 
 El ciclo entero con los dos huecos de la 14 cerrados, y dos casos nuevos: la autoridad dice no, y un supuesto se rompe.
 
-Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
+Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
 
 ---
 

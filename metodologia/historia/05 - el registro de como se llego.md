@@ -2,7 +2,7 @@
 
 **Todo lo que se hizo para llegar al resultado, en orden, con fecha, y con lo que no salió.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **2026-11-08.**
+**Alejandro Valenzuela Rivera · el ente.** **2026-11-08.**
 
 ---
 
@@ -67,7 +67,7 @@ corridas 5 y 6   CERO
 
 **Qué pasó:** **las tres dejaron dos o tres detalles cada una, todos de contenido.**
 
-**Y el arreglo del banco de `TESTIGO`, con su error:** **`ALTER TABLE ... ADD COLUMN ... DEFAULT` rellenó los 221 hechos viejos de un golpe.** **Se restauró el respaldo y se agregó la columna sin `DEFAULT`.**
+**Y el arreglo del banco de el ente, con su error:** **`ALTER TABLE ... ADD COLUMN ... DEFAULT` rellenó los 221 hechos viejos de un golpe.** **Se restauró el respaldo y se agregó la columna sin `DEFAULT`.**
 
 **Lo que se aprendió:** **el valor por omisión va en el que escribe, no en el esquema, porque el esquema se lo pone también a lo que ya estaba.**
 

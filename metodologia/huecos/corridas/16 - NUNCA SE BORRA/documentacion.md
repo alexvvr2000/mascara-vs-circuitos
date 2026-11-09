@@ -4,7 +4,7 @@
 
 El ciclo entero, con el no como registro que no se puede borrar. Y lo que salió: el esquema entero depende de una instrucción que no es suya.
 
-Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
+Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad. Cuerpo: `DeepSeek V4.1 Flash`, por `OpenCode Go`.
 
 > Y esta corrida deja una cosa que no va al ensayo. Lo del esquema que depende de prender las llaves es del stack, no del ente: en otro stack eso no existe, o existe de otra forma. Va aquí, en la documentación, y no a `la obra/`. Lo que sí fue al ensayo es lo que no nombra ninguna herramienta: que rechazar no puede depender de que quien llega se acuerde de algo.
 

@@ -2,7 +2,7 @@
 
 **Cómo se llegó a lo que hoy está en la obra: qué se creía, qué se cayó, y qué lo obligó a cambiar.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.**
+**Alejandro Valenzuela Rivera · el ente.**
 
 ---
 

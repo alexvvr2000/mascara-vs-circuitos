@@ -4,7 +4,7 @@
 
 Dos métodos, y cada uno contesta una pregunta distinta. Y ninguno de los dos tiende al infinito.
 
-Alejandro Valenzuela Rivera · `TESTIGO`.
+Alejandro Valenzuela Rivera.
 
 ---
 

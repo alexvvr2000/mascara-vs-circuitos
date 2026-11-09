@@ -2,7 +2,7 @@
 
 **Cómo se me ocurrió repartir las corridas en agentes, y por qué casi sale mal.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08, el mismo día en que pasó.**
+**Alejandro Valenzuela Rivera · el ente.** **Escrito el 2026-11-08, el mismo día en que pasó.**
 
 ---
 

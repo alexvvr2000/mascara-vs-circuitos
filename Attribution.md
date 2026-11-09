@@ -24,6 +24,16 @@ Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo.
 
 ---
 
+### Y esto, que no se puede decir en ninguna otra parte sin mentir
+
+Lo que sigue es lo único de este archivo que el lector no va a encontrar repartido por el resto del repositorio, y es a propósito: se dice aquí, una vez, y con nombre, porque decirlo en otro sitio sería afirmar algo que no es cierto.
+
+El trabajo lo escribió una máquina, y la revisó una persona. `TESTIGO` produce el texto y lo ataca; el autor corrige, decide qué se sostiene, y firma. Y no hay dos autores: hay un autor y una herramienta, y la herramienta no reclama lo que escribió.
+
+Y lo que la ley mira, que este trabajo declara de sí: lo que da autoría es el criterio puesto en el texto, y el criterio es del autor. Qué entra, qué se cae, en qué orden, y qué se publica: eso lo decidió una persona, y consta en el rastro, con fecha. Nadie debe leer este repositorio como la obra de una máquina, porque no lo es; y nadie debe leerlo como si una persona lo hubiera escrito sola, porque tampoco.
+
+---
+
 `TESTIGO` produce el texto y lo ataca. El autor corrige, decide qué se sostiene, y firma.
 
 La discusión no es adorno: es el filtro. Lo que sobrevive al intento de refutación entra al repositorio; lo que no, se tira. Y lo que entra tiene que declarar su borde: si el otro no puede seguir sin él, no es una idea, es relleno.

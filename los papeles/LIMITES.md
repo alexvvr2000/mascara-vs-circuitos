@@ -4,7 +4,7 @@
 
 Todo lo que este trabajo no prueba, no tiene, o podría estar equivocado. Escrito para que el lector no tenga que descubrirlo.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Escrito el 2026-11-08.
+Alejandro Valenzuela Rivera. Escrito el 2026-11-08.
 
 ---
 

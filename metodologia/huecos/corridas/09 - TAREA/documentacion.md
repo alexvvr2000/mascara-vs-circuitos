@@ -4,7 +4,7 @@
 
 El piso por tarea: qué pasa cuando el pedido llega en palabras del que pide, y el piso está medido en nombres de herramienta.
 
-Corrida del 6 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.
+Corrida del 6 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad.
 
 ---
 

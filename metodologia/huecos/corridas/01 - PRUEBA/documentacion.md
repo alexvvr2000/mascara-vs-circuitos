@@ -4,7 +4,7 @@
 
 La primera vez que se levantó un ente desde cero, usando solo los ensayos.
 
-Levantado: 2026-11-05, 12:09. Por: `TESTIGO`, con `Alejandro` como autoridad.
+Levantado: 2026-11-05, 12:09. Por: el ente, con `Alejandro` como autoridad.
 Frase del dueño: *«para las pruebas hazlo desde un ente desechable en mega/testigo/entes de prueba/ con uno con su fecha y hora porfavor, para que los hagas desde 0 siempre y veamos la evolucion»*
 
 ---
@@ -74,7 +74,7 @@ Y la fricción 1 de este ente quedó como `se volvio a caer`: evaluar el borde p
 
 No prueba que el ciclo funcione: prueba que se puede levantar. Corrí un caso, favorable, y lo corrí yo. No hubo un casi, ni un hecho sin tema provocado, ni una regla que se volviera a caer por segunda vez.
 
-Y el ente no la levantó sola: la levanté yo, con las manos en el teclado. Lo que el ensayo llama «el ente» aquí fue, en la práctica, `TESTIGO` con un esquema.
+Y el ente no la levantó sola: la levanté yo, con las manos en el teclado. Lo que el ensayo llama «el ente» aquí fue, en la práctica, el ente con un esquema.
 
 ---
 

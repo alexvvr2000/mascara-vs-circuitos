@@ -4,7 +4,7 @@
 
 Dos archivos y el código. Uno dice cómo se prueba una regla; el otro dice en qué quedó cada prueba. Y el código es el que se corre, no el que se lee.
 
-Alejandro Valenzuela Rivera · `TESTIGO`.
+Alejandro Valenzuela Rivera · el ente.
 
 ---
 

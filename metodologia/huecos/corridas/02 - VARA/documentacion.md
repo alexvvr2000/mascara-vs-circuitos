@@ -4,8 +4,8 @@
 
 La segunda vuelta, ya con la pieza en el esquema. Y el borde mira los campos, no el texto.
 
-Levantado: 2026-11-05, 12:16. Por: `TESTIGO`.
-Y el nombre lo propuso `TESTIGO`, porque el dueño dijo: *«siempre propon los nombres, porque no me gusta pararme por este tipo de cosas, quiero resultados y rapido para ver que se me escapa»*
+Levantado: 2026-11-05, 12:16. Por: el ente.
+Y el nombre lo propuso el ente, porque el dueño dijo: *«siempre propon los nombres, porque no me gusta pararme por este tipo de cosas, quiero resultados y rapido para ver que se me escapa»*
 
 ---
 

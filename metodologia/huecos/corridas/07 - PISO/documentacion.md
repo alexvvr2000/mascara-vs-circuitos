@@ -4,7 +4,7 @@
 
 El piso: si el ente mide lo que tiene antes de prometer, y dice qué falta en vez de "no pude".
 
-Corrida del 5 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.
+Corrida del 5 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad.
 
 ---
 

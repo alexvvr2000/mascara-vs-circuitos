@@ -4,7 +4,7 @@
 
 El ciclo entero, del primer paso al último, sin recortar. Y el mecanismo que estaba escrito y nunca se había corrido: el piso que crece.
 
-Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` como autoridad.
+Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` como autoridad.
 
 ---
 

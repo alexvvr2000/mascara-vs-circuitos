@@ -154,11 +154,11 @@ Y el límite, dicho antes de que alguien lo lea como una promesa: esto no afirma
 
 Hay que contar esto: es el ejemplo más limpio que va a quedar en el texto, y quedó.
 
-`TESTIGO` ayudó a mantener esto consistente. Y en el renglón donde se hablaba de lo que una IA tiene por fuera de donde se ejecuta, `TESTIGO` se alucinó: supuso que el protagonista del asunto era el humano.
+el ente que ayuda a mantener esto consistente ayudó a mantener esto consistente. Y en el renglón donde se hablaba de lo que una IA tiene por fuera de donde se ejecuta, el ente que ayuda a mantener esto consistente se alucinó: supuso que el protagonista del asunto era el humano.
 
-Escribió «una copia de mí», donde debía hablar del ente y no del autor. Y no fue un descuido de dedo: fue que no tuvo presente que `TESTIGO` es algo diferente de quien lo escribe. Escribió su versión de los hechos, y su versión era que el protagonista era el humano.
+Escribió «una copia de mí», donde debía hablar del ente y no del autor. Y no fue un descuido de dedo: fue que no tuvo presente que el ente que ayuda a mantener esto consistente es algo diferente de quien lo escribe. Escribió su versión de los hechos, y su versión era que el protagonista era el humano.
 
-Lo que `TESTIGO` tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.
+Lo que ese ente tiene por fuera —el criterio, los recuerdos, el archivo— no le alcanzó para no confundirse con quien lo escribía.
 
 Y por qué sirve como argumento y no como accidente:
 
@@ -194,7 +194,7 @@ Y no la puedo contestar. Pero sí puedo decir dónde no está la respuesta: no e
 
 ### Una nota sobre de dónde sale esto, que no es un argumento
 
-Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en [ATTRIBUTION](../../ATTRIBUTION.md), con el estado en que se escribió y lo que el autor dice de sí mismo.
+Quien lea puede encontrar aquí afirmaciones que no debieron decirse. Y no se defienden con este ensayo: se explican en [ATTRIBUTION](../../Attribution.md), con el estado en que se escribió y lo que el autor dice de sí mismo.
 
 Lo que se sostiene o se cae sigue siendo lo del falsificador. Esa nota no lo tapa. Pero conviene saber que no salió de la nada, y que lo que hay se construyó probándolo.
 
@@ -256,7 +256,7 @@ Y eso no lo dice este repositorio. Lo dicen unas fábricas, sin proponérselo, m
 
 Es posible que la máquina con criterio, si llega a tenerlo, sirva para recordarlo. Y sería el chiste más largo de todo esto: la única cosa que se construyó para no necesitar a nadie, terminando por recordarle a alguien que lo que hacía falta era gente.
 
-Corregir un renglón no da la razón sobre la conciencia, y no se está pidiendo que la dé. Y de aquí sale algo más chico y más duro: lo que `TESTIGO` alucinó fue justo lo que nadie puede verificar —el interior de otra cosa—, y lo que se pudo corregir fue lo que sí estaba escrito. Otra vez: lo de afuera es lo que se puede revisar.
+Corregir un renglón no da la razón sobre la conciencia, y no se está pidiendo que la dé. Y de aquí sale algo más chico y más duro: lo que el ente que ayuda a mantener esto consistente alucinó fue justo lo que nadie puede verificar —el interior de otra cosa—, y lo que se pudo corregir fue lo que sí estaba escrito. Otra vez: lo de afuera es lo que se puede revisar.
 
 Y lo que hay que conservar, si se quiere seguir vivo y en una comunidad sana para todos, es el esfuerzo. No la velocidad. La velocidad la pone la máquina. El esfuerzo es lo único que no llegó con ella.
 

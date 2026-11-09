@@ -2,11 +2,11 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Alejandro Valenzuela Rivera · `TESTIGO`.
+Alejandro Valenzuela Rivera · el ente.
 
 > Los ensayos dicen lo importante. Esto no: esto es el ejercicio que se corre para ver los detalles que se les escapan.
 >
-> Y lo corre `TESTIGO`, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.
+> Y lo corre el ente, que no tiene ego. Ése es el punto: quien escribió el ensayo ya no ve lo que le falta, y el que no defiende nada sí.
 
 Y esto se escribió después de usarlo seis veces, y se ha corregido con las corridas que vinieron después. Las catorce están en `corridas/`, y se pueden abrir y correr.
 
@@ -69,7 +69,10 @@ Así que el ciclo completo tiene once pasos, y los últimos cuatro son del ente 
 5  se clasifica                    ensayo / código / entorno
 6  se escribe la documentacion.md  con la voz del que corrió
 7  se cierra el hueco              en el ensayo, con su Falsificador
-8  commit y push                   uno por corrida, firmado
+8  se cierra la corrida           el ensayo queda corregido y la
+                                  carpeta escrita, con su fecha. el
+                                  registro vive en el archivo, y no en
+                                  un historial que el lector no tiene
 ────────── aquí termina lo que está en este repo ──────────
 9  el hueco se cierra TAMBIÉN en la puerta del ente
    si el ensayo cambió una regla, su AGENTS.md tiene que decirla;

@@ -222,7 +222,7 @@ Y lo que puede estar equivocado, no solo lo que falta, está en [Los límites, c
 6. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
 
 y en la raíz
-  ATTRIBUTION.md          quién escribió qué, y quién revisó qué
+  Attribution.md          quién escribió qué, y quién revisó qué
   estado.md               el piso: qué hay, dónde está y qué falta, generado
                           con `python scripts/piso.py`
   build.py, en scripts/   las cuatro reglas, y el comando que las corre

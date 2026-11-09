@@ -4,7 +4,7 @@
 
 Cuántas corridas hay, cuántos mutantes nacen de ellas, cuál murió y cuál no, y qué prueba cada uno.
 
-Alejandro Valenzuela Rivera · `TESTIGO`. Actualizado el 2026-11-08.
+Alejandro Valenzuela Rivera · el ente. Actualizado el 2026-11-08.
 
 > Este es el único sitio del repositorio donde viven estos números. Si otro archivo dice cuántos mutantes hay o cuántos corridos, ese renglón pasa a apuntar aquí, y se dijo en [metodo.md](metodo.md).
 >

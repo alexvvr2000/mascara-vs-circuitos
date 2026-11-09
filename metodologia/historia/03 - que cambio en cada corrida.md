@@ -2,7 +2,7 @@
 
 **Las dieciocho, una por una: qué se intentaba, qué se creía, qué se cayó, y qué cambió en el esquema.**
 
-**Alejandro Valenzuela Rivera · `TESTIGO`.** **Escrito el 2026-11-08.**
+**Alejandro Valenzuela Rivera · el ente.** **Escrito el 2026-11-08.**
 
 ---
 

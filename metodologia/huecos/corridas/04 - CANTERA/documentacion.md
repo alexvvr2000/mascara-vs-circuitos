@@ -4,7 +4,7 @@
 
 La cuarta vuelta, con el mecanismo de lo obvio por primera vez en código.
 
-Levantado: 2026-11-05, 12:28. Por: `TESTIGO`.
+Levantado: 2026-11-05, 12:28. Por: el ente.
 Frase del dueño: *«me encanta la solucion, es como un mecanismo de lo obvio y no obvio»*
 
 ---

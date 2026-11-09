@@ -4,7 +4,7 @@
 
 El ciclo entero, con los casos que ninguna corrida había tocado: dos tareas que se solapan, dos autoridades, un propósito sin criterio de cierre, y el piso roto.
 
-Corrida del 8 de noviembre de 2026. `TESTIGO`, con `Alejandro Valenzuela Rivera` y `Luis Ángel Gutiérrez Rodríguez` como autoridades.
+Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` y `Luis Ángel Gutiérrez Rodríguez` como autoridades.
 
 ---
 
