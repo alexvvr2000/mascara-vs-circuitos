@@ -236,6 +236,46 @@ Lo que este ensayo NO hace: no se presenta como un resultado que reemplace a los
 
 ---
 
+## XII. Los pasos del índice, en forma de proceso
+
+### Abrir un tema
+
+**Se corre:** cuando entra algo que no cae en ningún tema vigente, y no antes.
+**Entra:** el nombre del tema y su borde, con sus tres partes: quién evalúa, qué entra y qué no entra.
+**Sale:** el tema, con su fecha de nacimiento.
+**Lo consume:** el paso 2 del ciclo, que recorre el grafo.
+**La búsqueda:** se busca en los temas vigentes si alguno ya lo cubre. Si lo cubre, no se abre otro.
+**Y si no encuentra:** si no hay tema que cubra la pieza, se abre uno nuevo, y se dice que el índice creció.
+**Falla si:** se abre un tema sin borde, o se abre uno que ya existe con otro nombre.
+**Falsificador:** un tema sin borde presentado como tema: es una intención, y se traga lo que no encaja.
+**Y qué se pierde si cambia:** sin borde, el tema no se puede consultar, y el índice se vuelve un cajón de sastre.
+
+### Relacionar dos temas
+
+**Se corre:** cuando dos temas se tocan sin que uno contenga al otro, y se ve.
+**Entra:** los dos temas, y el tipo de relación: contiene, asocia, o supera.
+**Sale:** la relación con su fecha.
+**Lo consume:** la consulta del índice, que recorre por aristas y no por palabras.
+**La búsqueda:** se mira si ya existe la relación antes de crearla.
+**Y si no encuentra:** si no hay relación que declarar, no se crea. Un tema solo es un tema, no un nodo huérfano.
+**Falla si:** se relaciona un tema consigo mismo, o se crea una relación que se puede expresar con las tres.
+**Falsificador:** un índice con más de tres tipos de relación sin justificar la cuarta.
+**Y qué se pierde si cambia:** sin las aristas, el índice deja de ser un grafo y pasa a ser una lista, y no se puede preguntar por dónde se llega de un tema a otro.
+
+### Superar un tema
+
+**Se corre:** cuando un tema deja de mandar, porque se partió, se fusionó, o cambió.
+**Entra:** el tema viejo, el nuevo, la fecha, la razón, y qué se pierde con el cambio.
+**Sale:** la supersesión, y el viejo marcado, sin borrarse.
+**Lo consume:** quien lea el índice dentro de un año, y el paso 2, que sólo recorre los vigentes.
+**La búsqueda:** se busca qué reportaba el tema viejo, para poder decir qué deja de caber.
+**Y si no encuentra:** si no se puede nombrar qué se pierde, no fue un cambio: fue una sustitución, y no se hace.
+**Falla si:** el tema viejo se borra, o la supersesión no lleva su qué se pierde.
+**Falsificador:** una supersesión sin pérdida nombrada; y un tema viejo que ya no está, porque entonces el cambio no se puede auditar.
+**Y qué se pierde si cambia:** sin la supersesión, el índice no tiene pasado y no se puede decir qué se pensaba cuando se pensó.
+
+---
+
 ## Prueba
 
 ¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue no de no es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?

@@ -139,6 +139,20 @@ Un borde escrito puede verse bien y no servir. Estas son las cuatro formas, y la
 
 ---
 
+## V. El paso 3, en forma de proceso
+
+**Se corre:** después de consultar el índice, y antes de contestar.
+**Entra:** la frase, el tema por el que se entró, y lo que se entendió.
+**Sale:** la decisión, con sus cuatro columnas: `piso_id`, `frontera`, `descartado`, `propuesta_firmada_por`.
+**Lo consume:** el paso 4, que contesta con la decisión y su frontera.
+**La búsqueda:** se consulta el piso, y se mira cómo se cayó antes en esa clase de trabajo.
+**Y si no encuentra:** si el piso no da para lo que se pide, se dice qué falta y se propone lo que sí cabe. No se decide a medias.
+**Falla si:** se decide algo de la lista de lo que propone sin esperar firma; o si `descartado` queda vacío en vez de decir `ninguna`.
+**Falsificador:** un hecho con `frontera = decide` y una firma llena; o con `descartado` vacío donde sí había alternativa.
+**Y qué se pierde si cambia:** si la decisión deja de apuntarse, se pierde la única parte del ciclo que se puede examinar, y el registro no puede explicar por qué no se hizo lo otro.
+
+---
+
 ## Prueba
 
 **¿Cada hecho dice en qué frontera quedó, o hay que adivinarlo del texto? ¿Un hecho con `frontera = decide` y firma llena fue rechazado, o el esquema lo aceptó? ¿El `descartado` distingue la opción que se dejó ir de «ninguna»? ¿La propuesta sin firma quedó abierta en vez de cerrarse sola? ¿Se puede decir, de cada hecho, qué piso consultó?**

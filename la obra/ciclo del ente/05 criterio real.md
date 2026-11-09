@@ -185,6 +185,46 @@ Falsificador: un cierre con cero fricciones presentado como prueba de que la reg
 
 ---
 
+## VII. Los pasos del criterio, en forma de proceso
+
+### Apuntar el hecho
+
+**Se corre:** al final del ciclo, y no durante.
+**Entra:** la frase literal, lo que se hizo medido, la frontera, y el tema por el que se entró.
+**Sale:** el hecho, con sus trece campos, y los vacíos declarados.
+**Lo consume:** el paso de la corrección, y la autoridad cuando lee el registro.
+**La búsqueda:** la frase no se busca: se copia. Si se busca, se está parafraseando.
+**Y si no encuentra:** si algo no se apuntó, se dice que no se apuntó. Un campo vacío no se rellena con una frase que lo disimula.
+**Falla si:** se apunta lo que no pasó, o se resume en vez de medir.
+**Falsificador:** un campo vacío disimulado con una frase; y un hecho que resume en vez de medir.
+**Y qué se pierde si cambia:** si el hecho deja de ser el hecho y pasa a ser un resumen, el criterio se vuelve una opinión con fecha.
+
+### Apuntar la fricción
+
+**Se corre:** cuando algo se cae, en el momento en que se cae.
+**Entra:** el error, y la razón por la que parecía cierto.
+**Sale:** la fricción con su nombre, su porqué, su señal, y quién la corrigió.
+**Lo consume:** el paso de la corrección, que le añade el desenlace.
+**La búsqueda:** se busca en el banco si ya estaba apuntada, antes de escribir una nueva.
+**Y si no encuentra:** si no se sabe por qué era creíble, no se escribe la fricción: un error tonto no se repite, y el que se repite es el razonable.
+**Falla si:** se escribe sin `por_que_era_creible`, o sin `quien_lo_corrigio`.
+**Falsificador:** una fricción sin razón, y una sin dueño: sin la segunda el criterio se cree propio cuando fue prestado.
+**Y qué se pierde si cambia:** sin la razón, la fricción es un lamento; sin el autor, deja de ser criterio y pasa a ser opinión heredada.
+
+### Apuntar el desenlace
+
+**Se corre:** cada vez que la regla que se cayó vuelve a intentarse, y nunca antes.
+**Entra:** la fricción, y lo que pasó al volver a probarla.
+**Sale:** el desenlace, con uno de tres valores: `cumplida`, `se volvio a caer`, o `no se ha probado`.
+**Lo consume:** el sesgo experimentado del cuerpo, y la autoridad.
+**La búsqueda:** no busca. Espera a que la vida vuelva a pasar por ahí.
+**Y si no encuentra:** si no se ha vuelto a intentar, se escribe `no se ha probado`. Eso no es un hueco: es el dato más honesto del registro.
+**Falla si:** se apunta un desenlace por algo que no se volvió a probar.
+**Falsificador:** una fricción sin desenlace, presentada como si la regla aguantara.
+**Y qué se pierde si cambia:** sin el desenlace, el registro es un diario; y el criterio, que es lo que queda en pie después de caerse, deja de existir.
+
+---
+
 ## Prueba
 
 **¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Cada hecho dice qué se supuso, y en qué quedó ese supuesto? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?**

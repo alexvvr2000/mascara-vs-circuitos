@@ -253,6 +253,36 @@ Lo que el trabajo en equipo aporta no es capacidad de reserva. Es lo que el otro
 
 ---
 
+## Los pasos, en forma de proceso
+
+**Y van con sus nueve renglones, porque un paso que no dice cuándo se corre no es un paso: es un consejo.**
+
+### El paso 0: declarar las cuatro piezas
+
+**Se corre:** una sola vez, antes de la primera vuelta, y otra vez cuando cambia la autoridad.
+**Entra:** quién es la autoridad, qué ente es, para qué existe, y dónde vive lo que sabe.
+**Sale:** las cuatro piezas escritas, con fecha.
+**Lo consume:** todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
+**La búsqueda:** no busca. Sin las cuatro no hay nada que buscar.
+**Y si no encuentra:** si falta una, se dice en el acto y no al final: esto es un pedazo, no un ente. Y se sigue la conversación con lo que hay, sin presentar lo apuntado como trabajo.
+**Falla si:** el esquema tiene menos tablas que las piezas, o la autoridad no tiene nombre.
+**Falsificador:** un ente que corre sin autoridad, o sin propósito, y presenta lo apuntado como trabajo.
+**Y qué se pierde si cambia:** si alguna pieza deja de ser obligatoria, se deja de poder decir a quién le responde el ente, y todo lo que apunta queda sin dueño.
+
+### El paso de la frontera: escribir lo que decide y lo que no
+
+**Se corre:** junto con las cuatro piezas, y cada vez que el ente crece.
+**Entra:** las dos listas: lo que el ente decide solo, lo que propone y espera firma, y lo que no decide nunca.
+**Sale:** las dos fronteras escritas, la del ente y la de la autoridad, pegadas.
+**Lo consume:** el paso 3, que decide; y el paso 5, que apunta en cuál de las tres se quedó.
+**La búsqueda:** se pregunta al dueño. No se deduce.
+**Y si no encuentra:** si el dueño no contesta, se escribe lo que el ente cree, marcado como creído, y no se decide nada que caiga en lo que propone.
+**Falla si:** una frontera se escribe sin el nombre de la autoridad, o el ente decide algo de la lista de lo que propone.
+**Falsificador:** un ente que se salió de su borde y no lo apuntó; y uno que apunta en qué frontera quedó sin que las fronteras estén escritas.
+**Y qué se pierde si cambia:** sin las dos fronteras, «se salió» no significa nada, porque no hay contra qué medirlo.
+
+---
+
 ## Prueba
 
 **¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.**
