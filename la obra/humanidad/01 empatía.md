@@ -1,4 +1,4 @@
-# 02. Empatía
+# 01. Empatía
 
 Por qué batallar en entenderse es mejor que esperar que el otro haga lo que la industria pide.
 Alejandro Valenzuela Rivera.

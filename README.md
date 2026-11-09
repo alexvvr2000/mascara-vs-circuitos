@@ -186,11 +186,11 @@ Los límites, dichos con nombre:
      09  criterio y sesgos      qué es del ente y qué del cuerpo
 
    la obra/humanidad/       LOS QUE NO SE PULEN CON CORRIDAS
-     01  maquina de sesgos      lo que este trabajo no puede probar
-     02  empatía                cómo se entiende antes de pedir
-     03  conciencia             qué hacemos con una palabra que no sabemos definir
-     04  concordia              por qué se alinea con la concordia, y no con la moral
-     05  medicion de talentos   cómo se mide el trabajo de verdad
+     01  empatía                cómo se entiende antes de pedir
+     02  conciencia             qué hacemos con una palabra que no sabemos definir
+     03  concordia              por qué se alinea con la concordia, y no con la moral
+     04  medicion de talentos   cómo se mide el trabajo de verdad
+     05  maquina de sesgos      lo que este trabajo no puede probar
 
 4. metodologia/            EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
      README.md              qué se hace aquí, y dónde se apunta cada cosa
@@ -230,13 +230,13 @@ Son la posición completa. La columna de la derecha dice en cuál de los trece e
 | **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `05` |
 | **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `09` |
 | **5** | Una IA debe escribir en procesos, no en prosa | `04` |
-| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `05` |
+| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `04` |
 | **7** | **Y eso hace accesible la IA con modelos pequeños** | **no vive en un ensayo: es conjetura, y está abajo** |
 | **8** | En el índice, la forma es la fuente y el texto es el derivado | `07` |
-| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `02` |
-| **10** | **La conciencia que se busca adentro no está adentro** | `03` |
-| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `03` |
-| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `01` |
+| **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `01` |
+| **10** | **La conciencia que se busca adentro no está adentro** | `02` |
+| **11** | **El esfuerzo es lo único que no llegó con la máquina** | `02` |
+| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `05` |
 
 La lista completa, con qué sostiene a cada una y qué no afirmo, está en [la obra](./la%20obra/README.md).
 

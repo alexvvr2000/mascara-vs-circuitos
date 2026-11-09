@@ -347,10 +347,10 @@ b) las corridas cambiaron de clase             ← ya no encuentran reglas, sino
 
 | Familia | Dónde vive | Reglas | Por qué no tiene mutante |
 |---|---|---|---|
-| **La medición de talentos** | [`05`](../../la%20obra/humanidad/05%20medicion%20de%20talentos.md) | 33 | mide trabajo hecho, y un mutante no produce trabajo |
-| **La máquina de sesgos** | [`01`](../../la%20obra/humanidad/01%20maquina%20de%20sesgos.md) | 25 | afirma qué no se puede probar |
-| **Empatía** | [`02`](../../la%20obra/humanidad/02%20empatía.md) | 2 | su prueba es una persona contestando una pregunta |
-| **Conciencia** | [`03`](../../la%20obra/humanidad/03%20conciencia.md) | 0 | no afirma cómo funciona un ente |
+| **La medición de talentos** | [`04`](../../la%20obra/humanidad/04%20medicion%20de%20talentos.md) | 33 | mide trabajo hecho, y un mutante no produce trabajo |
+| **La máquina de sesgos** | [`05`](../../la%20obra/humanidad/05%20maquina%20de%20sesgos.md) | 25 | afirma qué no se puede probar |
+| **Empatía** | [`01`](../../la%20obra/humanidad/01%20empatía.md) | 2 | su prueba es una persona contestando una pregunta |
+| **Conciencia** | [`02`](../../la%20obra/humanidad/02%20conciencia.md) | 0 | no afirma cómo funciona un ente |
 
 **Y esto es lo que hay:** **las familias del ciclo del ente son las que la metodología puede pulir.** **Las de humanidad se leen, y no entran en esa cuenta.**
 
