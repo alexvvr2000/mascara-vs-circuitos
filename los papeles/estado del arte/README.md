@@ -5,31 +5,29 @@
 
 Qué hay antes de este trabajo, en cada campo que toca, y qué le falta a cada uno. Con su fuente, y con la fecha en que se abrió.
 
-Hecho con búsquedas en el registro público, el 2026-11-08. Su autor no leyó las fuentes una por una.
+Hecho con búsquedas en el registro público, el 2026-11-08. Ninguna fuente se leyó una por una.
 
-Eso se dice antes de leer nada, porque cambia lo que esta página es: es una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura. Lo que sigue está escrito con esa advertencia encima.
+Eso se dice antes de leer nada, porque define lo que esta página es: una comparación de resúmenes, hecha por una máquina, y no una revisión de literatura. Lo que sigue está escrito con esa advertencia encima.
 
-## Y lo que esta página no es: no es la genealogía de este trabajo
+## Lo que esta página no es
 
-Las conclusiones de este repositorio no salieron de estas fuentes. Salieron de un debate, y de pura lógica. El origen está contado en [Attribution.md](../../Attribution.md).
+No es la genealogía de este trabajo. Las conclusiones del repositorio salieron de un debate y de pura lógica, contado en [Attribution.md](../../Attribution.md), y no de estas fuentes.
 
-Estas fuentes están aquí por respeto, y no como herencia. Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.
+Estas fuentes están aquí por respeto, y no como herencia: hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.
 
-Y de ahí sale una consecuencia, y es la que manda sobre todo lo demás:
+De ahí sale la consecuencia que manda sobre todo lo demás:
 
 > Si alguna de estas fuentes está resumida mal, el error es de esta página y no de su autor. La corrección se agradece, y se hace con su aviso.
 
-No se retiran fuentes por prudencia. Se dejan, y se corrige lo que esté mal. Quitar una para no comprometerse haría lo contrario de lo que este apartado busca.
+Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca: se corrigen, y se quedan.
 
 ---
 
 ## Para qué existe este documento
 
-Porque una propuesta metodológica sin genealogía parece inventada, y no lo está. Aquí se dice qué hay antes, qué se toma de ahí, y dónde este trabajo se separa.
+Porque una propuesta metodológica sin genealogía parece inventada, y no lo está: aquí se dice qué hay antes, qué se toma de ahí, y dónde este trabajo se separa.
 
-Porque este trabajo no es de un solo campo. No es una propuesta sobre agentes: es una propuesta sobre cómo se mide el trabajo, cómo se escribe un proceso, cómo se comprueba una prueba, dónde vive el criterio, y qué queda escrito cuando alguien quiere seguir sin su autor.
-
-Así que el documento está partido en lo que el repositorio de verdad toca, y no en lo que suena científico.
+Y porque este trabajo no es de un solo campo. No es una propuesta sobre agentes, sino sobre cómo se mide el trabajo, cómo se escribe un proceso, cómo se comprueba una prueba, dónde vive el criterio, y qué queda escrito cuando alguien quiere seguir sin su autor. Por eso el documento se parte en lo que el repositorio de verdad toca, y no en lo que suena científico.
 
 ---
 
