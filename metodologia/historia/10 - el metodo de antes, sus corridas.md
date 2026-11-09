@@ -1,6 +1,6 @@
 **Archivo guardado tal como estaba el 2026-11-08, antes de que esta carpeta se quitara.** **Lo que decía vive hoy, y unido, en [`../sostiene/metodo.md`](../sostiene/metodo.md); el conteo de las corridas, en [`../sostiene/corridas.md`](../sostiene/corridas.md); y los bancos, en [`../sostiene/mutantes/_dumps/`](../sostiene/mutantes/_dumps/).**
 
-# Corridas del método B
+# El método de antes, sus corridas
 
 **Cuáles se corrieron, y en qué quedaron. Y el número no vive aquí: vive en [`../corridas.md`](../sostiene/corridas.md).**
 

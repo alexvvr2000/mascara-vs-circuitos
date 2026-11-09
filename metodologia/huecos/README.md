@@ -26,7 +26,7 @@ Se revisó el historial de git, corrida por corrida, con su commit y su fecha. Y
 
 Ninguna de las dieciocho levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../sostiene/mutantes/).
 
-Y hay cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15— , y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
+Y hay cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15—, y no por eso dejan de ser de este método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
 
 Lo dice la 14 con estas palabras: «el primer cierre del ciclo dio `no hice: nada`. Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha. Así que se buscaron casos a propósito, y se encontraron tres.»
 

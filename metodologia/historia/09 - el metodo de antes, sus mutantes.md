@@ -1,6 +1,6 @@
 **Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Estas fichas viven hoy en [`../sostiene/metodo.md`](../sostiene/metodo.md) §VIII, y su estado en [`../sostiene/corridas.md`](../sostiene/corridas.md).**
 
-# Los mutantes, uno por familia
+# El método de antes, sus mutantes
 
 **Los que se escribieron, y qué rompe cada uno** — **Los que se escribieron y se corrieron, uno por familia del ciclo del ente.**
 

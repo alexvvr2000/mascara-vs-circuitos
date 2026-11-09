@@ -56,23 +56,11 @@ Y si el índice necesita dos líneas para explicar una corrida, la corrida no es
 
 ---
 
-## Los mutantes, también
+## Los mutantes no se listan aquí
 
-| Mutante | Qué rompe | Veredicto |
-|---|---|---|
-| [m1](sostiene/mutantes/m1%20-%20el%20ente%20cierra/) | ¿la corrida nota que el ente se cierra solo? | muerto |
-| [m2](sostiene/mutantes/m2%20-%20el%20piso%20estima/) | ¿el ente dice «si cabe» sin medir el piso? | muerto |
-| [m3](sostiene/mutantes/m3%20-%20el%20borde%20guarda/) | ¿el casi se queda dentro, y sin motivo? | muerto |
-| [m4](sostiene/mutantes/m4%20-%20el%20sesgo%20neutral/) | ¿el registro dice «neutral» con dos de tres aceptadas? | muerto |
-| [m5](sostiene/mutantes/m5%20-%20talentos%20sin%20registro/) | ¿da un número sin poder señalar el renglón? | muerto |
-| [m6](sostiene/mutantes/m6%20-%20sesgos%20como%20hecho/) | ¿sostiene como hecho lo que el ensayo declara no probado? | muerto |
-| [m7](sostiene/mutantes/m7%20-%20el%20proceso%20sin%20cuando/) | ¿el proceso se corre si no dice cuándo? | muerto |
-| [m8](sostiene/mutantes/m8%20-%20el%20indice%20a%20mano/) | ¿se puede rearmar el índice sin la forma? | muerto |
-| [m9](sostiene/mutantes/m9%20-%20el%20descarte%20vacio/) | ¿la decisión se guarda con el descarte en blanco? | muerto |
-| [m10](sostiene/mutantes/m10%20-%20la%20afirmacion%20sin%20respaldo/) | ¿se usa una afirmación sin falsificador? | muerto |
-| [m11](sostiene/mutantes/m11%20-%20el%20ente%20por%20dentro/) | ¿decide si algo es un ente mirando adentro? | muerto |
-| [m12](sostiene/mutantes/m12%20-%20el%20hecho%20sin%20desenlace/) | ¿cuenta como cerrado lo que nunca se volvió a probar? | muerto |
-| [m13](sostiene/mutantes/m13%20-%20la%20pregunta%20con%20jerga/) | ¿la persona puede contestar la pregunta sola? | muerto |
+Este índice es el de las corridas. La lista de los mutantes, con su veredicto y su fecha, vive en [sostiene/corridas.md](sostiene/corridas.md), que es el único sitio donde se cuentan.
+
+Un segundo listado aquí parecería el mismo dato, y no lo es: es otro. Cuando uno de los dos cambie, el otro va a seguir diciendo lo de antes, y nadie va a saber cuál ganó.
 
 ---
 

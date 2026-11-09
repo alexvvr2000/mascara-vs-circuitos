@@ -1,6 +1,6 @@
 **Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Sus enlaces apuntan a archivos que ya no existen ahí: lo que decían vive en [`../sostiene/metodo.md`](../sostiene/metodo.md), y el conteo en [`../sostiene/corridas.md`](../sostiene/corridas.md).**
 
-# Método B · Ver si se sostiene
+# El método de antes, su README
 
 **Cómo se sabe si lo que un ensayo afirma tiene dientes, y cuándo se para.**
 

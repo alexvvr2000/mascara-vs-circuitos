@@ -29,7 +29,7 @@ Y el más reciente, dicho aquí porque los archivos de `../metodologia/historia/
 
 ## Los dos grupos, y por qué importan
 
-Los trece ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.
+Los ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.
 
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
@@ -155,7 +155,7 @@ Vive en: [`medir sin preguntarle`](humanidad/medir%20sin%20preguntarle.md).
 
 Qué sostiene: que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.
 
-Qué lo sostiene: el teorema de Gödel, que no descalifica la matemática sino la idea de que un sistema de pasos describa todo lo que hay. Y los nueve ensayos anteriores, que son la evidencia de que algo no lineal se puede meter en una base lineal sin perderlo.
+Qué lo sostiene: el teorema de Gödel, que no descalifica la matemática sino la idea de que un sistema de pasos describa todo lo que hay. Y los ensayos anteriores, que son la evidencia de que algo no lineal se puede meter en una base lineal sin perderlo.
 
 Y el estado, que es lo que la hace honesta: no está probado, y lo que se sostiene no es que funcione: es que no se puede descartar.
 
@@ -202,7 +202,7 @@ Esta página no lleva su propia tabla. La prueba de cada afirmación vive en su 
 Y por qué no se repite aquí: una tabla que copia las cuatro pruebas de los ensayos envejece las cuatro veces que cambien, y no añade una prueba: añade una lista. Lo que sí se puede decir aquí, sin tabla, es lo que la tabla no diría:
 
 ```text
-ninguna de estas doce ideas la probó alguien que no sea el autor
+ninguna de estas ideas la probó alguien que no sea el autor
 las que traen corrida tienen su ensayo nombrando cuál y qué salió
 las que no la tienen lo dicen donde se sostienen
 ```

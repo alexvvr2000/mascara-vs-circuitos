@@ -13,7 +13,7 @@ Alejandro Valenzuela Rivera.
 
 > Nota de lectura. Este ensayo cierra la serie porque es el más abstracto de los cinco: en lugar de hablar de qué es un ente o cómo se mide, habla de dónde se guarda lo que sabe y de la forma que tiene ese lugar. Lo que aquí se propone es teoría: no describe ninguna herramienta. Si alguien quiere ver la misma forma aplicada en un sistema concreto, su proyecto anterior del mismo autor la recorre con sus piezas; aquí se dan los principios para que las junte por su cuenta quien lo quiera.
 
-### Cómo se lee este ensayo
+## Cómo se lee este ensayo
 
 Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que correr. Sólo §XI y las Fuentes se pueden saltear, y se leen al citarlo.
 

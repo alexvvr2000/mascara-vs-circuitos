@@ -156,6 +156,31 @@ def regla_numero(p, fallos):
         fallos.append((rel(p), "NUMERO", "cita por numero: '%s'" % m.group(0)))
 
 
+def regla_forma_texto(p):
+    """No falla: mide. Devuelve las fallas de forma que se ven sin leer: espacios
+    de más antes de una coma, encabezados que saltan de nivel, y enlaces a un
+    ancla que no existe. Es lo que se arregla con scripts/forma.py."""
+    texto = open(p, encoding="utf-8").read()
+    fallas = {}
+    dentro = False
+    nivel = 0
+    for l in texto.split("\n"):
+        if l.lstrip().startswith("```"):
+            dentro = not dentro
+            continue
+        if dentro or l.startswith("|") or l.startswith("    "):
+            continue
+        if re.search(r" +[,.;](?=\s|$)", l) and "`" not in l:
+            fallas["espacio antes de signo"] = fallas.get("espacio antes de signo", 0) + 1
+        m = re.match(r"^(#{1,6}) ", l)
+        if m:
+            n = len(m.group(1))
+            if nivel and n > nivel + 1:
+                fallas["encabezado que salta"] = fallas.get("encabezado que salta", 0) + 1
+            nivel = n
+    return fallas
+
+
 def regla_forma(p):
     """No falla: mide. Devuelve (tiene_falsificador, tiene_perdida)."""
     texto = open(p, encoding="utf-8").read()
@@ -248,6 +273,12 @@ def build(lista=False):
             cuenta = regla_persona(p)
             if cuenta:
                 print("    %-58s %s" % (rel(p), " · ".join("%s %d" % kv for kv in sorted(cuenta.items()))))
+        print()
+        print("  y la forma del texto, que se limpia con scripts/forma.py:")
+        for p in ensayos():
+            fallas = regla_forma_texto(p)
+            if fallas:
+                print("    %-58s %s" % (rel(p), " · ".join("%s %d" % kv for kv in sorted(fallas.items()))))
         print()
         print("  y el énfasis, en por ciento de los caracteres que van en negrita:")
         for p in ensayos():

@@ -18,6 +18,8 @@
 
 **Y el orden es de la historia, no de los archivos: se empezó creyendo una cosa, y cada cuaderno deja abierto el siguiente.**
 
+**Y el título de cada uno dice qué cuenta: los seis primeros, cómo se llegó; los cuatro últimos, el método que había antes de unificarse.** **Ninguno lleva número dentro del título, y por eso el nombre del archivo y el primer renglón dicen lo mismo.**
+
 | Qué | Qué cuenta |
 |---|---|
 | **[01 · cómo se pensó llegar al criterio](01%20-%20como%20se%20penso%20llegar%20al%20criterio.md)** | lo que se creía que era llegar, y las tres veces que cambió |
@@ -25,11 +27,11 @@
 | **[03 · qué cambió en cada corrida](03%20-%20que%20cambio%20en%20cada%20corrida.md)** | por qué el recorrido se lee como historia y no como lista |
 | **[04 · cómo se corre una corrida](04%20-%20como%20se%20corre%20una%20corrida.md)** | el mecanismo que quedó: el orden, y la razón de cada paso |
 | **[05 · el registro de cómo se llegó](05%20-%20el%20registro%20de%20como%20se%20llego.md)** | el resumen por épocas, y los errores propios con nombre |
-| **[06 · la idea de los subagentes](06%20-%20la%20idea%20de%20los%20subagentes.md)** | la última idea: la mitad que sirvió, y la que no |
-| **[07 · el README de antes de método](07%20-%20el%20README%20de%20antes%20de%20metodo.md)** | el método como estaba escrito antes de unificarse |
-| **[08 · las reglas de antes de método](08%20-%20las%20reglas%20de%20antes%20de%20metodo.md)** | el conteo de reglas, y la tabla de inclusión, antes de unificarse |
-| **[09 · los mutantes de antes de método](09%20-%20los%20mutantes%20de%20antes%20de%20metodo.md)** | las fichas de los mutantes, antes de unificarse |
-| **[10 · el corridas de antes de método](10%20-%20el%20corridas%20de%20antes%20de%20metodo.md)** | la carpeta de corridas como estaba, antes de unificarse |
+| **[06 · la última idea, de los subagentes](06%20-%20la%20ultima%20idea,%20de%20los%20subagentes.md)** | la última idea: la mitad que sirvió, y la que no |
+| **[07 · el método de antes, su README](07%20-%20el%20metodo%20de%20antes,%20su%20README.md)** | el método como estaba escrito antes de unificarse |
+| **[08 · el método de antes, sus reglas](08%20-%20el%20metodo%20de%20antes,%20sus%20reglas.md)** | el conteo de reglas, y la tabla de inclusión, antes de unificarse |
+| **[09 · el método de antes, sus mutantes](09%20-%20el%20metodo%20de%20antes,%20sus%20mutantes.md)** | las fichas de los mutantes, antes de unificarse |
+| **[10 · el método de antes, sus corridas](10%20-%20el%20metodo%20de%20antes,%20sus%20corridas.md)** | la carpeta de corridas como estaba, antes de unificarse |
 
 **Y el anexo que dice qué de todo esto sigue vigente:** [`lo que sigue vivo dentro de historia`](lo%20que%20sigue%20vivo%20dentro%20de%20historia.md).
 

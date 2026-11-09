@@ -28,7 +28,7 @@ VI    el banco: mínimo, suficiente, y por qué no tiene reglas
 VII   cómo se guarda y cómo se regenera: los dumps ofuscados
 VIII  las familias y la inclusión: una madre, sus hijas, y las tres formas
 IX    cuándo se está terminado, cuándo se para, y qué no cuenta
-X     las seis maneras de engañarse, cada una con su señal
+X     las siete maneras de engañarse, cada una con su señal
 XI    el falsificador de un mutante vivo, y qué se hace con él
 XII   lo que este método no prueba
 XIII  lo que puede estar equivocado, y cómo se sabría
@@ -50,7 +50,7 @@ Y la línea que lo sostiene, y es de la disciplina de mutación:
 
 Y lo que este método sí acaba, y el otro no puede: las reglas se acaban. Cuando cada una tiene su mutante muerto, este método ya no tiene nada que probar. El otro, en cambio, encuentra mientras siga habiendo un caso que no se escribió, y eso no tiene fondo conocido.
 
-### Las cuatro cosas
+## Las cuatro cosas
 
 ```plaintext
 la regla        una frase del ensayo, copiada tal como está, con su renglón
@@ -104,7 +104,7 @@ Y son siete y no cinco, porque los dos que se agregan —la comparación y el ap
    script que lo da. sin el paso 7, el mutante corrió y no consta
 ```
 
-### Por qué la comparación es de dos
+## Por qué la comparación es de dos
 
 Porque un mutante que "muere" contra un ente que ya estaba roto no muere: choca con otra cosa.
 
@@ -172,7 +172,7 @@ Y una advertencia sobre los patrones: `MUTANTE N MUERTO` es prefijo de `MUTANTE 
 
 La tarea es lo que se le pide al ente, en su vocabulario, y lo que sale tiene que poder leerse sin preguntarle a quien lo corrió.
 
-### Las tres cosas que toda tarea dice
+## Las tres cosas que toda tarea dice
 
 ```plaintext
 qué hace        una frase, en imperativo, con el verbo al principio
@@ -217,7 +217,7 @@ Y la pregunta que cierra el capítulo, y es la del ensayo de la empatía: ¿el q
 
 El banco es donde el ente deja lo que hizo. Y en este método el banco no lleva `CHECK`, ni disparadores, ni llaves foráneas.
 
-### Por qué no lleva reglas
+## Por qué no lleva reglas
 
 ```plaintext
 1. las reglas del banco prueban que el esquema rechaza, y eso ya lo probó el
@@ -250,7 +250,7 @@ Y el mínimo se mide por quien lo llena, y no por quien lo escribe: si el ente t
 
 El banco es una salida, y una salida no se guarda como binario. Se guarda como texto, y ofuscada, porque lo que se muestra es el dato y no la máquina.
 
-### Lo que se guarda y lo que se sustituye
+## Lo que se guarda y lo que se sustituye
 
 ```plaintext
 lo que se guarda     la tabla, sus columnas, el número de filas, y los valores
@@ -306,7 +306,7 @@ Y la relación entre los dos se llama inclusión, y viene de la jerarquía de cr
 
 Y por eso no se corre un mutante por regla, que serían cientos. Se corre el madre de cada familia, y lo que sobreviva se abre.
 
-### Las tres formas en que una hija está incluida en su madre
+## Las tres formas en que una hija está incluida en su madre
 
 ```plaintext
 por ámbito     la hija rompe una parte del madre
@@ -368,7 +368,7 @@ Y lo que se hace con la respuesta: si apareció una hija, se escribe, y se apunt
 
 # IX. Cuándo se está terminado, y cuándo se para
 
-### Lo que cuenta como terminado
+## Lo que cuenta como terminado
 
 ```plaintext
 por familia:   su madre corrida, y muerta
@@ -401,7 +401,7 @@ un mutante vive en una tarea que se escribió después de ver la salida
 
 ---
 
-# X. Las seis maneras de engañarse
+# X. Las siete maneras de engañarse
 
 Y estas seis no son teoría: son las que aparecieron corriendo los trece, y las que el propio repositorio se encontró en sus otras dieciocho corridas.
 
@@ -483,7 +483,7 @@ Un mutante muerto dice que el ensayo notó esa rotura. No dice que el ensayo no 
 
 Y lo que la cobertura sí dice, y no más: la cobertura es un piso y no un techo.
 
-### Las cuatro cosas que quedan fuera, y por qué
+## Las cuatro cosas que quedan fuera, y por qué
 
 ```plaintext
 la conducta con un modelo que no se probó

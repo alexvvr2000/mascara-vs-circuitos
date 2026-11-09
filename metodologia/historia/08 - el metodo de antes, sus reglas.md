@@ -1,6 +1,6 @@
 **Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Lo que sigue vive hoy en [`../sostiene/metodo.md`](../sostiene/metodo.md) (el cómo, §VIII) y en [`../sostiene/corridas.md`](../sostiene/corridas.md) (el conteo).**
 
-# Las reglas: cuántas hay, cómo se agrupan, y por qué se prueba una por familia
+# El método de antes, sus reglas
 
 **De dónde sale este archivo, y qué se hizo con él:**
 
