@@ -1,0 +1,41 @@
+version = 1
+
+# Las 182 piezas del repo, declaradas por su glob, sin una cabecera por archivo.
+# La fuente es la de REUSE: `REUSE.toml` declara lo que la cabecera diría, y con
+# `precedence = "override"` manda sobre cualquier cabecera que quede dentro.
+
+# El texto va con CC BY 4.0.
+[[annotations]]
+path = [
+    "la obra/**/*.md",
+    "metodologia/**/*.md",
+    "los papeles/**/*.md",
+    "implementacion/**/*.md",
+    "Attribution.md",
+    "README.md",
+    "LICENSES.md",
+    "estado.md",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+# El código va con Apache 2.0.
+[[annotations]]
+path = [
+    "scripts/**/*.py",
+    "metodologia/**/*.py",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
+SPDX-License-Identifier = "Apache-2.0"
+
+# Los bancos de las corridas son datos guardados en texto, y van con el texto.
+[[annotations]]
+path = [
+    "metodologia/**/corridas/**/*.sql",
+    "metodologia/**/mutantes/**/*.json",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
+SPDX-License-Identifier = "CC-BY-4.0"
