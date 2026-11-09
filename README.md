@@ -186,10 +186,10 @@ Los límites, dichos con nombre:
      09  criterio y sesgos      qué es del ente y qué del cuerpo
 
    la obra/humanidad/       LOS QUE NO SE PULEN CON CORRIDAS
-     10  maquina de sesgos      lo que este trabajo no puede probar
+     10  medicion de talentos   como se mide el trabajo de verdad
      11  empatía                cómo se entiende antes de pedir
      12  conciencia             qué hacemos con una palabra que no sabemos definir
-     13  medicion de talentos   cómo se mide el trabajo de verdad
+     13  maquina de sesgos      lo que este trabajo no puede probar
 
 4. metodologia/            EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
      README.md              qué se hace aquí, y dónde se apunta cada cosa
@@ -229,13 +229,13 @@ Son la posición completa. La columna de la derecha dice en cuál de los trece e
 | **3** | El criterio no se recuerda: se arma, y lo que falta es el desenlace | `05` |
 | **4** | Un ente con varios modelos tiene un criterio y varios sesgos | `09` |
 | **5** | Una IA debe escribir en procesos, no en prosa | `04` |
-| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `13` |
+| **6** | Se decide por costo por resultado exitoso; la varianza es un modo de fallo | `10` |
 | **7** | **Y eso hace accesible la IA con modelos pequeños** | **no vive en un ensayo: es conjetura, y está abajo** |
 | **8** | En el índice, la forma es la fuente y el texto es el derivado | `07` |
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `11` |
 | **10** | **La conciencia que se busca adentro no está adentro** | `12` |
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `12` |
-| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `10` |
+| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `13` |
 
 La lista completa, con qué sostiene a cada una y qué no afirmo, está en [la obra](./la%20obra/README.md).
 

@@ -44,8 +44,8 @@
 
 | Familia | Dónde vive | Reglas | Por qué no tiene mutante |
 |---|---|---|---|
-| **La medición de talentos** | [`13`](../../la%20obra/humanidad/13%20medicion%20de%20talentos.md) | 33 | mide trabajo hecho, y un mutante no produce trabajo |
-| **La máquina de sesgos** | [`10`](../../la%20obra/humanidad/10%20maquina%20de%20sesgos.md) | 25 | afirma qué no se puede probar |
+| **La medición de talentos** | [`10`](../../la%20obra/humanidad/10%20medicion%20de%20talentos.md) | 33 | mide trabajo hecho, y un mutante no produce trabajo |
+| **La máquina de sesgos** | [`13`](../../la%20obra/humanidad/13%20maquina%20de%20sesgos.md) | 25 | afirma qué no se puede probar |
 | **Empatía** | [`11`](../../la%20obra/humanidad/11%20empatía.md) | 2 | su prueba es una persona contestando una pregunta |
 | **Conciencia** | [`12`](../../la%20obra/humanidad/12%20conciencia.md) | 0 | no afirma cómo funciona un ente |
 

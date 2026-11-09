@@ -1,4 +1,4 @@
-# 10. Máquina de sesgos
+# 10. Medición de talentos
 
 **Lo que este trabajo no puede probar, y por qué aun así se publica.**
 

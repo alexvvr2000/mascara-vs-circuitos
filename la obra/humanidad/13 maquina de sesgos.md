@@ -1,4 +1,4 @@
-# 13. Medición de talentos
+# 13. Máquina de sesgos
 
 Cómo saber si un trabajo se hizo de verdad, con números que salen del registro y no de la opinión del que trabajó.
 
@@ -327,60 +327,6 @@ Y su falsificador: una herramienta enormemente capaz que, ante algo que no sabe,
 **¿Cada número sale del registro, o de que alguien se evaluó? ¿Se conoce el costo real, con intentos, corrección y verificación, o solo el precio de la llamada? ¿Hay dos números para la varianza, o un promedio que esconde la cola alta? ¿La caída está contada por su puerta, o solo contada? ¿Cada talento lleva su estado —probado, reportado o sin probar— o hay alguno que se da por bueno sin decirlo? ¿La clase de trabajo tiene nombre fijo, o cada pedido llega con el suyo? ¿Y cuando dos cuerpos hicieron el mismo trabajo, se compararon con el mismo ciclo, o cada uno contó su propia historia?**
 
 ---
-
----
-
-## XI. Los pasos de la medición, en forma de proceso
-
-**Y son cuatro, porque medir no es un acto: es una cadena, y si un eslabón falla, el número no sirve.**
-
-### Nombrar la clase de trabajo
-
-**Se corre:** antes de contar nada, y una sola vez por tipo de trabajo.
-**Entra:** el pedido, tal cual llegó.
-**Sale:** un nombre fijo, que se va a usar igual cada vez que llegue ese mismo trabajo.
-**Lo consume:** el hecho, que lleva la clase; y el conteo, que sin ella no suma.
-**La búsqueda:** se buscan las clases ya nombradas, antes de inventar una nueva.
-**Y si no encuentra:** si no hay clase que corresponda, se nombra una nueva, con las palabras del trabajo y no las del oficio.
-**Falla si:** la clase dice de qué trata en vez de qué se está haciendo; o si el mismo trabajo se nombra distinto cada vez.
-**Falsificador:** una clase de trabajo que cambia de nombre y con eso nunca junta dos hechos.
-**Y qué se pierde si cambia:** sin nombre fijo, cada hecho es único, y no hay dos que se puedan comparar.
-
-### Sacar la cuenta
-
-**Se corre:** cuando hay al menos dos hechos de la misma clase, y nunca antes.
-**Entra:** los hechos de la clase, sus fricciones, y sus desenlaces.
-**Sale:** cuatro conteos, y el costo por resultado verificado.
-**Lo consume:** quien va a decidir si confiarle un paso a ese cuerpo.
-**La búsqueda:** se lee el registro. No se le pregunta al modelo cómo trabaja.
-**Y si no encuentra:** si no hay resultados exitosos verificados, el número no existe, y se dice que no existe. No se divide entre cero ni se presenta un uno disfrazado.
-**Falla si:** los intentos que salieron mal no cuentan, o las correcciones quedan fuera, o se cuentan como exitosos los que no se volvieron a probar.
-**Falsificador:** un cuerpo elegido por su tarifa; un promedio sin percentil alto; y un output que hay que limpiar y no se cuenta en el precio.
-**Y qué se pierde si cambia:** si la corrección deja de contar, el costo sale siempre mejor de lo que es, y el número sirve para justificar una decisión y no para tomarla.
-
-### Contar la caída por su puerta
-
-**Se corre:** cada vez que un desenlace dice que se volvió a caer.
-**Entra:** la fricción, con su señal, y el cuerpo que la produjo.
-**Sale:** un renglón más en la tabla del sesgo experimentado: cuerpo, clase, puerta, cuántas veces, la última vez.
-**Lo consume:** el paso 3 del ciclo, antes de contestar en esa clase.
-**La búsqueda:** se agrupa por señal, y no por tamaño. «Falló tres de cuatro» no dice qué hacer; «falló en lo mismo» sí.
-**Y si no encuentra:** si el cuerpo no se declaró, el renglón va con `no declarado`, y no se rellena con el que se supone.
-**Falla si:** se cuenta «falló» sin decir dónde, o se apunta un renglón por algo que no se volvió a probar.
-**Falsificador:** un cuerpo declarado «malo» sin decir por qué puerta se cayó y cuántas veces.
-**Y qué se pierde si cambia:** sin la puerta, el número no se puede corregir: se sabe que cuesta, y no se sabe qué arreglar.
-
-### Comparar dos cuerpos
-
-**Se corre:** cuando hay dos historias de la misma clase con cuerpos distintos.
-**Entra:** las dos historias: sus cuatro números, y sus puertas.
-**Sale:** dónde se separan, y en qué puerta.
-**Lo consume:** quien va a elegir con qué cuerpo trabajar.
-**La búsqueda:** se elige una clase que ya tenga hechos en los dos cuerpos, y se hace el mismo trabajo.
-**Y si no encuentra:** si un cuerpo tiene cero hechos de esa clase, no es bueno ni malo: es desconocido, y se dice así.
-**Falla si:** se comparan tareas distintas; o se atribuye a la máquina lo que era la tarea.
-**Falsificador:** una comparación entre dos cuerpos hecha con tareas distintas; y un talento aceptado sin haberse intentado refutar.
-**Y qué se pierde si cambia:** si se compara sin la misma tarea, lo que se mide es la tarea y no el cuerpo, y los dos números no dicen nada del cuerpo.
 
 ---
 

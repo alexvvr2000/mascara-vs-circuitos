@@ -117,10 +117,10 @@ ensayo                       reglas
 07 indexador de temas            14
 08 el borde del tema             54
 09 criterio y sesgos             38
-10 maquina de sesgos             25
-01 empatía                        2
-02 conciencia                     0
-03 medicion de talentos          33
+13 maquina de sesgos             25
+11 empatía                        2
+12 conciencia                     0
+10 medicion de talentos          33
 ─────────────────────────────────────
 total                           417
 ```

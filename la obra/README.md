@@ -103,7 +103,7 @@ Qué la tumba: un ensayo en prosa que una IA ejecuta sin rellenar nada. Si eso p
 
 ### 6. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
 
-**Vive en:** [el ensayo 13](humanidad/13%20medicion%20de%20talentos.md).
+**Vive en:** [el ensayo 10](humanidad/10%20medicion%20de%20talentos.md).
 Qué sostiene: un modelo barato que falla tres veces es más caro que el caro que acierta. Se decide por CRE, no por precio de la unidad; se presupuesta con la cola alta, no con la media; y el costo de corrección entra siempre en la cuenta.
 Qué lo sostiene: es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, sin saber nada de su interior.
 Qué la tumba: un trabajo medido por cuánto costó y no por cuánto produjo, que da el mismo resultado. Si pasa, el CRE no está midiendo nada.
@@ -147,7 +147,7 @@ Qué la tumba: un modelo que llega al esfuerzo sin el trabajo. Si pasa, la veloc
 
 ### 12. Máquina de sesgos: lo que no puedo probar
 
-**Vive en:** [el ensayo 10](humanidad/10%20maquina%20de%20sesgos.md).
+**Vive en:** [el ensayo 13](humanidad/13%20maquina%20de%20sesgos.md).
 
 Qué sostiene: que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.
 
