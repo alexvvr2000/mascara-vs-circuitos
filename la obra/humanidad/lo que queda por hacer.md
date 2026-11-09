@@ -111,9 +111,9 @@ Si eso es cierto, lo único que queda por hacer no es resolverlo: es dejar el re
 
 Eso sí se puede hacer desde aquí, y es lo que se hizo.
 
-Porque la información no escasea. Está en todas partes, y el problema nunca fue que faltara: fue que no había manera de guardarla de forma que sirviera a otro.
+La información no escasea: está en todas partes, y el problema nunca fue que faltara, sino que no había manera de guardarla de forma que sirviera a otro.
+De eso trata todo lo demás de este repositorio.
 
-Y de eso trata todo lo demás de este repositorio.
 
 ---
 
