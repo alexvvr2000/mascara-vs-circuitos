@@ -7,6 +7,51 @@ Alejandro Valenzuela Rivera.
 
 ---
 
+Me llamo Alejandro Valenzuela Rivera, y esto lo escribí yo. No hay empresa detrás, ni fondo, ni comité. Hay un tipo con una libreta y una máquina que no se cansa.
+
+Antes de esta pelea pasé dos semanas casi sin dormir, peleándome con una IA sobre la relación entre una persona y lo que la máquina le hace. No discutía con ella. Discutía con lo que yo creía que hacía. Al final de esas dos semanas ya no sabía si lo que había enfrente pensaba o si yo nada más estaba muy cansado.
+
+Lo que sí sé es esto, y va desde el primer renglón: **a la máquina le da igual si el trabajo quedó bien.** No se avergüenza, no se cansa, no se le ocurre que algo pudo quedar mal si el texto ya salió. Y por eso el trabajo que produce se ve entero y no lo está. Ese es el rival de esta pelea, y no dice una palabra.
+
+Del otro lado estoy yo, con el oficio aprendido a madrazos, viendo cómo se vende la comodidad como si fuera talento. Vi a compañeros apagarse. Los vi llegar con miedo de decir que no entendían algo, porque ahora lo que no entiendes se resuelve pidiéndolo otra vez.
+
+Así que no vine a defender que la IA no sirva. **Vine a dejar un registro que se pueda agarrar**, porque todo lo demás ya está dicho con bonito y no se puede revisar. Lo que le puedes pedir a este repositorio no es fe. Es que lo corras, lo tumbes, y te quedes con lo que aguante.
+
+Aquí no hay buenos. Los dos son rudos. Y el que pierde se quita la máscara: la que vende la industria, y la mía, la de creer que yo era el único que no se equivocaba.
+
+---
+
+```plaintext
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+   LUCHA DE APUESTAS
+
+   Esquina derecha: Alejandro Valenzuela Rivera.
+   Esquina izquierda: la industria.
+   En la mesa: máscara contra cabellera.
+
+   Y que quede claro desde el anuncio:
+   aquí no hay buenos. Los dos son rudos.
+
+   De este lado, porque aprendió el oficio a madrazos.
+   Del otro, porque lleva veinte años diciendo
+   que el oficio no existe.
+
+   El que caiga, se quita la máscara y se deja pelón.
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+```
+
+---
+
+> Antes de creerme nada, dos páginas:
+>
+> [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
+>
+> [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, incluidos los ocho errores propios que se encontraron revisando.
+>
+> Y por qué las dos: esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó. Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas. Con el camino a la vista, hay una tercera: revisarlo.
+
 ```plaintext
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -42,11 +87,9 @@ Alejandro Valenzuela Rivera.
 
 ## La apuesta, y de dónde salió esto
 
-Este repositorio salió de una discusión de dos semanas, casi sin dormir, sobre la relación entre una persona y una IA. Y de una queja concreta: ver compañeros desanimados mientras el oficio se hace pasar por un trabajo de niños de kínder.
+De esas dos semanas salieron las afirmaciones de este trabajo, y una que no se puede probar. Lo demás lo puso el cansancio.
 
-De esa discusión salieron las afirmaciones de este trabajo, y una que no se puede probar. De la carrera que sostiene una de ellas, y del cansancio, esto.
-
-Y la apuesta fue entre dos identidades, que es lo que dice el nombre.
+La apuesta fue entre dos identidades, y es lo que dice el nombre.
 
 Lo que se apostó: una persona y una IA, construida con los mecanismos de este repositorio, se vuelven casi indistinguibles una de la otra. No por parecido: por comportamiento. Las dos reciben, deciden, contestan y dejan rastro. Las dos tienen un criterio que se puede revisar, y un cuerpo que se puede cambiar sin perder lo que las hace ser lo que son.
 
@@ -268,13 +311,11 @@ Conjetura con mecanismo, y sin medición.
 
 ## El sótano
 
-Hay un sótano, y no es una metáfora bonita: es el lugar donde siempre estuvo la respuesta.
+Hay un sótano, y el que sabe de qué hablo ya se rió.
 
-Un grupo pasó años atrás de un muro, y todo lo que sabía del mundo era lo que el muro le dejaba ver. El padre de uno de ellos le había dejado una llave, y una sola frase: la respuesta está abajo, en el sótano.
+Un grupo pasó años atrás de un muro, con la pregunta en la cabeza y la llave en el bolsillo. Ese es todo el homenaje. Lo demás se cae solo si no le sirve a nadie.
 
-Nadie entendía por qué el padre calló tanto. Lo que había adentro no era un monstruo ni un arma: eran papeles. Unos diarios, y una fotografía. Y la fotografía no mostraba un peligro: mostraba que el mundo era más grande de lo que cabía en las paredes de la casa. Que el muro no era el borde de las cosas: era la tapa de algo.
-
-Eso es un sótano: el lugar donde se guarda lo que no se puede decir todavía, para que alguien, algún día, pueda abrirlo con sus propias manos. Y el que lo abre no sale con una explicación: sale con un mapa.
+Un sótano es el lugar donde se guarda lo que todavía no se puede decir, para que alguien lo abra con sus propias manos. El que baja no sale con una explicación: sale con un mapa.
 
 ---
 
@@ -282,13 +323,13 @@ Así que aquí está el nuestro, sin llave y sin cerradura:
 
 > [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy) · DOI histórico: `10.5281/zenodo.23090721` · CC BY 4.0
 
-Ahí están los chats, las estadísticas, el rastro, y los errores con nombre. No está ordenado para que se lea bonito: está ordenado para que se escarbe.
+Ahí están los chats, las estadísticas, el rastro, y los errores con nombre. No está ordenado para que se lea bonito: está ordenado para que se escarbe. Y no se pidió permiso para publicarlo. El registro es mío, el contenido es mío, y el método se regala porque un método que nadie corre no prueba nada.
 
 El registro tiene huecos declarados: faltan sesiones, también las anteriores al repositorio. No se reconstruyen de memoria. Un archivo que dice estar completo y no lo está deja de servir de prueba; este dice cuánto le falta.
 
 ---
 
-Y una advertencia, para que nadie abra esta puerta esperando lo que no hay. Quien baje, no va a salir con una respuesta: va a salir con la pregunta más grande. Eso es lo que le pasó al que abrió el sótano, y no fue alivio: fue el día en que todo lo que creía saber dejó de servir.
+Y la advertencia, para que nadie baje esperando lo que no hay: no vas a salir con una respuesta, vas a salir con la pregunta más grande, y con más ganas de correrla.
 
 Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro.
 
@@ -337,6 +378,10 @@ Uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que el 
 2. Probar el método donde se quiera. El repositorio es de Alejandro y se queda como está. Pero el método no. Si funciona, se usa. Si no, se dice, y la probatura es de quien la hizo.
 
 Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
+
+Y una tercera, que no es una tarea sino una decisión: **lo que está aquí no se guarda para cuando alguien avale que sirve.** Si un ensayo te sirve, úsalo. Si una corrida te ahorra una semana, cópiala. Si el método te sirve para escribir una prueba, escríbela hoy. No hay una puerta que abrir, ni un permiso que esperar, ni nadie que te vaya a decir que el uso quedó alineado con algo.
+
+Si te sale mal, se ve en el registro, y eso también sirve.
 
 ---
 
