@@ -54,7 +54,30 @@ banco.db        el binario. ahora es dos archivos de texto que se pueden abrir,
                 comparar, y volver a cargar en cualquier motor
 ```
 
-**Lo que se pierde al quitar el binario, y se apunta:** **los índices que el esquema tuviera, y los tiempos internos de la base.** **Lo que se gana es que el registro se pueda leer sin un programa.**
+**Los nombres de los archivos de una corrida no están escritos en ningún archivo, y se vio al chequear las dieciocho:** **la 01 y la 02 dicen en su documentación cuántas tablas tiene su esquema, y no las nombran; la 16 trae sus filas en `insert into tabla (id, …)`, y las demás en `insert into tabla values (…)`, que depende del orden en que el esquema declaró las columnas.** **Es de la época, y no se corrige: se dice, para que quien copie una no crea que las dieciocho se escribieron a la vez.**
+
+**Y hay dos más que un lector no puede prever y ahora se dice aquí:**
+
+```plaintext
+las pruebas/ de la 03, 06 y 07     traen los casos de entrada, y su
+                                   documentación no los nombra uno por uno.
+                                   se entiende al leerlos, y hay que abrirlos
+
+16 - NUNCA SE BORRA                su banco_filas.sql trae el supuesto 3
+                                   apuntando a un hecho 999 que no existe, y
+                                   es a propósito: es el caso que la corrida
+                                   vino a probar. la documentación lo dice
+                                   [OK] rechaza un hecho 999, porque en esa
+                                   corrida el esquema lo rechazó con las
+                                   llaves prendidas. recargar las filas con
+                                   foreign_keys=OFF lo acepta, y eso es lo
+                                   que la corrida 16 denunció
+```
+
+---
+
+**Falsificador de este README:** **una corrida que se presentó como recargable y no lo está**; **y uno que copia los casos de `pruebas/` como si fueran los del banco, cuando son la entrada y no la salida.**
+
 
 ---
 
