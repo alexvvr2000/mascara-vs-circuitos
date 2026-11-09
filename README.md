@@ -120,7 +120,7 @@ Y de ahí salen las otras dos diferencias contra lo que ya existe:
 
 **El proceso no termina, y eso está previsto.** **La solución final va a tener huecos, porque un ente vive en un mundo que cambia.** **Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.**
 
-**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [`metodologia/ciclo/como se sabe cuando esta.md`](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
+**La primera regla es nueva, y es la que dice cuánto falta.** **Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene.** **Está en [[el plan de prueba](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md)](metodologia/ciclo/como%20se%20sabe%20cuando%20esta.md), con sus fuentes.**
 
 **La segunda cubre lo que ningún ensayo escribió.** **Una sin la otra deja un lado sin mirar.**
 
@@ -163,7 +163,7 @@ Los límites, dichos con nombre:
 - **No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos.** **Lo que sí hay es el método, en `la obra/mantenimiento de entes/`, y el manual para cambiar de stack, en `implementacion/usuario/`.**
 - **Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta.** **Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.**
 
-**Y lo que puede estar equivocado, no solo lo que falta, está en [`los papeles/LIMITES.md`](los%20papeles/LIMITES.md).** **Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.**
+**Y lo que puede estar equivocado, no solo lo que falta, está en [los límites](los%20papeles/LIMITES.md).** **Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.**
 
 ---
 
@@ -237,7 +237,7 @@ Son la posición completa. La columna de la derecha dice en cuál de los trece e
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `12` |
 | **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `10` |
 
-La lista completa, con qué sostiene a cada una y qué no afirmo, está en [`la obra/README.md`](./la%20obra/README.md).
+La lista completa, con qué sostiene a cada una y qué no afirmo, está en [la obra](./la%20obra/README.md).
 
 ---
 
@@ -285,7 +285,7 @@ Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué h
 
 **Y eso no es una frase amable: es la condición del trabajo.** **Un ensayo que sirve se levanta en otro stack y produce el mismo rastro.** **Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.**
 
-**Y el stack que se eligió está en [`implementacion/ejemplo/stack.md`](implementacion/ejemplo/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
+**Y el stack que se eligió está en [la tabla del stack](implementacion/ejemplo/stack.md):** **una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto: la base de grafos.**
 
 
 **Y la distinción que ahí se hace: el motor y el catálogo son gusto; la base no.** **El ensayo 7 pide que el índice sea un grafo con sus tres relaciones.** **Un motor es un motor; un grafo no es una tabla.**

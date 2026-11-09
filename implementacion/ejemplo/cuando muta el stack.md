@@ -48,7 +48,7 @@ y no se mira    en cada corrida que sólo afinó una regla ya escrita
 
 **2.** Si nada deja de cumplir, no se toca nada, y se dice que se miró y no se tocó.
 
-**3.** Si algo deja de cumplir, se busca en internet qué lo cumple hoy —**con la misma recomendación del `usuario/stack.md`: lo que se instala hoy, no lo que se recordaba.**
+**3.** Si algo deja de cumplir, se busca en internet qué lo cumple hoy —**con la misma recomendación del [la tabla del usuario](../usuario/stack.md): lo que se instala hoy, no lo que se recordaba.**
 
 **4.** Se cambia el renglón en [`stack.md`](stack.md), y se agrega una línea al registro de abajo, con fecha y con qué corrida lo pidió.
 
