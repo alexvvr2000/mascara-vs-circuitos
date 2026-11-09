@@ -147,7 +147,7 @@ Qué la tumba: un modelo que llega al esfuerzo sin el trabajo. Si pasa, la veloc
 
 ### 12. Máquina de sesgos: lo que no puedo probar
 
-**Vive en:** [el ensayo 13](humanidad/13%20maquina%20de%20sesgos.md).
+**Vive en:** [el ensayo 14](humanidad/14%20maquina%20de%20sesgos.md).
 
 Qué sostiene: que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.
 

@@ -103,7 +103,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 6 · La máquina de sesgos
 
-**Familia:** `13 maquina de sesgos`
+**Familia:** `14 maquina de sesgos`
 
 **Regla madre:** *«Este ensayo distingue lo que demuestra de lo que sólo propone.»*
 

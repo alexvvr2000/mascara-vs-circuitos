@@ -189,8 +189,8 @@ Los límites, dichos con nombre:
      10  medicion de talentos   como se mide el trabajo de verdad
      11  empatía                cómo se entiende antes de pedir
      12  conciencia             qué hacemos con una palabra que no sabemos definir
-     13  maquina de sesgos      lo que este trabajo no puede probar
-     14  concordia              por que se alinea con la concordia, y no con la moral
+     13  concordia              por que se alinea con la concordia, y no con la moral
+     14  maquina de sesgos      lo que este trabajo no puede probar
 
 4. metodologia/            EL FOLDER ÚNICO: DE AQUÍ PARTEN LOS DEMÁS
      README.md              qué se hace aquí, y dónde se apunta cada cosa
@@ -236,7 +236,7 @@ Son la posición completa. La columna de la derecha dice en cuál de los trece e
 | **9** | Entenderse cuesta, y vale más que esperar a que el otro cumpla el estándar | `11` |
 | **10** | **La conciencia que se busca adentro no está adentro** | `12` |
 | **11** | **El esfuerzo es lo único que no llegó con la máquina** | `12` |
-| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `13` |
+| **12** | Máquina de sesgos: lo que no se puede probar, y por qué se publica igual | `14` |
 
 La lista completa, con qué sostiene a cada una y qué no afirmo, está en [la obra](./la%20obra/README.md).
 
