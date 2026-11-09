@@ -14,15 +14,19 @@
 
 ---
 
-## Los cuatro
+## Los cinco, en el orden en que se leen
+
+**Y el orden tiene número, y no es cronológico: es el de la cadena que se cuenta.** **Primero lo que se creía, después cómo se pasó de una corrida a la otra, y al final el registro completo que amarra las dos.**
 
 | Qué | Para qué |
 |---|---|
-| **[Cómo se corre una corrida](como%20se%20corre%20una%20corrida.md)** | los comandos, el orden, y lo que se escribe en cada momento |
-| **[Qué cambió en cada corrida](que%20cambio%20en%20cada%20corrida.md)** | las dieciocho, una por una: qué se intentaba, qué se cayó, y qué abrió la siguiente |
-| **[Cómo se pensó llegar al criterio](como%20se%20penso%20llegar%20al%20criterio.md)** | lo que se creía que era llegar, y en qué corrida cambió |
-| **[La idea de los subagentes](2026-11-08%20la%20idea%20de%20los%20subagentes.md)** | una idea que llegó bien a medias, y por qué casi sale mal |
-| **[El registro de cómo se llegó](el%20registro%20de%20como%20se%20llego.md)** | todo, en orden, con fecha — y los ocho errores propios |
+| **[01 · La idea de los subagentes](01%20-%202026-11-08%20la%20idea%20de%20los%20subagentes.md)** | una idea que llegó bien a medias, y por qué casi sale mal |
+| **[02 · Cómo se corre una corrida](02%20-%20como%20se%20corre%20una%20corrida.md)** | los comandos, el orden, y lo que se escribe en cada momento |
+| **[03 · Cómo se pensó llegar al criterio](03%20-%20como%20se%20penso%20llegar%20al%20criterio.md)** | lo que se creía que era llegar, y en qué corrida cambió |
+| **[04 · Qué cambió en cada corrida](04%20-%20que%20cambio%20en%20cada%20corrida.md)** | las dieciocho, una por una: qué se intentaba, qué se cayó, y qué abrió la siguiente |
+| **[05 · El registro de cómo se llegó](05%20-%20el%20registro%20de%20como%20se%20llego.md)** | todo, en orden, con fecha — y los ocho errores propios |
+
+**Y el número del nombre es un puntero, no un hecho:** **la fecha que cuenta es la de dentro del archivo.** **Si mañana se agrega uno que llegó antes, se le pone el número que le toca por el orden de su fecha, y los demás se corren; el nombre cambia de número y la fecha de dentro no.**
 
 ---
 
