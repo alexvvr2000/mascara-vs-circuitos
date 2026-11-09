@@ -176,20 +176,23 @@ def regla_ruta(p, fallos):
 
 
 def regla_citation(p, fallos):
-    """CITATION.cff se genera con scripts/citation.py: si está atrás, el build cae.
+    """El CITATION existe, tiene fecha, licencia, y no cita un commit que va a morir.
 
-    Se compara con lo que el generador escribiría ahora, y la variable CITATION_REVISADA
-    impide que el generador, que también recorre archivos .md, vuelva a entrar aquí.
+    Antes se regeneraba con un script y se comparaba; en un repo de un solo commit
+    no hay historia que citar, y el campo `commit` señalaría a un hash que se borra.
     """
     if os.path.abspath(p) != os.path.join(RAIZ, "CITATION.cff"):
         return
-    if os.environ.get("CITATION_REVISADA"):
+    if not os.path.exists(p):
+        fallos.append((rel(p), "CITATION", "falta CITATION.cff"))
         return
-    entorno = dict(os.environ, CITATION_REVISADA="1")
-    r = subprocess.run([sys.executable, os.path.join(RAIZ, "scripts", "citation.py"), "--comprueba"],
-                       capture_output=True, text=True, encoding="utf-8", errors="replace", env=entorno)
-    if r.returncode != 0:
-        fallos.append((rel(p), "CITATION", (r.stdout + r.stderr).strip().splitlines()[-1][:120] or "está atrás"))
+    t = open(p, encoding="utf-8").read()
+    if not re.search(r"(?m)^date-released: \"\d{4}-\d{2}-\d{2}\"", t):
+        fallos.append((rel(p), "CITATION", "sin date-released"))
+    if not re.search(r"(?m)^license:", t):
+        fallos.append((rel(p), "CITATION", "sin license"))
+    if re.search(r"(?m)^commit:", t):
+        fallos.append((rel(p), "CITATION", "cita un commit: en un repo de un solo commit no hay historia"))
 
 
 def regla_licencias(p, fallos):
