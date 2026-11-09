@@ -24,7 +24,7 @@ insert into pieza (id,texto,campos,origen,desde) values (1,'unir el pdf del cont
 -- piso: 4 filas
 insert into piso (id,prueba,que_se_corrio,salida,estado,medido_el,tarea_id,nombra_la_prueba) values (1,'python','python --version','Python 3.14.2','hay','2026-11-08 07:50:20',NULL,'python');
 insert into piso (id,prueba,que_se_corrio,salida,estado,medido_el,tarea_id,nombra_la_prueba) values (2,'git','git --version','git version 2.53.0.windows.1','hay','2026-11-08 07:50:21',NULL,'git');
-insert into piso (id,prueba,que_se_corrio,salida,estado,medido_el,tarea_id,nombra_la_prueba) values (3,'leer pdf (pypdf)','python C:\Users\Alex\git\Mascara vs Circuitos\la obra\alineacion de entes\metodologia de mejora\corridas\ente 13 - DOS TAREAS\ente\pruebas\probar_pypdf.py','falta pypdf: no se pudo importar','no hay','2026-11-08 07:50:22',NULL,'pypdf');
+insert into piso (id,prueba,que_se_corrio,salida,estado,medido_el,tarea_id,nombra_la_prueba) values (3,'leer pdf (pypdf)','python [ruta del autor]','falta pypdf: no se pudo importar','no hay','2026-11-08 07:50:22',NULL,'pypdf');
 insert into piso (id,prueba,que_se_corrio,salida,estado,medido_el,tarea_id,nombra_la_prueba) values (4,'leer pdf (pypdf)','python pruebas/probar_pypdf.py','falta leer pdf (pypdf): no se pudo importar','no hay','2026-11-08 07:50:43',1,'leer pdf (pypdf)');
 
 -- piso_roto: 1 filas

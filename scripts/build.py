@@ -33,6 +33,16 @@ import sys
 import unicodedata
 import urllib.parse
 
+try:
+    from ofusca import PATRON as RUTA_MAQUINA
+except Exception:  # el build se corre desde cualquier lado
+    import importlib.util
+    _ruta = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ofusca.py")
+    _spec = importlib.util.spec_from_file_location("ofusca", _ruta)
+    _m = importlib.util.module_from_spec(_spec)
+    _spec.loader.exec_module(_m)
+    RUTA_MAQUINA = _m.PATRON
+
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Donde el build se cae: ni historia (se conserva como se escribió) ni
@@ -156,6 +166,14 @@ def regla_numero(p, fallos):
         fallos.append((rel(p), "NUMERO", "cita por numero: '%s'" % m.group(0)))
 
 
+def regla_ruta(p, fallos):
+    """La ruta de la maquina del autor no entra al repositorio. Se sustituye por
+    [ruta del autor] con scripts/ofusca.py, y aquí es un fallo, no una medida."""
+    texto = open(p, encoding="utf-8", errors="replace").read()
+    for m in RUTA_MAQUINA.finditer(texto):
+        fallos.append((rel(p), "RUTA", "ruta de la maquina: %s" % m.group(0)[:60]))
+
+
 def regla_forma_texto(p):
     """No falla: mide. Devuelve las fallas de forma que se ven sin leer: espacios
     de más antes de una coma, encabezados que saltan de nivel, y enlaces a un
@@ -233,6 +251,7 @@ def build(lista=False):
 
     for p in todos:
         regla_enlaces(p, fallos)
+        regla_ruta(p, fallos)
 
     for p in ensayos():
         regla_h1(p, fallos)

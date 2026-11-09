@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Versión inicial. Si se cita, hacerlo con esta versión y esta fecha."
 title: "Máscara vs Circuitos: alineación de entes"
 abstract: >-
-  Máscara vs Circuitos reúne diez ensayos sobre el mismo problema: cómo una
+  Máscara vs Circuitos reúne 14 ensayos sobre el mismo problema: cómo una
   colaboración entre una persona y un sistema de inteligencia artificial puede
   dejar un rastro que se pueda juzgar. La obra se divide en dos carpetas. La
   primera, alineación de entes, define qué es un ente, cuál es el ciclo que
@@ -16,17 +16,18 @@ abstract: >-
   El trabajo no se presenta como la verdad: se presenta como una propuesta
   metodológica, escrita en primera persona, con sus fuentes declaradas donde
   se abrieron y dichas donde no. No hay comparación medida contra ningún otro
-  trabajo, y las nueve corridas que sostienen el método las hizo el autor: no
+  trabajo, y las corridas que sostienen el método las hizo el autor: no
   hay todavía una corrida hecha por alguien más. Cada afirmación trae su
   falsificador, y ninguno se ha cumplido todavía. La declaración completa de
-  uso de IA está en ATTRIBUTION.md.
+  uso de IA está en Attribution.md.
 type: book
 authors:
   - family-names: "Valenzuela Rivera"
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
 version: "1.0.0"
-date-released: "2026-11-06"
+commit: "f4e37a40318074ae78032dea5904e85ba0860733"
+date-released: "2026-11-09"
 license: "CC-BY-4.0"
 status: "initial"
 keywords:
