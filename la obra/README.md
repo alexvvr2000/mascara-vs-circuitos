@@ -38,6 +38,22 @@ Los ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.
 
 Y esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo. El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.
 
+### Y el segundo grupo no es todo del mismo género
+
+Los cinco de [`humanidad/`](humanidad/) no se leen igual, y eso no se ve por el título:
+
+```plaintext
+empatía, concordia       una práctica y una postura. se leen y se discuten
+lo que esta fuera        una regla sobre dónde buscar: lo de afuera se puede
+                         abrir, y lo de adentro no
+medir sin preguntarle    una forma de medir sin creerle al modelo
+lo que queda por hacer   la pregunta que los otros no contestan: si el límite
+                         es del método o de la forma de pensar, y qué queda
+                         por hacer si no se resuelve
+```
+
+Y la diferencia importa para el lector: los tres primeros se pueden discutir con casos; el último plantea una pregunta que ninguna corrida contesta, y no se lee con prisa. Quien busca qué hacer hoy la encuentra en los cuatro primeros; quien busca hasta dónde llega esto, en el último.
+
 ---
 
 ## Las afirmaciones
