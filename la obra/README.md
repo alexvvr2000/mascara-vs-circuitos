@@ -30,7 +30,7 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
 | **[`ciclo del ente/`](ciclo%20del%20ente/)** | **01 a 09** | **se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí** |
-| **[`humanidad/`](humanidad/)** | **10 a 13** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
+| **[`humanidad/`](humanidad/)** | **10 a 14** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
 
 **Y esa división es la que ordena el resto del repositorio:** **las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo.** **El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.**
 
