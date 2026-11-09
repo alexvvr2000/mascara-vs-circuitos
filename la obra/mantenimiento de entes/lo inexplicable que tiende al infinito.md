@@ -206,7 +206,7 @@ lo que SÍ es suficiente
 
 ---
 
-## VII. Lo que falta, cuando no hay unidad que contar
+## VI. Lo que falta, cuando no hay unidad que contar
 
 **Y hay que decirlo, porque no todo se deja reducir a una resta.**
 

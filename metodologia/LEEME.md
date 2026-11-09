@@ -6,7 +6,9 @@
 
 ## Qué es esto
 
-**Lo que este repositorio hace —correr ciclos, cerrar huecos, medir lo que costó— sale de aquí.**
+**El registro de cómo se encontraron las reglas.** **No la fuente de las reglas: la fuente es `la obra/ciclo del ente/`.**
+
+**Y quien llega a leer el ciclo para levantar un ente no necesita pasar por aquí.** **Aquí viene el que quiere ver cómo se llegó, y qué se cayó en el camino.**
 
 **Y es de quien mantiene el repo.** **No de quien sólo viene a copiarse una carpeta.**
 

@@ -211,6 +211,45 @@ la de después      mide lo que una tarea pidió, y lleva esa tarea anotada
 
 ---
 
+## Y el piso que sirve no se mide en reglas: se mide en si alguien empieza
+
+**Todo lo anterior dice cómo se mide lo que hay. Esto dice cuándo lo que hay ya basta, y es otra pregunta.**
+
+**Y la respuesta no es un número, es una condición, y tiene dos mitades que tienen que cumplirse a la vez:**
+
+> **Que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más pueda seguir desde donde el primero dejó.**
+
+```plaintext
+si el que sabe menos no puede empezar     → no hay piso
+si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
+```
+
+**Y ninguna de las dos se puede declarar desde adentro.** **La primera se sabe cuando alguien empieza; la segunda, cuando alguien sigue.** **Un piso que solo declara el que lo construyó es una intención.**
+
+### Y no es el final, y eso está previsto
+
+**Un ente vive en un mundo que cambia, y la descripción se queda.** **Así que la solución final puede tener huecos, y los va a tener.**
+
+**Y lo que sí termina no es la descripción: es lo que una generación necesita para empezar.** **Eso se puede decir, se puede tocar, y se ve cuando está.**
+
+### Y la línea que impide que esto sea una excusa
+
+**«Lo suficientemente bueno» también es la puerta por la que se sale sin hacer el trabajo.**
+
+```plaintext
+lo que NO es
+  lo que se puede empezar a usar, pero nadie lo empezó, y no se sabe por qué
+
+lo que SÍ es
+  lo que se puede empezar a usar, alguien lo empezó, y dijo dónde falló
+```
+
+**La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió.**
+
+**Falsificador de esta sección:** **un piso que se declara suficiente sin que nadie lo haya empezado**; **y su contrario: seguir midiendo para siempre, porque un piso no se acaba de medir nunca.**
+
+---
+
 ## Prueba
 
 **¿Se midió el piso antes de la primera tarea, o se declaró a ojo? ¿Cada hecho dice contra qué piso se hizo? ¿Cuando se pidió algo que el piso no tenía, se dijo qué faltaba, o se dijo «no pude»? ¿Lo que un `no hay` guarda es la falta, con el nombre de la herramienta, o el error crudo? ¿El ente contesta por tarea, o busca la palabra del pedido en la lista de herramientas? ¿Se dice qué falta del piso en vez de detenerse a esperar?**

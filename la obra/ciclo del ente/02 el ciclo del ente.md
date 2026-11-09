@@ -582,7 +582,15 @@ lo que sí         que el cierre lleve su propio registro: que se preguntó,
 
 Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cierra porque alguien contestó una pregunta. Si eso no queda en un campo, la diferencia entre haber preguntado y haber supuesto vive en la redacción, y la redacción se escribe sola.
 
-Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
+### Y antes de seguir: cómo se sabe si este ciclo sirve, y dónde está el cómo se llegó
+
+**Un ciclo escrito se puede correr y no probar nada.** **Y la forma de saberlo está en `04 escritura en procesos`, porque es el mismo mecanismo:** **se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.**
+
+**La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí.** **El piso del ensayo 03.**
+
+**Y quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en `metodologia/`.** **Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.**
+
+**Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
 
 Y una quinta, que se vio al saltarse el paso: si el cuerpo no está declarado, el cierre tiene que decirlo.
 

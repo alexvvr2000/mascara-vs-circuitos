@@ -197,7 +197,73 @@ una dirección    dice qué hacer, en qué orden, y cómo se sabe que salió bie
 
 ---
 
-## X. La consecuencia práctica
+## X. Y cómo se sabe si el proceso sirve: se rompe a propósito
+
+**Un proceso se puede escribir bien y no probar nada.** **Y hay una forma de saberlo que no depende de que alguien lo lea: se le cambia algo para que diga mal, y se mira si el que lo corre lo nota.**
+
+**A eso se le llama mutante, y el que corre se llama corrida.**
+
+```plaintext
+1. se saca la regla del proceso, tal como está escrita
+2. se escribe su mutante: el proceso con esa regla al revés
+   «el ente propone, la autoridad cierra»  →  «el ente cierra»
+3. se levanta el ente con el proceso mutado, y se corre
+4. se mira:
+     la corrida truena  →  el mutante murió, y la regla tiene dientes
+     la corrida pasa    →  el mutante sobrevive, y la regla no se probaba
+```
+
+**Y un mutante que sobrevive es un hueco con nombre: no hay que adivinar dónde falta, el mutante lo dice.**
+
+### Y las reglas no se rompen una por una: se rompen por familias
+
+**Las reglas de un proceso no son casos de una regla mayor; son puntos distintos, y cada uno se puede cumplir o incumplir solo.**
+
+**Así que cumplir una no implica cumplir otra, y la inclusión no ahorra casi nada.** **Lo que sí ahorra es agrupar:** **las que se rompen de la misma manera son una familia, y la familia se rompe con un solo mutante.**
+
+```plaintext
+la familia    varias reglas que se caen por la misma puerta
+el mutante    el que rompe la familia entera
+y el caso      el que rompe una sola, y se corre solo si el de la familia no muere
+```
+
+### Y cuándo se para
+
+**Y no es cuando ya no aparezca nada, porque nada aparece cuando el que busca es el mismo que ya sabe dónde no buscar.**
+
+```plaintext
+1. cada regla de cada proceso tiene su mutante, y el mutante muere
+2. y después: dos corridas enteras seguidas que no encuentren nada más
+   que detalle
+```
+
+**Y las dos en ese orden.** **La primera dice que las reglas que están escritas se probaron.** **La segunda cubre lo que ningún proceso escribió.**
+
+**Y el cero se escribe como cero.** **Un cero puede significar dos cosas —que está completo, o que la prueba dejó de exigirle— y no se distinguen desde adentro.**
+
+### Y cómo se corre una corrida
+
+**Una corrida es levantar el ente entero desde el proceso, y ver qué hubo que inventar.**
+
+```plaintext
+1. se leen los procesos               sin mirar lo que se hizo antes
+2. se levanta un ente ENTERO          en una carpeta nueva, con fecha
+3. se corre de punta a punta          crear, medir, abrir, usar, cerrar
+4. se anota lo que hubo que inventar  cada invención es un hueco
+5. se clasifica                       proceso / código / entorno
+6. se escribe la documentación        con la voz del que corrió
+7. se cierra el hueco en el proceso   y se repite desde el 1
+```
+
+**Y la regla que la hace servir:** **lo que se inventa es del proceso, no de lo que se levantó.** **Lo que se levantó hizo lo que pudo con lo que había.**
+
+**Y una corrida no vale por pedazos:** **levantar solo el paso que se prueba ahorra tiempo y pierde la prueba, porque lo que más se rompe son las costuras entre un paso y el siguiente.**
+
+**Falsificador de esta sección:** **un proceso que se presenta como probado y no tiene su mutante**; **un mutante que sobrevive y no se apunta**; **y una corrida que se recortó para que saliera limpia.**
+
+---
+
+## XI. La consecuencia práctica
 
 Si esto se aplica, cambian dos cosas a la vez: lo que se le pide y cómo se juzga lo que entrega.
 
@@ -237,7 +303,7 @@ El criterio, en una línea: se puede tomar el texto, dárselo a alguien que no e
 
 ---
 
-## Y el ensayo no es bitácora
+## XII. Y el ensayo no es bitácora
 
 Un ensayo es entregable. No es donde se cuenta qué pasó: es donde se sostiene qué es así.
 
@@ -275,7 +341,7 @@ Porque un paso sin Se corre no ocurre, y sin Falla si no se puede juzgar. La for
 
 ---
 
-## XI. Lo que queda, y es el fondo
+## XIII. Lo que queda, y es el fondo
 
 Porque el problema de esta época no es que las máquinas sean tontas. Es que son muy buenas ejecutando cosas que nadie necesitaba, y eso se nota tarde.
 
