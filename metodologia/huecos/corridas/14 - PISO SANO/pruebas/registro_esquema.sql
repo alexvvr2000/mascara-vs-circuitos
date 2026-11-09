@@ -1,0 +1,1 @@
+CREATE TABLE hecho (id INTEGER PRIMARY KEY, que TEXT);

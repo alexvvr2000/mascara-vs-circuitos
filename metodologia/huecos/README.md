@@ -10,9 +10,51 @@
 
 **Es el que encuentra lo que el ensayo no dice.** **Se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.**
 
-**Y no es el que dice si lo que el ensayo dice se sostiene.** **Ése es el [método B](../sostiene/README.md): se rompe una regla a propósito y se mira si la corrida lo nota.**
+**Y no es el que dice si lo que el ensayo dice se sostiene.** **Ése es el [método B](../sostiene/README.md): se cambia una regla del ensayo, se levanta el ente con el ensayo cambiado, y se mira si la corrida lo nota.**
 
-**Los dos hacen falta, y por razones distintas, y está escrito en [`cómo se corre`](como%20se%20corre.md):** **los mutantes sólo prueban reglas que están escritas; la corrida entera encuentra lo que falta y no está escrito.**
+**Los dos hacen falta, y por razones distintas:** **los mutantes sólo prueban reglas que están escritas; la corrida entera encuentra lo que falta y no está escrito.**
+
+---
+
+## Las dieciocho corridas son todas de este método
+
+**Y esto se escribe porque se buscó lo contrario y no está.**
+
+**Se revisó el historial de git, corrida por corrida, con su commit y su fecha.** **Y después se abrieron las dieciocho documentaciones.** **Y todas dicen lo mismo: qué se intentaba, qué se levantó, y qué hubo que inventar.**
+
+**Ninguna de las dieciocho levanta un ente con el ensayo cambiado.** **Un mutante es otra cosa, y vive en [`sostiene/mutantes/`](../sostiene/mutantes/).**
+
+**Y hay cuatro que además buscaron el caso que rompe** —**la 07, la 11, la 14 y la 15**— **, y no por eso dejan de ser de este método:** **lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.**
+
+**Lo dice la 14 con estas palabras:** **«el primer cierre del ciclo dio `no hice: nada`. Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha. Así que se buscaron casos a propósito, y se encontraron tres.»**
+
+**Así que no se parte la carpeta.** **Partirla habría inventado una distinción que no está en ningún archivo, y `sostiene/` tiene su propio registro.**
+
+---
+
+## Cómo se lee una corrida, y qué guarda
+
+**Cada carpeta conserva lo que la hace revisable, y ya no guarda lo que no se puede leer:**
+
+```plaintext
+documentacion.md      qué se intentaba, qué pasó, los huecos, y qué no se probó
+banco_esquema.sql     el esquema con el que corrió, en texto
+banco_filas.sql       lo que quedó escrito en ese esquema, fila por fila, en texto
+pruebas/              los archivos de entrada que la corrida usó, si los tuvo
+```
+
+**Y dos cosas se fueron, y se dice por qué:**
+
+```plaintext
+herramientas/   los scripts y el AGENTS de cada corrida. se fueron porque cada
+                corrida tenía su copia, y las dieciocho no coinciden: leer una
+                y creer que es la puerta de todas es peor que no tener ninguna
+
+banco.db        el binario. ahora es dos archivos de texto que se pueden abrir,
+                comparar, y volver a cargar en cualquier motor
+```
+
+**Lo que se pierde al quitar el binario, y se apunta:** **los índices que el esquema tuviera, y los tiempos internos de la base.** **Lo que se gana es que el registro se pueda leer sin un programa.**
 
 ---
 
@@ -35,20 +77,13 @@ si el que sabe más no puede seguir        → no hay techo, y el trabajo se cie
 
 **Y esto no es un final, y eso no es un defecto:** **la solución final va a tener huecos, no porque el trabajo esté mal, sino porque un ente vive en un mundo que cambia y la descripción se queda.**
 
-```plaintext
-el proceso no termina       cada generación sigue desde la anterior
-lo que sí termina           lo que una generación necesita para empezar
-y eso se puede decir        y se puede tocar, y se ve cuando está
-```
-
 ---
 
 ## Qué es el piso mínimo, en concreto
 
 ```plaintext
-lo que hay        las cuatro piezas, el ciclo del ensayo 02, un registro de
-                  hecho · fricción · desenlace, los ensayos escritos, y
-                  las corridas que se puedan abrir
+lo que hay        las cuatro piezas, los ensayos escritos, y las corridas que
+                  se pueden abrir y volver a cargar
 
 lo que falta      que el que sabe menos pueda empezar. eso no se prueba
                   con más escritura: se prueba con alguien
@@ -57,8 +92,6 @@ y lo que NO falta el final. el final no hace falta para empezar
 ```
 
 **El mínimo no es el número de reglas.** **El mínimo es lo que hace falta para que otra persona levante un ente y produzca algo.**
-
-**Y eso puede ser mucho menos de lo que la cuenta sugiere.** **Puede ser una página, con las cuatro piezas y un ejemplo.**
 
 ---
 
@@ -92,21 +125,9 @@ lo que SÍ es
 
 ---
 
-## III. Por qué hay un número, y por qué no es una cuenta
+## III. Cómo se hace
 
-**En las fórmulas se usa el infinito, y el infinito no está en la fórmula: es la tendencia.** **Nadie escribe todas las cifras de un número que no termina; se escribe lo que sigue, y con eso ya se puede trabajar.**
-
-**Con la descripción de un ente pasa lo mismo.** **No hay un día en que un ensayo diga todo lo que hay que decir sobre un ente.**
-
-**Lo que sí termina es la lista de lo que el ensayo afirma, y cada cosa que afirma se puede romper a propósito.** **Pero eso es el otro método: el [B](../sostiene/README.md).**
-
-**Y este método no cuenta reglas.** **Cuenta huecos encontrados, y eso se puede contar porque cada uno tiene su corrida.**
-
----
-
-## IV. Cómo se hace
-
-**Está entero en [`cómo se corre`](como%20se%20corre.md), y es el método de este lado de la línea.** **Aquí sólo lo que no se repite allí:**
+**Está entero en [`cómo se corre`](como%20se%20corre.md).** **Aquí sólo lo que no se repite allí:**
 
 ```plaintext
 1. se leen los ensayos          sin mirar los entes anteriores
@@ -122,7 +143,7 @@ lo que SÍ es
 
 ---
 
-## V. Lo que este método no prueba, y se cita
+## IV. Lo que este método no prueba, y se cita
 
 > **«Las pruebas pueden revelar la presencia de defectos, pero nunca su ausencia.»**
 > — Dijkstra, *Notes on Structured Programming*, EWD249, 1970.
@@ -131,11 +152,9 @@ lo que SÍ es
 
 ---
 
-## VI. Cuándo se deja de correr
+## V. Cuándo se deja de correr
 
 **La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle».** **Y esa regla se queda, y es la de este método, pero no la primera.**
-
-**Porque esperar a que no aparezca nada es esperar a que el que ya sabe dónde no buscar no busque.**
 
 **Y la primera, que es la de este método, es más simple:**
 
@@ -173,7 +192,7 @@ lo que SÍ es
 
 ## Prueba
 
-**¿Cada hueco encontrado tiene su corrida y su registro? ¿Se puede abrir el ente de una corrida vieja y correrlo? ¿Se distingue un hueco del ensayo de un defecto del código o del entorno? ¿Y hay alguna corrida que dijera «no encontré nada» con las trampas puestas?**
+**¿Cada hueco encontrado tiene su corrida y su registro? ¿Se puede abrir el esquema y las filas de una corrida vieja y volver a cargarlos? ¿Se distingue un hueco del ensayo de un defecto del código o del entorno? ¿Y hay alguna corrida que dijera «no encontré nada» con las trampas puestas?**
 
 ---
 

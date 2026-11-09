@@ -25,9 +25,11 @@
 A · llenar los huecos     se levanta un ente con el ejemplo, se corre,
                           y lo que hubo que inventar es el hueco
 
-  README.md               la meta, y cuándo se deja de correr
+  README.md               la meta, cuándo se deja de correr, y por qué las
+                          dieciocho corridas son todas de este método
   como se corre.md        los comandos, el orden, y lo que se escribe
-  corridas/               una carpeta por corrida, con el mismo árbol
+  corridas/               una carpeta por corrida: la documentación, el
+                          esquema y las filas en texto, y las pruebas
 ```
 
 ## El B, y qué hay adentro
@@ -40,6 +42,8 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
   las reglas.md           cuántas reglas hay. el único número del repo
   los mutantes.md         las fichas: qué rompe cada uno
   mutantes/               el código de cada uno
+  corridas/               vacía, y se dice por qué: el B no tiene corridas
+                          todavía
 ```
 
 ---

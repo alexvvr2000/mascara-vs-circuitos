@@ -195,13 +195,16 @@ Los límites, dichos con nombre:
 4. metodologia/            DOS METODOS, Y NO SE MEZCLAN
      README.md              cual contesta que, y donde va cada cosa
      huecos/                A · llenar los huecos
-       README.md              la meta, y cuando se deja de correr
+       README.md              la meta, cuando se deja de correr, y por que
+                              las dieciocho corridas son todas de este metodo
        como se corre.md       los comandos, el orden, y que se escribe
-       corridas/              cada una con el mismo arbol
+       corridas/              cada una con su documentacion, su esquema y sus
+                              filas en texto. sin binarios y sin herramientas
      sostiene/              B · ver si se sostiene
        README.md              la idea, los cuatro pasos, y cuando se para
        las reglas.md          cuantas reglas hay. el unico numero del repo
        los mutantes.md        las fichas, y mutantes/ con su codigo
+       corridas/              vacia, y se dice por que
      herramientas/          lo que mide, recorta y cruza
      historia/              el registro con fecha, y los errores propios
      lo inexplicable.md     como se persigue algo que no se termina
