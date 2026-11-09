@@ -98,7 +98,8 @@ VERSION = "1.0.0"
 
 if __name__ == "__main__":
     ensayos, corridas, mutantes = cuentas()
-    commit = git("rev-parse", "HEAD")  # el commit que lo contiene: siempre es verdad, y no se puede invalidar a si mismo
+    # el commit del último cambio del repo, que es el que produjo la obra. El CITATION no cita su propio commit: lo cita cuando el cambio se hizo.
+    commit = git("log", "-1", "--format=%H", "--", ":!CITATION.cff")
     fecha = git("log", "-1", "--format=%ad", "--date=short")
     if not commit:
         sys.exit("sin git, no hay commit que citar")
