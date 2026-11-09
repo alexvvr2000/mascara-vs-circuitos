@@ -53,7 +53,6 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
 | Qué | Dónde | Por qué no es un método |
 |---|---|---|
 | **[`historia/`](historia/)** | **el registro con fecha, y los errores propios** | **no se corre: se lee** |
-| **[`herramientas/`](herramientas/)** | **medir el costo de una sesión** | **mide el trabajo, no el ensayo** |
 | **[`lo inexplicable.md`](lo%20inexplicable.md)** | **cómo se persigue algo que no se termina** | **es el porqué de que haya dos métodos y no uno** |
 | **[`indice.md`](indice.md)** | **la lista de las corridas** | **es un índice, no un método** |
 

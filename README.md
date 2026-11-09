@@ -199,13 +199,12 @@ Los límites, dichos con nombre:
                               las dieciocho corridas son todas de este metodo
        como se corre.md       los comandos, el orden, y que se escribe
        corridas/              cada una con su documentacion, su esquema y sus
-                              filas en texto. sin binarios y sin herramientas
+                              filas en texto. sin binarios
      sostiene/              B · ver si se sostiene
        README.md              la idea, los cuatro pasos, y cuando se para
        las reglas.md          cuantas reglas hay. el unico numero del repo
        los mutantes.md        las fichas, y mutantes/ con su codigo
        corridas/              vacia, y se dice por que
-     herramientas/          lo que mide, recorta y cruza
      historia/              el registro con fecha, y los errores propios
      lo inexplicable.md     como se persigue algo que no se termina
      indice.md              una linea por corrida
