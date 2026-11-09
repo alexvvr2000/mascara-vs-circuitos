@@ -1,4 +1,4 @@
-# 10. Medición de talentos
+# 05. Medición de talentos
 
 **Lo que este trabajo no puede probar, y por qué aun así se publica.**
 

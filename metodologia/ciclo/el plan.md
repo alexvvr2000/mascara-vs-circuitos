@@ -39,7 +39,7 @@ si el que sabe más no puede seguir        → no hay techo, y el trabajo se cie
 
 **La solución final puede tener huecos, y los va a tener.** **No porque el trabajo esté mal: porque un ente vive en un mundo que cambia, y la descripción se queda.**
 
-**Y el repositorio ya lo tenía escrito sin saberlo, en el ensayo 10:** **se usa el infinito en las fórmulas y el infinito no está en la fórmula, es la tendencia.**
+**Y el repositorio ya lo tenía escrito sin saberlo, en el que habla del infinito:** **se usa el infinito en las fórmulas y el infinito no está en la fórmula, es la tendencia.**
 
 **Aquí se lleva a la práctica:**
 

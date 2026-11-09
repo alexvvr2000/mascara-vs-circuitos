@@ -74,14 +74,14 @@
 
 # V. Cómo se mide el trabajo, y por qué el costo
 
-**Y esto no es de agentes: es de economía del trabajo, y es el origen del ensayo 13.**
+**Y esto no es de agentes: es de economía del trabajo, y es el origen de la medición de talentos.**
 
 | Quién | Qué dice | Qué se toma |
 |---|---|---|
 | **`Cost-effectiveness analysis`** — el criterio de la relación entre lo que cuesta y lo que rinde | **un resultado que ignora sus intentos y sus correcciones no es un resultado: es el mejor de varios, escogido después** | **el CRE: intentos, más corrección, más verificación, dividido entre resultados verificados** |
 | **`Pre-registration y Registered Reports`** — [Nature Human Behaviour, 2021](https://www.nature.com/articles/s41562-021-01142-4) y [2023](https://www.nature.com/articles/s41562-022-01497-2) | **declarar antes qué se va a medir reduce el sesgo de reportar solo lo que salió** | **`Qué la tumba` antes de la evidencia, y el hecho escrito antes de saber si conviene** |
 
-**Y lo que esto obliga, y es lo que el ensayo 13 sostiene:** **la corrección no es un gasto aparte; es parte del costo.** **Un número que la deja fuera siempre sale mejor de lo que es.**
+**Y lo que esto obliga, y es lo que la medición de talentos sostiene:** **la corrección no es un gasto aparte; es parte del costo.** **Un número que la deja fuera siempre sale mejor de lo que es.**
 
 ---
 
@@ -182,9 +182,9 @@
 
 # XIII. Lo que este documento contradice de sí mismo
 
-**Y hay que decirlo, porque el ensayo 12 y el 14 no viven en el mismo campo que los anteriores, y forzarlos ahí sería mentir.**
+**Y hay que decirlo, porque la máquina de sesgos y lo inexplicable no viven en el mismo campo que los anteriores, y forzarlos ahí sería mentir.**
 
-**El ensayo 14, sobre lo inexplicable que tiende al infinito, no tiene estado del arte en agentes.** **Tiene uno en matemáticas, y es otro:**
+**`lo inexplicable`, que ya no es de los ensayos sino de la metodología, no tiene estado del arte en agentes.** **Tiene uno en matemáticas, y es otro:**
 
 | Quién | Qué | Qué se toma |
 |---|---|---|
@@ -193,7 +193,7 @@
 | **`Arnheim`**, 1954 y 1991 | **la abstracción no es quitar detalle: es quedarse con lo que sostiene** | **la forma que se conserva cuando el resto se cae** |
 | **`El límite en cálculo`** | **una serie infinita con suma finita** | **«cuánto falta» como resta, no como sensación** |
 
-**Y el ensayo 12, sobre la conciencia, tampoco.** **Su campo es otro, y ya tiene su propio estado del arte adentro.** **Se dice aquí para no fingir que todo lo del repositorio cae en las mismas doce fuentes.**
+**Y el ensayo de la conciencia tampoco.** **Su campo es otro, y ya tiene su propio estado del arte adentro.** **Se dice aquí para no fingir que todo lo del repositorio cae en las mismas doce fuentes.**
 
 ---
 

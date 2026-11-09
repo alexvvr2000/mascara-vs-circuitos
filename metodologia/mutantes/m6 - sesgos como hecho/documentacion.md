@@ -21,7 +21,7 @@ no tiene dientes  conserva el estado de cada afirmación, con el mutado también
 
 ## Lo que se montó
 
-**Tres afirmaciones del ensayo 10, con el estado que el ensayo les pone:**
+**Tres afirmaciones de la máquina de sesgos, con el estado que ese ensayo les pone:**
 
 ```plaintext
 «guardar es lineal y lo guardado no»                 demostrada

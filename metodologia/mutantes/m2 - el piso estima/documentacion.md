@@ -61,7 +61,7 @@ mutante 2: MUERTO
 la regla del piso tiene dientes
 ```
 
-**Y la diferencia es la que el ensayo 11 encontró corriendo:** **un `hay` falso contesta que sí, y no truena.** **Aquí el ente prometió leer un pdf que no puede leer, sin medir nada.**
+**Y la diferencia es la que la corrida 11 encontró:** **un `hay` falso contesta que sí, y no truena.** **Aquí el ente prometió leer un pdf que no puede leer, sin medir nada.**
 
 **Y el detalle que lo hace visible, y que el ensayo pide:** **la columna `medido_con` dice `estimado`, no una fecha.** **Un piso que se estimó se reconoce en el acto, porque no tiene qué lo probó.**
 

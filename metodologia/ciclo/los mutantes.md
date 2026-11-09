@@ -87,7 +87,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 5 · La medición de talentos
 
-**Familia:** `10 medicion de talentos`
+**Familia:** `05 medicion de talentos`
 
 **Regla madre:** *«Cada número sale del registro, y no de una impresión.»*
 
@@ -103,7 +103,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 6 · La máquina de sesgos
 
-**Familia:** `14 maquina de sesgos`
+**Familia:** `01 maquina de sesgos`
 
 **Regla madre:** *«Este ensayo distingue lo que demuestra de lo que sólo propone.»*
 
@@ -217,7 +217,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 13 · Empatía
 
-**Familia:** `11 empatía`
+**Familia:** `02 empatía`
 
 **Regla madre:** *«Si la pregunta del ente necesita que el otro sepa algo de IA para contestarla, la pregunta está mal hecha.»*
 
@@ -233,7 +233,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## 14 · Conciencia
 
-**Familia:** `12 conciencia`
+**Familia:** `03 conciencia`
 
 **No tiene mutante, y se dice por qué:** **no afirma cómo funciona un ente.** **Afirma qué no se puede afirmar de él.** **No hay una regla que romper, porque no hay una regla que cumplir.**
 

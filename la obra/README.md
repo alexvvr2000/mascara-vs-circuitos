@@ -30,7 +30,7 @@ Y antes de la lista, una advertencia: este trabajo no sale de la nada. Lo que ya
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
 | **[`ciclo del ente/`](ciclo%20del%20ente/)** | **01 a 09** | **se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí** |
-| **[`humanidad/`](humanidad/)** | **10 a 14** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
+| **[`humanidad/`](humanidad/)** | **01 a 05** | **no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa** |
 
 **Y esa división es la que ordena el resto del repositorio:** **las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo.** **El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.**
 
@@ -103,7 +103,7 @@ Qué la tumba: un ensayo en prosa que una IA ejecuta sin rellenar nada. Si eso p
 
 ### 6. La unidad de decisión es el costo por resultado exitoso, y la varianza es un modo de fallo
 
-**Vive en:** [el ensayo 10](humanidad/10%20medicion%20de%20talentos.md).
+**Vive en:** [el ensayo 05](humanidad/05%20medicion%20de%20talentos.md).
 Qué sostiene: un modelo barato que falla tres veces es más caro que el caro que acierta. Se decide por CRE, no por precio de la unidad; se presupuesta con la cola alta, no con la media; y el costo de corrección entra siempre en la cuenta.
 Qué lo sostiene: es una regla de decisión, no una creencia: se puede calcular con cualquier recurso, sin saber nada de su interior.
 Qué la tumba: un trabajo medido por cuánto costó y no por cuánto produjo, que da el mismo resultado. Si pasa, el CRE no está midiendo nada.
@@ -124,7 +124,7 @@ Qué la tumba: un índice que se rearmó desde la forma y que no coincide con el
 
 ### 9. Entenderse cuesta, y vale más que esperar a que el otro haga lo que la industria pide
 
-**Vive en:** [el ensayo 11](humanidad/11%20empatía.md).
+**Vive en:** [el ensayo 02](humanidad/02%20empatía.md).
 Qué sostiene: la empatía no es amabilidad: es instrumentación. Averiguar cómo está hecha la otra parte antes de pedirle algo. Y un resultado coherente con la letra puede ser ajeno al propósito: eso solo se detecta entendiendo el pedido, no revisando la salida.
 Qué lo sostiene: el costo no desaparece, se transfiere a quien herede el trabajo. Y lo malentendido no se ve desde el resultado.
 
@@ -133,21 +133,21 @@ Qué la tumba: entenderse sin costo, o entenderse y que el resultado sea peor qu
 
 ### 10. La conciencia que se busca adentro no está adentro
 
-**Vive en:** [el ensayo 12](humanidad/12%20conciencia.md).
+**Vive en:** [el ensayo 03](humanidad/03%20conciencia.md).
 Qué sostiene: lo que parece conciencia en una IA no está dentro de la caja, sino fuera: el modelo, el criterio, los recuerdos, y el que cuenta la versión de los hechos. No se afirma que exista, ni que no exista; se afirma dónde se la puede buscar, y que eso se puede abrir y revisar.
 Qué lo sostiene: una regla de lectura, no una creencia. Lo de afuera se puede señalar, guardar y contradecir.
 Qué la tumba: un ente que dice tener conciencia, o que no la tiene, y que puede señalarlo con algo que se pueda revisar contra nada. Si eso existe, hay algo adentro que se puede medir.
 
 ### 11. El esfuerzo es lo único que no llegó con la máquina
 
-**Vive en:** [el ensayo 12](humanidad/12%20conciencia.md), sección VII.
+**Vive en:** [el ensayo 03](humanidad/03%20conciencia.md), sección VII.
 Qué sostiene: lo que la máquina no trajo es el esfuerzo, y lo que se destruye al quitar los seguros para ir más rápido es eso mismo. La calidad de un trabajo no se obtiene dejando que todo lo haga la máquina: se obtiene ensuciándose las manos. Y si todo se hiciera al 100% y sin espacio para lo que no se sabe, no habría variedad, y sin variedad no hay de dónde salga la calidad.
 Qué lo sostiene: el caso está en el propio repositorio. Una alucinación se escribió y se corrigió, cuando lo barato era dejarla pasar. Y ese renglón, corregido a mano, es la prueba de que el esfuerzo dejó marca.
 Qué la tumba: un modelo que llega al esfuerzo sin el trabajo. Si pasa, la velocidad y el esfuerzo llegaron juntos.
 
 ### 12. Máquina de sesgos: lo que no puedo probar
 
-**Vive en:** [el ensayo 14](humanidad/14%20maquina%20de%20sesgos.md).
+**Vive en:** [el ensayo 01](humanidad/01%20maquina%20de%20sesgos.md).
 
 Qué sostiene: que guardar es lineal y lo guardado no, y que esa diferencia es la que este trabajo ha estado peleando desde el primer ensayo. Y de ahí la pregunta que ninguna de las otras once contesta: si una máquina de Turing es la mejor forma de sacarle todo a esto.
 
