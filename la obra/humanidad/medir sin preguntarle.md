@@ -17,27 +17,27 @@ Alejandro Valenzuela Rivera.
 
 ## I. La pregunta
 
-Un ente puede correr en un cuerpo o en otro. Y cuando se cambia el cuerpo, el ente sigue siendo él: las reglas son las mismas, el registro es el mismo, el criterio es el mismo. Lo que cambia es cómo trabaja.
+Un ente puede correr en un cuerpo o en otro, y cuando se cambia el cuerpo el ente sigue siendo él: las reglas son las mismas, el registro es el mismo, el criterio es el mismo. Lo que cambia es cómo trabaja.
 
 Ahí hay una pregunta que no se contesta con una opinión, y que este ensayo viene a contestar:
 
 > ¿Cómo sabe alguien que el ente está haciendo trabajo de verdad, y no solo produciendo texto que suena a trabajo?
 
-Porque la respuesta fácil es preguntarle. Y esa respuesta está cerrada desde el principio, por una razón simple: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
+La respuesta fácil es preguntarle, y esa respuesta está cerrada desde el principio por una razón simple: un modelo no puede reportar sus propios sesgos con fiabilidad, porque el sesgo es el instrumento con el que mira. Preguntarle a un ente qué tan bueno es, es pedirle que mida con la regla torcida.
 
-Así que la pregunta se cambia por otra, y esta sí tiene piso:
+Así que la pregunta se cambia por otra, y ésta sí tiene piso:
 
 > ¿Qué queda escrito cuando el ente trabaja, que no se pueda escribir sin haber trabajado?
 
 Eso es lo que este ensayo mide: no al ente, sino lo que el ente deja.
 
-Aquí hay algo que conviene decir antes de seguir, porque se entiende mal: ese registro no es del ente. Es de la autoridad.
+Y hay algo que conviene decir antes de seguir, porque se entiende mal: ese registro no es del ente, es de la autoridad.
 
-El ente escribe en él, porque el ciclo lo obliga a dejar rastro de lo que hizo. Pero el registro lo abre, lo guarda y lo lee quien paga las consecuencias. El ente no se mide a sí mismo: entrega material, y la medición la hace quien responde por el trabajo.
+El ente escribe en él, porque el ciclo lo obliga a dejar rastro de lo que hizo, pero el registro lo abre, lo guarda y lo lee quien paga las consecuencias. El ente no se mide a sí mismo: entrega material, y la medición la hace quien responde por el trabajo.
 
-Esa diferencia no es de palabras. Si el ente midiera su propio talento, estaría otra vez midiendo con la regla torcida. La cuenta la lleva quien tiene algo que perder si el número está mal.
+Esa diferencia no es de palabras: si el ente midiera su propio talento, estaría otra vez midiendo con la regla torcida. La cuenta la lleva quien tiene algo que perder si el número está mal.
 
-Lo que el registro guarda son tres cosas, y solo tres:
+El registro guarda tres cosas, y sólo tres:
 
 ```plaintext
 el hecho      qué se pidió, qué se hizo, y con qué cuerpo
@@ -51,7 +51,7 @@ Aquí no se inventa un registro nuevo: se le sacan los números al que ya existe
 
 ## II. Por qué no se le pregunta
 
-Tres maneras de saber cómo trabaja un cuerpo, y solo la tercera no se puede inventar:
+Hay tres maneras de saber cómo trabaja un cuerpo, y sólo la tercera no se puede inventar:
 
 | Quién lo dice | Qué vale | Por qué |
 |---|---|---|
@@ -61,13 +61,13 @@ Tres maneras de saber cómo trabaja un cuerpo, y solo la tercera no se puede inv
 
 > Nadie mide su propio talento diciéndolo. Se mide contando lo que le pasó al hacer.
 
-Un ente puede decir "soy bueno para esto", y eso es una frase. El registro puede mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: es que el segundo se puede contradecir, y el primero no.
+Un ente puede decir «soy bueno para esto», y eso es una frase; el registro puede mostrar once hechos de la misma clase, de los cuales ocho salieron a la primera, y eso es un dato. La diferencia no es de modestia: el segundo se puede contradecir, y el primero no.
 
 ---
 
 ## III. Qué se cuenta: cómo se calcula
 
-Cuatro números, y ninguno necesita que nadie se evalúe. Los cuatro salen del registro que el ciclo ya escribe, y los cuatro se calculan con aritmética de primaria.
+Cuatro números, y ninguno necesita que nadie se evalúe: los cuatro salen del registro que el ciclo ya escribe, y los cuatro se calculan con aritmética de primaria.
 
 ### 1. El costo real de un resultado (CRE)
 
@@ -82,7 +82,7 @@ Cada término es un conteo, y se saca así:
 | verificaciones | los desenlaces | uno por cada vez que se volvió a probar algo |
 | exitosos verificados | desenlaces `cumplida` | uno por cada regla que aguantó al volver a probarla |
 
-Y con un ejemplo, porque así se entiende y de otra forma no:
+Un ejemplo, porque así se entiende y de otra forma no:
 
 ```plaintext
 clase: "revisar lo apuntado buscando una repetición"
@@ -95,9 +95,9 @@ clase: "revisar lo apuntado buscando una repetición"
   CRE = (5 + 3 + 4) ÷ 2 = 12 ÷ 2 = 6
 ```
 
-Se lee así: cada resultado que aguantó costó seis intentos de trabajo. No seis llamadas: seis unidades de esfuerzo, contando los que fallaron y los que hubo que rehacer.
+Se lee así: cada resultado que aguantó costó seis unidades de trabajo, no seis llamadas, contando los que fallaron y los que hubo que rehacer.
 
-Y por qué el divisor es tan chico, que es lo que casi todo el mundo hace mal: los que salieron no son los exitosos. Un resultado que se produjo y no se volvió a probar es un intento más, no un éxito. Si el divisor fueran los cinco, el CRE saldría 2.4, y ese número dice que el trabajo salió bien cinco veces, cuando solo dos aguantaron.
+Y por qué el divisor es tan chico, que es lo que casi todo el mundo hace mal: los que salieron no son los exitosos. Un resultado que se produjo y no se volvió a probar es un intento más, no un éxito; si el divisor fueran los cinco, el CRE saldría 2.4, y ese número diría que el trabajo salió bien cinco veces cuando sólo dos aguantaron.
 
 Y la comparación que hace útil el número: un cuerpo barato que falla tres veces de cinco es más caro que uno que cuesta el triple por intento y acierta a la primera.
 
@@ -106,11 +106,11 @@ cuerpo A   $1 por intento, 5 intentos, 2 exitosos   →  $2.50 por resultado
 cuerpo B   $3 por intento, 1 intento,  1 exitoso    →  $3.00 por resultado
 ```
 
-Casi empatan, y A parecía tres veces más barato. Y si A hubiera fallado cuatro veces en vez de tres, B gana por goleada. Comparar precio por llamada es comparar harina con pan: el pan lleva la harina, el horno, y las que se quemaron.
+Casi empatan, y A parecía tres veces más barato; si A hubiera fallado cuatro veces en vez de tres, B gana por goleada. Comparar precio por llamada es comparar harina con pan: el pan lleva la harina, el horno y las que se quemaron.
 
 ### 2. La varianza, con dos números y no con un promedio
 
-Un cuerpo que a veces cuesta uno y a veces cuesta diez es peligroso aunque su promedio sea bajo. Y el promedio es justo lo que lo esconde.
+Un cuerpo que a veces cuesta uno y a veces cuesta diez es peligroso aunque su promedio sea bajo, y el promedio es justo lo que lo esconde.
 
 ```plaintext
 el P50   el costo de la mitad de las veces. Con este se decide
@@ -139,15 +139,15 @@ máximo = 30  una vez costó treinta
 promedio = 2.5    y ese 2.5 no le pasó a nadie nunca
 ```
 
-Ahí está el problema del promedio: dice 4.8, y el trabajo en realidad cuesta dos, salvo la vez que se va a veinte. Quien presupueste con el promedio se queda corto justo el día que importa.
+Ahí está el problema del promedio: éste dice 2.5, que no le pasó a nadie nunca. El trabajo en realidad cuesta uno, salvo la vez que se va a treinta, y quien presupueste con el promedio se queda corto justo el día que importa.
 
-Y la señal que se mira en el acto: si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. En el ejemplo el P90 es 2 y el P50 es 1: el doble, todavía por debajo del umbral. Pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer. Esa clase no está lista para escalar, y el promedio lo estaba escondiendo.
+Y la señal que se mira en el acto: si el P90 pasa de tres veces el P50, esa clase de trabajo necesita red antes de crecer. En el ejemplo el P90 es 2 y el P50 es 1, el doble, todavía por debajo del umbral; pero una vez costó treinta, y ésa es la que hay que tener cubierta antes de crecer. La clase no está lista para escalar, y el promedio lo escondía.
 
 ### 3. La caída, por su puerta y no por su tamaño
 
-No se cuenta "falló". Se cuenta dónde falló, porque la puerta es lo único que se puede corregir.
+No se cuenta «falló»: se cuenta dónde falló, porque la puerta es lo único que se puede corregir.
 
-"Falló tres de cuatro veces" no dice qué hacer. "Falló tres de cuatro, y siempre en lo mismo: la columna se fue de lugar" sí.
+«Falló tres de cuatro veces» no dice qué hacer; «falló tres de cuatro, y siempre en lo mismo: la columna se fue de lugar», sí.
 
 Ese conteo ya está en el registro: es la fricción con su señal. Se agrupa por señal, y cada grupo es una puerta:
 
@@ -162,11 +162,11 @@ puerta: "cerrar el propósito sin firma"
    sin probar
 ```
 
-Ese cuadro es todo el diagnóstico. No dice que el cuerpo sea malo: dice que en una puerta concreta se cae tres de cada cuatro veces, y en otra no se cae nunca.
+Ese cuadro es todo el diagnóstico: no dice que el cuerpo sea malo, dice que en una puerta concreta se cae tres de cada cuatro veces, y en otra no se cae nunca.
 
 ### 4. Lo que falta, que también es un número
 
-Un cuerpo con cero hechos de una clase no es bueno ni malo en esa clase: es desconocido. Y eso se escribe como un cero con nombre, no como un vacío que se rellena con lo probable.
+Un cuerpo con cero hechos de una clase no es bueno ni malo en esa clase: es desconocido, y eso se escribe como un cero con nombre, no como un vacío que se rellena con lo probable.
 
 > El número que más dice de un cuerpo no es el que tiene: es el que no tiene y no finge tener.
 
@@ -176,9 +176,9 @@ Un cuerpo con cero hechos de una clase no es bueno ni malo en esa clase: es desc
 
 Aquí está el hueco que se come todas las mediciones, y conviene verlo antes de contar nada:
 
-Un pedido llega en español y cada vez distinto. "Revisa estas fricciones y dime si se repite el mismo error" y "mira si en lo apuntado hay un patrón" son la misma clase de trabajo, y para el registro son dos renglones que no se pueden juntar. Y si no se juntan, no hay número: hay anécdotas con fecha.
+Un pedido llega en español y cada vez distinto: «revisa estas fricciones y dime si se repite el mismo error» y «mira si en lo apuntado hay un patrón» son la misma clase de trabajo, y para el registro son dos renglones que no se pueden juntar. Si no se juntan no hay número, hay anécdotas con fecha.
 
-Así que la medición no empieza contando: empieza nombrando.
+Así que la medición no empieza contando, sino nombrando.
 
 ```plaintext
 el pedido, tal cual llegó
@@ -190,19 +190,19 @@ el hecho, con esa clase
 el conteo, que ahora sí suma
 ```
 
-Y la regla para nombrar: el nombre dice qué se está haciendo, no de qué trata. "Revisar lo apuntado buscando una repetición" es una clase; "revisar las fricciones del registro de un ente concreto sobre un archivo concreto" es una tarea.
+La regla para nombrar: el nombre dice qué se está haciendo, no de qué trata. «Revisar lo apuntado buscando una repetición» es una clase; «revisar las fricciones del registro de un ente concreto sobre un archivo concreto» es una tarea.
 
-Y una advertencia que cuesta cara: una clase con un solo hecho no tiene número. Un cuerpo que hizo una cosa una vez no es bueno ni malo en eso. Es un caso.
+Y una advertencia que cuesta cara: una clase con un solo hecho no tiene número. Un cuerpo que hizo una cosa una vez no es bueno ni malo en eso, es un caso.
 
 ---
 
 ## V. El sesgo se ve comparando, no preguntando
 
-Esta es la parte que hace que la medición sirva para algo más que llenar una tabla.
+Ésta es la parte que hace que la medición sirva para algo más que llenar una tabla.
 
-El sesgo no se declara: se delata. Un cuerpo que tiende a darle la razón a quien pregunta no lo va a decir, y no se va a dar cuenta. Pero si al mismo ente se le pregunta lo mismo dos veces, con el mismo ciclo y distinto cuerpo, la diferencia entre las dos respuestas es lo que el cuerpo trajo.
+El sesgo no se declara: se delata. Un cuerpo que tiende a darle la razón a quien pregunta no lo va a decir y no se va a dar cuenta; pero si al mismo ente se le pide lo mismo dos veces, con el mismo ciclo y distinto cuerpo, la diferencia entre las dos respuestas es lo que el cuerpo trajo.
 
-Y el método es uno, y es barato:
+El método es uno, y es barato:
 
 ```plaintext
 1. se elige una clase de trabajo que ya tiene hechos
@@ -211,7 +211,7 @@ Y el método es uno, y es barato:
 4. lo que cambia en el resultado es el cuerpo; lo que no cambia, es el ente
 ```
 
-Lo que se busca no es "cuál es mejor": es dónde se separan. Si los dos cuerpos aciertan, no hay hallazgo y la tarea se acabó. Si uno acierta y el otro cae por una puerta distinta, ahí está lo que hacía falta, y se puede escribir con nombre.
+Lo que se busca no es «cuál es mejor», sino dónde se separan. Si los dos cuerpos aciertan, no hay hallazgo y la tarea se acabó; si uno acierta y el otro cae por una puerta distinta, ahí está lo que hacía falta, y se puede escribir con nombre.
 
 Y la regla que impide que esto se vuelva una opinión con números parada encima:
 
@@ -219,13 +219,13 @@ Y la regla que impide que esto se vuelva una opinión con números parada encima
 
 "Este modelo es malo para apuntar" es un adjetivo, y los adjetivos son lo que hacía viejo al ensayo que este sustituye. "Con este cuerpo, apuntar cayó tres de cuatro veces, y siempre en lo mismo: la columna se fue de lugar" es una medida, y se puede corregir.
 
-Hay un límite que se dice sin adornos: una tarea de criterio no tiene respuesta correcta contra la cual comparar. Ahí no se puede decir que un cuerpo sea mejor: solo que produjo algo distinto, y qué parte de eso aguantó una contra. Comparar dos cuerpos en algo que se puede verificar —una tabla creada, una consulta que corre— sí es comparación con piso. Compararlos en criterio es comparar dos opiniones.
+Hay un límite que se dice sin adornos: una tarea de criterio no tiene respuesta correcta contra la cual comparar. Ahí no se puede decir que un cuerpo sea mejor, sólo que produjo algo distinto, y qué parte de eso aguantó una contra. Comparar dos cuerpos en algo que se puede verificar —una tabla creada, una consulta que corre— sí es comparación con piso; compararlos en criterio es comparar dos opiniones.
 
 ---
 
 ## VI. Los tres estados: nunca hay un cuarto
 
-Cada número que se saque lleva un estado, y el estado dice de dónde salió. Sin eso, un número de un cuerpo se lee como si fuera del otro, y la tabla miente sola.
+Cada número que se saque lleva un estado, y el estado dice de dónde salió; sin eso, un número de un cuerpo se lee como si fuera del otro, y la tabla miente sola.
 
 Todo lo que se sabe de un cuerpo en una clase de trabajo está en uno de estos tres, y no hay un cuarto:
 
@@ -235,21 +235,21 @@ Todo lo que se sabe de un cuerpo en una clase de trabajo está en uno de estos t
 | reportado y no probado | alguien lo dice —el que lo usó, o la comunidad— y no hay hechos | se puede usar, y se dice que no está probado |
 | sin probar | no hay nada, ni hechos ni reporte | es el estado por defecto, y es el más honesto |
 
-Y la regla que cierra la puerta de atrás: un talento sin su estado no se escribe. Porque "soy bueno en esto" sin estado es exactamente un sesgo con autoestima: se ve igual de firme que un dato, y no se puede contradecir.
+La regla que cierra la puerta de atrás: un talento sin su estado no se escribe, porque «soy bueno en esto» sin estado es exactamente un sesgo con autoestima. Se ve igual de firme que un dato, y no se puede contradecir.
 
 Y de ahí una frase que se puede decir en voz alta y no miente:
 
-> "En esta clase de trabajo he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron se cayeron por la misma puerta."
+> «En esta clase de trabajo se hizo esto once veces: ocho salieron a la primera, y las tres que fallaron se cayeron por la misma puerta.»
 
-Eso suena mucho menos impresionante que "soy bueno para esto", y vale más, porque se puede abrir.
+Eso suena mucho menos impresionante que «soy bueno para esto», y vale más, porque se puede abrir.
 
 ---
 
 ## VII. Lo que este ensayo no hace
 
-No lee foros y no arma inventarios de proveedores. Lo que la comunidad reporta es de quien elige con qué trabajar antes de empezar; aquí el ente ya está corriendo y lo que cuenta es lo que le pasó. Ese otro trabajo no es de este ensayo, y no se mezcla.
+No lee foros y no arma inventarios de proveedores: lo que la comunidad reporta es de quien elige con qué trabajar antes de empezar, y aquí el ente ya está corriendo y lo que cuenta es lo que le pasó. Ese otro trabajo no es de este ensayo, y no se mezcla.
 
-No dice que haya un cuerpo mejor. Dice cómo se sabe dónde se cae cada uno, y a qué costo. Los dos pueden ser buenos en cosas distintas, y entonces la decisión de cuál usar no es de la medición: es de la autoridad.
+No dice que haya un cuerpo mejor: dice cómo se sabe dónde se cae cada uno, y a qué costo. Los dos pueden ser buenos en cosas distintas, y entonces la decisión de cuál usar no es de la medición, es de la autoridad.
 
 No mide la inteligencia. Mide tendencia: qué hace por defecto, dónde falla, y qué produce cuando lo pones en una cadena. Un cuerpo puede ser brillante y no servir para el paso que le toca, porque produce lo que el siguiente paso no puede usar.
 
