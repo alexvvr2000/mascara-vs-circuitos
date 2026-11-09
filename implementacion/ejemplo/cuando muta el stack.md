@@ -3,7 +3,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-No al revés. Los ensayos mandan; el stack obedece.
+No al revés: los ensayos mandan y el stack obedece.
 
 ---
 
@@ -17,17 +17,15 @@ No se cambia por gusto ni por novedad: se cambia porque el ensayo dijo algo que 
 
 ## Por qué esto importa, y es lo que hace que la implementación quede impecable
 
-Un stack que no sigue a los ensayos se vuelve viejo en silencio. Se ve completo, se instala, y hace lo que hacía hace veinte corridas mientras los ensayos piden otra cosa.
+Un stack que no sigue a los ensayos se vuelve viejo en silencio: se ve completo, se instala, y hace lo que hacía hace veinte corridas mientras los ensayos piden otra cosa. Y el repositorio entero existe para evitarlo, porque la implementación es una consecuencia de los ensayos, y una consecuencia que no se actualiza deja de serlo.
 
-Y el repositorio entero existe para evitar eso: la implementación es una consecuencia de los ensayos, y una consecuencia que no se actualiza deja de serlo.
-
-Entre más corridas, más fino el ensayo, y más fino el stack. No porque se mejore el stack por separado: porque se corrige lo que el ensayo dejó de sostener.
+Entre más corridas, más fino el ensayo, y más fino el stack. No porque se mejore el stack por separado, sino porque se corrige lo que el ensayo dejó de sostener.
 
 ---
 
 ## Cuándo se mira, y cuándo no
 
-On demand, y no en cada corrida. Porque buscar en internet en cada paso es caro en tiempo y en tokens, y casi siempre no hay nada nuevo que buscar.
+On demand, y no en cada corrida: buscar en internet en cada paso es caro en tiempo y en tokens, y casi siempre no hay nada nuevo que buscar.
 
 ```plaintext
 se mira cuando   una corrida cerró un hueco del ensayo, y ese hueco
@@ -39,9 +37,7 @@ y no se mira    en cada corrida que sólo afinó una regla ya escrita
                  ni en las que no tocaron nada de lo que el stack hace
 ```
 
-La señal para decidir en el acto: si el hallazgo necesita nombrar una herramienta, el stack se mira. Si no la nombra, el stack no se toca.
-
-Ésa es la misma regla de los dos destinos que ya usa la metodología: lo que es del stack se queda en el stack, y lo que es del ensayo se va al ensayo.
+La señal para decidir en el acto, y es la regla de los dos destinos que ya usa la metodología: si el hallazgo necesita nombrar una herramienta, el stack se mira, porque lo del stack se queda en el stack; si no la nombra, el stack no se toca, porque lo del ensayo se va al ensayo.
 
 ---
 
@@ -67,23 +63,21 @@ Una línea por cambio, y no se borra. Y si un cambio se deshizo, también se apu
 |---|---|---|---|
 | 2026-11-08 | el stack se escribe por primera vez | ninguna: es la elección inicial | `DSH` y `dshmarket` como vía, y `graphdblite` porque el índice es un grafo |
 
-Lo que el registro deja a la vista, y es cierto hoy: ningún cambio de stack ha sido pedido por una corrida todavía. Ese renglón es el único, y lo dice.
+Lo que el registro deja a la vista, y es cierto hoy: ese renglón es el único, y lo dice: ningún cambio de stack ha sido pedido por una corrida todavía.
 
 ---
 
 ## Lo que esta regla no es
 
-- No es que el stack se reescriba con cada corrida. Casi ninguna corrida va a pedir un cambio de stack, y eso es lo esperado.
-- No es que se busque en internet siempre. Se busca cuando se mira, y se mira on demand.
-- Y no es que el stack siga a los ensayos de cualquier manera. El stack sólo cambia si el ensayo dice algo que el stack ya no cumple. Un ensayo que se aclara no cambia el stack.
+- No es que el stack se reescriba con cada corrida: casi ninguna corrida va a pedir un cambio de stack, y eso es lo esperado.
+- No es que se busque en internet siempre: se busca cuando se mira, y se mira on demand.
+- Y no es que el stack siga a los ensayos de cualquier manera: sólo cambia si el ensayo dice algo que el stack ya no cumple. Un ensayo que se aclara no cambia el stack.
 
 ---
 
 ## Falsificador
 
-Un stack que no se miró después de veinte corridas, presentado como actualizado.
-
-Y el más probable: cambiarlo en cada corrida, por parecer fino, y terminar con un stack que nadie puede reproducir porque cambió veinte veces sin que nadie apuntara por qué.
+Un stack que no se miró después de veinte corridas, presentado como actualizado. Y el más probable: cambiarlo en cada corrida, por parecer fino, y terminar con un stack que nadie puede reproducir porque cambió veinte veces sin que nadie apuntara por qué.
 
 ---
 
