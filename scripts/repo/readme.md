@@ -97,6 +97,30 @@ puede leer sin él.
 - **No juzga el proceso de un ensayo.** La regla de los once renglones se aplica a los
   procesos, que son los que están en `metodologia/`; un ensayo que usa uno de esos
   campos como gancho no es un proceso mal escrito.
+- **No parsea `humanidad/` por ideas, ni falta que hace.** Ver el alcance, abajo.
+
+---
+
+## El alcance: dónde sirve parsear, y dónde no
+
+La prosa no se parsea igual en todas partes, y esto decide dónde vale la pena el
+formato de bloques y dónde es trabajo perdido.
+
+```plaintext
+la obra/humanidad/    es para el lector. se lee y se entiende. no se parsea, y no
+                      se toca: es del autor, y los bloques ahí no ayudan a nadie.
+
+la obra/teoria/       está en constante mutación. sí se parsea: es la que más se
+                      discute y la que se va a reescribir. once ensayos, uno por vez.
+
+metodologia/          al final.
+```
+
+Y lo que viene después, para que no se pierda: cuando acabe el análisis de ciclo, **el
+ciclo del ente se hace desde cero** y pasa a ser la lista de pasos que referencia las
+ideas ya destiladas. Las piezas ya están; lo que falta es unificarlas, decir cuál no
+va y cuál falta, y dejar el detalle justo para que de ahí en adelante sólo se agregue
+detalle, por cualquiera de los tres métodos.
 
 ---
 
