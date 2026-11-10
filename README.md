@@ -213,7 +213,7 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
      README.md              cual contesta que, y donde va cada cosa
      huecos/                A · llenar los huecos
        README.md              la meta, cuando se deja de correr, y por que
-                              las dieciocho corridas son todas de este metodo
+                              las corridas de `huecos` son todas de este metodo
        como se corre.md       los comandos, el orden, y que se escribe
        corridas/              cada una con su documentacion, su esquema y sus
                               filas en texto. sin binarios

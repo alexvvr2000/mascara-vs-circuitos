@@ -9,6 +9,24 @@ Alejandro Valenzuela Rivera · el ente.
 
 ---
 
+## Qué saca este método, y con qué forma
+
+Los tres métodos trabajan sobre las ideas de `la obra/teoria/`, y las sacan con una
+sola forma, que se escribe una vez en [la forma del bloque](la%20forma%20del%20bloque.md).
+Y toman un ensayo desde donde esté, en prosa o ya partido, con las dos puertas de
+[los dos puntos iniciales](los%20dos%20puntos%20iniciales.md).
+
+Lo que cambia entre uno y otro no es la forma del bloque: es la pregunta que se hace
+antes de llegar a él. Así que cualquier detalle que se agregue con cualquiera de los
+tres se va a ver igual en el ensayo, y se va a poder comparar con los demás.
+
+Y el reparto que lo hace legible, de un vistazo: `teoria/` es el detalle, y
+[el ciclo del ente](../..//la%20obra/el%20ciclo%20del%20ente.md) es el resumen que nombra
+todas las ideas sin copiarlas. Está escrito en [el reparto](el%20reparto.md).
+
+---
+
+
 ## Qué es este método, y qué no
 
 Es el que encuentra lo que el ensayo no dice: se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.
@@ -19,7 +37,7 @@ Hacen falta los dos, y por razones distintas: los mutantes sólo prueban reglas 
 
 ---
 
-## Las dieciocho corridas son todas de este método
+## Las corridas de este método
 
 Esto se escribe porque se buscó lo contrario y no está: se abrieron las dieciocho documentaciones, una por una, y todas dicen lo mismo, con su fecha, qué se intentaba, qué se levantó y qué hubo que inventar.
 

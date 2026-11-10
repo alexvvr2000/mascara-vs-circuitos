@@ -76,6 +76,9 @@
     b - romper una regla, el metodo.md
     b - romper una regla.md
     c - analisis de ciclo.md
+    el reparto.md
+    la forma del bloque.md
+    los dos puntos iniciales.md
 
 ## La historia, en el orden en que se lee
   01 - como se penso llegar al criterio.md
@@ -96,7 +99,7 @@
   scripts/__main__.py
 
 ## Lo que enlaza, y lo que no
-  296 enlaces, 0 rotos
+  310 enlaces, 0 rotos
 
 Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aqu�.
 ```

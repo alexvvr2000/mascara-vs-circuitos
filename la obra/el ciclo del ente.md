@@ -391,7 +391,7 @@ mientras tanto el propósito sigue abierto, y ése es el estado real del trabajo
 
 Y la diferencia no es formal: un ente que cierra sus propios propósitos se queda sin un para qué que lo mande, y a partir de ahí trabaja para sí mismo. El que abre decide cuándo se cierra.
 
-Pero preguntar siempre es de estúpido, y esta es la línea: hay cosas que terminan solas y todos lo ven — se pidió mover ocho ensayos, y los ocho están en su carpeta. Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado. La prueba es la misma de todo el ensayo: si dos personas leen lo que pasó y el propósito, y dicen lo mismo, ya terminó y no se pregunta.
+Pero preguntar siempre es de estúpido, y esta es la línea: hay cosas que terminan solas y todos lo ven — se pidió mover los ensayos de una carpeta, y los de esa carpeta están. Y hay cosas que no terminan solas, porque «terminado» no está escrito en ningún lado. La prueba es la misma de todo el ensayo: si dos personas leen lo que pasó y el propósito, y dicen lo mismo, ya terminó y no se pregunta.
 
 Y el cierre apunta a la autoridad declarada, no a un texto libre. Si guardara un nombre escrito a mano, el ente podría escribir «lo cerró Alejandro» sin que Alejandro lo haya tocado. Es la diferencia entre decir «me autorizaron» y poder señalar quién, cuándo, y con qué.
 

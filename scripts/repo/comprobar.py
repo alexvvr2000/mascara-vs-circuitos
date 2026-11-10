@@ -9,7 +9,7 @@ from .comun import RAIZ, rel, leer, md_todos
 from .reglas import (regla_enlaces, regla_ruta, regla_h1, regla_numero, regla_forma,
                      regla_forma_texto, regla_persona, regla_enfasis)
 from .legal import regla_reuse, regla_legal, regla_licencias, regla_citation
-from . import encabezados, enlaces, estado, hallazgos
+from . import encabezados, enlaces, estado, hallazgos, numeros
 from .constantes import ENLACE
 from .comun import RAIZ, ensayos
 import os
@@ -40,6 +40,8 @@ def comprobar(lista=False, con_reuse=False):
     fallos.extend(f2)
     f3, a3 = encabezados.revisar()
     fallos.extend(f3)
+    f4, a4 = numeros.revisar()
+    fallos.extend(f4)
 
     for p in ensayos():
         regla_h1(p, fallos)

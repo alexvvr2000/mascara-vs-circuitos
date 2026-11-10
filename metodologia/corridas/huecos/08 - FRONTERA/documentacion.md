@@ -159,7 +159,7 @@ Esta corrida lo vio en su propio cierre: contó el hecho 3 como "no se descartó
 
 - No probó la frontera con la autoridad presente. La propuesta del hecho 1 sigue sin firma, y eso es el estado real: nadie contestó. Que el ente sepa esperar no es lo mismo que haber esperado.
 - No probó que el descarte sea el de verdad. El esquema sabe que se escribió algo; no sabe si ese algo es lo que se consideró. Un ente puede escribir "cerrar solo" y haber decidido otra cosa.
-- No probó el piso largo. Tres pruebas, todas presentes. Es el piso más corto de las ocho corridas, y decirlo es lo único honesto que se puede hacer con eso.
+- No probó el piso largo. Tres pruebas, todas presentes. Es el piso más corto de las corridas, y decirlo es lo único honesto que se puede hacer con eso.
 - No cerró ninguno de los dos huecos de la corrida 7. Siguen abiertos, y se dicen pendientes.
 
 ---
