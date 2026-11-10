@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-# El método entero
+# Método B · Mutaciones
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
@@ -7,7 +7,19 @@ Cómo se prueba una regla de estos ensayos: la regla, el mutante, la tarea que l
 
 Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-09.
 
-Y el corte entre este archivo y [la forma de la aserción](b%20-%20mutaciones.md), que es de un renglón: `forma.md` dice qué forma tiene un ensayo y cómo la comprueba el build. Éste dice cómo se prueba lo que el ensayo afirma. Se necesitan los dos: sin forma, el mutante no sabe qué romper; sin método, la forma sólo dice que el texto está bien escrito.
+Y la forma de la aserción dejó de ser un archivo aparte: es el capítulo XVI, al final. Decía qué forma tiene un ensayo y cómo la comprueba el build; y este método dice cómo se prueba lo que el ensayo afirma. Se necesitan las dos: sin forma, el mutante no sabe qué romper; sin método, la forma sólo dice que el texto está bien escrito.
+
+Se corre:      cada vez que un ensayo cambia una regla: se toma la regla, se vuelve al revés, se levanta un ente con ella cambiada, y se mira si la corrida lo nota.
+Entra:         una regla de un ensayo, copiada tal como está; la tarea que la prueba; el banco donde queda; y el ente bueno con el que se compara.
+Sale:          un mutante, su veredicto, y su fila en el índice de corridas: el mutante murió, o sobrevivió y queda nombrado.
+Lo consume:    el autor, que decide si la regla sigue en pie; y el método C, que no puede dar un paso por probado si su regla no tiene mutante muerto.
+La búsqueda:   se busca la regla en el ensayo, no en la implementación: la regla es una frase del ensayo, y el mutante es esa frase al revés.
+Y si no encuentra: si la regla no se puede escribir al revés, no se inventa un mutante: se apunta como regla sin dientes, y se deja sin probar en vez de probarla mal.
+Falla si:      el mutante muere porque la prueba estaba rota; se cambia la tarea después de ver la salida; o el mutante sobrevive y no se apunta.
+Falsificador:  un mutante vivo que no está en el índice; una regla presentada como probada sin su mutante; y una corrida que muere contra un ente bueno que también falla.
+Y qué se pierde si cambia: se pierde la única forma de saber si una regla escrita quiere decir algo: sin el mutante, un ensayo se puede leer entero y no probar ninguna de sus frases.
+
+---
 
 > Este archivo es el método B, entero, y es el único. Antes eran cuatro —`README.md`, `las reglas.md`, `los mutantes.md` y `../corridas/`—, y decían lo mismo tres veces, con números que no cuadraban entre sí. Los cuatro están guardados en [historia/](../historia/), del 06 al 09, y de ahí en adelante manda éste.
 >
