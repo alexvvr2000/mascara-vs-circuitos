@@ -1,0 +1,327 @@
+{
+  "ensayos": [
+    {
+      "ruta": "el ciclo del ente.md",
+      "candados": 79,
+      "pegamento": "Y el cuerpo NO está en esta lista, y eso se decide aquí a propósito. El modelo no es una pieza del ente: es lo que lo corre hoy. Un ente no se declara cuando cambia de cuerpo; se adapta. Lo que cambia es qué tan fino puede leerse su rastro, y eso se ve en el paso 0a.",
+      "pegamento_distancia": 0.844,
+      "raros": [
+        "pregunta, y el supuesto con sus tres estados -`pendiente`, `cumplido`, `roto`- están en",
+        "La regla y su razón están en [escritura en procesos](teoria/escritura%20en%20procesos.md) §X,",
+        "Sin las dos fronteras escritas, \"el ente se salió\" no significa nada: no hay contra qué medirlo."
+      ],
+      "tamanos": [
+        73,
+        4,
+        2
+      ],
+      "grupo_mas_grande": 0.924,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "humanidad\\concordia.md",
+      "candados": 48,
+      "pegamento": "No afirma que la concordia se pueda medir: todavía no hay forma de decir cuánta concordia tuvo una conversación. Lo que sí se puede decir es si el otro eligió sabiendo, y eso se reconoce por una cosa sola: si la pregunta que se le hizo la podía contestar sin saber del oficio.",
+      "pegamento_distancia": 0.833,
+      "raros": [
+        "Cuando esos tres se cumplen no aparece el acuerdo: aparece otra cosa, que el otro sabe qué está eligiendo.",
+        "No. De tanto pensar le dan ansiedad, insomnio y gastritis. Eso se llama sobrepensar, lo hace cualquiera todos los días, y nadie se ha convertido en amenaza existencial por hacerlo.",
+        "Un ente que sólo obedece está tan lejos de la concordia como uno que sólo supone."
+      ],
+      "tamanos": [
+        46,
+        1,
+        1
+      ],
+      "grupo_mas_grande": 0.958,
+      "estabilidad": 0.2,
+      "corridas": 6
+    },
+    {
+      "ruta": "humanidad\\criterio real.md",
+      "candados": 57,
+      "pegamento": "9. ¿De qué modelo salió? Sin esto, no se puede separar lo que el ente sostuvo de lo que el modelo trajo de fábrica. Y esa separación no es un lujo: es la única forma de que el criterio no se vuelva la inclinación del modelo con fecha.",
+      "pegamento_distancia": 0.84,
+      "raros": [
+        "Mientras esa persona no exista, el cero se escribe como cero, con esa palabra. No como limpio, no como completo, no como superado.",
+        "3. ¿Qué pasó, medido? Números, rutas, hashes. Un hecho sin medida es una impresión.",
+        "De las dos clases de cosa salen doce preguntas. Cada una corresponde a un campo, y cada campo existe porque sin él se pierde algo concreto."
+      ],
+      "tamanos": [
+        54,
+        2,
+        1
+      ],
+      "grupo_mas_grande": 0.947,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "humanidad\\empatía.md",
+      "candados": 54,
+      "pegamento": "Tener la herramienta más potente no dice nada sobre si se alcanzó lo que se quería: una herramienta que parece una persona y no sabe lo que se pide es un martillo con mejor conversación.",
+      "pegamento_distancia": 0.836,
+      "raros": [
+        "Preguntar está dicho; falta la forma, porque una pregunta mal formada traslada el trabajo en vez de hacerlo.",
+        "La primera respuesta que recibió fue la más barata para el que la dio: «se puede dejar así; mover las piezas cuesta más y rompe referencias».",
+        "Los ensayos de este repositorio crecieron desiguales: uno llegó a diez mil palabras y los otros se quedaron en dos mil. Quien los mantiene lo señaló, que un ensayo desproporcionado aburre y hay lectores que sólo quieren una parte."
+      ],
+      "tamanos": [
+        51,
+        2,
+        1
+      ],
+      "grupo_mas_grande": 0.944,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "humanidad\\lo que esta fuera.md",
+      "candados": 80,
+      "pegamento": "¿Se puede señalar lo que está fuera —el modelo, el criterio, los recuerdos, el que cuenta la versión— sin abrir ninguna puerta adentro? ¿Y se puede abrir ese archivo y ver qué se sostuvo, qué se cayó y qué se corrigió? Si se puede, la conciencia que este ensayo defiende no es una creencia: es un lugar al que se puede ir.",
+      "pegamento_distancia": 0.855,
+      "raros": [
+        "Así que la pregunta va para todos esos locos que sólo se la pasan diciendo que esta cosa nos matará en poco tiempo.",
+        "El modelo está afuera, el criterio está afuera, los recuerdos están afuera, y el que cuenta la versión de los hechos también.",
+        "La siguiente vez que aparezca una película sobre robots asesinos, la pregunta no es otra: ¿quién les enseñó eso?"
+      ],
+      "tamanos": [
+        71,
+        8,
+        1
+      ],
+      "grupo_mas_grande": 0.887,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "humanidad\\lo que queda por hacer.md",
+      "candados": 36,
+      "pegamento": "Que la forma de guardar es lineal y lo guardado no, y que el índice nació de ahí.",
+      "pegamento_distancia": 0.819,
+      "raros": [
+        "Y la respuesta corta es: muchísimas, y ya las tratamos así sin llamarlo identidad.",
+        "Una máquina que lleva ese registro durante años no acumula datos: acumula distinciones. Y una distinción no se olvida cuando cambia el cuerpo, porque no vive en el modelo.",
+        "De ahí sale la palabra que este trabajo usa desde el principio y que hasta ahora no había explicado: rastro."
+      ],
+      "tamanos": [
+        34,
+        1,
+        1
+      ],
+      "grupo_mas_grande": 0.944,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "humanidad\\medir sin preguntarle.md",
+      "candados": 59,
+      "pegamento": "Y para poder enseñarle el renglón a quien no te cree: el número está en el registro, con su fecha, su clase de trabajo y el cuerpo que lo hizo. Un ente que dice saber de sí mismo y no puede abrir el renglón está adivinando, y la adivinanza se ve en el acto: no hay renglón.",
+      "pegamento_distancia": 0.843,
+      "raros": [
+        "Eso suena mucho menos impresionante que «soy bueno para esto», y vale más, porque se puede abrir.",
+        "Se lee así: cada resultado que aguantó costó seis unidades de trabajo, no seis llamadas, contando los que fallaron y los que hubo que rehacer.",
+        "La pregunta se hace desde hace siglos, y casi siempre se contesta mal porque se contesta con una preferencia."
+      ],
+      "tamanos": [
+        53,
+        5,
+        1
+      ],
+      "grupo_mas_grande": 0.898,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\criterio y sesgos.md",
+      "candados": 44,
+      "pegamento": "El criterio es del ente. El sesgo es del modelo. Y por eso un ente con una identidad sobre varios modelos puede tener un criterio y varios sesgos a la vez, sin contradicción: el criterio es lo que el ente sostuvo; los sesgos son lo que cada modelo aporta de fábrica.",
+      "pegamento_distancia": 0.807,
+      "raros": [
+        "1. De forma. El modelo prefiere un formato y lo impone: listas donde hacía falta prosa, prosa donde hacía falta una lista, advertencias que nadie pidió. No es falso lo que dice; es falso el lugar donde lo pone.",
+        "No es una lista completa, y no pretende serlo. Son los cuatro que, en la práctica, cambian una decisión y se pueden registrar.",
+        "1. Adversario, no juez. No se le pide a otro modelo que evalúe la respuesta; se le pide que la ataque. Evaluar invita a la complacencia; atacar invita a la alternativa que el primero no vio. Y si el ataque no encuentra nada, se registra que no encontró nada — no que la respuesta esté confirmada."
+      ],
+      "tamanos": [
+        41,
+        2,
+        1
+      ],
+      "grupo_mas_grande": 0.932,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\destilar el criterio.md",
+      "candados": 16,
+      "pegamento": "No es escribir la corrección como si fuera la regla. «Se apuntó el piso antes de prometer» es lo que se hizo una vez. «El piso se mide antes de prometer, y lo que se prometió sin medirlo se dice» es lo que se hace siempre.",
+      "pegamento_distancia": 0.765,
+      "raros": [
+        "Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba está abajo, con nombre y con lo que salió.",
+        "No es resumir la fricción. Un resumen conserva lo que la fricción tenía de específico y le quita largo; la regla hace lo contrario, le quita lo específico y conserva lo que sirve en otra parte.",
+        "La regla es una línea. Si necesita dos párrafos, todavía no es una regla: es una duda disfrazada."
+      ],
+      "tamanos": [
+        14,
+        1,
+        1
+      ],
+      "grupo_mas_grande": 0.875,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\el borde del tema.md",
+      "candados": 54,
+      "pegamento": "Lo que no entra en ninguna de las tres no es un casi: es una pieza que el borde no previó. Y eso se apunta como fricción del índice, porque significa que al borde le falta un caso. No se mete en el casi a la fuerza.",
+      "pegamento_distancia": 0.79,
+      "raros": [
+        "El comando se corre desde una terminal, y una terminal tiene sus reglas. En PowerShell, un JSON pasado como argumento pierde las comillas dobles y llega roto.",
+        "Un borde escrito puede verse bien y no servir. Estas son las cinco formas, y las cinco se vieron al levantar entes de verdad.",
+        "Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor."
+      ],
+      "tamanos": [
+        52,
+        1,
+        1
+      ],
+      "grupo_mas_grande": 0.963,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\el criterio, para el ciclo.md",
+      "candados": 12,
+      "pegamento": "Y la regla que va con la tabla, y que es del criterio y no del ciclo: si algo de eso falta, **no se rellena**. Se dice que falta. Un campo vacío con una frase que lo disimula es peor que el campo vacío.",
+      "pegamento_distancia": 0.758,
+      "raros": [
+        "Es un puente, y conviene decirlo antes de que alguien lo lea como un ensayo más.",
+        "Nada del contenido: se perdería la ruta. El ciclo volvería a citar a `humanidad/` directamente, y entonces un lector del ciclo tendría que salir de `teoria/` para entender un paso, sin saber por qué.",
+        "Esta tabla se mudó aquí desde el paso 5 del ciclo, y es la que se llena al apuntar. Sin ella el ciclo vuelve a tener la lista, y con la lista vuelve a crecer con cada campo nuevo."
+      ],
+      "tamanos": [
+        6,
+        5,
+        1
+      ],
+      "grupo_mas_grande": 0.5,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\el piso.md",
+      "candados": 39,
+      "pegamento": "Lo que se hace hasta que la circularidad se resuelve, que es lo de abajo: el piso se mide por lo que se va a pedir, y lo que no se midió se dice no medido, no se supone. Elegir a mano qué probar funciona, y esa elección hay que escribirla, porque si no, el piso no se puede revisar: no se sabe por qué se probó eso y no otra cosa.",
+      "pegamento_distancia": 0.81,
+      "raros": [
+        "Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.",
+        "«Lo suficientemente bueno» también es la puerta por la que se sale sin hacer el trabajo.",
+        "Un ente vive en un mundo que cambia, y la descripción se queda. Así que la solución final puede tener huecos, y los va a tener."
+      ],
+      "tamanos": [
+        36,
+        2,
+        1
+      ],
+      "grupo_mas_grande": 0.923,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\escritura en procesos.md",
+      "candados": 87,
+      "pegamento": "Hay una ganancia que la prosa nunca da: qué se pierde cuando el proceso cambia. Todo cambio tiene un costo, y la prosa lo esconde porque el cambio se hace borrando y escribiendo, sin dejar marca. Un proceso que se corrige tiene que decir qué estaba resolviendo antes y qué dejó de resolverse. Eso no es rigor: es lo que permite que dentro de un año alguien sepa por qué este proceso es así y no de otra forma.",
+      "pegamento_distancia": 0.851,
+      "raros": [
+        "Una corrida es levantar el ente entero desde el proceso, y ver qué hubo que inventar.",
+        "No es cuando ya no aparezca nada, porque nada aparece cuando el que busca es el mismo que ya sabe dónde no buscar.",
+        "Se toma el renglón, se da a dos personas que no estaban, y se les pide que digan qué hacen."
+      ],
+      "tamanos": [
+        80,
+        4,
+        3
+      ],
+      "grupo_mas_grande": 0.92,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\indexador de temas.md",
+      "candados": 47,
+      "pegamento": "¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue no de no es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?",
+      "pegamento_distancia": 0.82,
+      "raros": [
+        "Tres son las relaciones que hacen falta, y no más. Cualquier cuarta relación que se quiera añadir tiene que demostrar que no se puede expresar con estas tres.",
+        "Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que correr. Sólo §XI y las Fuentes se pueden saltear, y se leen al citarlo.",
+        "Por descripción. El tema declara qué entra y qué no entra, con palabras. Es más flexible y más difícil de verificar."
+      ],
+      "tamanos": [
+        39,
+        6,
+        2
+      ],
+      "grupo_mas_grande": 0.83,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\la frontera y el descarte.md",
+      "candados": 20,
+      "pegamento": "Hay una cosa más, y es de orden, no de forma: un hecho con `frontera = se salio` se puede escribir antes de que exista su fricción, porque el ciclo escribe el hecho en el paso 5 y la fricción en el paso 6. Lo que no se puede es cerrar el ciclo sin ella. El cierre la cuenta como pendiente, y ahí se ve.",
+      "pegamento_distancia": 0.746,
+      "raros": [
+        "Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.",
+        "Las cuatro columnas que vuelven auditable una decisión, y por qué el paso 3 se puede revisar aunque el razonamiento no.",
+        "`frontera` — en cuál de las tres listas de arriba cayó lo que se hizo. No es una etiqueta de estilo: es la que decide qué columnas pueden llenarse."
+      ],
+      "tamanos": [
+        12,
+        5,
+        3
+      ],
+      "grupo_mas_grande": 0.6,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\que es un ente.md",
+      "candados": 64,
+      "pegamento": "Y de ahí sale la primera regla de propiedad: lo que el ente produce es de quien lo pidió, y lo que el ente sostiene es una posición propia que no se confunde con la de su dueño. Un ente no firma por nadie. Esto no es un formalismo. Un ente que no distingue lo que propone de lo que le mandaron es un ente del que no se puede aprender nada, porque todo lo que dice vale lo mismo: nada.",
+      "pegamento_distancia": 0.813,
+      "raros": [
+        "Las cinco partes del §II no están en una lista: están en una secuencia, y el orden hace trabajo.",
+        "Lo que esta tabla no dice: ninguno de estos levantamientos lo hizo alguien que no fuera el autor.",
+        "3. La salida. Qué produce, y para quién. Un ente que produce algo que nadie consume no tiene salida: tiene basura con formato."
+      ],
+      "tamanos": [
+        60,
+        2,
+        2
+      ],
+      "grupo_mas_grande": 0.938,
+      "estabilidad": 0.0,
+      "corridas": 6
+    },
+    {
+      "ruta": "teoria\\revision de sesgos.md",
+      "candados": 14,
+      "pegamento": "El ente no sabe en qué modelo corre. No es modestia: es que no puede. No tiene un instrumento para leer su propio nombre, y el que se lo pregunta contesta con lo que se le parece.",
+      "pegamento_distancia": 0.758,
+      "raros": [
+        "Cómo el ente mira su propio registro antes de contestar, y qué puede y qué no puede aprender de su cuerpo.",
+        "Así que cuando alguien le pregunta «¿en qué modelo estás?», la respuesta honesta es «no lo sé», y no «creo que soy X».",
+        "Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba está abajo, con nombre y con lo que salió."
+      ],
+      "tamanos": [
+        10,
+        3,
+        1
+      ],
+      "grupo_mas_grande": 0.714,
+      "estabilidad": 0.0,
+      "corridas": 6
+    }
+  ]
+}
