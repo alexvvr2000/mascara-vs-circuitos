@@ -19,14 +19,15 @@ Se partió de `la obra/el ciclo del ente.md`, leído entero, y de su mapa. Se em
 hecho        las doce fichas del 001 al 012, con sus trece líneas
 hecho        el índice `criterio.md`, con su correspondencia con el original
 hecho        la puerta, y los cuatro procesos de paso
-hecho        `p001` y `p002`, que prueban la carpeta y las fichas
+hecho        `p001`, `p002` y `p004`, que prueban la carpeta, las fichas y sus ideas
+hecho        el folio 0001, con treinta ideas, su línea y su borde
 ```
 
 ## Qué falta, con nombre
 
 ```plaintext
-las ideas de cada ficha      todas dicen «falta» en `sus ideas`: falta leer el ensayo
-                             del ciclo, y sus once ensayos, con la línea exacta
+las ideas de cada ficha      hechas: las treinta salen del ensayo, con su línea y
+                             su borde. falta leer los otros once ensayos para el resto
 las pruebas de cada ficha    todas dicen «falta» en `prueba`: eso es el paso 2
 las conexiones               `conexiones.md` dice «ninguna todavía», y las fichas ya
                              nombran sus recibe y entrega: eso es el paso 3
@@ -37,7 +38,7 @@ las cuentas                  no hay ninguna vuelta con su tabla, y eso es el pas
 
 ```plaintext
 pasos                         12 fichas escritas
-pasos sin idea                12: ninguna dice todavía de qué línea sale su idea
+pasos sin idea                0: las doce tienen sus ideas, con su línea
 pasos sin prueba              12: ninguna tiene todavía su .py
 aristas exigidas              las que nombran los doce pasos, y ninguna probada
 la clase de cero              de cuaderno vacío, menos la cuenta de pasos, que ya tiene
@@ -47,9 +48,9 @@ la clase de cero              de cuaderno vacío, menos la cuenta de pasos, que 
 ## En qué paso quedó
 
 ```plaintext
-el paso en que quedó           el 1, a medias: faltan las ideas de cada ficha
-qué sigue                     terminar el paso 1 y pasar al 2. lo dice su proceso:
-                              `metodologia/ciclo/paso 1 · el ciclo en fichas/readme.md`
+el paso en que quedó           el 1, cerrado: doce fichas, treinta ideas con su línea
+qué sigue                     el paso 2, que es la prueba de cada ficha. lo dice el
+                              Invoca del primer readme de la cadena
 ```
 
 Y el paso 4 de esta vuelta no se ha corrido: no hay cifras que leer de una lápida, y lo que hay es lo que dice esta página.

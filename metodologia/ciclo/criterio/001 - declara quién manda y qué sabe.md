@@ -12,8 +12,9 @@ Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 ## Paso 1 · declara quién manda y qué sabe
 
 ```plaintext
-sus ideas          falta: el folio 0001, la idea de la autoridad, del ente, del propósito
-                   y del índice
+sus ideas          la autoridad (L106)
+                   las cuatro piezas (L88)
+                   el orden de declaración (L46)
 recibe             de nadie: es lo primero, y se declara antes de la primera vuelta
 entrega            al paso 2, el cuerpo de la declaración; al paso 6, el índice; y al
                    paso 11, el propósito y la autoridad que lo firma

@@ -16,17 +16,17 @@ Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 | Ficha | El paso | Lo que hace |
 |---|---|---|
 | [001](criterio/001%20-%20declara%20qui%C3%A9n%20manda%20y%20qu%C3%A9%20sabe.md) | 1 | declara quién manda, y qué sabe: la autoridad, el ente, el propósito y el índice |
-| [002](criterio/002%20-%20declara%20el%20cuerpo.md) | 2 | declara el cuerpo, que es opcional, y se avisa |
-| [003](criterio/003%20-%20mide%20el%20piso.md) | 3 | mide el piso: hasta dónde se puede llegar, medido y no a ojo |
+| [002](criterio/002%20-%20el%20cuerpo%2C%20que%20es%20opcional%20y%20se%20avisa.md) | 2 | declara el cuerpo, que es opcional, y se avisa |
+| [003](criterio/003%20-%20el%20piso%2C%20que%20se%20mide%20y%20no%20se%20promete.md) | 3 | mide el piso: hasta dónde se puede llegar, medido y no a ojo |
 | [004](criterio/004%20-%20entiende%20antes%20de%20recibir.md) | 4 | entiende antes de recibir: la pregunta, o el supuesto con su estado |
-| [005](criterio/005%20-%20recibe%20y%20declara%20el%20origen.md) | 5 | recibe la frase literal, y declara el origen |
-| [006](criterio/006%20-%20consulta%20el%20%C3%ADndice.md) | 6 | consulta el índice, antes de decidir y nunca después |
-| [007](criterio/007%20-%20decide.md) | 7 | decide, con sus cuatro columnas y su autocrítica |
-| [008](criterio/008%20-%20contesta.md) | 8 | contesta, con la frontera pegada |
-| [009](criterio/009%20-%20apunta.md) | 9 | apunta el hecho, sin rellenar lo que falta |
-| [010](criterio/010%20-%20se%20corrige.md) | 10 | se corrige, y apunta el sesgo del cuerpo |
+| [005](criterio/005%20-%20recibe%2C%20y%20declara%20el%20origen.md) | 5 | recibe la frase literal, y declara el origen |
+| [006](criterio/006%20-%20consulta%20el%20%C3%ADndice%2C%20antes%20de%20decidir.md) | 6 | consulta el índice, antes de decidir y nunca después |
+| [007](criterio/007%20-%20decide%2C%20con%20su%20frontera%20y%20su%20autocr%C3%ADtica.md) | 7 | decide, con sus cuatro columnas y su autocrítica |
+| [008](criterio/008%20-%20contesta%2C%20con%20la%20frontera%20pegada.md) | 8 | contesta, con la frontera pegada |
+| [009](criterio/009%20-%20apunta%20el%20hecho.md) | 9 | apunta el hecho, sin rellenar lo que falta |
+| [010](criterio/010%20-%20se%20corrige%2C%20y%20aprende%20de%20qu%C3%A9%20cuerpo.md) | 10 | se corrige, y apunta el sesgo del cuerpo |
 | [011](criterio/011%20-%20cierra%20el%20prop%C3%B3sito.md) | 11 | cierra el propósito: lo propone el ente, y lo firma la autoridad |
-| [012](criterio/012%20-%20devuelve%20al%20%C3%ADndice.md) | 12 | devuelve al índice lo apuntado, y a la autoridad |
+| [012](criterio/012%20-%20devuelve%20al%20%C3%ADndice%2C%20y%20a%20la%20autoridad.md) | 12 | devuelve al índice lo apuntado, y a la autoridad |
 
 ## La correspondencia con el original
 
