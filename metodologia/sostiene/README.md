@@ -19,6 +19,8 @@ forma.md       la forma de la aserción, y las cuatro reglas de build.py.
                es el órgano que deja crecer los ensayos sin mantenimiento
 mutantes/      un script por familia, su documentación, y los bancos en
                dumps de texto ofuscados. el código
+corridas/      las vueltas de la rama del ciclo: el ciclo del ente, paso
+               por paso, y lo que cada vuelta dejó abierto
 ```
 
 El build vive en `scripts/`: `python scripts/build.py` comprueba las cuatro reglas de [forma.md](forma.md), y `--lista` dice además qué ensayo trae qué.
@@ -36,6 +38,8 @@ El otro método, el A, encuentra lo que el ensayo no dice. Éste dice si lo que 
 Una corrida del A levanta un ente y anota lo que hubo que inventar; una del B levanta un ente con el ensayo cambiado, y su pregunta no es qué se inventó, sino si la corrida se dio cuenta.
 
 Hacen falta los dos: éste sólo prueba reglas escritas, y el otro encuentra lo que falta y no está escrito.
+
+Y desde el 2026-11-10 hay una tercera cosa aquí que no es un método nuevo: la rama del ciclo. Prueba las reglas del ciclo del ente en un ente levantado desde cero en cada vuelta, y su árbol está en [metodo.md](metodo.md), capítulo IX bis. La diferencia con las familias, en una línea: una familia muere una vez, y esta rama levanta un ente nuevo por vuelta.
 
 Éste se acaba cuando cada regla tiene su mutante, y el mutante muere. Eso es finito; el otro no lo es.
 
@@ -56,6 +60,22 @@ Y la regla que impide que se contradigan: si el texto y `corridas.md` dicen cosa
 Que lo que la obra afirma se puede romper a propósito, y que lo que sobrevive queda nombrado.
 
 Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
+
+---
+
+## Lo que sostiene
+
+```plaintext
+el método, entero                      //metodo.md I a XV
+la rama del ciclo, y su árbol          //metodo.md IX bis
+   01 · las reglas 1 a 13 del ciclo     //corridas/01 el ciclo baja a la maquina.md
+   02 · los ocho huecos de la vuelta 1  //corridas/02 los ocho huecos de la vuelta uno.md
+   03 · el detalle, y lo que queda viudo //corridas/03 detalle del ciclo, concepto por concepto.md
+```
+
+## Prueba
+
+¿Cada regla de la rama del ciclo tiene su mutante, y el mutante la mata? ¿Lo que una vuelta dejó abierto está en el árbol con nombre, y no sólo en la carpeta de las corridas?
 
 ---
 

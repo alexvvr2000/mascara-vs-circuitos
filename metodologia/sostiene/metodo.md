@@ -29,6 +29,7 @@ VI    el banco: mínimo, suficiente, y por qué no tiene reglas
 VII   cómo se guarda y cómo se regenera: los dumps ofuscados
 VIII  las familias y la inclusión: una madre, sus hijas, y las tres formas
 IX    cuándo se está terminado, cuándo se para, y qué no cuenta
+IX bis la segunda rama: el ciclo del ente, y su árbol
 X     las siete maneras de engañarse, cada una con su señal
 XI    el falsificador de un mutante vivo, y qué se hace con él
 XII   lo que este método no prueba
@@ -36,6 +37,38 @@ XIII  lo que puede estar equivocado, y cómo se sabría
 XIV   de dónde salió cada pieza, con su fuente
 XV    el orden de mando: quién gana cuando se contradicen
 ```
+
+---
+
+# IX bis. La segunda rama: el ciclo del ente, y su árbol
+
+Hasta aquí el método prueba las reglas de los ensayos de `la obra/teoria/` y de `la obra/humanidad/`. Desde el 2026-11-10 hay una segunda rama, y no es una familia más: es un árbol con sus propias vueltas, y su meta no es que una regla muera, sino que **cada regla del ciclo del ente se pueda correr en una máquina**.
+
+```plaintext
+lo que sostiene    el ciclo del ente, paso por paso
+  //01 el ciclo baja a la maquina.md          las reglas 1 a 13, y su mutante
+  //02 los ocho huecos de la vuelta uno.md     lo que la vuelta 1 dejó abierto
+  //03 detalle del ciclo, concepto por concepto.md  el detalle, y lo que queda viudo
+```
+
+Y la diferencia con las familias, que es de forma y no de gusto:
+
+```plaintext
+una familia      una regla, su madre, y sus hijas; la madre muere una vez
+esta rama        una regla por vuelta, con el ente levantado desde cero en cada una;
+                 lo que la vuelta dejó abierto es el árbol, y no un defecto
+```
+
+Y la meta, que también se distingue de la de las familias:
+
+```plaintext
+una familia está terminada   cuando su madre murió
+la rama está terminada       cuando cada regla del ciclo del ente tiene su mutante
+                             que la mata, y cada hueco de una vuelta tiene su vuelta
+                             que lo cierra
+```
+
+Y lo que esta rama no prueba, y se dice: que las reglas del ciclo del ente sean las correctas. Prueba que se pueden correr, y que se rompen donde dicen que se rompen.
 
 ---
 

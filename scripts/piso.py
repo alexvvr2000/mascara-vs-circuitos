@@ -56,7 +56,7 @@ def main():
 
     print()
     print("## Los métodos")
-    for m in ("huecos", "sostiene"):
+    for m in ("huecos", "sostiene", "analisis de ciclo"):
         d = os.path.join(RAIZ, "metodologia", m)
         print("  metodologia/%s/" % m)
         for f in sorted(os.listdir(d)):

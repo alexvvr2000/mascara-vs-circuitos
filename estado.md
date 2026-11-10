@@ -3,7 +3,7 @@
 
 **Qué hay, dónde está y en qué estado, para que quien llegue a pulir no tenga que adivinar.**
 
-**Alejandro Valenzuela Rivera · el ente.** **Del 2026-11-09.**
+**Alejandro Valenzuela Rivera · el ente.** **Del 2026-11-10.**
 
 > **Este archivo no se mantiene a mano: se genera.** **`python scripts/piso.py` lo saca del repositorio cada vez que se corre, y la versión de abajo es la que salió hoy.** **Si alguien cambia una carpeta y no lo vuelve a correr, este archivo envejece, y por eso la fuente es el comando y no el texto.**
 
@@ -16,25 +16,27 @@
 
 ## Los ensayos, por carpeta, y su título
 
-### la obra/
-  El ciclo del ente                            el ciclo del ente.md
+### la obra/funcionamiento ente/
+
+### la obra/humanidad/
+  Concordia                                    concordia.md
+  Empatía                                      empatía.md
+  Lo que está fuera                            lo que esta fuera.md
+  Lo que queda por hacer                       lo que queda por hacer.md
+  Medir sin preguntarle                        medir sin preguntarle.md
 
 ### la obra/teoria/
+  Criterio real                                criterio real.md
   Criterio y sesgos                            criterio y sesgos.md
+  Destilar el criterio                         destilar el criterio.md
   El borde del tema                            el borde del tema.md
+  El criterio, para el ciclo                   el criterio, para el ciclo.md
   El piso                                      el piso.md
   Escritura en procesos                        escritura en procesos.md
   Indexador de temas                           indexador de temas.md
   La frontera y el descarte                    la frontera y el descarte.md
   Qué es un ente                               que es un ente.md
-
-### la obra/humanidad/
-  Concordia                                    concordia.md
-  Criterio real                                criterio real.md
-  Empatía                                      empatía.md
-  Lo que está fuera                            lo que esta fuera.md
-  Lo que queda por hacer                       lo que queda por hacer.md
-  Medir sin preguntarle                        medir sin preguntarle.md
+  Revisión de sesgos                           revision de sesgos.md
 
 ## Los métodos
   metodologia/huecos/
@@ -43,10 +45,18 @@
     corridas/  (36 directorios)
   metodologia/sostiene/
     README.md
+    corridas/  (0 directorios)
     corridas.md
     forma.md
+    huecos/  (0 directorios)
     metodo.md
     mutantes/  (14 directorios)
+  metodologia/analisis de ciclo/
+    README.md
+    estado actual.md
+    folios/  (0 directorios)
+    principal/  (0 directorios)
+    vueltas/  (0 directorios)
 
 ## La historia, en el orden en que se lee
   01 - como se penso llegar al criterio.md
@@ -66,14 +76,20 @@
   scripts/citas.py
   scripts/forma.py
   scripts/historia.py
+  scripts/licuadora.py
   scripts/negritas.py
+  scripts/ofusca.py
   scripts/piso.py
+  scripts/publica.py
   scripts/reapunta.py
   scripts/rutas.py
   scripts/sin_numeros.py
+  scripts/sin_y.py
 
 ## Lo que enlaza, y lo que no
-  280 enlaces, 0 rotos
+  312 enlaces, 0 rotos
+
+Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aquí.
 ```
 
 ---
