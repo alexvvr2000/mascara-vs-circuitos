@@ -94,7 +94,7 @@
   scripts/__main__.py
 
 ## Lo que enlaza, y lo que no
-  285 enlaces, 0 rotos
+  300 enlaces, 0 rotos
 
 Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aquí.
 ```

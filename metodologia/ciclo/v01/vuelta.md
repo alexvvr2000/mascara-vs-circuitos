@@ -30,7 +30,11 @@ El desarme: lo que el ciclo del ente decía en tres pendientes, un paso numerado
 10. cerrar                   la lápida con las cuentas, y la clase de cero de cada una
 ```
 
-## El plan del desarme: de 0 a 1..n
+## El plan del desarme: doce pasos, y catorce tramos
+
+Doce pasos, del 1 al 12, ya escritos en `ciclo final.md`. Los siete del original, el piso
+que estaba en su mapa, la autocrítica que estaba dentro de decidir, el sesgo que estaba
+detrás de apuntar, y el cierre y la vuelta al índice que no estaban numerados.
 
 Los pasos del original, que ahora se numeran del 1 al n, y con su nombre propio:
 
@@ -48,12 +52,15 @@ original        paso     qué es
 6               10       se corrige, y se aprende de qué cuerpo
 ```
 
-Y los tres tramos que no tenían número también son pasos, porque hay que hacerlos:
+Y los cuatro tramos que no tenían número: se reparten en los pasos que los contienen,
+porque un tramo no es un paso aparte cuando no tiene su propio recibe y entrega:
 
 ```plaintext
-la autocrítica               es un paso, y va después de consultar el índice
-la pieza que falta           es un paso, y va dentro de decidir
-el sesgo experimentado       es un paso, y va después de apuntar
+la pieza que falta           dentro del paso 7, que decide con lo que hay
+la autocrítica               dentro del paso 7, y sólo cuando ya hay una caída de esa clase
+el sesgo experimentado       dentro del paso 10, que es de donde sale
+el cierre, y la vuelta        son los pasos 11 y 12, porque sí tienen su propio
+al índice                    recibe y su propio entrega
 ```
 
 Y la numeración que se dice una vez: la del original y la del final. Ningún paso del final dice «se ve en»; cada uno nombra sus ideas, y su prueba.
@@ -61,15 +68,25 @@ Y la numeración que se dice una vez: la del original y la del final. Ningún pa
 ## Lo que falta en esta vuelta
 
 ```plaintext
-la ficha de cada paso        con las líneas del apartado 5 del método
-sus pruebas                  en `pruebas/`, una por paso, y rompiéndose a propósito
-las conexiones               el `recibe` y el `entrega` de cada paso, ya nombrados
-el folio 0001                el ensayo del ciclo, con sus cuatro columnas
-la lápida                    y la tabla de las cuentas
+hecho: las doce fichas        en `ciclo final.md`, del 1 al 12, con sus trece líneas
+lo que falta: sus ideas      el folio 0001, con la línea de cada idea, y su `en`
+sus pruebas                   en `pruebas/`, una por paso, y rompiéndose a propósito
+las conexiones                el `recibe` y el `entrega` de cada paso, ya nombrados, y
+                              su `.py` en verde
+el folio 0001                 el ensayo del ciclo, con sus cuatro columnas
+la lápida                     y la tabla de las cuentas
 ```
 
 Y mientras falten, esta vuelta no cierra: se dice con nombre en su lápida, y la siguiente abre con una nota.
 
 ## Las cuentas
 
-Ninguna todavía: no hay grafo, ni pruebas, ni conexiones. Es **cero de cuaderno vacío**, y se dice con esas palabras.
+```plaintext
+pasos                         12, escritos, y todas las fichas con sus trece líneas
+pasos sin idea                12: ninguno tiene todavía su idea del folio 0001
+pasos sin prueba              12: ninguna prueba existe todavía
+aristas exigidas              las que nombran los doce pasos, y ninguna probada
+ideas sin paso                no se puede contar: no hay folio
+la clase de cero              de cuaderno vacío, menos la cuenta de pasos, que ya tiene
+                              su número porque tiene de dónde contarse
+```
