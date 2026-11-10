@@ -3,58 +3,38 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Los registros de las corridas del método C. Nada más: ni un proceso, ni un ciclo, ni un avance de archivo fijo.
+El ciclo final del ente, y una vuelta por carpeta: los pasos, las conexiones, lo que se decidió, de qué ensayo sale cada idea, y lo que cada vuelta tocó. Cuatro archivos y dos carpetas en la raíz, y nada más.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Este folder está vacío porque no hay corridas. No es que falte algo: es que el método C todavía no corrió ni una vez, y el método no se ejecuta solo. Lo que diga el método se lee en [c - analisis de ciclo.md](../metodos/c%20-%20analisis%20de%20ciclo.md); lo que resulte de correrlo va a caer aquí, con su número.
+> Qué es esto, en cuatro renglones: aquí se junta el ciclo que se puede correr. Lo que diga este cuaderno se lee en [c - analisis de ciclo.md](../metodos/c%20-%20analisis%20de%20ciclo.md), y lo que falte se cuenta desde la lápida de la última vuelta. Este archivo no repite ninguna cifra: si la repite, envejece. Y el cuaderno vacío dice que el trabajo no ha empezado, no que esté completo.
 
 ---
 
-## Qué se apunta aquí, y qué no
+## Qué hay en cada cosa
 
 ```plaintext
-se apunta        cada corrida, con su número: 001, 002, 003…
-no se apunta     el proceso del método, ni la forma de la corrida, ni la medición
+ciclo final.md     los pasos, del 1 al n, con sus ideas, su borde y su prueba
+conexiones.md      las aristas: de qué paso a qué paso, con qué prueba, y en qué estado
+decisiones.md      lo que se decidió con qué se pierde, y lo que se dejó fuera con su razón
+folios/            un archivo por ensayo leído: de qué línea sale cada idea
+vNN/               una vuelta: vuelta.md, lápida.md, grafo.db, grafo.sql y pruebas/
 ```
 
-Y por qué: un archivo fijo obliga a leer todos los archivos de todas las corridas para saber qué pasó en una. Un registro por corrida dice lo que esa corrida hizo, y lo que no tocó no aparece.
+Y lo que este cuaderno no guarda: ni el proceso, ni la forma de un paso, ni cómo se cuentan las cuentas. Eso está en el método, y aquí no se copia.
 
-## Las reglas del nombre
+## La lápida, y cuándo abre una vuelta
+
+La lápida de `vNN/lápida.md` es el cierre de la vuelta, y es lo primero que se lee. Abre la siguiente **con una nota** cuando la anterior no cerró: cuando su lápida no existe, cuando dice que se cerró y su grafo está vacío, o cuando alguna prueba quedó en FALLA y nadie dijo por qué.
+
+## Los números
 
 ```plaintext
-001 - <el ensayo, o el paso>.md      la primera
-002 - <…>.md                        la que le sigue, aunque la 001 se haya corregido
-no se reestrena                     el número de una corrida borrada no se vuelve a usar
-el número dice el orden             el orden en que se corrieron, y no el de lectura
+un folio      0001, 0002, … y no se reusa un número
+una vuelta    v01, v02, … el número dice el orden en que se corrieron
+una prueba    p001, p002, … y su nombre dice lo que prueba
 ```
-
-## La forma de una corrida
-
-```markdown
-## Corrida NNN · <el ensayo, o el paso>
-
-se corrió        la fecha
-de dónde partí   el ensayo y la línea, o el paso que se iba a llenar
-qué ideas salieron   cada una, con su línea, y su paso
-qué se probó     el paso que se corrió, y si aguantó
-qué se conectó   de paso a paso, y cómo se probó
-lo que se dejó   lo descartado, con su razón
-lo que falta     con nombre
-```
-
-Y la regla que hace que un registro sirva: **lo que dice, se puede abrir.** Cada idea trae su línea, cada conexión trae su prueba, y cada descarte trae su razón.
-
-## El estado del cuaderno
-
-```plaintext
-corridas apuntadas     ninguna
-qué sigue              la corrida 001: el desarme del ciclo del ente
-cuándo se abre         cuando alguien decida correrla, no antes
-```
-
-Y la advertencia del cuaderno, que es suya y no del método: **un cuaderno con cero corridas no dice que el trabajo esté completo; dice que no ha empezado.**
 
 ---
 
-Falsificador: un registro que no dice de qué línea sale cada idea; una corrida que dice haber convergido sin dos corridas seguidas que digan lo mismo; y un cuaderno que presenta el cero como si fuera un logro.
+Falsificador: un README que repita una cifra que la lápida ya dice; una carpeta de vuelta sin su lápida; y un cuaderno que presente el cero como si fuera un logro.

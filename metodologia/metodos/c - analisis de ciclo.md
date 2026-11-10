@@ -204,6 +204,10 @@ prueba             <pNNN - lo que prueba>.py de la vuelta
 no cubre           qué queda fuera de este paso, en una línea
 ```
 
+Y la primera regla del paso, que no tiene excepción:
+
+> **Todo paso es un paso.** Lo que hay que hacer se numera del 1 al n, sin 0 y sin letras. No hay un paso cero, ni un paso 0a: si está en el ciclo, se corre, y si se corre, es un paso.
+
 Y las reglas del paso, que se escriben una vez y valen en todas las vueltas:
 
 ```plaintext
@@ -240,7 +244,8 @@ qué se conserva            la idea de cada paso, y su orden
 qué se agrega              el borde de cada paso: qué lo incumple
 qué se va                  el «aquí solo va el gancho», porque el final no cita
 qué queda dicho una vez    la correspondencia entre el número del original y el del
-                           final (el 0, el 0a, el 0b, el 0d, y sus tramos sin número)
+                           final, del 0 y sus letras al 1..n. todo tramo que hay que
+                           hacer es un paso, aunque el original no lo numerara
 ```
 
 Y las dos piezas que toda primera vuelta va a encontrar, dichas aquí para no inventarlas cada vez:
@@ -248,8 +253,9 @@ Y las dos piezas que toda primera vuelta va a encontrar, dichas aquí para no in
 ```plaintext
 las entregas      el ciclo del ente no dice qué entrega un paso al siguiente: se
                   decide en el ciclo final, y se prueba
-la numeración     el original numera con letras y con números; el final numera del
-                  1 al n, sin letras
+la numeración     el original numera con letras y con números, y deja tramos sin
+                  número que igual hay que hacer. el final numera del 1 al n, y cada
+                  uno de esos tramos es un paso, porque se corre
 ```
 
 ## 7. La idea, y el folio: una lectura por ensayo

@@ -41,6 +41,11 @@
 ## Los métodos
   metodologia/ciclo/
     README.md
+    ciclo final.md
+    conexiones.md
+    decisiones.md
+    folios/  (0 directorios)
+    v01/  (1 directorios)
   metodologia/corridas/
     README.md
     ciclo/  (0 directorios)
