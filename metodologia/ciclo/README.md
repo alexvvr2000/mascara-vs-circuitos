@@ -3,55 +3,58 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Lo que el método C va escribiendo: el desarme, el ciclo, sus conexiones, sus decisiones, sus folios, sus vueltas y su avance. Cinco archivos numerados, dos carpetas, y esta puerta.
+Los registros de las corridas del método C. Nada más: ni un proceso, ni un ciclo, ni un avance de archivo fijo.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Y por qué los archivos van numerados: el número es el orden en que se trabaja, no un identificador. Se corre el proceso, se escribe el ciclo, se conecta, se decide, se apunta el avance. De un vistazo se sabe dónde está cada cosa, y no hay un «lo que hay» donde caiga todo.
+> Este folder está vacío porque no hay corridas. No es que falte algo: es que el método C todavía no corrió ni una vez, y el método no se ejecuta solo. Lo que diga el método se lee en [c - analisis de ciclo.md](../metodos/c%20-%20analisis%20de%20ciclo.md); lo que resulte de correrlo va a caer aquí, con su número.
 
 ---
 
-## Los archivos, y para qué
+## Qué se apunta aquí, y qué no
 
 ```plaintext
-01 - el proceso.md      lo que se corre al abrir el cuaderno: el desarme del ciclo del ente
-02 - el ciclo.md        los pasos del ente, numerados, con sus ideas y su prueba
-03 - las conexiones.md  los pares de pasos, con nombre y con prueba
-04 - las decisiones.md  lo que se eligió, y lo que se descartó con su razón
-05 - el avance.md       dónde quedó la vuelta anterior: se lee primero, y se escribe al final
-folios/                 un folio por ensayo leído, con la línea de donde sale cada idea
-vueltas/                una vuelta por carpeta, con su grafo y sus pruebas
+se apunta        cada corrida, con su número: 001, 002, 003…
+no se apunta     el proceso del método, ni la forma de la corrida, ni la medición
 ```
 
-## El orden en que se leen, y en el que se escriben
+Y por qué: un archivo fijo obliga a leer todos los archivos de todas las corridas para saber qué pasó en una. Un registro por corrida dice lo que esa corrida hizo, y lo que no tocó no aparece.
+
+## Las reglas del nombre
 
 ```plaintext
-se lee primero   05, porque dice dónde quedó todo lo demás
-se escribe       01 una sola vez; después 02, 03 y 04 en cada vuelta; y 05 al final
+001 - <el ensayo, o el paso>.md      la primera
+002 - <…>.md                        la que le sigue, aunque la 001 se haya corregido
+no se reestrena                     el número de una corrida borrada no se vuelve a usar
+el número dice el orden             el orden en que se corrieron, y no el de lectura
 ```
 
-Y la regla que lo mantiene honesto: **una idea sin folio no está, y un folio sin línea no es un folio.** Lo que se apunte sin su línea es lo que mañana hay que volver a leer.
+## La forma de una corrida
 
-## Lo que se fue, y por qué
+```markdown
+## Corrida NNN · <el ensayo, o el paso>
+
+se corrió        la fecha
+de dónde partí   el ensayo y la línea, o el paso que se iba a llenar
+qué ideas salieron   cada una, con su línea, y su paso
+qué se probó     el paso que se corrió, y si aguantó
+qué se conectó   de paso a paso, y cómo se probó
+lo que se dejó   lo descartado, con su razón
+lo que falta     con nombre
+```
+
+Y la regla que hace que un registro sirva: **lo que dice, se puede abrir.** Cada idea trae su línea, cada conexión trae su prueba, y cada descarte trae su razón.
+
+## El estado del cuaderno
 
 ```plaintext
-se fue el desarme        porque no es del cuaderno: es del método, y se lee antes de abrirlo
-se fue «estado actual»   porque el «actual» envejece: se llama el avance, y tiene fecha
+corridas apuntadas     ninguna
+qué sigue              la corrida 001: el desarme del ciclo del ente
+cuándo se abre         cuando alguien decida correrla, no antes
 ```
+
+Y la advertencia del cuaderno, que es suya y no del método: **un cuaderno con cero corridas no dice que el trabajo esté completo; dice que no ha empezado.**
 
 ---
 
-## Lo que el método escribe en cada archivo
-
-```plaintext
-lee el ensayo y saca ideas      folios/NNNN - <ensayo>.md
-escribe el paso y sus ideas     02 - el ciclo.md
-conecta los pasos               03 - las conexiones.md
-dice lo que descartó            04 - las decisiones.md
-deja su grafo y sus pruebas     vueltas/vNN/
-apunta dónde quedó              05 - el avance.md
-```
-
----
-
-Falsificador: un paso que dice «esto se ve en otro ensayo»; un folio sin la línea; y un avance sin fecha.
+Falsificador: un registro que no dice de qué línea sale cada idea; una corrida que dice haber convergido sin dos corridas seguidas que digan lo mismo; y un cuaderno que presenta el cero como si fuera un logro.

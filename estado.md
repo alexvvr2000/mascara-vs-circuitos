@@ -42,14 +42,7 @@
 
 ## Los m�todos
   metodologia/ciclo/
-    01 - el proceso.md
-    02 - el ciclo.md
-    03 - las conexiones.md
-    04 - las decisiones.md
-    05 - el avance.md
     README.md
-    folios/  (0 directorios)
-    vueltas/  (0 directorios)
   metodologia/corridas/
     README.md
     ciclo/  (0 directorios)
@@ -74,7 +67,6 @@
     a - encontrar huecos.md
     b - mutaciones.md
     c - analisis de ciclo.md
-    c - el desarme del ciclo del ente.md
     el reparto.md
     ensayos que mutan.md
     la forma del bloque.md
@@ -99,7 +91,7 @@
   scripts/__main__.py
 
 ## Lo que enlaza, y lo que no
-  292 enlaces, 0 rotos
+  284 enlaces, 0 rotos
 
 Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aqu�.
 ```
