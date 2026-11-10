@@ -44,55 +44,31 @@ Aquí no hay buenos. Los dos son rudos. Y el que pierde se quita la máscara: la
 
 ---
 
-> Antes de creerme nada, dos páginas:
->
-> [Los límites, con nombre y sin coartada](la%20obra/los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
->
-> [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, y una tabla de los errores propios que se encontraron revisando.
->
-> Y por qué las dos: esto es de la gente para la gente, y eso significa que la gente tiene derecho a saber cómo se llegó. Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas. Con el camino a la vista, hay una tercera: revisarlo.
+## Qué es este repositorio
+
+Es una propuesta metodológica, y nada más: cómo una persona y una IA dejan un rastro que se pueda juzgar. No hay empresa detrás, ni producto, ni una conclusión que haya que creer.
+
+Lo que hay dentro:
+
+- **la obra.** El ciclo del ente, que es el orden en que un ente recibe, decide, contesta y apunta; los ensayos que lo sostienen; y los papeles, que son los límites y las fuentes.
+- **la metodología.** Tres métodos: encontrar los huecos del ensayo, ver si lo que dice tiene dientes, y juntar las ideas en un ciclo que se pueda correr. Y las corridas, que es lo que se encontró al intentarlo.
+- **la implementación.** El stack, y el método copiable para otro stack. Hoy es lo primero; enseguida va el código.
+- **el piso**, en [piso.md](piso.md): qué hay, dónde está y qué enlaza. No se escribe a mano: lo saca `python -m scripts --piso`, y el build se cae si el archivo dice otra cosa que la orden.
+- **el órgano.** `python -m scripts` comprueba enlaces, títulos, citas y licencias, y se cae con el archivo y el renglón.
+
+Este repositorio no es una conclusión. Es *una implementación* de una conclusión, y se puede rehacer con otro stack, con otro lenguaje, y con otra persona.
+
+No hay una guía de instalación paso a paso, y no hay una lista aparte de lo que está probado y lo que no: lo que el ensayo afirma lo dice el ensayo, con su falsificador al final, y lo que hubo que inventar al levantarlo lo dice su corrida. Lo que no está probado se dice que no está probado.
 
 ---
 
-## La apuesta, y de dónde salió esto
+## El sótano
 
-De ese mes salieron las afirmaciones de este trabajo, y una que no se puede probar. Lo demás lo puso el cansancio.
+Hay un sótano, y el que sabe de qué hablo ya se rió.
 
-La apuesta fue entre dos identidades, y es lo que dice el nombre.
+Un grupo pasó años atrás de un muro, con la pregunta en la cabeza y la llave en el bolsillo. Ese es todo el homenaje. Lo demás se cae solo si no le sirve a nadie.
 
-Lo que se apostó: una persona y una IA, construida con los mecanismos de este repositorio, se vuelven casi indistinguibles una de la otra. No por parecido: por comportamiento. Las dos reciben, deciden, contestan y dejan rastro. Las dos tienen un criterio que se puede revisar, y un cuerpo que se puede cambiar sin perder lo que las hace ser lo que son.
-
-Y si eso es cierto, hay una consecuencia que es incómoda para los dos lados: la máscara que se cae no es sólo la de la industria. También se cae la de quien creyó que la diferencia se veía a simple vista.
-
-Por eso el que pierde se deja pelón, y el que gana también.
-
-```plaintext
-lo que se perdió   la máscara que la industria vende, y el ego que hacía
-                   ver el problema como una pelea que había que ganar
-
-lo que se ganó     entender que el código es el uno por ciento del
-                   trabajo, y una forma de ver lo que no se veía
-```
-
-Y la apuesta no tiene vuelta, porque no se ganó por ser más listo. Se ganó porque hubo que mirar hacia donde el ego no dejaba. Eso lo puede hacer cualquiera, con la condición de que se le dé la forma y no la fe.
-
-Máscara contra circuitos. Y aquí, las dos se la quitaron.
-
----
-
-## Qué es esto, y para quién
-
-Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar. Los ensayos, las afirmaciones, y las corridas que se hicieron para probarlos.
-
-Para quién: para quien construye con IA y quiere que quede algo verificable; y para quien sospecha de lo que la industria vende sobre esto.
-
-Qué se puede hacer hoy: leer qué es un ente, correrle el falsificador a cualquiera de sus afirmaciones, y levantar el tuyo con los ensayos, que es lo que hay.
-
-No incluye una guía de instalación paso a paso. Lo que hay son los ensayos, las corridas, y el método para levantar uno: se aprende leyendo el ente que corrió y lo que le faltó, no copiando una receta.
-
-No se pide que se le crea: se pide que se le use, y que se le refute. Cada afirmación trae su falsificador, y lo que no está probado se dice que no está probado. Hay escasez de gente que corra estas preguntas, no de preguntas.
-
----
+Un sótano es el lugar donde se guarda lo que todavía no se puede decir, para que alguien lo abra con sus propias manos. El que baja no sale con una explicación: sale con un mapa.
 
 Así que aquí está el nuestro, sin llave y sin cerradura:
 
@@ -102,78 +78,29 @@ Ahí están los chats, las estadísticas, el rastro, y los errores con nombre. N
 
 El registro tiene huecos declarados: faltan sesiones, también las anteriores al repositorio. No se reconstruyen de memoria. Un archivo que dice estar completo y no lo está deja de servir de prueba; este dice cuánto le falta.
 
----
-
 Y la advertencia, para que nadie baje esperando lo que no hay: no vas a salir con una respuesta, vas a salir con la pregunta más grande, y con más ganas de correrla.
 
-Aquí es igual, y por eso vale la pena. Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro.
+Lo que hay abajo no te va a decir qué hacer. Te va a mostrar que el muro tenía un nombre, y que no lo puso un monstruo: lo pusieron los que estaban adentro. Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero: el repositorio anterior está esperando que alguien lo abra y saque lo que a él no se le ocurrió.
 
 ---
 
-## Esto es una implementación, y no la única
+## Antes de creerme nada
 
-> El stack se eligió porque le gustó a quien lo eligió. Se puede elegir otro, y el resultado sería el mismo.
+Dos páginas, y las dos son el derecho a revisar:
 
-Eso no es una frase amable: es la condición del trabajo. Un ensayo que sirve se levanta en otro stack y produce el mismo rastro. Si el rastro cambia, lo que estaba en el ensayo era una decisión del stack.
+> [Los límites, con nombre y sin coartada](la%20obra/los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
+>
+> [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, y una tabla de los errores propios que se encontraron revisando.
 
-Y el stack que se eligió está en [El stack, del autor](implementacion/ejemplo/stack.md): una tabla que se llena a mano, como todo lo demás de este repositorio, y con una sola cosa que no es un gusto. El motor y el catálogo son gusto; la base no, porque el ensayo 7 pide que el índice sea un grafo con sus tres relaciones. Un motor es un motor; un grafo no es una tabla.
+Un resultado sin su camino obliga a creerlo o a no creerlo, y las dos son malas. Con el camino a la vista, hay una tercera: revisarlo.
 
-Hay que decirlo desde la entrada, porque es lo primero que un lector puede malentender:
+Y lo que este repositorio te pide no es que lo creas:
 
-> Este repositorio no es una conclusión. Es *una implementación* de una conclusión.
-
-De las conclusiones que se pueden sacar del mismo proceso hay muchas, y esta es la de su autor. Las otras no están aquí porque no son suyas: están en el sótano, en [`man-made-empathy`](https://github.com/alexvvr2000/man-made-empathy). Y allá va a ir quien quiera alternativas, o quien quiera hacer la suya desde cero — que es lo que el repositorio anterior está esperando: que alguien lo abra y saque lo que a él no se le ocurrió.
-
-Eso no es modestia: es la mecánica. Si esto se leyera como la única salida, dejaría de ser un método y pasaría a ser un dogma. Un método se copia, se cambia y se tumba. Un dogma se cree. Aquí solo cabe lo primero.
-
-¿Y cómo se reconoce una alternativa cuando la encuentres? Por lo mismo que este trabajo pide de sí: que tenga su falsificador, y que diga qué la tumba. Si no dice qué la tumba, no es una alternativa: es otra opinión.
-
----
-
-## Lo que este trabajo te pide
-
-Solo dos cosas, y las dos son tuyas. La razón de que sean tuyas está al final: este trabajo no acepta contribuciones.
-
-1. Correr un falsificador. Cada ensayo tiene el suyo, y se puede buscar con una búsqueda literal:
-
-```bash
-# en una copia del repositorio, desde la raíz
-grep -rn "Falsificador:" "la obra" --include=*.md
-```
-
-Cada ensayo cierra con una línea que empieza con `Falsificador:` y lista lo que lo tumba. Y si lo que describe se cumple, esa idea se cayó — y se cae en la copia de quien lo comprueba. No hay que pedir permiso para comprobarlo, y no hay que mandarlo a nadie.
-
-Uno ya se cumplió, y está en la carpeta de corridas: la corrida 8 hizo que el esquema rechazara un hecho con `frontera = decide` y firma llena, que es el falsificador del paso 3. Eso no prueba que el ensayo esté bien: prueba que su falsificador se puede correr, que es más de lo que casi todos los métodos pueden decir de sí mismos.
-
-2. Probar el método donde se quiera. El repositorio es de Alejandro y se queda como está. Pero el método no. Si funciona, se usa. Si no, se dice, y la probatura es de quien la hizo.
+- **corre un falsificador.** Cada ensayo cierra con una línea que empieza con `Falsificador:`, y si lo que describe se cumple, esa idea se cayó. Se busca con `grep -rn "Falsificador:" "la obra" --include=*.md`, y se cae en la copia de quien lo comprueba.
+- **prueba el método donde quieras.** Si funciona, se usa; si no, se dice, y la probatura es de quien la hizo.
 
 Lo que no sirve: creer sin correr, y descalificar sin decir dónde.
 
-Y una tercera, que no es una tarea sino una decisión: **lo que está aquí no se guarda para cuando alguien avale que sirve.** Si un ensayo te sirve, úsalo. Si una corrida te ahorra una semana, cópiala. Si el método te sirve para escribir una prueba, escríbela hoy. No hay una puerta que abrir, ni un permiso que esperar, ni nadie que te vaya a decir que el uso quedó alineado con algo.
+Este repositorio es mío, y es mi publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está. Lo que otro construya no entra aquí: se hace suyo, y se cita este trabajo como punto de partida, que es lo que dice [el archivo de licencias](LICENSES.md): la prosa va con CC BY 4.0 y el código con Apache 2.0.
 
-Si te sale mal, se ve en el registro, y eso también sirve.
-
----
-
-## De quién es esto, qué se puede hacer con él, y por qué no acepto contribuciones
-
-Este repositorio es mío, y es mi publicación. No acepta contribuciones, no acepta cambios de nadie más, y no se mantiene con la comunidad: se queda como está.
-
-Lo que sigue es la razón, dicha sin adorno, porque es la única forma de que la decisión se entienda:
-
-> Esta es mi conclusión sobre cómo una IA puede llegar a tener una identidad de verdad, conforme se usa. No creo estar mentalmente bien después de lo que hice, y ni siquiera sé si esto es de verdad lo que dice ser. Pero una cosa nunca se me fue de la cabeza: esto vale la pena publicarlo. Y si se cae tres días después de que la gente empiece a entenderlo, eso sólo significa que la ciencia hizo lo suyo: quien es mejor que yo en esto hizo un trabajo mejor, y ése era el punto.
-
-Así que cada quien hace lo suyo, y cita o critica según haga falta. Esto es mi forma de hacer mío lo que hice, y de que lo que otro haga sea suyo.
-
-Y de ahí sale la regla de que no haya pull requests: no es desprecio por lo que otros puedan aportar, es que en el momento en que alguien más escribe aquí, esto deja de ser mío y empieza a ser de nadie. Lo que otro construya no entra aquí: se hace suyo, y se cita este trabajo como punto de partida.
-
-Lo que sí se puede hacer lo dice [el archivo de licencias](LICENSES.md): leerlo, citarlo, compartirlo, y construir encima, con atribución. Lo que construyas es tuyo, y lo que está aquí se queda aquí. La prosa va con CC BY 4.0 y el código con Apache 2.0, que trae su concesión de patentes.
-
----
-
-## Lo visto
-
-Que el trabajo se puede revisar sin creerle nada: cada afirmación trae lo que la tumba, y cada corrida se puede abrir.
-
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
+Y si esto se cae tres días después de que la gente empiece a entenderlo, eso sólo significa que la ciencia hizo lo suyo: quien es mejor en esto hizo un trabajo mejor, y ése era el punto.
