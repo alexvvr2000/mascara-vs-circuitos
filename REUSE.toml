@@ -15,7 +15,7 @@ path = [
     "Attribution.md",
     "README.md",
     "LICENSES.md",
-    "estado.md",
+    "piso.md",
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"

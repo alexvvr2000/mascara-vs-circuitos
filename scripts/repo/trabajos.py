@@ -270,12 +270,31 @@ def trabajo_ofusca(t):
     print("\n%d rutas de la máquina del autor%s." % (t.cambios, ", ofuscadas" if t.escribe else " por limpiar"))
 
 
-def trabajo_piso(t):
-    """El estado del repositorio, en el mismo formato que el bloque de estado.md."""
-    print("## Los ensayos, por carpeta, y su título")
+def trabajo_piso(t, salida=None):
+    """El piso del repositorio, en el mismo formato que el bloque de piso.md.
+
+    Y por qué tiene `salida`, y no escribe en la pantalla a secas: la misma función
+    genera el bloque de `piso.md`, y cuando lo genera lo llama otro proceso, que
+    lee su stdout. Si la escribe en una tubería y la otra punta la lee en otra
+    codificación, la tilde se pierde en el camino, y el bloque queda con la palabra
+    «título» escrita como signo de interrogación. Cuando se pide `salida`, se escribe
+    en UTF-8 y se acabó: el archivo sale igual lo llamara quien lo llamara.
+    """
+    if salida is not None:
+        # Sólo se reconfigura lo que escribe en bytes, como la pantalla. Un búfer de
+        # texto ya habla la codificación que se le pidió al abrirlo.
+        if hasattr(salida, "reconfigure"):
+            salida.reconfigure(encoding="utf-8")
+
+        def escribir(linea):
+            salida.write(linea + "\n")
+    else:
+        def escribir(linea):
+            print(linea)
+    escribir("## Los ensayos, por carpeta, y su título")
     for nombre in sorted(d for d in os.listdir(os.path.join(RAIZ, "la obra")) if os.path.isdir(os.path.join(RAIZ, "la obra", d))):
-        print()
-        print("### la obra/%s/" % nombre)
+        escribir("")
+        escribir("### la obra/%s/" % nombre)
         d = carpeta_obra(nombre)
         if not os.path.isdir(d):
             continue
@@ -283,36 +302,36 @@ def trabajo_piso(t):
             if not f.endswith(".md"):
                 continue
             m = TITULO.search(leer(os.path.join(d, f)))
-            print("  %-44s %s" % ((m.group(1) if m else "(sin título)"), f))
-    print()
-    print("## Los métodos")
+            escribir("  %-44s %s" % ((m.group(1) if m else "(sin título)"), f))
+    escribir("")
+    escribir("## Los métodos")
     for m in sorted(d for d in os.listdir(os.path.join(RAIZ, "metodologia")) if os.path.isdir(os.path.join(RAIZ, "metodologia", d))):
         d = os.path.join(RAIZ, "metodologia", m)
         if not os.path.isdir(d):
             continue
-        print("  metodologia/%s/" % m)
+        escribir("  metodologia/%s/" % m)
         for f in sorted(os.listdir(d)):
             p = os.path.join(d, f)
             if os.path.isdir(p):
-                print("    %s/  (%d directorios)" % (f, sum(1 for _ in os.walk(p)) - 1))
+                escribir("    %s/  (%d directorios)" % (f, sum(1 for _ in os.walk(p)) - 1))
             elif f.endswith(".md"):
-                print("    %s" % f)
-    print()
-    print("## La historia, en el orden en que se lee")
+                escribir("    %s" % f)
+    escribir("")
+    escribir("## La historia, en el orden en que se lee")
     d = os.path.join(RAIZ, "metodologia", "historia")
     if os.path.isdir(d):
         for f in sorted(os.listdir(d)):
             if f.endswith(".md") and f != "README.md":
-                print("  " + f)
-    print()
-    print("## Los scripts, que se corren y no se leen")
-    print("  el órgano es el paquete scripts/: python -m scripts")
+                escribir("  " + f)
+    escribir("")
+    escribir("## Los scripts, que se corren y no se leen")
+    escribir("  el órgano es el paquete scripts/: python -m scripts")
     d = os.path.join(RAIZ, "scripts")
     for f in sorted(os.listdir(d)):
         if f.endswith(".py"):
-            print("  scripts/%s" % f)
-    print()
-    print("## Lo que enlaza, y lo que no")
+            escribir("  scripts/%s" % f)
+    escribir("")
+    escribir("## Lo que enlaza, y lo que no")
     total = rotos = 0
     for p in md_todos():
         base = os.path.dirname(p)
@@ -326,7 +345,7 @@ def trabajo_piso(t):
             total += 1
             if not os.path.exists(os.path.normpath(os.path.join(base, ruta))):
                 rotos += 1
-                print("  roto: %s -> %s" % (rel(p), destino))
-    print("  %d enlaces, %d rotos" % (total, rotos))
-    print()
-    print("Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aquí.")
+                escribir("  roto: %s -> %s" % (rel(p), destino))
+    escribir("  %d enlaces, %d rotos" % (total, rotos))
+    escribir("")
+    escribir("Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aquí.")

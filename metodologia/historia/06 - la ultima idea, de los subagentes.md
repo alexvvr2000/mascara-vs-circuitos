@@ -110,6 +110,6 @@ la historia                 se ordenó como cadena: se empieza creyendo una
 
 **Y lo que sigue sin hacerse, y es la razón de esta nota:** **la carpeta del ciclo todavía es nueve ensayos sueltos, y lo que se quiere es un mapa y sus pasos.** **Los cuatro puntales —que un ente no tiene cuerpo, que el piso se mide, que el criterio se apunta, que la forma es la fuente— tienen que elegir si son del mapa o de un paso.** **Hasta que eso se decida, cualquier mudanza arrastra el mismo texto dos veces.**
 
-**El estado de hoy, con lo que se puede comprobar, está en [`estado.md`](../../estado.md), y se saca con `python scripts/piso.py`.**
+**El estado de hoy, con lo que se puede comprobar, está en [`piso.md`](../../piso.md), y se saca con `python -m scripts --piso`.**
 
 **Falsificador de esta nota:** **un reordenamiento que se cuenta como si el texto hubiera mejorado.** **Se movieron archivos, se quitaron duplicados y se comprobó lo que enlaza. Lo que el texto dice todavía no se tocó.**

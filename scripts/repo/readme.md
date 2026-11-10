@@ -11,7 +11,7 @@ repo/
   encabezados.py el formato de proceso, leído como datos
   bloques.py     cada ensayo como una lista de bloques
   hallazgos.py   de qué ensayo sale cada corrida
-  estado.py      que estado.md no envejezca
+  piso.py        que piso.md no envejezca
   enlaces.py     el mapa de lo que enlaza con qué
   reglas.py      lo que el repositorio tiene que cumplir
   legal.py       REUSE, licencias y zenodo
@@ -42,7 +42,7 @@ Y es el build: `python -m scripts` es la entrada de todo, y sí se cae.
 | Lo que hoy cuesta | Lo que hace el módulo |
 |---|---|
 | saber si una corrida apunta a su carpeta, y si su carpeta está en el índice | `hallazgos.revisar()` lo dice, corrida por corrida |
-| que `estado.md` envejezca sin que nadie lo note | `estado.comparar()` lo compara con la orden, y el build se cae con el renglón |
+| que `piso.md` envejezca sin que nadie lo note | `piso.comparar()` lo compara con la orden, y el build se cae con el renglón |
 | saber qué dice un ensayo de 400 renglones | `bloques.mapa()` da una línea por concepto |
 | saber qué le falta a un proceso | `encabezados.mapa()` da sus campos, y los que le faltan |
 | ver dónde pesa el repo | `enlaces.mapa()` cuenta qué carpeta recibe cada enlace |
@@ -129,9 +129,10 @@ detalle, por cualquiera de los tres métodos.
 ```plaintext
 python -m scripts                                                    el build
 python -m scripts --reuse                                            el build, y reuse lint
-python -m scripts --piso                                             el estado, que va a estado.md
+python -m scripts --piso                                             el piso, que va a piso.md
+python -m scripts --escribe piso                                     lo anterior, y lo escribe en piso.md
 python -m scripts --escribe forma                                    arregla la forma
-python -c "from scripts.repo import estado; print(estado.comparar())"
+python -c "from scripts.repo import piso; print(piso.comparar())"
 python -c "from scripts.repo import bloques; print(bloques.mapa('la obra/teoria/el piso.md'))"
 python -c "from scripts.repo import encabezados; print(encabezados.mapa())"
 python -c "from scripts.repo import enlaces; print(enlaces.mapa())"

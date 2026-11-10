@@ -7,7 +7,7 @@ líneas, y después un paquete con dos hogares. Ahora hay uno: `scripts/repo/`, 
     python -m scripts                   comprueba, y resume
     python -m scripts --lista           qué ensayo dice qué, y qué perdona
     python -m scripts --reuse           lo mismo, y además corre `reuse lint` de verdad
-    python -m scripts --piso            el estado del repositorio; va a `estado.md`
+    python -m scripts --piso            el piso del repositorio; va a `piso.md`
     python -m scripts --X               informa lo que el trabajo X cambiaría
     python -m scripts --escribe X       lo hace
 
@@ -15,7 +15,7 @@ Y lo que vive aquí, en un renglón cada uno:
 
     comun        la raíz, leer, caminar el árbol
     constantes   las expresiones regulares, y la forma de cada cosa
-    estado       que estado.md no envejezca
+    piso         que piso.md no envejezca
     encabezados  el formato de proceso, leído como datos
     hallazgos    de qué ensayo sale cada corrida
     bloques      cada ensayo como una lista de bloques
@@ -32,7 +32,7 @@ el único que se corre. Los demás son piezas, y ninguna se llama a sí misma.
 
 import sys
 
-from . import bloques, encabezados, enlaces, estado, hallazgos  # noqa: F401
+from . import bloques, encabezados, enlaces, hallazgos, piso  # noqa: F401
 from .comprobar import comprobar
 from .licuadora import trabajo_licuadora
 from .trabajos import (Trabajo, trabajo_piso, trabajo_citas, trabajo_rutas,
@@ -80,7 +80,14 @@ def main(argv):
         return 2
 
     if trabajo == "piso":
+        # Y con `--escribe`, el piso no sólo informa: reescribe el bloque de `piso.md`.
+        # Sin esto, el único que rehacía el bloque era el build que se caía por su causa,
+        # y el que lo oía arreglaba a mano un archivo que dice que no se toca a mano.
         trabajo_piso(Trabajo(escribe))
+        if escribe:
+            renglones = piso.reescribir()
+            print("[piso] piso.md: %s" % (
+                "%d renglones del bloque reescritos" % renglones if renglones else "ya estaba igual"))
         return 0
     if trabajo == "licuadora":
         trabajo_licuadora(Trabajo(escribe))
