@@ -1,8 +1,7 @@
-# los bancos de los mutantes se regeneran al correr su script:
-# lo que prueba es el script, no la base que dejó
-*.db
-!la obra/alineacion de entes/metodologia de mejora/corridas/**/banco.db
-!la obra/alineacion de entes/metodologia de mejora/corridas/**/registro.db
+# los grafos de la raíz se quedan: `grafo.db` es el ente de este repositorio, y va
+# con el código. lo local de una corrida es su banco, y ese vive dentro de su
+# carpeta, donde lo declara el REUSE.toml
+grafo.db.local
 
 # y nada de temporales
 __pycache__/

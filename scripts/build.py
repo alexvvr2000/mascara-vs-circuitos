@@ -237,6 +237,204 @@ def regla_licencias(p, fallos):
         fallos.append((rel(p), "LICENCIA", "LICENSES.md tiene que nombrar las dos"))
 
 
+def _glob_a_regex(patron):
+    """El glob del REUSE.toml, tal como lo define la especificación.
+
+    Y por qué no se usa fnmatch: en el TOML de REUSE, `**/` también cruza cero
+    directorios, y fnmatch no lo distingue de `*`. Sin esto, una tabla con
+    `scripts/**/*.py` no cubriría `scripts/build.py`, que es justo el archivo que
+    la especificación dice que sí cubre.
+    """
+    r = re.escape(patron.replace("/", os.sep))
+    r = r.replace(re.escape("**" + os.sep), "(?:.*%s)?" % re.escape(os.sep))
+    r = r.replace(re.escape("**"), ".*")
+    r = r.replace(re.escape("*"), "[^%s]*" % re.escape(os.sep))
+    return re.compile("^" + r + "$")
+
+
+def _ignorados_por_git():
+    """Lo que el .gitignore deja fuera, con el prefijo negativo.
+
+    REUSE no cuenta los archivos que git ignora, y está dicho en su
+    especificación. Se lee el `.gitignore`, y si no se puede, se dice: un archivo
+    que no se puede leer no se da por bueno.
+    """
+    ruta = os.path.join(RAIZ, ".gitignore")
+    if not os.path.exists(ruta):
+        return []
+    reglas = []
+    ignorados = set()
+    for linea in open(ruta, encoding="utf-8", errors="replace"):
+        l = linea.strip()
+        if not l or l.startswith("#"):
+            continue
+        negar = l.startswith("!")
+        patron = l[1:] if negar else l
+        reglas.append((negar, _glob_a_regex(patron)))
+    return reglas
+
+
+def _archivos_ignorados(lista, rutas):
+    reglas = _ignorados_por_git()
+    fuera = set()
+    for r in rutas:
+        ignorado = False
+        for negar, patron in reglas:
+            if patron.match(r):
+                ignorado = not negar
+        if ignorado:
+            fuera.add(r)
+    return fuera
+
+
+def regla_reuse(_ignorado, fallos):
+    """Cada archivo del repositorio tiene su copyright y su licencia, y la herramienta lo va a decir.
+
+    Esto es el criterio de `reuse lint` sin la herramienta: se lee `REUSE.toml`,
+    se camina el árbol, y se cuentan los archivos que no caen en ninguna tabla. Y
+    la regla es la misma de la especificación, por renglón:
+
+      - `LICENSES/`, `LICENSE` y `REUSE.toml` no son archivos cubiertos;
+      - lo que git ignora tampoco;
+      - un archivo cubierto sin `SPDX-FileCopyrightText` ni `SPDX-License-Identifier`
+        no cumple, ni por REUSE.toml, ni por cabecera, ni por `.license` al lado.
+
+    Y se comprueba también que cada identificador que aparece tenga su texto en
+    `LICENSES/`, y que no haya textos que nadie usa: REUSE no permite una licencia
+    en `LICENSES/` que no se use.
+    """
+    toml = os.path.join(RAIZ, "REUSE.toml")
+    if not os.path.exists(toml):
+        fallos.append(("REUSE.toml", "REUSE", "falta REUSE.toml"))
+        return
+    try:
+        import tomllib
+    except ImportError:  # Python anterior a 3.11
+        fallos.append(("REUSE.toml", "REUSE", "falta tomllib: se comporta con Python 3.11 o más"))
+        return
+    try:
+        with open(toml, "rb") as f:
+            config = tomllib.load(f)
+    except Exception as e:
+        fallos.append(("REUSE.toml", "REUSE", "no se puede leer: %s" % e))
+        return
+
+    if config.get("version") != 1:
+        fallos.append(("REUSE.toml", "REUSE", "version tiene que ser 1"))
+
+    tablas = []
+    for tabla in config.get("annotations", []):
+        rutas = tabla.get("path", [])
+        if isinstance(rutas, str):
+            rutas = [rutas]
+        for ruta in rutas:
+            tablas.append((tabla.get("precedence", "closest"), _glob_a_regex(ruta)))
+        if not tabla.get("SPDX-FileCopyrightText") or not tabla.get("SPDX-License-Identifier"):
+            fallos.append(("REUSE.toml", "REUSE", "a una [[annotations]] le falta el copyright o la licencia"))
+
+    cubiertos = []
+    for base, dirs, files in os.walk(RAIZ):
+        if ".git" in base.split(os.sep):
+            continue
+        for f in files:
+            r = rel(os.path.join(base, f))
+            if r.startswith("LICENSES" + "/") or r in ("LICENSE", "REUSE.toml"):
+                continue
+            cubiertos.append(r)
+
+    ignorados = _archivos_ignorados(cubiertos, cubiertos)
+    sin_declarar = []
+    usadas = set()
+    for r in cubiertos:
+        if r in ignorados:
+            continue
+        # el override más cercano a la raíz gana; el resto, de abajo para arriba
+        elegida = None
+        for precedencia, patron in tablas:
+            if not patron.match(r.replace("/", os.sep)):
+                continue
+            if precedencia == "override":
+                elegida = patron  # el último override gana, y el TOML es de la raíz
+            elif elegida is None:
+                elegida = patron
+        if elegida is None:
+            sin_declarar.append(r)
+    for tabla in config.get("annotations", []):
+        lic = tabla.get("SPDX-License-Identifier")
+        if isinstance(lic, str):
+            usadas.add(lic)
+
+    if sin_declarar:
+        fallos.append(("REUSE.toml", "REUSE",
+                       "%d archivos sin declarar: %s" % (len(sin_declarar), ", ".join(sorted(sin_declarar)[:6]))))
+
+    carpeta = os.path.join(RAIZ, "LICENSES")
+    textos = set(os.listdir(carpeta)) if os.path.isdir(carpeta) else set()
+    for lic in sorted(usadas):
+        if lic + ".txt" not in textos:
+            fallos.append(("REUSE.toml", "REUSE", "se usa %s y no está su texto en LICENSES/" % lic))
+    for texto in textos:
+        if texto[:-4] not in usadas:
+            fallos.append(("LICENSES/" + texto, "REUSE", "texto que nadie usa: REUSE no lo permite"))
+
+
+def regla_legal(_ignorado, fallos):
+    """Las tres piezas de la legalidad dicen lo mismo: REUSE, CITATION y Zenodo.
+
+    Y por qué tres reglas y no una: cada una la lee una herramienta distinta, y
+    cada una envejece sola. Aquí se comprueba que las tres coincidan, y que
+    ninguna diga lo contrario de `LICENSES.md`.
+    """
+    import json
+
+    nota = open(os.path.join(RAIZ, "LICENSES.md"), encoding="utf-8").read()
+    if "CC BY 4.0" in nota and "Apache 2.0" in nota:
+        esperados = {"CC-BY-4.0", "Apache-2.0"}
+    else:
+        esperados = set()
+
+    zenodo = os.path.join(RAIZ, ".zenodo.json")
+    if not os.path.exists(zenodo):
+        fallos.append((".zenodo.json", "ZENODO", "falta .zenodo.json"))
+    else:
+        try:
+            d = json.load(open(zenodo, encoding="utf-8"))
+        except Exception as e:
+            fallos.append((".zenodo.json", "ZENODO", "no es JSON válido: %s" % e))
+            d = None
+        if d is not None:
+            lic = d.get("license")
+            if not lic:
+                fallos.append((".zenodo.json", "ZENODO", "sin license"))
+            ident = lic.get("id") if isinstance(lic, dict) else lic
+            if ident not in ("other-open", "cc-by-4.0"):
+                fallos.append((".zenodo.json", "ZENODO",
+                               "el deposit se publica con una sola licencia, y aquí hay dos: "
+                               "usa other-open, y la tabla va en LICENSES.md"))
+            if ident == "cc-by-4.0" and "Apache" in str(lic):
+                fallos.append((".zenodo.json", "ZENODO", "declara CC BY 4.0 y el código va con Apache"))
+            if "access_right" not in d or "upload_type" not in d or "creators" not in d:
+                fallos.append((".zenodo.json", "ZENODO", "acepta el depósito: falta access_right, upload_type o creators"))
+            rel_ids = d.get("related_identifiers", [])
+            if not any(x.get("identifier", "").endswith("mascara-vs-circuitos") for x in rel_ids):
+                fallos.append((".zenodo.json", "ZENODO", "el depósito no apunta al repositorio"))
+
+    cff = os.path.join(RAIZ, "CITATION.cff")
+    if not os.path.exists(cff):
+        fallos.append(("CITATION.cff", "CITATION", "falta CITATION.cff"))
+        return
+    texto = open(cff, encoding="utf-8").read()
+    m = re.search(r"(?m)^license:\s*\"?([A-Za-z0-9.\-]+)\"?", texto)
+    if not m:
+        fallos.append(("CITATION.cff", "CITATION", "sin license"))
+    elif esperados and m.group(1) not in esperados:
+        fallos.append(("CITATION.cff", "CITATION",
+                       "dice %s y el repo tiene dos: la obra va con CC-BY-4.0, y la tabla en LICENSES.md"
+                       % m.group(1)))
+    elif m.group(1) != "CC-BY-4.0" and "license-url" not in texto and "licenses:" not in texto:
+        fallos.append(("CITATION.cff", "CITATION", "una sola licencia no basta: se nombran las dos, o se apunta LICENSES.md"))
+
+
 def regla_forma_texto(p):
     """No falla: mide. Devuelve las fallas de forma que se ven sin leer: espacios
     de más antes de una coma, encabezados que saltan de nivel, y enlaces a un
@@ -322,6 +520,13 @@ def build(lista=False):
     # que se mueve por debajo se cae. Va antes de cualquier recorrido nuevo.
     regla_citation(os.path.join(RAIZ, "CITATION.cff"), fallos)
 
+    # Y las dos que hacen que el build sea la puerta legal: cada archivo con su
+    # copyright y su licencia, y las tres piezas —REUSE, CITATION y Zenodo— de
+    # acuerdo. Se corren al final, después de que el resto ya caminó, porque
+    # recorren el árbol entero.
+    regla_reuse(None, fallos)
+    regla_legal(None, fallos)
+
     for p in ensayos():
         regla_h1(p, fallos)
         regla_numero(p, fallos)
@@ -341,37 +546,24 @@ def build(lista=False):
         print("  " + " · ".join("%s %d" % kv for kv in sorted(reglas.items())))
     else:
         print("BUILD OK · %d archivos, %d ensayos, 0 fallos" % (len(todos), len(list(ensayos()))))
-
-    if lista:
-        print()
-        for p in ensayos():
-            f, perdida = regla_forma(p)
-            print("  %-58s falsificador:%3s  forma:%s" % (
-                rel(p), "si" if f else "NO", "completa" if perdida else "le falta 'Y qué se pierde si cambia'"))
-        print()
-        print("  y los que declaran que se pierden al cambiar, sin 'Y qué se pierde si cambia':")
-        for p in ensayos():
-            f, perdida = regla_forma(p)
-            texto = open(p, encoding="utf-8").read()
-            if not perdida and re.search(r"se perd|pierde|lo que se pierde", texto, re.I):
-                print("    " + rel(p))
-        print()
-        print("  y la persona en que está escrito, que tendría que ser impersonal:")
-        for p in ensayos():
-            cuenta = regla_persona(p)
-            if cuenta:
-                print("    %-58s %s" % (rel(p), " · ".join("%s %d" % kv for kv in sorted(cuenta.items()))))
-        print()
-        print("  y la forma del texto, que se limpia con scripts/forma.py:")
-        for p in ensayos():
-            fallas = regla_forma_texto(p)
-            if fallas:
-                print("    %-58s %s" % (rel(p), " · ".join("%s %d" % kv for kv in sorted(fallas.items()))))
-        print()
-        print("  y el énfasis, en por ciento de los caracteres que van en negrita:")
-        for p in ensayos():
-            pct = regla_enfasis(p)
-            print("    %-58s %2d%%%s" % (rel(p), pct, "  ← revisar" if pct > 10 else ""))
+    if any(a == "--reuse" for a in sys.argv[1:]):
+        # La puerta de REUSE: se corre la herramienta de verdad, sobre el mismo árbol,
+        # y su veredicto manda. El build ya comprobó lo mismo a mano; esto es lo que
+        # la especificación dice que hay que correr.
+        import shutil
+        import subprocess
+        exe = shutil.which("reuse")
+        if not exe:
+            print("[REUSE] falta la herramienta: `pipx install reuse`, o `python -m pip install reuse`")
+            fallos.append(("reuse", "REUSE", "la herramienta no está instalada"))
+        else:
+            r = subprocess.run([exe, "lint", "--lines"], capture_output=True, text=True,
+                               cwd=RAIZ, encoding="utf-8", errors="replace")
+            if r.returncode != 0:
+                print("[REUSE] reuse lint se cayó: %s" % (r.stdout or r.stderr).strip()[:600])
+                fallos.append(("reuse lint", "REUSE", "no pasa la herramienta"))
+            else:
+                print("[REUSE] reuse lint: cumple")
 
     return 1 if fallos else 0
 

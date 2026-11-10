@@ -10,7 +10,10 @@
   ],
   "description": "<p>Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un rastro que se pueda juzgar: qué es un ente, cuál es el ciclo que corre paso por paso, por qué se escribe en procesos y no en prosa, cómo se arma el criterio con el hecho, la fricción y el desenlace, y dónde vive el criterio.</p><p><strong>Licencias, por si se cita:</strong> el texto va con CC BY 4.0 y el código con Apache 2.0. La tabla está en <code>LICENSES.md</code> y los textos completos en <code>LICENSES/</code>. Este registro declara las dos.</p><p>Cada afirmación trae su falsificador, y lo que no se probó se dice que no se probó.</p>",
   "access_right": "open",
-  "license": "cc-by-4.0",
+  "license": {
+    "text": "CC BY 4.0 (texto) y Apache 2.0 (código)",
+    "id": "other-open"
+  },
   "keywords": [
     "inteligencia artificial",
     "colaboración humano-IA",
@@ -26,6 +29,11 @@
     {
       "relation": "isSupplementedBy",
       "identifier": "https://github.com/alexvvr2000/man-made-empathy",
+      "resource_type": "software"
+    },
+    {
+      "relation": "isPartOf",
+      "identifier": "https://github.com/alexvvr2000/mascara-vs-circuitos",
       "resource_type": "software"
     }
   ]

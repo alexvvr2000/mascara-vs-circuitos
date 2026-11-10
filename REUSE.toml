@@ -1,6 +1,7 @@
 version = 1
 
-# Las 182 piezas del repo, declaradas por su glob, sin una cabecera por archivo.
+# Las piezas del repo, declaradas por su glob, sin una cabecera por archivo.
+# El número no se escribe aquí: lo cuenta `reuse lint`.
 # La fuente es la de REUSE: `REUSE.toml` declara lo que la cabecera diría, y con
 # `precedence = "override"` manda sobre cualquier cabecera que quede dentro.
 
@@ -20,11 +21,13 @@ precedence = "override"
 SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
 SPDX-License-Identifier = "CC-BY-4.0"
 
-# El código va con Apache 2.0.
+# El código va con Apache 2.0. Y los grafos van con él: un .db es el banco que
+# lee el script, y se copia y se corre como el .py que lo levanta.
 [[annotations]]
 path = [
     "scripts/**/*.py",
     "metodologia/**/*.py",
+    "metodologia/**/*.db",
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
@@ -35,6 +38,45 @@ SPDX-License-Identifier = "Apache-2.0"
 path = [
     "metodologia/**/corridas/**/*.sql",
     "metodologia/**/mutantes/**/*.json",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+# Los dumps de los mutantes van con el código: son el banco, y se copian como se
+# copia el .py que los lee. Y no los alcanzaba la tabla de las corridas, porque
+# viven en mutantes/_dumps y no dentro de corridas/.
+[[annotations]]
+path = [
+    "metodologia/**/mutantes/**/*.sql",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
+SPDX-License-Identifier = "Apache-2.0"
+
+# La raíz, y los datos de prueba de las corridas, van con el texto: son latas de
+# ejemplo, y lo que describen es la prosa del método.
+[[annotations]]
+path = [
+    ".zenodo.json",
+    "CITATION.cff",
+    "los papeles/*.json",
+    "metodologia/**/pruebas/**/*.json",
+    "scripts/viejo/**/*.md",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+# La hoja de prueba del contrato, y el .gitignore. El PDF no lleva cabecera y su
+# `.license` de al lado lleva la misma que esta tabla; el .gitignore no es código
+# que se copie, y va con el texto como el resto de lo que describe el método.
+[[annotations]]
+path = [
+    ".gitignore",
+    "grafo.db",
+    "metodologia/**/pruebas/contrato.pdf",
+    "metodologia/**/pruebas/contrato.pdf.license",
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"
