@@ -59,7 +59,7 @@ Una línea por corrida, y nada más. El detalle está en su carpeta.
 | [01](ciclo/01%20el%20ciclo%20baja%20a%20la%20maquina.md) | una vuelta del método C | — | — |
 | [02](ciclo/02%20los%20ocho%20huecos%20de%20la%20vuelta%20uno.md) | una vuelta del método C | — | — |
 | [03](ciclo/03%20detalle%20del%20ciclo,%20concepto%20por%20concepto.md) | una vuelta del método C | — | — |
-| [es](ciclo/estado%20actual.md) | una vuelta del método C | — | — |
+
 
 ---
 
