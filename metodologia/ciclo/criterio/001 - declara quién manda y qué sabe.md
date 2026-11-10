@@ -16,8 +16,8 @@ sus ideas          la autoridad (L106)
                    las cuatro piezas (L88)
                    el orden de declaración (L46)
 recibe             de nadie: es lo primero, y se declara antes de la primera vuelta
-entrega            al paso 2, el cuerpo de la declaración; al paso 6, el índice; y al
-                   paso 11, el propósito y la autoridad que lo firma
+entrega            al paso 2, el cuerpo de la declaración; al paso 6, el índice;
+                   y al paso 11, el propósito y la autoridad que lo firma
 se hace            se declaran las cuatro piezas, y no se suponen: la autoridad, el
                    ente, el propósito, y el índice con el borde de cada tema
 dónde queda        en el grafo del ente: autoridad, ente, propósito e índice con su borde

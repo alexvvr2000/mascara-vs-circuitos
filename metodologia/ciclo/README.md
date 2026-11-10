@@ -47,6 +47,10 @@ Cada corrida se hace en un chat nuevo, porque dos corridas seguidas llenan el co
 
 Y lo que hace que una corrida sobreviva: **lo que no queda en un archivo del repositorio, no ocurrió.** La corrida escribe su `corrida N.md` antes de cerrarse, y si no la escribió, no pasó.
 
+## Las palabras del tema: cómo se consulta el índice del ente
+
+La doctrina de la consulta está en [las palabras del tema](las%20palabras%20del%20tema.md): un tema lleva sus palabras clave, una palabra que se parece a otra no es la otra, y la ambigüedad **no se elige: se separa**. Va aquí y no en la obra, porque de este folder se arma el índice desde cero.
+
 ## Qué hay en cada cosa
 
 ```plaintext
@@ -56,6 +60,7 @@ conexiones.md      las aristas: de qué paso a qué paso, con qué prueba, y en 
 decisiones.md      lo que se decidió con qué se pierde, y lo que se dejó fuera con su razón
 folios/            un archivo por ensayo leído: de qué línea sale cada idea
 vNN/               una vuelta: vuelta.md, lápida.md, grafo.db, grafo.sql y pruebas/
+las palabras del tema.md   cómo se consulta el índice: palabras clave, y la ambigüedad
 paso N · <…>/      el proceso del paso N, y sus corridas: readme.md, corrida 1.md, …
 ```
 
@@ -83,9 +88,9 @@ Cada cifra de aquí la cuenta la orden, y no la mano: `python -m scripts --paso`
 ```plaintext
 pasos                    12
 con su prueba            12 de 12
-conexiones               20
+conexiones               21
 desde                    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
-hasta                    1, 2, 4, 5, 6, 7, 8, 9, 10
+hasta                    1, 2, 4, 5, 6, 7, 8, 9, 10, 11
 una conexión es un tramo de dos pasos, y un camino es la cadena
 entera: una conexión leída sola no es un camino.
 sin recibir              1

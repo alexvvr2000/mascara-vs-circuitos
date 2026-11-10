@@ -47,9 +47,27 @@ def fichas():
 
 
 def campo(texto, nombre):
-    """Lo que dice un campo de la ficha, o None si no está."""
-    m = re.search(r"(?m)^" + re.escape(nombre) + r"\s{2,}(.+)$", texto)
-    return m.group(1).strip() if m else None
+    """Lo que dice un campo de la ficha, o None si no está.
+
+    Y se lee entero: un campo se puede seguir en los renglones de abajo, y los que siguen
+    van sangrados. Antes se leía sólo el primer renglón, y una entrega escrita en dos
+    dejaba de contar como arista.
+    """
+    lineas = texto.split("\n")
+    for i, l in enumerate(lineas):
+        m = re.match("^" + re.escape(nombre) + r"\s{2,}(.+)$", l)
+        if not m:
+            continue
+        partes = [m.group(1).strip()]
+        for otra in lineas[i + 1:]:
+            if not otra.strip():
+                break
+            if re.match(r"^\s{8,}\S", otra):
+                partes.append(otra.strip())
+                continue
+            break
+        return " ".join(partes)
+    return None
 
 
 def revisar():
