@@ -20,6 +20,8 @@ Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente p
 
 Lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [metodologia/huecos/corridas/](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [metodologia/sostiene/metodo.md](metodologia/sostiene/metodo.md), con su conteo en [corridas.md](metodologia/sostiene/corridas.md). El [El piso del repositorio](estado.md) dice qué hay y qué falta, y `python scripts/build.py` comprueba que todo enlace, cita y título siga en pie.
 
+Y el [análisis de ciclo](metodologia/analisis%20de%20ciclo/README.md), que es el método C: rellena las costuras del ciclo del ente hasta que cada paso se pueda correr, y dice cuánto falta con una tabla y no con una opinión. Su rama del ciclo, que prueba esas reglas en una máquina levantada desde cero, está en [metodo.md](metodologia/sostiene/metodo.md), capítulo IX bis, con su árbol en [sostiene/corridas](metodologia/sostiene/corridas/).
+
 Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador.
 
 ---
@@ -128,6 +130,9 @@ y los mutantes   los rompió quien escribió las reglas, no un tercero:
                 un ensayo que aguanta a su propio autor todavía no
                 aguanta a un desconocido
 
+no revisó       nadie la rama del ciclo: sus reglas las probó quien las
+                escribió, con su máquina, y sus vueltas todavía no se corrieron
+
 no hubo         una forma de saber si esto sirve: eso sólo se ve si
                 alguien lo usa, y eso no está en manos de quien lo escribió
 ```
@@ -231,6 +236,28 @@ lo que sigue faltando es una condición de entorno, no un paso: el error sólo
 ```
 
 Y la consecuencia sobre este trabajo, que se dice sin suavizarla: el ciclo está completo en forma, y **no está probado**. Que las cuatro etapas estén cubiertas quiere decir que no falta una quinta; no quiere decir que el criterio que sale de ellas sea el correcto. Eso sólo lo dice el desenlace, y el desenlace todavía no se midió sobre la regla destilada. Lo que hay hoy, en el registro, es una regla que nació de una fricción y treinta y tres que no.
+
+### Y las que trajo el método C, que también se buscaron y no se abrieron
+
+El [análisis de ciclo](metodologia/analisis%20de%20ciclo/README.md) se construyó sobre el ciclo de Kolb, que ya se cita arriba, y buscó dos cosas más antes de elegirlas. Se apuntan aquí por la misma razón que las demás: para que quien las revise tenga el nombre, y sepa que nadie las leyó enteras.
+
+```plaintext
+el test de juicio situacional    existe, y se usa en selección de personal. se cita
+                                 como método, y no como constructo: mide una mezcla
+                                 de conocimiento, carácter y adiestramiento, con una
+                                 validez para desempeño entre .26 y .34. se toma que
+                                 NO es la vara de criterio de este trabajo, y se dice
+
+escalation-bench                 una prueba abierta de cuándo un agente debe llamar
+                                 a un humano, con licencia MIT. se cita por lo que
+                                 propone; no se copia su corpus
+
+y el corpus de situaciones       no se usó ninguno. las situaciones que se prueban
+                                 se escriben aquí, desde cero, y no se copian de un
+                                 banco ajeno
+```
+
+Y por qué se nombran dos fuentes de una búsqueda que termina fuera del trabajo: porque el método C las descarta. Una fuente que se descarta con nombre se puede volver a discutir; una que se calla, no. Y el error que no se comete con ellas es el de ayer: usarlas como vara de criterio, cuando lo que la psicología dice es que mide una mezcla.
 
 Y el límite de este apartado, que es el mismo de los demás: ninguna de esas fuentes se leyó entera. Lo que dicen está tomado de su resumen o de una ficha abierta, y quien lo cite en contra tiene razón hasta que se abra la página.
 
