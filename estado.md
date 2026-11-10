@@ -38,6 +38,10 @@
   Qu� es un ente                               que es un ente.md
   Revisi�n de sesgos                           revision de sesgos.md
 
+### la obra/los papeles/
+  Los l�mites, con nombre y sin coartada       LIMITES.md
+  Fuentes                                      fuentes.md
+
 ## Los m�todos
   metodologia/huecos/
     README.md

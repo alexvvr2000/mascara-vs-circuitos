@@ -46,7 +46,7 @@ Aquí no hay buenos. Los dos son rudos. Y el que pierde se quita la máscara: la
 
 > Antes de creerme nada, dos páginas:
 >
-> [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
+> [Los límites, con nombre y sin coartada](la%20obra/los%20papeles/LIMITES.md) — qué no se probó, qué podría estar mal, y con qué se sabría.
 >
 > [El registro de cómo se llegó](metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md) — todo lo que se hizo, con fecha, y una tabla de los errores propios que se encontraron revisando.
 >
@@ -179,7 +179,7 @@ Los límites, dichos con nombre:
 
 Las tres primeras son la misma cosa: **las corridas, un autor, un entorno.** No hay evidencia de otro sistema operativo, de otra máquina, ni de alguien más al teclado.
 
-Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con nombre y sin coartada](los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
+Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con nombre y sin coartada](la%20obra/los%20papeles/LIMITES.md). Ahí se dice qué tesis podría ser falsa y cómo se sabría, y qué es lo más débil de todo esto.
 
 ---
 
@@ -234,7 +234,10 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
      ejemplo/                  el stack elegido, ya puesto
      usuario/                  el método, para cualquier stack
 
-6. los papeles/estado del arte/   QUÉ HAY ANTES, CAMPO POR CAMPO
+6. la obra/los papeles/  LO QUE NO ES EL TRABAJO
+     fuentes.md             qué hay antes, campo por campo, y qué le
+                            falta a cada uno
+     LIMITES.md             qué no se probó, y con qué se sabría
 
 y en la raíz
   Attribution.md          quién escribió qué, y quién revisó qué

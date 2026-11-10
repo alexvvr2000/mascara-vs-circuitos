@@ -13,7 +13,7 @@ Y el corte entre este archivo y [forma.md](forma.md), que es de un renglón: `fo
 >
 > Y lo que no está aquí, porque tiene su propio archivo: en qué quedó cada mutante. Eso vive en [corridas.md](corridas.md), que es el único sitio donde se cuentan, y este archivo no repite ni un número de ahí.
 >
-> Y lo que tampoco está aquí, porque es de otro método: las dieciocho corridas del otro método, en [huecos](../huecos/README.md). Y el estado del arte completo con lo que no se abrió, en [los papeles](../../los%20papeles/estado%20del%20arte/README.md). Este archivo enlaza los dos y no los copia.
+> Y lo que tampoco está aquí, porque es de otro método: las dieciocho corridas del otro método, en [huecos](../huecos/README.md). Y el estado del arte completo con lo que no se abrió, en [las fuentes](../../la%20obra/los%20papeles/fuentes.md). Este archivo enlaza los dos y no los copia.
 
 ---
 
@@ -558,7 +558,7 @@ Y el más importante de todos: que toda regla se pueda escribir al revés. Una r
 
 # XIV. De dónde salió cada pieza, con su fuente
 
-Esta tabla recoge lo que estaba repartido en [los papeles](../../los%20papeles/estado%20del%20arte/README.md): sólo lo que este método usa, con la sección de donde viene. Las fuentes que el estado del arte cita y este método no usa —los agentes que aprenden de su experiencia, la memoria envenenada, los topic models— no se repiten aquí, y se dejan donde se justificaron.
+Esta tabla recoge lo que estaba repartido en [las fuentes](../../la%20obra/los%20papeles/fuentes.md): sólo lo que este método usa, con la sección de donde viene. Las fuentes que el estado del arte cita y este método no usa —los agentes que aprenden de su experiencia, la memoria envenenada, los topic models— no se repiten aquí, y se dejan donde se justificaron.
 
 | Lo que este método afirma | De dónde viene | Qué se toma, y qué no |
 |---|---|---|

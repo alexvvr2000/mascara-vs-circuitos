@@ -274,7 +274,7 @@ def trabajo_ofusca(t):
 def trabajo_piso(t):
     """El estado del repositorio, en el mismo formato que el bloque de estado.md."""
     print("## Los ensayos, por carpeta, y su título")
-    for nombre in ("funcionamiento ente", "humanidad", "teoria"):
+    for nombre in ("funcionamiento ente", "humanidad", "teoria", "los papeles"):
         print()
         print("### la obra/%s/" % nombre)
         d = carpeta_obra(nombre)

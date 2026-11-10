@@ -115,7 +115,7 @@ Hay cosas que este repositorio no puede decir porque no las tiene, y no se van a
 
 Lo que el autor pensó y no escribió. Lo que se borró y no quedó en el historial. Cuántas veces se intentó algo y se abandonó antes de que existiera un archivo.
 
-Y una que sí se dice porque es cierta: hubo ideas que se perdieron porque llegaron en el mismo mensaje que otras que no servían. La carpeta [`metodologia/historia/`](../metodologia/historia/README.md) existe para que eso no vuelva a pasar, y llegó tarde.
+Y una que sí se dice porque es cierta: hubo ideas que se perdieron porque llegaron en el mismo mensaje que otras que no servían. La carpeta [`metodologia/historia/`](../../metodologia/historia/README.md) existe para que eso no vuelva a pasar, y llegó tarde.
 
 ---
 

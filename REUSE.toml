@@ -10,7 +10,7 @@ version = 1
 path = [
     "la obra/**/*.md",
     "metodologia/**/*.md",
-    "los papeles/**/*.md",
+    "la obra/los papeles/**/*.md",
     "implementacion/**/*.md",
     "Attribution.md",
     "README.md",
@@ -60,7 +60,7 @@ SPDX-License-Identifier = "Apache-2.0"
 path = [
     ".zenodo.json",
     "CITATION.cff",
-    "los papeles/*.json",
+    "la obra/los papeles/*.json",
     "metodologia/**/pruebas/**/*.json",
     "scripts/viejo/**/*.md",
 ]

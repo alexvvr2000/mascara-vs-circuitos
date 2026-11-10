@@ -45,7 +45,7 @@ def trabajo_licuadora(t):
             etiquetas = list(grupos.labels_)
             print("  grupo %d · %d tesis · p.ej. [%s] %s"
                   % (i, etiquetas.count(i), fuentes[etiquetas.index(i)], tesis[etiquetas.index(i)][:70]))
-    salida = os.path.join(RAIZ, "los papeles", "licuado.json")
+    salida = os.path.join(RAIZ, "la obra", "los papeles", "licuado.json")
     escribir(salida, json.dumps([{"tesis": x, "fuente": f} for x, f in zip(tesis, fuentes)],
                                 ensure_ascii=False, indent=2) + "\n")
     print("\n%d tesis de %d archivos, en %s" % (len(tesis), len(set(fuentes)), rel(salida)))
