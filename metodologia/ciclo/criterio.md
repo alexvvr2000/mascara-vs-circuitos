@@ -1,13 +1,15 @@
 <!-- voz: de testigo -->
-# Los criterios, en fichas
+# El índice de los pasos
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El ciclo final, partido en una ficha por paso. Aquí no se lee de corrido: se busca el paso por su número, se abre su ficha, y se ve qué recibe, qué entrega, qué hace, y qué lo tumba.
+El ciclo final, partido en una ficha por paso, y el índice que las lista: **este archivo es el indexador de los pasos.** Aquí no se lee de corrido: se busca el paso por su número, se abre su ficha, y se ve qué recibe, qué entrega, qué hace, y qué lo tumba.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Una ficha es un paso, y un paso es lo que se corre. Si no tiene su ficha aquí, no está en el ciclo. Y esta página crece como crece el ciclo: una línea por ficha, y nada más, porque el índice que explica cada paso se lee en la ficha y no aquí.
+> Una ficha es un paso, y un paso es lo que se corre. Si no tiene su ficha aquí, no está en el ciclo, y un paso que no está no se ejecuta. Y esta página crece como crece el ciclo: una línea por ficha, y nada más, porque lo que explica cada paso se lee en la ficha y no aquí.
+>
+> Y lo que este índice no hace: no busca por palabras en los ensayos. Para eso está el índice de los ensayos, en `la obra/teoria/indice ensayos/`, que dice qué se dijo y en qué línea.
 
 ---
 
@@ -51,9 +53,16 @@ lo apuntado vuelve al índice    012     devuelve al índice
 ## Cómo se lee una ficha
 
 ```plaintext
-primero    sus ideas: qué bloques de teoría la llenan, o «falta» si todavía no
+primero    sus ideas: qué bloques de teoría la llenan, cada uno con su línea, o «falta»
 después    recibe y entrega: de qué paso y a qué paso, que es lo que la hace un paso
 y al final prueba: el .py que la corre, o «falta» si todavía no
+```
+
+Y la línea de la idea no se cita a ojo: se busca en el índice de los ensayos, con una orden, y se cita el renglón que devuelve.
+
+```plaintext
+python -m scripts --indice-term <palabra> [<palabra> …]   dice el archivo y el renglón
+python -m scripts --indice                                 cuenta lo que hay indexado
 ```
 
 Y lo que ninguna ficha dice: «esto se ve en». La que lo diga, no está llena: está citando.

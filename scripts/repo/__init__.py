@@ -9,6 +9,8 @@ líneas, y después un paquete con dos hogares. Ahora hay uno: `scripts/repo/`, 
     python -m scripts --reuse           lo mismo, y además corre `reuse lint` de verdad
     python -m scripts --piso            el piso del repositorio; va a `piso.md`
     python -m scripts --paso            el tablero del ciclo; va al README del ciclo
+    python -m scripts --indice          cuenta el índice de los ensayos
+    python -m scripts --indice-term <t> busca un término en el índice, y dice la línea
     python -m scripts --X               informa lo que el trabajo X cambiaría
     python -m scripts --escribe X       lo hace
 
@@ -18,6 +20,7 @@ Y lo que vive aquí, en un renglón cada uno:
     constantes   las expresiones regulares, y la forma de cada cosa
     piso         que piso.md no envejezca
     criterio     las fichas del ciclo, y el tablero de su puerta
+    ensayos      el índice de los ensayos originales, en jsonl
     encabezados  el formato de proceso, leído como datos
     hallazgos    de qué ensayo sale cada corrida
     bloques      cada ensayo como una lista de bloques
@@ -34,16 +37,17 @@ el único que se corre. Los demás son piezas, y ninguna se llama a sí misma.
 
 import sys
 
-from . import bloques, criterio, encabezados, enlaces, hallazgos, piso  # noqa: F401
+from . import bloques, criterio, encabezados, enlaces, ensayos, hallazgos, piso  # noqa: F401
 from .comprobar import comprobar
 from .licuadora import trabajo_licuadora
-from .trabajos import (Trabajo, trabajo_piso, trabajo_paso, trabajo_citas, trabajo_rutas,
+from .trabajos import (Trabajo, trabajo_piso, trabajo_paso, trabajo_indice, trabajo_citas, trabajo_rutas,
                        trabajo_reapunta, trabajo_forma, trabajo_negritas,
                        trabajo_sin_y, trabajo_sin_numeros, trabajo_ofusca)
 
 TRABAJOS = {
     "piso": trabajo_piso,
     "paso": trabajo_paso,
+    "indice": trabajo_indice,
     "citas": trabajo_citas,
     "rutas": trabajo_rutas,
     "reapunta": trabajo_reapunta,
@@ -67,6 +71,13 @@ def main(argv):
     for i, a in enumerate(argv):
         if a == "--escribe" and i + 1 < len(argv):
             trabajo = argv[i + 1]
+            break
+    # La consulta del índice: se lee el término, y no se confunde con el trabajo.
+    terminos = []
+    for i, a in enumerate(argv):
+        if a == "--indice-term":
+            terminos = argv[i + 1:]
+            trabajo = "indice"
             break
     if trabajo is None:
         for a in argv:
@@ -99,6 +110,10 @@ def main(argv):
             renglones = criterio.reescribir()
             print("[paso] ciclo/README.md: %s" % (
                 "%d renglones del tablero reescritos" % renglones if renglones else "ya estaba igual"))
+        return 0
+    if trabajo == "indice":
+        # la consulta dice qué término se busca; sin término, el índice se cuenta
+        trabajo_indice(Trabajo(escribe), terminos=terminos or None)
         return 0
     if trabajo == "licuadora":
         trabajo_licuadora(Trabajo(escribe))

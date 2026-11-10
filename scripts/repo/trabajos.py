@@ -270,6 +270,46 @@ def trabajo_ofusca(t):
     print("\n%d rutas de la máquina del autor%s." % (t.cambios, ", ofuscadas" if t.escribe else " por limpiar"))
 
 
+def trabajo_indice(t, salida=None, terminos=None):
+    """El índice de los ensayos: lo construye, o contesta una consulta.
+
+    Y por qué es un trabajo y no una prueba: lo usan todos los pasos del ciclo, y su
+    jsonl se regenera cada vez que un ensayo cambia. No decide nada: dice dónde está.
+    """
+    from . import ensayos as indice
+
+    if salida is not None:
+        if hasattr(salida, "reconfigure"):
+            salida.reconfigure(encoding="utf-8")
+
+        def escribir(linea):
+            salida.write(linea + "\n")
+    else:
+        def escribir(linea):
+            print(linea)
+
+    if terminos:
+        exactas, pistas = indice.consulta(terminos)
+        if exactas is None:
+            escribir("no hay índice: se construye con `python -m scripts --escribe indice`")
+            return
+        escribir("## Lo que dice, exacto: %d renglones" % len(exactas))
+        for d in exactas[:40]:
+            escribir("  %s:%d  %s" % (d["archivo"], d["linea"], d["texto"][:150]))
+        escribir("")
+        escribir("## Lo que dice una parte, y merece mirarse: %d renglones" % len(pistas))
+        for d in pistas[:20]:
+            escribir("  %s:%d  %s" % (d["archivo"], d["linea"], d["texto"][:150]))
+        return
+
+    n, lineas = indice.construye()
+    escribir("## El índice de los ensayos")
+    escribir("")
+    escribir("ensayos              %d" % n)
+    escribir("renglones afirmativos %d" % lineas)
+    escribir("dónde queda          la obra/teoria/indice ensayos/")
+
+
 def trabajo_paso(t, salida=None):
     """El tablero del ciclo, en el mismo formato que el bloque del README del ciclo.
 

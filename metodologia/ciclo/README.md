@@ -3,7 +3,7 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El cuaderno del método C, y el punto por donde se empieza: dice qué hay aquí, que se empieza por el paso 1, y a dónde se va cuando una corrida termina. Lo que no cabe aquí vive en cada paso, y cada paso dice cuál sigue.
+El cuaderno del método C, y el punto por donde se empieza: dice qué hay aquí, en qué paso se está, y a qué archivo se va. Lo que no cabe aquí vive en cada paso, y cada paso dice cuál sigue.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
@@ -37,13 +37,20 @@ Y los cuatro pasos, por su nombre, para saber a dónde se va:
 paso 1 · el ciclo en fichas      desarmar el ciclo del ente en fichas 001…N
 paso 2 · las pruebas             la prueba de cada ficha, rota a propósito
 paso 3 · las conexiones          cada arista, con su script
-paso 4 · las cuentas             las cuentas, la clase de cero, y si converge
+paso 4 · las cuentas             las cuentas, la clase de cero, y si converge. es el
+                                 final de la cadena
 ```
+
+## La regla que hace que esto funcione en un chat nuevo
+
+Cada corrida se hace en un chat nuevo, porque dos corridas seguidas llenan el contexto y lo llenan con lo de la anterior. Por eso **cada `readme.md` de paso basta solo**: dice qué se hace, con qué se consulta, qué se escribe, dónde, cómo se prueba, y a dónde se va. No hay que abrir el método, ni este archivo más de una vez, ni ninguna conversación anterior.
+
+Y lo que hace que una corrida sobreviva: **lo que no queda en un archivo del repositorio, no ocurrió.** La corrida escribe su `corrida N.md` antes de cerrarse, y si no la escribió, no pasó.
 
 ## Qué hay en cada cosa
 
 ```plaintext
-criterio.md        el índice de las fichas, y la correspondencia con el original
+criterio.md        el índice de los pasos: qué fichas hay, y de qué paso sale cada una
 criterio/          una ficha por paso: 001 - <.md>, 002 - <.md>, … sin huecos
 conexiones.md      las aristas: de qué paso a qué paso, con qué prueba, y en qué estado
 decisiones.md      lo que se decidió con qué se pierde, y lo que se dejó fuera con su razón
@@ -53,6 +60,21 @@ paso N · <…>/      el proceso del paso N, y sus corridas: readme.md, corrida 
 ```
 
 Y lo que esta puerta no guarda: ni el proceso de un paso, ni la forma de una ficha, ni cómo se cuentan las cuentas. Cada cosa está en su paso, y el método la nombra.
+
+## El índice de los ensayos: lo que los originales ya dijeron
+
+Los once ensayos de `la obra/teoria/` no se tocan nunca. Lo que se consulta es su índice, que se genera de ellos y se rehace cuando cambian:
+
+```plaintext
+dónde está       la obra/teoria/indice ensayos/ensayos.jsonl   un renglón por ensayo
+                 la obra/teoria/indice ensayos/lineas.jsonl    un renglón por línea que
+                                                               afirma algo, con su número
+cómo se usa      python -m scripts --indice-term <p> [<p> …]
+cómo se rehace   python -m scripts --escribe indice
+la cita          <archivo>#L<renglón>. esa es la que va en la ficha y en el folio
+```
+
+Y la regla: **el índice dice dónde está escrito, no qué significa.** Lo que significa lo dice la idea, y su línea. Si la consulta no devuelve el renglón exacto, se abren las pistas, una por una; no se cita de memoria.
 
 ## El tablero
 
