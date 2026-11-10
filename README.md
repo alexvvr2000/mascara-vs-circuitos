@@ -239,7 +239,7 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
 y en la raíz
   Attribution.md          quién escribió qué, y quién revisó qué
   estado.md               el piso: qué hay, dónde está y qué falta, generado
-                          con `python scripts/piso.py`
+                          con `python scripts/build.py --piso`
   build.py, en scripts/   las cuatro reglas, y el comando que las corre
 ```
 

@@ -53,7 +53,7 @@ ANDAMIOS = ["Entra:", "Se corre:", "Sale:", "Lo consume:", "La busqueda:",
             "La búsqueda:", "Y si no encuentra:", "Falla si:", "Invoca",
             "Que se pierde", "Qué se pierde", "Y si no"]
 
-# la maquina del autor, y nada mas. lo mismo que scripts/ofusca.py
+# la maquina del autor, y nada mas. lo mismo que el trabajo ofusca de build.py
 PATRON_RUTA = re.compile(
     r"[A-Za-z]:[\\/]+Users[\\/]+Alex(?:[\\/]+(?:git|Documents|Downloads|Desktop|AppData|\.dsh))*(?:[\\/]+[^'\"\n,;)]*)?"
 )

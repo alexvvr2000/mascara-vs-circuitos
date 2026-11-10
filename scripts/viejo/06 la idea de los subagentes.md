@@ -39,13 +39,13 @@ se delega      un mutante, un ensayo, y una salida de comando
 no se delega   qué falta, ni cómo se arregla, ni cerrar el hallazgo
 ```
 
-Y lo que quedó como buena idea sin implementar, y se dice: que un mutante que mata a otro de la misma familia ahorra el trabajo de correrlo. Eso ya está en el método, sin subagentes, y fue lo que bajó el tamaño del trabajo de una lista a una lista corta.
+Lo que quedó como buena idea sin implementar, y se dice: que un mutante que mata a otro de la misma familia ahorra el trabajo de correrlo. Eso ya está en el método, sin subagentes, y fue lo que bajó el tamaño del trabajo de una lista a una lista corta.
 
 ## Dónde queda ahora
 
-- la jerarquía, que es la mitad que sirvió: [metodo.md](../../metodologia/sostiene/metodo.md) §VIII
-- lo que no se delega, y por qué: [metodo.md](../../metodologia/sostiene/metodo.md) §IX
-- el cuaderno original, con lo que se dijo al momento: [la idea de los subagentes](../../metodologia/historia/06%20-%20la%20ultima%20idea,%20de%20los%20subagentes.md)
+- la jerarquía, que es la mitad que sirvió: [El método entero](../../metodologia/sostiene/metodo.md) §VIII
+- lo que no se delega, y por qué: [El método entero](../../metodologia/sostiene/metodo.md) §IX
+- el cuaderno original, con lo que se dijo al momento: [La idea de los subagentes](../../metodologia/historia/06%20-%20la%20ultima%20idea,%20de%20los%20subagentes.md)
 
 ## Falsificador
 

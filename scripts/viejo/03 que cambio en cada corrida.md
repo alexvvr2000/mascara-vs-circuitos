@@ -12,7 +12,7 @@ Alejandro Valenzuela Rivera · el ente. Escrito el 2026-11-08, en cuaderno apart
 
 El detalle de una corrida no está en su resultado: está en por qué se eligió ésa y no otra, y qué dejó abierto.
 
-Y se lee junto a [como se corrio](../../metodologia/historia/02%20-%20como%20se%20corrio.md), que es la cadena dicha en un renglón por vuelta, y a las carpetas de [huecos/corridas](../../metodologia/huecos/corridas/), que son el detalle con voz de quien lo corrió.
+Se lee junto a [Cómo se corrió](../../metodologia/historia/02%20-%20como%20se%20corrio.md), que es la cadena dicha en un renglón por vuelta, y a las carpetas de [huecos/corridas](../../metodologia/huecos/corridas/), que son el detalle con voz de quien lo corrió.
 
 ## Lo que pasó
 
@@ -28,13 +28,13 @@ apuntó lo que hubo que inventar   y eso fue, casi siempre, lo que el ensayo
 
 Y el esquema cambió por una razón que se repite: el hueco de una corrida no se cierra en el código, se cierra en el ensayo, y a veces en el esquema. Cuando se cerró en la tabla y no en el texto, la siguiente lo volvió a encontrar.
 
-Y lo que se aprendió del orden, que es lo que este cuaderno transmite: cada una eligió la siguiente, y la eligió por el hallazgo anterior. Por eso el recorrido se lee como una historia y no como una lista: cada vuelta se abre con lo que la cerrada dejó.
+Lo que se aprendió del orden, que es lo que este cuaderno transmite: cada una eligió la siguiente, y la eligió por el hallazgo anterior. Por eso el recorrido se lee como una historia y no como una lista: cada vuelta se abre con lo que la cerrada dejó.
 
 ## Dónde queda ahora
 
 - la documentación de cada corrida, con su voz: [huecos/corridas](../../metodologia/huecos/corridas/)
-- la lista de una línea por corrida: [indice](../../metodologia/indice.md)
-- el registro con fecha, y los errores propios: [el registro de como se llego](../../metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md)
+- la lista de una línea por corrida: [El índice de las corridas](../../metodologia/indice.md)
+- el registro con fecha, y los errores propios: [El registro de cómo se llegó](../../metodologia/historia/05%20-%20el%20registro%20de%20como%20se%20llego.md)
 
 ## Falsificador
 

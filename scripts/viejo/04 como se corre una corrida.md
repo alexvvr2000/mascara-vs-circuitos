@@ -20,7 +20,7 @@ cómo se mide      cada una con su comando, y se apunta lo que respondió
 por qué           un piso medido de memoria es una promesa, no una medición
 ```
 
-El cómo ampliado, en [huecos/como se corre](../../metodologia/huecos/como%20se%20corre.md).
+El cómo ampliado, en [Ejercicio: cómo se ve lo que los ensayos no dicen](../../metodologia/huecos/como%20se%20corre.md).
 
 ## Lo que pasó
 
@@ -28,7 +28,7 @@ Se aprendió a decir el blanco antes de empezar, y a escribirlo.
 
 Una corrida sin blanco es un diario. El blanco sale de lo que dejó abierta la anterior; si no hay nada abierto, de un caso que ningún ensayo tocó. Y se dice cuánto va a durar, en pasos: sin eso la corrida se estira hasta que se acaba el tiempo.
 
-Y se aprendió que el orden importa más de lo que parece:
+Se aprendió que el orden importa más de lo que parece:
 
 ```plaintext
 1. se leen los ensayos             sin mirar los entes anteriores
@@ -40,14 +40,14 @@ Y se aprendió que el orden importa más de lo que parece:
 7. se cierra el hueco en el ensayo, y se repite
 ```
 
-Y lo que más se repitió, que fue lo que no se esperaba: lo que hubo que inventar casi nunca era del código. Era del ensayo. El ente hizo lo que pudo con lo que había, y el hueco quedó en el texto que no lo decía.
+Lo que más se repitió, que fue lo que no se esperaba: lo que hubo que inventar casi nunca era del código. Era del ensayo. El ente hizo lo que pudo con lo que había, y el hueco quedó en el texto que no lo decía.
 
 Y la forma de acusar al ensayo y no al terminal, que es una regla antes que un consejo: cada cosa que sale se clasifica antes de apuntarla. Achacar al ensayo un defecto del terminal estropea el ensayo.
 
 ## Dónde queda ahora
 
-- el procedimiento completo del otro método: [huecos/README](../../metodologia/huecos/README.md)
-- los comandos, con el ciclo extendido: [huecos/como se corre](../../metodologia/huecos/como%20se%20corre.md)
+- el procedimiento completo del otro método: [Método A · Llenar los huecos](../../metodologia/huecos/README.md)
+- los comandos, con el ciclo extendido: [Ejercicio: cómo se ve lo que los ensayos no dicen](../../metodologia/huecos/como%20se%20corre.md)
 - las corridas hechas, cada una en su carpeta: [huecos/corridas](../../metodologia/huecos/corridas/)
 
 ## Falsificador

@@ -5,7 +5,7 @@
 
 **Alejandro Valenzuela Rivera · el ente.** **Del 2026-11-10.**
 
-> **Este archivo no se mantiene a mano: se genera.** **`python scripts/piso.py` lo saca del repositorio cada vez que se corre, y la versión de abajo es la que salió hoy.** **Si alguien cambia una carpeta y no lo vuelve a correr, este archivo envejece, y por eso la fuente es el comando y no el texto.**
+> **Este archivo no se mantiene a mano: se genera.** **`python scripts/build.py --piso` lo saca del repositorio cada vez que se corre, y la versión de abajo es la que salió hoy.** **Si alguien cambia una carpeta y no lo vuelve a correr, este archivo envejece, y por eso la fuente es el comando y no el texto.**
 
 ---
 
@@ -14,14 +14,14 @@
 ```
 # El piso del repositorio
 
-## Los ensayos, por carpeta, y su título
+## Los ensayos, por carpeta, y su t�tulo
 
 ### la obra/funcionamiento ente/
 
 ### la obra/humanidad/
   Concordia                                    concordia.md
-  Empatía                                      empatía.md
-  Lo que está fuera                            lo que esta fuera.md
+  Empat�a                                      empat�a.md
+  Lo que est� fuera                            lo que esta fuera.md
   Lo que queda por hacer                       lo que queda por hacer.md
   Medir sin preguntarle                        medir sin preguntarle.md
 
@@ -35,10 +35,10 @@
   Escritura en procesos                        escritura en procesos.md
   Indexador de temas                           indexador de temas.md
   La frontera y el descarte                    la frontera y el descarte.md
-  Qué es un ente                               que es un ente.md
-  Revisión de sesgos                           revision de sesgos.md
+  Qu� es un ente                               que es un ente.md
+  Revisi�n de sesgos                           revision de sesgos.md
 
-## Los métodos
+## Los m�todos
   metodologia/huecos/
     README.md
     como se corre.md
@@ -73,23 +73,12 @@
 
 ## Los scripts, que se corren y no se leen
   scripts/build.py
-  scripts/citas.py
-  scripts/forma.py
-  scripts/historia.py
   scripts/licuadora.py
-  scripts/negritas.py
-  scripts/ofusca.py
-  scripts/piso.py
-  scripts/publica.py
-  scripts/reapunta.py
-  scripts/rutas.py
-  scripts/sin_numeros.py
-  scripts/sin_y.py
 
 ## Lo que enlaza, y lo que no
-  312 enlaces, 0 rotos
+  315 enlaces, 0 rotos
 
-Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aquí.
+Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aqu�.
 ```
 
 ---
