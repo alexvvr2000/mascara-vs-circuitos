@@ -21,7 +21,7 @@ MIT no trae esa sección. Por eso no es esta.
 
 ## Qué se puede hacer
 
-Lo mismo con las dos: leer, correr, copiar, modificar y publicar la propia versión.
+Lo mismo con las dos: leer, correr, copiar, modificar y publicar la propia versión. Y lo que la licencia no hace, que conviene decirlo junto: no vuelve verdadera ninguna afirmación del trabajo. Eso lo decide cada lector, leyendo sus falsificadores y corriéndolos.
 
 - con el texto: citarlo, con atribución, con el enlace a la licencia, y diciendo si se cambió.
 - con el código: llevarse el aviso de copyright y la licencia, y decir en los archivos cuáles se modificaron.

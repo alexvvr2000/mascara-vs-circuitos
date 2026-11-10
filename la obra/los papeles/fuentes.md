@@ -17,7 +17,7 @@ Estas fuentes están aquí por respeto, y no como herencia: hay trabajos que lle
 
 De ahí sale la consecuencia que manda sobre todo lo demás:
 
-> Si alguna de estas fuentes está resumida mal, el error es de esta página y no de su autor. La corrección se agradece, y se hace con su aviso.
+> Si alguna de estas fuentes está resumida mal, el error es de esta página y no de su autor. La corrección se agradece, y se hace con su aviso, en el mismo commit que la corrija.
 
 Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca: se corrigen, y se quedan.
 
@@ -312,6 +312,76 @@ Nick Carr              el efecto que se le atribuye a la pantalla no tiene medic
 Lo que esto significa, dicho sin rodeos: las columnas de «qué guarda» salen de los resúmenes; la de «qué le falta» es lectura de este trabajo, y no un resultado medido.
 
 Falta el renglón que importa: ninguna de estas fuentes la leyó el autor de este repositorio. Las buscó un agente, abrió las fichas de arXiv y lo que se pudo abrir en abierto, y escribió lo que dicen sus resúmenes. Un estado del arte que no pasó por ojos humanos no es un estado del arte: es un primer barrido, y así se presenta.
+
+---
+
+---
+
+# XVIII. La elegibilidad: qué dice la ley y la norma de que esto sea del autor
+
+Esto vivía en [Attribution.md](../../Attribution.md), y se trajo aquí por su razón de ser: es una fuente, con su estado de apertura, y no una decisión de autoría. Attribution dice a quién pertenece el trabajo; esta página dice qué dicen otros sobre a quién puede pertenecer.
+
+| La fuente | Qué dice | Estado |
+|---|---|---|
+| `SCJN`, asunto «Avatar Virtual» (2024) | se negó el registro de un avatar creado con IA; la sentencia se limitó al caso concreto y no fijó una regla general | abierta (UNAM Global, 26 de septiembre de 2025) |
+| `INDAUTOR` | exige autor persona física; rechaza lo producido íntegramente por IA, caso por caso, sin lineamiento público | no se abrió su guía de registro |
+| `USCO`, *Copyright and AI, Part 2* (29 de enero de 2025) | sin autor humano no hay obra; protege lo que la persona seleccionó, arregló o modificó | abierta parcial (sin paginación extraída) |
+| `COPE` | define el reciclaje de texto propio sin transparencia como falta editorial | definición sí; texto completo no |
+
+Y el límite, que es el de toda esta página: la `INDAUTOR` no se abrió, y la `USCO` se abrió a medias. Quien cite esto en contra tiene razón hasta que se abra la página.
+
+---
+
+
+
+# XIX. Lo que el método C buscó, eligió y descartó
+
+El [análisis de ciclo](../../metodologia/analisis%20de%20ciclo/README.md) se construyó sobre el ciclo de Kolb, que ya se cita en el apartado del escalón que faltaba, y buscó dos cosas más antes de elegirlas. Se apuntan aquí por la misma razón que las demás: para que quien las revise tenga el nombre, y sepa que nadie las leyó enteras.
+
+```plaintext
+el test de juicio situacional    existe, y se usa en selección de personal. se cita
+                                 como método, y no como constructo: mide una mezcla
+                                 de conocimiento, carácter y adiestramiento, con una
+                                 validez para desempeño entre .26 y .34. se toma que
+                                 NO es la vara de criterio de este trabajo, y se dice
+
+escalation-bench                 una prueba abierta de cuándo un agente debe llamar
+                                 a un humano, con licencia MIT. se cita por lo que
+                                 propone; no se copia su corpus
+
+y el corpus de situaciones       no se usó ninguno. las situaciones que se prueban
+                                 se escriben aquí, desde cero, y no se copian de un
+                                 banco ajeno
+```
+
+Y por qué se nombran dos fuentes de una búsqueda que termina fuera del trabajo: porque el método C las descarta. Una fuente que se descarta con nombre se puede volver a discutir; una que se calla, no. Y el error que no se comete con ellas es el de usarlas como vara de criterio, cuando lo que la psicología dice es que mide una mezcla.
+
+---
+
+# XX. El hueco que la psicología encontró, buscado por `TESTIGO`
+
+Esto no lo trajo el autor: lo trajo una búsqueda, y se deja dicho así porque es lo que pasó. Estaba en [Attribution.md](../../Attribution.md), y se trajo aquí porque es una fuente que el autor no leyó entera.
+
+Se buscó en psicología del aprendizaje, no en sistemas de agentes, si el ciclo de cuatro piezas que sostiene este trabajo está completo o le falta un escalón. Lo que salió, y conviene que el lector lo tenga al lado de los ensayos:
+
+```plaintext
+lo que ya estaba      concreto → reflexión → concepto → experimento
+                      es el ciclo de Kolb, 1984, y este trabajo lo recorre
+                      entero: el hecho, la fricción con su porqué, la regla,
+                      y la vuelta al campo
+
+lo que faltaba        la conceptualización: el escalón donde de una fricción
+                      sale una regla. Se escribió aparte, y la psicología
+                      dice lo mismo que se midió aquí: es el escalón que
+                      se salta, porque cuesta y no da resultado el mismo día
+
+lo que sigue faltando es una condición de entorno, no un paso: el error sólo
+                      enseña si equivocarse sale barato. Un registro donde
+                      caerse se lee como culpa no produce criterio: produce
+                      gente que no intenta
+```
+
+Y su consecuencia, que Attribution sigue diciendo y aquí no se repite: el ciclo está completo en forma, y no está probado.
 
 ---
 

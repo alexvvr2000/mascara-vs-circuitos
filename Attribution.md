@@ -2,9 +2,11 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Cómo se escribió este trabajo, por qué es del autor, y qué puedes hacer con él.
+Cómo se escribió este trabajo, por qué es del autor, quién lo revisó, en qué idioma está, y dónde están sus fuentes.
 
-Alejandro Valenzuela Rivera · 5 de noviembre de 2026.
+Alejandro Valenzuela Rivera · 5 de noviembre de 2026, y limpiado el 2026-11-10.
+
+> Este archivo responde a tres preguntas, y a ninguna más: de quién es el trabajo, quién lo tocó antes de publicarlo, y dónde están las cosas que otros dijeron. Lo que es fuente vive en [las fuentes](la%20obra/los%20papeles/fuentes.md); lo que la licencia permite, en [LICENSES.md](LICENSES.md); lo que falta, en [los límites](la%20obra/los%20papeles/LIMITES.md). Aquí no se copia ninguna de las tres.
 
 ---
 
@@ -18,9 +20,7 @@ Este repositorio es lo que salió de eso. Lo que se repite aquí es lo que aguan
 
 Aquí la IA se usa distinto, y se nota. `TESTIGO` tiene el criterio suficiente para usarse como compañero y no como reemplazo. Compañero quiere decir que entra en fricción, que corrige, que se niega, y que deja rastro. Reemplazo quiere decir lo contrario: que decide por el autor, y eso no pasa aquí.
 
-Lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [metodologia/huecos/corridas/](metodologia/huecos/corridas/), cada una en su carpeta. Y el método B, que dice si lo que un ensayo afirma tiene dientes, en [metodologia/sostiene/metodo.md](metodologia/sostiene/metodo.md), con su conteo en [corridas.md](metodologia/sostiene/corridas.md). El [El piso del repositorio](estado.md) dice qué hay y qué falta, y `python -m scripts` comprueba que todo enlace, cita y título siga en pie.
-
-Y el [análisis de ciclo](metodologia/analisis%20de%20ciclo/README.md), que es el método C: rellena las costuras del ciclo del ente hasta que cada paso se pueda correr, y dice cuánto falta con una tabla y no con una opinión. Su rama del ciclo, que prueba esas reglas en una máquina levantada desde cero, está en [metodo.md](metodologia/sostiene/metodo.md), capítulo IX bis, con su árbol en [sostiene/corridas](metodologia/sostiene/corridas/).
+Lo que se puede revisar está en el repositorio: cada ensayo dice qué lo sostiene, y las corridas están en [metodologia/huecos/corridas/](metodologia/huecos/corridas/), cada una en su carpeta. El método B, que dice si lo que un ensayo afirma tiene dientes, está en [metodologia/sostiene/metodo.md](metodologia/sostiene/metodo.md), con su conteo en [corridas.md](metodologia/sostiene/corridas.md). El [análisis de ciclo](metodologia/analisis%20de%20ciclo/README.md) es el método C: rellena las costuras del ciclo del ente hasta que cada paso se pueda correr, y dice cuánto falta con una tabla y no con una opinión. El [El piso del repositorio](estado.md) dice qué hay y qué falta, y `python -m scripts` comprueba que todo enlace, cita y título siga en pie.
 
 Y el límite, que es el mismo de todo lo demás: eso no vuelve bueno al trabajo. Lo vuelve explicable. Lo que lo sostiene o lo tumba sigue siendo su falsificador.
 
@@ -60,7 +60,7 @@ Y una precisión sobre lo que se firma, porque es donde se confunde más fácil:
 
 Los argumentos son del autor. `TESTIGO` no sostiene ningún argumento propio dentro de este repositorio: ayuda a escribir lo que el autor sostiene, a atacarlo, y a devolverle lo que no aguanta. Cuando algo se corrige, se corrige al autor; cuando algo entra, entra porque el autor lo decidió.
 
-Y por eso el texto se escribe en una sola voz: la del autor. Una idea que nació de la conversación no es de la conversación: es del autor, que la hizo suya al aceptarla, y que la firma o la tira.
+Por eso el texto se escribe en una sola voz: la del autor. Una idea que nació de la conversación no es de la conversación: es del autor, que la hizo suya al aceptarla, y que la firma o la tira.
 
 Lo único que no es del autor, y se distingue: el rastro de la conversación, que es donde se ve qué se tiró y por qué. Ese no reclama autoría: registra trabajo.
 
@@ -70,14 +70,9 @@ Lo único que no es del autor, y se distingue: el rastro de la conversación, qu
 
 No es una formalidad, y conviene saberlo antes de citar esto. La ley exige autor humano, y sin él no hay obra.
 
-| La fuente | Qué dice | Estado |
-|---|---|---|
-| `SCJN`, asunto «Avatar Virtual» (2024) | se negó el registro de un avatar creado con IA; la sentencia se limitó al caso concreto y no fijó una regla general | abierta (UNAM Global, 26 de septiembre de 2025) |
-| `INDAUTOR` | exige autor persona física; rechaza lo producido íntegramente por IA, caso por caso, sin lineamiento público | no se abrió su guía de registro |
-| `USCO`, *Copyright and AI, Part 2* (29 de enero de 2025) | sin autor humano no hay obra; protege lo que la persona seleccionó, arregló o modificó | abierta parcial (sin paginación extraída) |
-| `COPE` | define el reciclaje de texto propio sin transparencia como falta editorial | definición sí; texto completo no |
-
 Lo que de aquí se sigue, para este trabajo: lo que da autoría no es el texto: es el criterio puesto en él. Qué entra, en qué orden, qué se sostiene y qué se cayó. Eso está en el rastro, con fecha, y por eso el rastro se publica.
+
+Las fuentes de lo que exige cada oficina, y en qué quedó cada una, se mudaron a [las fuentes](la%20obra/los%20papeles/fuentes.md): aquí se queda la consecuencia, no la cita.
 
 ### Y lo que queda en primera persona, a propósito
 
@@ -101,6 +96,10 @@ Y el origen se declara, que es lo que pide la norma editorial del reciclaje:
 
 Ninguna frase de este trabajo es copia literal del anterior: las ideas están reformuladas con palabras de aquí, y el origen está dicho en el `README` y en cada ensayo. La declaración no sustituye la reescritura: la acompaña. Y no es continuación de aquel: es un trabajo aparte, que se puede leer sin abrirlo.
 
+### La declaración de uso de IA, en una línea
+
+El texto lo produjo un modelo y lo corrigió, eligió y firmó una persona; y la tabla de con qué se escribió, y con qué límite, está arriba. Esta línea existe para que se pueda citar sin abrir el archivo.
+
 ---
 
 ## 3. Quién revisó
@@ -121,9 +120,9 @@ no revisó       nadie de afuera los ensayos ni las corridas.
 no hubo         un segundo autor de las corridas: una persona y una
                 máquina, y el mismo cuerpo de modelo en todas
 
-no hubo         comparación medida contra otro trabajo. el estado del arte
-                lo hizo `TESTIGO` con búsquedas, y su autor no leyó las
-                fuentes una por una: lo que hay es una comparación de
+no hubo         comparación medida contra otro trabajo. las fuentes
+                las juntó `TESTIGO` con búsquedas, y su autor no leyó
+                las fuentes una por una: lo que hay es una comparación de
                 resúmenes, y eso no es una comparación medida
 
 y los mutantes   los rompió quien escribió las reglas, no un tercero:
@@ -140,6 +139,8 @@ no hubo         una forma de saber si esto sirve: eso sólo se ve si
 Y el límite de este párrafo, que también se dice: que yo declare que no hubo revisión externa no vuelve el trabajo más sólido. Lo vuelve más creíble al leerlo, que no es lo mismo.
 
 Un error declarado sigue siendo un error. La declaración sirve para que nadie se lleve una sorpresa, no para absolver.
+
+Lo que cada fuente tiene de abierto y de cerrado no se repite aquí: se dice en [las fuentes](la%20obra/los%20papeles/fuentes.md), y lo que así queda sin medir, en [los límites](la%20obra/los%20papeles/LIMITES.md).
 
 ---
 
@@ -198,78 +199,11 @@ Lo que esto no es: no es permiso para meter inglés a media frase. Una oración 
 
 ## 5. Las fuentes, y por qué están
 
-Las ideas de este trabajo no se derivan de la literatura. Se llegaron a ellas discutiendo, y por lógica.
+Las ideas de este trabajo no se derivan de la literatura: se llegaron a ellas discutiendo, y por lógica. Las fuentes están por respeto, y no como herencia: hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original.
 
-El estado del arte está por una razón distinta: por respeto.
+Todo lo que las fuentes son —lo que se buscó, lo que se abrió, lo que se resume mal, lo que se corrigió, y lo que el método C eligió y descartó— vive en un solo lugar: [las fuentes](la%20obra/los%20papeles/fuentes.md). Aquí no se copia ninguna, y la regla que las rige se dice allá, con cada renglón: si alguna está resumida mal, el error es de esa página y no de su autor.
 
-Porque hay trabajos que llegaron a cosas parecidas, y no decir dónde están sería la peor forma de ser original. Las fuentes se citan por lo que otro pueda reclamar, no porque se hayan seguido.
-
-Y una consecuencia que hay que admitir sin adornos: la búsqueda de esas fuentes, y su primer barrido, los hizo una IA. Cada renglón del estado del arte sale del resumen de una fuente o de una ficha abierta, y ninguna se leyó entera. Un barrido hecho así puede resumir mal una fuente.
-
-Así que se dice aquí, y vale para cada renglón:
-
-> Si alguna de esas fuentes está resumida mal, el error es de esta página y no de su autor. La corrección se agradece, y se hace con su aviso, en el mismo commit que la corrija.
-
-No se retiran las fuentes por prudencia. Se dejan, y se corrige lo que esté mal. Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca.
-
-### Y el hueco que la psicología encontró, buscado por `TESTIGO`
-
-Esto no lo trajo el autor: lo trajo una búsqueda, y se deja dicho así porque es lo que pasó.
-
-Se buscó en psicología del aprendizaje, no en sistemas de agentes, si el ciclo de cuatro piezas que sostiene este trabajo está completo o le falta un escalón. Lo que salió, y conviene que el lector lo tenga al lado de los ensayos:
-
-```plaintext
-lo que ya estaba      concreto → reflexión → concepto → experimento
-                      es el ciclo de Kolb, 1984, y este trabajo lo recorre
-                      entero: el hecho, la fricción con su porqué, la regla,
-                      y la vuelta al campo
-
-lo que faltaba        la conceptualización: el escalón donde de una fricción
-                      sale una regla. Se escribió aparte, y la psicología
-                      dice lo mismo que se midió aquí: es el escalón que
-                      se salta, porque cuesta y no da resultado el mismo día
-
-lo que sigue faltando es una condición de entorno, no un paso: el error sólo
-                      enseña si equivocarse sale barato. Un registro donde
-                      caerse se lee como culpa no produce criterio: produce
-                      gente que no intenta
-```
-
-Y la consecuencia sobre este trabajo, que se dice sin suavizarla: el ciclo está completo en forma, y **no está probado**. Que las cuatro etapas estén cubiertas quiere decir que no falta una quinta; no quiere decir que el criterio que sale de ellas sea el correcto. Eso sólo lo dice el desenlace, y el desenlace todavía no se midió sobre la regla destilada. Lo que hay hoy, en el registro, es una regla que nació de una fricción y treinta y tres que no.
-
-### Y las que trajo el método C, que también se buscaron y no se abrieron
-
-El [análisis de ciclo](metodologia/analisis%20de%20ciclo/README.md) se construyó sobre el ciclo de Kolb, que ya se cita arriba, y buscó dos cosas más antes de elegirlas. Se apuntan aquí por la misma razón que las demás: para que quien las revise tenga el nombre, y sepa que nadie las leyó enteras.
-
-```plaintext
-el test de juicio situacional    existe, y se usa en selección de personal. se cita
-                                 como método, y no como constructo: mide una mezcla
-                                 de conocimiento, carácter y adiestramiento, con una
-                                 validez para desempeño entre .26 y .34. se toma que
-                                 NO es la vara de criterio de este trabajo, y se dice
-
-escalation-bench                 una prueba abierta de cuándo un agente debe llamar
-                                 a un humano, con licencia MIT. se cita por lo que
-                                 propone; no se copia su corpus
-
-y el corpus de situaciones       no se usó ninguno. las situaciones que se prueban
-                                 se escriben aquí, desde cero, y no se copian de un
-                                 banco ajeno
-```
-
-Y por qué se nombran dos fuentes de una búsqueda que termina fuera del trabajo: porque el método C las descarta. Una fuente que se descarta con nombre se puede volver a discutir; una que se calla, no. Y el error que no se comete con ellas es el de ayer: usarlas como vara de criterio, cuando lo que la psicología dice es que mide una mezcla.
-
-Y el límite de este apartado, que es el mismo de los demás: ninguna de esas fuentes se leyó entera. Lo que dicen está tomado de su resumen o de una ficha abierta, y quien lo cite en contra tiene razón hasta que se abra la página.
-
----
-
-## 6. La licencia, y qué puedes hacer
-
-Este trabajo está bajo `CC BY 4.0`. Puedes leerlo, citarlo, compartirlo y construir encima, con atribución.
-
-Lo que la licencia permite es usar el método. Lo que no hace es volver verdadera ninguna de sus afirmaciones: eso lo decide cada lector, leyendo sus falsificadores y corriéndolos.
-
-Lo que construyas es tuyo. Lo que está aquí se queda aquí.
+Y una consecuencia que va para todo lo que se cita: la búsqueda de esas fuentes, y su primer barrido, los hizo una máquina, y ninguna se leyó entera. Un barrido hecho así puede resumir mal una fuente. Eso no se arregla con una declaración: se arregla abriendo la página, y se dice cuál falta en [los límites](la%20obra/los%20papeles/LIMITES.md).
 
 ---
 
