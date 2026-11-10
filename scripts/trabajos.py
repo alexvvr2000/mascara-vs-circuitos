@@ -274,7 +274,7 @@ def trabajo_ofusca(t):
 def trabajo_piso(t):
     """El estado del repositorio, en el mismo formato que el bloque de estado.md."""
     print("## Los ensayos, por carpeta, y su título")
-    for nombre in ("funcionamiento ente", "humanidad", "teoria", "los papeles"):
+    for nombre in sorted(d for d in os.listdir(os.path.join(RAIZ, "la obra")) if os.path.isdir(os.path.join(RAIZ, "la obra", d))):
         print()
         print("### la obra/%s/" % nombre)
         d = carpeta_obra(nombre)
@@ -287,7 +287,7 @@ def trabajo_piso(t):
             print("  %-44s %s" % ((m.group(1) if m else "(sin título)"), f))
     print()
     print("## Los métodos")
-    for m in ("huecos", "sostiene", "analisis de ciclo"):
+    for m in sorted(d for d in os.listdir(os.path.join(RAIZ, "metodologia")) if os.path.isdir(os.path.join(RAIZ, "metodologia", d))):
         d = os.path.join(RAIZ, "metodologia", m)
         if not os.path.isdir(d):
             continue

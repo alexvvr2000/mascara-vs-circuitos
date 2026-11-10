@@ -75,8 +75,8 @@ Y el más caro, que no es un dato sino una forma: tratar la metodología como el
 ## Dónde queda ahora
 
 - el criterio del ente: [El ciclo del ente](../../la%20obra/el%20ciclo%20del%20ente.md)
-- la prueba del método: [El método entero](../../metodologia/sostiene/metodo.md)
-- la lista de errores como criterio, y no como anécdota: [El método entero](../../metodologia/sostiene/metodo.md) §X
+- la prueba del método: [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md)
+- la lista de errores como criterio, y no como anécdota: [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md) §X
 
 ## Falsificador
 
@@ -88,6 +88,6 @@ Y el que este cuaderno comete, y se dice: los errores los encontró quien los co
 
 ## Lo que este cuaderno conserva, y por qué
 
-Los conteos de aquel día —cuántas corridas, cuántas reglas, cuántos cortes— no se repiten aquí: tienen fecha en el cuaderno original, y la cifra vigente vive en [Las corridas, en un solo archivo](../../metodologia/sostiene/corridas.md).
+Los conteos de aquel día —cuántas corridas, cuántas reglas, cuántos cortes— no se repiten aquí: tienen fecha en el cuaderno original, y la cifra vigente vive en [Las corridas, en un solo archivo](../../metodologia/corridas/indice.md).
 
 Lo que se conserva es la creencia que se cayó, y el error propio que la encontró.

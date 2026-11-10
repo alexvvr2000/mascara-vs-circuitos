@@ -3,90 +3,95 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Dos métodos, y cada uno contesta una pregunta distinta. Y ninguno de los dos tiende al infinito.
+Tres métodos, cada uno contesta una pregunta distinta, y ninguno tiende al infinito. Y una carpeta de corridas, que es donde se apuntó lo que cada uno encontró.
 
-Alejandro Valenzuela Rivera.
+Alejandro Valenzuela Rivera · el ente.
+
+> Esta página es la puerta, y no el método. Si buscas un método, está en `metodos/`. Si buscas qué se encontró, en `corridas/`. Si buscas cómo se llegó, en `historia/`. Un renglón por sitio, y nada más: lo que diga dos veces el mismo método envejece dos veces.
 
 ---
 
-## Los dos, y no se mezclan
+## Los tres, y no se mezclan
 
 | El método | La pregunta que contesta | Cuándo se acaba |
 |---|---|---|
-| [Método A · Llenar los huecos](huecos/README.md) | ¿qué le falta al ensayo? | cuando el ente se puede levantar sin preguntar nada |
-| [Método B · Ver si se sostiene](sostiene/README.md) | ¿lo que el ensayo dice tiene dientes? | cuando lo que sobrevive está nombrado |
+| [A · Encontrar huecos](metodos/a%20-%20encontrar%20huecos.md) | ¿qué le falta al ensayo? | cuando el ente se puede levantar sin preguntar nada |
+| [B · Romper una regla](metodos/b%20-%20romper%20una%20regla.md) | ¿lo que el ensayo dice tiene dientes? | cuando lo que sobrevive está nombrado |
+| [C · Análisis de ciclo](metodos/c%20-%20analisis%20de%20ciclo.md) | ¿todo se conecta, sin ambigüedad? | cuando no queda un bloque suelto ni una lectura doble |
 
-Y por qué hacen falta los dos, en una línea: los mutantes sólo prueban reglas escritas; la corrida entera encuentra lo que falta y no está escrito. Una sin la otra deja un lado sin mirar.
+Y por qué hacen falta los tres, en una línea: el A encuentra lo que no está escrito, el B prueba lo que sí está escrito, y el C junta lo que sale de los dos en un ciclo que se puede correr. Uno solo deja dos lados sin mirar.
 
-Y por qué esto no tiende al infinito: el A se acaba por el uso, no por el número de huecos. Y el B se acaba porque las reglas se acaban. Lo que no tiene final es la autonomía, y ésa no se mide: se firma.
-
----
-
-## El A, y qué hay adentro
-
-```
-A · llenar los huecos     se levanta un ente con el ejemplo, se corre,
-                          y lo que hubo que inventar es el hueco
-
-  README.md               la meta, cuándo se deja de correr, y por qué las
-                          dieciocho corridas son todas de este método
-  como se corre.md        los comandos, el orden, y lo que se escribe
-  corridas/               una carpeta por corrida: la documentación, el
-                          esquema y las filas en texto, y las pruebas
-```
-
-## El B, y qué hay adentro
-
-```
-B · ver si se sostiene    se rompe una regla a propósito, y se mira
-                          si la corrida lo nota
-
-  README.md               la idea, los cuatro pasos, y cuándo se para
-  metodo.md               el método entero: la regla, las tareas, el contrato,
-                          los bancos, y de dónde sale cada pieza
-  forma.md                la forma de la aserción, y las cuatro reglas que
-                          comprueba scripts/__main__.py
-  corridas.md             en qué quedó cada mutante: el único conteo
-  mutantes/               el código de cada uno, y sus bancos en dumps
-```
+Y por qué esto no tiende al infinito: el A se acaba por el uso, no por el número de huecos; el B se acaba porque las reglas se acaban; y el C se para cuando dos vueltas seguidas no encuentran más que detalle. Lo que no tiene final es la autonomía, y ésa no se mide: se firma.
 
 ---
 
-## Lo que no es de ninguno de los dos
+## El árbol, y dónde está cada cosa
 
-| Qué | Dónde | Por qué no es un método |
-|---|---|---|
-| [historia/](historia/) | el registro con fecha, y los errores propios | no se corre: se lee |
-| [lo inexplicable.md](lo%20inexplicable.md) | cómo se persigue algo que no se termina | es el porqué de que haya dos métodos y no uno |
-| [indice.md](indice.md) | la lista de las corridas | es un índice, no un método |
+```plaintext
+metodologia/
+  README.md               esta página: la puerta
+  como se corre.md        el único sitio con los comandos y el orden
+
+  metodos/                los tres métodos, uno por archivo
+    a - encontrar huecos.md
+    b - romper una regla.md
+    b - romper una regla, el metodo.md    el método B, entero
+    b - forma de la asercion.md           las cuatro reglas que comprueba el build
+    c - analisis de ciclo.md
+
+  corridas/               lo que cada método encontró, y su índice
+    indice.md             una línea por corrida: las 18 del A, los 13 del B, y las del C
+    huecos/               las 18 del método A
+    sostiene/             los 13 mutantes del método B, con su .py y sus bancos
+    ciclo/                las vueltas del método C, y su estado actual
+
+  ciclo/                  lo que el método C va armando: el ciclo final, sus
+                          conexiones, sus folios y sus vueltas
+
+  historia/               cómo se llegó: los cuadernos, en el orden en que se leen
+  lo inexplicable.md      cómo se persigue algo que no se termina
+```
+
+---
+
+## Las tres puertas, y por qué se lee en este orden
+
+```plaintext
+1. como se corre.md       qué se teclea, y en qué orden. es el único que dice comandos
+2. metodos/               qué pregunta contesta cada método, y cuándo se para
+3. corridas/indice.md     qué se encontró, corrida por corrida, y de qué ensayo sale
+```
+
+Y `historia/` se lee al final, porque no se corre: se lee.
 
 ---
 
 ## Y la regla que los mantiene legibles
 
-Los números viven en dos sitios, y ninguno más: las reglas, en [metodo.md](sostiene/metodo.md) §III y §VIII; y las corridas, en [corridas.md](sostiene/corridas.md).
-
-Ni este archivo ni los dos métodos hacen cuentas. El que las necesite las hace contra el registro, y las puede volver a hacer.
+Los números viven en un solo sitio: [el índice de corridas](corridas/indice.md). Ni esta página ni los tres métodos hacen cuentas. El que las necesite las hace contra las carpetas, y las puede volver a hacer.
 
 Porque una resta que se puede rehacer no envejece; una cifra escrita sí.
 
 ---
 
-## Y el órgano que deja crecer la obra sin tocarla
+## Y el órgano que deja crecer todo esto sin tocarlo
 
-La obra se corrige sola con un comando, no con memoria: [scripts/__main__.py](../scripts/__main__.py) comprueba cuatro reglas —el título, los enlaces, las citas por número, y la forma— y se cae con el archivo y el renglón.
-
-Y la forma, con su porqué y con lo que el build no comprueba, está en [sostiene/forma.md](sostiene/forma.md). Sin los números en los títulos, insertar un ensayo deja de ser un mantenimiento: es un renombrado, y el build dice si algo quedó citando al que se movió.
+La obra se corrige sola con un comando, no con memoria: `python -m scripts` comprueba los títulos, los enlaces, las citas por número, la forma, las licencias y REUSE, y se cae con el archivo y el renglón. La forma, con su porqué y con lo que el build no comprueba, está en [la forma de la aserción](metodos/b%20-%20forma%20de%20la%20asercion.md).
 
 ---
 
-Falsificador: una metodología con un método solo. Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió.
+Falsificador: una metodología con un método solo. Si sólo se llenan huecos, no se sabe si lo que queda tiene dientes; si sólo se rompen reglas, no se encuentra lo que nunca se escribió; y si sólo se junta un ciclo sin haberse caído antes, lo que se junta es una idea ordenada y no probada.
 
 ---
 
 ## Lo visto
 
-Que los dos métodos se pueden correr sin pedir permiso, y que ninguno se acaba por sí solo.
+Que los tres métodos se pueden correr sin pedir permiso, y que ninguno se acaba por sí solo.
 
 Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
+---
+
+## Prueba
+
+¿Cada método dice qué entra, qué sale, cuándo se corre y cuándo se para, sin abrir otro archivo? ¿El índice de corridas apunta a la carpeta de cada una, y dice de qué ensayo sale? ¿El árbol cabe en una página, y cada carpeta tiene su puerta?

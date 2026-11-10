@@ -125,8 +125,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Lo que se recuerda en vez de nacer no es criterio | [ente 2](../../metodologia/huecos/corridas/02%20-%20VARA/) | las fricciones sin razón no se podían volver a leer |
-| Sin desenlace no hay criterio | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
+| Lo que se recuerda en vez de nacer no es criterio | [ente 2](../../metodologia/corridas/huecos/02%20-%20VARA/) | las fricciones sin razón no se podían volver a leer |
+| Sin desenlace no hay criterio | [ente 6](../../metodologia/corridas/huecos/06%20-%20FUENTE/) | una regla que aguantó, y una que se volvió a caer |
 
 Lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. Y ninguno de los dos corrió este paso como paso: lo que prueban es que sin fricción y sin desenlace no hay criterio, no que el escalón exista.
 

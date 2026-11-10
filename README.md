@@ -131,11 +131,11 @@ Cuándo se termina, que es la meta y se dice entera:
 >
 > Y después: dos corridas enteras seguidas que no encuentren nada más que detalle.
 >
-> Y la meta de todo esto no es el final: es [Método A · Llenar los huecos](metodologia/huecos/README.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.
+> Y la meta de todo esto no es el final: es [Método A · Llenar los huecos](metodologia/metodos/a%20-%20encontrar%20huecos.md) — que alguien que sabe menos pueda empezar a trabajar, y que el que sabe más siga desde donde el primero dejó.
 
 El proceso no termina, y eso está previsto. La solución final va a tener huecos, porque un ente vive en un mundo que cambia. Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.
 
-La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método B · Ver si se sostiene](metodologia/sostiene/README.md), con sus fuentes.
+La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método B · Ver si se sostiene](metodologia/metodos/b%20-%20romper%20una%20regla.md), con sus fuentes.
 
 La segunda cubre lo que ningún ensayo escribió. Una sin la otra deja un lado sin mirar.
 
@@ -174,7 +174,7 @@ Los límites, dichos con nombre:
 
 - No hay comparación medida contra ningún otro trabajo. Es un contraste de forma, no de rendimiento.
 - Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara. Los demás siguen sin probarse a propósito. Un método que nunca se cayó no sabe caerse todavía.
-- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/sostiene/`](metodologia/sostiene/README.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
+- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/metodos/`](metodologia/metodos/b%20-%20romper%20una%20regla.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
 - Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.
 
 Las tres primeras son la misma cosa: **las corridas, un autor, un entorno.** No hay evidencia de otro sistema operativo, de otra máquina, ni de alguien más al teclado.
@@ -363,7 +363,7 @@ Esto no es una promesa: es el inventario de lo que hay, cada cosa con la forma d
 | los ensayos y sus afirmaciones | `grep -rn "Falsificador:" "la obra"` los lista todos, y cada uno se puede correr |
 | las corridas | cada carpeta se puede abrir, y su `ente/` se puede volver a correr |
 | lo que las corridas encontraron | cada hallazgo está cerrado en un ensayo, y su tabla de procedencia dice cuál |
-| las reglas contadas | `metodologia/sostiene/corridas.md`, la única tabla de mutantes |
+| las reglas contadas | `metodologia/corridas/indice.md`, la única tabla de mutantes |
 | el registro de cómo se hizo | `metodologia/historia/`, con fechas, incluidas las ideas que se cayeron |
 
 Y el límite de abajo, que se dice: la implementación es texto, y la levanta quien la copia. No hay binario, ni instalador, ni soporte. El piso queda lo bastante bajo para que alguien empiece a trabajar sin haber escrito esto, y eso no es un requisito de terceros: es lo que el trabajo deja puesto.

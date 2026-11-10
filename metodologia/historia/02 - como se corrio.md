@@ -74,8 +74,8 @@ la que encadenó la corrección              se creía que la corrección era un
 ## Dónde queda ahora
 
 - **el recorrido detallado, corrida por corrida:** [`que cambio en cada corrida`](../../metodologia/historia/03%20-%20que%20cambio%20en%20cada%20corrida.md)
-- **las corridas, cada una con su documentación:** [`huecos/corridas`](../huecos/corridas/)
-- **la lista de lo que dejaron:** [`indice`](../indice.md)
+- **las corridas, cada una con su documentación:** [`huecos/corridas`](../metodos/a%20-%20encontrar%20huecos.md)
+- **la lista de lo que dejaron:** [`indice`](../corridas/indice.md)
 
 ## Falsificador
 
@@ -85,6 +85,6 @@ la que encadenó la corrección              se creía que la corrección era un
 
 ## Lo que este cuaderno conserva, y por qué
 
-**El conteo de cortes por corrida no se repite aquí: vive en [`indice`](../indice.md), y un número repetido envejece dos veces.**
+**El conteo de cortes por corrida no se repite aquí: vive en [`indice`](../corridas/indice.md), y un número repetido envejece dos veces.**
 
 **Lo que se conserva es el eslabón: qué creencia se cayó y qué la siguiente vino a probar.**

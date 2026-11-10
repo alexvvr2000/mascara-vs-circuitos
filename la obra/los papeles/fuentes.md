@@ -336,7 +336,7 @@ Y el límite, que es el de toda esta página: la `INDAUTOR` no se abrió, y la `
 
 # XIX. Lo que el método C buscó, eligió y descartó
 
-El [análisis de ciclo](../../metodologia/analisis%20de%20ciclo/README.md) se construyó sobre el ciclo de Kolb, que ya se cita en el apartado del escalón que faltaba, y buscó dos cosas más antes de elegirlas. Se apuntan aquí por la misma razón que las demás: para que quien las revise tenga el nombre, y sepa que nadie las leyó enteras.
+El [análisis de ciclo](../../metodologia/metodos/c%20-%20analisis%20de%20ciclo.md) se construyó sobre el ciclo de Kolb, que ya se cita en el apartado del escalón que faltaba, y buscó dos cosas más antes de elegirlas. Se apuntan aquí por la misma razón que las demás: para que quien las revise tenga el nombre, y sepa que nadie las leyó enteras.
 
 ```plaintext
 el test de juicio situacional    existe, y se usa en selección de personal. se cita

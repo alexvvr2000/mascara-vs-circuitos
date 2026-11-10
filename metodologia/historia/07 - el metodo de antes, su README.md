@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Sus enlaces apuntan a archivos que ya no existen ahí: lo que decían vive en [`../sostiene/metodo.md`](../sostiene/metodo.md), y el conteo en [`../sostiene/corridas.md`](../sostiene/corridas.md).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Sus enlaces apuntan a archivos que ya no existen ahí: lo que decían vive en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md), y el conteo en [`../corridas/indice.md`](../corridas/indice.md).**
 
 # El método de antes, su README
 
@@ -13,7 +13,7 @@
 
 **Es el que prueba una regla escrita.** **Se toma la regla, se le da la vuelta, se levanta el ente con el ensayo mutado, y se mira si la corrida lo nota.**
 
-**Y no es el que encuentra lo que el ensayo no dice.** **Ése es el [método A](../huecos/README.md), que levanta un ente entero y anota lo que hubo que inventar.**
+**Y no es el que encuentra lo que el ensayo no dice.** **Ése es el [método A](../metodos/a - encontrar huecos.md), que levanta un ente entero y anota lo que hubo que inventar.**
 
 **Y por qué hacen falta los dos, en una línea:** **los mutantes sólo prueban reglas que están escritas; la corrida entera encuentra lo que falta y no está escrito.**
 
@@ -64,9 +64,9 @@ y el mutante muere
 
 ## IV. Los mutantes que hay
 
-**Están en [`los mutantes`](../sostiene/metodo.md), uno por familia, con lo que rompe cada uno.**
+**Están en [`los mutantes`](../metodos/b - romper una regla, el metodo.md), uno por familia, con lo que rompe cada uno.**
 
-**Y sus catorce fichas están escritas.** **Corridos: los que diga [`corridas.md`](../sostiene/corridas.md), que es el único archivo donde se cuentan, con su fecha y su veredicto.**
+**Y sus catorce fichas están escritas.** **Corridos: los que diga [`corridas.md`](../corridas/indice.md), que es el único archivo donde se cuentan, con su fecha y su veredicto.**
 
 **Un mutante escrito, creído corrido, y ninguno ejecutado es el falsificador de este método, y es el que más fácil se cumple.**
 
@@ -83,7 +83,7 @@ y el mutante muere
 
 ## VI. Cuántas reglas hay
 
-**No se responde aquí.** **Se responde en [`las reglas`](../sostiene/metodo.md), que es donde vive el número, y es el único sitio del repositorio donde vive.**
+**No se responde aquí.** **Se responde en [`las reglas`](../metodos/b - romper una regla, el metodo.md), que es donde vive el número, y es el único sitio del repositorio donde vive.**
 
 **Y este método no hace la resta.** **El que la necesite la hace, contra lo que diga el registro de lo corrido.**
 

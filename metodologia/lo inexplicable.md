@@ -93,7 +93,7 @@ Aquí está lo que casi nunca se hace:
 
 Ese número existe, y cambia con el trabajo. Y es mucho mejor que la sensación de que falta algo.
 
-En este repositorio: las reglas contadas en [metodo.md](sostiene/metodo.md) §III y §VIII, las que un ente puede cumplir, y las probadas con su mutante, en [corridas.md](sostiene/corridas.md). Esa resta es todo lo que hay, y no hace falta más para saber dónde se está.
+En este repositorio: las reglas contadas en [metodo.md](metodos/b - romper una regla, el metodo.md) §III y §VIII, las que un ente puede cumplir, y las probadas con su mutante, en [corridas.md](corridas/indice.md). Esa resta es todo lo que hay, y no hace falta más para saber dónde se está.
 
 ### 4. La curva, que dice más que el número
 

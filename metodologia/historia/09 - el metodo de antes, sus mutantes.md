@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Estas fichas viven hoy en [`../sostiene/metodo.md`](../sostiene/metodo.md) §VIII, y su estado en [`../sostiene/corridas.md`](../sostiene/corridas.md).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Estas fichas viven hoy en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md) §VIII, y su estado en [`../corridas/indice.md`](../corridas/indice.md).**
 
 # El método de antes, sus mutantes
 
@@ -20,7 +20,7 @@ tiene dientes si   la corrida truena, y de esta manera
 no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 ```
 
-**El estado de cada una —corrida, no corrida, viva o muerta— vive en [`corridas.md`](../sostiene/corridas.md), que es el único sitio donde se cuentan.** **Ésta es la lista de fichas; el resultado es otro archivo.**
+**El estado de cada una —corrida, no corrida, viva o muerta— vive en [`corridas.md`](../corridas/indice.md), que es el único sitio donde se cuentan.** **Ésta es la lista de fichas; el resultado es otro archivo.**
 
 ---
 
@@ -246,7 +246,7 @@ no tiene dientes si  la corrida pasa igual que con el ensayo bueno
 
 ## Lo que falta después de esta lista
 
-**El estado de cada una —corrida, no corrida, viva o muerta— vive en [`corridas.md`](../sostiene/corridas.md), que es el único sitio donde se cuentan.** **Y esta lista conserva lo que falta:**
+**El estado de cada una —corrida, no corrida, viva o muerta— vive en [`corridas.md`](../corridas/indice.md), que es el único sitio donde se cuentan.** **Y esta lista conserva lo que falta:**
 
 ```plaintext
 correrlos, y ver cuáles mueren
@@ -255,7 +255,7 @@ cerrar cada uno en su ensayo
 y repetir con las familias que se abran
 ```
 
-**Y lo honesto, con la cuenta en [`corridas.md`](../sostiene/corridas.md):** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
+**Y lo honesto, con la cuenta en [`corridas.md`](../corridas/indice.md):** **un mutante madre por familia es el piso.** **Una familia que sobreviva abre sus casos, y esos casos no están contados, porque no se sabe cuántos son hasta que se corre la madre.**
 
 ---
 

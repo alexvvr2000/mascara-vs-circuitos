@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Lo que sigue vive hoy en [`../sostiene/metodo.md`](../sostiene/metodo.md) (el cómo, §VIII) y en [`../sostiene/corridas.md`](../sostiene/corridas.md) (el conteo).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Lo que sigue vive hoy en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md) (el cómo, §VIII) y en [`../corridas/indice.md`](../corridas/indice.md) (el conteo).**
 
 # El método de antes, sus reglas
 
@@ -387,7 +387,7 @@ falta      la tabla de inclusión: qué regla hija depende de qué madre
 falta      correrlas, y abrir las que sobrevivan
 ```
 
-**Y el número honesto, sin adornos, con su cuenta en [`corridas.md`](../sostiene/corridas.md):** **catorce familias es el piso del método, y no el total de mutantes.** **El total se sabe cuando las madres se corran y se vea cuántas hay que abrir.**
+**Y el número honesto, sin adornos, con su cuenta en [`corridas.md`](../corridas/indice.md):** **catorce familias es el piso del método, y no el total de mutantes.** **El total se sabe cuando las madres se corran y se vea cuántas hay que abrir.**
 
 **Inventar el total ahora sería exactamente lo que el repositorio prohíbe: un hueco rellenado con lo probable.**
 

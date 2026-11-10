@@ -43,8 +43,8 @@ Lo que quedó como buena idea sin implementar, y se dice: que un mutante que mat
 
 ## Dónde queda ahora
 
-- la jerarquía, que es la mitad que sirvió: [El método entero](../../metodologia/sostiene/metodo.md) §VIII
-- lo que no se delega, y por qué: [El método entero](../../metodologia/sostiene/metodo.md) §IX
+- la jerarquía, que es la mitad que sirvió: [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md) §VIII
+- lo que no se delega, y por qué: [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md) §IX
 - el cuaderno original, con lo que se dijo al momento: [La idea de los subagentes](../../metodologia/historia/06%20-%20la%20ultima%20idea,%20de%20los%20subagentes.md)
 
 ## Falsificador

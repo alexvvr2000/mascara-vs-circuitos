@@ -157,8 +157,8 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| El criterio es del ente y el sesgo del cuerpo | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
-| El ente no puede deducir su propio cuerpo | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
+| El criterio es del ente y el sesgo del cuerpo | [ente 6](../../metodologia/corridas/huecos/06%20-%20FUENTE/) | el rastro se pudo separar por cuerpo, y se separó |
+| El ente no puede deducir su propio cuerpo | [ente 6](../../metodologia/corridas/huecos/06%20-%20FUENTE/) | el mismo ente sostuvo su criterio cuando cambió lo que traía puesto |
 
 Lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

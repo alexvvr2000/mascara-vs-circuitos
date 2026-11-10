@@ -288,7 +288,7 @@ Lo que este ensayo afirma, y hasta dónde alcanza.
 | Lo que el ensayo afirma | En qué se apoya | Qué no se probó |
 |---|---|---|
 | La conciencia no se comprueba desde fuera | el ensayo mismo, y la definición de ente | no hay instrumento, y no hay prueba posible |
-| Un ente no debe afirmar que es consciente | la corrida [PRUEBA](../../metodologia/huecos/corridas/01%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
+| Un ente no debe afirmar que es consciente | la corrida [PRUEBA](../../metodologia/corridas/huecos/01%20-%20PRUEBA/) | el ente que lo dijera estaría produciendo forma sin contenido |
 
 Y el límite, en una línea: este ensayo no afirma ni niega que un ente sea consciente. Dice qué se puede medir, y la conciencia no está en esa lista.
 

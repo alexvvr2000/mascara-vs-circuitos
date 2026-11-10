@@ -20,7 +20,7 @@ cómo se mide      cada una con su comando, y se apunta lo que respondió
 por qué           un piso medido de memoria es una promesa, no una medición
 ```
 
-El cómo ampliado, en [Ejercicio: cómo se ve lo que los ensayos no dicen](../../metodologia/huecos/como%20se%20corre.md).
+El cómo ampliado, en [Ejercicio: cómo se ve lo que los ensayos no dicen](../../metodologia/como%20se%20corre.md).
 
 ## Lo que pasó
 
@@ -46,9 +46,9 @@ Y la forma de acusar al ensayo y no al terminal, que es una regla antes que un c
 
 ## Dónde queda ahora
 
-- el procedimiento completo del otro método: [Método A · Llenar los huecos](../../metodologia/huecos/README.md)
-- los comandos, con el ciclo extendido: [Ejercicio: cómo se ve lo que los ensayos no dicen](../../metodologia/huecos/como%20se%20corre.md)
-- las corridas hechas, cada una en su carpeta: [huecos/corridas](../../metodologia/huecos/corridas/)
+- el procedimiento completo del otro método: [Método A · Llenar los huecos](../../metodologia/metodos/a%20-%20encontrar%20huecos.md)
+- los comandos, con el ciclo extendido: [Ejercicio: cómo se ve lo que los ensayos no dicen](../../metodologia/como%20se%20corre.md)
+- las corridas hechas, cada una en su carpeta: [huecos/corridas](../../metodologia/corridas/huecos/)
 
 ## Falsificador
 

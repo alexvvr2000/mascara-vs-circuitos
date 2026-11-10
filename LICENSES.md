@@ -4,7 +4,7 @@ Este repositorio tiene dos licencias, y la división no es de estilo: el texto y
 
 | Qué | Dónde | La licencia | Identificador SPDX |
 |---|---|---|---|
-| **el código** | los `.py` de `scripts/`, `metodologia/sostiene/mutantes/` y las corridas | **[Apache 2.0](LICENSES/Apache-2.0.txt)** | `Apache-2.0` |
+| **el código** | los `.py` de `scripts/`, `metodologia/corridas/sostiene/` y las corridas | **[Apache 2.0](LICENSES/Apache-2.0.txt)** | `Apache-2.0` |
 | **el texto** | los `.md` de `la obra/`, `metodologia/`, `implementacion/`, y este README | **[CC BY 4.0](LICENSES/CC-BY-4.0.txt)** | `CC-BY-4.0` |
 
 Los textos completos están en `LICENSES/`, con el nombre que pide el identificador. Y el archivo [`LICENSE`](LICENSE) del root es Apache 2.0 solo, porque es el único que GitHub mira para poner la etiqueta junto al nombre del repositorio: si lleva las dos, no detecta ninguna.

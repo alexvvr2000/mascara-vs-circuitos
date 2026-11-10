@@ -230,7 +230,7 @@ las que traen corrida tienen su ensayo nombrando cuál y qué salió
 las que no la tienen lo dicen donde se sostienen
 ```
 
-Y el registro de las corridas, con lo que cada una encontró, está en `metodologia/huecos/corridas/` del repositorio, y su lista de una línea por corrida, en [`indice`](../metodologia/indice.md).
+Y el registro de las corridas, con lo que cada una encontró, está en `metodologia/corridas/huecos/` del repositorio, y su lista de una línea por corrida, en [`indice`](../metodologia/corridas/indice.md).
 
 ---
 

@@ -45,13 +45,13 @@ Apareció lo que cabía: las reglas de los ensayos se pueden contar. Y con la cu
 
 > Cada regla tiene su mutante, y el mutante muere.
 
-Lo que dice cuánto falta es una resta. Y la resta se puede hacer porque las reglas se pueden contar. Y ésa es la razón del método que hoy vive en [El método entero](../../metodologia/sostiene/metodo.md).
+Lo que dice cuánto falta es una resta. Y la resta se puede hacer porque las reglas se pueden contar. Y ésa es la razón del método que hoy vive en [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md).
 
 ## Dónde queda ahora
 
-- el criterio de llegada, en su forma vigente: [El método entero](../../metodologia/sostiene/metodo.md) §IX
-- el conteo, con su fecha: [Las corridas, en un solo archivo](../../metodologia/sostiene/corridas.md)
-- el método que salió de la cuenta: [El método entero](../../metodologia/sostiene/metodo.md) §I
+- el criterio de llegada, en su forma vigente: [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md) §IX
+- el conteo, con su fecha: [Las corridas, en un solo archivo](../../metodologia/corridas/indice.md)
+- el método que salió de la cuenta: [El método entero](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md) §I
 
 ## Falsificador
 

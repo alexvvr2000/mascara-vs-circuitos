@@ -16,14 +16,16 @@
 
 ## Los ensayos, por carpeta, y su t�tulo
 
-### la obra/funcionamiento ente/
-
 ### la obra/humanidad/
   Concordia                                    concordia.md
   Empat�a                                      empat�a.md
   Lo que est� fuera                            lo que esta fuera.md
   Lo que queda por hacer                       lo que queda por hacer.md
   Medir sin preguntarle                        medir sin preguntarle.md
+
+### la obra/los papeles/
+  Los l�mites, con nombre y sin coartada       LIMITES.md
+  Fuentes                                      fuentes.md
 
 ### la obra/teoria/
   Criterio real                                criterio real.md
@@ -38,29 +40,42 @@
   Qu� es un ente                               que es un ente.md
   Revisi�n de sesgos                           revision de sesgos.md
 
-### la obra/los papeles/
-  Los l�mites, con nombre y sin coartada       LIMITES.md
-  Fuentes                                      fuentes.md
-
 ## Los m�todos
-  metodologia/huecos/
+  metodologia/ciclo/
     README.md
-    como se corre.md
-    corridas/  (36 directorios)
-  metodologia/sostiene/
-    README.md
-    corridas/  (0 directorios)
-    corridas.md
-    forma.md
-    huecos/  (0 directorios)
-    metodo.md
-    mutantes/  (14 directorios)
-  metodologia/analisis de ciclo/
-    README.md
-    estado actual.md
+    ciclo final.md
+    conexiones.md
+    decisiones.md
     folios/  (0 directorios)
-    principal/  (0 directorios)
+    huecos de la rama/  (0 directorios)
+    proceso busqueda de pasos.md
     vueltas/  (0 directorios)
+  metodologia/corridas/
+    README.md
+    ciclo/  (0 directorios)
+    huecos/  (36 directorios)
+    indice.md
+    sostiene/  (14 directorios)
+  metodologia/historia/
+    01 - como se penso llegar al criterio.md
+    02 - como se corrio.md
+    03 - que cambio en cada corrida.md
+    04 - como se corre una corrida.md
+    05 - el registro de como se llego.md
+    06 - la ultima idea, de los subagentes.md
+    07 - el metodo de antes, su README.md
+    08 - el metodo de antes, sus reglas.md
+    09 - el metodo de antes, sus mutantes.md
+    10 - el metodo de antes, sus corridas.md
+    11 - lo que sigue vivo dentro de la historia.md
+    README.md
+  metodologia/metodos/
+    README.md
+    a - encontrar huecos.md
+    b - forma de la asercion.md
+    b - romper una regla, el metodo.md
+    b - romper una regla.md
+    c - analisis de ciclo.md
 
 ## La historia, en el orden en que se lee
   01 - como se penso llegar al criterio.md
@@ -73,7 +88,7 @@
   08 - el metodo de antes, sus reglas.md
   09 - el metodo de antes, sus mutantes.md
   10 - el metodo de antes, sus corridas.md
-  lo que sigue vivo dentro de historia.md
+  11 - lo que sigue vivo dentro de la historia.md
 
 ## Los scripts, que se corren y no se leen
   el �rgano es el paquete scripts/: python -m scripts

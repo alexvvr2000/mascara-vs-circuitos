@@ -17,6 +17,8 @@
 
 ## Los diez, en el orden en que se leen
 
+> Y un anexo, que no es un cuaderno: [11 · lo que sigue vivo dentro de la historia](11%20-%20lo%20sigue%20vivo%20dentro%20de%20la%20historia.md), que dice qué de estos cuadernos todavía está vigente y dónde vive hoy.
+
 **Y el orden es de la historia, no de los archivos: se empezó creyendo una cosa, y cada cuaderno deja abierto el siguiente.**
 
 **Y el título de cada uno dice qué cuenta: los seis primeros, cómo se llegó; los cuatro últimos, el método que había antes de unificarse.** **Ninguno lleva número dentro del título, y por eso el nombre del archivo y el primer renglón dicen lo mismo.**
@@ -34,7 +36,7 @@
 | **[09 · el método de antes, sus mutantes](09%20-%20el%20metodo%20de%20antes,%20sus%20mutantes.md)** | las fichas de los mutantes, antes de unificarse |
 | **[10 · el método de antes, sus corridas](10%20-%20el%20metodo%20de%20antes,%20sus%20corridas.md)** | la carpeta de corridas como estaba, antes de unificarse |
 
-**Y el anexo que dice qué de todo esto sigue vigente:** [`lo que sigue vivo dentro de historia`](lo%20que%20sigue%20vivo%20dentro%20de%20historia.md).
+**Y el anexo que dice qué de todo esto sigue vigente:** [`lo que sigue vivo dentro de historia`](11%20-%20lo%20que%20sigue%20vivo%20dentro%20de%20la%20historia.md).
 
 ---
 
@@ -44,7 +46,7 @@
 
 **Y se lee sin fecha:** **lo que cuenta cada cuaderno es qué se creía y qué lo tumbó, y eso sigue siendo cierto el día que se lea.** **La fecha que cuenta sigue siendo la de dentro de cada archivo, y viaja con él; el número del nombre es el puesto en la historia, y no la fecha.**
 
-**Y cuando un numero medido envejece, no se corrige aquí: la cifra vigente vive en [`metodologia/sostiene/corridas.md`](../sostiene/corridas.md).** **El cuaderno conserva la cuenta de su día, que es un dato histórico, y no la vigente.**
+**Y cuando un numero medido envejece, no se corrige aquí: la cifra vigente vive en [`metodologia/corridas/indice.md`](../corridas/indice.md).** **El cuaderno conserva la cuenta de su día, que es un dato histórico, y no la vigente.**
 
 ---
 
