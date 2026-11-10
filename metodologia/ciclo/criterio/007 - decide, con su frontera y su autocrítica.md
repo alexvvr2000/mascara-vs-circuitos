@@ -27,7 +27,7 @@ y si no encuentra  si el piso no da, se dice qué falta y se propone lo que sí 
 falla si           se decide algo de lo que se propone sin esperar firma; o se descarta sin decir qué
 falsificador       un hecho con frontera de decide y una firma que no le tocaba
 invoca             [la frontera y el descarte](../../../la%20obra/teoria/la%20frontera%20y%20el%20descarte.md), y [el piso](../../../la%20obra/teoria/el%20piso.md)
-prueba             falta
+prueba             v01/pruebas/p011 - el paso 7 decide con su frontera.py
 no cubre           la autocrítica sin registro: sólo mira las clases donde ya hay una caída apuntada
 ```
 

@@ -27,7 +27,7 @@ y si no encuentra  si no se ha vuelto a intentar, el desenlace dice «no se ha p
 falla si           se apunta un desenlace por algo que no se volvió a probar
 falsificador       una fricción sin desenlace, presentada como si la regla aguantara
 invoca             [destilar el criterio](../../../la%20obra/teoria/destilar%20el%20criterio.md), y [revision de sesgos](../../../la%20obra/teoria/revision%20de%20sesgos.md)
-prueba             falta
+prueba             v01/pruebas/p014 - el paso 10 corrige con su desenlace.py
 no cubre           lo que no vuelve a pasar: una regla que nunca se reintenta no tiene desenlace
 ```
 

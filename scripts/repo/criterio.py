@@ -76,7 +76,7 @@ def revisar():
             if not campo(texto, c):
                 fallos.append((donde, "FICHA", "sin «%s»" % c))
         prueba = campo(texto, "prueba") or ""
-        m = re.search(r"(v\d\d/pruebas/[^\s`]+\.py)", prueba)
+        m = re.search(r"(v\d\d/pruebas/.+\.py)", prueba)
         if m:
             if not os.path.isfile(os.path.join(RAIZ, "metodologia", "ciclo", m.group(1))):
                 fallos.append((donde, "FICHA", "nombra una prueba que no existe: %s" % m.group(1)))
@@ -100,12 +100,19 @@ def grafo():
 
 
 def tablero():
-    """Las cuentas del folder, contadas aquí y no a mano."""
+    """Las cuentas del folder, contadas aquí y no a mano.
+
+    Y una prueba cuenta cuando la ficha nombra su `.py`, el `.py` existe en la vuelta, y
+    lo nombra con su carpeta. Antes contaba sólo si el renglón lo decía de una manera, y
+    una ficha que lo decía bien seguía contando cero.
+    """
     vistas = fichas()
     total = len(vistas)
     con_prueba = 0
     for n, ruta, _ in vistas:
-        if re.search(r"v\d\d/pruebas/[^\s`]+\.py", campo(leer(ruta), "prueba") or ""):
+        prueba = campo(leer(ruta), "prueba") or ""
+        m = re.search(r"(v\d\d/pruebas/.+\.py)", prueba)
+        if m and os.path.isfile(os.path.join(RAIZ, "metodologia", "ciclo", m.group(1))):
             con_prueba += 1
     aristas = grafo()
     internas = [a for a in aristas if a[1] is not None and a[1] in {n for n, _, _ in vistas}]

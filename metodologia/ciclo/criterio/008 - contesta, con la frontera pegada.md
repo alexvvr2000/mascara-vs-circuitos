@@ -26,7 +26,7 @@ y si no encuentra  si no hay decisión que producir, no se contesta: se declara 
 falla si           se contesta sin la frontera, o la frontera se manda después, aparte
 falsificador       una respuesta sin su «hasta dónde vale»; y una frontera que llega cuando ya se leyó
 invoca             vacío: es la salida
-prueba             falta
+prueba             v01/pruebas/p012 - el paso 8 contesta con la frontera pegada.py
 no cubre           que la respuesta sirva: eso lo dice el otro, y no el ciclo
 ```
 

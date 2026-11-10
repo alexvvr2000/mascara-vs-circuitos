@@ -28,7 +28,7 @@ y si no encuentra  si no dice cuándo está cumplido, se cierra porque alguien c
 falla si           el ente cierra solo su propósito; o el cierre no lleva el nombre de la autoridad declarada
 falsificador       un cierre sin nombre, o con un nombre escrito a mano; y un propósito sin «cumplido si» cerrado por suposición
 invoca             [que es un ente](../../../la%20obra/teoria/que%20es%20un%20ente.md), que es la frontera de lo que se propone
-prueba             falta
+prueba             v01/pruebas/p015 - el paso 11 cierra con la firma de la autoridad.py
 no cubre           si el no de la autoridad fue justo: hace que el no quede, y que no se pueda borrar
 ```
 

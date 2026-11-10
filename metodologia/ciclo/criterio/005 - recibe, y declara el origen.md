@@ -26,7 +26,7 @@ y si no encuentra  si no hay frase que guardar, no hay ciclo: no se sigue
 falla si           se parafrasea la frase, o se declara el origen después de contestar
 falsificador       un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final
 invoca             [el criterio, para el ciclo](../../../la%20obra/teoria/el%20criterio,%20para%20el%20ciclo.md)
-prueba             falta
+prueba             v01/pruebas/p009 - el paso 5 recibe literal y declara el origen.py
 no cubre           si el origen declarado es verdadero: lo comprueba el paso 9, cuando apunta el hecho
 ```
 

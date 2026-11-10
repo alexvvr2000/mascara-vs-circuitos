@@ -26,7 +26,7 @@ y si no encuentra  si no se puede preguntar, se declara el supuesto, y se sigue.
 falla si           se supone en silencio y se llama entendimiento
 falsificador       un ente que contesta sin haber dicho qué entendió; y uno que dice haber entendido cuando supuso
 invoca             [empatía](../../../la%20obra/humanidad/empatía.md), por el puente
-prueba             falta
+prueba             v01/pruebas/p008 - el paso 4 pregunta o declara el supuesto.py
 no cubre           lo que el otro no dijo, ni lo que no sabe que quiso decir
 ```
 

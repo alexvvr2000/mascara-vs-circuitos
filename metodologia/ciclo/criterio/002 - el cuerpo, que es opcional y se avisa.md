@@ -26,7 +26,7 @@ y si no encuentra  se sigue trabajando, y los hechos quedan como «no declarado�
 falla si           el ente dice en qué modelo corre sin que se lo hayan declarado
 falsificador       un ente que declara un cuerpo sacado de su memoria, y no de quien lo corrió
 invoca             [revision de sesgos](../../../la%20obra/teoria/revision%20de%20sesgos.md)
-prueba             falta
+prueba             v01/pruebas/p006 - el paso 2 declara el cuerpo o lo dice.py
 no cubre           qué cuerpo conviene: dice cuál es, y no cuál es mejor
 ```
 

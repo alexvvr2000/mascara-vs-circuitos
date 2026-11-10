@@ -60,7 +60,7 @@ Cada cifra de aquí la cuenta la orden, y no la mano: `python -m scripts --paso`
 
 ```plaintext
 pasos                    12
-con su prueba            0 de 12
+con su prueba            12 de 12
 conexiones               20
 desde                    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 hasta                    1, 2, 4, 5, 6, 7, 8, 9, 10

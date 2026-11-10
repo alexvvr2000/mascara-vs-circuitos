@@ -22,8 +22,8 @@ la clase de cero         cero de cuaderno vacío, y se dice con esas palabras
 ## Lo que impide cerrar la vuelta
 
 ```plaintext
-la ficha de cada paso        del desarme, con las líneas del apartado 5 del método
-sus pruebas                  en `pruebas/`, una por paso, rota a propósito antes de creerle
+la ficha de cada paso        hecha, con sus treinta ideas y su línea
+sus pruebas                  hechas: una por paso, y rota a propósito antes de creerle
 las conexiones               el `recibe` y el `entrega` de cada paso
 el folio 0001                el ensayo del ciclo, con sus cuatro columnas
 el volcado del grafo         `grafo.db` y `grafo.sql`, hechos desde cero

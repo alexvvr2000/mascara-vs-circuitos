@@ -31,7 +31,7 @@ falsificador       un ente que corre sin autoridad, o sin propósito, y presenta
                    apuntado como trabajo
 invoca             [que es un ente](../../../la%20obra/teoria/que%20es%20un%20ente.md), que
                    son las piezas y no el mapa
-prueba             falta
+prueba             v01/pruebas/p005 - el paso 1 cumple con sus cuatro piezas.py
 no cubre           cuál autoridad es la correcta. la declara quien la es
 ```
 

@@ -27,7 +27,7 @@ y si no encuentra  si algo no se apuntó, se dice que no se apuntó. el campo va
 falla si           se apunta lo que no pasó, o se rellena un campo con una frase que lo disimula
 falsificador       un campo vacío disimulado con una frase; y un hecho que resume en vez de medir
 invoca             [el criterio, para el ciclo](../../../la%20obra/teoria/el%20criterio,%20para%20el%20ciclo.md), que son los campos
-prueba             falta
+prueba             v01/pruebas/p013 - el paso 9 apunta el hecho sin rellenar.py
 no cubre           lo que pasó fuera de la tarea: lo que no dejó rastro, no se ve
 ```
 

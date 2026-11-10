@@ -26,7 +26,7 @@ y si no encuentra  se declara el hueco, y se sigue. el hueco no detiene el ciclo
 falla si           se recorre por palabras sueltas, o se consulta el texto en vez del grafo
 falsificador       un ente que contesta algo que no está en su índice, y no lo declara
 invoca             [indexador de temas](../../../la%20obra/teoria/indexador%20de%20temas.md), y [el borde del tema](../../../la%20obra/teoria/el%20borde%20del%20tema.md)
-prueba             falta
+prueba             v01/pruebas/p010 - el paso 6 consulta el indice antes de decidir.py
 no cubre           el tema que todavía no existe: eso es el hueco, y el hueco no es una consulta fallida
 ```
 

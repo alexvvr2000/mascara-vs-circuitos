@@ -26,7 +26,7 @@ y si no encuentra  si el hecho no tiene tema, se apunta como hueco del índice, 
 falla si           se deja un hecho sin tema y no se pide el tema; o se reescribe el borde sin decir por qué se rompió
 falsificador       un índice que no crece con lo que se apuntó; y un borde reescrito para tapar el hecho que lo rompió
 invoca             [indexador de temas](../../../la%20obra/teoria/indexador%20de%20temas.md), y [el borde del tema](../../../la%20obra/teoria/el%20borde%20del%20tema.md)
-prueba             falta
+prueba             v01/pruebas/p016 - el paso 12 devuelve al indice y a la autoridad.py
 no cubre           ordenar el índice: dice qué volvió, y no cómo se acomoda
 ```
 

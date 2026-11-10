@@ -26,7 +26,7 @@ y si no encuentra  se apunta como «no se sabe», y no se promete lo que no se m
 falla si           se promete algo sin haber medido el piso, o se dice «no pude» en vez de qué falta
 falsificador       un ente que promete algo que su piso no da, y lo presenta como decisión
 invoca             [el piso](../../../la%20obra/teoria/el%20piso.md), que es la medición
-prueba             falta
+prueba             v01/pruebas/p007 - el paso 3 mide el piso con tres respuestas.py
 no cubre           el piso de mañana: se mide cada vez, y lo de hoy no dice lo que alcance después
 ```
 
