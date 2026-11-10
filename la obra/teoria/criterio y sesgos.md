@@ -7,7 +7,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Necesita [criterio real](criterio%20real.md), y ayuda [que es un ente](que%20es%20un%20ente.md).
+> Antes de leer. Necesita [criterio real](../humanidad/criterio%20real.md), y ayuda [que es un ente](que%20es%20un%20ente.md).
 >
 > Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.
 
@@ -319,11 +319,9 @@ Qué se pierde si cambia: sin el origen, el relleno y el dato se ven igual, y la
 
 ## Lo visto
 
-E.
+**E.** El renglón citado existía, y la norma que reportaba no se podía abrir
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-l renglón citado existía, y la norma que reportaba no se podía abrir## Prueba
+### Lo que se puso a prueba
 
 ¿Se distingue en el registro lo que el ente sostuvo de lo que el modelo trajo? ¿Cada modelo lleva su inclinación con nombre? ¿Lo que se confirma pasó por una contra, o por repetición? ¿Se sabe cuáles modelos son independientes de verdad? ¿Cada hecho dice su cuerpo, o dice "no declarado" en vez de rellenarlo? ¿El criterio se conservó al cambiar de cuerpo, y el talento se aprendió de nuevo? ¿Se distingue un renglón de sesgo experimentado de un adjetivo? ¿Cada afirmación declara de dónde salió —con fuente abierta, de memoria, de un tercero, o de una fuente que no se pudo abrir— antes de que se escriba el hecho? ¿Y cuando dos fuentes se contradicen y la original no se puede abrir, se apunta la contradicción, o se elige a gusto?
 

@@ -16,11 +16,12 @@
 
 ## Los ensayos, por carpeta, y su título
 
-### la obra/funcionamiento ente/
-  Criterio real                                criterio real.md
+### la obra/
+  El ciclo del ente                            el ciclo del ente.md
+
+### la obra/teoria/
   Criterio y sesgos                            criterio y sesgos.md
   El borde del tema                            el borde del tema.md
-  El ciclo del ente                            el ciclo del ente.md
   El piso                                      el piso.md
   Escritura en procesos                        escritura en procesos.md
   Indexador de temas                           indexador de temas.md
@@ -29,6 +30,7 @@
 
 ### la obra/humanidad/
   Concordia                                    concordia.md
+  Criterio real                                criterio real.md
   Empatía                                      empatía.md
   Lo que está fuera                            lo que esta fuera.md
   Lo que queda por hacer                       lo que queda por hacer.md
@@ -109,7 +111,7 @@ los trece mutantes         se re-apuntan una vez, cuando el ciclo se parta
 
 **Y lo que no está en la fila, porque se termina en el pulido:** **la forma de proceso en `el piso` y en `escritura en procesos`, y el `02` como mapa.** **Se hacen con el texto delante, y no antes.**
 
-**Y lo que se va al final, como se pidió:** **`la obra/funcionamiento ente/`, entera.** **Es el ciclo, y es lo único que sostiene todo lo demás; por eso se puliría después de que lo de alrededor esté quieto.**
+**Y lo que se va al final, como se pidió:** **`la obra/teoria/` y `el ciclo del ente`.** **Es el ciclo, y es lo único que sostiene todo lo demás; por eso se puliría después de que lo de alrededor esté quieto.**
 
 ---
 
@@ -120,7 +122,9 @@ los títulos de los ensayos   ya no llevan número; el orden vive en el nombre
 los nombres de humanidad/    «conciencia», «máquina de sesgos» y «medición de
                              talentos» dijeron lo que hablan: lo que está
                              fuera, medir sin preguntarle, lo que queda por hacer
-la carpeta del ciclo         la obra/ciclo del ente/ es la obra/funcionamiento ente/
+la carpeta del ciclo         la obra/ciclo del ente/ pasó a la obra/funcionamiento ente/,
+                             y hoy son dos: el ciclo del ente.md en la obra/, y
+                             lo que invoca en la obra/teoria/
 los scripts                  viven en scripts/, y no sueltos en la raíz
 la historia                  se lee como una cadena, y los cuatro últimos son el
                              método que había antes de unificarse

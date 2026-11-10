@@ -289,11 +289,9 @@ Qué se pierde si cambia: sin las dos fronteras, «se salió» no significa nada
 
 ## Lo visto
 
-E.
+**E.** El primer ente levantado con los ensayos y nada más, sin pedirle a nadie que le creyera
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-l primer ente levantado con los ensayos y nada más, sin pedirle a nadie que le creyera## Prueba
+### Lo que se puso a prueba
 
 ¿Se puede decir qué entra, qué decide, qué sale, y qué quedó apuntado, de cualquier cosa que se llame ente? ¿Tiene las cinco partes del bucle, y no sólo las tres que hacen un autómata? ¿El rastro sobrevive a la sesión que lo hizo? ¿El propósito dice cuándo se abrió y cuándo se cerró, y por qué? ¿Se distingue lo que el ente propone de lo que le mandaron? ¿Y está claro que el modelo no lo define: que el ente sigue siendo él con otro cuerpo? Si no se puede decir, no es un ente: es un programa.
 

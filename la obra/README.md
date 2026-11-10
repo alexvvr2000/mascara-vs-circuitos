@@ -24,36 +24,38 @@ Este repositorio ha cambiado muchas veces, y se lee como lo que es: un trabajo q
 
 Las carpetas se renombraron, los ensayos cambiaron de sitio, y una tabla puede citar un nombre que ya no existe. No es un descuido que haya que perseguir: es la cicatriz de haberse mudado. Donde aparezca el nombre viejo, el nuevo está en esta misma página.
 
-El más reciente, que conviene tener a mano porque los cuadernos de [historia](../metodologia/historia/README.md) usan el nombre de entonces: `la obra/ciclo del ente/` es hoy [`la obra/funcionamiento ente/`](funcionamiento%20ente/). Lo de dentro no cambió: el ensayo [`el ciclo del ente`](funcionamiento%20ente/el%20ciclo%20del%20ente.md) sigue llamándose así, porque el ciclo del ente es lo que describe, y la carpeta describe cómo funciona el ente.
+El más reciente, que conviene tener a mano porque los cuadernos de [historia](../metodologia/historia/README.md) usan el nombre de entonces: `la obra/ciclo del ente/` fue después `la obra/funcionamiento ente/`, y hoy son dos cosas: lo que describe el ciclo es [`el ciclo del ente`](el%20ciclo%20del%20ente.md), en la raíz de `la obra/`, y lo que ese ciclo invoca vive en [`teoria/`](teoria/). El ensayo se llama igual porque el ciclo del ente es lo que describe.
 
 ---
 
-## Los dos grupos, y por qué importan
+## Los tres grupos, y por qué importan
 
-Los ensayos están en dos carpetas, y no por tema: por lo que se hace con ellos.
+Los ensayos están en tres grupos, y no por tema: por lo que se hace con ellos.
 
 | El grupo | Los ensayos | Qué se hace con ellos |
 |---|---|---|
-| [`funcionamiento ente/`](funcionamiento%20ente/) | 01 a 09 | se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí |
-| [`humanidad/`](humanidad/) | 01 a 05 | no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa |
+| [`el ciclo del ente`](el%20ciclo%20del%20ente.md) | uno | dice el orden y el cierre, y compone a los demás. no contiene lo que invoca |
+| [`teoria/`](teoria/) | siete | se pulen con la metodología: se les corren corridas, y cada hueco que aparece se cierra ahí |
+| [`humanidad/`](humanidad/) | seis | no se pulen con corridas. son del autor, y lo que se les puede pedir es otra cosa |
 
-Esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale del primer grupo. El segundo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito.
+Esa división es la que ordena el resto del repositorio: las familias de mutantes, las corridas y todo lo que se mide sale de `teoria/`, y la mutación engorda `teoria/` y nada más. El tercer grupo no entra en esa cuenta, y no por olvido: porque no afirma cómo funciona un ente, y por eso no se puede romper a propósito. Y el ciclo tampoco: si una mutación rompe el orden de los pasos, es del ciclo; si rompe el contenido de un paso, es de `teoria/`.
 
-### Y el segundo grupo no es todo del mismo género
+### Y el tercer grupo no es todo del mismo género
 
-Los cinco de [`humanidad/`](humanidad/) no se leen igual, y eso no se ve por el título:
+Los seis de [`humanidad/`](humanidad/) no se leen igual, y eso no se ve por el título:
 
 ```plaintext
 empatía, concordia       una práctica y una postura. se leen y se discuten
 lo que esta fuera        una regla sobre dónde buscar: lo de afuera se puede
                          abrir, y lo de adentro no
 medir sin preguntarle    una forma de medir sin creerle al modelo
+criterio real            qué se guarda para que un criterio se pueda auditar
 lo que queda por hacer   la pregunta que los otros no contestan: si el límite
                          es del método o de la forma de pensar, y qué queda
                          por hacer si no se resuelve
 ```
 
-Y la diferencia importa para el lector: los tres primeros se pueden discutir con casos; el último plantea una pregunta que ninguna corrida contesta, y no se lee con prisa. Quien busca qué hacer hoy la encuentra en los cuatro primeros; quien busca hasta dónde llega esto, en el último.
+Y la diferencia importa para el lector: los cuatro primeros se pueden discutir con casos; el último plantea una pregunta que ninguna corrida contesta, y no se lee con prisa. Quien busca qué hacer hoy la encuentra en los cuatro primeros; quien busca hasta dónde llega esto, en el último.
 
 ---
 
@@ -82,14 +84,14 @@ Si se cae el primer eslabón, los demás no se sostienen solos. Por eso el ensay
 
 ### 1. Un ente se define por lo que deja rastro, no por lo que tiene por dentro
 
-Vive en: [`que es un ente`](funcionamiento%20ente/que%20es%20un%20ente.md).
+Vive en: [`que es un ente`](../teoria/que es un ente.md).
 Qué sostiene: un ente es una unidad que recibe, decide, contesta y deja rastro de haber contestado. No dice nada de conciencia ni de interioridad, porque son preguntas sin comprobación: no hay manera de abrir a alguien para ver si por dentro hay alguien, y sí hay manera de ver qué entró, qué salió y qué quedó escrito.
 Qué lo sostiene: el borde. Lo que descalifica a un ente está escrito — sin rastro, sin distinguir lo que propone de lo que le mandaron, o apuntando para nadie — y eso lo hace comprobable.
 Qué la tumba: ver el falsificador en su ensayo; si el falsificador se cumple, la idea cae y se dice dónde.
 
 ### 2. Un ente no tiene cuerpo, y por eso necesita una autoridad
 
-Vive en: [`que es un ente`](funcionamiento%20ente/que%20es%20un%20ente.md).
+Vive en: [`que es un ente`](../teoria/que es un ente.md).
 
 Qué sostiene: que la autoridad no existe por jerarquía, sino porque un ente es información sin cuerpo, y su error no le cuesta nada a nadie. Nosotros somos cuidadosos porque equivocarnos nos cuesta algo —miedo, tiempo, vergüenza, la vida—; un ente que inventa un dato no se juega nada. No es descuidado por maldad: es descuidado porque nada lo castiga.
 
@@ -103,21 +105,21 @@ Qué la tumba: una herramienta enormemente capaz que, ante algo que no sabe, con
 
 ### 3. El criterio no se recuerda: se arma, y su pieza que falta es el desenlace
 
-Vive en: [`criterio real`](funcionamiento%20ente/criterio%20real.md).
+Vive en: [`criterio real`](../humanidad/criterio real.md).
 Qué sostiene: tener criterio no es tener convicciones firmes, sino saber qué de lo sostenido se cayó y qué se hizo después. De ahí salen tres registros: el hecho, la fricción y el desenlace.
 Qué lo sostiene: la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
 Qué la tumba: una posición que se sostiene sin haber apuntado nunca qué la contradice, y que igual funciona como criterio. Si eso existe, la fricción no era necesaria.
 
 ### 4. Un ente con varios modelos tiene un criterio y varios sesgos
 
-Vive en: [`criterio y sesgos`](funcionamiento%20ente/criterio%20y%20sesgos.md).
+Vive en: [`criterio y sesgos`](../teoria/criterio y sesgos.md).
 Qué sostiene: la identidad puede vivir en un lado —reglas, registro, memoria— y los modelos pasar. Lo que se conserva es el criterio; lo que cambia con cada modelo es el sesgo. Y el riesgo concreto: un sesgo registrado sin nombre se vuelve criterio por la puerta de atrás.
 Qué lo sostiene: si el sesgo no se ve desde dentro, la comparación entre modelos distintos es el único instrumento que lo revela, y de ahí sale una regla: repetición no es verificación.
 Qué la tumba: dos modelos del mismo origen declarados como dos fuentes distintas, sin que el registro lo note. Si pasa, el sesgo no está separado del criterio.
 
 ### 5. Una IA debe escribir en forma de proceso, no en prosa
 
-Vive en: [`escritura en procesos`](funcionamiento%20ente/escritura%20en%20procesos.md).
+Vive en: [`escritura en procesos`](../teoria/escritura en procesos.md).
 Qué sostiene: la prosa supone un lector capaz de dudar; una IA no duda de un texto, lo rellena. Donde falta el `Falla si`, el `Cuándo se corre` o el `Falsificador`, la IA no se detiene: inventa.
 Qué lo sostiene: la prosa protege al que escribe y le cobra al que ejecuta. Un texto que sólo se puede creer no es una instrucción, es una apuesta con la palabra «hazlo» encima.
 Qué la tumba: un ensayo en prosa que una IA ejecuta sin rellenar nada. Si eso pasa, el proceso no hacía falta.
@@ -138,7 +140,7 @@ Qué la tumba: esta es una conjetura, y el renglón dice qué la volvería ciert
 
 ### 8. En el índice, la forma es la fuente y el texto es el derivado
 
-Vive en: [`indexador de temas`](funcionamiento%20ente/indexador%20de%20temas.md).
+Vive en: [`indexador de temas`](../teoria/indexador de temas.md).
 Qué sostiene: la inversión de la práctica habitual. Lo publicado construye el grafo desde el corpus; aquí el grafo manda y el texto se deriva, y eso permite tres cosas que con el orden habitual no se pueden: tirar y reconstruir, dejar el cambio escrito en la estructura, y preguntar por lo que se dejó de sostener.
 Qué lo sostiene: no es una mejora medida —no se midió contra nada—, sino una forma de ordenar el conocimiento cuyo valor está en lo que permite hacer. Su prueba es la de su ensayo: que se pueda reconstruir y que cada tema declare su borde.
 Qué la tumba: un índice que se rearmó desde la forma y que no coincide con el que había, sin que se pueda decir cuál de los dos está mal. Si pasa, la forma no era la fuente.

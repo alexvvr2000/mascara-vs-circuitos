@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md). Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
+> Antes de leer. Conviene haber leído [que es un ente](teoria/que%20es%20un%20ente.md). Si no, basta con esto: un ente recibe, decide, contesta y deja rastro. Al terminar sabrás qué pasos corre, y qué tiene que decir cada uno para poder correrlo sin preguntarle a nadie.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
@@ -21,13 +21,13 @@ Un ente puede funcionar sin esto, y funciona mal de una manera que no se ve.
 
 El bucle dice el orden de cinco palabras. No dice dónde se consulta el índice, qué se guarda en cada paso, ni qué pasa cuando falta algo. Y lo que no está escrito, se rellena — y se rellena distinto cada vez. Eso es lo que este ensayo evita: que cada quien rellene a su manera lo que el ciclo no dijo.
 
-Dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [que es un ente](que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
+Dos piezas que tiene que haber antes de la primera vuelta: la autoridad, el ente, el propósito y el índice (en [que es un ente](teoria/que%20es%20un%20ente.md)); y el bucle que se recorre en cada vuelta: recibe, decide, contesta, apunta, se corrige.
 
 Cada paso tiene la forma de un proceso: qué entra, qué se hace, dónde queda, cuándo corre, quién lo consume, qué pasa si no encuentra, qué lo incumple, y qué lo tumba.
 
 La ruta corta, si el tiempo es poco: el paso 0, el paso 3, y el falsificador del final. Con eso se levanta un ente que tropieza, y los tropiezos dicen el resto.
 
-Dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [el piso](el%20piso.md), y las cuatro columnas del paso 3 en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
+Dos partes de este ciclo tienen su ensayo propio, porque crecieron más que el resto: el piso está en [el piso](teoria/el%20piso.md), y las cuatro columnas del paso 3 en [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md).
 
 ### El mapa
 
@@ -126,7 +126,7 @@ Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarad
 
 La autoridad no es "el usuario". El usuario es quien pregunta hoy; la autoridad es quien responde por el para qué. Pueden ser la misma persona, y no se confunden: el usuario puede cambiar cada mensaje, y la autoridad es una y con nombre.
 
-Y la razón por la que existe no es jerárquica, y está en [que es un ente](que%20es%20un%20ente.md): un ente no tiene cuerpo, y por eso su error no le cuesta nada. La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.
+Y la razón por la que existe no es jerárquica, y está en [que es un ente](teoria/que%20es%20un%20ente.md): un ente no tiene cuerpo, y por eso su error no le cuesta nada. La autoridad es el costo instalado: quien carga las consecuencias decide qué se permite.
 
 De ahí dos cosas que este paso da por hechas y que hay que decir aquí:
 
@@ -309,7 +309,7 @@ lo que el ente PROPONE y espera firma
 
 Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia. Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.
 
-Donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](la%20frontera%20y%20el%20descarte.md).
+Donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md).
 
 Se corre: después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
 
@@ -589,13 +589,13 @@ Un propósito sin criterio no se cierra porque el ente lo crea terminado: se cie
 
 ### Y antes de seguir: cómo se sabe si este ciclo sirve, y dónde está el cómo se llegó
 
-Un ciclo escrito se puede correr y no probar nada. Y la forma de saberlo está en [escritura en procesos](escritura%20en%20procesos.md), porque es el mismo mecanismo: se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.
+Un ciclo escrito se puede correr y no probar nada. Y la forma de saberlo está en [escritura en procesos](teoria/escritura%20en%20procesos.md), porque es el mismo mecanismo: se le rompe una regla al ciclo a propósito, se levanta el ente con el ciclo roto, y se mira si la corrida lo nota.
 
-La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí. El piso del ensayo [el piso](el%20piso.md).
+La meta no es que el ciclo quede completo: es que alguien que sabe menos pueda empezar, y que el que sabe más siga desde ahí. El piso del ensayo [el piso](teoria/el%20piso.md).
 
-Quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en [`metodologia/`](../../metodologia/README.md). Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
+Quien quiera ver cómo se llegó hasta aquí —las corridas, los mutantes, los huecos que se cerraron y los que se cayeron en el camino— lo tiene en [`metodologia/`](../metodologia/README.md). Ahí no hay más reglas: hay el registro de cómo se encontraron éstas.
 
-**Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía. Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
+**Y una cuarta, que es chica y se olvida: la razón del cierre no puede estar vacía.** Un cierre sin razón es un olvido con fecha, y el registro lo lee igual que una decisión.
 
 Y una quinta, que se vio al saltarse el paso: si el cuerpo no está declarado, el cierre tiene que decirlo.
 
@@ -603,7 +603,7 @@ El cuerpo es opcional, y por eso se olvida. Y no se nota al abrir: se nota al es
 
 Así que el cierre mira si el cuerpo está, y si no está lo dice con esas palabras: «el cuerpo no se declaró, y los hechos que vengan tampoco lo van a llevar».
 
-Y una quinta, que es la que se descubrió probando el no: el no de la autoridad no es una marca que se apaga.
+Y una sexta, que es la que se descubrió probando el no: el no de la autoridad no es una marca que se apaga.
 
 ```plaintext
 lo que NO basta   impedir que un propósito rechazado se cierre.
@@ -662,12 +662,12 @@ Este ensayo no lleva bitácora: dice lo que se sostiene. Lo que lo puso a prueba
 
 | Lo que el ensayo afirma | Corrida que lo puso a prueba | Qué salió |
 |---|---|---|
-| Un ente al que le falta una pieza hay que decirlo en el acto | [ente 5](../../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
-| El origen de lo que se dice se declara antes del hecho | [ente 6](../../metodologia/huecos/corridas/06%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
-| La salida de un `no hay` nombra la herramienta, no el error | [ente 7](../../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
-| El paso 3 se guarda en cuatro columnas | [ente 8](../../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
-| El ente contesta por tarea y no buscando palabras | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
-| El piso crece con cada tarea que no pudo contestar | [ente 9](../../metodologia/huecos/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
+| Un ente al que le falta una pieza hay que decirlo en el acto | [ente 5](../metodologia/huecos/corridas/05%20-%202026-11-05_153210/) | el pedazo pasó la prueba y no probó el resto |
+| El origen de lo que se dice se declara antes del hecho | [ente 6](../metodologia/huecos/corridas/06%20-%20FUENTE/) | la fuente cerrada se puede apuntar, diciendo que no se abrió |
+| La salida de un `no hay` nombra la herramienta, no el error | [ente 7](../metodologia/huecos/corridas/07%20-%20PISO/) | se guardó el `Traceback` en vez de la falta, y se corrige aquí |
+| El paso 3 se guarda en cuatro columnas | [ente 8](../metodologia/huecos/corridas/08%20-%20FRONTERA/) | el esquema rechaza `decide` con firma llena: el falsificador se cumple |
+| El ente contesta por tarea y no buscando palabras | [ente 9](../metodologia/huecos/corridas/09%20-%20TAREA/) | sin tarea contesta que no sabe; con dos, apunta el solapamiento |
+| El piso crece con cada tarea que no pudo contestar | [ente 9](../metodologia/huecos/corridas/09%20-%20TAREA/) | la tarea que pide algo no medido se rechaza, y ese rechazo es el mecanismo |
 
 Lo que esta tabla no dice, que también es un dato: ninguno de estos levantamientos lo hizo alguien que no fuera el autor. El ensayo dice lo que aguanta; no dice que aguante en manos de otro.
 

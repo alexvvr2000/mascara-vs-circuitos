@@ -102,7 +102,7 @@ def rel(p):
 
 
 def carpetas():
-    return (os.path.join(RAIZ, "la obra", "funcionamiento ente"),
+    return (os.path.join(RAIZ, "la obra", "teoria"),
             os.path.join(RAIZ, "la obra", "humanidad"))
 
 

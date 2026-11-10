@@ -404,11 +404,9 @@ Y de ahí la razón por la que este trabajo pone propósitos en las máquinas, y
 
 ## Lo visto
 
-E.
+**E.** El paso que no decía cuándo se corre, no se corrió, y nadie lo notó hasta que faltó
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-l paso que no decía cuándo se corre, no se corrió, y nadie lo notó hasta que faltó## Prueba
+### Lo que se puso a prueba
 
 ¿Dice cuándo se corre? ¿Dice qué entra y qué lo incumple? ¿Dice qué sale y quién lo consume? ¿Tiene qué lo podría tumbar? ¿El que exige la forma la cumple en su propio texto? ¿Y el que pide sabe qué quiere, o está pidiendo por intuición y llamándolo especificación?
 

@@ -190,12 +190,12 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
 
 2. la obra/README.md       la posición en lista, y qué la tumba
 
-3. la obra/funcionamiento ente/   LOS QUE SE PULEN CON LA METODOLOGÍA
+3. la obra/el ciclo del ente.md   EL ORDEN, Y NADA MAS. compone, no contiene
+
+   la obra/teoria/          LOS QUE SE PULEN CON LA METODOLOGÍA
      que es un ente             la definición, y por qué necesita una autoridad
-     el ciclo del ente          los pasos, uno por uno
-     el piso                    qué mide antes de prometer
      escritura en procesos      por qué proceso, y no prosa
-     criterio real              el hecho, la fricción y el desenlace
+     el piso                    qué mide antes de prometer
      la frontera y el descarte  las cuatro columnas del paso 3
      indexador de temas         dónde vive lo que sabe
      el borde del tema          cómo se escribe un borde que se pueda correr
@@ -203,10 +203,11 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
 
    la obra/humanidad/       LOS QUE NO SE PULEN CON CORRIDAS
      empatía                    cómo se entiende antes de pedir
+     criterio real              el hecho, la fricción y el desenlace
      lo que esta fuera          qué hacemos con una palabra que no sabemos definir
      concordia                  por qué se alinea con la concordia, y no con la moral
-     lo que queda por hacer    cómo se mide el trabajo de verdad
-     medir sin preguntarle     lo que este trabajo no puede probar
+     medir sin preguntarle      cómo se mide el trabajo de verdad
+     lo que queda por hacer    lo que este trabajo no puede probar
 
 4. metodologia/            DOS METODOS, Y NO SE MEZCLAN
      README.md              cual contesta que, y donde va cada cosa

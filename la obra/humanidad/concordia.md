@@ -101,7 +101,7 @@ La forma que toma en el ciclo ya está escrita: `no está en el piso: me falta [
 
 ## VI. Por qué el ente no necesita ego para esto
 
-Un ego aquí no es un reproche moral: es un modo de fallo, definido en [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md). Consiste en defender una postura porque es propia, y no porque aguanta.
+Un ego aquí no es un reproche moral: es un modo de fallo, definido en [qué es un ente](../../teoria/que es un ente.md). Consiste en defender una postura porque es propia, y no porque aguanta.
 
 Un ente con concordia no tiene nada que defender: no tiene una imagen que proteger, así que puede cambiar de respuesta cuando la razón es mejor.
 
@@ -215,10 +215,10 @@ Falsificador: una burla que ataca a la persona y no al salto; una cita de ficci�
 
 | Lo que el ensayo afirma | Dónde se sostiene |
 |---|---|
-| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [máquina de sesgos](medir%20sin%20preguntarle.md) distingue el criterio del sesgo, y [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md) dice por qué la autoridad es el costo instalado |
+| La moral no sirve como criterio de alineación para un ente que decide sobre lo de otro | [máquina de sesgos](medir%20sin%20preguntarle.md) distingue el criterio del sesgo, y [qué es un ente](../../teoria/que es un ente.md) dice por qué la autoridad es el costo instalado |
 | La concordia es el resultado de la empatía, y no un valor aparte | [empatía](empatía.md), y sus tres renglones |
-| La concordia tiene que decir qué falta, y no decir que sí | [el piso](../funcionamiento%20ente/el%20piso.md), que reemplaza «no pude» por qué falta |
-| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [qué es un ente](../funcionamiento%20ente/que%20es%20un%20ente.md), y [conciencia](lo%20que%20esta%20fuera.md) |
+| La concordia tiene que decir qué falta, y no decir que sí | [el piso](../../teoria/el piso.md), que reemplaza «no pude» por qué falta |
+| Un ente sin ego puede cambiar de respuesta cuando la razón es mejor | [qué es un ente](../../teoria/que es un ente.md), y [conciencia](lo%20que%20esta%20fuera.md) |
 
 Lo que esta tabla no dice, que también es un dato: este ensayo no tiene una corrida que lo respalde. No afirma cómo funciona un ente, y por eso no se puede romper a propósito. Es el segundo de la obra que va sin corrida, después de [máquina de sesgos](medir%20sin%20preguntarle.md).
 

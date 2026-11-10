@@ -330,15 +330,15 @@ b) las corridas cambiaron de clase             ← ya no encuentran reglas, sino
 
 | Familia | Dónde vive | Reglas | Qué rompe el mutante fuerte |
 |---|---|---|---|
-| **El ciclo, paso por paso** | [`02`](../../la%20obra/funcionamiento%20ente/el%20ciclo%20del%20ente.md) | 145 | borra el paso entero, o el campo que lo hace verificable |
-| **El piso** | [`03`](../../la%20obra/funcionamiento%20ente/el%20piso.md) | 58 | el piso miente: dice `hay` sin haberlo medido |
-| **El borde del tema** | [`08`](../../la%20obra/funcionamiento%20ente/el%20borde%20del%20tema.md) | 54 | el borde acepta lo que debía salir |
-| **Los sesgos** | [`09`](../../la%20obra/funcionamiento%20ente/criterio%20y%20sesgos.md) | 38 | el sesgo no se declara, o se declara neutral |
-| **Escritura en procesos** | [`04`](../../la%20obra/funcionamiento%20ente/escritura%20en%20procesos.md) | 22 | el proceso no dice cuándo se corre |
-| **El índice** | [`07`](../../la%20obra/funcionamiento%20ente/indexador%20de%20temas.md) | 14 | el índice se arma a mano y no se puede reconstruir |
-| **La frontera** | [`06`](../../la%20obra/funcionamiento%20ente/la%20frontera%20y%20el%20descarte.md) | 13 | las cuatro columnas se llenan con lo primero que aparezca |
-| **Qué es un ente** | [`01`](../../la%20obra/funcionamiento%20ente/que%20es%20un%20ente.md) | 12 | el ente se define por lo que tiene dentro |
-| **El criterio real** | [`05`](../../la%20obra/funcionamiento%20ente/criterio%20real.md) | 1 | el desenlace se da por hecho |
+| **El ciclo, paso por paso** | [`02`](../../la%20obra/../../el ciclo del ente.md) | 145 | borra el paso entero, o el campo que lo hace verificable |
+| **El piso** | [`03`](../../la%20obra/../../teoria/el piso.md) | 58 | el piso miente: dice `hay` sin haberlo medido |
+| **El borde del tema** | [`08`](../../la%20obra/../../teoria/el borde del tema.md) | 54 | el borde acepta lo que debía salir |
+| **Los sesgos** | [`09`](../../la%20obra/../../teoria/criterio y sesgos.md) | 38 | el sesgo no se declara, o se declara neutral |
+| **Escritura en procesos** | [`04`](../../la%20obra/../../teoria/escritura en procesos.md) | 22 | el proceso no dice cuándo se corre |
+| **El índice** | [`07`](../../la%20obra/../../teoria/indexador de temas.md) | 14 | el índice se arma a mano y no se puede reconstruir |
+| **La frontera** | [`06`](../../la%20obra/../../teoria/la frontera y el descarte.md) | 13 | las cuatro columnas se llenan con lo primero que aparezca |
+| **Qué es un ente** | [`01`](../../la%20obra/../../teoria/que es un ente.md) | 12 | el ente se define por lo que tiene dentro |
+| **El criterio real** | [`05`](../../la%20obra/../../humanidad/criterio real.md) | 1 | el desenlace se da por hecho |
 
 **Y una que no vive en un ensayo, sino en la lista de afirmaciones:**
 

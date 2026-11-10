@@ -9,13 +9,13 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Necesita [el ciclo del ente](el%20ciclo%20del%20ente.md), porque es su paso 3, solo.
+> Antes de leer. Necesita [el ciclo del ente](../el%20ciclo%20del%20ente.md), porque es su paso 3, solo.
 >
 > Al terminar sabrás qué cuatro cosas se guardan de una decisión para que se pueda auditar, aunque el razonamiento no se guarde.
 
 > Sobre el origen de estas ideas. Si alguna viene de un trabajo anterior del mismo autor, está reescrita con palabras de aquí y el origen está declarado en el `README`. Este ensayo no depende de ese trabajo para sostenerse.
 
-> Y este ensayo es el paso 3 del ciclo, solo: la parte del trabajo que casi nadie escribe. El ciclo completo está en [el ciclo del ente](el%20ciclo%20del%20ente.md).
+> Y este ensayo es el paso 3 del ciclo, solo: la parte del trabajo que casi nadie escribe. El ciclo completo está en [el ciclo del ente](../el%20ciclo%20del%20ente.md).
 
 ---
 
@@ -160,11 +160,9 @@ Qué se pierde si cambia: si la decisión deja de apuntarse, se pierde la única
 
 ## Lo visto
 
-E.
+**E.** El esquema rechazó un hecho que se atribuía una firma que no tenía
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-l esquema rechazó un hecho que se atribuía una firma que no tenía## Prueba
+### Lo que se puso a prueba
 
 ¿Cada hecho dice en qué frontera quedó, o hay que adivinarlo del texto? ¿Un hecho con `frontera = decide` y firma llena fue rechazado, o el esquema lo aceptó? ¿El `descartado` distingue la opción que se dejó ir de «ninguna»? ¿La propuesta sin firma quedó abierta en vez de cerrarse sola? ¿Se puede decir, de cada hecho, qué piso consultó?
 

@@ -74,7 +74,7 @@ Y el más caro, que no es un dato sino una forma: tratar la metodología como el
 
 ## Dónde queda ahora
 
-- el criterio del ente: [el ciclo del ente](../../la%20obra/funcionamiento%20ente/el%20ciclo%20del%20ente.md)
+- el criterio del ente: [el ciclo del ente](../../la%20obra/el%20ciclo%20del%20ente.md)
 - la prueba del método: [metodo.md](../../metodologia/sostiene/metodo.md)
 - la lista de errores como criterio, y no como anécdota: [metodo.md](../../metodologia/sostiene/metodo.md) §X
 

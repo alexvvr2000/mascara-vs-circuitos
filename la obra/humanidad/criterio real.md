@@ -7,7 +7,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Conviene haber leído [que es un ente](que%20es%20un%20ente.md). Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.
+> Antes de leer. Conviene haber leído [que es un ente](../teoria/que%20es%20un%20ente.md). Si no, basta con esto: el criterio es lo que quedó en pie después de caerse.
 >
 > Al terminar sabrás qué se apunta para que un criterio se pueda revisar, y qué columna es la que casi nunca está.
 
@@ -231,11 +231,9 @@ Qué se pierde si cambia: sin el desenlace, el registro es un diario; y el crite
 
 ## Lo visto
 
-E.
+**E.** El registro completo por primera vez: fecha, frase literal y medida
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-l registro completo por primera vez: fecha, frase literal y medida## Prueba
+### Lo que se puso a prueba
 
 ¿Se distingue el hecho de la posición? ¿El hecho está sin resumir y con su fecha? ¿La posición trae su contra, o dice que no hubo? ¿Existe la columna del desenlace, y dice si la regla aguantó o volvió a caer? ¿Cada hecho dice de qué modelo salió, para qué se hizo, y por cuál tema entró? ¿Cada hecho dice qué se supuso, y en qué quedó ese supuesto? ¿Se puede contestar, de cada cosa escrita, en qué falló y si sigue en pie?
 

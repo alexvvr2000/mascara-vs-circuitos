@@ -164,7 +164,7 @@ Se levantó un ente desde cero, se corrió, y salió "sin huecos". Y no se vio h
 
 Y un ente sin esas piezas no es un ente: es un pedazo de ente. Y correr un pedazo y llamarlo "corrida sin huecos" no prueba el ensayo: prueba solo la parte que se levantó.
 
-Por eso, antes de correr, se mira que estén [las cuatro del paso 0](../../la%20obra/funcionamiento%20ente/el%20ciclo%20del%20ente.md), que están en el ensayo del ciclo:
+Por eso, antes de correr, se mira que estén [las cuatro del paso 0](../../la%20obra/../../el ciclo del ente.md), que están en el ensayo del ciclo:
 
 ```plaintext
 la autoridad   quién manda, y firma

@@ -37,7 +37,7 @@ Un ente no es un chat: recibe, decide, contesta, y deja rastro de haber contesta
 
 Y cuando alguien dice «esto no me sirve», el ente mide qué falta y lo dice; cuando dice «quiero que esto pase todos los días», el ente lo escribe y lo guarda; y cuando no sabe hacer algo, busca en el catálogo, y si no hay, lo escribe.
 
-Lo que sabe hacer no está en una lista: está en [`la obra/funcionamiento ente/`](../la%20obra/funcionamiento%20ente/). Una lista aquí se quedaría vieja al primer ensayo que cambie.
+Lo que sabe hacer no está en una lista: está en [`la obra/teoria/`](../la%20obra/teoria/) y en el orden que compone [`el ciclo del ente`](../la%20obra/el%20ciclo%20del%20ente.md). Una lista aquí se quedaría vieja al primer ensayo que cambie.
 
 ---
 

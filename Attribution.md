@@ -207,6 +207,33 @@ Así que se dice aquí, y vale para cada renglón:
 
 No se retiran las fuentes por prudencia. Se dejan, y se corrige lo que esté mal. Quitar una fuente para no comprometerse haría lo contrario de lo que este apartado busca.
 
+### Y el hueco que la psicología encontró, buscado por `TESTIGO`
+
+Esto no lo trajo el autor: lo trajo una búsqueda, y se deja dicho así porque es lo que pasó.
+
+Se buscó en psicología del aprendizaje, no en sistemas de agentes, si el ciclo de cuatro piezas que sostiene este trabajo está completo o le falta un escalón. Lo que salió, y conviene que el lector lo tenga al lado de los ensayos:
+
+```plaintext
+lo que ya estaba      concreto → reflexión → concepto → experimento
+                      es el ciclo de Kolb, 1984, y este trabajo lo recorre
+                      entero: el hecho, la fricción con su porqué, la regla,
+                      y la vuelta al campo
+
+lo que faltaba        la conceptualización: el escalón donde de una fricción
+                      sale una regla. Se escribió aparte, y la psicología
+                      dice lo mismo que se midió aquí: es el escalón que
+                      se salta, porque cuesta y no da resultado el mismo día
+
+lo que sigue faltando es una condición de entorno, no un paso: el error sólo
+                      enseña si equivocarse sale barato. Un registro donde
+                      caerse se lee como culpa no produce criterio: produce
+                      gente que no intenta
+```
+
+Y la consecuencia sobre este trabajo, que se dice sin suavizarla: el ciclo está completo en forma, y **no está probado**. Que las cuatro etapas estén cubiertas quiere decir que no falta una quinta; no quiere decir que el criterio que sale de ellas sea el correcto. Eso sólo lo dice el desenlace, y el desenlace todavía no se midió sobre la regla destilada. Lo que hay hoy, en el registro, es una regla que nació de una fricción y treinta y tres que no.
+
+Y el límite de este apartado, que es el mismo de los demás: ninguna de esas fuentes se leyó entera. Lo que dicen está tomado de su resumen o de una ficha abierta, y quien lo cite en contra tiene razón hasta que se abra la página.
+
 ---
 
 ## 6. La licencia, y qué puedes hacer

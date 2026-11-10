@@ -291,11 +291,9 @@ Qué se pierde si cambia: si se invierte el orden, un tema a medias tapa un sola
 
 ## Lo visto
 
-E.
+**E.** El medio se usaba para dos cosas, y una no era duda
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-l medio se usaba para dos cosas, y una no era duda## Prueba
+### Lo que se puso a prueba
 
 ¿El borde dice quién lo evalúa, una máquina o una persona? ¿Se escribe como condición sobre los campos de la pieza, y no sobre su texto? ¿Declara su zona gris al escribirse, o la inventa al consultarse? ¿Distingue «no» de «no es de este tema»? ¿Cuándo dos temas se solapan, se apunta antes de mirar otra cosa? ¿El tema de persona deja la pieza en pendiente, o la deja pasar sin que nadie conteste?
 

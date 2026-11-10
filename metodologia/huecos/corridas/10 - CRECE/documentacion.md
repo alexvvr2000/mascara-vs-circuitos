@@ -13,7 +13,7 @@ Corrida del 8 de noviembre de 2026. el ente, con `Alejandro Valenzuela Rivera` c
 
 Esta es la primera corrida que se corre completa. Las nueve anteriores probaron pedazos: el piso, la frontera, la tarea.
 
-Y el blanco concreto, que el ensayo [el piso](../../../../la%20obra/funcionamiento%20ente/el%20piso.md) escribió y nunca se corrió:
+Y el blanco concreto, que el ensayo [el piso](../../../../la%20obra/../../../../teoria/el piso.md) escribió y nunca se corrió:
 
 ```plaintext
 1. se mide lo que se sabe pedir hoy

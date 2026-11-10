@@ -21,7 +21,7 @@ Casi todo es obligatorio: es el argumento del índice, y sin él no hay nada que
 
 La ruta corta, si el tiempo es poco: §II (la inversión), §IV (el borde, y de ahí a su ensayo) y el falsificador del final. Con eso se levanta un índice; el resto dice qué le falta.
 
-Dónde está lo que más se olvida, sin buscarlo: el «se pregunta» del borde es el único valor que necesita que necesita que alguien esté del otro lado. Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.
+Dónde está lo que más se olvida, sin buscarlo: el «se pregunta» del borde es el único valor que necesita que alguien esté del otro lado. Si no hay quien conteste, el casi se queda fuera — y eso se decide al escribir el borde, no al consultarlo.
 
 ---
 
@@ -282,11 +282,9 @@ Qué se pierde si cambia: sin la supersesión, el índice no tiene pasado y no s
 
 ## Lo visto
 
-U.
+**U.** Un casi que se guardaba y nunca se consultaba
 
-Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
-
-n casi que se guardaba y nunca se consultaba## Prueba
+### Lo que se puso a prueba
 
 ¿Se puede tirar el índice y reconstruirlo, y coincide pieza por pieza? ¿Cada tema dice su borde, y dos lectores clasifican igual? ¿Un tema superado sigue ahí, con su fecha y su razón? ¿El que cambió algo puede decir qué se perdió? ¿Se sabe en qué momento se consulta, y qué pasa si no hay tema? ¿La pieza tiene campos, y el borde los mira a ellos y no a su texto? ¿El borde declara su zona gris al escribirse, y no al consultarse? ¿El borde dice qué hacer cuando la pieza cae en medio, con uno de los tres valores? ¿Se distingue no de no es de este tema, y el casi se llena solo con lo que el borde declaró en medio? ¿Cuando dos temas dudan sobre la misma pieza, se apuntan los dos en vez de elegir uno? ¿Cuando dos temas aceptan la misma pieza, se apunta como fricción del índice?
 
