@@ -5,12 +5,11 @@ una máquina donde `reuse` no está instalado. La herramienta corre aparte, con
 `--reuse`, y su veredicto manda cuando está.
 """
 
-from .comun import rel, leer, todos_los_archivos, glob_a_regex
+from .comun import RAIZ, rel, leer, todos_los_archivos, glob_a_regex
 import json
 import os
 import re
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def ignorados_por_git():

@@ -4,7 +4,7 @@ Cada uno recibe un `Trabajo` —que sabe si escribe, y lleva la cuenta—, y no 
 nada si `t.escribe` es falso: enseña lo que cambiaría, y nada más.
 """
 
-from .comun import rel, leer, escribir, md_todos, todos_los_archivos, carpeta_obra, titulo_de
+from .comun import RAIZ, rel, leer, escribir, md_todos, todos_los_archivos, carpeta_obra, titulo_de
 from .constantes import TITULO, TRAMO, ENLACE, CITA, RUTA_MAQUINA, SUSTITUTO, NEGRITA, CAMPOS
 from .constantes import MULETILLAS, NO_ES_PROSA, MARCA_NEGRITAS, OFUSCA_EXT
 import json
@@ -13,7 +13,6 @@ import re
 import subprocess
 import urllib.parse
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 class Trabajo:

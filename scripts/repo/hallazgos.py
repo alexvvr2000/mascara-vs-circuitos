@@ -22,7 +22,7 @@ De dónde sale el ensayo, cuando se llena:
 import os
 import re
 
-from ..comun import RAIZ, leer, rel
+from .comun import RAIZ, leer, rel
 
 CORRIDAS = os.path.join(RAIZ, "metodologia", "corridas")
 

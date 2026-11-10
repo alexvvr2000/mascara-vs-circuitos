@@ -15,7 +15,7 @@ import re
 import subprocess
 import sys
 
-from ..comun import RAIZ
+from .comun import RAIZ
 
 
 def bloque_del_archivo():

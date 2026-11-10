@@ -23,7 +23,7 @@ nació: si le faltan `afirma`, `en` o `no cubre`, no es un bloque, es un párraf
 un título.
 """
 
-from ..comun import ensayos, leer, rel
+from .comun import ensayos, leer, rel
 
 CAMPOS = ("afirma", "en", "sostiene la", "se prueba", "no cubre", "enlaza", "entra", "cambió")
 OBLIGATORIOS = ("afirma", "en", "no cubre")

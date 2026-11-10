@@ -94,16 +94,9 @@
   el �rgano es el paquete scripts/: python -m scripts
   scripts/__init__.py
   scripts/__main__.py
-  scripts/comprobar.py
-  scripts/comun.py
-  scripts/constantes.py
-  scripts/legal.py
-  scripts/licuadora.py
-  scripts/reglas.py
-  scripts/trabajos.py
 
 ## Lo que enlaza, y lo que no
-  316 enlaces, 0 rotos
+  296 enlaces, 0 rotos
 
 Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aqu�.
 ```

@@ -1,28 +1,39 @@
-# repo — el órgano del repositorio, en módulos
+# repo — el órgano del repositorio, entero, en un solo módulo
 
-Este módulo es lo que me deja revisar el repo en una pasada: qué dice cada ensayo,
-qué se probó y de qué ensayo sale, y si `estado.md` sigue diciendo la verdad. El resto
-del órgano —las reglas, la legalidad y los trabajos que arreglan— sigue en el paquete,
-y aquí no se repite.
+Aquí vive todo lo que el repo hace: lo que se comprueba, lo que se arregla, lo que se
+lee y lo que se escribe. No hay una segunda casa: el resto del paquete es la puerta.
 
 ```plaintext
 repo/
-  __init__.py   el mapa
-  bloques.py    cada ensayo como una lista de bloques
-  estado.py     que estado.md no envejezca
-  hallazgos.py  de qué ensayo sale cada corrida
-  readme.md     esto
+  __init__.py    el que reparte: los trabajos, y `python -m scripts`
+  comun.py       la raíz, leer, caminar el árbol, glob
+  constantes.py  las expresiones regulares y la forma de cada cosa
+  encabezados.py el formato de proceso, leído como datos
+  bloques.py     cada ensayo como una lista de bloques
+  hallazgos.py   de qué ensayo sale cada corrida
+  estado.py      que estado.md no envejezca
+  enlaces.py     el mapa de lo que enlaza con qué
+  reglas.py      lo que el repositorio tiene que cumplir
+  legal.py       REUSE, licencias y zenodo
+  trabajos.py    lo que se arregla sin tocar una idea
+  licuadora.py   las tesis de los ensayos, agrupadas
+  comprobar.py   todas las reglas de una vez
+  readme.md      esto
 ```
+
+Y lo que se borró, se dice una vez: los trece archivos que había antes, y el respaldo
+que quedó de ellos. Un órgano se lee por lo que hace hoy, no por lo que fue. Lo que
+servía de cada uno está aquí, con su razón escrita.
 
 ---
 
 ## Qué es, y qué no
 
-Es un **lector**: mira el repositorio y dice lo que ve. No escribe prosa, no reescribe
-ensayos, y no decide nada: lo que encuentra lo dice, y lo que falta lo nombra.
+Es un **lector que también arregla**: mira el repositorio, y cuando se le pide, corrige
+lo que se puede corregir sin tocar una idea. No escribe prosa, no reescribe ensayos, y
+no decide nada: lo que encuentra lo dice, y lo que falta lo nombra.
 
-Y no es el build: el build es `python -m scripts`, y sí se cae. Esto son las lentes que
-el build usa de aquí en adelante, y que se pueden correr solas para mirar una cosa.
+Y es el build: `python -m scripts` es la entrada de todo, y sí se cae.
 
 ---
 
@@ -33,6 +44,8 @@ el build usa de aquí en adelante, y que se pueden correr solas para mirar una c
 | saber si una corrida apunta a su carpeta, y si su carpeta está en el índice | `hallazgos.revisar()` lo dice, corrida por corrida |
 | que `estado.md` envejezca sin que nadie lo note | `estado.comparar()` lo compara con la orden, y el build se cae con el renglón |
 | saber qué dice un ensayo de 400 renglones | `bloques.mapa()` da una línea por concepto |
+| saber qué le falta a un proceso | `encabezados.mapa()` da sus campos, y los que le faltan |
+| ver dónde pesa el repo | `enlaces.mapa()` cuenta qué carpeta recibe cada enlace |
 
 ---
 
@@ -81,17 +94,24 @@ puede leer sin él.
 - **Un bloque no abarata la escritura.** Ocho líneas por concepto es más caro que un
   párrafo. Lo que gana es que se lee sin leer el resto.
 - **No parte los ensayos solo.** El trabajo de partir es del autor, un ensayo por vez.
+- **No juzga el proceso de un ensayo.** La regla de los once renglones se aplica a los
+  procesos, que son los que están en `metodologia/`; un ensayo que usa uno de esos
+  campos como gancho no es un proceso mal escrito.
 
 ---
 
 ## Cómo se corre
 
 ```plaintext
-python -m scripts                        el build, que ya usa esto
+python -m scripts                                                    el build
+python -m scripts --reuse                                            el build, y reuse lint
+python -m scripts --piso                                             el estado, que va a estado.md
+python -m scripts --escribe forma                                    arregla la forma
 python -c "from scripts.repo import estado; print(estado.comparar())"
-python -c "from scripts.repo import hallazgos; print(hallazgos.revisar()[1][:5])"
 python -c "from scripts.repo import bloques; print(bloques.mapa('la obra/teoria/el piso.md'))"
+python -c "from scripts.repo import encabezados; print(encabezados.mapa())"
+python -c "from scripts.repo import enlaces; print(enlaces.mapa())"
 ```
 
-Y el orden en que se leerán los ensayos: `teoria/` primero, que es la que más se va a
+Y el orden en que se partirán los ensayos: `teoria/` primero, que es la que más se va a
 manipular; `humanidad/` es del autor; y `metodologia/` al final.

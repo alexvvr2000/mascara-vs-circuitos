@@ -61,9 +61,8 @@ path = [
     ".zenodo.json",
     "CITATION.cff",
     "la obra/los papeles/*.json",
-    "scripts/repo/**/*.md",
+    "scripts/**/*.md",
     "metodologia/**/pruebas/**/*.json",
-    "scripts/viejo/**/*.md",
 ]
 precedence = "override"
 SPDX-FileCopyrightText = "2026 Alejandro Valenzuela Rivera <alejandrovalenzuela051@gmail.com>"

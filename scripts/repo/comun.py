@@ -10,7 +10,8 @@ import unicodedata
 
 # La raíz del repositorio: quien corre el build desde cualquier lado
 # tiene que encontrar el mismo árbol que quien lo corre desde aquí.
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# tres niveles: el archivo está en scripts/repo/, y la raíz es la carpeta del repo
+RAIZ = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from .constantes import POSICION, SIN_EDAD, TITULO
 

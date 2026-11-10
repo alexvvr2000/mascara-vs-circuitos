@@ -5,13 +5,12 @@ en los trabajos. Falla si falta `scikit-learn`, y lo dice; no se sustituye por u
 agrupador escrito a mano, que es lo que se intentó antes y no se probó contra nada.
 """
 
-from .comun import rel, leer, ensayos
+from .comun import RAIZ, rel, leer, ensayos
 from .constantes import MULETILLAS
 import json
 import os
 import sys
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def trabajo_licuadora(t):

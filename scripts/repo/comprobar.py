@@ -5,16 +5,15 @@ repositorio deja de cumplir. `--lista` mide lo que no falla; `--reuse` corre la
 herramienta de verdad, sobre el mismo árbol.
 """
 
-from .comun import rel, leer, md_todos
+from .comun import RAIZ, rel, leer, md_todos
 from .reglas import (regla_enlaces, regla_ruta, regla_h1, regla_numero, regla_forma,
                      regla_forma_texto, regla_persona, regla_enfasis)
 from .legal import regla_reuse, regla_legal, regla_licencias, regla_citation
-from .repo import estado, hallazgos
+from . import encabezados, enlaces, estado, hallazgos
 from .constantes import ENLACE
-from .comun import ensayos
+from .comun import RAIZ, ensayos
 import os
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 import shutil
 import subprocess
 import urllib.parse
@@ -39,6 +38,8 @@ def comprobar(lista=False, con_reuse=False):
         fallos.append(("estado.md", "ESTADO", por_que))
     f2, a2 = hallazgos.revisar()
     fallos.extend(f2)
+    f3, a3 = encabezados.revisar()
+    fallos.extend(f3)
 
     for p in ensayos():
         regla_h1(p, fallos)
