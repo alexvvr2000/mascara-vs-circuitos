@@ -270,6 +270,45 @@ def trabajo_ofusca(t):
     print("\n%d rutas de la máquina del autor%s." % (t.cambios, ", ofuscadas" if t.escribe else " por limpiar"))
 
 
+def trabajo_paso(t, salida=None):
+    """El tablero del ciclo, en el mismo formato que el bloque del README del ciclo.
+
+    Y por qué tiene `salida`: lo llama `python -m scripts --paso`, y también
+    `criterio.bloque_de_la_orden`, que escribe el bloque en el README. Se escribe en
+    UTF-8, y lo que se compara es el texto y no los bytes de una consola.
+    """
+    from .criterio import tablero
+
+    if salida is not None:
+        if hasattr(salida, "reconfigure"):
+            salida.reconfigure(encoding="utf-8")
+
+        def escribir(linea):
+            salida.write(linea + "\n")
+    else:
+        def escribir(linea):
+            print(linea)
+
+    from .criterio import tablero
+
+    c = tablero()
+    escribir("## El tablero")
+    escribir("")
+    escribir("Cada cifra de aquí la cuenta la orden, y no la mano: `python -m scripts --paso` la saca del folder `criterio/`. Si el README dice otra cosa, el build se cae.")
+    escribir("")
+    escribir("```plaintext")
+    escribir("pasos                    %d" % c["pasos"])
+    escribir("con su prueba            %d de %d" % (c["con_prueba"], c["pasos"]))
+    escribir("conexiones               %d" % c["aristas"])
+    escribir("desde                    %s" % (", ".join("%d" % n for n in c["de"]) or "ninguno"))
+    escribir("hasta                    %s" % (", ".join("%d" % n for n in c["a"]) or "ninguno"))
+    escribir("una conexión es un tramo de dos pasos, y un camino es la cadena")
+    escribir("entera: una conexión leída sola no es un camino.")
+    escribir("sin recibir              %d" % c["sin_recibir"])
+    escribir("                         todo lo que se entrega llega a un paso")
+    escribir("```")
+
+
 def trabajo_piso(t, salida=None):
     """El piso del repositorio, en el mismo formato que el bloque de piso.md.
 
@@ -313,7 +352,12 @@ def trabajo_piso(t, salida=None):
         for f in sorted(os.listdir(d)):
             p = os.path.join(d, f)
             if os.path.isdir(p):
-                escribir("    %s/  (%d directorios)" % (f, sum(1 for _ in os.walk(p)) - 1))
+                dirs = sum(1 for _ in os.walk(p)) - 1
+                if f == "criterio":
+                    fichas = len([x for x in os.listdir(p) if x.endswith(".md")])
+                    escribir("    %s/  (%d fichas)" % (f, fichas))
+                else:
+                    escribir("    %s/  (%d directorios)" % (f, dirs))
             elif f.endswith(".md"):
                 escribir("    %s" % f)
     escribir("")

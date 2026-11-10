@@ -1,5 +1,7 @@
 """p001 — el árbol de la vuelta 001 existe, y no tiene lo que no debe tener.
 
+El ciclo final no es un archivo: es el folder `criterio/`, con su índice al lado.
+
 Es la primera prueba del ciclo, y no prueba todavía un paso: prueba la carpeta. Se
 escribe desde cero, va con el método C, y sólo importa graphdblite, aunque en esta no
 haga falta: la primera que lo use ya sabrá cómo.
@@ -13,10 +15,10 @@ import graphdblite  # noqa: F401  (la prueba del árbol todavía no lo usa)
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CICLO = os.path.dirname(RAIZ)
 
-ESPERADOS = ("README.md", "ciclo final.md", "conexiones.md", "decisiones.md")
-CARPETAS = ("folios", "v01")
+ESPERADOS = ("README.md", "criterio.md", "conexiones.md", "decisiones.md")
+CARPETAS = ("folios", "criterio", "v01")
 DENTRO_DE_LA_VUELTA = ("vuelta.md", "lapida.md")
-NO_DEBE_HABER = ("estado.md", "ciclo_final.md")
+NO_DEBE_HABER = ("estado.md", "ciclo_final.md", "ciclo final.md")
 
 fallas = []
 

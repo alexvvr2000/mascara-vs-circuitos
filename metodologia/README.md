@@ -47,8 +47,15 @@ metodologia/
     sostiene/             los mutantes del método B, con su .py y sus bancos
     ciclo/                las vueltas del método C, y su estado actual
 
-  ciclo/                  lo que el método C va armando: el ciclo final, sus
-                          conexiones, sus folios y sus vueltas
+  ciclo/                  lo que el método C va armando: su puerta, el índice
+    README.md             criterio.md, y las fichas de criterio/, una por paso.
+                          el tablero de su puerta lo escribe `python -m scripts --paso`
+    criterio.md
+    criterio/             001 - <.md>, 002 - <.md>, … una ficha por paso
+    conexiones.md
+    decisiones.md
+    folios/
+    vNN/                  una vuelta: su registro, su lápida, su grafo y sus pruebas
 
   historia/               cómo se llegó: los cuadernos, en el orden en que se leen
   lo inexplicable.md      cómo se persigue algo que no se termina

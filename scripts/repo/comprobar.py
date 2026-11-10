@@ -9,7 +9,7 @@ from .comun import RAIZ, rel, leer, md_todos
 from .reglas import (regla_enlaces, regla_ruta, regla_h1, regla_numero, regla_forma,
                      regla_forma_texto, regla_persona, regla_enfasis)
 from .legal import regla_reuse, regla_legal, regla_licencias, regla_citation
-from . import encabezados, enlaces, hallazgos, numeros, piso
+from . import criterio, encabezados, enlaces, hallazgos, numeros, piso
 from .constantes import ENLACE
 from .comun import RAIZ, ensayos
 import os
@@ -42,6 +42,13 @@ def comprobar(lista=False, con_reuse=False):
     fallos.extend(f3)
     f4, a4 = numeros.revisar()
     fallos.extend(f4)
+
+    # y el folder del ciclo: una ficha por paso, con sus trece líneas, y su tablero al día
+    f5, a5 = criterio.revisar()
+    fallos.extend(f5)
+    igual_t, por_que_t = criterio.comparar()
+    if not igual_t:
+        fallos.append(("metodologia/ciclo/README.md", "TABLERO", por_que_t))
 
     for p in ensayos():
         regla_h1(p, fallos)

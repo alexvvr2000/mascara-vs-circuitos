@@ -65,8 +65,11 @@ Lo que hay que conseguir es este árbol, y nada más. Cada renglón que sobra ha
 
 ```plaintext
 metodologia/ciclo/
-  README.md
-  ciclo final.md
+  README.md            la puerta: cómo se lee, y el tablero
+  criterio.md          el índice: una línea por ficha, y la correspondencia con el original
+  criterio/
+    001 - <lo que hace el paso>.md        una ficha por paso, del 001 al N
+    002 - <.md>
   conexiones.md
   decisiones.md
   folios/
@@ -84,7 +87,7 @@ metodologia/ciclo/
 Y cada archivo contesta una pregunta distinta, para que el que llega abra el que necesita sin leer los otros:
 
 - **`README.md` es la puerta:** qué es el cuaderno, y qué hay en cada archivo. Cuatro renglones, y qué no. No dice cuántas vueltas hay ni cuántas pruebas: eso es la lápida, y un README que repite una cifra envejece.
-- **`ciclo final.md` son los pasos:** del 1 al n, cada uno con sus ideas, su borde y su prueba. Es el archivo que se corre.
+- **`criterio/` son los pasos:** una ficha por paso, del 001 al N, con sus ideas, su borde y su prueba. Se abre por el índice, y no de corrido, porque el ciclo crece y el archivo suelto crecía hasta que leerlo era buscar.
 - **`conexiones.md` son las aristas:** de qué paso a qué paso, qué pasa, con qué prueba, y en qué estado. Es lo único que dice si el ciclo es un ciclo o una lista de pasos.
 - **`decisiones.md` es lo que se fue:** lo que se propuso y se dejó ir con su razón, y lo que se decidió con qué se pierde.
 - **`folios/` es una lectura por ensayo:** de qué ensayo sale cada idea, y en qué línea está escrita.
@@ -110,7 +113,7 @@ Información que cada archivo tiene que llevar:
 
 ```plaintext
 README.md          qué es el cuaderno, qué hay en cada archivo, y la regla de la lápida
-ciclo final.md     por paso: sus ideas, y los once renglones del apartado 5
+criterio/NNN       por paso: sus ideas, y los once renglones del apartado 5; y criterio.md la lista
 conexiones.md      por arista: de, a, qué pasa, prueba, estado. y las cinco palabras
 decisiones.md      por decisión: lo que se propuso, lo que se eligió, por qué, qué se
                    pierde. y por descarte: qué se dejó fuera, y su razón
@@ -229,7 +232,7 @@ Se corre entera, del primer renglón al último. Lo de correr por pedazos se pie
 4.  desarmarlo en pasos      del 1 al n; ninguno dice «se ve en»
 5.  escribir el folio        el ensayo que toca, con su línea exacta
 6.  escribir la fricción     si el folio choca con algo ya escrito
-7.  escribir o corregir      el paso en `ciclo final.md`, y su conexión en
+7.  escribir o corregir      el paso en su ficha de `criterio/`, y su conexión en
                              `conexiones.md`
 8.  escribir su prueba       en vNN/pruebas/, desde cero, y romperla a propósito
 9.  correrla, y apuntar      PASS o FALLA, y la razón
@@ -454,7 +457,7 @@ Y la cuenta se hace sobre el ciclo final y sobre `teoria/` a la vez, porque una 
 ## 15. Cómo se mide cada cuenta
 
 ```plaintext
-pasos                    los encabezados «## Paso N» de `ciclo final.md`
+pasos                    las fichas de `criterio/`, y su número al frente: 001, 002, …
 ganchos                  la frase «aquí solo va el gancho» o «esto se ve en» dentro
                          de un paso, o de un tramo sin número del ciclo del ente
 ideas sin paso           los bloques con `en` vacío, o con un paso que no existe
@@ -607,7 +610,7 @@ Una vuelta que no dice de qué línea sale cada idea; un paso sin ideas o sin bo
 
 ## Prueba
 
-¿Se puede abrir `ciclo final.md` por un paso, y entender qué entra y qué sale sin leer los otros tres archivos? ¿Cada conexión de `conexiones.md` tiene su `.py` en la vuelta? ¿El árbol de `vNN/` cabe en el apartado 2, y no hay nada fuera de él? ¿La lápida de la última vuelta dice las cuentas, y la clase de cero de cada una? ¿Una lápida sin cerrar impide abrir la siguiente?
+¿Se puede abrir una ficha de `criterio/` y entender qué entra y qué sale sin leer las otras? ¿El índice `criterio.md` lista todas las fichas, y ninguna que no esté? ¿Cada conexión de `conexiones.md` tiene su `.py` en la vuelta? ¿El árbol de `vNN/` cabe en el apartado 2, y no hay nada fuera de él? ¿La lápida de la última vuelta dice las cuentas, y la clase de cero de cada una? ¿Una lápida sin cerrar impide abrir la siguiente?
 
 ## De dónde salió esto
 

@@ -8,6 +8,7 @@ líneas, y después un paquete con dos hogares. Ahora hay uno: `scripts/repo/`, 
     python -m scripts --lista           qué ensayo dice qué, y qué perdona
     python -m scripts --reuse           lo mismo, y además corre `reuse lint` de verdad
     python -m scripts --piso            el piso del repositorio; va a `piso.md`
+    python -m scripts --paso            el tablero del ciclo; va al README del ciclo
     python -m scripts --X               informa lo que el trabajo X cambiaría
     python -m scripts --escribe X       lo hace
 
@@ -16,6 +17,7 @@ Y lo que vive aquí, en un renglón cada uno:
     comun        la raíz, leer, caminar el árbol
     constantes   las expresiones regulares, y la forma de cada cosa
     piso         que piso.md no envejezca
+    criterio     las fichas del ciclo, y el tablero de su puerta
     encabezados  el formato de proceso, leído como datos
     hallazgos    de qué ensayo sale cada corrida
     bloques      cada ensayo como una lista de bloques
@@ -32,15 +34,16 @@ el único que se corre. Los demás son piezas, y ninguna se llama a sí misma.
 
 import sys
 
-from . import bloques, encabezados, enlaces, hallazgos, piso  # noqa: F401
+from . import bloques, criterio, encabezados, enlaces, hallazgos, piso  # noqa: F401
 from .comprobar import comprobar
 from .licuadora import trabajo_licuadora
-from .trabajos import (Trabajo, trabajo_piso, trabajo_citas, trabajo_rutas,
+from .trabajos import (Trabajo, trabajo_piso, trabajo_paso, trabajo_citas, trabajo_rutas,
                        trabajo_reapunta, trabajo_forma, trabajo_negritas,
                        trabajo_sin_y, trabajo_sin_numeros, trabajo_ofusca)
 
 TRABAJOS = {
     "piso": trabajo_piso,
+    "paso": trabajo_paso,
     "citas": trabajo_citas,
     "rutas": trabajo_rutas,
     "reapunta": trabajo_reapunta,
@@ -88,6 +91,14 @@ def main(argv):
             renglones = piso.reescribir()
             print("[piso] piso.md: %s" % (
                 "%d renglones del bloque reescritos" % renglones if renglones else "ya estaba igual"))
+        return 0
+    if trabajo == "paso":
+        # y con `--escribe`, el tablero no sólo informa: reescribe su bloque en la puerta
+        trabajo_paso(Trabajo(escribe))
+        if escribe:
+            renglones = criterio.reescribir()
+            print("[paso] ciclo/README.md: %s" % (
+                "%d renglones del tablero reescritos" % renglones if renglones else "ya estaba igual"))
         return 0
     if trabajo == "licuadora":
         trabajo_licuadora(Trabajo(escribe))
