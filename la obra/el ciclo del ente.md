@@ -89,7 +89,7 @@ Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo a
 
 ### Paso 0a — el cuerpo, que es opcional y se avisa
 
-El ente no puede saber en qué modelo está, y por eso el cuerpo se declara y no se detecta. Lo que el cuerpo cambia en el rastro, y qué se pierde cuando no se declara, está en [criterio y sesgos](teoria/criterio%20y%20sesgos.md) §VI y §VII; aquí solo va lo que toca al ciclo.
+El ente no puede saber en qué modelo está, y por eso el cuerpo se declara y no se detecta. Lo que el cuerpo cambia en el rastro, y qué se pierde cuando no se declara, está en [revision de sesgos](teoria/revision%20de%20sesgos.md); aquí solo va lo que toca al ciclo.
 
 ```plaintext
 se corre   al declarar el ente, y cada vez que cambia el cuerpo
@@ -323,7 +323,7 @@ Y el piso no es una excusa para hacer menos: si lo que se pide no cabe, el ente 
 
 ### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
-Es la autocrítica, y no es un examen de sí mismo: es leer su registro. La pregunta, el renglón por cuerpo y cuándo corre están en [criterio y sesgos](teoria/criterio%20y%20sesgos.md) §VII y §X; aquí solo va el gancho del ciclo.
+Es la autocrítica, y no es un examen de sí mismo: es leer su registro. La pregunta, el renglón por cuerpo y cuándo corre están en [revision de sesgos](teoria/revision%20de%20sesgos.md) y en [criterio y sesgos](teoria/criterio%20y%20sesgos.md) §VII; aquí solo va el gancho del ciclo.
 
 ```plaintext
 antes de contestar   sólo si en esa clase ya hay renglón de caída
@@ -370,7 +370,7 @@ Falsificador: una respuesta sin su «hasta dónde vale»; y una frontera que lle
 
 ### Paso 5 — apunta
 
-Este es el paso que hace al ente, y es el único que tiene forma fija.
+Este es el paso que hace al ente, y es el único que tiene forma fija. Los campos no se inventan aquí: son los de [el criterio, para el ciclo](teoria/el%20criterio,%20para%20el%20ciclo.md), que a su vez los toma de criterio real §III. Lo que este paso dice, y en ningún otro sitio, es cuándo se escribe.
 
 Se abre un hecho, con su fecha, y se llena de lo que ya ocurrió:
 
@@ -424,6 +424,8 @@ no se ha podido probar      → el desenlace dice «no se ha probado»
 Y el tercero no es un hueco: es el dato más honesto del banco. Casi todo lo que un ente sostiene no se ha vuelto a probar, y decirlo es lo que permite que lo demás se crea.
 
 Dónde queda: en el desenlace, y el desenlace apunta a la fricción de la que nace. Y aquí está la regla que hace que esto no sea un diario: una fricción sin desenlace es una promesa.
+
+Y de la fricción cerrada sale la regla: eso es [destilar el criterio](teoria/destilar%20el%20criterio.md), y no se repite aquí.
 
 Y el paso 6 depende de que algo vuelva a pasar. Un ente que nunca vuelve a intentar lo mismo no tiene desenlaces: tiene una lista de promesas. No es un defecto del ciclo: es la condición que lo hace real.
 

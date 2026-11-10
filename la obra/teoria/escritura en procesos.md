@@ -332,11 +332,31 @@ Y si no encuentra: <qué hace. No se salta: este es el que se rellena inventando
 Falla si:      <qué lo incumple>
 Falsificador:  <qué lo tumbaría>
 Y qué se pierde si cambia: <todo cambio pierde algo; si no lo puede nombrar, no fue un cambio>
+Invoca:        <qué otro proceso corre este, o vacío si no invoca a ninguno>
 ```
 
 Y las dos últimas no son adornos. `Falla si` dice desde dónde se pueden romper las reglas; `Falsificador` dice qué prueba lo tumba. Sin las dos, el proceso no se puede juzgar: solo se puede obedecer.
 
+Y el `Invoca:` tiene su propia regla, y es la que hace que un proceso compile a otro: se nombra el otro proceso y no se copia. Un proceso que invoca y repite el texto del que invoca tiene dos copias que crecen por su lado hasta decir cosas distintas. Y dos procesos que se invocan en círculo sin que ninguno haga el trabajo no son dos pasos: son ninguno.
+
 Y la línea de "qué se pierde" es la que casi nadie escribe, y es la que permite que dentro de un año alguien sepa por qué esto es así y no de otra forma. Un proceso que cambió sin dejar la pérdida es un proceso que nadie va a poder discutir, porque nadie va a saber qué había antes.
+
+### Y el renglón que hace que un proceso compile a otro
+
+`Invoca:` es el único de los diez que mira hacia afuera. Dice qué otro proceso hace el trabajo, y deja aquí solo lo que es de este.
+
+Sin ese renglón, un proceso que usa a otro lo copia, y las dos copias crecen por su lado hasta decir cosas distintas. Con ese renglón, la copia no se escribe: se llama.
+
+Y eso tiene una consecuencia que vale para todo el método: si un proceso cambia, los que lo invocan no cambian; se enteran solos. Lo que no puede pasar es que dos procesos se invoquen en círculo sin que ninguno haga nada, porque entonces el que corre el ciclo vuelve al mismo sitio y lo llama avance.
+
+```plaintext
+el que invoca      no repite: nombra el otro, y dice con qué lo llama
+el invocado        no sabe quién lo llama, y por eso puede servir a varios
+y el círculo       dos procesos que se llaman sin llegar nunca a uno que
+                   haga el trabajo no son dos pasos: son ninguno
+```
+
+Falsificador de este renglón: un proceso que dice invocar a otro y repite su texto; y dos procesos que se invocan en círculo sin que ninguno haga trabajo.
 
 ### Y la regla que lo hace servir, y no solo bonito
 
