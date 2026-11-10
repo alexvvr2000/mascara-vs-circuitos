@@ -130,7 +130,7 @@ que un ente puede cumplir            392
 muertas por inclusión                  0
 ```
 
-**Cero.** **Y la razón está en [`metodo.md`](../../metodologia/metodos/b%20-%20romper%20una%20regla,%20el%20metodo.md) §VIII:** **una regla de conducta no contiene a otra, se suma a otra.**
+**Cero.** **Y la razón está en [`metodo.md`](../../metodologia/metodos/b%20-%20mutaciones.md) §VIII:** **una regla de conducta no contiene a otra, se suma a otra.**
 
 ---
 

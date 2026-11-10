@@ -1,243 +1,92 @@
 <!-- voz: de testigo -->
-# Método A · Llenar los huecos
+# Método A · Encontrar huecos
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Cómo se sabe qué le falta a los ensayos, y cuándo se deja de buscar.
+Lo que el ensayo no dice. Se levanta un ente entero con lo que hay escrito, se corre, y lo que hubo que inventar es el hueco.
 
 Alejandro Valenzuela Rivera · el ente.
 
----
-
-## Qué saca este método, y con qué forma
-
-Los tres métodos trabajan sobre las ideas de `la obra/teoria/`, y las sacan con una
-sola forma, que se escribe una vez en [la forma del bloque](la%20forma%20del%20bloque.md).
-Y toman un ensayo desde donde esté, en prosa o ya partido, con las dos puertas de
-[los dos puntos iniciales](los%20dos%20puntos%20iniciales.md).
-
-Lo que cambia entre uno y otro no es la forma del bloque: es la pregunta que se hace
-antes de llegar a él. Así que cualquier detalle que se agregue con cualquiera de los
-tres se va a ver igual en el ensayo, y se va a poder comparar con los demás.
-
-Y el reparto que lo hace legible, de un vistazo: `teoria/` es el detalle, y
-[el ciclo del ente](../..//la%20obra/el%20ciclo%20del%20ente.md) es el resumen que nombra
-todas las ideas sin copiarlas. Está escrito en [el reparto](el%20reparto.md).
+> Este método no busca defectos de redacción: busca lo que falta, y lo que falta se ve porque alguien tuvo que rellenarlo. Lo que se rellena sin notarlo es exactamente el hueco, y por eso el que corre tiene que ser alguien que no escribió el ensayo.
 
 ---
 
-
-## Qué es este método, y qué no
-
-Es el que encuentra lo que el ensayo no dice: se levanta un ente entero con los ensayos, se corre, y lo que hubo que inventar es el hueco.
-
-El que dice si lo que el ensayo afirma se sostiene es otro, [Método B · Ver si se sostiene](../README.md): cambia una regla del ensayo, levanta el ente con el ensayo cambiado, y mira si la corrida lo nota.
-
-Hacen falta los dos, y por razones distintas: los mutantes sólo prueban reglas que están escritas, y la corrida entera encuentra lo que falta y no está escrito.
-
----
-
-## Las corridas de este método
-
-Esto se escribe porque se buscó lo contrario y no está: se abrieron las dieciocho documentaciones, una por una, y todas dicen lo mismo, con su fecha, qué se intentaba, qué se levantó y qué hubo que inventar.
-
-Ninguna levanta un ente con el ensayo cambiado. Un mutante es otra cosa, y vive en [mutantes](../corridas/sostiene/). Las cuatro que además buscaron el caso que rompe —la 07, la 11, la 14 y la 15— tampoco salen del método: lo buscaron con el mismo ente, y después de que el ciclo saliera limpio.
-
-Lo dice la 14 con estas palabras: «el primer cierre del ciclo dio `no hice: nada`. Y eso, después de trece corridas que siempre encontraron algo, no es un resultado: es una sospecha. Así que se buscaron casos a propósito, y se encontraron tres.»
-
-Por eso no se parte la carpeta: partirla habría inventado una distinción que no está en ningún archivo, y [`sostiene`](../README.md) tiene su propio registro.
+Se corre:      cuando un ensayo está escrito y todavía no se probó levantando un ente desde cero con él, o cuando se agregan ideas al ensayo y hay que volver a mirar qué le falta.
+Entra:         los ensayos de `la obra/teoria/`, un cuerpo declarado, y una autoridad con nombre; y la frase del pedido que se va a cumplir.
+Sale:          una corrida con su documentación, su esquema y sus filas en texto; y los huecos que hubo que rellenar, cada uno con su ensayo y su renglón.
+Lo consume:    el método B, que prueba con dientes lo que este método encontró; y el autor, que decide qué se agrega al ensayo y qué no.
+La búsqueda:   se busca en lo que se hizo, no en lo que se piensa: cada invención que hizo el que corrió el ente apunta a un renglón del ensayo donde no estaba.
+Y si no encuentra: si el ente se levantó sin inventar nada, se apunta así, y no es un fracaso: es un ensayo que aguanta su primera prueba. Lo que no se hace es inventar un hueco para tener algo que reportar.
+Falla si:      el que corre leyó el ensayo mientras corría; se reporta un hueco sin decir en qué renglón está; o la corrida se recortó para que saliera limpia.
+Falsificador:  un hueco que nadie puede reproducir; una corrida que se levantó sólo con el paso que se probaba; y un método que cierra por número de huecos encontrados y no por uso.
+Y qué se pierde si cambia: se pierde la única prueba que tiene el ensayo de estar completo; el B prueba lo que está escrito y no puede ver lo que falta.
 
 ---
 
-## Cómo se lee una corrida, y qué guarda
+## 1. Qué saca este método, y con qué forma
 
-Cada carpeta conserva lo que la hace revisable, y ya no guarda lo que no se puede leer:
+Los tres métodos trabajan sobre las ideas de `la obra/teoria/`, y las sacan con una sola forma, que se escribe una vez en [la forma del bloque](la%20forma%20del%20bloque.md). Y toman un ensayo desde donde esté, en prosa o ya partido, con las dos puertas de [los dos puntos iniciales](los%20dos%20puntos%20iniciales.md).
+
+Porque `teoria/` no se escribe de cero: se **muta**. Cada corrida agrega detalle a una idea, y lo que se agregó tiene que poder compararse con lo que ya estaba. Lo que cambia entre un método y otro no es la forma del bloque: es la pregunta que se hace antes de llegar a él, y está en [el reparto](el%20reparto.md). Y cómo se mutan los ensayos —cuántos, y de qué tamaño— está en [ensayos que mutan](ensayos%20que%20mutan.md).
+
+## 2. Qué es, y qué no
+
+Es el que encuentra lo que el ensayo no dice: se levanta un ente entero con lo que hay escrito, se corre, y lo que hubo que inventar es el hueco. No interpreta: apunta.
+
+El que dice si lo que el ensayo afirma se sostiene es otro, [el método B](b%20-%20mutaciones.md): cambia una regla a propósito y mira si la corrida lo nota. Hacen falta los dos, y por razones distintas: los mutantes sólo prueban reglas escritas, y la corrida entera encuentra lo que nunca se escribió.
+
+## 3. Las corridas de este método
+
+Las corridas de `huecos` son todas de este método, y viven en [corridas/huecos](../corridas/huecos/). Ninguna levanta un ente con el ensayo cambiado: un mutante es del B.
+
+Y por qué se dice: se buscó lo contrario y no está. Se abrieron las documentaciones, una por una, y todas son levantamientos desde cero.
+
+## 4. Cómo se lee una corrida, y qué guarda
 
 ```plaintext
-documentacion.md      qué se intentaba, qué pasó, los huecos, y qué no se probó
-banco_esquema.sql     el esquema con el que corrió, en texto
-banco_filas.sql       lo que quedó escrito en ese esquema, fila por fila, en texto
-pruebas/              los archivos de entrada que la corrida usó, si los tuvo
+documentacion.md     qué se intentaba, qué se levantó, qué se inventó, y qué se corrigió
+banco_esquema.sql    las tablas del ente que se levantó
+banco_filas.sql      las filas, en texto, para poder volver a medirlas
+pruebas/             lo que el ente leyó, y lo que se le pidió
 ```
 
-Dos cosas se fueron, y se dice por qué no están:
+Y la corrida no se recorta. Lo que se levantó es lo que se levantó: un ente a medias con el que no se pudo terminar es un hallazgo, y se apunta.
+
+## 5. La meta: lo suficientemente bueno
+
+La meta es que un ente se pueda levantar sin preguntar nada, y eso se mide por uso, no por número de huecos: un método que cierra al encontrar una cifra fija de huecos se vuelve una máquina de apuntar cualquier cosa.
 
 ```plaintext
-herramientas/   los scripts y el AGENTS de cada corrida. se fueron porque cada
-                corrida tenía su copia, y las dieciocho no coinciden: leer una
-                y creer que es la puerta de todas es peor que no tener ninguna
-
-banco.db        el binario. ahora es dos archivos de texto que se pueden abrir,
-                comparar, y volver a cargar en cualquier motor
+el piso mínimo, en concreto     el ente se levanta, recibe, decide, contesta y apunta
+                                 sin que haya que explicarle nada que el ensayo no diga
+la línea que impide la excusa   un hueco es donde el que corre tuvo que inventar,
+                                 y no donde le pareció poco claro
 ```
 
-Los nombres de los archivos no están escritos en ninguna parte, y se vio al chequear las dieciocho: la 01 y la 02 dicen en su documentación cuántas tablas tiene su esquema, y no las nombran; la 16 trae sus filas en `insert into tabla (id, …)`, y las demás en `insert into tabla values (…)`, que depende del orden en que el esquema declaró las columnas. Es de la época, y no se corrige: se dice, para que quien copie una no crea que las dieciocho se escribieron a la vez.
+Lo que este método no dice: si lo que el ensayo afirma es verdad. Eso es del B, y del desenlace.
 
-Hay dos más que un lector no puede prever y ahora se dice aquí:
+## 6. Cuándo se deja de correr
 
-```plaintext
-las pruebas/ de la 03, 06 y 07     traen los casos de entrada, y su
-                                   documentación no los nombra uno por uno.
-                                   se entiende al leerlos, y hay que abrirlos
+Cuando dos corridas seguidas, enteras y sin recortar, no encuentran más que detalle. Entonces se dice que se dejó, con la fecha, y no se da por terminado: lo que se probó está probado, y lo que no, nombrado.
 
-16 - NUNCA SE BORRA                su banco_filas.sql trae el supuesto 3
-                                   apuntando a un hecho 999 que no existe, y
-                                   es a propósito: es el caso que la corrida
-                                   vino a probar. la documentación lo dice
-                                   [OK] rechaza un hecho 999, porque en esa
-                                   corrida el esquema lo rechazó con las
-                                   llaves prendidas. recargar las filas con
-                                   foreign_keys=OFF lo acepta, y eso es lo
-                                   que la corrida 16 denunció
-```
+## 7. Lo que este método no prueba
 
----
-
-Falsificador de este README: una corrida que se presentó como recargable y no lo está; y uno que copia los casos de `pruebas/` como si fueran los del banco, cuando son la entrada y no la salida.
-
-
----
-
-## I. La meta: lo suficientemente bueno
-
-Durante un tiempo la meta se formuló como «describir un ente hasta que esté completo», y con eso se cayó en la trampa de la tendencia: buscar el valor al que converge algo que no termina.
-
-La trampa tiene nombre y está resuelta en [lo inexplicable](../lo%20inexplicable.md): que algo no se pueda probar hasta el final no lo vuelve inútil, y lo que hay que encontrar no es el final, sino el punto donde algo sirve.
-
-Ese punto tiene nombre, y es el que usa todo el que hace herramientas: lo suficientemente bueno.
-
-> Que alguien que sabe menos pueda empezar a trabajar con esto, y que el que sabe más pueda seguir desde donde el primero dejó.
-
-Y las dos mitades son necesarias:
-
-```plaintext
-si el que sabe menos no puede empezar     → no hay piso
-si el que sabe más no puede seguir        → no hay techo, y el trabajo se cierra
-```
-
-Que esto no sea un final no es un defecto: la solución final va a tener huecos, no porque el trabajo esté mal, sino porque un ente vive en un mundo que cambia y la descripción se queda.
-
----
-
-## Qué es el piso mínimo, en concreto
-
-```plaintext
-lo que hay        las cuatro piezas, los ensayos escritos, y las corridas que
-                  se pueden abrir y volver a cargar
-
-lo que falta      que el que sabe menos pueda empezar. eso no se prueba
-                  con más escritura: se prueba con alguien
-
-y lo que NO falta el final. el final no hace falta para empezar
-```
-
-El mínimo no es el número de reglas. El mínimo es lo que hace falta para que otra persona levante un ente y produzca algo.
-
----
-
-## Y la línea que impide que esto se vuelva una excusa
-
-```plaintext
-lo que NO es lo suficientemente bueno
-  lo que se puede empezar a usar, pero nadie lo empezó, y no se sabe por qué
-
-lo que SÍ es
-  lo que se puede empezar a usar, alguien lo empezó, y dijo dónde falló
-```
-
-La diferencia es una sola: alguien lo intentó y volvió con lo que se rompió. Y sin eso, «lo suficientemente bueno» es una opinión.
-
----
-
-## Lo que este método NO dice
-
-- No dice que el piso ya esté puesto. Dice qué lo definiría, y que eso no se sabe desde adentro.
-- No fija un número de corridas. Ésas son el trabajo, y no la meta.
-- Y no afirma que la solución final vaya a ser buena. Afirma que va a tener huecos, y que eso está previsto y dicho.
-
----
-
-## II. El problema, en una línea
-
-La regla vieja era «dos corridas enteras seguidas que no encuentren nada más que detalle»: eso es esperar a que no aparezca nada, y no aparece nada cuando el que busca es el mismo que ya sabe dónde no buscar.
-
-Tiene nombre —saturación, y se cita abajo—. Es un criterio real, y es el débil.
-
----
-
-## III. Cómo se hace
-
-Está entero en [cómo se corre](../como%20se%20corre.md). Aquí sólo lo que no se repite allí:
-
-```plaintext
-1. se leen los ensayos          sin mirar los entes anteriores
-2. se levanta un ente ENTERO    en una carpeta nueva, con fecha
-3. se corre de punta a punta    ningún paso se salta
-4. se anota lo que hubo que inventar   cada invención es un hueco
-5. se clasifica                 del ensayo / del código / del entorno
-6. se escribe la documentación  con la voz del que corrió
-7. se cierra el hueco           en el ensayo, y se repite desde el 1
-```
-
-> Y la regla que la hace servir: lo que se inventa es del ensayo, no de lo que se levantó.
-
----
-
-## IV. Lo que este método no prueba, y se cita
-
-> «Las pruebas pueden revelar la presencia de defectos, pero nunca su ausencia.»
-> — Dijkstra, *Notes on Structured Programming*, EWD249, 1970.
-
-Un hueco cerrado dice que ese ya no está. No dice que no haya otros. Y por eso este método no se para solo: la otra mitad está en el [Método B · Ver si se sostiene](../README.md).
-
----
-
-## V. Cuándo se deja de correr
-
-La regla vieja —«dos corridas enteras seguidas que no encuentren nada más que detalle»— se queda, y es de este método, pero no es la primera.
-
-La primera es más simple:
-
-> Se acaba cuando el ente se puede levantar con los ensayos y no hay que preguntar nada.
-
-Sus cuatro condiciones, que no incluyen «no encontré nada»:
-
-```plaintext
-1. una corrida con las trampas puestas a propósito
-   —el casi, el doble tema, el propósito sin motivo, la autoridad que
-   no contesta— y ninguno se rompió. Una corrida dócil no cuenta
-
-2. la prueba doble: el ente viejo y el nuevo, con el mismo caso
-   y que el nuevo no pierda nada del viejo
-
-3. un falsificador de los ensayos, cumplido a propósito
-   se cumple uno, y el ensayo no se cae
-
-4. ¿el dueño podría levantar un ente con estos ensayos, sin buscar?
-```
-
-Y la última es la que importa, y no se mide con instrumentos.
-
----
-
-## De dónde salió esto
-
-| Lo que este método afirma | De dónde viene |
-|---|---|
-| las pruebas revelan la presencia de defectos, nunca su ausencia | Dijkstra, EWD249 (1970) |
-| la saturación es el punto en que los datos nuevos no dicen nada nuevo | investigación cualitativa; Glaser & Strauss (1967) |
-| una revisión no sustituye a una corrida | las corridas 14 y 15, que encontraron más buscando después de que todo salió bien |
+El A no prueba ninguna regla de los ensayos. Lo que el ensayo afirma es una apuesta, y la prueba es del B. Por eso este método no tiene mutantes: su equivalente es la corrida, y la corrida no se muta.
 
 ---
 
 ## Lo visto
 
-Que lo que el ensayo no dice se ve al levantar un ente y mirar qué hubo que inventar.
+Que el ensayo que se levanta sin inventar nada existe, y que existe cuando el que lo levanta no vio la solución antes de llegar a la mitad.
+
+Lo que sigue es lo que se sostiene con eso, y lo que todavía se le puede pedir.
 
 ## Prueba
 
-¿Cada hueco encontrado tiene su corrida y su registro? ¿Se puede abrir el esquema y las filas de una corrida vieja y volver a cargarlos? ¿Se distingue un hueco del ensayo de un defecto del código o del entorno? ¿Y hay alguna corrida que dijera «no encontré nada» con las trampas puestas?
+¿Cada corrida dice qué se intentaba y qué se inventó? ¿Cada hueco apunta a un renglón del ensayo? ¿Se dice cuándo se dejó de correr, y por qué?
 
----
+## De dónde salió esto
 
-Falsificador: «lo suficientemente bueno» dicho por quien lo hizo, y sin que nadie lo haya empezado; y su contrario: seguir puliendo para siempre porque siempre aparece un detalle más.
+De las corridas que están en [corridas/huecos](../corridas/huecos/), y del registro de cómo se llegó. Lo que se afirma aquí lo puso a prueba cada levantamiento, y ninguno lo hizo alguien que no fuera el autor.
+
+Falsificador final: un método que termina porque se cansó el que corría, y no porque dos corridas enteras no encontraran nada nuevo.

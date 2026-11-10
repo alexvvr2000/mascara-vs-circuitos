@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Sus enlaces apuntan a archivos que ya no existen ahí: lo que decían vive en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md), y el conteo en [`../corridas/indice.md`](../corridas/indice.md).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Sus enlaces apuntan a archivos que ya no existen ahí: lo que decían vive en [`../metodos/b - mutaciones.md`](../metodos/b - mutaciones.md), y el conteo en [`../corridas/indice.md`](../corridas/indice.md).**
 
 # El método de antes, su README
 
@@ -64,7 +64,7 @@ y el mutante muere
 
 ## IV. Los mutantes que hay
 
-**Están en [`los mutantes`](../metodos/b - romper una regla, el metodo.md), uno por familia, con lo que rompe cada uno.**
+**Están en [`los mutantes`](../metodos/b - mutaciones.md), uno por familia, con lo que rompe cada uno.**
 
 **Y sus catorce fichas están escritas.** **Corridos: los que diga [`corridas.md`](../corridas/indice.md), que es el único archivo donde se cuentan, con su fecha y su veredicto.**
 
@@ -83,7 +83,7 @@ y el mutante muere
 
 ## VI. Cuántas reglas hay
 
-**No se responde aquí.** **Se responde en [`las reglas`](../metodos/b - romper una regla, el metodo.md), que es donde vive el número, y es el único sitio del repositorio donde vive.**
+**No se responde aquí.** **Se responde en [`las reglas`](../metodos/b - mutaciones.md), que es donde vive el número, y es el único sitio del repositorio donde vive.**
 
 **Y este método no hace la resta.** **El que la necesite la hace, contra lo que diga el registro de lo corrido.**
 

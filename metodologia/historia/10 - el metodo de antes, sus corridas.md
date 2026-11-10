@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de que esta carpeta se quitara.** **Lo que decía vive hoy, y unido, en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md); el conteo de las corridas, en [`../corridas/indice.md`](../corridas/indice.md); y los bancos, en [`../corridas/sostiene/_dumps/`](../corridas/sostiene/_dumps/).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de que esta carpeta se quitara.** **Lo que decía vive hoy, y unido, en [`../metodos/b - mutaciones.md`](../metodos/b - mutaciones.md); el conteo de las corridas, en [`../corridas/indice.md`](../corridas/indice.md); y los bancos, en [`../corridas/sostiene/_dumps/`](../corridas/sostiene/_dumps/).**
 
 # El método de antes, sus corridas
 

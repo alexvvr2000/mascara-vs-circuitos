@@ -135,7 +135,7 @@ Cuándo se termina, que es la meta y se dice entera:
 
 El proceso no termina, y eso está previsto. La solución final va a tener huecos, porque un ente vive en un mundo que cambia. Lo que sí se puede terminar es lo que una generación necesita para empezar, y eso es otra cosa.
 
-La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método B · Ver si se sostiene](metodologia/metodos/b%20-%20romper%20una%20regla.md), con sus fuentes.
+La primera regla es nueva, y es la que dice cuánto falta. Un mutante es el ensayo con una regla al revés: si la corrida lo nota, la regla tiene dientes; si no, el mutante vivo dice cuál no los tiene. Está en [Método B · Ver si se sostiene](metodologia/metodos/b%20-%20mutaciones.md), con sus fuentes.
 
 La segunda cubre lo que ningún ensayo escribió. Una sin la otra deja un lado sin mirar.
 
@@ -174,7 +174,7 @@ Los límites, dichos con nombre:
 
 - No hay comparación medida contra ningún otro trabajo. Es un contraste de forma, no de rendimiento.
 - Se cumplió uno de los falsificadores: el del paso 3, que la corrida 8 hizo que el esquema rechazara. Los demás siguen sin probarse a propósito. Un método que nunca se cayó no sabe caerse todavía.
-- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/metodos/`](metodologia/metodos/b%20-%20romper%20una%20regla.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
+- No hay guía de instalación paso a paso, y no la habrá hasta que el ciclo quede sin huecos. Lo que sí hay es el método, en [`metodologia/metodos/`](metodologia/metodos/b%20-%20mutaciones.md), y el manual para cambiar de stack, en [`implementacion/usuario/`](implementacion/usuario/README.md).
 - Los mutantes se corrieron con un autor, y no con un segundo que intentara matarlos por su cuenta. Un ensayo que aguanta a su propio autor todavía no aguanta a un desconocido.
 
 Las tres primeras son la misma cosa: **las corridas, un autor, un entorno.** No hay evidencia de otro sistema operativo, de otra máquina, ni de alguien más al teclado.

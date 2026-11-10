@@ -72,11 +72,10 @@
   metodologia/metodos/
     README.md
     a - encontrar huecos.md
-    b - forma de la asercion.md
-    b - romper una regla, el metodo.md
-    b - romper una regla.md
+    b - mutaciones.md
     c - analisis de ciclo.md
     el reparto.md
+    ensayos que mutan.md
     la forma del bloque.md
     los dos puntos iniciales.md
 
@@ -99,7 +98,7 @@
   scripts/__main__.py
 
 ## Lo que enlaza, y lo que no
-  310 enlaces, 0 rotos
+  294 enlaces, 0 rotos
 
 Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aqu�.
 ```

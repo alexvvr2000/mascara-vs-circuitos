@@ -3,41 +3,49 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-Tres formas de mirar los ensayos, cada una con su pregunta. Y el método no es aquí: aquí está su índice.
+Tres métodos, cada uno en su archivo, y cuatro páginas que los tres comparten. Nada más: una página por cosa.
 
 Alejandro Valenzuela Rivera · el ente.
 
-> Cada método tiene su archivo, y cada uno empieza con la forma de un proceso: qué entra, qué se hace, qué sale, cuándo se corre, y qué pasa si no encuentra. Este archivo no repite ninguno: dice cuál existe, y qué contesta.
+> Esta carpeta tenía un método escrito en tres archivos, y se leía como si fueran tres métodos. Ahora es uno por método, y lo que no era de un solo método está en su propia página. Si una página no cabe en un renglón de esta tabla, no debía existir.
 
 ---
 
-## Los tres
+## Los tres métodos
 
-| El método | El archivo | La pregunta |
+| El método | El archivo | La pregunta que contesta |
 |---|---|---|
 | A · Encontrar huecos | [a - encontrar huecos.md](a%20-%20encontrar%20huecos.md) | ¿qué le falta al ensayo? |
-| B · Romper una regla | [b - romper una regla.md](b%20-%20romper%20una%20regla.md) | ¿lo que dice tiene dientes? |
+| B · Mutaciones | [b - mutaciones.md](b%20-%20mutaciones.md) | ¿lo que dice tiene dientes? |
 | C · Análisis de ciclo | [c - analisis de ciclo.md](c%20-%20analisis%20de%20ciclo.md) | ¿todo se conecta, sin ambigüedad? |
 
-Y el B trae dos archivos más, que son parte del mismo método y no otros: [el método entero](b%20-%20romper%20una%20regla,%20el%20metodo.md), que es la regla, el mutante y el banco; y [la forma de la aserción](b%20-%20forma%20de%20la%20asercion.md), que es lo que el build comprueba.
+## Y las páginas que comparten
+
+| La página | Qué dice | Por qué no es de uno solo |
+|---|---|---|
+| [la forma del bloque](la%20forma%20del%20bloque.md) | las ocho líneas de una idea | los tres sacan ideas, y las sacan con la misma forma |
+| [los dos puntos iniciales](los%20dos%20puntos%20iniciales.md) | cómo se toma un ensayo en prosa, o ya partido | los tres toman el mismo ensayo, y convergen al mismo bloque |
+| [ensayos que mutan](ensayos%20que%20mutan.md) | cuántos ensayos hay, y de qué tamaño | lo decide el C, y el A y el B escriben en ellos |
+| [el reparto](el%20reparto.md) | qué guarda `teoria/`, y qué el ciclo del ente | los tres escriben en el detalle, y el resumen los nombra |
 
 ---
 
-## Lo que hace que un método sea uno
+## La regla de esta carpeta
 
 ```plaintext
-dice cuándo se corre       sin eso no ocurre: se guarda para la ocasión
-dice qué lo incumple       sin eso no se puede juzgar si sirvió
-dice qué sale              sin eso lo que produce no lo consume nadie
-dice qué pasa si no encuentra  sin eso, el que lo corre rellena inventando
+un archivo por método      y su nombre empieza por su letra
+una página por cosa        que los tres comparten, y no lleva letra
+ningún método en tres archivos   «b - …» es un método, y no tres
 ```
 
-Sin los cuatro, no es un método: es una descripción. Y los tres de aquí los tienen, o se les nota el que falta.
+Y si una página compartida crece hasta ser dos cosas, se parte en dos páginas con nombre propio, y no en dos archivos de un método.
 
 ---
 
-Y el cuaderno que el método C va escribiendo vive en [ciclo/](../ciclo/README.md), con su ciclo final, sus conexiones y sus folios.
+## Lo que hay que hacer con un ensayo, en una vista
+
+Y el punto donde los tres se juntan, en una línea: **cada método toma un ensayo de `teoria/`, y lo deja con ideas que se pueden comparar, probar y contar.** El A encuentra lo que falta, el B prueba que lo que hay tiene dientes, y el C dice si las ideas caben en pasos. Ninguno lo deja mejor escrito: lo dejan verificable.
 
 ---
 
-Falsificador: un método que no dice cuándo se corre, y que igual se presenta como método.
+Falsificador: dos archivos que empiezan por la misma letra y son el mismo método; y una página compartida que sólo entiende uno de los tres.

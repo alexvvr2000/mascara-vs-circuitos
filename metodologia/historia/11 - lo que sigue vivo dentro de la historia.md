@@ -16,10 +16,10 @@ las fichas de los mutantes      el cuaderno 09. las fichas enteras, sin
 
 el conteo de reglas             el cuaderno 08. el conteo de su día, con su
                                 fecha. lo vigente y cómo se cuenta, en
-                                metodos/b - romper una regla, el metodo.md §VIII
+                                metodos/b - mutaciones.md §VIII
 
 las fuentes de la ingeniería    el cuaderno 07. la tabla con sus fuentes hoy
-                                está en metodos/b - romper una regla, el metodo.md §XIV
+                                está en metodos/b - mutaciones.md §XIV
 ```
 
 **Y la regla que los conserva sin volverlos obligatorios:** **si el método y uno de estos se contradicen, manda el método.** **Aquí están la fuente de lo que se pensó; el método dice qué se sostiene hoy.**
@@ -30,7 +30,7 @@ las fuentes de la ingeniería    el cuaderno 07. la tabla con sus fuentes hoy
 
 **Los conteos de los cuadernos de la serie** —las reglas contadas, las corridas hechas, los cortes por vuelta**— son de su día, y ese día está en cada archivo.**
 
-**La cifra vigente no se escribe en la historia: vive en [`corridas/indice.md`](../corridas/indice.md), y la suma de reglas en [`metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md) §VIII.** **Un número con fecha no envejece; uno sin ella sí.**
+**La cifra vigente no se escribe en la historia: vive en [`corridas/indice.md`](../corridas/indice.md), y la suma de reglas en [`metodos/b - mutaciones.md`](../metodos/b - mutaciones.md) §VIII.** **Un número con fecha no envejece; uno sin ella sí.**
 
 ---
 
@@ -38,7 +38,7 @@ las fuentes de la ingeniería    el cuaderno 07. la tabla con sus fuentes hoy
 
 ```plaintext
 la obra/ciclo del ente/            hoy   la obra/funcionamiento ente/
-las reglas.md de sostiene/         hoy   metodos/b - romper una regla, el metodo.md §VIII
+las reglas.md de sostiene/         hoy   metodos/b - mutaciones.md §VIII
 los mutantes.md de sostiene/       hoy   cuaderno 09, vigente como ficha
 la carpeta corridas/ de sostiene/  hoy   no existe: su conteo está en
                                          corridas/indice.md

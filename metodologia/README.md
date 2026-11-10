@@ -16,7 +16,7 @@ Alejandro Valenzuela Rivera · el ente.
 | El método | La pregunta que contesta | Cuándo se acaba |
 |---|---|---|
 | [A · Encontrar huecos](metodos/a%20-%20encontrar%20huecos.md) | ¿qué le falta al ensayo? | cuando el ente se puede levantar sin preguntar nada |
-| [B · Romper una regla](metodos/b%20-%20romper%20una%20regla.md) | ¿lo que el ensayo dice tiene dientes? | cuando lo que sobrevive está nombrado |
+| [B · Mutaciones](metodos/b%20-%20mutaciones.md) | ¿lo que el ensayo dice tiene dientes? | cuando lo que sobrevive está nombrado |
 | [C · Análisis de ciclo](metodos/c%20-%20analisis%20de%20ciclo.md) | ¿todo se conecta, sin ambigüedad? | cuando no queda un bloque suelto ni una lectura doble |
 
 Y por qué hacen falta los tres, en una línea: el A encuentra lo que no está escrito, el B prueba lo que sí está escrito, y el C junta lo que sale de los dos en un ciclo que se puede correr. Uno solo deja dos lados sin mirar.
@@ -33,16 +33,18 @@ metodologia/
   como se corre.md        el único sitio con los comandos y el orden
 
   metodos/                los tres métodos, uno por archivo
-    a - encontrar huecos.md
-    b - romper una regla.md
-    b - romper una regla, el metodo.md    el método B, entero
-    b - forma de la asercion.md           las cuatro reglas que comprueba el build
-    c - analisis de ciclo.md
+    a - encontrar huecos.md          qué le falta al ensayo
+    b - mutaciones.md                qué tiene dientes, y la forma de la aserción
+    c - analisis de ciclo.md         qué se conecta, y cómo se parte en ideas
+    la forma del bloque.md           las ocho líneas de una idea
+    los dos puntos iniciales.md      prosa o partido, al mismo bloque
+    ensayos que mutan.md             cuántos ensayos, y de qué tamaño
+    el reparto.md                    el detalle y el resumen
 
   corridas/               lo que cada método encontró, y su índice
-    indice.md             una línea por corrida: las 18 del A, los 13 del B, y las del C
-    huecos/               las 18 del método A
-    sostiene/             los 13 mutantes del método B, con su .py y sus bancos
+    indice.md             una línea por corrida: las del A, los mutantes del B, y las vueltas del C
+    huecos/               las corridas del método A
+    sostiene/             los mutantes del método B, con su .py y sus bancos
     ciclo/                las vueltas del método C, y su estado actual
 
   ciclo/                  lo que el método C va armando: el ciclo final, sus
@@ -76,7 +78,7 @@ Porque una resta que se puede rehacer no envejece; una cifra escrita sí.
 
 ## Y el órgano que deja crecer todo esto sin tocarlo
 
-La obra se corrige sola con un comando, no con memoria: `python -m scripts` comprueba los títulos, los enlaces, las citas por número, la forma, las licencias y REUSE, y se cae con el archivo y el renglón. La forma, con su porqué y con lo que el build no comprueba, está en [la forma de la aserción](metodos/b%20-%20forma%20de%20la%20asercion.md).
+La obra se corrige sola con un comando, no con memoria: `python -m scripts` comprueba los títulos, los enlaces, las citas por número, la forma, las licencias y REUSE, y se cae con el archivo y el renglón. La forma, con su porqué y con lo que el build no comprueba, está en [la forma de la aserción](metodos/b%20-%20mutaciones.md).
 
 ---
 

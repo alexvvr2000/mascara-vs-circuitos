@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Estas fichas viven hoy en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md) §VIII, y su estado en [`../corridas/indice.md`](../corridas/indice.md).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Estas fichas viven hoy en [`../metodos/b - mutaciones.md`](../metodos/b - mutaciones.md) §VIII, y su estado en [`../corridas/indice.md`](../corridas/indice.md).**
 
 # El método de antes, sus mutantes
 

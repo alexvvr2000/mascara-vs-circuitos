@@ -1,5 +1,5 @@
 <!-- voz: de testigo -->
-**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Lo que sigue vive hoy en [`../metodos/b - romper una regla, el metodo.md`](../metodos/b - romper una regla, el metodo.md) (el cómo, §VIII) y en [`../corridas/indice.md`](../corridas/indice.md) (el conteo).**
+**Archivo guardado tal como estaba el 2026-11-08, antes de unificar `sostiene/` en un solo método.** **Lo que sigue vive hoy en [`../metodos/b - mutaciones.md`](../metodos/b - mutaciones.md) (el cómo, §VIII) y en [`../corridas/indice.md`](../corridas/indice.md) (el conteo).**
 
 # El método de antes, sus reglas
 
