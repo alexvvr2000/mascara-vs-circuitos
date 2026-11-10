@@ -7,48 +7,56 @@ El cierre de la vuelta 001: sus cuentas, y lo que impide cerrarla del todo. Es l
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Esta lápida dice lo que hay, y lo que falta, con nombre. Un cuaderno que presenta el cero como si fuera un logro es peor que uno vacío.
+> Esta lápida dice lo que hay y lo que falta, con nombre. Y sus cifras salen de `python -m scripts --paso`, que es la orden, y no de la mano: lo que se cuenta, se cuenta contra el folder.
 
 ---
 
 ## El estado
 
 ```plaintext
-se cerró                 sí: el paso 1, el 2 y el 3 cerraron, y sus pruebas están en verde
-las cuentas              las de abajo, y salen de `python -m scripts --paso`
-la clase de cero         de tablero limpio en lo que tiene prueba y conexión; de
-                         cuaderno vacío en ideas sin paso
+se cerró                 el paso 1, el 2 y el 3. el paso 4 es esta lápida
+la clase de cero         de tablero limpio en prueba y conexión; de cuaderno vacío en
+                         lo que no se pudo contar
 ```
 
-## Las cuentas de la vuelta
+## Las cuentas de la vuelta, según la orden
 
 ```plaintext
 aspecto                    cuenta                    hoy
-pasos                      12                        12
-con su prueba              12 de 12                  12
-conexiones                 21                        21, y probadas
-sin recibir                1                         1: la entrada del paso 1
-ideas sin paso             12 fichas, y 0 sin paso   cuentan las ideas del cicening:
-                                                     30 ideas, todas con paso
+pasos                      las fichas               12
+con su prueba              12 de 12                 12: cada ficha nombra un .py que existe
+conexiones                 las aristas exigidas     21, y todas con su prueba
+desde                      los pasos que entregan   1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+hasta                      los pasos que reciben    1, 2, 4, 5, 6, 7, 8, 9, 10, 11
+sin recibir                lo que no llega a nadie  1: la entrada del paso 1
 ```
 
-## Lo que impide cerrarla del todo
+Y lo que la orden no puede contar todavía, y se dice con esas palabras:
 
 ```plaintext
-las ideas de los otros ensayos    el folio 0001 cubre el ciclo del ente. los once
-                                  ensayos de teoría tienen sus ideas, y no están en
-                                  ninguna ficha todavía: eso es la vuelta 002
-la segunda vuelta                 el método converge cuando dos vueltas seguidas dicen
-                                  lo mismo, y sólo hay una
+ideas sin paso             no se puede contar: las fichas cubren el ciclo del ente, y los
+                           otros diez ensayos no tienen folio. cero de cuaderno vacío
+lo probado por el B        no se cuenta aquí: se lee en el índice de corridas
+```
+
+## Lo que impide decir que converge
+
+```plaintext
+las ideas de los otros ensayos    el folio 0001 cubre el ciclo del ente, con sus treinta
+                                  ideas. los diez ensayos que quedan tienen sus ideas, y
+                                  no están en ninguna ficha: es la vuelta 002
+la segunda vuelta                 el método converge cuando dos vueltas seguidas dicen lo
+                                  mismo, y sólo hay una. sin la 002, el cero de la 001
+                                  es de tablero limpio y nada más
 ```
 
 ## Y la vuelta 002
 
 ```plaintext
-abre con esta lápida delante. lo que toca: meter las ideas de los once ensayos en las
-fichas que les correspondan, y volver a contar
+abre con esta lápida delante. lo que toca: meter las ideas de los diez ensayos en las
+fichas que les correspondan, y volver a contar. ahora no se corre
 ```
 
 ---
 
-Falsificador: una lápida que dice «cerrada» sin sus cuentas; y una vuelta que sabe qué le falta y no lo dice.
+Falsificador: una lápida que dice «cerrada» sin sus cuentas; una cifra que no sale de la orden; y una vuelta que sabe qué le falta y no lo dice.
