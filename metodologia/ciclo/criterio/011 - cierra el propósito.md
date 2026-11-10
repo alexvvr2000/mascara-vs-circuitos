@@ -3,21 +3,21 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El paso 11 del ciclo final, con sus trece líneas: qué recibe, qué entrega, qué hace, de qué línea del ensayo salen sus ideas, y qué lo tumba.
+El paso 11 del ciclo final, con sus trece líneas: qué recibe, qué entrega, qué hace, de qué línea del ensayo sale, y qué lo tumba.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Todo paso es un paso, del 1 al n, sin cero y sin letras. Y este ya tiene sus ideas: salen del ciclo del ente, línea 381, y cada una lleva la suya.
+> Todo paso es un paso, del 1 al n, sin cero y sin letras. Y este ya tiene sus ideas: sale de [cierra el propósito](../../../la%20obra/el%20ciclo%20del%20ente.md#L381). Lo que aquí no aparece es porque el ensayo no lo dice, y eso se apunta, no se rellena.
 
 ---
 
 ## Paso 11 · cierra el propósito
 
 ```plaintext
-sus ideas          el ente propone, la autoridad cierra (L383)
+sus ideas          el ente propone, la autoridad cierra (L386)
                    el cierre apunta a la autoridad declarada (L396)
                    la razón del cierre no puede estar vacía (L430)
-                   el no no se apaga (L448)
+                   el no no se apaga (L446)
 recibe             del paso 9, el hecho y la razón; del paso 1, el propósito y la autoridad declarada
 entrega            a la autoridad, la propuesta de cierre; y al propósito, el cierre con quien lo cerró
 se hace            el ente propone el cierre con su razón; la autoridad contesta sí o no

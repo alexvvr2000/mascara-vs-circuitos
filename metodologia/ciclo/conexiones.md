@@ -13,31 +13,31 @@ Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
 ## La tabla
 
-Las veintiuna aristas que nombran las fichas, tal como están hoy: todas exigidas, y ninguna probada, porque el paso 3 no ha escrito su `.py`. La línea del paso 1 a nadie no es una arista: es una entrada, y va aparte. Y la ficha 1 dice que entrega al 11 el propósito y la autoridad, pero ese tramo no se cuenta como arista: la tabla dice lo que la orden cuenta, y no lo que una ficha nombra de pasada. Si tiene que contar, se escribe en la ficha con las palabras que la orden lee, y se vuelve a correr el paso 3.
+Las veintiuna aristas que nombran las fichas, tal como están hoy: todas exigidas, y ninguna probada, porque el paso 3 no ha escrito su `.py`. La línea del paso 1 a nadie no es una arista: es una entrada, y va aparte. Y las aristas son veintiuna, no veinte: la del 1 al 11 la nombra la ficha 1, que entrega al 11 el propósito y la autoridad, y la prueba del paso 11 la necesita. Y la ficha 1 dice que entrega al 11 el propósito y la autoridad, pero ese tramo no se cuenta como arista: la tabla dice lo que la orden cuenta, y no lo que una ficha nombra de pasada. Si tiene que contar, se escribe en la ficha con las palabras que la orden lee, y se vuelve a correr el paso 3.
 
 ```plaintext
-de   a    qué pasa                                            prueba   estado
-1    2    el cuerpo de la declaración                           falta   sin probar
-1    6    el índice con el borde de cada tema                   falta   sin probar
-1    11   el propósito y la autoridad que firma                 falta   sin probar
-2    1    el ente ya declarado, para saber con qué corre        falta   sin probar
-2    10   el cuerpo con el que se apunta el sesgo               falta   sin probar
-3    1    el ente y su propósito, para medir el piso            falta   sin probar
-3    7    el piso medido: hasta dónde se puede llegar           falta   sin probar
-4    5    la frase que se va a guardar                          falta   sin probar
-5    4    lo entendido, que se apunta junto a la frase          falta   sin probar
-5    6    la frase y su origen declarado                        falta   sin probar
-6    5    la frase, para recorrer el grafo de temas             falta   sin probar
-6    7    el tema por el que se entra, o el hueco declarado     falta   sin probar
-7    5    la frase del paso 5, que la decisión necesita         falta   sin probar
-7    8    la decisión con sus cuatro columnas                   falta   sin probar
-8    7    el paso 7 lee la decisión, para dar su respuesta      falta   sin probar
-8    9    la respuesta, que se apunta                            falta   sin probar
-9    10   lo apuntado, y lo que la vida hizo con eso            falta   sin probar
-10   9    lo apuntado, para volver a probar la regla            falta   sin probar
-11   9    el hecho y la razón, para proponer el cierre          falta   sin probar
-11   1    la propuesta de cierre, a la autoridad declarada      falta   sin probar
-12   9    el hecho con su tema, o sin él, para devolverlo       falta   sin probar
+de   a    qué pasa                                            prueba    estado
+1    2    el cuerpo de la declaración                       p018      probada
+1    6    el índice con el borde de cada tema               p024      probada
+1    11   el propósito y la autoridad que firma             p032      probada
+2    1    con qué cuerpo corre, de vuelta al ente           p033      probada
+2    10   el cuerpo con el que se apunta el sesgo           p034      probada
+3    1    el piso medido, de vuelta al ente                 p035      probada
+3    7    el piso medido: hasta dónde se puede llegar       p025      probada
+4    5    la frase que se va a guardar                      p036      probada
+5    4    lo entendido, que se apunta junto a la frase      p037      probada
+5    6    la frase y su origen declarado                    p038      probada
+6    5    el tema, o el hueco, que vuelve a la frase        p039      probada
+6    7    el tema por el que se entra, o el hueco declarado p020      probada
+7    5    lo que se descartó, con su razón                  p040      probada
+7    8    la decisión con sus cuatro columnas               p021      probada
+8    7    la decisión que el 7 lee, para contestar          p021      probada
+8    9    la respuesta, que se apunta                       p022      probada
+9    10   lo apuntado, y lo que la vida hizo con eso        p023      probada
+10   9    lo apuntado, para volver a probar la regla        p026      probada
+11   1    la propuesta de cierre, a la autoridad declarada  p029      probada
+11   9    el hecho y la razón, para proponer el cierre      p028      probada
+12   9    el hecho con su tema, o sin él, para devolverlo   p030      probada
 ```
 
 Y las cuatro líneas que la tabla deja ver, y que el paso 4 va a contar:

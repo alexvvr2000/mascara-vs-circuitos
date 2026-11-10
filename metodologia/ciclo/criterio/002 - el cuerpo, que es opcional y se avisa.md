@@ -3,11 +3,11 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El paso 2 del ciclo final, con sus trece líneas: qué recibe, qué entrega, qué hace, de qué línea del ensayo salen sus ideas, y qué lo tumba.
+El paso 2 del ciclo final, con sus trece líneas: qué recibe, qué entrega, qué hace, de qué línea del ensayo sale, y qué lo tumba.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Todo paso es un paso, del 1 al n, sin cero y sin letras. Y este ya tiene sus ideas: salen del ciclo del ente, línea 92, y cada una lleva la suya.
+> Todo paso es un paso, del 1 al n, sin cero y sin letras. Y este ya tiene sus ideas: sale de [el cuerpo, que es opcional y se avisa](../../../la%20obra/el%20ciclo%20del%20ente.md#L92). Lo que aquí no aparece es porque el ensayo no lo dice, y eso se apunta, no se rellena.
 
 ---
 
@@ -15,7 +15,7 @@ Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
 ```plaintext
 sus ideas          el cuerpo se declara (L94)
-                   el cuerpo sin cuerpo (L78)
+                   el cuerpo sin cuerpo (L76)
 recibe             del paso 1, el ente ya declarado
 entrega            al paso 10, el cuerpo con el que se apunta el sesgo experimentado
 se hace            se declara el modelo con el que corre, y se avisa: el ente no lo detecta

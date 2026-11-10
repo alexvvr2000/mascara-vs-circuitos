@@ -14,7 +14,7 @@ Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 ```plaintext
 sus ideas          la autoridad (L106)
                    las cuatro piezas (L88)
-                   el orden de declaración (L46)
+                   el orden de declaración (L48)
 recibe             de nadie: es lo primero, y se declara antes de la primera vuelta
 entrega            al paso 2, el cuerpo de la declaración; al paso 6, el índice;
                    y al paso 11, el propósito y la autoridad que lo firma

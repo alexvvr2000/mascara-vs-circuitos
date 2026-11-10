@@ -3,11 +3,11 @@
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El paso 10 del ciclo final, con sus trece líneas: qué recibe, qué entrega, qué hace, de qué línea del ensayo salen sus ideas, y qué lo tumba.
+El paso 10 del ciclo final, con sus trece líneas: qué recibe, qué entrega, qué hace, de qué línea del ensayo sale, y qué lo tumba.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Todo paso es un paso, del 1 al n, sin cero y sin letras. Y este ya tiene sus ideas: salen del ciclo del ente, línea 310, y cada una lleva la suya.
+> Todo paso es un paso, del 1 al n, sin cero y sin letras. Y este ya tiene sus ideas: sale de [se corrige, y aprende de qué cuerpo](../../../la%20obra/el%20ciclo%20del%20ente.md#L310). Lo que aquí no aparece es porque el ensayo no lo dice, y eso se apunta, no se rellena.
 
 ---
 

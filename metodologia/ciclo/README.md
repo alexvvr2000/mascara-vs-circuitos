@@ -1,13 +1,9 @@
 <!-- voz: de testigo -->
-# La puerta del ciclo
+# El cuaderno del ciclo
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-El cuaderno del método C, y el punto por donde se empieza: dice qué hay aquí, en qué paso se está, y a qué archivo se va. Lo que no cabe aquí vive en cada paso, y cada paso dice cuál sigue.
-
-Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
-
----
+El ciclo final del ente: una ficha por paso, las conexiones entre pasos, lo que se decidió, de qué ensayo sale cada idea, y lo que cada vuelta tocó.
 
 Se corre:      cada vez que alguien llega a trabajar en el ciclo, o vuelve después de un rato: es lo primero que se lee, y no se lee otro archivo antes. También al terminar un paso, para saber cuál sigue.
 Entra:         lo que ya exista en `ciclo/`; la lápida de la vuelta última, si hay alguna; y el método, en [c - analisis de ciclo.md](../metodos/c%20-%20analisis%20de%20ciclo.md), que dice qué es esto y para qué.
@@ -18,68 +14,40 @@ Y si no encuentra: si el paso que toca no tiene su `readme.md`, no se escribe el
 Falla si:      el tablero no coincide con lo que hay en `criterio/`; o esta puerta manda a un paso cuyo `readme.md` no existe.
 Falsificador:  una puerta que elige el paso por lo que el lector crea recordar, y no por la lápida; un tablero con una cifra escrita a mano; y una puerta que manda a un paso que no está.
 Y qué se pierde si cambia: se pierde el punto de entrada. Sin ella, cada quien abre el archivo que le parece, y los pasos se corren en desorden, que es justo lo que el método dice que no se puede hacer.
-Invoca:        [paso 1 · el ciclo en fichas](paso%201%20%C2%B7%20el%20ciclo%20en%20fichas/readme.md), que es donde se empieza. Y el tablero de abajo lo escribe `python -m scripts --paso`, que lo cuenta de `criterio/`.
+Invoca:        [paso 1 · el ciclo en fichas](paso%201%20%C2%B7%20el%20ciclo%20en%20fichas/readme.md), que es donde se empieza; y [las palabras del tema](las%20palabras%20del%20tema.md), que es cómo se consulta el índice. Y el tablero de abajo lo escribe `python -m scripts --paso`.
 
 ---
 
-## Por dónde se empieza
+
+> Qué es esto, en cuatro renglones: aquí se junta el ciclo que se puede correr, y el lector no abre un archivo de cien pasos: abre el índice, busca el paso, y lee su ficha. El método que dice cómo se escribe cada cosa está en [c - analisis de ciclo.md](../metodos/c%20-%20analisis%20de%20ciclo.md), y aquí no se copia. Este README no crece: dice cómo se lee, y el tablero de abajo; las cifras que cambian vienen de la orden, y no de la mano.
+
+---
+
+## Cómo se lee este cuaderno
 
 ```plaintext
-no hay ninguna vuelta cerrada     se empieza por el paso 1
-hay una lápida                   la lápida dice qué paso quedó abierto: ese
-hay una vuelta sin lápida        la vuelta no cerró: su vuelta.md dice qué falta, y
-                                 se cierra esa antes de abrir otra
+1. esta página         cómo está el ciclo, en el tablero de abajo
+2. criterio/           una ficha por paso, del 001 al N. se busca por su número
+3. conexiones.md       de qué paso a qué paso, y con qué prueba
+4. decisiones.md       lo que se decidió y lo que se dejó ir
+5. folios/             de qué ensayo y de qué línea sale cada idea
+6. vNN/                una vuelta: su registro, su lápida, su grafo y sus pruebas
 ```
 
-Y los cuatro pasos, por su nombre, para saber a dónde se va:
-
-```plaintext
-paso 1 · el ciclo en fichas      desarmar el ciclo del ente en fichas 001…N
-paso 2 · las pruebas             la prueba de cada ficha, rota a propósito
-paso 3 · las conexiones          cada arista, con su script
-paso 4 · las cuentas             las cuentas, la clase de cero, y si converge. es el
-                                 final de la cadena
-```
-
-## La regla que hace que esto funcione en un chat nuevo
-
-Cada corrida se hace en un chat nuevo, porque dos corridas seguidas llenan el contexto y lo llenan con lo de la anterior. Por eso **cada `readme.md` de paso basta solo**: dice qué se hace, con qué se consulta, qué se escribe, dónde, cómo se prueba, y a dónde se va. No hay que abrir el método, ni este archivo más de una vez, ni ninguna conversación anterior.
-
-Y lo que hace que una corrida sobreviva: **lo que no queda en un archivo del repositorio, no ocurrió.** La corrida escribe su `corrida N.md` antes de cerrarse, y si no la escribió, no pasó.
-
-## Las palabras del tema: cómo se consulta el índice del ente
-
-La doctrina de la consulta está en [las palabras del tema](las%20palabras%20del%20tema.md): un tema lleva sus palabras clave, una palabra que se parece a otra no es la otra, y la ambigüedad **no se elige: se separa**. Va aquí y no en la obra, porque de este folder se arma el índice desde cero.
+Y la regla de lectura: **el ciclo final no es un archivo, es una carpeta.** Un paso nuevo es una ficha nueva con su número; una ficha que cambia deja su versión anterior en la vuelta que la cambió. Nunca se reescriben las cien a la vez.
 
 ## Qué hay en cada cosa
 
 ```plaintext
-criterio.md        el índice de los pasos: qué fichas hay, y de qué paso sale cada una
+criterio.md        el índice de las fichas, y la correspondencia con el original
 criterio/          una ficha por paso: 001 - <.md>, 002 - <.md>, … sin huecos
 conexiones.md      las aristas: de qué paso a qué paso, con qué prueba, y en qué estado
 decisiones.md      lo que se decidió con qué se pierde, y lo que se dejó fuera con su razón
 folios/            un archivo por ensayo leído: de qué línea sale cada idea
 vNN/               una vuelta: vuelta.md, lápida.md, grafo.db, grafo.sql y pruebas/
-las palabras del tema.md   cómo se consulta el índice: palabras clave, y la ambigüedad
-paso N · <…>/      el proceso del paso N, y sus corridas: readme.md, corrida 1.md, …
 ```
 
-Y lo que esta puerta no guarda: ni el proceso de un paso, ni la forma de una ficha, ni cómo se cuentan las cuentas. Cada cosa está en su paso, y el método la nombra.
-
-## El índice de los ensayos: lo que los originales ya dijeron
-
-Los once ensayos de `la obra/teoria/` no se tocan nunca. Lo que se consulta es su índice, que se genera de ellos y se rehace cuando cambian:
-
-```plaintext
-dónde está       la obra/teoria/indice ensayos/ensayos.jsonl   un renglón por ensayo
-                 la obra/teoria/indice ensayos/lineas.jsonl    un renglón por línea que
-                                                               afirma algo, con su número
-cómo se usa      python -m scripts --indice-term <p> [<p> …]
-cómo se rehace   python -m scripts --escribe indice
-la cita          <archivo>#L<renglón>. esa es la que va en la ficha y en el folio
-```
-
-Y la regla: **el índice dice dónde está escrito, no qué significa.** Lo que significa lo dice la idea, y su línea. Si la consulta no devuelve el renglón exacto, se abren las pistas, una por una; no se cita de memoria.
+Y lo que este cuaderno no guarda: ni el proceso, ni la forma de una ficha, ni cómo se cuentan las cuentas. Eso está en el método.
 
 ## El tablero
 
@@ -97,8 +65,19 @@ sin recibir              1
                          todo lo que se entrega llega a un paso
 ```
 
-Y lo que falta para la meta, en números: que todas las fichas digan un `vNN/pruebas/pNNN.py`, que la línea de conexiones no tenga un paso suelto, y que una corrida completa termine en el paso 4.
+Y lo que falta para la meta, en números: que todas las fichas digan un `vNN/pruebas/pNNN.py`, y que la línea de conexiones no tenga un solo paso suelto.
+
+## La lápida, y cuándo abre una vuelta
+
+La lápida de `vNN/lápida.md` es el cierre de la vuelta, y es lo primero que se lee. Abre la siguiente **con una nota** cuando la anterior no cerró: cuando su lápida no existe, cuando dice que se cerró y su grafo está vacío, o cuando alguna prueba quedó en FALLA y nadie dijo por qué.
+
+
+Y lo que falta para la meta, en números: que todas las fichas digan un `vNN/pruebas/pNNN.py`, y que la línea de conexiones no tenga un solo paso suelto.
+
+## La lápida, y cuándo abre una vuelta
+
+La lápida de `vNN/lápida.md` es el cierre de la vuelta, y es lo primero que se lee. Abre la siguiente **con una nota** cuando la anterior no cerró: cuando su lápida no existe, cuando dice que se cerró y su grafo está vacío, o cuando alguna prueba quedó en FALLA y nadie dijo por qué.
 
 ---
 
-Falsificador: una puerta que repite una cifra que la orden ya cuenta; una puerta que no dice por dónde se empieza; y una puerta que manda a un paso sin su readme.
+Falsificador: un README que repita una cifra que la orden ya cuenta; una ficha que no está en `criterio.md`; y un cuaderno que presenta el cero como si fuera un logro.

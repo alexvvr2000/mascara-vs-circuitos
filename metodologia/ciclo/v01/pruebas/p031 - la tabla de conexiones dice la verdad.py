@@ -35,9 +35,14 @@ for l in filas:
     partes = l.split()
     de, a = partes[0], partes[1]
     if "probada" in l and "sin probar" not in l:
-        nombre = "p - la arista %s a %s.py" % (de, a)
-        if not any(f.startswith("p0") and (" %s a %s" % (de, a)) in f for f in os.listdir(PRUEBAS)):
-            fallas.append("la arista %s a %s se dice probada, y su .py no existe" % (de, a))
+        # la prueba de la arista: un .py que la nombra con sus dos pasos, o el marcado en
+        # la tabla, que es el que la corrida del paso 3 apunta
+        prefijo = [x for x in partes if x.startswith("p0")]
+        cubre = any((" %s a %s" % (de, a)) in f for f in os.listdir(PRUEBAS))
+        if prefijo:
+            cubre = cubre or any(f.startswith(prefijo[0]) for f in os.listdir(PRUEBAS))
+        if not cubre:
+            fallas.append("la arista %s a %s se dice probada, y su prueba no está" % (de, a))
 
 # 3. lo que la tabla dice de las huérfanas está dicho
 if "huérfana" not in texto:

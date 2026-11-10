@@ -14,38 +14,38 @@ leído el    2026-11-10
 
 ## Lo que aporta
 
-| concepto | dónde | en qué paso | qué se rompe si se quita |
+| concepto | dónde | en qué paso | qué pasa si se quita |
 |---|---|---|---|
-| la autoridad | [`#L106`](../../../la%20obra/el%20ciclo%20del%20ente.md#L106) | 1 | sin ella el ente decide por alguien que no está, y el rastro no tiene a quién responderle |
-| las cuatro piezas | [`#L88`](../../../la%20obra/el%20ciclo%20del%20ente.md#L88) | 1 | sin las cuatro declaradas no hay ente: hay un pedazo que corre |
-| el orden de declaración | [`#L46`](../../../la%20obra/el%20ciclo%20del%20ente.md#L46) | 1 | sin el orden, se pregunta antes de saber con qué cuerpo y hasta dónde se alcanza |
-| el cuerpo se declara | [`#L94`](../../../la%20obra/el%20ciclo%20del%20ente.md#L94) | 2 | sin el cuerpo, los hechos quedan como «no declarado», y se pierde la columna que los separa |
-| el cuerpo sin cuerpo | [`#L78`](../../../la%20obra/el%20ciclo%20del%20ente.md#L78) | 2 | si el cuerpo fuera una pieza del ente, cambiar de modelo sería cambiar de ente |
-| el piso se mide | [`#L78`](../../../la%20obra/el%20ciclo%20del%20ente.md#L78) | 3 | sin el piso medido, el paso 7 promete lo que no alcanza, y no lo sabe |
-| las tres respuestas | [`#L227`](../../../la%20obra/el%20ciclo%20del%20ente.md#L227) | 3 | sin «no se sabe», lo que no se midió se contesta como si se supiera |
-| la pregunta antes de la frase | [`#L153`](../../../la%20obra/el%20ciclo%20del%20ente.md#L153) | 4 | sin la pregunta, se contesta a una frase que no se entendió, y se acierta a veces |
-| el supuesto con su estado | [`#L154`](../../../la%20obra/el%20ciclo%20del%20ente.md#L154) | 4 | sin el supuesto, lo que se supuso se lee como entendimiento |
-| recibe la frase literal | [`#L165`](../../../la%20obra/el%20ciclo%20del%20ente.md#L165) | 5 | sin la frase literal, el registro guarda la versión de quien la interpretó |
-| el origen antes de contestar | [`#L167`](../../../la%20obra/el%20ciclo%20del%20ente.md#L167) | 5 | sin el origen, el relleno y el dato se ven igual |
-| el índice antes de decidir | [`#L191`](../../../la%20obra/el%20ciclo%20del%20ente.md#L191) | 6 | sin consultar antes, se decide y después se busca con qué justificarlo |
-| el hueco no detiene el ciclo | [`#L193`](../../../la%20obra/el%20ciclo%20del%20ente.md#L193) | 6 | si el hueco detuviera, el ente no contestaría lo que sí sabe |
-| la frontera del ente | [`#L130`](../../../la%20obra/el%20ciclo%20del%20ente.md#L130) | 7 | sin la frontera, «el ente se salió» no significa nada: no hay contra qué medirlo |
-| la autocrítica lee el registro | [`#L237`](../../../la%20obra/el%20ciclo%20del%20ente.md#L237) | 7 | sin leer las caídas de esa clase, el ente vuelve a caerse por la misma puerta |
-| la pieza que falta se dice | [`#L252`](../../../la%20obra/el%20ciclo%20del%20ente.md#L252) | 7 | si se agrega en silencio, se trabaja sobre una pieza que nadie autorizó |
-| la salida es la respuesta | [`#L268`](../../../la%20obra/el%20ciclo%20del%20ente.md#L268) | 8 | sin la salida no hay ciclo: el ente decidió y no entregó nada |
-| la frontera va adentro | [`#L274`](../../../la%20obra/el%20ciclo%20del%20ente.md#L274) | 8 | sin la frontera, la respuesta se lee como completa y el hueco se descubre tarde |
-| lo apuntado es lo único que sobrevive | [`#L294`](../../../la%20obra/el%20ciclo%20del%20ente.md#L294) | 9 | sin apuntar, el ciclo no existió para el turno siguiente |
-| el campo vacío no se rellena | [`#L290`](../../../la%20obra/el%20ciclo%20del%20ente.md#L290) | 9 | un campo relleno con una frase disimula lo que falta, y no se puede revisar |
-| un hecho de una fuente sin su fuente no se apunta | [`#L292`](../../../la%20obra/el%20ciclo%20del%20ente.md#L292) | 9 | sin la fuente, un hecho que dice «lo leí» no se puede abrir |
-| el desenlace tiene tres respuestas | [`#L317`](../../../la%20obra/el%20ciclo%20del%20ente.md#L317) | 10 | sin el desenlace, la fricción es un diario, y la regla sigue sin probarse |
-| no se ha probado no es un hueco | [`#L322`](../../../la%20obra/el%20ciclo%20del%20ente.md#L322) | 10 | sin decirlo, lo que no se reintentó se presenta como si aguantara |
-| el sesgo experimentado | [`#L345`](../../../la%20obra/el%20ciclo%20del%20ente.md#L345) | 10 | sin la tabla del cuerpo, el ente no puede decir en qué clase se cae |
-| el ente propone, la autoridad cierra | [`#L383`](../../../la%20obra/el%20ciclo%20del%20ente.md#L383) | 11 | sin la firma, el ente trabaja para sí mismo: se queda sin un para qué |
-| el cierre apunta a la autoridad declarada | [`#L396`](../../../la%20obra/el%20ciclo%20del%20ente.md#L396) | 11 | sin ella, se puede escribir «lo cerró Alejandro» sin que Alejandro lo tocara |
-| la razón del cierre no puede estar vacía | [`#L430`](../../../la%20obra/el%20ciclo%20del%20ente.md#L430) | 11 | sin razón, el cierre es un olvido con fecha, y se lee como decisión |
-| el no no se apaga | [`#L448`](../../../la%20obra/el%20ciclo%20del%20ente.md#L448) | 11 | si el no se puede borrar, no fue un no: fue una pausa |
-| un hecho sin tema pide un tema nuevo | [`#L460`](../../../la%20obra/el%20ciclo%20del%20ente.md#L460) | 12 | sin esa vuelta, el índice no crece con lo que el ente vive, y es un adorno |
-| lo que no supo queda como hueco | [`#L468`](../../../la%20obra/el%20ciclo%20del%20ente.md#L468) | 12 | si se contesta lo que no se sabía, la ignorancia pasa por conocimiento |
+| la autoridad | ../../../la%20obra/el%20ciclo%20del%20ente.md#L106 | 1 | el paso 1 |
+| las cuatro piezas | ../../../la%20obra/el%20ciclo%20del%20ente.md#L66 | 1 | el paso 1 |
+| el orden de declaración | ../../../la%20obra/el%20ciclo%20del%20ente.md#L50 | 1 | el paso 1 |
+| el cuerpo se declara | ../../../la%20obra/el%20ciclo%20del%20ente.md#L94 | 2 | el paso 2 |
+| el cuerpo sin cuerpo | ../../../la%20obra/el%20ciclo%20del%20ente.md#L78 | 2 | el paso 2 |
+| el piso se mide | ../../../la%20obra/el%20ciclo%20del%20ente.md#L78 | 3 | el paso 3 |
+| las tres respuestas | ../../../la%20obra/el%20ciclo%20del%20ente.md#L227 | 3 | el paso 3 |
+| la pregunta antes de la frase | ../../../la%20obra/el%20ciclo%20del%20ente.md#L150 | 4 | el paso 4 |
+| el supuesto con su estado | ../../../la%20obra/el%20ciclo%20del%20ente.md#L150 | 4 | el paso 4 |
+| recibe la frase literal | ../../../la%20obra/el%20ciclo%20del%20ente.md#L165 | 5 | el paso 5 |
+| el origen antes de contestar | ../../../la%20obra/el%20ciclo%20del%20ente.md#L167 | 5 | el paso 5 |
+| el índice antes de decidir | ../../../la%20obra/el%20ciclo%20del%20ente.md#L191 | 6 | el paso 6 |
+| el hueco no detiene el ciclo | ../../../la%20obra/el%20ciclo%20del%20ente.md#L193 | 6 | el paso 6 |
+| la frontera del ente | ../../../la%20obra/el%20ciclo%20del%20ente.md#L204 | 7 | el paso 7 |
+| la autocrítica lee el registro | ../../../la%20obra/el%20ciclo%20del%20ente.md#L237 | 7 | el paso 7 |
+| la pieza que falta se dice | ../../../la%20obra/el%20ciclo%20del%20ente.md#L249 | 7 | el paso 7 |
+| la salida es la respuesta | ../../../la%20obra/el%20ciclo%20del%20ente.md#L268 | 8 | el paso 8 |
+| la frontera va adentro | ../../../la%20obra/el%20ciclo%20del%20ente.md#L274 | 8 | el paso 8 |
+| lo apuntado es lo único que sobrevive | ../../../la%20obra/el%20ciclo%20del%20ente.md#L294 | 9 | el paso 9 |
+| el campo vacío no se rellena | ../../../la%20obra/el%20ciclo%20del%20ente.md#L290 | 9 | el paso 9 |
+| un hecho de una fuente sin su fuente no se apunta | ../../../la%20obra/el%20ciclo%20del%20ente.md#L292 | 9 | el paso 9 |
+| el desenlace tiene tres respuestas | ../../../la%20obra/el%20ciclo%20del%20ente.md#L317 | 10 | el paso 10 |
+| no se ha probado no es un hueco | ../../../la%20obra/el%20ciclo%20del%20ente.md#L322 | 10 | el paso 10 |
+| el sesgo experimentado | ../../../la%20obra/el%20ciclo%20del%20ente.md#L345 | 10 | el paso 10 |
+| el ente propone, la autoridad cierra | ../../../la%20obra/el%20ciclo%20del%20ente.md#L383 | 11 | el paso 11 |
+| el cierre apunta a la autoridad declarada | ../../../la%20obra/el%20ciclo%20del%20ente.md#L397 | 11 | el paso 11 |
+| la razón del cierre no puede estar vacía | ../../../la%20obra/el%20ciclo%20del%20ente.md#L415 | 11 | el paso 11 |
+| el no no se apaga | ../../../la%20obra/el%20ciclo%20del%20ente.md#L429 | 11 | el paso 11 |
+| un hecho sin tema pide un tema nuevo | ../../../la%20obra/el%20ciclo%20del%20ente.md#L460 | 12 | el paso 12 |
+| lo que no supo queda como hueco | ../../../la%20obra/el%20ciclo%20del%20ente.md#L468 | 12 | el paso 12 |
 
 ## La fricción, si chocó con algo
 
