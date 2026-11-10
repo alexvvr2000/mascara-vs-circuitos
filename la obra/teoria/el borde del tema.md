@@ -69,7 +69,7 @@ y si duda     qué se hace cuando la condición no da ni sí ni no.
               Y no es un consejo: es un valor, y son tres
 ```
 
-Y los tres valores de `y si duda`,` porque escribirlo en prosa es no haberlo escrito:
+Y los tres valores de `y si duda`, porque escribirlo en prosa es no haberlo escrito:
 
 ```plaintext
 fuera        el casi no entra. Se rechaza, y se apunta por qué

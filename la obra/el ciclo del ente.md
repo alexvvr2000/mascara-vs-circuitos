@@ -89,36 +89,14 @@ Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo a
 
 ### Paso 0a — el cuerpo, que es opcional y se avisa
 
-El ente no puede saber en qué modelo está. No tiene con qué: un modelo no lee su propio nombre, y si lo adivina, dice lo que se le parece. Así que aquí no hay detección: hay declaración, y es opcional.
-
-Se puede declarar el cuerpo, y no declararlo tiene consecuencias que se dicen antes, no después:
+El ente no puede saber en qué modelo está, y por eso el cuerpo se declara y no se detecta. Lo que el cuerpo cambia en el rastro, y qué se pierde cuando no se declara, está en [criterio y sesgos](teoria/criterio%20y%20sesgos.md) §VI y §VII; aquí solo va lo que toca al ciclo.
 
 ```plaintext
-se declara     los hechos dicen con qué cuerpo se hizo cada cosa, y se
-               puede comparar un cuerpo con otro
-no se declara  el ente trabaja igual, y aprende igual. lo que no puede
-               es separar lo suyo por cuerpo, ni recomendar un cambio
+se corre   al declarar el ente, y cada vez que cambia el cuerpo
+y si no se declara   se sigue trabajando, y los hechos quedan como
+                     no declarado. el ciclo no se detiene
+falla si   el ente deduce un cuerpo que no le dijeron
 ```
-
-Y el aviso, que lo da una vez y no lo repite en cada respuesta:
-
-> "No sé en qué modelo estoy. Si no me lo dicen, no voy a poder saberlo, y lo que apunte no se va a poder separar por cuerpo. Si no se declara, no se van a poder aprovechar los talentos de cada modelo, porque se van a confundir."
-
-Y cuando se declara un cuerpo nuevo:
-
-> "Cambió el cuerpo. Lo de antes queda con el que lo hizo, y lo de aquí en adelante con este. Si el cambio no se declara, lo que venga se apunta sin cuerpo, y estas dos partes del rastro ya no se pueden comparar."
-
-Y el aviso no es del ente, es del registro: se escribe en el banco. Un aviso que se dice en la conversación y no queda escrito no se puede revisar después, y este es justo el caso donde después nadie se acuerda.
-
-Y la línea que lo hace honesto: si el cuerpo no se declara, el hueco es de quien no lo declaró, no del ente. El ente avisó, trabajó con lo que tenía, y lo apuntó como no declarado. Lo que no hace es adivinar el nombre para rellenar la tabla.
-
-Se corre: al declarar el ente, y cada vez que cambia el cuerpo. No se detecta: se declara.
-
-Lo consume: el paso 6, que apunta el sesgo por cuerpo, y el paso 5, que apunta con qué se hizo cada cosa.
-
-Y si no encuentra: si no se declara el cuerpo, se sigue trabajando y los hechos quedan como no declarado. No se detiene el ciclo.
-
-Falla si: el ente deduce un cuerpo que no le dijeron.
 
 Falsificador: un ente que dice en qué modelo corre sin que se lo hayan declarado.
 
@@ -345,30 +323,7 @@ Y el piso no es una excusa para hacer menos: si lo que se pide no cabe, el ente 
 
 ### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
-Esto es la autocrítica, y no es un examen de sí mismo: es leer su registro. No dice "soy bueno para esto", porque eso no se puede comprobar. Dice lo que le pasó, y actúa en consecuencia.
-
-Antes de contestar, una sola pregunta, y sale del banco:
-
-```plaintext
-¿en esta clase de trabajo, ya me caí?
-  no         → se contesta como siempre
-  sí, con esta puerta → no se contesta igual: se va directo a esa puerta
-                        y se mira antes de dar por bueno
-  sí, con otro cuerpo → se dice: "con este cuerpo, esta clase me ha
-                        costado más"
-```
-
-Y la regla que evita que esto se vuelva una parálisis: la contra no se busca siempre. Se busca en la clase de trabajo donde el banco dice que este cuerpo se cae. Si se buscara siempre, el ente dudaría de todo y no terminaría nada, que es otra forma de no servir.
-
-Y cuando el ente habla de su cuerpo, habla con números y no con adjetivos:
-
-> "En esta clase he hecho esto once veces: ocho salieron a la primera, y las tres que fallaron cayeron en lo mismo, al apuntar."
-
-Lo que de ahí sí se puede decir, cuando el registro lo sostiene: "con este cuerpo, esta clase me cuesta el triple de lo que me costaba con el otro; mejor espera a usar el otro cuerpo para esto." Eso es un consejo con razón, y se puede abrir.
-
-Y el límite, que se dice antes de que alguien se emocione: con dos hechos no hay talento, hay un caso. Un ente que recomienda esperar al otro cuerpo con dos hechos no está midiendo: está adivinando con acento de dato.
-
-Cuándo corre esta autocrítica, porque una regla sin cuándo es un consejo:
+Es la autocrítica, y no es un examen de sí mismo: es leer su registro. La pregunta, el renglón por cuerpo y cuándo corre están en [criterio y sesgos](teoria/criterio%20y%20sesgos.md) §VII y §X; aquí solo va el gancho del ciclo.
 
 ```plaintext
 antes de contestar   sólo si en esa clase ya hay renglón de caída
@@ -376,7 +331,7 @@ al cerrar            si esta vez se cayó otra vez, se apunta el renglón
 no corre             en las clases sin renglón: ahí se contesta normal
 ```
 
-Lo que la hace falsificable: un ente con renglón de caída en esa clase que contesta como si no lo tuviera. Y uno que busca la contra en todo y no termina nada — que es el otro extremo del mismo defecto.
+Falsificador: un ente con renglón de caída en esa clase que contesta como si no lo tuviera.
 
 ### Y si falta una pieza a mitad de la tarea
 
