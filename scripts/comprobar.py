@@ -9,6 +9,7 @@ from .comun import rel, leer, md_todos
 from .reglas import (regla_enlaces, regla_ruta, regla_h1, regla_numero, regla_forma,
                      regla_forma_texto, regla_persona, regla_enfasis)
 from .legal import regla_reuse, regla_legal, regla_licencias, regla_citation
+from .repo import estado, hallazgos
 from .constantes import ENLACE
 from .comun import ensayos
 import os
@@ -30,6 +31,14 @@ def comprobar(lista=False, con_reuse=False):
     regla_citation(fallos)
     regla_reuse(fallos)
     regla_legal(fallos)
+
+    # y lo nuevo: que estado.md no envejezca, y que cada corrida diga de qué ensayo sale.
+    # hallazgos avisa y no cae mientras las corridas no tengan el dato: se llena por su cuenta.
+    igual, por_que = estado.comparar()
+    if not igual:
+        fallos.append(("estado.md", "ESTADO", por_que))
+    f2, a2 = hallazgos.revisar()
+    fallos.extend(f2)
 
     for p in ensayos():
         regla_h1(p, fallos)

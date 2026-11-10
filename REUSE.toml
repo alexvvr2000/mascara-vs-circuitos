@@ -61,6 +61,7 @@ path = [
     ".zenodo.json",
     "CITATION.cff",
     "la obra/los papeles/*.json",
+    "scripts/repo/**/*.md",
     "metodologia/**/pruebas/**/*.json",
     "scripts/viejo/**/*.md",
 ]
