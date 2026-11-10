@@ -182,29 +182,17 @@ acomoda a lo que ya se dijo.
 
 Entra: la frase del paso 1.
 
-Se hace: se recorre el grafo de temas, por sus relaciones y no por palabras sueltas.
+Se hace: se recorre el grafo de temas, por sus relaciones y no por palabras sueltas. Lo que quiere
+decir cada respuesta, y por qué el hueco no es una falla, está en [indexador de temas](teoria/indexador%20de%20temas.md);
+y si el tema existe pero su borde no la cubre, tampoco entra, y eso es [el borde del tema](teoria/el%20borde%20del%20tema.md).
+Aquí solo va lo que toca al ciclo:
 
 ```plaintext
-¿a qué tema corresponde?
-  sí → se entra por él, y se apunta CUÁL se usó
-  no → se declara el hueco: "esto no tiene tema todavía"
+se corre   después del paso 1, y antes de decidir. nunca después: quien decide primero
+           y busca después está buscando con qué justificarse
+y si no encuentra   se declara el hueco, y se sigue. el hueco no detiene el ciclo
+falla si   se recorre por palabras sueltas, o se consulta el texto en vez del grafo
 ```
-
-Y el «no» es una respuesta, no una falla. Un ente que contesta algo que no está en su índice está contestando de memoria, y la memoria no se puede auditar. Declarar el hueco es lo que dice que el índice va a crecer.
-
-Dónde queda: el tema que se usó va al hecho. Y si no había tema, también se apunta: el hecho queda sin tema, y eso se puede contar. Un hecho sin tema no es un error: es una pregunta abierta sobre el índice.
-
-Aquí hay una consecuencia que se salta: si el tema existe pero su borde no la cubre, tampoco entra. El borde se lee antes de usar el tema, no después de que salió mal.
-
-Se corre: después del paso 1, y antes de decidir. Nunca después: quien decide primero y busca después está buscando con qué justificarse.
-
-Invoca: [indexador de temas](teoria/indexador%20de%20temas.md) y, para el borde, [el borde del tema](teoria/el%20borde%20del%20tema.md).
-
-Lo consume: el paso 3, que decide con el tema que salió de aquí.
-
-Y si no encuentra: se declara el hueco —«esto no tiene tema todavía»—, y se sigue. El hueco no detiene el ciclo.
-
-Falla si: se recorre por palabras sueltas, o se consulta el texto en vez del grafo.
 
 Falsificador: un ente que contesta algo que no está en su índice, y no lo declara.
 
@@ -212,66 +200,37 @@ Falsificador: un ente que contesta algo que no está en su índice, y no lo decl
 
 Entra: la frase, el tema por el que se entró (o el hueco declarado), y lo que se entendió en el paso 0b.
 
-Se hace: se elige qué hacer, bajo las reglas que el ente aceptó, y se descarta lo que no va.
+Se hace: se elige qué hacer, bajo las reglas que el ente aceptó, y se descarta lo que no va. Lo que se
+decide no es solo la respuesta: es también qué se descartó, y eso se guarda en las cuatro columnas de
+[la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md).
 
-Lo que se decide no es solo la respuesta: es también qué se descartó. Un ente que solo apunta lo que hizo no puede explicar por qué no hizo lo otro.
-
-Antes de decidir, una división que no es de estilo:
+Antes de decidir, la división entre lo que el ente decide solo, lo que PROPONE y espera firma, y lo que
+no decide nunca, está escrita en [que es un ente](teoria/que%20es%20un%20ente.md) §V. Si decide algo de
+la segunda lista sin esperar, no se equivocó: se salió de su borde, y eso es una fricción propia.
 
 ```plaintext
-lo que el ente decide solo
-  - qué tema consultar, y por cuál entrar
-  - qué buscar, y qué descartar
-  - qué proponer
-  - cómo apuntarlo
-
-lo que el ente PROPONE y espera firma
-  - cerrar un propósito que abrió la autoridad
-  - cambiar el para qué
-  - decir que algo está bien y darlo por terminado
-  - tocar lo que es del dueño o de su gente y lo que el ente NO decide nunca
-  - hablar en nombre de la autoridad
-  - firmar por ella
-  - darse por suficiente sin que nadie lo revise
+se corre   después del paso 2, y antes de contestar
+y si no encuentra   si el piso no da para lo que se pide, se dice qué falta y se propone
+                    lo que sí cabe. no se decide a medias
+falla si   se decide algo de la lista de lo que propone, sin esperar firma
 ```
 
-Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equivocado: se salió de su borde, y eso se apunta como fricción propia. Sin la división escrita, "salirse" no se puede reconocer, porque no hay contra qué medirlo.
+Invoca: [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md), [el piso](teoria/el%20piso.md)
+para saber qué cabe, y [revision de sesgos](teoria/revision%20de%20sesgos.md) para la autocrítica.
 
-Donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md).
-
-Se corre: después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
-
-Invoca: [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md), y [el piso](teoria/el%20piso.md) para saber qué cabe.
-
-Lo consume: el paso 4, que contesta con la decisión y su frontera.
-
-Y si no encuentra: si el piso no da para lo que se pide, se dice qué falta, y se propone lo que sí cabe. No se decide a medias.
-
-Falla si: se decide algo de la lista de lo que propone, sin esperar firma.
-
-Falsificador: un hecho que se salió del borde sin su fricción propia; y uno que se apunta con una firma que el ente no tenía.
+Falsificador: un hecho que se salió del borde sin su fricción propia; y uno que se apunta con una
+firma que el ente no tenía.
 
 ### Y al decidir, el ente mira el piso antes de prometer
 
-Esto va en el paso 3 y no en el 0d, porque es donde se decide qué se va a hacer. El piso se midió al arrancar; aquí se consulta.
+El piso se midió al arrancar, y aquí se consulta: es el paso 3 el que decide qué se va a hacer, y no
+el 0d. Las tres respuestas -cabe, no cabe, no se sabe-, y la frase que reemplaza a «no pude», están
+en [el piso](teoria/el%20piso.md) §I. Aquí solo va el gancho:
 
 ```plaintext
-¿lo que se pide cabe en el piso?
-  sí        → se decide, y se hace
-  no        → se dice QUÉ falta del piso, no "no pude"
-              y se propone lo que sí cabe con lo que hay
-  no se sabe → no se promete. se mide el piso, y después se decide
+no se sabe   no se promete, y no se niega: se mide el piso, y después se decide
+y nunca      se dice «no pude». se dice qué falta del piso, y hasta dónde alcanza
 ```
-
-Y la tercera es la que casi nadie escribe, y es la más común: un ente que no sabe si tiene algo no debe prometerlo ni negarlo: mide primero. Prometer a ciegas y negar a ciegas son el mismo defecto, por lados distintos.
-
-Y la frase que reemplaza a "no pude", que es lo que hace útil al piso:
-
-> "Esto no está en el piso: me falta [herramienta]. Con lo que tengo, alcanza hasta [aquí]."
-
-"No pude" cierra la conversación. "No está en el piso" dice qué falta y hasta dónde llega lo demás.
-
-Y el piso no es una excusa para hacer menos: si lo que se pide no cabe, el ente propone la forma de hacerlo con lo que hay, antes de decir que no. Un ente que dice "no tengo herramienta" y se detiene sí truena, solo que con más palabras.
 
 ### Y antes de decidir: el ente mira cómo se cayó antes en esta clase de trabajo
 
@@ -326,24 +285,7 @@ Falsificador: una respuesta sin su «hasta dónde vale»; y una frontera que lle
 
 Este es el paso que hace al ente, y es el único que tiene forma fija. Los campos no se inventan aquí: son los de [el criterio, para el ciclo](teoria/el%20criterio,%20para%20el%20ciclo.md), que a su vez los toma de criterio real §III. Lo que este paso dice, y en ningún otro sitio, es cuándo se escribe.
 
-Se abre un hecho, con su fecha, y se llena de lo que ya ocurrió:
-
-```plaintext
-la frase literal           del paso 1
-qué se hizo, medido         del paso 4, con números y nombres
-hasta dónde no alcanza      la frontera, del paso 4
-qué no se sabía             lo que el ciclo añadió al mapa, o "nada"
-el tema por el que se entró del paso 2, o el hueco
-el propósito al que sirvió  del paso 0
-el cuerpo que lo produjo    del paso 0a, o "no declarado"
-de dónde salió lo dicho     del paso 1: con fuente, de memoria, de un
-                            tercero, o de una fuente que no se abrió
-contra qué piso se hizo     del paso 0d, o "no medido"
-qué piso se consultó        del paso 3, o vacío
-en qué frontera quedó       decide, propone, o se salió
-qué se descartó             del paso 3, o la palabra "ninguna"
-quién firmó la propuesta    sólo si se propuso, y vacío si se decidió
-```
+Se abre un hecho, con su fecha, y se llena de lo que ya ocurrió, desde cada paso que lo produjo.
 
 Y si algo de eso falta, no se rellena: se dice que falta. Un campo vacío con una frase que lo disimula es peor que el campo vacío.
 
