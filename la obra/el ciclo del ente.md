@@ -79,6 +79,8 @@ Y el piso tampoco es una pieza: es una medición. Va después, en el paso 0d, po
 
 Se corre: una sola vez, antes de la primera vuelta. Si falta alguna de las cuatro, no se corre el ciclo.
 
+Invoca: [que es un ente](teoria/que%20es%20un%20ente.md) §II, que son las piezas y no el mapa.
+
 Lo consume: todos los pasos, que asumen que existe la autoridad y que hay índice por dónde entrar.
 
 Y si no encuentra: si falta una pieza, se dice en el acto y no al final: esto es un pedazo, no un ente.
@@ -92,6 +94,7 @@ Falsificador: un ente que corre sin autoridad, o sin propósito, y presenta lo a
 El ente no puede saber en qué modelo está, y por eso el cuerpo se declara y no se detecta. Lo que el cuerpo cambia en el rastro, y qué se pierde cuando no se declara, está en [revision de sesgos](teoria/revision%20de%20sesgos.md); aquí solo va lo que toca al ciclo.
 
 ```plaintext
+Invoca   [revision de sesgos](teoria/revision%20de%20sesgos.md)
 se corre   al declarar el ente, y cada vez que cambia el cuerpo
 y si no se declara   se sigue trabajando, y los hechos quedan como
                      no declarado. el ciclo no se detiene
@@ -141,94 +144,39 @@ Y una autoridad que cambia se apunta como se apunta un modelo: la nueva entra co
 
 ### Paso 0b — entiende antes de recibir
 
-Esto tampoco es un paso del ciclo todavía: es lo que pasa antes de que haya frase, y por eso casi nunca se escribe.
-
-La frase del usuario casi nunca está completa, y lo que no está dicho no es lo que el usuario no sabía decir: es lo que el ente tiene que preguntar.
-
-Se pregunta, y se declara la diferencia antes de hacer nada:
+Es lo que pasa antes de que haya frase, y por eso casi nunca se escribe. La pregunta, lo que NO es
+pregunta, y el supuesto con sus tres estados -`pendiente`, `cumplido`, `roto`- están en
+[empatía](humanidad/empatía.md) y en `criterio real` §III; aquí solo va el gancho:
 
 ```plaintext
-¿qué parte de lo que pides es requisito, y qué parte es costumbre?
-¿qué pasaría si se hiciera distinto?
+Invoca   [empatía](humanidad/empatía.md), por el puente
+se corre   antes del paso 1, y sólo cuando la frase no dice lo que se necesita para empezar
+y si no se puede preguntar   se declara el supuesto, y se sigue. el supuesto roto es una fricción
+falla si   se supone en silencio y se llama entendimiento
 ```
 
-Y la pregunta no es para el que sabe: es para el otro. Quien pide casi nunca sabe cómo está hecho el sistema, y no tiene por qué. Así que la pregunta va en sus palabras, y no en las del oficio:
-
-```plaintext
-y lo que NO es pregunta:
-  "¿qué tipo de dato es?"        ← eso es trasladarle el trabajo
-y lo que SÍ es pregunta:
-  "¿es un número o un nombre?"   ← eso lo puede contestar cualquiera
-```
-
-Y si el otro no puede contestar porque no sabe, esa también es una respuesta: se apunta el supuesto con su estado, y queda a la vista para el que sí sepa. Lo que no se hace es suponer en silencio y llamarlo entendimiento.
-
-Y el resultado no es una frase más: es una decisión apuntada.
-
-Dónde queda: en el hecho, cuando se abra, y en la frontera de la respuesta. Si el ente no puede decir de qué se enteró antes de empezar, lo que produzca va a ser coherente con la letra y ajeno al propósito — que es exactamente el fracaso que la empatía previene.
-
-Y si no hay manera de preguntar (el que pide no está disponible), se declara el supuesto: "entendí X; si era Y, esto no sirve." Un supuesto declarado se puede corregir; uno callado se descubre tarde.
-
-Se corre: antes del paso 1, y sólo cuando la frase del pedido no dice lo que se necesita para empezar.
-
-Lo consume: el paso 5, que apunta el supuesto con su estado, y la respuesta, que lleva la frontera.
-
-Y si no encuentra: si el otro no puede contestar porque no sabe, eso también es una respuesta: se apunta el supuesto, y se sigue.
-
-Falla si: se supone en silencio y se llama entendimiento.
-
-Falsificador: un ente que contesta sin haber dicho qué entendió; y uno que declara haber entendido cuando en realidad supuso, sin apuntar el supuesto con su estado.
-
-Y el supuesto no se queda en el aire: se guarda con el hecho, y tiene estado. Son tres, y el tercero es el que se olvida:
-
-```plaintext
-pendiente  nadie lo confirmó ni lo negó todavía
-cumplido   se confirmó. Se apunta con qué
-roto       no se cumplió. Y entonces es una fricción, no una nota
-```
-
-Un supuesto `pendiente` no es un hueco: es un dato, y de los honestos. El hecho quedó apoyado en algo que nadie confirmó, y eso se puede contar.
-
-Pero un supuesto que nunca se cierra no se queda olvidado: vuelve. Cuando aparece la misma clase de hecho otra vez, el supuesto pendiente se pregunta antes de repetir. Un supuesto que nadie volvió a mirar es peor que ninguno, porque se leyó como si estuviera confirmado.
-
-Y `roto` no se anota en el hecho: se anota en la fricción. Porque el error es del ente, que entendió mal, y no del que pidió. Y la fricción ya tiene su campo: por qué era creíble. "Lo supuse porque no había con quién confirmar" es un porqué perfectamente válido, y de los que más se repiten.
+Falsificador: un ente que contesta sin haber dicho qué entendió; y uno que declara haber
+entendido cuando en realidad supuso, sin apuntar el supuesto con su estado.
 
 ## III. El ciclo, vuelta por vuelta
 
-### Paso 1 — recibe
+### Paso 1 — recibe, y declara el origen
 
-Entra: la frase, tal como se dijo.
+Entra: la frase, tal como se dijo. Se guarda literal: no se parafrasea, y no se arregla la forma.
 
-Se hace: se guarda literal. No se parafrasea, y no se "arregla" la forma.
-
-Y en el mismo paso, antes de contestar nada, se declara de dónde va a salir lo que se diga. Y esto es lo que separa a un ente de un agente:
+Y en el mismo paso, antes de contestar nada, se declara de dónde va a salir lo que se diga. Lo que
+quiere decir cada uno de los cuatro estados, y por qué un ente sin red declara «de memoria», está
+en [el criterio, para el ciclo](teoria/el%20criterio,%20para%20el%20ciclo.md), que lo toma de
+`criterio real` §III. Aquí solo va lo que toca al ciclo:
 
 ```plaintext
-con fuente abierta   la abrió, y el renglón quedó escrito ANTES
-de memoria           lo afirma sin fuente, y LO DICE
-cita de tercero      quien lo reporta no es el original, y se dice
-fuente cerrada       existe y no se puede abrir, y se dice igual
+se corre   en cada vuelta, antes de cualquier otro paso, y una sola vez por frase
+y si no encuentra   si no hay frase que guardar, no hay ciclo: no se sigue
+falla si   se parafrasea la frase, o se declara el origen después de contestar
 ```
 
-> Un ente sin red declara "esto lo afirmo de memoria, y no tengo fuente". Y eso es honesto.
-
-Porque un agente que no tiene la fuente y contesta igual no está mintiendo: está produciendo la forma de una respuesta sin el contenido. Y la forma es tan buena que nadie nota el hueco. Lo peligroso no es la ignorancia: es la ignorancia bien maquetada.
-
-Y la declaración va antes del hecho, no después. Declarada después, se acomoda a lo que ya se dijo, y entonces no es un control: es una justificación.
-
-Dónde queda: en el hecho que se abre, y todavía no se escribe nada: el hecho no existe hasta que termina el ciclo. Lo que se guarda aquí es la frase, y lo que la acompaña es su origen.
-
-"con fuente abierta" no es una intención, es un hecho del piso. Si el piso dice que no hay red, el origen no puede ser "la abrí": tiene que ser "de memoria", y se dice. Un ente sin red que dice "con fuente abierta" no está declarando: está rellenando la declaración.
-
-Se corre: en cada vuelta, antes de cualquier otro paso, y una sola vez por frase.
-
-Lo consume: el paso 5, que apunta el origen junto con el hecho.
-
-Y si no encuentra: si no hay frase que guardar, no hay ciclo: no se sigue.
-
-Falla si: se parafrasea la frase, o se declara el origen después de contestar.
-
-Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se acomoda a lo que ya se dijo.
+Falsificador: un hecho que dice «lo leí» y no deja dónde; y un origen declarado al final, que se
+acomoda a lo que ya se dijo.
 
 ### Paso 2 — consulta el índice (antes de decidir)
 
@@ -249,6 +197,8 @@ Dónde queda: el tema que se usó va al hecho. Y si no había tema, también se 
 Aquí hay una consecuencia que se salta: si el tema existe pero su borde no la cubre, tampoco entra. El borde se lee antes de usar el tema, no después de que salió mal.
 
 Se corre: después del paso 1, y antes de decidir. Nunca después: quien decide primero y busca después está buscando con qué justificarse.
+
+Invoca: [indexador de temas](teoria/indexador%20de%20temas.md) y, para el borde, [el borde del tema](teoria/el%20borde%20del%20tema.md).
 
 Lo consume: el paso 3, que decide con el tema que salió de aquí.
 
@@ -290,6 +240,8 @@ Y si el ente decide algo de la segunda lista sin esperar, no es que se haya equi
 Donde queda lo que decide, con sus cuatro columnas y el descarte, está en [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md).
 
 Se corre: después del paso 2, y antes de contestar. Es aquí donde se consulta el piso y se mira cómo se cayó antes en esa clase de trabajo.
+
+Invoca: [la frontera y el descarte](teoria/la%20frontera%20y%20el%20descarte.md), y [el piso](teoria/el%20piso.md) para saber qué cabe.
 
 Lo consume: el paso 4, que contesta con la decisión y su frontera.
 
@@ -360,6 +312,8 @@ Dónde queda: en la respuesta. Y aquí no se ha escrito nada todavía.
 
 Se corre: inmediatamente después de decidir, y una vez por decisión.
 
+Invoca: nada. Es la salida: la frontera va con la respuesta, y no se apoya en ningún ensayo.
+
 Lo consume: quien preguntó, y el paso 5, que lo apunta.
 
 Y si no encuentra: si no hay decisión que producir, no se contesta: se declara que no se llegó a decidir, y por qué.
@@ -401,6 +355,8 @@ No se apunta mientras se trabaja: se apunta al final. Un ciclo largo puede perde
 
 Se corre: al final del ciclo, y no durante. Un ciclo largo puede perder lo del medio, y eso se acepta.
 
+Invoca: [el criterio, para el ciclo](teoria/el%20criterio,%20para%20el%20ciclo.md), que son los campos.
+
 Lo consume: el paso 6, y la autoridad cuando lee el registro.
 
 Y si no encuentra: si algo no se apuntó, se dice que no se apuntó. El campo vacío no se rellena.
@@ -432,6 +388,9 @@ Y el paso 6 depende de que algo vuelva a pasar. Un ente que nunca vuelve a inten
 Se corre: cada vez que la regla que se cayó vuelve a intentarse, y nunca antes.
 
 Lo consume: el sesgo experimentado del cuerpo, y la autoridad cuando decide si la regla sigue en pie.
+
+Invoca: [destilar el criterio](teoria/destilar%20el%20criterio.md), que es de donde sale la regla,
+y [revision de sesgos](teoria/revision%20de%20sesgos.md), que es donde se apunta la puerta.
 
 Y si no encuentra: si no se ha vuelto a intentar, el desenlace dice «no se ha probado». Eso no es un hueco: es el dato más honesto del registro.
 
@@ -471,35 +430,9 @@ Hay un caso que hay que decir porque es el más común: el ente no sabe dónde e
 
 ### Y por qué el ciclo se corre entero, y no por pedazos
 
-La tentación, cuando lo que se prueba es un paso, es levantar ese paso y dejar los demás de adorno. Se ahorra tiempo, y se pierde la prueba.
-
-```plaintext
-lo que se hace     "esto es sobre el piso, así que levanto la tabla del
-                   piso y lo demás lo pongo de relleno"
-
-lo que eso pierde  el paso que va ANTES del que se prueba
-                   el paso que va DESPUÉS
-                   y las costuras entre ellos
-```
-
-Y las costuras son justo lo que más se rompe. Un paso funciona solo y deja de funcionar cuando el anterior le manda algo distinto, o cuando el siguiente le pide lo que no tiene.
-
-Una corrida recortada no puede encontrar el paso que falta, porque recortar es decidir de antemano dónde está el hueco. Y si ya se sabe dónde está, no hace falta buscarlo.
-
-Así que la regla no tiene excepción:
-
-> El ciclo se corre entero: del primer paso al último, sin saltarse ninguno y sin recortar el ente.
-
-Lo que eso obliga, en concreto:
-
-```plaintext
-1. se levanta el ente completo desde el primer archivo
-2. se corre de punta a punta: crear, medir, abrir, usar, cerrar
-3. ningún paso se salta "porque no es lo que se está probando"
-4. y lo que no se puede construir sin inventar, se apunta ahí mismo
-```
-
-Y la consecuencia sobre cuántas corridas hacen falta: una corrida entera cubre todos los pasos a la vez, no uno. Por eso hay menos corridas de las que parecerían, y por eso cada una enseña más.
+La regla y su razón están en [escritura en procesos](teoria/escritura%20en%20procesos.md) §X,
+donde se prueba: una corrida recortada decide de antemano dónde está el hueco, y si ya se
+sabe dónde está, no hace falta buscarlo.
 
 ---
 
