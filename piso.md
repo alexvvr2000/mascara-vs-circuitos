@@ -46,6 +46,10 @@
     criterio.md
     decisiones.md
     folios/  (0 directorios)
+    paso 1 · el ciclo en fichas/  (0 directorios)
+    paso 2 · las pruebas/  (0 directorios)
+    paso 3 · las conexiones/  (0 directorios)
+    paso 4 · las cuentas/  (0 directorios)
     v01/  (1 directorios)
   metodologia/corridas/
     README.md
@@ -95,7 +99,7 @@
   scripts/__main__.py
 
 ## Lo que enlaza, y lo que no
-  312 enlaces, 0 rotos
+  339 enlaces, 0 rotos
 
 Y lo que falta de la fila, cuando lo haya, se dice en el cierre del turno y no aquí.
 ```

@@ -20,6 +20,7 @@ Y si no encuentra: si el ente se levantó sin inventar nada, se apunta así, y n
 Falla si:      el que corre leyó el ensayo mientras corría; se reporta un hueco sin decir en qué renglón está; o la corrida se recortó para que saliera limpia.
 Falsificador:  un hueco que nadie puede reproducir; una corrida que se levantó sólo con el paso que se probaba; y un método que cierra por número de huecos encontrados y no por uso.
 Y qué se pierde si cambia: se pierde la única prueba que tiene el ensayo de estar completo; el B prueba lo que está escrito y no puede ver lo que falta.
+Invoca:        [b - mutaciones.md](b%20-%20mutaciones.md), que prueba con dientes lo que este método encontró; y el ensayo del ciclo, cuando el hueco es de un paso.
 
 ---
 

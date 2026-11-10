@@ -22,6 +22,7 @@ Y si no encuentra: si un párrafo no se deja reducir a una oración, se apunta c
 Falla si:      se parte un párrafo en dos bloques que dicen lo mismo; se pierde una idea que estaba en la prosa; o el bloque copia el párrafo entero en vez de decir su tesis.
 Falsificador:  un ensayo partido en bloques con menos ideas que párrafos afirmativos; y un bloque que, al quitarlo, no deja roto ningún paso del resumen.
 Y qué se pierde si cambia: se pierde la lectura seguida, que es lo que hace que un ensayo se entienda al leerlo. El detalle de por qué el formato vale la pena está en [la forma del bloque](la%20forma%20del%20bloque.md).
+Invoca:        [la forma del bloque](la%20forma%20del%20bloque.md), que es la forma a la que llegan los dos puntos; y [c - analisis de ciclo.md](c%20-%20analisis%20de%20ciclo.md), que junta las ideas en pasos.
 
 ## Punto inicial 2 · un ensayo con forma
 

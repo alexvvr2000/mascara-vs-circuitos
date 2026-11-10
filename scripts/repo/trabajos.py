@@ -294,7 +294,8 @@ def trabajo_paso(t, salida=None):
     c = tablero()
     escribir("## El tablero")
     escribir("")
-    escribir("Cada cifra de aquí la cuenta la orden, y no la mano: `python -m scripts --paso` la saca del folder `criterio/`. Si el README dice otra cosa, el build se cae.")
+    escribir("Cada cifra de aquí la cuenta la orden, y no la mano: `python -m scripts --paso` la "
+             "saca de `criterio/` y de las conexiones. Si la puerta dice otra cosa, el build se cae.")
     escribir("")
     escribir("```plaintext")
     escribir("pasos                    %d" % c["pasos"])

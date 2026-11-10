@@ -1,92 +1,59 @@
 <!-- voz: de testigo -->
-# Vuelta 001 · el desarme del ciclo del ente
+# Vuelta 001 · el ciclo en fichas
 
 <!-- negritas: revisadas. lo que queda en negrita es lo que tiene que saltar -->
 
-La vuelta que desarma `la obra/el ciclo del ente.md` en pasos numerados del 1 al n, y deja el ciclo final con sus pasos, su primer folio, y su lápida.
+El registro de esta vuelta: de dónde se partió, qué se escribió, qué falta, y en qué paso quedó. Es lo primero que se lee al volver, después de la puerta.
 
 Alejandro Valenzuela Rivera · el ente. Abierto el 2026-11-10.
 
-> Esta vuelta todavía no cierra: falta su lápida. Lo que le falta se apunta aquí, con nombre, y la vuelta siguiente abre con una nota.
+> Esta vuelta no cerró: falta lo que dice su lápida. Lo que aquí se apunta es lo que sí se hizo, con nombre, y lo que falta, también con nombre.
 
 ---
 
-## Qué es esta vuelta, en una línea
+## De dónde se partió, y qué se hizo
 
-El desarme: lo que el ciclo del ente decía en tres pendientes, un paso numerado sin letras y siete tramos que no estaban numerados, y en tres ganchos, se convierte en pasos del 1 al n.
-
-## Lo que se hace
+Se partió de `la obra/el ciclo del ente.md`, leído entero, y de su mapa. Se empezó el paso 1, que es el que desarma el ciclo en fichas:
 
 ```plaintext
-1.  leer el cuaderno         la lápida de la vuelta anterior: no hay, es la primera
-2.  abrir la vuelta          esta carpeta, y su grafo desde cero
-3.  leer el ciclo del ente   entero, y sin mirar vueltas anteriores
-4.  desarmarlo en pasos      los diez del plan de abajo, del 1 al 10, sin 0 y sin letras
-5.  escribir el folio        el ensayo del ciclo, con sus cuatro columnas
-6.  escribir la fricción     si el folio choca con algo ya escrito
-7.  escribir o corregir      los pasos en `ciclo final.md`, y sus conexiones
-8.  escribir su prueba       en `pruebas/`, desde cero
-9.  correrla, y apuntar      PASS o FALLA, y la razón
-10. cerrar                   la lápida con las cuentas, y la clase de cero de cada una
+hecho        las doce fichas del 001 al 012, con sus trece líneas
+hecho        el índice `criterio.md`, con su correspondencia con el original
+hecho        la puerta, y los cuatro procesos de paso
+hecho        `p001` y `p002`, que prueban la carpeta y las fichas
 ```
 
-## El plan del desarme: doce pasos, y catorce tramos
-
-Doce pasos, del 1 al 12, ya escritos en `ciclo final.md`. Los siete del original, el piso
-que estaba en su mapa, la autocrítica que estaba dentro de decidir, el sesgo que estaba
-detrás de apuntar, y el cierre y la vuelta al índice que no estaban numerados.
-
-Los pasos del original, que ahora se numeran del 1 al n, y con su nombre propio:
+## Qué falta, con nombre
 
 ```plaintext
-original        paso     qué es
-0               1        quién manda y qué sabe
-0a              2        el cuerpo, que se elabora y se avisa
-0d              3        el piso, que se mide antes de prometer
-0b              4        entiende antes de recibir
-1               5        recibe, y declara el origen
-2               6        consulta el índice, antes de decidir
-3               7        decide, y aquí está la frontera de la autoridad
-4               8        contesta
-5               9        apunta
-6               10       se corrige, y se aprende de qué cuerpo
+las ideas de cada ficha      todas dicen «falta» en `sus ideas`: falta leer el ensayo
+                             del ciclo, y sus once ensayos, con la línea exacta
+las pruebas de cada ficha    todas dicen «falta» en `prueba`: eso es el paso 2
+las conexiones               `conexiones.md` dice «ninguna todavía», y las fichas ya
+                             nombran sus recibe y entrega: eso es el paso 3
+las cuentas                  no hay ninguna vuelta con su tabla, y eso es el paso 4
 ```
-
-Y los cuatro tramos que no tenían número: se reparten en los pasos que los contienen,
-porque un tramo no es un paso aparte cuando no tiene su propio recibe y entrega:
-
-```plaintext
-la pieza que falta           dentro del paso 7, que decide con lo que hay
-la autocrítica               dentro del paso 7, y sólo cuando ya hay una caída de esa clase
-el sesgo experimentado       dentro del paso 10, que es de donde sale
-el cierre, y la vuelta        son los pasos 11 y 12, porque sí tienen su propio
-al índice                    recibe y su propio entrega
-```
-
-Y la numeración que se dice una vez: la del original y la del final. Ningún paso del final dice «se ve en»; cada uno nombra sus ideas, y su prueba.
-
-## Lo que falta en esta vuelta
-
-```plaintext
-hecho: las doce fichas        en `ciclo final.md`, del 1 al 12, con sus trece líneas
-lo que falta: sus ideas      el folio 0001, con la línea de cada idea, y su `en`
-sus pruebas                   en `pruebas/`, una por paso, y rompiéndose a propósito
-las conexiones                el `recibe` y el `entrega` de cada paso, ya nombrados, y
-                              su `.py` en verde
-el folio 0001                 el ensayo del ciclo, con sus cuatro columnas
-la lápida                     y la tabla de las cuentas
-```
-
-Y mientras falten, esta vuelta no cierra: se dice con nombre en su lápida, y la siguiente abre con una nota.
 
 ## Las cuentas
 
 ```plaintext
-pasos                         12, escritos, y todas las fichas con sus trece líneas
-pasos sin idea                12: ninguno tiene todavía su idea del folio 0001
-pasos sin prueba              12: ninguna prueba existe todavía
+pasos                         12 fichas escritas
+pasos sin idea                12: ninguna dice todavía de qué línea sale su idea
+pasos sin prueba              12: ninguna tiene todavía su .py
 aristas exigidas              las que nombran los doce pasos, y ninguna probada
-ideas sin paso                no se puede contar: no hay folio
 la clase de cero              de cuaderno vacío, menos la cuenta de pasos, que ya tiene
                               su número porque tiene de dónde contarse
 ```
+
+## En qué paso quedó
+
+```plaintext
+el paso en que quedó           el 1, a medias: faltan las ideas de cada ficha
+qué sigue                     terminar el paso 1 y pasar al 2. lo dice su proceso:
+                              `metodologia/ciclo/paso 1 · el ciclo en fichas/readme.md`
+```
+
+Y el paso 4 de esta vuelta no se ha corrido: no hay cifras que leer de una lápida, y lo que hay es lo que dice esta página.
+
+## De dónde salió esto
+
+Del reparto del trabajo y del desarme del ciclo del ente; la tabla de fuentes está en [las fuentes](../../../la%20obra/los%20papeles/fuentes.md).

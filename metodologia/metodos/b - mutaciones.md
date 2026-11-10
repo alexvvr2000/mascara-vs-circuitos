@@ -18,6 +18,7 @@ Y si no encuentra: si la regla no se puede escribir al revés, no se inventa un 
 Falla si:      el mutante muere porque la prueba estaba rota; se cambia la tarea después de ver la salida; o el mutante sobrevive y no se apunta.
 Falsificador:  un mutante vivo que no está en el índice; una regla presentada como probada sin su mutante; y una corrida que muere contra un ente bueno que también falla.
 Y qué se pierde si cambia: se pierde la única forma de saber si una regla escrita quiere decir algo: sin el mutante, un ensayo se puede leer entero y no probar ninguna de sus frases.
+Invoca:        [a - encontrar huecos.md](a%20-%20encontrar%20huecos.md), que encuentra lo que ningún mutante puede ver; y [c - analisis de ciclo.md](c%20-%20analisis%20de%20ciclo.md), donde vive la segunda rama, la del ciclo del ente.
 
 ---
 

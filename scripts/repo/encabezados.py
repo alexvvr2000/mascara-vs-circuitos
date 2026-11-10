@@ -59,20 +59,28 @@ def revisar():
     Y qué cuenta como proceso: el archivo que trae nueve campos o más, o el que está
     dentro de un método. Un ensayo que usa «Se corre» en un gancho, y no en un
     proceso, no se juzga aquí: su forma la juzga la regla FORMA, que es otra.
+
+    Y la regla que cambió: en `metodologia/`, los diez renglones son obligatorios, y el
+    `Invoca` también. Antes faltaba el `Invoca` en casi todo, y el build sólo avisaba:
+    la cadena de pasos del ciclo depende de ese renglón, y un aviso no rompe una cadena.
+    Lo que lo hace romperse es un build que se cae.
     """
     fallos, avisos = [], []
     for p, campos in procesos():
-        es_proceso = len(campos) >= 9 or "metodos/" in rel(p) or "analisis de ciclo" in rel(p)
+        esta_en_metodologia = "metodologia/" in rel(p)
+        es_proceso = len(campos) >= 9 or "metodos/" in rel(p) or esta_en_metodologia
         if not es_proceso:
             continue
         donde = rel(p)
-        for campo in OBLIGATORIOS:
+        obligatorios = CAMPOS if esta_en_metodologia else OBLIGATORIOS
+        for campo in obligatorios:
             if campo not in campos or not campos[campo]["texto"]:
                 fallos.append((donde, "PROCESO", "sin «%s»" % campo))
-        if "Falsificador" not in campos:
-            avisos.append((donde, "PROCESO", "sin falsificador: no dice qué lo tumba"))
-        if "Invoca" not in campos:
-            avisos.append((donde, "PROCESO", "sin «Invoca»: no se sabe si llama a otro"))
+        if not esta_en_metodologia:
+            if "Falsificador" not in campos:
+                avisos.append((donde, "PROCESO", "sin falsificador: no dice qué lo tumba"))
+            if "Invoca" not in campos:
+                avisos.append((donde, "PROCESO", "sin «Invoca»: no se sabe si llama a otro"))
     return fallos, avisos
 
 

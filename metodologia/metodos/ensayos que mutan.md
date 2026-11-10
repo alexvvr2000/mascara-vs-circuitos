@@ -20,6 +20,7 @@ Y si no encuentra: si la idea no cabe en ninguno, se propone un ensayo nuevo con
 Falla si:      hay un archivo por idea; un ensayo tiene menos de dos ideas; un ensayo cambia de tema para meter una idea que no le tocaba; o se abre un ensayo para una idea sola.
 Falsificador:  un archivo de `teoria/` con un solo bloque y sin encabezado propio; un ensayo que nombra en su título algo que ya no contiene; y una idea que aparece en dos ensayos.
 Y qué se pierde si cambia: se pierde la primera regla que hizo legible el árbol —un ensayo que se puede leer de arriba abajo sin salir de él— y se vuelve al archivo suelto, que es el que se pierde de vista.
+Invoca:        [c - analisis de ciclo.md](c%20-%20analisis%20de%20ciclo.md), que no puede dar un paso por escrito sin que su idea tenga ensayo; y [los dos puntos iniciales](los%20dos%20puntos%20iniciales.md), que es cómo se toma un ensayo.
 
 ---
 
