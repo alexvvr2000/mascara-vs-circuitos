@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Conviene haber leído [criterio real](../humanidad/criterio%20real.md), que dice qué se guarda, y [el ciclo del ente](../el%20ciclo%20del%20ente.md), que dice cuándo. Si no, basta con esto: de un error grande sale una regla chica.
+> Antes de leer. Conviene haber leído [criterio real](criterio%20real.md), que dice qué se guarda, y [el ciclo del ente](../el%20ciclo%20del%20ente.md), que dice cuándo. Si no, basta con esto: de un error grande sale una regla chica.
 >
 > Al terminar sabrás por qué una fricción no es criterio hasta que deja una regla, y qué impide que esa regla sea una fricción más larga.
 

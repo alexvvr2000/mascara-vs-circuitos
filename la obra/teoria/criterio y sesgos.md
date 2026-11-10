@@ -7,7 +7,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Necesita [criterio real](../humanidad/criterio%20real.md), y ayuda [que es un ente](que%20es%20un%20ente.md).
+> Antes de leer. Necesita [criterio real](criterio%20real.md), y ayuda [que es un ente](que%20es%20un%20ente.md).
 >
 > Al terminar sabrás separar lo que el ente sostuvo de lo que el modelo trajo, y por qué un ente con varios cuerpos sigue siendo uno.
 

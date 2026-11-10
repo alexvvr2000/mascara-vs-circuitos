@@ -9,7 +9,7 @@ Alejandro Valenzuela Rivera.
 
 ---
 
-> Antes de leer. Necesita [criterio real](../humanidad/criterio%20real.md), que dice qué se guarda, y [destilar el criterio](destilar%20el%20criterio.md), que dice cuándo deja regla.
+> Antes de leer. Necesita [criterio real](criterio%20real.md), que dice qué se guarda, y [destilar el criterio](destilar%20el%20criterio.md), que dice cuándo deja regla.
 >
 > Al terminar sabrás qué tres pasos del ciclo se apoyan en el criterio, y por qué este ensayo no sostiene nada por sí mismo.
 
@@ -21,7 +21,7 @@ Alejandro Valenzuela Rivera.
 
 Es un puente, y conviene decirlo antes de que alguien lo lea como un ensayo más.
 
-Lo que afirma sobre el criterio está en [criterio real](../humanidad/criterio%20real.md). Lo que afirma sobre cuándo una fricción deja regla está en [destilar el criterio](destilar%20el%20criterio.md). Aquí no hay una tercera afirmación: hay la lista de qué toma el ciclo de cada uno, y en qué paso.
+Lo que afirma sobre el criterio está en [criterio real](criterio%20real.md). Lo que afirma sobre cuándo una fricción deja regla está en [destilar el criterio](destilar%20el%20criterio.md). Aquí no hay una tercera afirmación: hay la lista de qué toma el ciclo de cada uno, y en qué paso.
 
 Y la regla que lo mantiene honesto:
 

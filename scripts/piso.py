@@ -48,7 +48,7 @@ def main():
     print()
 
     print("## Los ensayos, por carpeta, y su título")
-    for carpeta in ("funcionamiento ente", "humanidad"):
+    for carpeta in ("funcionamiento ente", "humanidad", "teoria"):
         print()
         print("### la obra/%s/" % carpeta)
         for f, t in titulos(carpeta):

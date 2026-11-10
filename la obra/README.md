@@ -105,7 +105,7 @@ Qué la tumba: una herramienta enormemente capaz que, ante algo que no sabe, con
 
 ### 3. El criterio no se recuerda: se arma, y su pieza que falta es el desenlace
 
-Vive en: [`criterio real`](../humanidad/criterio real.md).
+Vive en: [`criterio real`](../teoria/criterio real.md).
 Qué sostiene: tener criterio no es tener convicciones firmes, sino saber qué de lo sostenido se cayó y qué se hizo después. De ahí salen tres registros: el hecho, la fricción y el desenlace.
 Qué lo sostiene: la distinción es operativa, no filosófica. Una posición sin su contra no es criterio, es lo que se cree; y un registro de aciertos no es criterio, es un archivo de buena reputación.
 Qué la tumba: una posición que se sostiene sin haber apuntado nunca qué la contradice, y que igual funciona como criterio. Si eso existe, la fricción no era necesaria.
