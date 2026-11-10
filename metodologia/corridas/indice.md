@@ -68,8 +68,8 @@ Una línea por corrida, y nada más. El detalle está en su carpeta.
 ```plaintext
 las del A      18
 las del B      13
-las del C      4
-total          35
+las del C      3
+total          34
 ```
 
 Y la columna «de qué ensayo sale» está en blanco porque **todavía no se llenó**: ninguna corrida dice hoy de qué ensayo sale. Es el trabajo del `hallazgos` del órgano, y se llena una corrida por vez.
