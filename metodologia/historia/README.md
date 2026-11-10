@@ -17,7 +17,7 @@
 
 ## Los diez, en el orden en que se leen
 
-> Y un anexo, que no es un cuaderno: [11 · lo que sigue vivo dentro de la historia](11%20-%20lo%20sigue%20vivo%20dentro%20de%20la%20historia.md), que dice qué de estos cuadernos todavía está vigente y dónde vive hoy.
+> Y un anexo, que no es un cuaderno: [11 · lo que sigue vivo dentro de la historia](11%20-%20lo%20que%20sigue%20vivo%20dentro%20de%20la%20historia.md), que dice qué de estos cuadernos todavía está vigente y dónde vive hoy.
 
 **Y el orden es de la historia, no de los archivos: se empezó creyendo una cosa, y cada cuaderno deja abierto el siguiente.**
 
