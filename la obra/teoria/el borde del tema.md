@@ -222,6 +222,32 @@ Eso no es un hueco del ciclo: es un hueco de cómo se llama. Y se dice aquí por
 La salida es una de dos, y las dos valen: pasar los campos por un archivo, o decir en la puerta cómo se escapan en la terminal donde se corre. Lo que no vale es dejar que el ente reciba campos rotos y se caiga sin decir por qué: un error que no se explica se lee como un error del esquema.
 
 
+### Las cinco formas de escribir un borde que no se puede correr
+
+Un borde escrito puede verse bien y no servir. Estas son las cinco formas, y las cinco se vieron al levantar entes de verdad.
+
+1. Lo que se nombra no existe. Se dice «la pieza», «el borde», «el casi», y no hay forma de ninguna. El lector lo rellena con lo que suena bien, y el que escribe queda tranquilo.
+
+*Se reconoce al implementar: la pieza se llama así en el texto y no en el código.*
+
+2. El campo que se guarda y no se usa. Se define un campo, se le pone su regla, y el flujo no lo consulta nunca. Es decoración, y se ve igual de bien que algo que sirve.
+
+*Se reconoce cuando el campo se puede cargar con cualquier cosa y nada cambia.*
+
+3. El caso previsto que nunca ocurre. Se escribe «y si duda», y el borde no puede llegar a dudar. El caso existe en el texto y no en la ejecución.
+
+*Se reconoce cuando, buscando el caso, no aparece nunca.*
+
+4. La lista que no se puede guardar. Se nombran tres o cuatro valores de un campo, y la forma de guardarlo sólo admite dos. El valor que sobra es justo el que más importa, porque es el que dice que algo falta.
+
+*Se reconoce cuando el ensayo dice «o vacío» y el registro no admite vacío.*
+
+Y la quinta, que no es de un campo sino de todos: el valor que se escribe a la manera de cada quien. Un «ninguna» que admite cinco ortografías es un valor que no se puede contar, y el borde que depende de él no cierra nada. Y un «renombrar» que cada quien escribe distinto no es un caso del medio: es un caso que no se puede distinguir de otro.
+
+*Se reconoce cuando la cuenta depende de cómo se escribió y no de lo que significa.*
+
+Y el límite que estas cinco comparten: ninguna de ellas tumba una prueba. Las cinco dejan pasar el caso que se estaba probando, y por eso se descubren buscando el caso que rompe, no corriendo el que funciona.
+
 ### Quién evalúa, que es el dato que nadie escribe
 
 Aquí está la trampa que no se ve leyendo el ensayo, y que sí aparece cuando el ciclo se corre.
