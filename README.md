@@ -222,7 +222,7 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
        metodo.md              el metodo entero: la regla, las tareas, el
                               contrato, los bancos, las fuentes
        forma.md               la forma de la asercion, y las cuatro reglas
-                              que comprueba scripts/build.py
+                              que comprueba scripts/
        corridas.md            en que quedo cada mutante. el unico conteo
        mutantes/              un script por familia, y sus bancos en dumps
      historia/              el registro, en el orden en que se lee, y los
@@ -239,7 +239,7 @@ Lo que puede estar equivocado, no solo lo que falta, está en [Los límites, con
 y en la raíz
   Attribution.md          quién escribió qué, y quién revisó qué
   estado.md               el piso: qué hay, dónde está y qué falta, generado
-                          con `python scripts/build.py --piso`
+                          con `python -m scripts --piso`
   build.py, en scripts/   las cuatro reglas, y el comando que las corre
 ```
 

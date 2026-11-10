@@ -35,8 +35,8 @@ Lo que está escrito dentro de los `.py` —los comentarios y los docstrings— 
 Lo de arriba no se cumple a mano. Hay dos órdenes y una herramienta, y la orden es esta:
 
 ```
-python scripts/build.py             las reglas de siempre, y dos nuevas: REUSE y legalidad
-python scripts/build.py --reuse     lo mismo, y además corre euse lint de verdad
+python -m scripts             las reglas de siempre, y dos nuevas: REUSE y legalidad
+python -m scripts --reuse     lo mismo, y además corre euse lint de verdad
 ```
 
 Y lo que comprueba la orden, sin la herramienta:

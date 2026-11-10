@@ -1,19 +1,22 @@
-# Este archivo lo escribe scripts/citation.py: no se edita a mano.
-# Los números se cuentan de las carpetas. La fecha es la del corte, y el commit
-# no se cita: en un repo de un solo commit no hay historia que citar.
+# Esto dice qué es el trabajo, y de quién es. No dice cuánto hay adentro: los
+# números los cuenta el repositorio, y aquí envejecían a la primera corrida.
+# Si falta un campo que esquema exige y no se puede escribir aquí, el build lo dice.
 cff-version: 1.2.0
 message: "If you use this work, cite it using the metadata from this file."
 title: "Máscara vs Circuitos: alineación de entes"
+# la fecha la exige el esquema. va arriba, y no en la referencia: es la del
+# trabajo que se cita, y el trabajo se cita por el repositorio, que es su historia
+date-released: "2026-11-10"
 abstract: >-
   Una propuesta metodológica sobre cómo una persona y una IA pueden dejar un
-  rastro que se pueda juzgar. La obra tiene 14 ensayos, en dos carpetas: la primera define qué es un ente,
-  cuál es el ciclo que corre paso por paso, por qué se escribe en procesos y no
-  en prosa, cómo se arma el criterio con el hecho, la fricción y el desenlace,
-  dónde vive lo que un ente sabe, y qué es del ente y qué del cuerpo que lo
-  corre. La segunda trata lo que no es maquinaria: la empatía como instrumento
-  antes de pedirle algo a otro, la pregunta por la conciencia sin afirmar que
-  exista ni que no, y cómo se sabe si un ente está haciendo trabajo de verdad.
-  Sostienen el método 18 corridas y 14 familias de mutante, y las hizo el autor: no hay todavía
+  rastro que se pueda juzgar. Los ensayos tratan qué es un ente, cuál es el
+  ciclo que corre paso por paso, por qué se escribe en procesos y no en prosa,
+  cómo se arma el criterio con el hecho, la fricción y el desenlace, dónde vive
+  lo que un ente sabe, y qué es del ente y qué del cuerpo que lo corre. Y tratan
+  lo que no es maquinaria: la empatía como instrumento antes de pedirle algo a
+  otro, la pregunta por la conciencia sin afirmar que exista ni que no, y cómo
+  se sabe si un ente está haciendo trabajo de verdad. El método lo sostiene una
+  metodología con sus corridas y sus mutantes, y la hizo el autor: todavía no hay
   una corrida hecha por alguien más. Cada afirmación trae su falsificador, y lo
   que no se probó se dice que no se probó. La declaración de uso de IA está en
   Attribution.md.
@@ -22,13 +25,10 @@ authors:
   - family-names: "Valenzuela Rivera"
     given-names: "Alejandro"
     email: "alejandrovalenzuela051@gmail.com"
-version: "1.0.0"
-date-released: "2026-11-09"
 license: "CC-BY-4.0"
 license-url: "https://github.com/alexvvr2000/mascara-vs-circuitos/blob/main/LICENSES.md"
 repository-code: "https://github.com/alexvvr2000/mascara-vs-circuitos"
 url: "https://github.com/alexvvr2000/mascara-vs-circuitos"
-status: "initial"
 keywords:
   - "inteligencia artificial"
   - "colaboración humano-IA"

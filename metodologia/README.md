@@ -45,7 +45,7 @@ B · ver si se sostiene    se rompe una regla a propósito, y se mira
   metodo.md               el método entero: la regla, las tareas, el contrato,
                           los bancos, y de dónde sale cada pieza
   forma.md                la forma de la aserción, y las cuatro reglas que
-                          comprueba scripts/build.py
+                          comprueba scripts/__main__.py
   corridas.md             en qué quedó cada mutante: el único conteo
   mutantes/               el código de cada uno, y sus bancos en dumps
 ```
@@ -74,7 +74,7 @@ Porque una resta que se puede rehacer no envejece; una cifra escrita sí.
 
 ## Y el órgano que deja crecer la obra sin tocarla
 
-La obra se corrige sola con un comando, no con memoria: [scripts/build.py](../scripts/build.py) comprueba cuatro reglas —el título, los enlaces, las citas por número, y la forma— y se cae con el archivo y el renglón.
+La obra se corrige sola con un comando, no con memoria: [scripts/__main__.py](../scripts/__main__.py) comprueba cuatro reglas —el título, los enlaces, las citas por número, y la forma— y se cae con el archivo y el renglón.
 
 Y la forma, con su porqué y con lo que el build no comprueba, está en [sostiene/forma.md](sostiene/forma.md). Sin los números en los títulos, insertar un ensayo deja de ser un mantenimiento: es un renombrado, y el build dice si algo quedó citando al que se movió.
 

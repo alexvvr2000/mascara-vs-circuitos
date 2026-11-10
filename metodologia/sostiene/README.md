@@ -23,7 +23,7 @@ corridas/      las vueltas de la rama del ciclo: el ciclo del ente, paso
                por paso, y lo que cada vuelta dejó abierto
 ```
 
-El build vive en `scripts/`: `python scripts/build.py` comprueba las cuatro reglas de [forma.md](forma.md), y `--lista` dice además qué ensayo trae qué.
+El build vive en `scripts/`: `python -m scripts` comprueba las cuatro reglas de [forma.md](forma.md), y `--lista` dice además qué ensayo trae qué.
 
 Y el resto es historia: lo que antes estaba en cuatro archivos, y hoy vive en `metodo.md`, se guardó con su nombre original en [historia](../historia/README.md), del 07 al 10. Se movió y no se borró, porque lo escrito antes de corregirlo es parte de cómo se llegó.
 

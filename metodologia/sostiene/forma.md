@@ -7,7 +7,7 @@ Qué tiene que tener un ensayo para que se pueda leer, citar, partir y engordar 
 
 Alejandro Valenzuela Rivera. Escrito el 2026-11-09.
 
-> Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: las revisa [scripts/build.py](../../scripts/build.py), que dice si un ensayo la cumple.
+> Este archivo no es un ensayo: es la forma a la que se ajustan los ensayos. Y no se ajustan a mano: las revisa [scripts/__main__.py](../../scripts/__main__.py), que dice si un ensayo la cumple.
 >
 > De dónde sale la exigencia: el ciclo es el mapa, y cada paso es su detalle. Un mapa que hay que corregir cada vez que un detalle cambia no es un mapa, es otro detalle que envejece. La forma es lo que deja que cada uno crezca solo.
 
@@ -31,7 +31,7 @@ FORMA    todo ensayo de la obra trae su Falsificador
          su «Y qué se pierde si cambia»
 ```
 
-La cuarta no es un cero o un uno: es una medida. `scripts/build.py --lista` los cuenta y dice cuáles no la cumplen, sin detener el build, para que el cambio se pueda hacer por partes.
+La cuarta no es un cero o un uno: es una medida. `scripts/__main__.py --lista` los cuenta y dice cuáles no la cumplen, sin detener el build, para que el cambio se pueda hacer por partes.
 
 ---
 
@@ -134,8 +134,8 @@ Y la regla que lo hace honesto: el build verde dice que el repositorio se puede 
 
 ```powershell
 # desde la raíz del repositorio
-python scripts/build.py            comprueba las cuatro, y se cae si alguna falla
-python scripts/build.py --lista    lo mismo, y además qué ensayo trae qué
+python scripts/__main__.py            comprueba las cuatro, y se cae si alguna falla
+python scripts/__main__.py --lista    lo mismo, y además qué ensayo trae qué
 ```
 
 Su salida cabe en dos renglones, y es lo único que hace falta para saber si el repositorio está en pie:

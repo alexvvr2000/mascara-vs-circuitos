@@ -5,7 +5,7 @@
 
 **Alejandro Valenzuela Rivera · el ente.** **Del 2026-11-10.**
 
-> **Este archivo no se mantiene a mano: se genera.** **`python scripts/build.py --piso` lo saca del repositorio cada vez que se corre, y la versión de abajo es la que salió hoy.** **Si alguien cambia una carpeta y no lo vuelve a correr, este archivo envejece, y por eso la fuente es el comando y no el texto.**
+> **Este archivo no se mantiene a mano: se genera.** **`python -m scripts --piso` lo saca del repositorio cada vez que se corre, y la versión de abajo es la que salió hoy.** **Si alguien cambia una carpeta y no lo vuelve a correr, este archivo envejece, y por eso la fuente es el comando y no el texto.**
 
 ---
 
@@ -72,8 +72,16 @@
   lo que sigue vivo dentro de historia.md
 
 ## Los scripts, que se corren y no se leen
-  scripts/build.py
+  el �rgano es el paquete scripts/: python -m scripts
+  scripts/__init__.py
+  scripts/__main__.py
+  scripts/comprobar.py
+  scripts/comun.py
+  scripts/constantes.py
+  scripts/legal.py
   scripts/licuadora.py
+  scripts/reglas.py
+  scripts/trabajos.py
 
 ## Lo que enlaza, y lo que no
   315 enlaces, 0 rotos
