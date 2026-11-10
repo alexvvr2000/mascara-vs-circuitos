@@ -156,6 +156,46 @@ Lo que este trabajo agrega, y no es de ninguno de los tres: la medición no se h
 
 ---
 
+# IX bis. Agrupar las tesis de un ensayo: el licuado de ideas
+
+Este apartado va aquí por la misma razón que todos los demás: hay trabajo previo, y no decirlo sería atribuirse un campo que no se inventó.
+
+La idea que se buscaba era sacar de cada ensayo sus tesis —llamadas «candados»—, agruparlas, y quedarse con el que las conecta a todas: el «pegamento». Lo que sigue dice qué había antes, qué se toma, y qué no existe.
+
+| Quién | Qué hace, según su resumen | Qué se toma de ahí |
+|---|---|---|
+| `TextTiling` — Hearst, [ACL Anthology](https://aclanthology.org/J97-1003.pdf), 1997 | parte un texto en subtemas por **patrones de cohesión léxica** | el paso de partir el texto: no es nuevo, y no se presenta como nuevo |
+| `Concept Indexing con Fuzzy C-means` — [APCCAS 2010](https://doi.org/10.1109/apccas.2010.5775058) | agrupa el **contenido** de un ensayo para analizarlo, y se compara contra LSI | que agrupar por concepto y no por palabra tiene veinte años |
+| `Argument Mining` — [Parsing Argumentation Structures, ACL 2017](https://aclanthology.org/J17-3005/) | identifica **afirmaciones y la estructura** del argumento | que «candado» es, en la literatura, `claim`; el nombre es de aquí, la cosa no |
+
+Y la parte legal, que también se dice aquí porque es la que se preguntaba: la [Circular 33](https://www.copyright.gov/circs/circ33.pdf) de la Oficina de Derechos de Autor de Estados Unidos excluye expresamente «any idea, procedure, process, system, method of operation, concept, principle, or discovery». **Un método no se protege.** Lo que se puede sostener como propio es el código, el nombre y el texto; no el procedimiento.
+
+Lo que **no** se encontró en esta búsqueda, y por eso se deja como lo único que este trabajo pone: **medir el «pegamento»**. Es decir, calcular cuál de las afirmaciones de un ensayo tiene la menor distancia media a todas las demás, y usar ese número como el indicador de si el ensayo tiene una tesis o sólo tiene frases. Las fuentes de arriba parten el texto y agrupan, pero ninguna reporta esa medida.
+
+Y el límite, que es el de toda esta página: **ninguna de estas tres fuentes se abrió entera** al escribir este apartado. De `TextTiling` y de `Concept Indexing` se leyó el resumen; de la Circular 33, el renglón citado. Quien lo cite en contra tiene razón hasta que se abran las páginas.
+
+### Y lo que la corrida de prueba dijo, que no es lo que se esperaba
+
+Se corrió sobre `la frontera y el descarte`: 34 candados, vectorizados por palabra con su peso, y agrupados por similitud.
+
+```plaintext
+con k=3   los grupos salieron [31, 2, 1]
+```
+
+Un grupo de 31 y dos sueltos. **Eso no es un hallazgo sobre el ensayo: es un defecto del método.** El texto es homogéneo —mismo autor, mismo vocabulario— y por palabras casi todas las frases se parecen; el agrupamiento encuentra la manera de escribir, no las ideas.
+
+Lo que sí salió, y sirve:
+
+```plaintext
+el «pegamento» por distancia media salió con 0.900, y los más raros con 0.98
+los más raros no eran candados: eran renglones del proceso («Se corre:»,
+«Entra:», «Y las restricciones…»)
+```
+
+O sea: **el filtro de lo que es un candado es lo primero que hay que arreglar**, y el pegamento no se puede calcular mientras el saco traiga renglones de proceso mezclados con afirmaciones.
+
+---
+
 # X. Metodología de la ciencia: el falsificador, y su límite
 
 | Quién | Qué dice | ¿Se usa aquí? |
